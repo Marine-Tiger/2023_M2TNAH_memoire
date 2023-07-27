@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1976</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-19_1_0_4_2_3_201_1976"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-19_1_0_4_2_3_201_1976"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-04-19_1_0_4_2_3_201_1976</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1416569754" value="2014-11-21"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1976</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-04-19" to="1172-04-19">1172 April 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(X<hi rend="sup">o</hi> III<hi rend="sup">o</hi>  kal. maii, Wirzburc)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von UB , der vermutlich Signumzeile und Monogramm vor der Niederschrift des übrigen Eschatokolls einsetzte</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann von Magdeburg, Elekt Reinhard von Würzburg, Markgraf Berthold von Vohburg, Burggraf Boppo von Würzburg, Konrad von Boxberg, Konrad von Weikersheim, Diemo von Gundelfingen und sein Bruder Gottfried, Rupert von Walldürn, Wolfram von Bebenburg, Kraft von Lobenhausen, Vogt Arnold von Rothenburg und seine Söhne Arnold, Walter und Konrad, Mundschenk Konrad und sein Bruder Ludwig, Siegfried von Schmiedelfeld, Hermann von Kocherstein und Bodo von Würzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von seinem Vetter Herzog Friedrich von Rothenburg gegründete und von diesem nach Erbrecht an ihn gekommene <hi rend="spaced">Prämonstratenserinnenstift Schäftersheim</hi>, das in geistlicher Hinsicht dem Abt (von Oberzell) unterstellt ist, unter Bestätigung der Gründungsausstattung mit den Gütern Schäftersheim, Hohenlohe, Buchheim, Ebertsbronn und Gaubüttelbrunn samt den dazugehörigen Hintersassen und den künftigen Erwerbungen in seinen Schutz, behält die Vogtei demjenigen seiner Erben vor, der über die Burg Rothenburg samt den dazugehörigen Gütern verfügt, und erlaubt seinen Ministerialen, sich dem Stift zu unterstellen und ihm Güter zu übertragen. <span n="witnesses">Z.: Erzbischof Wichmann von Magdeburg, Elekt Reinhard von Würzburg, Markgraf Berthold von Vohburg, Burggraf Boppo von Würzburg, Konrad von Boxberg, Konrad von Weikersheim, Diemo von Gundelfingen und sein Bruder Gottfried, Rupert von Walldürn, Wolfram von Bebenburg, Kraft von Lobenhausen, Vogt Arnold von Rothenburg und seine Söhne Arnold, Walter und Konrad, Mundschenk Konrad und sein Bruder Ludwig, Siegfried von Schmiedelfeld, Hermann von Kocherstein und Bodo von Würzburg</span>. — <span n="clerk">Verfaßt und geschrieben von UB , der vermutlich Signumzeile und Monogramm vor der Niederschrift des übrigen Eschatokolls einsetzte</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Si ęcclesiarum sanctarum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ęcclesiarum sanctarum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fürstlich Hohenlohisches Hausarchiv zu Öhringen (A). Drucke: Wirtemberg.UB. 2, 168 n<hi rend="sup">o</hi>  398; MG.DF.I.588. Regg.: Weller, Hohenlohisches UB. 1, 7 n<hi rend="sup">o</hi>  12; Stumpf 4132.</p></div>
+				
+				
+					<div type="commentary"><p>Das Fehlen der Rekognitionszeile hängt wohl mit der damaligen Vakanz des Kanzleramtes (Kanzler Heinrich war — wohl am 27. März 1172 — verstorben) zusammen, vgl.die Vorbemerkung zum D. — Zum Stift vgl. Ulshöfer, Geschichte des Klosters Schäftersheim (Diss. Tübingen 1962).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0076" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_588" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=618" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

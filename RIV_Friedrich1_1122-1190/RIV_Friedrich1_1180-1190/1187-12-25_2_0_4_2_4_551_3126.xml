@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3126</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-25_2_0_4_2_4_551_3126"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-25_2_0_4_2_4_551_3126"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-12-25_2_0_4_2_4_551_3126</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3126</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-12-25" to="1187-12-25">1187
+									Dezember (vor Dezember 25)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>zwischen Yvois und Mouzon</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Herrschertreffen</hi>: Friedrich 								trifft mit König (Philipp August) von Frankreich zusammen, an den er 								zuvor bereits Legaten entsandt hat, um ihn zur Teilnahme am Kreuzzug 								zu bewegen (siehe oben Reg. 3116). Er sagt ihm jegliche 								Unterstützung für einen gemeinsamen Antritt des Kreuzzugs zu. Der 								König stimmt aber trotz des Drängens des Kaisers nicht zu, da er 								wegen des Krieges mit König (Heinrich II.) von England sein Land 								nicht zu verlassen wagt. Zu den Teilnehmern an den Gesprächen zählen 								auch Kardinallegat Heinrich von Albano und Erzbischof (Joscius) von 								Tyrus. Der gemäß kaiserlichem Befehl (siehe Reg. 3125) hier 								erschienene, vom französischen König gleichfalls eingeladene Graf 								Balduin (V.) von Hennegau nimmt als angesehener Ratgeber des Kaisers 								an den Besprechungen teil. Die Versuche Graf Heinrichs von der 								Champagne, beim Kaiser durch Fürsprache seiner Verwandten, 								Erzbischof Wilhelms von Reims, Graf Theobalds (von Blois) und des 								Herzogs von Burgund (Hugo von Dijon), Zustimmung für seine Ansprüche 								auf das Erbe des Grafen von Namur-Luxemburg zu erlangen, scheitern, 								da auch der französische König sich auf die Seite des Hennegauer 								Grafen stellt. Allerdings lehnt der Kaiser das Ersuchen des 								Hennegauers nach einer Erneuerung des entsprechenden Abkommens 								(siehe dazu oben Reg. 2764) mit dem Hinweis darauf ab, dass er das 								nur in Gegenwart seines Sohnes, König Heinrichs (VI.), tun wolle. 								Der Graf möge nach der bevorstehenden Rückkehr des Königs aus 								Italien bei Hofe erscheinen, und er (der Kaiser) sagt zu, sich bei 								seinem Sohn für die Ansprüche des Grafen zu verwenden. In den 								Gesprächen erreicht Friedrich bei König Philipp von Frankreich die 								Zusage, dem von ihm nicht anerkannten Erzbischof Folmar von Trier 								keine Zuflucht in Frankreich zu gewähren. Der französische König 								verwendet sich beim Kaiser auch für die Freilassung eines 								Zisterziensermönches, der als Bote Erzbischof Folmars von Trier von 								den Kaiserlichen gefangen genommen worden war. Friedrich stimmt dem 								unter der Bedingung zu, dass aus dem Königreich Frankreich niemand 								(mehr) Schreiben Folmars überbringen möge.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 59 f. = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 178 (zu 1188); Gislebert von Mons, 								ed. Vanderkindere, 201 ff. (zu den hennegauischen Angelegenheiten); 								Ann. Mosomagenses, MG. SS III, 163 (<hi rend="italic">mense Decembri 									Mosomi sollempne colloquium habuerunt</hi>); Chron. Albrici 								monachi Trium Fontium, MG. SS XXIII, 861 (Teilnahme des 								Kardinallegaten Heinrich von Albano und Erzbischof Joscius’ von 								Tyrus; <hi rend="italic">apud Yvodium</hi>); Gestorum Treverorum 								Cont. III., MG. SS XXIV, 385 (ohne Datum und Ortsangabe; zu den 								Trierer Angelegenheiten) und 387 (mit Ortsangabe: <hi rend="italic">in extremis finibus regnorum suorum, inter Yvodium videlicet et 									Mosomum</hi>); E Radulfi Nigri Chron. universali, MG. SS XXVII, 								336.</p></div>
+				
+				
+					<div type="commentary"><p>Zu diesem Treffen und den dabei anwesenden 								Persönlichkeiten siehe auch Reg. 3127 sowie die Erläuterungen bei 								Cartellieri, Philipp II. August, Bd. I, 263 ff., Kienast, 								Deutschland und Frankreich I, 237 f., Hiestand, ”precipua tocius 								christianismi columpna”, in: Friedrich Barbarossa (VuF 40, 1992) 59 								(Joscius, nicht: Wilhelm II. von Tyrus; vielleicht auch der 								antiochenische Kanzler Albert von Tarsus). – Der Hennegauer erlangte 								im Mai 1188 zu Seligenstadt sodann die gemeinsame Bestätigung des 								Kaisers und des Königs hinsichtlich seiner Rechte auf das Erbe 								Namur-Luxemburg, siehe dazu unten Reg. 3158. – Die zeitliche 								Einreihung der Nachricht über das Eintreten Philipps von Frankreich 								zu Gunsten des Zisterziensermönches (in der Trierer Überlieferung) 								ist nur vermutungsweise möglich.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

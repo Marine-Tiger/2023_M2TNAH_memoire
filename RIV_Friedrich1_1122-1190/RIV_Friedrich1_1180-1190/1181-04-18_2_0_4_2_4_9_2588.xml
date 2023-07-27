@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2588</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-04-18_2_0_4_2_4_9_2588"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-04-18_2_0_4_2_4_9_2588"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-04-18_2_0_4_2_4_9_2588</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426842900" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2588</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-04-18" to="1181-04-18">(1181)
+									April 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Konstanz (<hi rend="italic">XIIII</hi><hi rend="sup">o</hi><hi rend="italic"> kalendas maii, Constancie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst unter Heranziehung der 									Schöffenordnung Bischof Bertrams von Metz (Gallia Christiana 										13<hi rend="sup">b</hi>, 407 n<hi rend="sup">o</hi> 40; 									VU.); das Diktat ist nicht näher bestimmbar, doch ist eine 									Beteiligung der Kanzlei, und</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet dem Klerus und dem Volk von <hi rend="spaced">Metz</hi>, dass er auf Bitten Bischof Bertrams 								von Metz die von diesem mit Zustimmung des Klerus und des Volkes von 								Metz erlassene Schöffenordnung (<hi rend="italic">de magisterio 									scabinatus</hi>), die im Gegensatz zu den bisherigen 								Verhältnissen einen jährlichen Wechsel im Schöffenamt vorsieht, 								bestätigt. – <span n="clerk"> Verfasst unter Heranziehung der 									Schöffenordnung Bischof Bertrams von Metz (Gallia Christiana 										13<hi rend="sup">b</hi>, 407 n<hi rend="sup">o</hi> 40; 									VU.); das Diktat ist nicht näher bestimmbar, doch ist eine 									Beteiligung der Kanzlei, und zwar des Notars GG, nicht gänzlich 									auszuschließen.</span> 								<span n="incipit"> 									<hi rend="italic">Ea, que a fidelibus.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ea, que a fidelibus.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 15. Jh. im Chartular des 								Klosters Gorze f. 23, Grand Séminaire de Nancy (B); Abschrift des 								16. Jh., Nationalarchiv Paris, Cinq Cents de Colbert 440 f. 65 (D); 								beglaubigte Kopie von 1625 ebenda J 979 n<hi rend="sup">o</hi> 									15<hi rend="sup">1</hi> (f.2) (E). Druck: MG.DF.I.805, 								vgl. Nachträge und Berichtigungen, a.a.O., 777. Reg.: Stumpf 								4315.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus der 14. 								Indiktion und dem kaiserlichen Itinerar.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_805" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

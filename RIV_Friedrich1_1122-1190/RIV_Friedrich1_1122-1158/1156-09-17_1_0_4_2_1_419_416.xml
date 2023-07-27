@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 416</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-09-17_1_0_4_2_1_419_416"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-09-17_1_0_4_2_1_419_416"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-09-17_1_0_4_2_1_419_416</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239164" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 416</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-09-17" to="1156-09-17">1156 September 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. octobris, Ratisbone)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hedwig</hi>  <hi rend="spaced">Essen</hi>  <hi rend="spaced">Burkhard</hi>  <hi rend="spaced">Wied</hi>  <hi rend="spaced">Schwarzrheindorf</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reginaldus canc. vice Arnoldi Moguntini archiep. et archicapellani</hi></notarius>
+				
+				
+					<scribe>vom Kanzleistil beeinflußt, von einem wohl von Empfängerseite bereitgestellten Gelegenheitsschreiber mundiert;</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt wegen der hervoragenden Verdienste des Erzbischofs Arnold von Köln seligen Angedenkens dessen Schwester, Äbtissin <span sameAs="recipient"><hi rend="spaced">Hedwig</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Essen</hi> </span>  (<hi rend="italic">Hadewigam Asnidensis monasterii abbatissam</hi>), und dessen Bruder, <span sameAs="recipient"><hi rend="spaced">Burkhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Wied</hi> </span>, sowie die Stiftskirche zu <span sameAs="recipient"><hi rend="spaced">Schwarzrheindorf</hi> </span>  (<hi rend="italic">ecclesiam in Rindorf</hi>), wo der genannte Erzbischof begraben ist, mit all ihren namentlich angeführten Besitzungen, die sie aus Schenkungen Erzbischof Arnolds und Hedwigs erhalten hat oder künftig erhalten wird, in seinen Schutz. - <span n="chancellor"><hi rend="italic">Reginaldus canc. vice Arnoldi Moguntini archiep. et archicapellani</hi> </span>; <span n="clerk">vom Kanzleistil beeinflußt, von einem wohl von Empfängerseite bereitgestellten Gelegenheitsschreiber mundiert;</span> <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Summę clementię et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Summę clementię et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Lacomblet, Niederrhein. UB. 1, 269 n<hi rend="sup">o</hi>  389; MG. DF. I. 150. <hi rend="spaced">Teilfaks</hi>.: Heilig, Ostrom und das Reich (Tafel I). Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  106; Erhard, Reg. Westfal. 2, 38 n<hi rend="sup">o</hi>  1847; Stumpf 3752.</p></div>
+				
+				
+					<div type="commentary"><p>Die Verwendung des kanzleiwidrigen Titels <hi rend="italic">archicapellanus</hi>  in der Rekognition spricht u. a. für die Tätigkeit eines Gelegenheitsschreibers. Die manchmal festzustellende Nachahmung graphischer Eigentümlichkeiten des am selben Tag ausgestellten Privilegium minus durch den Mundator unseres D. führte Heilig, Ostrom und das Reich 20 f. zu der nicht zutreffenden Annahme einer Identität der beiden Schreiber.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0138" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%229935%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_150" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

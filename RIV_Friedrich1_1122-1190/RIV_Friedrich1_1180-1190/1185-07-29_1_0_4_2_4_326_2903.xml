@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2903</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-29_1_0_4_2_4_326_2903"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-29_1_0_4_2_4_326_2903"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-07-29_1_0_4_2_4_326_2903</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845356" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2903</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-07-29" to="1185-07-29">1185
+									Juli 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Burg San Miniato (<hi rend="italic">IIII kal. augusti, in castro sancti Miniatis</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>wohl von GG verfasst und geschrieben.</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Wilhelm von Asti, 									Hildebrand von Volterra und Bonifaz von Novara, Propst Friedrich 									von (St. Thomas in) Straßburg, die Grafen Diepold von 									Lechsgemünd und Simon von Sponheim, Kämmerer Rudolf, Ezelin von 									Onara (<hi rend="italic">Hunare</hi>), die (Hof-)Richter Otto 									Nouellus von Piacenza und Oddobellus von Mailand</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des <hi rend="spaced">Bischofs Peter von Luni</hi> dessen Bistum in seinen Schutz und 								bestätigt ihm die namentlich angeführten Besitzungen, unter anderem 								Sarzana und das bereits von seinen Vorgängern Karl (III.), Otto 								(I.), Berengar, Ludwig (welcher?), König und Kaiser Konrad (II.) 								bestätigte Brugnato, unter Vorbehalt der kaiserlichen Gerechtsame. 									<span n="witnesses">Z.: die Bischöfe Wilhelm von Asti, 									Hildebrand von Volterra und Bonifaz von Novara, Propst Friedrich 									von (St. Thomas in) Straßburg, die Grafen Diepold von 									Lechsgemünd und Simon von Sponheim, Kämmerer Rudolf, Ezelin von 									Onara (<hi rend="italic">Hunare</hi>), die (Hof-)Richter Otto 									Nouellus von Piacenza und Oddobellus von Mailand</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalie archicanc.</hi></span>;<span n="clerk"> wohl von GG verfasst und geschrieben.</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige notarielle Abschrift im 								Archivio comunale zu Sarzana n<hi rend="sup">o</hi> 8 (B); 								Abschrift des 13. Jh. im Liber jurium ecclesiae Lunensis (Cod. 								Pallavicinus) f. 59‘, Archiv des Domkapitels zu Sarzana 								(C). Drucke: Pistarino, Il Registrum vetus del comune di 								Sarzana, 55 n<hi rend="sup">o</hi> 21; MG.DF.I.911. Reg.: 								Scheffer-Boichorst, Streit mit der Kurie, 231 n<hi rend="sup">o</hi> 45; Stumpf 4428.</p></div>
+				
+				
+					<div type="commentary"><p>Von den erwähnten älteren Kaiserurkunden 								betreffend des Besitzes von Brugnato ist nur DK.II.81 erhalten. – 								Petrus von Luni war als päpstlicher Legat bereits zwei Jahre zuvor 								mit dem Kaiser in direktem Kontakt gewesen, hatte dabei sogar ein 								kaiserliches Privileg erhalten, vgl. Regg. 2719, 2721 und 2722; er 								hatte damals längere Zeit in Deutschland zugebracht, vgl. auch Reg. 								2745. – Das hier ebenfalls unter den Besitzungen angeführte Sarzana 								hatte mit D.405 (Reg. 1254) die Reichsfreiheit erlangt und war als 								zur <hi rend="italic">camera imperii</hi> zugehörig erklärt worden, 								vgl. zu dessen Rechtsstellung Opll, Stadt und Reich, 403 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_911" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

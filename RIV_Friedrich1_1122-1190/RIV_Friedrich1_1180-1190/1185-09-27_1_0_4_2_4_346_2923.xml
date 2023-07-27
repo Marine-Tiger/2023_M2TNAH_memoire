@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2923</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-27_1_0_4_2_4_346_2923"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-27_1_0_4_2_4_346_2923"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-09-27_1_0_4_2_4_346_2923</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845520" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2923</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-09-27" to="1185-09-27">1185
+									September 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Coccorano (heute: Montefalco)  (<hi rend="italic">V kal. octobris, apud Cukurionum</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst von 									GG</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Wilhelm von 									Asti und Bonifaz von Novara, Propst Friedrich von (St. Thomas 									in) Straßburg, Herzog Konrad von Spoleto, Konrad von (Bad) 									Schussenried (<hi rend="italic">Scuscinachi</hi>), Bovo von <hi rend="italic">sancto Angelo</hi> (S. Angelo delle Cortesse 									oder S. Angelo in Valle), Graf Rainald Monaldi (Graf von 									Foligno), Ugolinus <hi rend="italic">Vgolini</hi>, Wido von 									Sannazzaro de’ Burgondi und sein Bruder Rainer, Werner von 									Bolanden, Truchsess Heinrich, Marschall Heinrich von 									(Kaisers-)Lautern, Kämmerer Rudolf und Mundschenk Konrad (von 									Oberschüpf)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Bürger der <hi rend="spaced">Stadt Spoleto</hi> auf Bitten Herzog Konrads von Spoleto wieder 								in seine Gnade auf. <span n="witnesses">Z.: die Bischöfe Wilhelm von 									Asti und Bonifaz von Novara, Propst Friedrich von (St. Thomas 									in) Straßburg, Herzog Konrad von Spoleto, Konrad von (Bad) 									Schussenried (<hi rend="italic">Scuscinachi</hi>), Bovo von <hi rend="italic">sancto Angelo</hi> (S. Angelo delle Cortesse 									oder S. Angelo in Valle), Graf Rainald Monaldi (Graf von 									Foligno), Ugolinus <hi rend="italic">Vgolini</hi>, Wido von 									Sannazzaro de’ Burgondi und sein Bruder Rainer, Werner von 									Bolanden, Truchsess Heinrich, Marschall Heinrich von 									(Kaisers-)Lautern, Kämmerer Rudolf und Mundschenk Konrad (von 									Oberschüpf)</span>. –<span n="clerk"> Verfasst von 									GG</span>. <span n="incipit"><hi rend="italic">Serenitas et 										clementia.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Serenitas et 										clementia.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Jac. Phil. Leoncilli Historia Spoletina 								(Mitte des 17. Jh.), Ms. 149 f. 147’, Biblioteca comunale zu Spoleto 								(E); andere Exemplare: Cod. Vat. Barb. 2712 (XXXIV 29) f. 88’ (E<hi rend="sup">1</hi>) und Ms. C VI 2 p. 325, Biblioteca del 								Seminario zu Foligno (E<hi rend="sup">2</hi>); Abschrift des 19. 								Jh. von Mons. Bucchi, Bolle, Brevi pontifici e Lettere et Istrumenti 								relativi ai monasteri … nonche al capitolo metropolitano di Spoleto 								p. 71 aus der Historia Spoletina des Leoncillo, bearb. von Seraphino 								de Seraphinis (1656), Biblioteca Dominicini zu Perugia 								(F). Drucke: Sansi, Storia di Spoleto 2, 205 n<hi rend="sup">o</hi> 5; MG.DF.I.920. Regg.: Dolch – Münch, UB. der Stadt 								Kaiserslautern 1, 61 n<hi rend="sup">o</hi> 50; Stumpf 4436.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Zerstörung von Spoleto im Jahre 1155 siehe 								oben Reg. 337; zum D. vgl. Opll, Stadt und Reich, 438. – Zur Frage 								der angeblichen Schenkung der im Dom zu Spoleto verehrten Ikone und 								mehrerer Reliquien durch den Kaiser anlässlich der Aussöhnung mit 								der Stadt vgl. neben Opll, Amator ecclesiarum, MIÖG 88 (1980) 79, 								und Bonfioli – Ermini, Premesse ad un riesame critico, in: Atti del 								IX Congresso Int. di Studi sull’Alto Medioevo 1982 (Spoleto 1983) 								829 mit Anm. 35, sowie Bonfioli, La reliquia della Croce del Duomo 								di Spoleto, Spoletium 34–35, anni 31–32 (dicembre 1990) 59, auch 								Ganz, Hof und Kultur, in: Friedrich Barbarossa (VuF 40, 1992) 647 								mit Anm. 204.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_920" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3077</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-05-21_1_0_4_2_4_501_3077"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-05-21_1_0_4_2_4_501_3077"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-05-21_1_0_4_2_4_501_3077</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3077</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-05-21" to="1187-05-21">1187
+									Mai 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>San Esteban de Gormaz</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Ein Bote Kaiser (Friedrichs) weilt am Hofe König 								Alfons’ (VIII.) von Kastilien und verhandelt über eine Heirat 								zwischen dem Sohn des Kaisers (Herzog Konrad von Rothenburg) und der 								Tochter (Berengaria) des kastilischen Königs (Alfons’ VIII.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Die Anwesenheit des kaiserlichen Boten und 								dessen Auftrag werden in der Datierung einer anlässlich eines 								Hoftages am 21. Mai 1187 zu San Esteban zu Gormaz ausgestellten 								Urkunde König Alfons’ VIII. von Kastilien und seiner Gemahlin 								Eleonore erwähnt, ed. Hernández, Los cartularios de Toledo 								(Monumenta ecclesiae Toletanae historica Series I: Regesta et 								inventaria historica 1, 1985) 203 n<hi rend="sup">o</hi> 218.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser in der älteren Literatur unbekannten 								Nachricht vgl. Opll, Friedrich Barbarossa, 296 mit Anm. 67, Meyer, 								Dynastische Verbindungen, in: España y el „Sacro Imperio“, hg. von 								Julio Valdeón, Klaus Herbers und Karl Rudolf (Historia y sociedad, 								97, 2002) 74 f., sowie Weller, Heiratspolitik, 143. – Da Konrad von 								Rothenburg im Herbst des Vorjahres gemeinsam mit seinem Bruder Otto 								bei seinem Vater in der Zisterze Eußerthal weilte (Reg. 3025), 								werden Überlegungen in Richtung einer Eheverbindung zwischen einem 								Kaisersohn und der kastilischen Königsfamilie wohl schon damals 								aufgenommen worden sein. – Der Ehepakt wurde sodann am 23. April 								1188 in Seligenstadt ausgefertigt, vgl. dazu unten Reg. 3155. In 								diesem Ehevertrag wird im Übrigen auch San Esteban de Gormaz unter 								den Städten angeführt, die sich zur Einhaltung der zwischen dem 								staufischen und dem kastilischen Hof festgelegten Vereinbarungen 								verpflichteten.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

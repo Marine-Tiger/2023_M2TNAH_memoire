@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2653</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-04-00_1_0_4_2_4_74_2653"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-04-00_1_0_4_2_4_74_2653"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-04-00_1_0_4_2_4_74_2653</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2653</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-04-01" to="1182-04-30">1182
+									(etwa April)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>König Heinrich (II.) von England sendet Boten an 								Kaiser Friedrich, darunter Wilhelm von Aumâle, Graf (von Essex), und 								setzt sich zu Gunsten des ins Exil verbannten Heinrichs (des Löwen) 								ein; dieser hatte sich verpflichten müssen, innerhalb von sieben 								Jahren nicht ohne Erlaubnis des Kaisers (ins Reichsgebiet) 								zurückzukehren (siehe dazu oben Reg. 2633). Auf Heinrichs Bitten hin 								hatten sich auch König Philipp (II. August von Frankreich) und Graf 								Philipp von Flandern für ihn beim Kaiser verwendet.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ex gestis Henrici II. et Ricardi I., MG. SS 								XXVII, 103; Ex Rogeri de Hoveden Chronica, MG. SS XXVII, 147.</p></div>
+				
+				
+					<div type="commentary"><p>Unmittelbar vorher findet sich in den Gesta 								Henrici II. et Ricardi I. eine Nachricht zum 28. März (Osterfest) 								1182, und danach richtet sich die zeitliche Einreihung; wenn es in 								der angeführten Quelle allerdings heißt, der Kaiser habe dem Welfen 								in der Folge mehrere Jahre des siebenjährigen Exils erlassen, so 								handelt es sich dabei um eine Fabel; sein Exil trat der Löwe am 25. 								Juli 1182 an, vgl. dazu Giesebrecht, Kaiserzeit V, 945, und 								Giesebrecht – Simson, Kaiserzeit VI, 580 sowie oben Reg. 2633. – 								Noch im Frühjahr 1184 fand der Welfe beim Kaiser keine Gnade, siehe 								dazu unten Reg. 2762; erst im Herbst dieses Jahres sollte sich das 								Verhältnis wieder etwas bessern, unten Regg. 2781, 2783, 2794 und 								2801; noch 1188 kam es aber zu keiner wirklichen Aussöhnung, vgl. 								dazu Regg. 3145 und 3177.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

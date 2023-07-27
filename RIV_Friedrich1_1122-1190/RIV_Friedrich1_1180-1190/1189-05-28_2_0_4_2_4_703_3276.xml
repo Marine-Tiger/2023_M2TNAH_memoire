@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3276</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_2_0_4_2_4_703_3276"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_2_0_4_2_4_703_3276"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-28_2_0_4_2_4_703_3276</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3276</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-28" to="1189-05-28">1189
+									Mai 28 (Pfingsten)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei oder in Pressburg</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erlässt mit Rat der Fürsten ein <hi rend="spaced">Gesetz</hi> über die <hi rend="spaced">Aufrechterhaltung des Friedens im Lager</hi>, zu dessen 								Einhaltung das (Kreuz)heer durch Eid verpflichtet wird und zu dessen 								Ausführung er für die einzelnen Zeltgenossenschaften Richter 								einsetzt (Hist. de expeditione: <hi rend="italic">… per singulorum 									contubernia iudicibus designatis, qui transgressores legitime 									punirent</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; bekannt aus mehreren 								historiographischen Quellen: Hist. de expeditione Friderici 								(Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 24 (deutsche 								Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 								81) (<hi rend="italic">iuxta Bosonium urbem</hi>); Chron. reg. Col., 								ed. Waitz, MG. SS rer. Germ. in us. schol., 144 (<hi rend="italic">in civitatem, que dicitur Brisburg</hi>); Hist. peregrinorum, 								ed. Chroust, MG. SS rer. Germ. N.S. 5, 130 (zu Pressburg); Arnoldi 								Chron. Slavorum l. IV cap. 8, MG. SS XXI, 171 (unter irriger 								Verlegung des Vorgangs zum Aufenthalt des Kaisers in 								Gran). MG.DF.I.*1007.</p></div>
+				
+				
+					<div type="commentary"><p>Derartige Lagergesetze hatte Friedrich bereits 								1155 (D.*1092 = Reg. 276) und 1158 (D.222 = Reg. 564) erlassen. 								Möglicherweise folgte man 1189 inhaltlich diesen früheren Gesetzen. 								– Die Ortsangabe könnte auf einen Aufenthalt in der Burg von 								Pressburg deuten. – Vgl. dazu Hiestand, ”precipua tocius 								christianismi columpna”, in: Friedrich Barbarossa (VuF 40, 1992) 82 								mit Anm. 199 (zu Wien), dagegen 83 mit Anm. 212: „an der 								Reichsgrenze”.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3385</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-07-30_1_0_4_2_4_815_3385"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-07-30_1_0_4_2_4_815_3385"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-07-30_1_0_4_2_4_815_3385</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3385</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-07-30" to="1189-07-30">1189
+									Juli 27–29/30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Niš</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wird von Großžupan Stephan Nemanja von 								Serbien und dessen Bruder (Graf) Sračimir ebenso prunkvoll wie auch 								höchst ehrenvoll empfangen. Er wie auch die Fürsten erhalten Wein 								und Lebensmittel als Geschenke. Stephan Nemanja, der schon zuvor den 								Byzantinern die Stadt Niš und das umliegende Gebiet abgetrotzt hat, 								bietet dem Kaiser an, sein Land von ihm zu Lehen zu nehmen, was 								dieser jedoch unter Hinweis auf seine ausschließlich auf den 								Kreuzzug gerichteten Pläne ablehnt. Mit Zustimmung des Kaisers und 								auf Rat der Fürsten wird die Hochzeit zwischen der Tochter des 								Herzogs Berthold von Dalmatien, Kroatien und Meranien und <hi rend="italic">Tohu</hi> (Timislav?), dem Sohn des Grafen <hi rend="italic">Merzilaus</hi> (Miroslaw) von Zachlumien und 								Raszien, des Bruders des Großžupans, vereinbart. Herzog Berthold 								beschwört, seine Tochter am nächsten Georgsfest (1190 April 23) im 								Gebiet von Istrien an <hi rend="italic">Tohu</hi> zu übergeben. Die 								serbischen Grafen verpflichten sich eidlich, den Nachkommen aus 								dieser Ehe hinsichtlich der Nachfolge des Großžupans ein Vorrecht 								vor dessen Brüdern einzuräumen. Petrus Asên, genannt Kalopetrus, 								Fürst der Walachen, der gemeinsam mit seinem Bruder <hi rend="italic">Assanius</hi> (Hassan) den Byzantinern einen 								Großteil Bulgariens bis hin zur Donaumündung ins Meer entrissen hat, 								lässt den Kaiser durch Schreiben und Boten begrüßen und bietet ihm 								Unterstützung gegen die Feinde an. Friedrich empfängt die 								Gesandtschaft des oströmischen Kaisers Isaak II. Angelos unter 								Leitung des Alexios, des Vetters Isaaks. Die Gesandten sichern den 								Deutschen Geleit und Verpflegung zu, falls sie Frieden halten, 								betonen, dass der Statthalter von Braničevo nicht im Sinne des 								Basileus gehandelt habe, als er die Kreuzfahrer nicht friedlich 								geleitet habe, und teilen mit, dass bei Straliz (Sofia) gegen die 								abtrünnigen Serben ein griechisches Heer unter dem Befehl des 								kaiserlichen Vetters Alexios stehe. Friedrich lässt die Knechte und 								Knappen des Kreuzheeres, die sich beim Einholen von Futter 								Übergriffe und Diebstähle haben zuschulden kommen lassen, durch eine 								Predigt des Bischofs (Gottfried) von Würzburg ermahnen (in der Hist. 								peregrinorum, a.a.O., 138 wird dies in die Zeit des Aufenthalts bei 								Sofia verlegt). Für den Weitermarsch ordnet Friedrich die 								Kreuzritter in vier Heeresgruppen: Das erste Treffen, die Vorhut 								(Hist. de expeditione: <hi rend="italic">primam aciem</hi>), 								unterstellt er seinem Sohn, Herzog Friedrich von Schwaben, bei dem 								sich auch die Truppen Bischof Konrads von Regensburg, der Markgrafen 								Berthold von Vohburg und Hermanns von Baden sowie weiterer fünf 								Grafen aus Schwaben und vier Grafen aus Bayern befinden und Graf 								Berthold von Neuenburg das Banner trägt. – Das zweite Treffen 								besteht aus böhmischen und ungarischen Truppen, und jede der beiden 								Volksgruppen hat ihren eigenen Bannerträger. – Das dritte Treffen 								umfasst die Truppen des Herzogs Berthold von Dalmatien und der 								Bischöfe Gottfried von Würzburg, zugleich Herzogs von Ostfranken, 								Rudolf von Lüttich, Dietpold von Passau, Hermann von Münster (dessen 								Truppen kamen wohl erst später hinzu, siehe dazu unten Regg. 3403 								und 3406), Heinrich von Basel und Arnold von Osnabrück, und das 								Banner trägt Herzog Berthold selbst; der Würzburger Bischof hat mit 								Graf Poppo von Henneberg einen eigenen Bannerträger. – Das vierte 								Treffen untersteht dem Kaiser selbst, und es umfasst die Truppen des 								Erzbischofs (Aimo) von Tarentaise, des Bischofs (Martin) von Meißen, 								des Grafen (Florens) von Holland und seines Bruders (des Grafen Otto 								von Bentheim, siehe zu ihm oben Regg. 3274 und 3367) sowie weiterer 								16 Grafen, und als Bannerträger wird Graf Rupert von Nassau gewählt, 								der damals allerdings mit anderen Boten des Kaisers in 								Konstantinopel weilt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Dietpoldi epistola (Chron. Magni presbiteri), 								MG. SS XVII, 509 (Eintreffen in Niš bereits zu Juli 23); Hist. de 								expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 								5, 29 ff. (deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 86 ff.) (vier Tage Rast des Kreuzheeres); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 134 f. (sechs 								Tage Aufenthalt); Tageno, ed. Struve, Rerum Germanicarum Scriptores 								I (1717) 407 (Eintreffen in Niš wohl irrig – siehe Reg. 3383 – zu 								Juli 23); Arnoldi Chron. Slavorum l. IV cap. 8, MG. SS XXI, 172 								(berichtet irrig, ohne Ortsnennung und auch zeitlich an falscher 								Stelle von der Belehnung Stephans durch den Kaiser); Chron. reg. 								Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 145; Alberti 								Milioli Cron. imp., MG. SS XXXI, 647; Salimbene de Adamo von Parma, 								Chronica, MG. SS XXXII, 9; vgl. Dölger – Wirth, Reg. d. 								Kaiserurkunden d. oström. Reiches 2, n<hi rend="sup">o</hi> 1594 								(zu ca. Juli Mitte; die Datierung orientiert sich an der Entsendung 								der byzantinischen Gesandten, nicht deren Treffen mit dem Staufer).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Giesebrecht – Simson, Kaiserzeit VI, 223 f. 								und 695 (weist darauf hin, dass Tohu nach der serbischen 								Überlieferung der Sohn des Großžupans und nicht dessen Neffe war), 								Eickhoff, Barbarossa im Orient, 64 ff. (Eintreffen in Niš irrig zu 								Juli 23/24), und Opll, Niš, MIÖG 97 (1989) 435 ff. – Bei Bühler, 								a.a.O., 25 ist von den Bulgarenfürsten Theodor-Petros und Asen die 								Rede. – Zur byzantinischen Gesandtschaft vgl. Zimmert, Der 								deutsch-byzantinische Konflikt, Byzantin. Zs. 12 (1903) 48 f. 								(zeigt, dass das bei Sofia stehende byzantinische Heer nicht von 								Alexios, sondern vom Neffen des Basileus, dem Protostrator Manuel 								Kamyzes, und dem Domestikos des Okzidents, Gidos Alexios, befehligt 								wurde), und neuerdings Kresten, Rekonstruktion der Protokolle, in: 								ΠΟΛΥΠΛΕΥΡΟΣ ΝΟΥΣ. Miscellanea für Peter Schreiner zu seinem 60. 								Geburtstag, hg. von Scholz und Makris (Leipzig 2000) 138 f. Anm. 63 								sowie 141 f. Anm. 76 (irrig mit Eickhoffs Datierung).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

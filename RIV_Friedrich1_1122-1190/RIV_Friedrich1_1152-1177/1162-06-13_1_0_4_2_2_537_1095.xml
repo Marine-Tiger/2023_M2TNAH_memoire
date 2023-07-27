@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1095</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-13_1_0_4_2_2_537_1095"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-13_1_0_4_2_2_537_1095"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-06-13_1_0_4_2_2_537_1095</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244644" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1095</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-06-13" to="1162-06-13">1162 Juni 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(ydibus iunii, extra portas civitatis Papiensis apud sanctum Saluatorem, ubi capella domini imperatoris erat)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cremona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus Coloniensis electus archiep. et Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH</scribe>
+				
+				
+					<testis function="witnesses">der erwählte Erzbischof und Erzkanzler für Italien, Rainald von Köln, Bischof (Hermann) von Verden, Markgraf Albert von Sachsen, Graf Emicho (<hi rend="italic">Immiko</hi>, von Leiningen), Burggraf (Burchard) von Magdeburg, Graf Gebhard von Leuchtenberg, Bernhard von Horstmar, die Markgrafen Wilhelm von Montferrat und Obizo Malaspina, dessen Bruder Wilhelm, Graf Guido von Biandrate, Reiner und Assalinus von Sannazzaro de'Burgondi, Obizo Buccafol, Rogerius Catas, Albericus Ermizonis, Albertonus Serenus, Muniginus von Ticengo, Pegora, Albertus Bonusfilius, Ribaldinus von Sant'Agata (zu Cremona)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet den mit der Stadt <span sameAs="recipient"><hi rend="spaced">Cremona</hi> </span>  geschlossenen Vertrag, nach dem die Wahl der Konsuln während seiner Anwesenheit in der Lombardei gegebenenfalls durch einen Boten des Kaisers zur Ehre des Reiches und zum Wohl der Stadt vorgenommen werden kann, während seiner Abwesenheit jedoch der Stadt frei überlassen bleibt und nur von einem oder zwei Konsuln die Investitur eingeholt werden muß, die Pflichten dieser Amtsträger gegenüber Stadt und Reich betont werden, die Regalien und Besitzungen, besonders die Burgen Soncino, S. Bassano, Pizzighettone und Castelnuovo Bocca d'Adda gegen eine jährliche Zahlung von 200 Mark Silber bestätigt werden, ihr das Fodrum in Stadt und Vorstadt übertragen wird und die Rechte hinsichtlich Cremas, das der Kaiser ohne Zustimmung der Cremonesen nicht mehr aufbauen wird, festgelegt werden, und investiert die derzeitigen Konsuln Gilius von Dovera, Otto de Persico und Bernardus Pichinus für ihre Mitkonsuln, nämlich Anselm von Dovera, Otto Bruniolus, Pontius Giroldi, Marchisius Marianus, Iakinus de Persico, Pizzo de Burgo und Marchisius Uetulus. <span n="witnesses">Z.: der erwählte Erzbischof und Erzkanzler für Italien, Rainald von Köln, Bischof (Hermann) von Verden, Markgraf Albert von Sachsen, Graf Emicho (<hi rend="italic">Immiko</hi>, von Leiningen), Burggraf (Burchard) von Magdeburg, Graf Gebhard von Leuchtenberg, Bernhard von Horstmar, die Markgrafen Wilhelm von Montferrat und Obizo Malaspina, dessen Bruder Wilhelm, Graf Guido von Biandrate, Reiner und Assalinus von Sannazzaro de'Burgondi, Obizo Buccafol, Rogerius Catas, Albericus Ermizonis, Albertonus Serenus, Muniginus von Ticengo, Pegora, Albertus Bonusfilius, Ribaldinus von Sant'Agata (zu Cremona)</span>. - <span n="chancellor"><hi rend="italic">Reinaldus Coloniensis electus archiep. et Italię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Provocant nostre benignitatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Provocant nostre benignitatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Cremona (A). Drucke: Repertorio dipl. Cremonese 1, 184 n<hi rend="sup">o</hi>  41; Falconi, Carte Cremonesi 2, 333 n<hi rend="sup">o</hi>  398; MG. Const. 1, 297 n<hi rend="sup">o</hi>  212; MG. DF. I. 369. Reg.: Astegiano, CD. Cremonae 1, 127 n<hi rend="sup">o</hi>  201; Stumpf 3952.</p></div>
+				
+				
+					<div type="commentary"><p>Dem D. lag eine Niederschrift des Vertrages zugrunde, vgl. Riedmann, Verträge 40 ff. - Zum Inhalt vgl. Haverkamp, Regalienpolitik, Zs. f. bayer. LG 29 (1966) 39 f. und Opll, Stadt und Reich 255 f. - Zur Wirkungsgeschichte des D. vgl. Astegiano, a. a. O., 128 n<hi rend="sup">o</hi>  204. - In der Datierung wird auf die Pfalzkapelle des Staufers in seiner Pfalz zu S. Salvatore bei Pavia hingewiesen.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Der Regalienzins für Cremona in der Höhe von 200 Mark wird auch in der Klageschrift des Kaisers gegen die Cremonesen von (1185 Januar 17 &amp;#x2012; Juli), MG.DF.I.895, erwähnt.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Papst Lucius III. bestätigt in einer gleichfalls gefälschten Urkunde für Graf Gregorius Conti von Anagni und Segni die von den Kaisern Otto I. und Friedrich (Spurium für Alexander de Comitibus von 1162 April 10, vor Mailand, MG.DDF.I. Anhang II n<hi rend="sup">o</hi> 15) übertragenen Städte und Burgen, vgl. dazu Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 1: 1181–1184, Nr. †551.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0150" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_369" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

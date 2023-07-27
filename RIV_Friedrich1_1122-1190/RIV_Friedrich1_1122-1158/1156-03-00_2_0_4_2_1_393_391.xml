@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 391</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-03-00_2_0_4_2_1_393_391"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-03-00_2_0_4_2_1_393_391"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-03-00_2_0_4_2_1_393_391</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238973" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 391</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-03-01" to="1156-03-31">1156 (März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Utrecht  (Traiecti)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Marien</hi>  <hi rend="spaced">Utrecht</hi></recipient>
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, Bischof Heinrich von Lüttich, Elekt Gottfried von Utrecht, die Grafen Heinrich von Geldern, Theoderich von Holland, Theoderich von Kleve</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Kanonikern von <span sameAs="recipient"><hi rend="spaced">St. Marien</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Utrecht</hi> </span>  in ihrem Streit mit Egbert (von Amstel), einem Ministerialen des Domstiftes St. Martin zu Utrecht, um gewisse Rechte und Zehenten, die ihnen dieser schon vor dem früheren Bischof Herbert resigniert, dann aber wieder an sich gerissen hatte, auf ihre gemeinsam mit ihrem Vogt, Graf Heinrich von Geldern (<hi rend="italic">Gelre</hi>), vorgebrachte Klage hin durch Urteilsspruch den rechtmäßigen Besitz dieser Gerechtsame, nachdem erneut ausgebrochene Streitigkeiten über die Ausdehnung der Grenzen nach dem Rat der Fürsten und mit Zustimmung beider Parteien durch persönlichen Augenschein von rechtserfahrenen, einheimischen Männern (<hi rend="italic">Walterum videlicet de A, Alberonem de A, Heinricum de Lonreslothe, Aloldum Cultel</hi>) und ihr Zeugnis entschieden worden waren. <span n="witnesses">Z.: Erzbischof Arnold von Köln, Bischof Heinrich von Lüttich, Elekt Gottfried von Utrecht, die Grafen Heinrich von Geldern, Theoderich von Holland, Theoderich von Kleve</span>. - <span n="clerk">Außerhalb der Kanzlei verfaßt und geschrieben</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Notum facio tam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facio tam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Reichsarchiv Utrecht (A). Kop.: Liber pilosus von St. Marien zu Utrecht aus dem 14. Jh. p. 33 ebenda (B); Liber yrsutus des Domkapitels von Utrecht aus dem 15.-16. Jh. 2, f. 292' ebenda (C). Drucke: Muller-Bouman, OB.Sticht Utrecht 1, 373 n<hi rend="sup">o</hi>  414; MG. DF. I. 137. Reg.: Wauters, Table chronol. 2, 741; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  613; Brom, Reg. Sticht Utrecht 1, 83 n<hi rend="sup">o</hi>  413; Stumpf 3739.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung des D. erfolgte nach dem auch historiographisch belegten Aufenthalt des Kaisers, der durch den Tod Bischof Hermanns bedingt war, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-03-00_1_0_4_2_1_392_390.html" type="internal" n="regesten">390</ref>  und Opll, Itinerar 19. Egbert von Amstel kam später auch mit Bischof Gottfried von Utrecht in Konflikt, der diesen Streit ebenfalls vor den Kaiser brachte, vgl. die Urkunde Gottfrieds von (1169), Muller-Bouman a. a. O. 413 n<hi rend="sup">o</hi>  462.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Die Empfänger des DF. 1. 137, die Kanoniker von St. Marien zu Utrecht, werden als fratres des Kaisers bezeichnet, womit das Kanonikat des Herrschers in Utrecht, das für den Dom St. Martin zu 1196 belegt ist, erstmals zu fassen ist, vgl. dazu Schulte, Deutsche Könige, Kaiser, Päpste als Kanoniker, HJb. 54 (1934; 141 f. und zuletzt Groten, Königskanonikat, HJb. 103 (1983) 29.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0128" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_137" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3220</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-00-00_8_0_4_2_4_647_3220"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-00-00_8_0_4_2_4_647_3220"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-00-00_8_0_4_2_4_647_3220</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3220</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-01-01" to="1188-12-31">1188 –
+									–</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Vesoul?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Erzbischof Theoderich von Besançon, Abt 									Wido von Cherlieu (<hi rend="italic">Carilocum</hi>), Abt Wido 									von Rosières (<hi rend="italic">Roseriarum</hi>), Graf Ludwig 									von Pfirt, Graf Amadeus von Mömpelgard (Montbéliard), Vizegraf 									Giselbert von Vesoul, Lambert von Montbozon (<hi rend="italic">Monte Bosonis</hi>), Propst von Vesoul, sowie Otto und 									Giselbert, Brüder aus Quenoche</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Graf Ludwig (I.) von Saarwerden, kaiserlicher 								Justitiar in Burgund, der als kaiserlicher Amtsträger nach Burgund 								entsandt worden ist, beruft auf Klagen der Mönche von Bellevaux über 								das Unrecht, das ihnen von den Leuten von Quenoche (<hi rend="italic">Conoschia</hi>) in den Wäldern von Marloz (<hi rend="italic">Merlo</hi>) zugefügt worden ist, in 								Übereinstimmung mit Magister Daniel (kaiserlicher Legat in Burgund), 								der bereits früher in dieser Sache tätig gewesen ist (Reg. 2840), 								beide Parteien nach Vesoul. Da der Meier (<hi rend="italic">villicus</hi>) Haymo und die Brüder Giselbert und Otto, 								Kleriker aus Quenoche, die Rechtsansprüche nicht durch Eid 								bekräftigen können, weil sie zu jung gewesen sind, und Giselbert 								aussagt, er habe nie gesehen, dass die Schweine von Quenoche in die 								genannten Wälder getrieben worden seien, entscheidet Ludwig zu 								Gunsten der Mönche, doch nimmt die Gegenpartei das Urteil nicht an. 									<span n="witnesses">Z.: Erzbischof Theoderich von Besançon, Abt 									Wido von Cherlieu (<hi rend="italic">Carilocum</hi>), Abt Wido 									von Rosières (<hi rend="italic">Roseriarum</hi>), Graf Ludwig 									von Pfirt, Graf Amadeus von Mömpelgard (Montbéliard), Vizegraf 									Giselbert von Vesoul, Lambert von Montbozon (<hi rend="italic">Monte Bosonis</hi>), Propst von Vesoul, sowie Otto und 									Giselbert, Brüder aus Quenoche</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Drucke: Perreciot, De l’état civil 2, 283 									n<hi rend="sup">o</hi> 26 und 3, 42 n<hi rend="sup">o</hi> 26; 								Gallia christiana XV, Instrumenta 53 n<hi rend="sup">o</hi> 								55. Regg.: Herrmann, Geschichte der Grafschaft Saarwerden 1/1, 								84 n<hi rend="sup">o</hi> 75; Mariotte, Le comté de Bourgogne, 								Annexe I, 173 n<hi rend="sup">o</hi> 12; Diestelkamp – Rotter, 								Urkundenregesten 1, 402 n<hi rend="sup">o</hi> 510.</p></div>
+				
+				
+					<div type="commentary"><p>Pfalzgraf Otto von Burgund, der Sohn des Kaisers, 								bestätigte in einer 1189 zu Bellevaux ausgestellten Urkunde den 								Mönchen dieses Klosters <hi rend="italic">judicium et scripta 									autentica, que per manum magistri Danielis, et Lodovici comitis 									de Salverniâ, et Theodorici Bisuntini archiepiscopi, et aliorum 									episcoporum, super eisdem nemoribus et territorio de Merlo vobis 									facta sunt</hi>, ed. Perreciot, a.a.O., 2, 284 no 27 sowie 3, 44 								no 27 (hier irrig zu 1188; richtig gestellt bei Mariotte, a.a.O., 								Annexe I, 174 no 1). – Vgl. auch Hoke, Freigrafschaft Burgund, Zs. 								f. Rechtsgesch., germ. Abt. 79 (1962) 150 mit Anm. 217.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

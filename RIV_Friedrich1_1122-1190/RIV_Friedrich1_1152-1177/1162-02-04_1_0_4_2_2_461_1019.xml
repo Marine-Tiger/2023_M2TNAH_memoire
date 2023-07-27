@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1019</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-04_1_0_4_2_2_461_1019"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-04_1_0_4_2_2_461_1019"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-02-04_1_0_4_2_2_461_1019</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243779" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1019</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-02-04" to="1162-02-04">1162 Februar 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II non. febr., Landę)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Theobald</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vdalricus canc. vice Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der Urkunden des Bischöfs Stephan von Metz von 1161 November 11 und des Grafen Hugo von Metz vom gleichen Jahr (Tabouillot, Hist. de Metz 3, preuves 123 und 125) verfaßt und geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, die Bischöfe Heinrich von Würzburg, Heinrich von Lüttich, Ortlieb von Basel, Alberich von Lodi, Aicard (<hi rend="italic">Eggardus</hi>) von Parma und Uguccio von Vercelli, Kardinal(diakon) Gerard, Pfalzgraf Konrad bei Rhein, Herzog Welf (VI.), Markgraf Dietrich (von der Lausitz)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kollegiatstift von <span sameAs="recipient"><hi rend="spaced">St. Theobald</hi> </span>  zu Metz die von Bischof (Stephan) von Metz geschenkte Wollwaage (<hi rend="italic">trutinam seu bannale pondus lanę</hi>), die ausschließliche Gültigkeit im Banngebiet der Stadt Metz haben soll, sowie alle gegenwärtigen und künftigen Besitzungen. <span n="witnesses">Z.: Erzbischof Rainald von Köln, die Bischöfe Heinrich von Würzburg, Heinrich von Lüttich, Ortlieb von Basel, Alberich von Lodi, Aicard (<hi rend="italic">Eggardus</hi>) von Parma und Uguccio von Vercelli, Kardinal(diakon) Gerard, Pfalzgraf Konrad bei Rhein, Herzog Welf (VI.), Markgraf Dietrich (von der Lausitz)</span>. - <span n="chancellor"><hi rend="italic">Vdalricus canc. vice Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Heranziehung der Urkunden des Bischöfs Stephan von Metz von 1161 November 11 und des Grafen Hugo von Metz vom gleichen Jahr (Tabouillot, Hist. de Metz 3, preuves 123 und 125) verfaßt und geschrieben von RC</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Quoniam divina gratia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam divina gratia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Metz (A). Kop.: Abschrift des 14. Jh., Cartulaire de Saint-Thiébaut f. 3, ebenda (B). Drucke: (Tabouillot), Hist. de Metz 3, preuves 126; MG. DF. I. 349. Reg.: Ruperti, Stephan von Metz, Jb. d. Ges. f. lothring. Gesch. 22 (1910) 94 n<hi rend="sup">o</hi>  173; Stumpf 3928.</p></div>
+				
+				
+					<div type="commentary"><p>Die Urkunde Erzbischof Hillins von Trier in derselben Angelegenheit (Tabouillot, a. a. O., 125) diente nicht als Vorlage, vgl. die Vorbemerkung zum D. - Zu dem als Zeugen genannten Kardinal(diakon) Gerard vgl. Mayr, Pontifikat Viktor IV., masch. Hausarbeit am Inst. f. öst. Geschichtsforsch. (1974) 46f. - Zum D. vgl Wolfram, Zur Metzer Bischofsgeschichte, Jb. d. Ges. f. lothring. Gesch. 15 (1903) 210 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0130" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_349" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

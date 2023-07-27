@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2648</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-03-03_1_0_4_2_4_69_2648"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-03-03_1_0_4_2_4_69_2648"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-03-03_1_0_4_2_4_69_2648</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843339" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2648</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-03-03" to="1182-03-03">1182
+									März 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Mainzer Gebiet zu Gelnhausen (<hi rend="italic">V</hi><hi rend="sup">o</hi><hi rend="italic"> nonas marcii, in territorio </hi> <hi rend="italic">Maguntino apud Geilenhusen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter weit reichender Verwendung des 									verunechteten DK.III.171 (VU.) geschrieben von 									Robert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Salzburg, 									Bischof Konrad von Worms, Rudolf, Protonotar des kaiserlichen 									Hofes, Propst Friedrich von St. Thomas in Straßburg, Werner von 									Bolanden, Hartmann von Büdingen, Truchsess Konrad und Mundschenk 									Konrad (von Oberschüpf)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Archipresbyters und 								der <hi rend="spaced">Domkanoniker von Verona</hi> (<hi rend="italic">maioris Veronensis ecclesię sanctę dei genitricis 									Marie</hi>), die sein Kapellan Markisius, Thesaurar der Kirche 								von Verona, stellvertretend vorgebracht hat, die Besitzungen des 								Domkapitels von Verona in seinen Schutz, bestätigt den namentlich 								angeführten Besitzstand, das Recht zur Einhebung des Fodrums, jedoch 								unter Vorbehalt der kaiserlichen Gerechtsame, sowie die 								ausschließliche Gerichtsbarkeit über die Hintersassen. Er betont, 								dass anders lautende Verfügungen, die seine Vorgänger oder er selbst 								erlassen haben, kein Präjudiz für die Veroneser Kirche darstellen 								sollen, und er verbietet den Bewohnern der namentlich angeführten, 								im Besitz der Empfänger stehenden Orte, ohne Zustimmung des 								Archipresbyters und seiner Brüder Konsuln oder einen Podestà 								einzusetzen, Befestigungen anzulegen oder <hi rend="italic">communia</hi> zu veräußern oder zu verpfänden, wobei unter 								anderem bereits vorgenommene Entfremdungen für ungültig erklärt 								werden. <span n="witnesses">Z.: Erzbischof Konrad von Salzburg, 									Bischof Konrad von Worms, Rudolf, Protonotar des kaiserlichen 									Hofes, Propst Friedrich von St. Thomas in Straßburg, Werner von 									Bolanden, Hartmann von Büdingen, Truchsess Konrad und Mundschenk 									Konrad (von Oberschüpf)</span>. –<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">unter weit reichender Verwendung des 									verunechteten DK.III.171 (VU.) geschrieben von 									Robert</span>;<span n="seal"> SP.D.</span> 								<span n="incipit"><hi rend="italic">Cum religiosarum 										postulationes.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum religiosarum 										postulationes.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Domkapitels zu Verona, im 								Jahre 1882 durch die Etschüberschwemmung schwer beschädigt 								(A). Kop.: Einzelabschrift des 12. Jh., ebenda (B); beglaubigte 								Kopie des 12. Jh., ebenda (C); Fumano, Processi P. f. 1136 und 1145‘ 								aus dem 16. Jh., ebenda (D); Liber privilegiorum Veronensis aus dem 								Anfang des 17. Jh. in der Bibiliothek des Domkapitels zu Verona f. 								107 (E). Drucke: Stumpf, Acta ined., 538 n<hi rend="sup">o</hi> 381; Cipolla, Verzeichnis der Kaiserurkunden, MIÖG 4 								(1883) 219 n<hi rend="sup">o</hi> 106; Lanza, Carte del Capitolo di 								Verona (Fonti per la Storia della Terraferma Veneta 22, 2006) 188 									n<hi rend="sup">o</hi> 104; MG.DF.I.823. Reg.: Stumpf 								4337.</p></div>
+				
+				
+					<div type="commentary"><p>Nicht das echte D.87 (Reg. 244), sondern das 								offenbar zum Zweck der Erwirkung des D.823 verfälschte Konradinum – 								bei dieser Fälschung ging es vor allem um die Bestätigung der 								ausschließlichen Gerichtsbarkeit des Domkapitels über seine 								Hintersassen – diente als Vorlage, vgl. dazu die Vorbemerkung zum D. 								– Zur Identifizierung des Mundschenken Konrad von Oberschüpf vgl. 								Plassmann, Struktur des Hofes, 282, sowie Keupp, Dienst und 								Verdienst (Monographien zur Geschichte des Mittelalters, 48, 2002) 								228 ff. – Zum Inhalt vgl. auch DF.I.888 (Reg. 2833).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_823" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 532</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_1_0_4_2_1_534_532"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_1_0_4_2_1_534_532"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-03-16_1_0_4_2_1_534_532</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240380" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 532</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-03-16" to="1158-03-16">1158 März 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII kal. aprilis, Frankevort)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hamburger Kirche</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>im Stil der Reichskanzlei unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  32) enthaltenen Formulargutes möglicherweise unter maßgeblicher Beteiligung von AH (Albert) verfaßt und von Zeizolf B mundiert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerhard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gestattet zum Nutzen der <span sameAs="recipient"><hi rend="spaced">Hamburger Kirche</hi> </span>  (<hi rend="italic">utilitati Hamaburgensis sive Bremensis ęcclesię</hi>) die Besiedlung der bisher unbebauten Sumpfgebiete, nämlich der genannten Brüche bei Bremen (<hi rend="italic">paludes iuxta Bremam sitas, videlicet Weierebruch, Brincingebruch, Huftingebruch</hi>) innerhalb der angegebenen Grenzen, nimmt die mit Erlaubnis Erzbischof Hartwigs von Bremen dort Angesiedelten in seinen Schutz und bestätigt ihnen alle vom Erzbischof festgesetzten Rechte. <span n="witnesses">Z.: Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerhard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">im Stil der Reichskanzlei unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  32) enthaltenen Formulargutes möglicherweise unter maßgeblicher Beteiligung von AH (Albert) verfaßt und von Zeizolf B mundiert</span>; <span n="seal">SI. 2. </span>  <span n="incipit"><hi rend="italic">Si liberdlitatis nostrę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si liberdlitatis nostrę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Hannover, Erzstift Bremen Nr. 36, durch Kriegseinwirkung 1943 vernichtet (A). Druck: MG. DF. I. 208 a.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. Zeillinger, Reichskanzlei, DA 22 (1966) 550 f. und Herkenrath, Albert von Sponheim, ZAGV 80 (1970) 88 f. - Zum Inhalt vgl. die bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-03-16_2_0_4_2_1_535_533.html" type="internal" n="regesten">533</ref>  angegebene Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0180" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_208a" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

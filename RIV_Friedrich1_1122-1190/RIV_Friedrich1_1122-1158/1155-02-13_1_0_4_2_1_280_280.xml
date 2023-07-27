@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 280</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-02-13_1_0_4_2_1_280_280"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-02-13_1_0_4_2_1_280_280"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-02-13_1_0_4_2_1_280_280</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 280</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-02-13" to="1155-04-20">1155 Februar 13/14-April 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Tortona">Tortona</placeName>
+												<location><geo decls="#WGS">44.9, 8.8667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Einnahme</hi>  <hi rend="spaced">Zerstörung</hi>  <hi rend="spaced">Tortona</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belagert nach der <span sameAs="recipient"><hi rend="spaced">Einnahme</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Zerstörung</hi> </span>  der Unterstadt durch Herzog Heinrich von Sachsen die Stadt <span sameAs="recipient"><hi rend="spaced">Tortona</hi> </span>, der er die Wasserzufuhr gänzlich unterbindet. Die Zeit der Waffenruhe zwischen dem Gründonnerstag und dem Montag nach Ostern (März 24-28) benützen die Kleriker und Mönche, die in Tortona eingeschlossen sind, am Karfreitag (März 25) zu einem Bittgang, der nicht zum gewünschten Erfolg führt. Die Bedingungen der Übergabe, die am 18. April erfolgt, werden unter Vermittlung des Abtes Bruno von Chiaravalle festgesetzt und den Einwohnern außer der Mitnahme dessen, was sie tragen können, nur Leben und Freiheit geschenkt. Friedrich läßt nach Abzug der Bewohner ihre Stadt plündern sowie anzünden (April 19, De Ruina civ. Terd.) und hält sich bis zum 20. April (vgl. Reg. 284) dort auf. Die weitere Zerstörung Tortonas wird den Pavesen überlassen. Der König befreit einen vornehmen Griechen, von dem Opizo Malaspina Geld erpressen wollte, aus der Gefangenschaft. - Anwesend waren außer den in Regg. 282 und 284 genannten Zeugen noch Erzbischof Arnold von Köln, Bischof (Ardicio) von Como, Abt Wibald von Stablo, Bewohner von Pavia, Marengo, Vercelli und Novara sowie auf der Gegenseite die Mailänder Konsuln Amicus von Landriano und Gottfried Manerius sowie Opizo Malaspina (De Ruina civ. Terd., Ottonis Gesta Frid.), außerdem Elekt Gerold von Oldenburg (Helmold von Bosau) und Abt Bruno von Chiaravalle (bei Mailand ; Gesta Fed. I.). Unter den Gefallenen lassen sich Kadalus aus Bayern, Johannes aus Sachsen (Ottonis Gesta Frid.), Ulrich von Rheinau (vgl. Reg. 281) sowie die Mailänder Hugo Visconti, Ianinus Mainerius, Albert de Carate, Lanfranc de Cruce und Roger von S. Maria (Gesta Fed. I.; Otto Morena) namentlich nachweisen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Brief Friedrichs an Otto von Freising (Reg. 451); Ottonis Gesta Frid. l. II cap. 20-26, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 122-132; De Ruina civ. Terd., ed. Hofmeister, NA 43 (1922) 146 (cap. 3)-157 (cap. 11); Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 22 f.; Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 17; Carmen de gestis, ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 10 (V. 282)-16 (V. 451) und 18 (V. 504)-21 (V. 609); Alberti Milioli liber, MG. SS XXXI, 447; Ann. Brixienses, MG. SS XVIII, 813 zu 1154; Ann. Cremonenses, MG. SS XXXI, 5; Ann. s. Eust. Mediolanensium, ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 67; Ann. Herbipol. MG. SS XVI, 8; Ann. Ianuenses, ed. Belgrano, Fonti per la storia d'Italia 11, 42; Ann. Med. brevium, ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 72 zu 1154; Ann. Palid., MG. SS XVI, 88 zu 1154; Ann. Pisani, ed. Gentile, Rer. Ital. SS N. S. VI/2, 15; Ann. Seligenstad., MG. SS XVII, 32; Ann. Veron. antiqui, ed. Cipolla, Bull, dell'ist. stor. ital. 29 (1908) 35; Boso, Vita Hadriani IV., ed. Duchesne II, 390; Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol. 25; Chron. Farfense App. III., ed. Balzani, Fonti per la storia d'Italia 34, 321; Chron. Parmense, ed. Bonazzi, Rer. Ital. SS N. S. IX/9, 5; Chron. pont. et imp. ex cod. Veneto, MG. SS XXIV, 115; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 91 Rec. I; Chronicula Derthonensis, ed. Ughelli, Italia Sacra IV (1719) Sp. 635; Gottfried von Viterbo, Gesta Friderici, V. 112-129, MG. SS XXII, 310; Helmold von Bosau, l. 1 cap. 80, ed. Schmeidler, MG. SS rer. Germ. in us. schol. (<hi rend="sup">3</hi> 1937) 150 f.; Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 5; Memoriae Mediol., MG. SS XVIII, 400; Notae s. Georgii, ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 71; Sicard von Cremona, Cronica, MG. SS XXXI, 165; Wilhelm von Tyrus, ed. Migne, PL. 201, l. XVIII cap. 2, Sp. 709.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Zerstörung und Einnahme Tortonas vgl. Simonsfeld, Jahrbücher 296 ff. und Hofmeister, De Ruina civ. Terd., NA 43 (1922) 110 ff. - Zum Wiederaufbau der Stadt durch die Mailänder vgl. Gesta Fed. I., a. a. O. 17 f., Otto Morena, a. a. O. 24 f., De Ruina civ. Terd. cap. 11, a. a. O. 156 f. und Chronicula Derthonensis a. a. O. Sp. 635 sowie das Schreiben der Mailänder an die Bewohner von Tortona, ed. Manaresi, Atti del com. di Milano 53 n<hi rend="sup">o</hi>  34.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0096" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1254</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-04_1_0_4_2_2_696_1254"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-04_1_0_4_2_2_696_1254"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-04_1_0_4_2_2_696_1254</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245453" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1254</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-04" to="1163-11-04">1163 November 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II non. novembris, Laudę)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Sarzana</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus et Italię archicanc. recognovi et subscripsi; Phylippus imperialis aule canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH, wobei möglicherweise eine Legatenurkunde oder Aufzeichnungen über die Abmachungen Rainalds mit Sarzana herangezogen wurden; die zweite Rekognition stammt von der Hand des Christian E</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Bewohner von <span sameAs="recipient"><hi rend="spaced">Sarzana</hi> </span>  gemäß den von seinem Reichslegaten, dem Elekten Rainald von Köln, getroffenen Vereinbarungen in seinen Schutz, unterstellt sie unmittelbar dem Reich und bestätigt ihnen das alleinige Befestigungsrecht, das Recht zur Aufnahme von Freien in den Bürgerverband, die Freiheit von Abgaben an der Meeresküste von Luni und an der Magra sowie das alleinige Marktrecht in der Grafschaft Luni an Samstagen. - <span n="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus et Italię archicanc. recognovi et subscripsi; Phylippus imperialis aule canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH, wobei möglicherweise eine Legatenurkunde oder Aufzeichnungen über die Abmachungen Rainalds mit Sarzana herangezogen wurden; die zweite Rekognition stammt von der Hand des Christian E</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quęe a glorioso principe</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quęe a glorioso principe</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archivio comunale zu Sarzana (A). Drucke: Ficker, Forschungen 4, 175 n<hi rend="sup">o</hi>  133; Cottafavi, Di un decreto di Federico I. Barbarossa riguardante la Lunigiana 11; MG. DF. I. 405. Faks.: Herkenrath, Reinald, MIÖG 72 (1964) nach 48 Teilfaks. Reg.: Stumpf 3987.</p></div>
+				
+				
+					<div type="commentary"><p>Mit der zweiten Rekognition wurde das D. durch den Kanzler Philipp von Heinsberg (in dieser Funktion ab dem 27. Januar 1167, vgl. DF. I. 522 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-01-27_1_0_4_2_2_1062_1619.html" type="internal" n="regesten">1619</ref>) nochmals bestätigt, vgl. dazu Scheffer-Boichorst, Zur Gesch. d. 12. und 13. Jh. 168 ff. und Herkenrath, Ein Notar Friedrich Barbarossas, Jb. d. Köln. Geschichtsvereins 44 (1973) 5 f. sowie unten Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-00_1_0_4_2_2_1161_1716.html" type="internal" n="regesten">1716</ref>. - Die erwähnten Abmachungen Rainalds mit den Bewohnern von Sarzana müssen am ehesten in den September 1163 datiert werden, als er von Pistoia aus wohl über den Monte Bardone nach Oberitalien zog.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0188" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_405" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

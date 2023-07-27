@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3005</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-27_1_0_4_2_4_429_3005"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-27_1_0_4_2_4_429_3005"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-27_1_0_4_2_4_429_3005</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3005</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-27" to="1186-06-27">(1186
+									vor Juni 27)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Como">Como</placeName>
+												<location><geo decls="#WGS">45.8, 9.0833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wird in Anwesenheit des Abtes Nikolaus von 								S. Abbondio und anderer Äbte des Tales von Como wie auch weiterer 								Kapelläne und Kleriker durch Bischof Anselm von Como und Archidiakon 								Albericus beim Portal des Doms empfangen und in feierlicher 								Prozession – dabei geleiten ihn der Bischof an der rechten, der 								Archidiakon an der linken Seite – zum Altar geleitet. Der Versuch 								des Abtes Nikolaus, an der linken Seite des Kaisers in den Dom 								einzuziehen, wird vom Archidiakon vereitelt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einem Zeugenverhör von (1195 								Januar 18 – April 15), ed. Biscaro, Di una visita di Federico 								Barbarossa, Archivio storico lombardo 4/1 (1904) 348 ff.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Opll, Itinerar, 89 mit Anm. 68, sowie 								Fasola, Il monastero di S. Abbondio nel quadro istituzionale comasco 								della prima età comunale (secoli XI–XII) (Ministero per i Beni 								Culturali e Ambientali, Ufficio Centrale Beni Archivistici, Como 								1984) 105 f. Anm. 8 (zur Edition) sowie 86 f. – Wohl spätestens nach 								diesem Aufenthalt des Kaisers verloren die Comasken dessen Gnade, 								wie aus dem Bündnis zwischen ihrer Stadt und Pavia vom 10. Oktober 								1186 (Milani – Toscani, Regesto degli atti dei secoli X–XIII, Nr. 								53, S. 49) hervorgeht, vgl. dazu Opll, Stadt und Reich, 242, und vor 								allem Sacchetti, Un’ alleanza tra Pavia e Como, Bollettino della 								Società Pavese di storia patria 1, fasc. 3 (1901) 249 ff., besonders 								257: <hi rend="italic">Item bona fide dabo operam ut cumani veniant 									in concordia et bona gratia domini imperatoris F(riderici) et 									regis henrici et aliorum filiorum imperatoris ad bonum statum 									civitatis cumane.</hi></p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

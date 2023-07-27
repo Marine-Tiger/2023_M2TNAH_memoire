@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1282</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-27_1_0_4_2_2_724_1282"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-27_1_0_4_2_2_724_1282"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-27_1_0_4_2_2_724_1282</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245816" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1282</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-27" to="1163-11-27">1163 November 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Salvatore zu Pavia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V<hi rend="sup">to</hi>  kal. decembris, Papię apud sanctum Saluatorem)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">heiligen Julia</hi>  <hi rend="spaced">Brescia</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Rainald von Köln, Erzkanzler für Italien, und Konrad von Mainz, Bischof Hermann von Verden, Abt Hermann von Hersfeld, Protonotar Heinrich, Pfalzgraf Otto von Wittelsbach, Burggraf Burchard von Magdeburg, die Grafen Werner (von Homberg), Konrad (von Löwenstein), Markward von Grumbach und Gebhard von Leuchtenberg, Marschall Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt dem Kloster der <span sameAs="recipient"><hi rend="spaced">heiligen Julia</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Brescia</hi> </span>  unter Äbtissin Richildis als Entschädigung für den Hafen (am Po) zu Piacenza jährliche Einkünfte in der Höhe von 20 Pfund mailändischer Pfennige jeweils am Martinsfest (11. November) von den Erträgnissen der dortigen Brücke. <span n="witnesses">Z.: die Erzbischöfe Rainald von Köln, Erzkanzler für Italien, und Konrad von Mainz, Bischof Hermann von Verden, Abt Hermann von Hersfeld, Protonotar Heinrich, Pfalzgraf Otto von Wittelsbach, Burggraf Burchard von Magdeburg, die Grafen Werner (von Homberg), Konrad (von Löwenstein), Markward von Grumbach und Gebhard von Leuchtenberg, Marschall Heinrich</span>. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RC</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Decet omnes christianę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet omnes christianę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Codice diplomatico Bresciano 1, f. 83, Biblioteca Quiriniana zu Brescia (A). Druck: MG. DF. I. 419. Reg.: Stumpf 3996.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Besonderheiten des Diktats vgl. die Vorbemerkung zum D. - Zum Rechtsinhalt vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-12-28_1_0_4_2_1_429_426.html" type="internal" n="regesten">426</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-02-02_2_0_4_2_1_437_D434.html" type="internal" n="regesten">434</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-00_2_0_4_2_2_571_1129.html" type="internal" n="regesten">1129</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-00_3_0_4_2_2_572_D1130.html" type="internal" n="regesten">1130</ref>  sowie Güterbock, Piacenzas Beziehungen, QFIAB 24 (1932/33) 62 ff., insbesondere das Prozeßprotokoll und Urteil von 1174, a. a. O., 104 ff. n<hi rend="sup">o</hi>  1-2, und ders., Kaiser, Papst und Lombardenbund, QFIAB 25 (1933/34) 188 Anm. 2; vgl. des weiteren auch das Mandat Papst Alexanders III. an die Konsuln von Piacenza von (1173) Oktober 17, Anagni, Kehr, Ital. pont. 5, 513 n<hi rend="sup">o</hi>  25.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0195" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_419" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 773</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-10-00_2_0_4_2_2_215_773"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-10-00_2_0_4_2_2_215_773"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-10-00_2_0_4_2_2_215_773</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 773</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-10-01" to="1159-10-31">1159 (Ende Oktober/Anfang November)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das (alexandrinische) Kardinalskollegium, darunter namentlich die Bischöfe Gregor von Sabina, Hubald von Ostia, Julius von Praeneste, Bernhard von Porto und Walter von Albano, die Kardinalpresbyter Hubald von S. Croce, Astaldus von S. Prisca, Johannes von SS. Giovanni e Paolo, Heinrich von SS. Nereo und Achilleo, Ildebert (Hildebrand) von SS. Apostoli, Johann von S. Anastasia, Bonadies von S. Grisogono, Albert von S. Lorenzo in Lucina und Wilhelm von S. Pietro in Vincoli sowie die Kardinaldiakone Odo von S. Gregorio ad Velum aureum, Rudolf von S. Lucia in Septisolio, Hyacinth von S. Maria in Cosmedin, Oddo von S. Nicolo in Carcere Tulliano, Ardicius von S. Teodoro, Boso von SS. Cosma e Damiano, Cinthius von S. Adriano, Petrus von S. Eustachio und Johannes (von S. Maria in porticu), schreibt an Friedrich über den Ausbruch des Schismas, führt über die militärischen Aktivitäten des Pfalzgrafen Otto (von Wittelsbach) in Campanien und im Patrimonium beati Petri zugunsten Oktavians Klage und bittet ihn als <hi rend="italic">specialis defensor et patronus aecclesiae Romanae</hi>  um Abhilfe.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 63, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 307 f.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Holtzmann, Zur Geschichte Friedrich Barbarossas, NA 48 (1930) 390 und Madertoner, Papstwahl, 137 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0071" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

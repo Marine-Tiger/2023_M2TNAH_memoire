@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 725</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-06-00_3_0_4_2_2_167_725"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-06-00_3_0_4_2_2_167_725"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-06-00_3_0_4_2_2_167_725</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242282" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 725</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-06-01" to="1159-06-30">1159 (Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Lodi  (apud Nouam Laudam eo anno, quo idem invictissimus imperator terram Mediolanensem devastavit)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2 (Erwähnung in der Corroboratio).</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kanoniker von St. Peter in Rom</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reginaldus canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und wohl auch geschrieben von Heribert</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Eberhard von Bamberg, Konrad von Eichstätt, Uguccio von Vercelli, Hermann von Verden, Daniel von Prag, Gerhard von Bergamo, Garsendonius (<hi rend="italic">Crasentinus</hi>) von Mantua und Alberich von Lodi, Herzog Friedrich von Schwaben, die Pfalzgrafen Konrad bei Rhein, Otto von Bayern und seine Brüder Friedrich und Otto, die Herzoge Heinrich von Kärnten und Berthold von Burgund, Graf Hugo von Dagsburg, Markgraf Wilhelm von Montferrat, Graf Guido von Biandrate, Pfalzgraf Nantelinus von Lomello und Graf Nantelmus (<hi rend="italic">Nautelinus</hi>) von Crema</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <span sameAs="recipient"><hi rend="spaced">Kanoniker von St. Peter in Rom</hi> </span>  in seinen Schutz, bestätigt ihnen unter Vorbehalt der kaiserlichen Gerechtsame die Besitzungen und gewährt ihnen eine Verjährungsfrist von 100 Jahren bei der Rückerwerbung entfremdeter Güter. <span n="witnesses">Z.: die Bischöfe Eberhard von Bamberg, Konrad von Eichstätt, Uguccio von Vercelli, Hermann von Verden, Daniel von Prag, Gerhard von Bergamo, Garsendonius (<hi rend="italic">Crasentinus</hi>) von Mantua und Alberich von Lodi, Herzog Friedrich von Schwaben, die Pfalzgrafen Konrad bei Rhein, Otto von Bayern und seine Brüder Friedrich und Otto, die Herzoge Heinrich von Kärnten und Berthold von Burgund, Graf Hugo von Dagsburg, Markgraf Wilhelm von Montferrat, Graf Guido von Biandrate, Pfalzgraf Nantelinus von Lomello und Graf Nantelmus (<hi rend="italic">Nautelinus</hi>) von Crema</span>. - <span n="chancellor"><hi rend="italic">Reginaldus canc.</hi> </span>; <span n="clerk">verfaßt und wohl auch geschrieben von Heribert</span>; <span n="seal">B. 2 (Erwähnung in der Corroboratio).</span> <span n="incipit"><hi rend="italic">Cum universis ecclesiis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum universis ecclesiis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Originaltranssumpt Kaisers Sigismunds von 1433 Mai 31 (Altmann Reg. 9429) des Transsumptes Kaisers Friedrichs II. von 1234 Juli (B.-Ficker Reg. 14. 722), Archiv des Kapitels von St. Peter in Rom (C). Drucke: Scheffer-Boichorst, Territorial- und Finanzpolitik, MIÖG Erg. Bd. 4 (1893) 95; MG. DF. I. 275.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. die Vorbemerkung zu DF. I. 274 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-05-18_1_0_4_2_2_157_715.html" type="internal" n="regesten">715</ref>). Die Anwesenheit der Kardinäle Oktavian und Wilhelm am kaiserlichen Hof steht wohl mit der Ausstellung dieses D. in Zusammenhang, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_165_723.html" type="internal" n="regesten">723</ref>  und Zeillinger, Parteigänger, DA 20 (1966) 568 ff. - In den Tagen des beginnenden Schismas wandten sich die Kanoniker von St. Peter dann an den Kaiser, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-12-00_2_0_4_2_2_226_784.html" type="internal" n="regesten">784</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0060" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_275" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2581</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-01-05_1_0_4_2_4_2_2581"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-01-05_1_0_4_2_4_2_2581"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-01-05_1_0_4_2_4_2_2581</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2581</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-01-05" to="1181-01-05">(vor
+									1181 Januar 5)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erhebt Berthold (IV.) von Andechs, den 								Sohn Markgraf Bertholds von Istrien, zum Herzog von Dalmatien und 								Kroatien (bzw. später: Meranien).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Die Belehnung durch den Kaiser ergibt sich 								aus der Führung des neuen Titels durch den Andechser, erstmals 								belegt in einer Urkunde vom 5. Januar 1181, vgl. dazu Oefele, Grafen 								von Andechs, 94 und 162 ff. Reg. 360; eine zweite Nennung als Herzog 								von Dalmatien liegt zu 1181 Januar 9, Neuburg am Inn, vor, vgl. 								Boshof, Regesten d. Bischöfe von Passau 1, 271 n<hi rend="sup">o</hi> 884.</p></div>
+				
+				
+					<div type="commentary"><p>Noch 1180 war Berthold (IV.) ohne diesen Titel 								unter den Zeugen von DF.I.796 (Reg. 2541) genannt worden; sein Vater 								war vom Kaiser bereits 1173/74 zum Markgrafen von Istrien erhoben 								worden, vgl. dazu oben Reg. 2051. – Zu dieser Erhebung vgl. Patze, 								Osten, Probleme des 12. Jahrhunderts (VuF 12, 1968) 399 mit Anmm. 								279 und 280, Hermann, ducatus Meraniae, Archiv für Geschichte von 								Oberfranken 55 (1975) 8 ff., Schütz, in: Herzöge und Heilige 								(Veröffentlichungen zur Bayerischen Geschichte und Kultur 24, 1993) 								66 und 108 Anm. 125, sowie Hauser, Staufische Lehnspolitik, 99 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

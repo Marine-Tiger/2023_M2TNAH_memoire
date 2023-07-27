@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1944</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-00_1_0_4_2_3_169_1944"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-00_1_0_4_2_3_169_1944"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-09-00_1_0_4_2_3_169_1944</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453288056" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1944</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-09-01" to="1171-09-30">1171 Ende September oder Anfang Oktober</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Lüttich — Aachen)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Auf einem <hi rend="spaced">Hoftag</hi>  läßt Friedrich Graf Egidius von Duras, der entgegen mehreren kaiserlichen Befehlen (Reg. 1939) nicht bei Hofe erschienen ist, wegen der von Graf Gerard von Borgloon und dessen Mutter (Ermelinda) vorgebrachten Klagen durch Fürstenspruch als <hi rend="italic">maiestatis imperialis reus</hi>  verurteilen und seine Besitzungen dem Reich unterstellen. Als der Graf dann doch bei Hofe erscheint, gelingt es ihm, durch Fürsprache einer Reihe von mit ihm verwandten Fürsten, darunter Graf Philipp von Flandern, dieses Urteil abzuwenden. Den Vorhaltungen des Grafen wegen des Einschreitens der Leute von S. Trond gegen ihn, kann Abt Wirich von S. Trond dadurch begegnen, daß er in Gegenwart der Erzbischöfe (Christian) von Mainz und (Philipp) von Köln den entsprechenden kaiserlichen Befehl vorweist (vgl. Reg. 1940) und auch den kaiserlichen Boten, der dieses Schreiben überbracht hat, als Zeugen benennt. Auf Befehl Friedrichs (vgl. Reg. 1939) erstattet Graf Gerard von Borgloon die den Leuten von S. Trond bei der Befreiung eines Ortes des Klosters abverlangten Beträge zurück, indem er die wertvollsten Textilien seines <hi rend="italic">ornatus</hi>  als Pfand gibt, die wenige Tage später von seiner Mutter (Ermelinda) gegen Geld wieder ausgelöst werden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gestorum abb. Trudon. Cont. Cont. II, lib. IV, MG.SS X, 357 f.; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  959; <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/fd0b2b64-a7d8-424d-aabe-506069e8c68d.html" type="internal" n="regesten">88</ref>.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung dieser Nachrichten erfolgt nach den Nennungen Graf Egidius' in DF.I.582 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-09-29_1_0_4_2_3_167_1942.html" type="internal" n="regesten">1942</ref>) sowie der Erzbischöfe von Mainz und Köln in DF.I.583 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-10-12_1_0_4_2_3_170_1945.html" type="internal" n="regesten">1945</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0067" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

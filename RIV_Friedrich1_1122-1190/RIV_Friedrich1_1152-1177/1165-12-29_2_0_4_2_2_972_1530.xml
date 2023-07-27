@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1530</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-12-29_2_0_4_2_2_972_1530"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-12-29_2_0_4_2_2_972_1530"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-12-29_2_0_4_2_2_972_1530</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1358504625" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1530</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-12-29" to="1165-12-29">1165 Dezember 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heiligsprechung Karls des Großen</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erhebt in Gegenwart zahlreicher Bischöfe und Fürsten und unter dem Jubel von Klerus und Volk auf dem Aachener Hoftag (vgl. Reg. 1526) die Gebeine Karls des Großen aus dem durch göttliche Erleuchtung wiederentdeckten Sarkophag zur Ehre der Altäre und birgt sie in einem edelsteinbestzten Schrein (<span sameAs="recipient"><hi rend="spaced">Heiligsprechung Karls des Großen</hi> </span>). In der Folge ordnet der (für den Aachener Bereich zuständige) Kölner Metropolit, Rainald von Dassel, die Verehrung dieses Herrschers als Heiligen an. Friedrich und seine Gemahlin Beatrix schenken der (Aachener) Kirche aus diesem Anlaß königliche Gaben in der Form von goldenen Vasen und seidenen Tüchern und fügen eine Geldgabe von jährlich 10 Mark hinzu.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Vgl. Regg. 1529 und 1539 sowie Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 116 und Ex Gaufredi de Bruil prioris Vosiensis Chronica, MG. SS XXVI, 202 (dazu auch Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  829); des weiteren Ann. Aquenses, MG. SS XXIV, 38, Ann. Camerac., MG. SS XVI, 538, Ann. Parchenses, MG. SS XVI, 606, Ann. Remenses et Colonienses, MG. SS XVI, 733, Ann. Stadenses, MG. SS XVI, 345, Ex Chronico universali anonymi Laudunensis, MG. SS XXVI, 445, Ex aliis miraculis s. Heinrici, MG. SS IV, 815, Hermanni Altah. Ann., MG. SS XVII, 384, Sigeb. Cont. Aquicinct., MG. SS VI, 411.</p></div>
+				
+				
+					<div type="commentary"><p>Die Ann. Stadenses berichten hier irrig von einer angeblichen Krönung Heinrichs VI. - Zur Heiligsprechung vgl. Petersohn, Saint Denis - Westminster - Aachen, DA 31 (1975) 420 ff. (mit ausführlicher Quellenkritik und Nennung der älteren Literatur). In DF. I. 502 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-01-08_2_0_4_2_2_981_1539.html" type="internal" n="regesten">1539</ref>) heißt es, die Kanonisation sei <hi rend="italic">ad laudem et gloriam nominis Christi et ad corroborationem Romani imperii et salutem dilecte consortis nostre Beatricis imperatricis et filiorum nostrorum Frederici et Heinrici</hi>  erfolgt. - Zu den Schenkungen des kaiserlichen Paares vgl. Die Zeit der Staufer Bd. 1 (Katalog der Ausstellung, Stuttgart 1977) 396 Nr. 537, Opll, Amator ecclesiarum, MIÖG 88 (1980) 78 mit Anmm. 40-41 sowie Minkenberg, Barbarossaleuchter, ZAGV 96 (1989) 69 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu den Stiftungen, die Friedrich I. und seine Gemahlin Beatrix aus Anlass der Heiligsprechung Karls des Großen für Aachen durchführen ließen, vgl. zuletzt Saurma-Jeltsch, Rom und Aachen, in: Die Verwandlungen des Stauferreichs, hg. von Schneidmüller – Weinfurter – Wieczorek (2010) 281–306.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0257" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 422</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-00_1_0_4_2_1_425_422"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-00_1_0_4_2_1_425_422"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-10-00_1_0_4_2_1_425_422</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239225" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 422</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-10-01" to="1155-10-31">1155 (richtiger wohl 1156 Oktober)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Würzburg  (in civitate Wirzeburgensi)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kirche</hi>  <hi rend="spaced">Würzburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice domni Arnoldi Maguntini archiep.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem Notar Rainald G</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Mainz, Friedrich von Köln, Wichmann von Magdeburg, die Bischöfe Gebhard von Würzburg, Gunther von Speyer, Eberhard von Bamberg, Abt Markward von Fulda, Herzog Heinrich von Bayern und Sachsen, Markgraf Albrecht der Ältere (von Sachsen), die Pfalzgrafen Konrad bei Rhein, Otto von Wittelsbach, Landgraf Ludwig von Thüringen, Dompropst Herold (von Würzburg), Dekan Burchard (von Würzburg), Propst Konrad von Neumünster, Propst Berenger von St. Johann in Haug, (die Domherrn) Richolf und Sygelous, der Pförtner Berenger (Domherr von Würzburg), der Kustos Volknand (des Würzburger Domkapitels), (der Würzburger Domherr) Reinhard Niger, die Grafen Hermann von Orlamünde, Ulrich von Lenzburg, Berthold von Plassenburg (<hi rend="italic">Blassenberch</hi>), Berthold von Henneberg (<hi rend="italic">Hynnenbergh</hi>) und Rabodo (von Frensdorf), Markward von Grumbach, Graf Gerard von Bergtheim (<hi rend="italic">Bertheim</hi>), Robert von Castell, Ludwig von Stadtlengsfeld (<hi rend="italic">Lengisfelth</hi>), Heinrich von Lichtenburg (<hi rend="italic">Liethenberg</hi>), Albert von Hildenburg, Graf Ludwig von Rieneck (<hi rend="italic">Renegge</hi>), Heinrich und Poppo von Trimberg, Konrad von Weikersheim (<hi rend="italic">Wikardesheim</hi>) und zwei seiner Söhne, Kuno von Münzenberg, Othnand von Eschenau, Lupold von Nürnberg und zwei seiner Söhne, Harthmann von Penzenhofen, Vitztum Billung von Würzburg, die Schultheißen Billung und Heinrich (von Würzburg), die drei Brüder Gottfried, Godebold und Engelbert, die zwei Brüder Otto und Arno, Billung von Gutenbiegen und zwei seiner Söhne</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt, daß Herzog Friedrich von Schwaben auf seine Bitte hin zugunsten der <span sameAs="recipient"><hi rend="spaced">Kirche</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Würzburg</hi> </span>  auf die Hälfte der aus der Ehe des Würzburger Ministerialen Bodo mit der zur Ministerialität des Schwabenherzogs gehörenden Tochter des Marschalls Heinrich von Pappenheim zu erwartenden Kinder, sollte es nur ein einziges sein, dann auf dieses, auf einem Würzburger Hoftag in Gegenwart der Fürsten verzichtet hat, obwohl dies dem Rechtsgrundsatz widerspricht, der besagt, daß die Söhne dem Stand der Mutter folgen sollen (<hi rend="italic">sanctio lęgum hoc ratum habet et servat, ut conditionem matris sequantur filii et, ubi pertinet mater, pertineant et filii</hi>). <span n="witnesses">Z.: die Erzbischöfe Arnold von Mainz, Friedrich von Köln, Wichmann von Magdeburg, die Bischöfe Gebhard von Würzburg, Gunther von Speyer, Eberhard von Bamberg, Abt Markward von Fulda, Herzog Heinrich von Bayern und Sachsen, Markgraf Albrecht der Ältere (von Sachsen), die Pfalzgrafen Konrad bei Rhein, Otto von Wittelsbach, Landgraf Ludwig von Thüringen, Dompropst Herold (von Würzburg), Dekan Burchard (von Würzburg), Propst Konrad von Neumünster, Propst Berenger von St. Johann in Haug, (die Domherrn) Richolf und Sygelous, der Pförtner Berenger (Domherr von Würzburg), der Kustos Volknand (des Würzburger Domkapitels), (der Würzburger Domherr) Reinhard Niger, die Grafen Hermann von Orlamünde, Ulrich von Lenzburg, Berthold von Plassenburg (<hi rend="italic">Blassenberch</hi>), Berthold von Henneberg (<hi rend="italic">Hynnenbergh</hi>) und Rabodo (von Frensdorf), Markward von Grumbach, Graf Gerard von Bergtheim (<hi rend="italic">Bertheim</hi>), Robert von Castell, Ludwig von Stadtlengsfeld (<hi rend="italic">Lengisfelth</hi>), Heinrich von Lichtenburg (<hi rend="italic">Liethenberg</hi>), Albert von Hildenburg, Graf Ludwig von Rieneck (<hi rend="italic">Renegge</hi>), Heinrich und Poppo von Trimberg, Konrad von Weikersheim (<hi rend="italic">Wikardesheim</hi>) und zwei seiner Söhne, Kuno von Münzenberg, Othnand von Eschenau, Lupold von Nürnberg und zwei seiner Söhne, Harthmann von Penzenhofen, Vitztum Billung von Würzburg, die Schultheißen Billung und Heinrich (von Würzburg), die drei Brüder Gottfried, Godebold und Engelbert, die zwei Brüder Otto und Arno, Billung von Gutenbiegen und zwei seiner Söhne</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice domni Arnoldi Maguntini archiep.</hi> </span>; <span n="clerk">verfaßt und geschrieben von dem Notar Rainald G</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Clęmentia imperialis bene</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Clęmentia imperialis bene</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 324 n<hi rend="sup">o</hi>  491 zu 1156 Juni 15-18; Reg. der Pappenheimer Marschälle 110 n<hi rend="sup">o</hi>  16 zu 1156 Juni 15-18; MG. DF. I. 153. <hi rend="spaced">Teilfaks</hi>.: Riedmann, Reichskanzlei, MIÖG 75 (1967) nach 388. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  117; Nürnberger UB. 43 n<hi rend="sup">o</hi>  65; Stumpf 3758.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Notar Rainald G, der erst im April 1158 in die Reichskanzlei eintrat vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 354 und die Vorbemerkung zu D. 215 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-04-26_1_0_4_2_1_545_543.html" type="internal" n="regesten">543</ref>); Riedmann a. a. O. 397 ff. verdanken wir auch eine sorgfältige Untersuchung der äußeren und inneren Merkmale des D., die zu der vorgenommenen Einreihung führte, wobei festzuhalten ist, daß die Ausfertigung der Urkunde erst ein Jahrzehnt später, wahrscheinlich auf dem Würzburger Reichstag des Jahres 1165, erfolgte. - Bezüglich der Datierung - Inkarnations- und Königsjahr stimmen zu 1155, Kaiserjahre, Indiktion und vor allem die Nennung Rainalds von Dassel als Kanzler zu 1156 - hat man mit der Möglichkeit zu rechnen, daß vielleicht schon 1155 in Würzburg ein vorbereitender Rechtsakt stattgefunden hatte, bevor der feierliche Verzicht dann im Jahre 1156 erfolgte. - Zur Person des Würzburger Ministerialen Bodo vgl. Reimann, Ministerialen des Hochstifts Würzburg, Mainfränk. Jahrb. 16 (1964) 154.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0142" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210230%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_153" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

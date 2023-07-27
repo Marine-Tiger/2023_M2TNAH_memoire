@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3351</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_82_0_4_2_4_781_3351"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_82_0_4_2_4_781_3351"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_82_0_4_2_4_781_3351</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3351</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1183–1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Keine Beteiligung der 									Kanzlei an der Abfassung feststellbar</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt <hi rend="spaced">Herzog</hi> 								<hi rend="spaced">Heinrich (von Löwen-Brabant)</hi> und den <hi rend="spaced">Bürgern von Antwerpen</hi>, die er wegen ihres 								Eifers bei der Verteidigung der Mark zur Ehre des Reiches und der 								Unterstützung der <hi rend="spaced">Kirche des hl. Michael (zu 									Antwerpen)</hi> lobt, bekannt, er habe diese Kirche in seinen 								Schutz genommen und sie von jeder öffentlichen und privaten Steuer 								und Abgabe befreit. –<span n="clerk"> Keine Beteiligung der 									Kanzlei an der Abfassung feststellbar</span>. <span n="incipit"><hi rend="italic">Fidelitati vestre 									plurimas</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Fidelitati vestre 									plurimas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Chartular 3 p. 								24 (alt f. 12‘) des Stiftes St. Michael, Staatsarchiv Antwerpen 								(B). Drucke: Böhmer, Acta imp., 154 n<hi rend="sup">o</hi> 								167; Goetschalckx, OB. van S. Michiel 1, 64 n<hi rend="sup">o</hi> 								39; MG.DF.I.1031. Reg.: Stumpf 4573.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich daraus, dass 								Heinrich von Löwen (-Brabant) seit 1183 als Mitregent seines Vaters 								Gottfried den Herzogstitel führte. – Die Urkunde diente dem Schutz 								des Stiftes vor Steuerforderungen des Herzogs und der Stadt. – 								Interesse verdient der hier gebotene Hinweis auf die Verehrung des 								hl. Michael durch den Kaiser: <hi rend="italic">… nos ecclesiam 									sancti Michaelis, cuius patrocinium optamus habere in celis, in 									nostre maiestatis protectionem tuendam et gubernandam 									suscepimus.</hi></p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

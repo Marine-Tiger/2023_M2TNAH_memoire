@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 167</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-04_1_0_4_2_1_167_167"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-04_1_0_4_2_1_167_167"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-03-04_1_0_4_2_1_167_167</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358155869" value="2013-01-14"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 167</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-03-04" to="1153-03-04">1153 März 4 bzw. März</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>. Legaten Eugens III., der Kardinalpriestcr Bernhard von S. Clemente und der Kardinaldiakon Gregor von S. Angelo, erscheinen bei Hofe. Die beiden Bürger von Lodi, Albernardus Alamanus und Magister Homobonus, die auf Bitten des Bischofs Hermann von Konstanz die Stadt Konstanz aufgesucht haben, klagen vor König Friedrich und den Fürsten über die Unterdrückung durch die Mailänder, besonders über die gewaltsame Verlegung eines Marktes, worauf Friedrich durch seinen Kanzler (Arnold) ein Schreiben an die Mailänder ausfertigen läßt (vgl. Regg. 168 und 192). Friedrich wird, nachdem schon vorher die Erzbischöfe und Bischöfe auf einer Synode darüber beraten haben, vor den päpstlichen Legaten und Bischof Hermann von Konstanz von Adela, seiner ersten Gemahlin, der Tochter des Markgrafen Diepold von Vohburg, wegen zu naher Verwandtschaft im Chor (des Domes) von Konstanz geschieden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zum Hoftag vgl. Otto von St. Blasien, ed. Hofmeister, MG. SS rer. Germ, in us. schol. 10.   Epp. Wibaldi, ed. Jaffé, Mon. Corb. 548 n<hi rend="sup">o</hi>  409, JL. 9696 (Schreiben Eugens III. an Wibald von 1153 Februar 8). In DF. I. 52 wird die Zusage des Königs in die Hand des päpstlichen Legaten erwähnt. <hi rend="italic">Coram apostolice sedis legatis</hi>  erfolgte auch die Scheidung; Ann. s. Aegid. Brunsvic. exc., MG. SS XXX/1, 15; Ann. Palid., MG. SS XVI, 88; Ann. Magdeburg., MG. SS XVI, 191: <hi rend="italic">coram legatis apostolici</hi>.   Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 2 ff. und Galvaneus Flamma, Man. Flor., ed. Muratori, Rer. Ital. SS XI, Sp. 633 f. berichten über die Klage der Bürger von Lodi. Vgl. dazu auch Carmen de gestis, ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 3, V. 61 ff.   Zur Scheidung vgl. Ann. s. Aegid. Brunsvic. exc., a. a. O. 15; Ann. Campolil., ed. Haider, Lilienfelder Annalen-Fragmente, MIÖG 82 (1974) 115; Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 165; Ann. Herbipol., MG. SS XVI, 9; Ann. Magdeburg., a. a. O. 191; Ann. Palid., a. a. O. 88 zu 1153 und 89 zu 1156; Ann. Reichersperg., MG. SS XVII, 466; Ann. Welf. Weingart., ed. König, Schwäb. Chroniken der Stauferzeit 1 (1938) 88; Auct. Lambac., MG. SS IX, 555; Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ, in us. schol. 26; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 92 Rec. I zu 1156; Cont. Admunt., MG. SS IX, 582 zu 1156; Cron. apost. et imp. Basileensia, MG. SS XXXI, 293; Hugonis Chron. Cont. Weingart., MG. SS XXI, 475; Ligurinus l. V, ed. Migne, PL 212, Sp. 396 V. 249-251; Ottonis Gesta Frid. l. II cap. 11, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 111 f.; Otto von St. Blasien, a. a. O. 10; Sigeb. Auct. Affligemense, ed. Gorissen, Verhand. K. Vlaamse Acad. Klasse d. Letteren 15 (1952) 138 zu 1156; Sigeb. Cont. Aquicinct., MG. SS VI, 407 zu 1156. Den offiziellen Scheidungsgrund berichten die Ann. Herbipol., a. a. O. 9; Burchard von Ursberg, a. a. O. 26; Ottonis Gesta Frid. l. II cap. 11. a. a. O. 111; Ligurinus l. V, a. a. O. 396 V. 249-251. Andere Gründe geben an: Ann. s. Aegid. Brunsvic. exc., a. a. O. 15: <hi rend="italic">propter improborum figmenta</hi>; Chron. Montis Sereni, MG. SS XXIII, 149: <hi rend="italic">propter notam adulterii</hi>, vgl. dazu auch die Ann. Vetero-Cellenses, ed. Opel, Mittheil. d. Dt. Ges. zur Erforsch. vaterländ. Sprache u. Alterthümer in Leipzig 1/2 (1874) 179 zu 1152: <hi rend="italic">ab uxore sua propter notam adulterii auctoritate papae a thoro cum ea divortiatus est</hi>; Otto von St. Blasien, a. a. O. 10: <hi rend="italic">causa fornicationis sepius infamatam</hi>. Die Ann. s. Disibodi, MG. SS XVII, 29 (zu 1156) verbinden die Scheidung irrig mit dem Schisma und (zu 1159) mit der Exkommunikation, ebenso haben die Ann. Palid., a. a. O. 91 zu 1159, das Chron. s. Clementis Mettense, MG. SS XXIV, 501 zu 1154 und die Sigeb. Cont. Aquicinct., a. a. O. 407 zu 1156 (päpstl. Rüge wegen der Scheidung) sowie 408 zu 1158 die Scheidung mit der Exkommunikation verbunden. Zum Verwandtschaftsverhältnis Friedrichs mit Adela sowie zum betreffenden Grad vgl. die Tabula consanguinitatis, Epp. Wibaldi ed. Jaffé, Mon. Corb. 547 n<hi rend="sup">o</hi>  408. Nach den Conciliorum oecumenicorum decreta (<hi rend="sup">3</hi> 1973), 257 f. n<hi rend="sup">o</hi>  50 erfolgte erst 1215 eine Einschränkung dieses Ehehindernisses auf den 4. Grad.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den genannten Ereignissen vgl. Simonsfeld, Jahrbücher 156 ff. Zur Möglichkeit eines Kontaktes des Bischofs von Konstanz mit Lodi vgl. Weiss, Die Konstanzer Bischöfe (Konstanzer Geschichtsu. Rechtsquellen 20, 1975) 90 f. und zur Lodesaner Gesandtschaft Caretta, Le cinque ambascerie lodigiane, Arch. stor. Lodigiano ser. II a. VIII (1960) 57 f. Über den Mißerfolg der Legation Sichers in Mailand berichtet Otto Morena, a. a. O. 9 f, (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-00-00_2_0_4_2_1_192_192.html" type="internal" n="regesten">192</ref>). Datierbar ist nur die Klage der Bürger von Lodi mit dem 4. März (<hi rend="italic">die Mercurii capitis ieiunii</hi>... Morena, a. a. O. 3, Z. 21 f.). Zur Annullierung von Friedrichs erster Ehe, die er vor seiner Wahl zum König geschlossen hatte (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1147-00-00_1_0_4_2_1_46_46.html" type="internal" n="regesten">46</ref>), vgl. Rundnagel, Ehescheidung (FS. R. Holtzmann = Hist. Stud. 238, 1933) 145 ff. und Güterbock, Otto von St. Blasien (FS. R. Holtzmann = Hist. Stud. 238, 1933) 204 f. Vielleicht bezieht sich ein Eintrag im Necrologium Isnense, MG. Necrologia I, 177 zu Februar 19 (<hi rend="italic">Adelhaidis regina, benefactrix</hi>) mit Anm. 1, auf die erste Gemahlin König Friedrichs.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>Zur Trennung der ersten Ehe Friedrich Barbarossas von Vohburg vgl. zuletzt Hlawitschka, Auflösung der Ehe, DA 61 (2005) 509–536, der nachweist, dass Adela die Enkeltochter Judiths, der Tochter Kaiser Heinrichs III. und Schwester Heinrichs IV. sowie Witwe nach König Salomon von Ungarn, und ihres Gemahls Herzog Wladislav I. (Hermann) von Polen war und demzufolge mit ihrem Mann, Friedrich tatsächlich im kanonischen Gradverhältnis 3:4 verwandt war, was von der Kurie nicht akzeptiert werden konnte. Hlawitschka bestimmt damit auch den Quellenwert der durch Wibald von Stablo überlieferten Consanguinitätstafel neu.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0059" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

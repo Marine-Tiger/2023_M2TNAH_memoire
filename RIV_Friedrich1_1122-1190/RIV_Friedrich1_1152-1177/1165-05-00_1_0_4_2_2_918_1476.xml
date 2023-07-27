@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1476</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-05-00_1_0_4_2_2_918_1476"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-05-00_1_0_4_2_2_918_1476"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-05-00_1_0_4_2_2_918_1476</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246896" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1476</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-05-01" to="1165-06-30">1165 (Mai-Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Würzburg  (Wirceburc)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Domkapitel</hi>  <hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem Bamberger Empfängerschreiber, in dem Föhl, Eberhard II. von Bamberg, MÖIG 50 (1936) 105 ff. Bischof Eberhard zu erkennen glaubte</scribe>
+				
+				
+					<testis function="witnesses">Herzog Friedrich von Rothenburg, Graf Rudolf von Pfullendorf (<hi rend="italic">Prundorf</hi>), Pfalzgraf Friedrich von Lengenfeld, die Grafen Albert von Dillingen, Rapoto von Abenberg, Gerhard und sein Bruder Hermann von Bergtheim und Hermann von Wohlbach, Markward von Grumbach und seine Söhne Albert und Otto, Burggraf Konrad von Nürnberg, Konrad von Thüngen, Manegold von Thundorf und seine Söhne, Poppo von Trimberg und sein Bruder Heinrich, Heinrich von Lichtenburg, Poopo von Irmelshausen, Gebhard von Bilstein, Rupert von Castell, Konrad von Endsee, Friedrich von Truhendingen (Hohentrüdingen), Konrad von Weikersheim, Konrad von Boxberg, Degenhart von Hellenstein, Sigeboto von Albeck, Eberhard <hi rend="italic">de Hoeuelt</hi>, Konrad und Friedrich <hi rend="italic">de Scegeuelt</hi>, Heinrich von Höchstädt</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt den Rechtsstreit zwischen dem <span sameAs="recipient"><hi rend="spaced">Domkapitel</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  (<hi rend="italic">fratres nostri</hi>) und Albert von Truhendingen (Hohentrüdingen) um den Markt in Staffelstein, wo Albert die Güter der Würzburger Kirche als Aftervasall des Herzogs Friedrich von Rothenburg innehat, in folgender Weise bei: Das Domkapitel wird im Besitz des Marktes gemäß der Verfügung Kaiser Lothars (III.) bestätigt, billigt jedoch den auf den Gütern der Würzburger Kirche daselbst wohnenden Leuten gewisse Handelsrechte innerhalb ihrer Häuser zu. <span n="witnesses">Z.: Herzog Friedrich von Rothenburg, Graf Rudolf von Pfullendorf (<hi rend="italic">Prundorf</hi>), Pfalzgraf Friedrich von Lengenfeld, die Grafen Albert von Dillingen, Rapoto von Abenberg, Gerhard und sein Bruder Hermann von Bergtheim und Hermann von Wohlbach, Markward von Grumbach und seine Söhne Albert und Otto, Burggraf Konrad von Nürnberg, Konrad von Thüngen, Manegold von Thundorf und seine Söhne, Poppo von Trimberg und sein Bruder Heinrich, Heinrich von Lichtenburg, Poopo von Irmelshausen, Gebhard von Bilstein, Rupert von Castell, Konrad von Endsee, Friedrich von Truhendingen (Hohentrüdingen), Konrad von Weikersheim, Konrad von Boxberg, Degenhart von Hellenstein, Sigeboto von Albeck, Eberhard <hi rend="italic">de Hoeuelt</hi>, Konrad und Friedrich <hi rend="italic">de Scegeuelt</hi>, Heinrich von Höchstädt</span>. - <span n="chancellor"><hi rend="italic">Cristianus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von dem Bamberger Empfängerschreiber, in dem Föhl, Eberhard II. von Bamberg, MÖIG 50 (1936) 105 ff. Bischof Eberhard zu erkennen glaubte</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Cum omnis potestas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnis potestas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 374 n<hi rend="sup">o</hi>  510; MG. DF. I. 478. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 302 n<hi rend="sup">o</hi>  389; Stumpf 4043.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. DL. III. 25, das aber nicht als VU. diente. - Die Verhandlungen wurden noch zu Lebzeiten Bischof Heinrichs von Würzburg († 23., 24. oder 25. Februar 1165) geführt, vgl. Riedmann, Reichskanzlei, MIÖG 76 (1968) 63 Anm. 44; Wendehorst, Das Bistum Würzburg. Teil 1. (Germania sacra N. F. I/1) 163 mit Anm. 1 möchte daraus einen Aufenthalt des Kaisers in Würzburg zu Anfang des Jahres 1165 erschließen. - Ab dem Februar 1165 (erster Beleg: Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-02-26_1_0_4_2_2_896_1454.html" type="internal" n="regesten">1454</ref>) wird Erzbischof Konrad von Mainz nicht mehr in der Rekognitionszeile genannt, da er wegen seiner alexandrinischen Haltung im Schisma den kaiserlichen Hof verlassen hatte. - Zum D. vgl. auch Layer, Ministerialität, Jb. d. Hist. Ver. Dillingen 80 (1978) 91 ff., besonders 94.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0242" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210266%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_478" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

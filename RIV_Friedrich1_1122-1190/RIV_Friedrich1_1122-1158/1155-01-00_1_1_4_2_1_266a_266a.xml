@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 266a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-00_1_1_4_2_1_266a_266a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-00_1_1_4_2_1_266a_266a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-01-00_1_1_4_2_1_266a_266a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358242528" value="2013-01-15"></date>
+				<date type="lastmod" n="1358242528" value="2013-01-15"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 266a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-01-01" to="1154-12-31">vor 1155 Januar</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt Abt Johannes von Sesto in Friaul (<hi rend="italic">abbas de Sancta Maria de Sexto quod est in territorio Foroiulensi</hi>) eine Urkunde (<hi rend="italic">litteris domni imperatoris [!] Federici</hi> über den Schutz der klösterlichen Güter vor den Übergriffen der Senigalliesen aus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in einer Urkunde Herzog und Markgraf Werners (von Ancona) von 1155 Januar, die dieser <hi rend="italic">iussione regis Federici</hi> für die Abtei Sesto in dieser Angelegenheit ausstellte, ed. della Torre, L'abbazia di Sesto in Sylvis. (Trieste 1979) 121 n° 17; MG. DF I. *1090.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch die weiteren Nennungen in der ebenfalls bei della Torre, a.a.O., 123 n° 18 edierten Urkunde (Reg. 335a) sowie Reg. 343a. Friedrich wurde offensichtlich zweimal für Sesto aktiv, da die in Reg. 335a erwähnten, gemeinsam mit Papst Hadrian IV. gesetzten Maßnah­men mit größter Wahrscheinlichkeit nach der Kaiserkrönung erfolgten, während der Bezug des hier behandelten Deperditums auf die Königs­zeit nach dem Datum der herzoglich/markgräflichen Urkunde trotz der Verwendung des Begriffs <hi rend="italic">littere imperatoris</hi> sicher ist. Das Stück ist erstmals bei Degani, L'abbazia benedettina di Sesto in Silvis, Nuovo Arch. Veneto N. S. 14 (1907) 57 f. und 308 erwähnt, wobei jedoch das Eingreifen Werners von Ancona in Senigallia in den Mai verlegt wird. Kehr, Italia pontificia 7/1, 78 n° *1 möchte aus Werners Urkunde nach Degani auf eine Urkunde Hadrians IV. schließen, die jedoch nicht erwähnt ist (vgl. aber Reg. 335a).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360328326" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+2.+Lief.%3A+1158-1168&amp;amp;pk=116715" type="external" n="opac">RI IV,2,2</ref>, S. XII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

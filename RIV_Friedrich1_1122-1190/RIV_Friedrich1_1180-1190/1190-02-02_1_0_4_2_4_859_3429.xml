@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3429</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-02_1_0_4_2_4_859_3429"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-02_1_0_4_2_4_859_3429"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-02-02_1_0_4_2_4_859_3429</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3429</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-02-02" to="1190-02-02">1190
+									um Februar 1–2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im näheren und weiteren Umland von Adrianopel (Edirne)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog Friedrich von Schwaben zieht zum vierten Mal 								von Adrianopel aus zu einem Verwüstungszug ins Umland. Er nimmt 								dabei die Stadt <hi rend="italic">Arcadiopolis</hi> (Lüleburgaz) ein 								und kehrt darauf wieder nach Adrianopel zurück. Das Umland nahe des 								Meeres (Hist. de expeditione: <hi rend="italic">ad civitatem quandam 									maritimam accesserunt</hi>) wird plündernd von böhmischen 								Scharen heimgesucht. Truppen des Bischofs (Gottfried) von Würzburg, 								der Grafen (Heinrich) von Salm, (Dietrich) von Wied sowie (Heinrich 								und Simon) von Sponheim verwüsten walachisches Gebiet. Truppen des 								Grafen (Friedrich) von Abenberg und des Vogtes (Friedrich) von Berg 								verheeren südlich (von Adrianopel) gelegenes Gebiet.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 62 ff. (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 118 f.); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 147 (in anderem  Zusammenhang).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 249 								f. – Die Identifizierung von <hi rend="italic">Arcadiopolis</hi> 								(heute: Lüleburgaz in der türkischen Provinz Kırklareli unweit der 								Grenze zu Bulgarien) nach Bühler, a.a.O., 187. – Graf Simon von 								Sponheim verstarb – ebenso wie Gaubert von Aspremont und Reinhold 								von Reifenberg – noch während des Aufenthalts des Kreuzheeres in 								Adrianopel, vgl. dazu Hist. de expeditione, a.a.O., 69 (deutsche 								Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 								124).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

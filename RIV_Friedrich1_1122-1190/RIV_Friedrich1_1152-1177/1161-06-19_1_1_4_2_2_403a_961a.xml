@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 961a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-19_1_1_4_2_2_403a_961a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-19_1_1_4_2_2_403a_961a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-19_1_1_4_2_2_403a_961a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358497798" value="2013-01-18"></date>
+				<date type="lastmod" n="1358497798" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 961a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-19" to="1161-06-21">(vor 1161 Juni 19 &amp;#x2012; 22)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich läßt von den Mainzer Juden zur Sühne für die Ermordnung seines Mundschenks Benno eine goldene Statue nach dessen Ebenbild anfertigen, die neben dem Mainzer Dom aufgestellt wird. Diese Statue wird von Erzbischof Rudolf zerstört, das Gold wird aufgeteilt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Aegidii Aureaevallensis Gesta epp. Leod. 1. III, MG. SS XXV, 108.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung dieser zweifellos legendenhaften Überlieferung richtet sich nach der Absetzung des im Gefolge der Ermordung Erzbischof Arnolds am 24. Juni 1160 (Reg. 893) zum Mainzer Erzbischof gewählten Rudolf von Zähringen, die Papst Viktor IV auf der Synode von Lodi im Juni 1161 aussprach (vgl. Reg. 962).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360329573" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. X.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

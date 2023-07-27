@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 576</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-08-06_1_0_4_2_2_18_576"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-08-06_1_0_4_2_2_18_576"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-08-06_1_0_4_2_2_18_576</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 576</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-08-06" to="1158-09-10">1158 August 6-Anfang September</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mailand">vor Mailand</placeName>
+												<location><geo decls="#WGS">45.4667, 9.2</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich rückt mit seinem Heer, das in sieben Abteilungen gegliedert ist, vor die Stadt Mailand und belagert sie. Kämpfe entbrennen insbesondere bei dem Römischen Bogen vor der Porta Romana, den der Kaiser erobern kann, sowie bei verschiedenen Ausfällen der belagerten Mailänder. Nach persönlichem Augenschein durch den Herrscher wird der Belagerungsring auch auf der anderen (wohl: westlichen) Seite der Stadt geschlossen. Friedrich verwüstet auch die Umgebung der Stadt, seine Truppen verheeren sogar weiter entfernte Gebiete im Seprio und in der Martesana. Als Teilnehmer an der Belagerung werden neben den in den einschlägigen Regesten ab Reg. 554 genannten Persönlichkeiten in der historiographischen Überlieferung unmittelbar zum Ereignis folgende Personen und Kontingente erwähnt: aus der Reihe der deutschen geistlichen Fürsten die Erzbischöfe Friedrich von Köln, Wichmann von Magdeburg, Arnold von Mainz und Hillin von Trier, die Bischöfe Konrad von Augsburg, Eberhard von Bamberg, Nikolaus von Cambrai, Adalgoz von Chur, Alexander von Lüttich, Stephan von Metz, Daniel von Prag, Hartwig von Regensburg, Burchard von Straßburg, Hermann von Verden, Gebhard von Würzburg, Konrad von Worms und Berthold von Zeitz sowie der Kanzler Rainald von Dassel; aus der Reihe der weltlichen Fürsten aus dem Bereich nördlich der Alpen König Vladislav von Böhmen, die Herzoge Theobald von Böhmen, Heinrich von Österreich, Boleslaw von Polen, Heinrich von Sachsen (irrig; kommt erst 1159 nach Italien, vgl Reg. 741), Friedrich von Schwaben und Berthold von Zähringen, zwei Söhne des Markgrafen Albrecht des Bären, Pfalzgraf Konrad bei Rhein, die Pfalzgrafen Otto der Ältere, Otto der Jüngere und Friedrich von Wittelsbach sowie die Grafen Ekbert von Pitten (vgl. Reg. 575) und Albert von Tirol, schließlich der böhmische Ritter Diva; aus der Reihe der geistlichen Fürsten Italiens Patriarch Pilgrim von Aquileia, Erzbischof Anselm von Ravenna und Bischof Obert von Cremona; aus der Reihe der weltlichen Fürsten aus dem Bereich südlich der Alpen die Markgrafen Obizo Malaspina und Wilhelm von Montferrat, Graf Guido von Biandrate und seine Söhne und die lombardischen Edlen Albertinus, Albertus, Gerardinus von Ferrara, Gerardus von Carpineto, Ugo und Ugolinus sowie die Grafen Andreas von Rupecanina und Robert von Loritello (die letzten beiden: süditalienische Fürsten und Widersacher Wilhelms von Sizilien); folgende Städte und Orte beteiligen sich (in der Regel wohl durch die Entsendung von Truppen, teilweise aber auch durch Geldzahlungen): Acquapendente (Truppen oder Geld), Alba, Anagni (Truppen oder Geld), Ancona, Aquileia, Ascoli, Asti, Bergamo, Bergoglio, Biandrate, Bologna (auch die Juristen), Brescia, Cervia, Cesena, Cividale (?), Como, Cremona (nach Burchard von Ursberg: 30.000 Bewaffnete), Fano, Fermo, Ferrara, Florenz (Truppen oder Geld), Foligno (Truppen oder Geld), Forlì, Gamondio (heute: Castellazzo Bormida), Genua, Imola, Ivrea, Lodi, Lucca (Truppen oder Geld), Luni (Truppen oder Geld), Mantua, Marengo, Modena, Nepi (Truppen oder Geld), Novara, Orto (Truppen oder Geld), Padua, Parma, Pavia, Perugia (Truppen oder Geld), Piacenza, Pisa (vgl. Reg. 578), Ravenna, Reggio, Rimini, Rom, Senigallia, Siena (Truppen oder Geld), Sutri (Truppen oder Geld), Tivoli (Truppen oder Geld), Tortona, Treviso, Tusculum (Truppen oder Geld), Vercelli, Verona, Vicenza und Viterbo (Truppen oder Geld); des weiteren werden pauschal Truppen aus Bayern, Sachsen und Schwaben sowie Burgunder, Lothringer und Ungarn unter den Belagerern genannt. Unter den Gefallenen auf kaiserlicher Seite ist vor allem der in besonderer Weise gegen die Mailänder eingenommene Erzbischof Anselm von Ravenna († 12. 8. 1158) zu nennen (vgl. auch Reg. 571).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hauptquellen zur Belagerung sind Rahewini Gesta Frid. l. III cap. 35-38, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 209 ff., Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 30 ff., Carmen de gestis, ed. Schmale-Ott, MG. SS rer. Germ. in us. schol., 73 ff. V. 2215 ff., Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 99 f., Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 53 ff., Vinzenz von Prag, MG. SS XVII, 672 ff., Ann. Pisani, ed. Gentile, Rer. Ital. SS N. S. VI/2, 18 f., Ann. Ianuenses, ed. Belgrano, Fonti per la storia d'Italia 11, 38 f. und Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol., 29 f.; nähere Details vermelden Ann. Ceccanenses, MG. SS XIX, 284, Ann. Cremonenses, MG. SS XXXI, 5, Ann. s. Disibodi, MG. SS XVII, 29, Ann. Herbipol., MG. SS XVI, 9, Ann. Palid., MG. SS XVI, 90, Ann. s. Petri Erph. mai., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 57, Ann. s. Stephani Frising., MG. SS XIII, 54, Ann. Veron., MG. SS XIX, 3, Chron. Polono-Silesiacum, MG. SS XIX, 563 und 565 f., Cont. Claustroneoburg. II., III., MG. SS IX, 615 und 629, Cont. Cremifan., MG. SS IX, 545, Cont. Opatowicensis, MG. SS XVII, 653, Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 179, Falcandi Liber de regno Sicilie, ed. Siragusa, Fonti per la storia d'Italia 22, 83, Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 5 (fünf Wochen lang), Mon. Sazav. Cont. Cosmae, MG. SS IX, 161, Notae s. Georgii Mediol., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 71, Notae Parmenses, MG. SS XVIII, 664, Roberti de Monte Cron., MG. SS VI, 507, Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. S. VII/1, 242, Sicardi episcopi Cremonensis Cronica, MG. SS XXXI, 166, Sigeb. Auct. Affligem., MG. SS VI, 404 (Zahl der belagerten Mailänder: 60.000 Bewaffnete), Wilhelm von Tyrus l. XVIII cap. 8, ed. Migne, PL 201, 717; weitgehend nur die Tatsache der Belagerung bzw. der Kapitulation vermerken Albertus Miliolus, Cronica imperatorum, MG. SS XXXI, 641, Ann. Augustani minores, MG. SS X, 8, Ann. Brunwilar., MG. SS XVI, 728, Ann. Casinenses, MG. SS XIX, 311, Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 166, Ann. Fossenses, MG. SS IV, 31 (zu 1159), Ann. Halesbrunn., MG. SS XVI, 14, Ann. Magdeburg., MG. SS XVI, 191, Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol., 49, Ann. Maurimonasterienses, ed, Bloch, MG. SS rer. Germ. in us. schol., 105, Ann. Med. brevium, ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 72, Ann. Mellic., MG. SS IX, 504, Ann. s. Petri Erph. antiqui, ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 19, Ann. Ratispon., MG. SS XVII, 587, Ann. Reichersperg., MG. SS XVII, 466, Ann. s. Rudberti Salisburg., MG. SS IX, 776, Ann. Scheftlar. mai., MG. SS XVII, 336, Ann. Zwifalt., MG. SS X, 56, Auct. Zwetl., MG. SS IX, 540 (zu 1159), Chron. Montis Sereni, MG. SS XXIII, 151, Cont. Admunt., MG. SS IX, 582, Cont. Zwetl. I., MG. SS IX, 538, Cronica Boemorum l. IV, MG. SS XXX/1, 40, Gottfried von Viterbo, Gesta Frid., MG. SS XXII, 315 V. 339 ff., Gundechari lib. pontificalis Eichstetensis Cont., MG. SS VII, 251. - Zum Tod Anselms von Ravenna vgl. Rahewin l. IV cap. 3 (S. 235) und cap. 17 (S. 256) sowie Chron. Montis Sereni, ebda. und Cont. Admunt., ebda.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Teilnehmern an der Belagerung vgl. neben den hier angeführten Hauptquellen vor allem Ann. Ceccanenses, Ann. Cremonenses, Ann. Palid., Chron. Polono-Silesiacum, Cont. Opatowicensis, Falcandus und Wilhelm von Tyrus (alle wie oben zitiert). - Zur Zahl der kaiserlichen Truppen siehe schon oben Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-06-00_1_0_4_2_1_558_556.html" type="internal" n="regesten">556</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-06-14_1_0_4_2_1_560_558.html" type="internal" n="regesten">558</ref>, zum Beginn der Belagerung am 6. August vgl. besonders Otto Morena, 53 mit Anm. 4. Als Lagerort des Kaisers nennen die Gesta Fed. I. und Otto Morena die Kirche Ognissanti, die Chron. reg. Col. und Vinzenz von Prag den Bereich vor der Porta Romana. - Zu den Einzelheiten der Belagerung vgl. immer noch Giesebrecht, Kaiserzeit V, 159 ff. - Zu den Teilnehmern an der Belagerung vgl. auch Haverkamp, Herrschaftsformen, 178.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0021" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

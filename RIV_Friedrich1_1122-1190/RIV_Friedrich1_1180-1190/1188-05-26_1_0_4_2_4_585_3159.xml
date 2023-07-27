@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3159</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-05-26_1_0_4_2_4_585_3159"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-05-26_1_0_4_2_4_585_3159"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-05-26_1_0_4_2_4_585_3159</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3159</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-05-26" to="1188-05-26">(1188
+									zwischen April 1 und Mai 26)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schreibt an <hi rend="spaced">Sultan 									Saladin</hi> und erinnert zunächst an dessen frühere Schreiben 								und seine Antwort darauf (siehe dazu oben Regg. 2016 und 2024). Er 								erklärt ihm nun aber wegen seines Vorgehens gegen das Heilige Land 								für den 1. November übers Jahr (1. November 1189) den Krieg und legt 								die Gegend um Tanis (im östlichen Nildelta) als Ort der 								Auseinandersetzung fest. – <hi rend="italic">Devocionis tue 									litteras</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 280 ff. (englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 49 ff.); Salloch, Die lateinische 								Fortsetzung Wilhelms von Tyrus (Greifswald 1934) 94 ff.; vgl. 								Röhricht, Reg. Regni Hierosol., 179 n<hi rend="sup">o</hi> 671, und 								MG.DDF.I. Anhang I, n<hi rend="sup">o</hi> 19. Reg.: Stumpf 								4570.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Mayer, Brief, DA 14 (1958) 488 ff., der 								unter grundsätzlicher Betonung der Existenz einer diplomatischen 								Korrespondenz zwischen Friedrich und Saladin vor dem Antritt des 								Kreuzzuges die Unechtheit dieses Schreibens, in dem der Staufer ja 								auch Herrschaftsansprüche auf eine ganze Reihe orientalischer Länder 									(<hi rend="italic">… ambas Ethiopias, Mauritaniam, Persiam, 									Syriam, Parthiam, …, Iudeam, Samariam, Maritimam, Arabiam, 									Caldeam, ipsam quoque Egiptum, … Armeniam et innumerabiles alias 									terras …</hi>) erhebt, nachweist. Möhring, Saladin und der 								Dritte Kreuzzug, 93 ff., der das Antwortschreiben Saladins (unten 								Reg. †3211) als gefälscht erweist, zweifelt dagegen überhaupt an der 								Existenz dieser diplomatischen Kontakte. Unsere zeitliche Einreihung 								richtet sich nach den Angaben in Regg. 3151 und 3160 (über die 								Entsendung des Grafen von Diez an Saladin). – Zu Saladin vgl. die 								Hinweise oben bei Reg. 3085.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

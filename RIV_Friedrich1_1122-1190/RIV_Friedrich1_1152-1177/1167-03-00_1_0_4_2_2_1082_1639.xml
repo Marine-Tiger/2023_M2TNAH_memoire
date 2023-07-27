@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1639</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-03-00_1_0_4_2_2_1082_1639"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-03-00_1_0_4_2_2_1082_1639"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-03-00_1_0_4_2_2_1082_1639</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1366974235" value="2013-04-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1639</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-03-01" to="1167-03-31">1167 März -</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Proculo im Bistum Faenza</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(mensis mar., in episcopatu Fauentino apud sanctum Proculum)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. (Bild und Legende abgebrochen).</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Mainzer Domkapitel</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Phylippus canc. vice domini Cristiani Maguntine sedis archiep. et regni Teutonici archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von CE, von dem auch Schrift und Diktat der hier herangezogenen Urkunde Erzbischof Christians über den gleichen Gegenstand (Acht, Mainzer UB. 2/1, 516 n<hi rend="sup">o</hi>  300; VU.) stammen</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Verden und Daniel von Prag, Abt Hermann von Fulda, Kanzler Philipp, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Friedrich von Rothenburg, die Grafen Erwin (<hi rend="italic">Evruinus</hi>) von Thüringen (Gleichen) und Heinrich von Nassau</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <span sameAs="recipient"><hi rend="spaced">Mainzer Domkapitel</hi> </span>  die Schenkung der Kirche zu Nieder-Olm durch Erzbischof Christian. <span n="witnesses">Z.: die Bischöfe Hermann von Verden und Daniel von Prag, Abt Hermann von Fulda, Kanzler Philipp, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Friedrich von Rothenburg, die Grafen Erwin (<hi rend="italic">Evruinus</hi>) von Thüringen (Gleichen) und Heinrich von Nassau</span>. - <span n="chancellor"><hi rend="italic">Phylippus canc. vice domini Cristiani Maguntine sedis archiep. et regni Teutonici archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von CE, von dem auch Schrift und Diktat der hier herangezogenen Urkunde Erzbischof Christians über den gleichen Gegenstand (Acht, Mainzer UB. 2/1, 516 n<hi rend="sup">o</hi>  300; VU.) stammen</span>; <span n="seal">SP. (Bild und Legende abgebrochen).</span>  <span n="incipit"><hi rend="italic">Ad nostram imperatoriam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad nostram imperatoriam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Acht, Mainzer UB. 2/1, 519 n<hi rend="sup">o</hi>  301 zu März 6-8; MG. DF. I. 529. Faks.: Koch, Reichskanzlei Abb. 22. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  258; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  335 zu März Anfang; Stumpf 4083 zu März Anfang.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Ein Faksimile findet sich jetzt bei Koch – Friedl (Hgg.), Kaiser- und Königsurkunden der Staufer (Digitale Urkundenbilder, 4, 2010) Tafel 8.</p></div>
+				
+				
+					<div type="commentary"><p>Die Nennung Christians in der Rekognition entspricht nicht dem Kanzleibrauch; seine Bezeichnung als Erzkanzler für Deutschland findet sich auch in der ebenfalls von CE stammenden VU. - Dazu und zur zeitlichen Einordnung - wohl unmittelbar nach der Weihe Christians zum Bischof am 5. März (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-03-04_1_0_4_2_2_1081_1638.html" type="internal" n="regesten">1638</ref>) - vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0283" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%223301%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

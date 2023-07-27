@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 503</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-18_1_0_4_2_1_505_503"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-18_1_0_4_2_1_505_503"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-18_1_0_4_2_1_505_503</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240101" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 503</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-18" to="1157-11-18">1157 (um November 18)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Arbois  (apud Arbos)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Balerne</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Stephani Vennensis (!) archiep. et in regno Burgundię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem Notar und Kapellan Heribert</scribe>
+				
+				
+					<testis function="witnesses">Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg und Hugo von Dagsburg, Walker von Salins, Giselbert Vizegraf von Vesoul (<hi rend="italic">Uilulii</hi>), Wido Abbas (von Durnes), Stephan von <hi rend="italic">Kaû</hi>, Burchard von Hasenburg (<hi rend="italic">de Asuel</hi>), Archidiakon Eberhard von Besançon, Kapellan Heribert, Heinrich <hi rend="italic">de Cuningesberg</hi>  (Königsberg?), Kämmerer Hartmann, Truchseß Walter</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt der Abtei <span sameAs="recipient"><hi rend="spaced">Balerne</hi> </span>  (<hi rend="italic">Balernensi ęcclesię</hi>), unter Abt Burchard mit Zustimmung und auf Bitten seiner Gemahlin, der Kaiserin Beatrix, eine Wiese bei Pupillin (<hi rend="italic">pratum quoddam sub Ponpeiliniaco, quod vocatur Pratum comitis</hi>) und nimmt die Abtei mit allen Besitzungen in den kaiserlichen Schutz. <span n="witnesses">Z.: Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg und Hugo von Dagsburg, Walker von Salins, Giselbert Vizegraf von Vesoul (<hi rend="italic">Uilulii</hi>), Wido Abbas (von Durnes), Stephan von <hi rend="italic">Kaû</hi>, Burchard von Hasenburg (<hi rend="italic">de Asuel</hi>), Archidiakon Eberhard von Besançon, Kapellan Heribert, Heinrich <hi rend="italic">de Cuningesberg</hi>  (Königsberg?), Kämmerer Hartmann, Truchseß Walter</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Stephani Vennensis (!) archiep. et in regno Burgundię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von dem Notar und Kapellan Heribert</span>; <span n="seal">SI. D.</span>. <span n="incipit"><hi rend="italic">Antecessorum nostrorum regum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Antecessorum nostrorum regum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Nationalbibliothek Paris Nouv. acquis. lat. 2484 (A). Kop.: Abschrift von etwa 1780, Coll. Baverel n<hi rend="sup">o</hi>  38 f. 4, Stadtbibliothek Besançon (C). Drucke: Prost, Mélanges historiques, Archives historiques, artistiques et litteraires 2 tom. (1889-91). Vol. 2 (1890/91) 175 f.; Chauvin, Balerne, Cîteaux 29 (1978) 322; MG. DF. I. 194. Faks.: Chauvin, Balerne nach 320.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus den DDF. I. 192 und 193 (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-18_1_0_4_2_1_502_500.html" type="internal" n="regesten">500</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-18_2_0_4_2_1_503_501.html" type="internal" n="regesten">501</ref>). Zu dem Zeugen Wido Abbas = Guy l'Abbé aus der Familie derer zu Durnes vgl. Mariotte, Bourgogne (Cahiers d'études comtoises 4, 1963) 117 Anm. 7. Dorsualvermerk (s. XII/XIII): <hi rend="italic">carta imperatricis</hi>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0170" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_194" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1886</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-23_1_0_4_2_3_111_1886"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-23_1_0_4_2_3_111_1886"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-06-23_1_0_4_2_3_111_1886</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596337" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1886</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-06-23" to="1170-06-23">1170 Juni 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IX kal. iulii, Herbsfordie).</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von UB</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt ein von dem an den Hof gekommenen <hi rend="spaced">Bischof Hugo von Verden</hi>  erbetenes Urteil des Hofgerichts, nach dem der Vogt einer Kirche an deren Ausstattung und der Habe ihrer Geistlichen, seien es lebende oder verstorbene, keinerlei Rechte hat. — <span n="clerk">Verfaßt und geschrieben von UB</span>. <span n="incipit"><hi rend="italic">Imperatorie maiestatis est</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorie maiestatis est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Kopialbuch der Verdener Kirche II 125 n<hi rend="sup">o</hi>  24, Hauptstaatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (B). Drucke: Posse, CD.Sax.regiae I 2, 255 n<hi rend="sup">o</hi>  367; MG. Const. 1, 329 n<hi rend="sup">o</hi>  235; MG.DF.I.568. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  399; Diestelkamp — Rotter, Urkundenregesten 1, 317 n<hi rend="sup">o</hi>  404; Stumpf 4115.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Rechtsvorgang vgl. Appelt, Fürstensentenz, MIÖG 71 (1963) 36 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0051" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_568" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

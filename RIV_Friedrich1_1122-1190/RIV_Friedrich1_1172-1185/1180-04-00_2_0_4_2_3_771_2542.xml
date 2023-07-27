@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2542</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-00_2_0_4_2_3_771_2542"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-00_2_0_4_2_3_771_2542"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-04-00_2_0_4_2_3_771_2542</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606228" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2542</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-04-01" to="1180-04-30">1180  April</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gelnhausen im Mainzer Gebiet</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(apud Geilinhusin in territorio Maguntino)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice Cristiani Maguntini archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der undatierten Urkunde des Kölner Erzbischofs über den Tausch mit seinem Domkapitel (Hecker, Regesten des Erzbischofs Philipp I. von Köln, Zs. des Bergischen Geschichtsvereins 22, 1886, 244 n<hi rend="sup">o</hi>  9; VU.) verfaßt und geschriebe</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln, Arnold von Trier und Wichmann von Magdeburg, die Bischöfe Arnold von Osnabrück, Bertram von Metz und Rudolf von Lüttich, die Herzoge Friedrich von Schwaben und Gottfried von (Nieder)Lothringen, die Markgrafen Dietrich von Landsberg und Otto von Brandenburg, Graf Dietrich von Werben sowie Ludwig, Landgraf von Thüringen und Pfalzgraf von Sommerschenburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet einen vertraglich vereinbarten Gütertausch zwischen <hi rend="spaced">Erzbischof Philipp von Köln</hi>  und dem <hi rend="spaced">Domkapitel seiner Kirche</hi>, mit dem Philipp die <hi rend="italic">villa</hi>  Espede an der Maas gegen die <hi rend="italic">villa</hi>  Niehl nahe (heute: in) Köln und das Gut Prummern eingetauscht hat, und einen weiteren Gütertausch des Erzbischofs mit <hi rend="spaced">Bischof Rudolf von Lüttich</hi>, bei dem Philipp gegen die Übertragung der <hi rend="italic">villa</hi>  Espede an die Lütticher Kirche die Rechte des Lütticher Bischofs in der <hi rend="italic">villa</hi>  Lantershofen und in Witterschlick erhalten hat, und bestätigt dem Kölner Domkapitel und dem Erzbischof die neu erworbenen Besitzungen. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln, Arnold von Trier und Wichmann von Magdeburg, die Bischöfe Arnold von Osnabrück, Bertram von Metz und Rudolf von Lüttich, die Herzoge Friedrich von Schwaben und Gottfried von (Nieder)Lothringen, die Markgrafen Dietrich von Landsberg und Otto von Brandenburg, Graf Dietrich von Werben sowie Ludwig, Landgraf von Thüringen und Pfalzgraf von Sommerschenburg</span>. — <span n="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice Cristiani Maguntini archiep. et Germanię archicanc.</hi> </span>; <span n="clerk">unter Heranziehung der undatierten Urkunde des Kölner Erzbischofs über den Tausch mit seinem Domkapitel (Hecker, Regesten des Erzbischofs Philipp I. von Köln, Zs. des Bergischen Geschichtsvereins 22, 1886, 244 n<hi rend="sup">o</hi>  9; VU.) verfaßt und geschrieben von GG , dessen Diktat hier noch den Einfluß Burkhards zeigt</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Contractus, qui inter</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Contractus, qui inter</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Historisches Archiv der Stadt Köln (A). Drucke: Lacomblet, Niederrhein.UB. 1, 332 n<hi rend="sup">o</hi>  473; MG.DF.I.797. Regg.: Goerz, Mittelrhein.Reg. 2, 124 n<hi rend="sup">o</hi>  441; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1146; Stumpf 4303.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den erzbischöflich-kölnischen Rechten in Lantershofen vgl. auch die vom Kaiser 1179 vorgenommene Bestätigung der Verpfändung der <hi rend="italic">curtis</hi>  Lantershofen an Graf Engelbert von Berg (DF.I.776 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1179-04-11_1_0_4_2_3_713_2485.html" type="internal" n="regesten">2485</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0271" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_797" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

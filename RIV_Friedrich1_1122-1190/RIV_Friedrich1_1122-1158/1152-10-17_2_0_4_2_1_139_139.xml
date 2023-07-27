@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 139</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-17_2_0_4_2_1_139_139"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-17_2_0_4_2_1_139_139"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-17_2_0_4_2_1_139_139</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235800" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 139</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-17" to="1152-10-17">1152 Oktober 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X<hi rend="sup">o</hi> VI<hi rend="sup">o</hi>  kal novenb., Wirzeburchi)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>nach Beschreibung in B bereits damals beschädigtes SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Walo di Casalvolone</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und nach der Nachzeichnung in B auch mundiert von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hartwig (<hi rend="italic">Hartuicus</hi>) von Bremen, die Bischöfe Uguccio von Vercelli, Heinrich von Regensburg, Eberhard von Bamberg, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Markgraf Albrecht (der Bär) von Sachsen, Graf Wido von Biandrate, Cavalcasella von Castel d'Agogno (<hi rend="italic">Castello</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert auf Bitten Bischof Uguccios von Vercelli und seines Kanzlers Arnold den <span sameAs="recipient"><hi rend="spaced">Walo di Casalvolone</hi> </span>  (<hi rend="italic">Casale Walonis</hi>) mit den Reichslehen, nämlich der Banngewalt zu Casalvolone, Rosasco, Serga, Pezzana und Buronzo, jeweils mit dem Weiderecht und den übrigen Regalien (<hi rend="italic">districtum Casalis Walonis cum pascuis et aliis ad regalia pertinentibus, districtum in Rosasco cum pascuis et aliis regalibus, districtum in Serga et in Petiana et in Burontio cum pascuis et aliis ad regalia pertinentibus</hi>.), erlaubt ihm die Rückgewinnung von durch seine Vorgänger entfremdeten Lehen mit Ausnahme derjenigen Alberts und Heinrichs sowie ihrer Brüder, falls diese nichts von den Regalien veräußert haben, verleiht ihm das Befestigungsrecht und bestätigt ihm alle Privilegien seiner Vorgänger. <span n="witnesses">Z.: Erzbischof Hartwig (<hi rend="italic">Hartuicus</hi>) von Bremen, die Bischöfe Uguccio von Vercelli, Heinrich von Regensburg, Eberhard von Bamberg, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Markgraf Albrecht (der Bär) von Sachsen, Graf Wido von Biandrate, Cavalcasella von Castel d'Agogno (<hi rend="italic">Castello</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und nach der Nachzeichnung in B auch mundiert von A II. D</span>; <span n="seal">nach Beschreibung in B bereits damals beschädigtes SI. 1.</span>  <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des 14. Jh. im Besitz des Conte Luigi Arborio-Mella zu Turin (B); Notarielle Abschrift von 1576 im Archiv der Grafen Gromo di Ternengo zu Biella, verschollen (C); Abschrift des 16. Jh. in einem Pergamentband der Atti di lite Buronzo ebenda (D); G. Frova, Storia di Vercelli, Manuskript von 1760 in der Biblioteca Reale, Turin, Misc. di stor, patria 669 (E). Drucke: Mon. patr. Chart. 2, 279 n<hi rend="sup">o</hi>  234; Guasco di Bisio-Gabotto, Documenti Biellesi, BSSS 34 (1908) 220 n<hi rend="sup">o</hi>  5; MG. DF. I. 32. Reg.: Stumpf 3647.</p></div>
+				
+				
+					<div type="commentary"><p>Über den hier erstmals auftretenden Kanzleinotar A II. D vgl. Zeillinger, Reichskanzlei, DA 22 (1966) 532 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0049" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_32" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

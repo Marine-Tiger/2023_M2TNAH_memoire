@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2911</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-21_1_0_4_2_4_334_2911"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-21_1_0_4_2_4_334_2911"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-08-21_1_0_4_2_4_334_2911</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845439" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2911</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-08-21" to="1185-08-21">1185
+									August 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Montefiascone (<hi rend="italic">XII kal. septembr., apud Montemflasconis</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2 									(vgl. DF.I.915, Anm. p; wie unten Reg. 2919)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gottifredus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst von GG</scribe>
+				
+				
+					<testis function="witnesses">Bischof Bonifaz von Novara, Propst Friedrich von St. Thomas 									in Straßburg, die Grafen Heinrich von Diez, Diepold von 									Lechsgemünd und Walter von Montefiascone, Kämmerer Rudolf und 									die Hofrichter Ottobellus aus Mailand, Albertus (Aldigheri) aus 									Ferrara und Grossus aus Brescia</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Burg</hi> 								und die <hi rend="spaced">Bewohner von Montefiascone</hi> auf 								Bitten ihrer Konsuln Gratian, Johannes, Machabeus und Bernuardus 								sowie anderer <hi rend="italic">boni homines</hi> und des gesamten 								Volkes in seinen Schutz und legt den von Besitzern von Häusern in 								der Burg und ihren Vorstädten an den Burggrafen von Montefiascone zu 								leistenden Jahreszins mit zwei Pfennigen fest, wofür sie dann freies 								Verfügungsrecht haben sollen. Er erlaubt den freien Zuzug nach 								Montefiascone, wobei die Neusiedler die Rechte der Burgbewohner 								haben sollen, verbietet allerdings den Zuzug aus den Reichsburgen 								Marta, Valentano, Latera (<hi rend="italic">Alatro</hi>), Gradoli, 								aus vier Burgen <hi rend="italic">in terra Lombardorum</hi>, aus 								Proceno, San Lorenzo Nuovo, Grotte di Castro, Acquapendente und 								Bolsena (<hi rend="italic">sancta Cristina</hi>) sowie auch den 								Zuzug von Knechten, Räubern, Gebannten und Fälschern. Den dort 								Lebenden sichert er zu, dass sie Rechte, die sie durch dreißig Jahre 								lang ununterbrochen innehaben, behalten können, und er macht 								jegliche Gefangennahme der Einwohner der Burg und ihrer Vorstädte 								von einem vorher rechtlich erbrachten Beweis abhängig, wobei jedoch 								der Angeklagte dem kaiserlichen Burggrafen eine <hi rend="italic">securitas</hi> zu leisten hat, dass er sein Recht vor dem 								Richter nimmt, den dieser Burggraf damit beauftragt. In allem behält 								er sich jedoch die kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: Bischof Bonifaz von Novara, Propst Friedrich von St. Thomas 									in Straßburg, die Grafen Heinrich von Diez, Diepold von 									Lechsgemünd und Walter von Montefiascone, Kämmerer Rudolf und 									die Hofrichter Ottobellus aus Mailand, Albertus (Aldigheri) aus 									Ferrara und Grossus aus Brescia</span>. –<span n="chancellor"> 									<hi rend="italic">Gottifredus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></span>; <span n="clerk">verfasst von GG</span>; <span n="seal">B.2 									(vgl. DF.I.915, Anm. p; wie unten Reg. 2919)</span>. <span n="incipit"><hi rend="italic">Solita imperatorie 										maiestatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Solita imperatorie 										maiestatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1789, kollationiert von 								Kardinal Garampi, aus notarieller Beglaubigung von 1280 Mai 22 im 								Archivio secreto von Montefiascone, Codice diplomatico di 								Montefiascone im Vatikanischen Archiv, Fondo Garampi Cod. 198 (G); 								Bearbeitungsblatt Garampis mit Angabe der Abweichungen gegenüber der 								Nachurkunde Ottos IV. von 1210 September 7, Tuscania, ebenda (G<hi rend="sup">1</hi>). Drucke: Polock, Montefiascone, QFIAB 								65 (1985) 126; MG.DF.I.915.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zu deren Glaubwürdigkeit 								vgl. die Vorbemerkung zum D. sowie von der Nahmer, Toscana, 154 Anm. 								291, der das D. freilich nur aus literarischer Erwähnung kannte und 								für eine Fälschung hielt. – Das D. gewährt wertvolle Einblicke in 								die staufische Reichsverwaltung in der Toskana.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_915" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3464</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-07_1_0_4_2_4_894_3464"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-07_1_0_4_2_4_894_3464"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-06-07_1_0_4_2_4_894_3464</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3464</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-06-07" to="1190-06-07">1190
+									Juni 2–7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">Laranda</hi> (heute: Karaman) – (Koropissos/Dağpazarı) –  armenisches Gebiet am Saleph (heute: Göksu)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich betritt nach dem Aufbruch von <hi rend="italic">Laranda</hi> mit dem Kreuzheer armenisches Gebiet, 								wobei der Weg zunächst durch äußerst schwieriges Gelände führt. Bei 								einer von Armeniern besiedelten Ortschaft (wohl: 								Koropissos/Dağpazarı) sehen sie auf den Feldern Kreuze aufgepflanzt, 								was die Kreuzritter als christliche Zeichen überaus erfreut 								wahrnehmen. Die seldschukischen Geiseln werden trotz ihrer Forderung 								nach Freilassung weiterhin in strengstem Gewahrsam mitgeführt. Auf 								dem mühsamen Marsch über hohe, gebirgige Wegstrecken kommt dem 								Kaiser der Fürst (Oşin) von <hi rend="italic">Sibilia</hi> (heute: 								Mavga Kalesi) entgegen, der die Kreuzritter mit aller Ehrerbietung 								empfängt und ihnen guten Markt gewährt. Nach dem Abstieg von den 								Bergen wird sodann an einem großen und durch keine Furt zu 								überquerenden Fluss (= Saleph, der heutige Göksu) Lager bezogen. Man 								lagert zwei Tage lang auf einem etwas ausgedehnteren Feld, wo auch 								genügend Gras für die mitgeführten Tiere vorhanden ist. – Auf dem 								Weitermarsch lagert man an einer Steinbrücke über den Saleph, wo der 								Kaiser am 7. Juni von Boten des Roupeniden Leon II. (<hi rend="italic">Leo de Montanis</hi>) von Armenien (den Brüdern 								Konstantius und Balduin von Camardeis sowie Hethum dem Sassouniden) 								aufgesucht wird, die ihn ehrerbietig willkommen heißen (siehe dazu 								auch Regg. 3465 und 3466), ihm Geschenke überbringen und ihm die 								Gewalt über Land und Leute übergeben. Friedrich holt ihren Rat über 								die vor ihnen liegende Wegstrecke ein. Er hält die Angaben über 								deren Schwierigkeiten vor den Kreuzrittern zunächst geheim.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Neben den in Regg. 3462 und 3468 angeführten 								Quellen vgl. insbesondere L’estoire de Eracles (Recueil des 								Historiens des Croisades, Sér. II: Historiens occidentaux, Tom. 2, 								1859) 136 f. lib. XXIV cap. XXV–XXVI = Continuation de Guillaume de 								Tyr, ed. Morgan (Doc. relatifs à l’histoire des Croisades 14, 1982) 								96 f. cap. 93–94 = The Old French Continuation of William of Tyre, 								1184–1197, ed. Edbury, The conquest of Jerusalem and the Third 								Crusade. Sources in Translation (1996) 87 f. cap. 93–94, die 								armenischen Überlieferungen (wie oben Reg. 3463), den Bericht des 								Bahā’ al-Dīn, History of Saladin, transl. by D. S. Richards (2002) 								113 f. (spricht irrig davon, dass man die <hi rend="italic">civitas 									Tarsensis</hi> = Tarsus erreicht), Chronicle of Ibn al-Athīr, 								Part 2, transl. by D. S. Richards (Crusade Texts in Translation, 								2007) 375 (auszugweise deutsche Übersetzung bei Gabrieli, Die 								Kreuzzüge aus arabischer Sicht, 1973, 263) und den Bericht des `Imâd 								ad-Dîn al-Isfahânî, Conquête de la Syrie et de la Palestine par 								Saladin (al-Fath al-qussî fî l-fath al-qudsî), trad. par H. Massé 								(Documents relatifs a l’Histoire des Croisades. Académie des 								inscriptions et belles-lettres X, 1972) 228 = in deutscher 								Übersetzung bei Petermann, Imâd el Ispahani, Wochenblatt der 								Johanniter-Ordensballey Brandenburg Nr. 30 (1873) 175 (irrig: Kaiser 								hält sich in Tarsos – dorthin sollte das Kreuzheer erst nach dem Tod 								des Kaisers gelangen, siehe dazu unten Reg. 3471 – bei Leon II. von 								Armenien auf, der ihm dort den Lehnseid leistet); Brief des 								Katholikos (Patriarchen) von Armenien Gregor (IV.) an Sultan 								Saladin, der im Bericht des `Imâd ad-Dîn al-Isfahânî, Conquête de la 								Syrie et de la Palestine par Saladin (al-Fath al-qussî fî l-fath 								al-qudsî), trad. par H. Massé (Documents relatifs a l’Histoire des 								Croisades. Académie des inscriptions et belles-lettres X, 1972) 230 								(eine alte deutsche Übersetzung bei Wilken, Geschichte der Kreuzzüge 								4, 3 ff.) überliefert und auch in englischer Übersetzung bei Bahā’ 								al-Dīn, History of Saladin, transl. by D. S. Richards (2002) 115, 								verfügbar ist (siehe zu dieser Quelle die Hinweise in den 								Quellenangaben bei Reg. 3367). – Zu den seldschukischen Geiseln Abu 								Sama, Le livre des deux Jardins (Recueil des Historiens des 								Croisades, Historiens Orientaux 4, 1898) 457; vgl. auch Petermann, 								Kreuzzüge aus armenischen Quellen, Abhh. d. Kgl. Preuß. Akad. d. 								Wiss. 1860 (1861) 150.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Kontakten mit Armenien – tatsächlich dürfte 								der Hinweis darauf, dass die armenischen Gesandten die Gewalt über 								Land und Leute dem Staufer übergaben, so zu verstehen sein, dass 								damit die Lehnsherrschaft des römischen Kaisers anerkannt wurde – 								vgl. Regg. 3463, 3465 und 3466, Eickhoff, Barbarossa im Orient, 151 								ff., und Halfter, Staufer und Armenien, in: Von Schwaben bis 								Jerusalem, hg. von Lorenz und Schmidt (Veröff. d. Alemann. 								Instituts, Nr. 61, 1995) 193 ff. – Zum eingeschlagenen Weg vgl. auch 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 165 f. Anm. 321. – 								Mavga Kalesi, heute eine Burg in Ruinen, liegt unweit von Sinobuç 								nördlich von Mut/Klaudiopolis (Provinz Mersin, Türkei), vgl. dazu 								auch Bühler, a.a.O., 166 Anm. 322.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

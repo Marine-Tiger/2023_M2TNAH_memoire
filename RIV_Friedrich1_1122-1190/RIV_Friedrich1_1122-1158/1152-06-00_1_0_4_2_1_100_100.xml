@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 100</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-06-00_1_0_4_2_1_100_100"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-06-00_1_0_4_2_1_100_100"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-06-00_1_0_4_2_1_100_100</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235511" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 100</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-06-20" to="1152-07-10">1152 (Ende Juni-Anfang Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Regensburg  (Ratispone)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gottesgnaden</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus not. vice archicanc. Heinrici Magontini archiep.</hi></notarius>
+				
+				
+					<scribe>Wiederholung des DK. III. 265 (VU. II) unter Benützung des DK. III. 169 (VU. I) in der Arenga, von derselben Empfängerhand wie DK. III. 265 mundiert;</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg und Eberhard von Salzburg, die Bischöfe Anselm von Havelberg, Eberhard von Bamberg, Heinrich von Regensburg, Konrad von Passau, Eberhard von Trient, Hermann von Konstanz, Otto von Freising, die Herzoge Heinrich von Bayern, Welf von Spoleto, Markgraf von Tuszien und Fürst von Sardinien, Ulrich von Kärnten, Konrad von Meranien, die Markgrafen Konrad von Meißen, Albrecht von Brandenburg, Engelbert von Istrien, Otakar (von Steier), Thebald (von Vohburg), Pfalzgraf Otto (von Wittelsbach), Graf Gebhard (von Sulzbach), Burggraf Heinrich von Regensburg, Graf Berthold (von Bogen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Stift <span sameAs="recipient"><hi rend="spaced">Gottesgnaden</hi> </span>  an der Saale (<hi rend="italic">ęcclesiam sancti Victoris, que vocatur Gratia dei et sita est supra fluvium Salam in archiepiscopatu Magdeburgensi</hi>) wie König Konrad (III.) mit den genannten Besitzungen in seinen Schutz. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg und Eberhard von Salzburg, die Bischöfe Anselm von Havelberg, Eberhard von Bamberg, Heinrich von Regensburg, Konrad von Passau, Eberhard von Trient, Hermann von Konstanz, Otto von Freising, die Herzoge Heinrich von Bayern, Welf von Spoleto, Markgraf von Tuszien und Fürst von Sardinien, Ulrich von Kärnten, Konrad von Meranien, die Markgrafen Konrad von Meißen, Albrecht von Brandenburg, Engelbert von Istrien, Otakar (von Steier), Thebald (von Vohburg), Pfalzgraf Otto (von Wittelsbach), Graf Gebhard (von Sulzbach), Burggraf Heinrich von Regensburg, Graf Berthold (von Bogen)</span>. - <span n="chancellor"><hi rend="italic">Heinricus not. vice archicanc. Heinrici Magontini archiep.</hi> </span>; <span n="clerk">Wiederholung des DK. III. 265 (VU. II) unter Benützung des DK. III. 169 (VU. I) in der Arenga, von derselben Empfängerhand wie DK. III. 265 mundiert; </span> <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Antecessorum nostrorum Romanorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Antecessorum nostrorum Romanorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Magdeburg (A). Druck: MG. DF. I. 14. Reg.: Stumpf 3633.</p></div>
+				
+				
+					<div type="commentary"><p>Posse, CD. Sax. reg. 1/2, 166 n<hi rend="sup">o</hi>  247 und nach ihm Feldmann, Welf VI. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-02-15_1_0_4_2_1_60_60.html" type="internal" n="regesten">60</ref>  bezeichnen das D. irrig als Fälschung; zur diplomatischen Kritik vgl. im einzelnen die Vorbemerkung zum D. Die Ankündigung der Zeugenliste fällt nicht nur durch Nennung des Ausstellungsortes, sondern auch durch Bezeichnung der Zeugen als: <hi rend="italic">consentientibus et petentibus</hi>  aus dem Rahmen; die Nennung des bereits 1144 verstorbenen Herzogs Ulrich von Kärnten mag auf die Unerfahrenheit des Empfängerschreibers zurückzuführen sein, die Eberhards als Bischof von Trient (erst nach 1154 Februar 2, dem Todestag seines Vorgängers Arnold) kann nur durch die Annahme der Ausfertigung der Urkunde erst nach diesem Zeitpunkt, also frühestens im Februar 1154, erklärt werden. Herzog Welf wird in diesem D. zum ersten Mal als Herr seiner italienischen Lehen bezeichnet, vgl. dazu Feldmann, a. a. O. 33 f., die die Belehnung Welfs erst für den Hoftag zu Würzburg im Oktober 1152 annimmt (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-10-13_1_0_4_2_1_135_135.html" type="internal" n="regesten">135</ref>). - Zur umstrittenen Anwesenheit Albrechts (des Bären) von Brandenburg vgl. Krabbo-Winter, Reg. Brandenburg n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-05-03_2_0_4_2_1_219_219.html" type="internal" n="regesten">219</ref>, der freilich den Regensburger Aufenthalt völlig aus dem Itinerar Albrechts streichen will.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Vgl. zum D. jetzt Herkenrath, Mark Brandenburg, MIÖG98 (1990) 112ff., der nachweist, daß die Ausfertigung frühestens 1157 erfolgt sein kann.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0037" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_14" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

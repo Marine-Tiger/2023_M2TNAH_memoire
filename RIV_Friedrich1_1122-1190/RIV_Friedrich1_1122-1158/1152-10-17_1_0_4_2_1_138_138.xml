@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 138</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-17_1_0_4_2_1_138_138"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-17_1_0_4_2_1_138_138"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-17_1_0_4_2_1_138_138</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235783" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 138</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-17" to="1152-10-17">1152 Oktober 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. novembr., Wirczburg)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Uguccio</hi>  <hi rend="spaced">Vercelli</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und nach der Nachzeichnung in B auch mundiert von A II. C</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hartwig (<hi rend="italic">Hartuvicus</hi>) von Bremen, die Bischöfe Gebhard (<hi rend="italic">Gebahardus</hi>) von Würzburg, Gunther von Speyer, Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Anselm von Havelberg, die Herzoge Welf, Heinrich von Sachsen, die Markgrafen Konrad (von Wettin) und Albrecht (der Bar) von Sachsen, Graf Guido von Biandrate</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten Papst Eugens III. und auf Intervention des Kanzlers Arnold und anderer Reichsfürsten (<hi rend="italic">petitione domini pape Eugenii tertii et intercedente karissimo cancellario nostro Arnoldo aliisque pluribus regni principibus</hi>) Bischof <span sameAs="recipient"><hi rend="spaced">Uguccio</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Vercelli</hi> </span>  mit seiner Kirche (<hi rend="italic">sancti Eusebii</hi>) in seinen Schutz, bestätigt ihm den angeführten Besitzstand des Bistums und kassiert die Veräußerungen der schismatischen Bischöfe Gregor von Verrua Savoia, Liprand, Sigifred und Ardicio (<hi rend="italic">ab invasoribus sancti Eusebii factas, qui pontificalem benedictionem non obtinuerunt</hi>) gemäß der Vorgangsweise Konrads III. Die gegen den Willen seiner Kirche von Bischof Anselm von Vercelli durchgeführte Verlehnung von Palazzolo Vercellese (<hi rend="italic">Clauatiolo</hi>) und die von Bischof Gisulf gegen seinen Eid und das Verbot Papst Eugens unternommene Verlehnung von Weg- und Fährgeld zu Saluggia (<hi rend="italic">de pedatico et naulo Salugie</hi>) erklärt er für ungültig, ebenso die Verkäufe von Vercelleser Lehen gegen die Erlässe römischer Kaiser und zum Schaden der Kirche; er verleiht dem Bischof das Recht, Mühlen zu kaufen und zu verlegen, die Burg Trino (<hi rend="italic">montem V gitionis</hi>) auszubauen und zu befestigen sowie dem Bischof, der Domkirche und der Kirche S. Maria eine Verjährungszeit von hundert Jahren. <span n="witnesses">Z.: Erzbischof Hartwig (<hi rend="italic">Hartuvicus</hi>) von Bremen, die Bischöfe Gebhard (<hi rend="italic">Gebahardus</hi>) von Würzburg, Gunther von Speyer, Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Anselm von Havelberg, die Herzoge Welf, Heinrich von Sachsen, die Markgrafen Konrad (von Wettin) und Albrecht (der Bar) von Sachsen, Graf Guido von Biandrate</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und nach der Nachzeichnung in B auch mundiert von A II. C</span>. <span n="incipit"><hi rend="italic">Quia Romani imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia Romani imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Fragment einer notariellen Abschrift des 12.-13. Jh., Stadtarchiv Vercelli (B); Notarielle Abschrift von 1338 aus A, Kapitelarchiv Vercelli (C); Originaltranssumpt Karls IV. von 1365 Juni 7 (fehlt B.-Huber) ebenda (D); Abschrift des 15. Jh. wohl aus B in den Libri Biscioni 1, f. 63', Stadtbibliothek Vercelli (E). Drucke: Mon. Patr. Chart. 2, 277 n<hi rend="sup">o</hi>  233; Faccio-Ranno, I Biscioni, BSSS 145 (1934) 123 n<hi rend="sup">o</hi>  38; MG. DF. I. 31. Reg.: Caccianotti, Summarium tabul. Vercell. 7; Gabotto, Vercelli, Arch. stor. it. ser. V 21 (1898) 15 n<hi rend="sup">o</hi>  23; Stumpf 3646.</p></div>
+				
+				
+					<div type="commentary"><p>Weder die erwähnte Verfügung Konrads III. noch das gegen Bischof Gisulf gerichtete Verbot Papst Eugens III. sind erhalten, vgl. DK. III. 271 und Italia pont. 6/2, 13 n<hi rend="sup">o</hi>  *25 und 14 n<hi rend="sup">o</hi>  *30. Manche Orte der recht umfangreichen Besitzliste finden sich auch in älteren Kaiserurkunden für Vercelli, die aber dennoch nicht als Vorlagen gelten können, vgl. Vorbemerkung zum D. - Die genauen Namen der <hi rend="italic">intrusi</hi>  auf dem Bischofsstuhl von Vercelli finden sich in der Urkunde von 1181 Dezember 10, vgl. It. pont. 6/2, 13 n<hi rend="sup">o</hi>  *25. - Über die ursprüngliche Domkirche, das spätere Kollegiatstift S. Maria Maggiore zu Vercelli, vgl. It. pont. 6/2, 21 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0049" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_31" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

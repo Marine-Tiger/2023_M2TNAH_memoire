@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1458</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-03-18_2_0_4_2_2_900_1458"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-03-18_2_0_4_2_2_900_1458"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-03-18_2_0_4_2_2_900_1458</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246853" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1458</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-03-18" to="1165-03-18">1165 März 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV<hi rend="sup">o</hi>  kal. aprilis, Erbifordie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Georgenkloster zu Naumburg</hi></recipient>
+				
+				
+				
+					<scribe>Wohl nach Empfängerdiktat geschrieben von UB, Monogramm von RG</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Udo von Naumburg und Hermann von Verden, Abt Hermann von Hersfeld, Landgraf Ludwig (von Thüringen), die Markgrafen Albrecht (der Bär) von Sachsen, Otto von Meißen und Dietrich (von der Lausitz), die Grafen Dedo (von Groitzsch), Gebhard von Leuchtenberg und Berthold von Andechs, Präfekt (Burggraf) Hermann von Meißen, Präfekt (Burggraf) Heinrich von Dohna und seine Brüder, Otto von Trachenau, Lambert <hi rend="italic">de Salheim</hi>  und Heinrich von Weida</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <span sameAs="recipient"><hi rend="spaced">St. Georgenkloster zu Naumburg</hi> </span>  auf Bitten des Abtes Eckehard und des Bischofs (Udo) von Naumburg einen vom Landgrafen Ludwig (von Thüringen) gefällten Rechtsspruch, nach dem die Lehnsleute des Klosters, ob sie sich nun &amp;quot;Heerschild&amp;quot; (<hi rend="italic">herscilt</hi>) nennen oder nicht, den Lehnsträgern des Bistums rechtlich gleichgestellt sein sollen. <span n="witnesses">Z.: die Bischöfe Udo von Naumburg und Hermann von Verden, Abt Hermann von Hersfeld, Landgraf Ludwig (von Thüringen), die Markgrafen Albrecht (der Bär) von Sachsen, Otto von Meißen und Dietrich (von der Lausitz), die Grafen Dedo (von Groitzsch), Gebhard von Leuchtenberg und Berthold von Andechs, Präfekt (Burggraf) Hermann von Meißen, Präfekt (Burggraf) Heinrich von Dohna und seine Brüder, Otto von Trachenau, Lambert <hi rend="italic">de Salheim</hi>  und Heinrich von Weida</span>. - <span n="clerk">Wohl nach Empfängerdiktat geschrieben von UB, Monogramm von RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quia de cunctis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia de cunctis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Königliches Hausarchiv zu 's-Gravenhage (A). Druck: MG. DF. I. 475. Faks.: Koch, Reichskanzlei Abb. 7 Teilfaks. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 301 n<hi rend="sup">o</hi>  388.</p></div>
+				
+				
+					<div type="commentary"><p>Die Rechtshandlung war in Zeitz erfolgt, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-03-18_1_0_4_2_2_899_1457.html" type="internal" n="regesten">1457</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Am Schluß der Zeugenreihe dieses DF.I. muß es richtig heißen:... Heinrich (von Rötha) von Dohna und seine Brüder, Otto von Trachenau und Lambert <hi rend="kursiv">de Salheim</hi> (wohl die Burg Saathain westl. Elderwerda), sowie Heinrich von Weida. &amp;#x2012; Vgl. dazu künftig Kobuch, <hi rend="kursiv">Salheim</hi> &amp;#x2012; Saathain? Ein Versuch der Identifizierung des Edelfreien <hi rend="kursiv">Lambertus de Salheim</hi>, in: Leipzig &amp;#x2012; Mitteldeutschland &amp;#x2012; Europa. Manfred Straube und Manfred Unger zum 70. Geburtstag, hg. von Hartmut Zwahr (u.a) (Beucha 2000); für die Zusendung des Manuskripts dieses Beitrags danke ich Herrn Kollegen Kobuch vielmals.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0237" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_475" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2852</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-22_1_0_4_2_4_274_2852"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-22_1_0_4_2_4_274_2852"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-22_1_0_4_2_4_274_2852</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2852</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-22" to="1185-01-22">1185
+									Januar 21/22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Piacenza">Piacenza</placeName>
+												<location><geo decls="#WGS">44.8833, 9.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Vertreter der Lega Lombarda, die Rektoren 								Aldricus de Sala aus Brescia, Richter Cocius aus Verona, Podestà 								Prendiparte aus Bologna, Podestà Roglerius Marcellinus aus Novara, 								Nazoccus aus Padua, Oldericus de Montello aus Treviso, Guillelmus 								Attonis aus Modena, Bonizo de Andito aus Piacenza, Podestà Albertus 								de Osa aus Bergamo, Konsul (<hi rend="italic">consul plebis</hi>) 								Petrus Calvus de Dalmasio aus Gravedona (<hi rend="italic">de plebe 									de Grabadona</hi>), Podestà Guillelmus Burrus aus Faenza – all 								diese mit der Verpflichtung, den Podestà und die Konsuln der Stadt 								auch im Falle von Neuwahlen binnen acht Tagen nach der Wahl schwören 								zu lassen –, des Weiteren Petrus Vicecomes aus Mailand und 								schließlich Armannus de Brancafura aus Parma, der am Tag darauf (22. 								Januar) schwören wird, verpflichten sich (<hi rend="italic">Tenor 									juramenti facti a societatibus Lombardie, Marchie, Romaniole que 									ad colloquium in Placentia factum conuenere …</hi>) zur 								Beachtung der Vereinbarungen zwischen dem Kaiser und ihrem Bund. 								Diese sollen vom kommenden 1. Mai an für 30 Jahre lang gültig sein, 								bei Bedarf alle fünf Jahre erneuert und von den Bewohnern der Städte 								im Alter zwischen 18 und 70 Jahren beeidet werden. Als Teilnehmer an 								diesem Kolloquium, die all das mit Ausnahme der Bestimmung, dass die 								Rektoren die Bürger ihrer Städte eidlich verpflichten mögen, 								beschwören, werden genannt: aus Brescia Desiderius, Martinus <hi rend="italic">Pectenalupus</hi> und der Bannerträger (<hi rend="italic">confanonerius</hi>) Pax, aus Padua Gerardus <hi rend="italic">de Calaono</hi> und Guanfus, aus Verona 								Carneleuarius <hi rend="italic">de Crexenciis</hi> und der <hi rend="italic">advocatus</hi> Viuianus, aus Treviso Richter 								Teruisius, Sohn des Gualpertus, aus Bergamo Lanfrancus <hi rend="italic">de Monacha</hi>, Oprandus <hi rend="italic">de 									sancto Alexandro</hi> und Johannes <hi rend="italic">de 									Peregno</hi>, aus Novara Fredericus <hi rend="italic">Rubeus</hi>, Opizo <hi rend="italic">de Briano</hi> und Michael 									<hi rend="italic">Scarpa</hi>, aus Modena Rolandus de Baiamonte, 								aus Bologna Rolandus <hi rend="italic">de Guarino</hi>, Buffarellus 									<hi rend="italic">Petri Andree</hi> und Hospinellus <hi rend="italic">Carbonensius</hi>, aus Gravedona Gregorius <hi rend="italic">de Canoua</hi>, aus Mailand Ugo <hi rend="italic">de Camerario</hi> und Petrus <hi rend="italic">de Alliata</hi>, 								aus Faenza Richter Orius und schließlich am folgenden Tag (22. 								Januar) Albertus <hi rend="italic">de Tedaldo</hi> aus Parma.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>(Savioli), Ann. Bolognesi II/2, 141 n<hi rend="sup">o</hi> 279; Corna – Ercole – Tallone, Il Registrum 								magnum del Comune di Piacenza 1, BSSS 95 (1921) 258 n<hi rend="sup">o</hi> 193.</p></div>
+				
+				
+					<div type="commentary"><p>An diesem Kolloquium der Lega Lombarda, bei dem 								der Friede von Konstanz (Reg. 2716) beeidet wurde, nahm der Kaiser 								teil, vgl. dazu auch Regg. 2853 sowie 2854. Erstmals wohnte 								Barbarossa damit persönlich einer Tagung des Bundes bei, vgl. dazu 								Kauffmann, Die italienische Politik Kaiser Friedrichs I. 								(Greifswalder Abhandlungen zur Gesch. d. Mittelalters 3, 1933) 47, 								und jüngst Raccagni, The Lombard League, 147–151, der (a.a.O., 159, 								vgl. Abb. 6/1 auf S. 160) auch auf eine Inschrift an der Fassade der 								Kathedrale von Modena hinweist, die aus Anlass der Weihe der 								Kathedrale durch Papst Lucius III. 1184 <hi rend="italic">rectores 									Lombardiae, Marchiae et Romaniae</hi> nennt und damit den 								Fortbestand der Lega Lombarda nach dem Frieden von Konstanz belegt. 								– Nach einer Glosse des Odofredo de Denariis aus dem zweiten Viertel 								des 13. Jahrhunderts hat der Kaiser selbst damals den Frieden 								abermals beschworen, was der Glossator im Hinblick auf die damit 								verbundene Verpflichtung des Reichsoberhaupts gegenüber Untertanen, 								in diesem Fall den Städten der Lega Lombarda, auch erläutert, siehe 								dazu: Mss. Venezia, Bibl. Nazionale Marciana, Marc. Lat., V 119 								(2307), f. 33v: <hi rend="italic">Hinc imperator idem iurat et ipse 									in animam suam hoc iurare facit… ut hic et supra de pace § hoc 									itaque simile supra de forma fide cap. tibi domino, vel dico non 									iurat idem, sed alius in animam eius ut d. § hanc itaque et hoc 									inuit l. Proxi. Ibi inter nuncios…Sed quo modo possunt precepta 									iniungere principi, cum maior sit, et minor in maiorem non 									habeat imperium. Respondeo, ut not ss. de iur. om, iud. l. est 									receptum et sic imperator potest per pactum obligatorium 									conferre iurisdictionem contra seipsum pro bono pacis. vel dic 									verius, ut modo dixi</hi>, und dazu Raccagni, Il diritto 								pubblico, in: Dilcher – Quaglioni (edd.), Gli inizi del diritto 								pubblico europeo II: Da Federico I a Federico II. (Annali 								dell’Istituto storico italo-germanico in Trento. Contributi, 21, 								2008) 315 f. mit Anm. 38. – Der Aufenthalt in Piacenza wird auch in 								Ann. Plac. Gib., MG. SS XVIII, 465 und Ioh. Cod. Ann., ed. 								Holder-Egger, MG. SS rer.Germ. in us. schol., 12 erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

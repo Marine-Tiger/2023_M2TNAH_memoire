@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 145</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-31_1_0_4_2_1_145_145"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-31_1_0_4_2_1_145_145"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-31_1_0_4_2_1_145_145</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235864" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 145</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-31" to="1152-10-31">1152 Oktorber 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(pridie kalendarum novembris, Nuarimberch)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Simplician</hi>  <hi rend="spaced">Mailand</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Wiederholung des DL. III. 115, geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">Pfalzgraf Otto von Wittelsbach, Graf Rudolf von Ramsberg, Heinrich, der Marschall des Königs</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Simplician</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Mailand</hi> </span>  (<hi rend="italic">monasterio sanctorum martirum Geruasii et Protasii seu beatissimi antistitis Simpliciani</hi>) nach dem Vorgang der Kaiser Heinrich (IV.) und Lothar (III.) die Befreiung der Klosterleute zu Treviglio (<hi rend="italic">Triuillio, qui dicitur Grasso</hi>) von allen Abgaben mit Ausnahme des Fodrums bei Zügen des Königs ins <hi rend="italic">regnum Lombardie</hi>  und der <hi rend="italic">scudassia</hi>  an den Grafen. <span n="witnesses">Z.: Pfalzgraf Otto von Wittelsbach, Graf Rudolf von Ramsberg, Heinrich, der Marschall des Königs</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Magontini archiep. et archicanc.</hi> </span>; <span n="clerk">Wiederholung des DL. III. 115, geschrieben von A II. C</span>. <span n="incipit"><hi rend="italic">Dignum est, ut</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignum est, ut</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der zweiten Hälfte des 14. Jh. im Codex 1507 f. 2, Biblioteca Trivulziana Mailand (C); Chartular aus dem Ende des 15. Jh. f. 1', Stadtarchiv Treviglio (D). Drucke: Barelli, Documenti dell'archivio comunale di Treviglio, Arch. stor ital. ser. V 30 (1902) 20 n<hi rend="sup">o</hi>  5; MG. DF. I. 37. Reg.: Nürnberger UB. 43 n<hi rend="sup">o</hi>  64; Stumpf 3653.</p></div>
+				
+				
+					<div type="commentary"><p><hi rend="italic">Scudassia</hi>, richtig <hi rend="italic">sculdassia</hi>, bezeichnet eine an den langobardischen <hi rend="italic">sculdahis</hi>  (Schultheiß) zu entrichtende Abgabe. - Dieser Aufenthalt wird im Chron. rhythm. Austriacum, MG. SS XXV, 351 erwähnt, vgl. Nürnberger UB. 43 n<hi rend="sup">o</hi>  64 Anm. 1.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0051" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_37" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

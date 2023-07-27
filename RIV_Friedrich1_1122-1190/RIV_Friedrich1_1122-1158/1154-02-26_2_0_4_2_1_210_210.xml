@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 210</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-02-26_2_0_4_2_1_210_210"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-02-26_2_0_4_2_1_210_210"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-02-26_2_0_4_2_1_210_210</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237176" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 210</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-02-26" to="1164-10-14">(1154 Februar 26-1164 Oktober 14)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Blasien</hi></recipient>
+				
+				
+				
+					<scribe>Nach DH. V. Stumpf 3185 (Wirtemberg. UB. 1, 356 n<hi rend="sup">o</hi>  280; VU. I), DL. III. 125 (VU. II) und DK. III. 237 (VU. III) mundiert von Empfängerhand, die das gefälschte DL. III. 125 zur Gänze sowie Eingangsprotokoll und Kontext des DK. III. 269 geschri</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Kontext eines nicht ausgefertigten Diploms, in dem dem Kloster <span sameAs="recipient"><hi rend="spaced">St. Blasien</hi> </span>  nach dem Vorbild der Kaiser und Könige Heinrich (IV.), Heinrich (V.), Lothar (III.) und Konrad (III.) und auf Bitten Herzog Bertholds (von Zähringen), des Vogtes des Klosters, und anderer Getreuer die Besitzungen und Rechte bestätigt werden und dem Klostervogt verboten wird, Güter der Abtei oder die Vogtei selbst als Lehen zu vergeben. <span n="clerk">Nach DH. V. Stumpf 3185 (Wirtemberg. UB. 1, 356 n<hi rend="sup">o</hi>  280; VU. I), DL. III. 125 (VU. II) und DK. III. 237 (VU. III) mundiert von Empfängerhand, die das gefälschte DL. III. 125 zur Gänze sowie Eingangsprotokoll und Kontext des DK. III. 269 geschrieben hat</span>. <span n="incipit"><hi rend="italic">Ad perpetuam nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad perpetuam nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Urschrift: Generallandesarchiv Karlsruhe (A). Drucke: Schulte, Eine unausgefertigte Urkunde, ZGORh N. F. 3 (1888) 121; MG. DF. I. 72.</p></div>
+				
+				
+					<div type="commentary"><p>Der Urkundentext wurde in der Reichskanzlei nicht genehmigt, da man den Berg Staufen, den Konrad III. St. Blasien zugesprochen hatte (DK. III. 237) und den sich das Kloster jetzt auch unter dessen Nachfolger sichern wollte, inzwischen bereits dem Kloster Schaffhausen (DF. I. 71; Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-02-26_1_0_4_2_1_209_209.html" type="internal" n="regesten">209</ref>) als Besitz bestätigt hatte, vgl. dazu Schulte a. a. O. Der Rechtsstreit um diesen Besitz dauerte noch weiter und wurde erst 1164 Oktober 14 durch einen Schiedsspruch der Äbte von Lützel, Salem und Engelberg beigelegt (Fickler, Quellen und Forschungen 59 n<hi rend="sup">o</hi>  29). Wegen des inhaltlichen Zusammenhanges mit DF. I. 71 wurde das vorliegende, unausgefertigte D. hier eingereiht. - Zum Inhalt vgl. auch Büttner, Allerheiligen in Schaffhausen (VuF 15, 1972) 202 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0075" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%223922%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_72" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

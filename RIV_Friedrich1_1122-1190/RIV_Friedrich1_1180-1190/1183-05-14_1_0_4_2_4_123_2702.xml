@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2702</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-14_1_0_4_2_4_123_2702"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-14_1_0_4_2_4_123_2702"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-05-14_1_0_4_2_4_123_2702</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1415632247" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2702</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-05-14" to="1183-05-14">1183
+									Mai 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Wald (forêt de Chaux) bei La Vieille-Loye (<hi rend="italic">pridie idus maii, </hi> <hi rend="italic">in nemore apud Veterem Loiam)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D. (beschrieben in B: Pendet sigillum maius de serico rubro exhibens principem foeminam in solio sedentem capite coronato, quae dextra sceptrum gerit, sinistra ad pectus prefert. Sigilli vero perigrapha est h est huiusmodi:BEATRIX.DEI.GRATIA.ROMANORVM.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Von derselben Hand geschrieben wie die 									ebenfalls 1183 im Walde von Chaux ausgestellte Urkunde des 									Legaten Daniel über einen Rechtsstreit zwischen der Abtei 									Bellevaux und dem Priorat Chaux (Reg. 2703), wobei Anklänge an</scribe>
+				
+				
+					<testis function="witnesses">Abt Bernard von Bellevaux, Prior Jeremias (von St. Paul zu Besançon), Subprior Gislebert von St. Paul zu Besançon, Graf Odo von La Roche-Saint-Hyppolite (<hi rend="italic">Rocca</hi>), die Ritter Rainald von Besançon 	und Lambert von Montbozon sowie Robert von Villneuve-d’Aval (<hi rend="italic">Uillanoua</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix überlässt dem <hi rend="spaced">Kloster Rosières</hi> (<hi rend="italic">Roseriis</hi>) zum Gedenken an ihre Eltern und für ihr eigenes Seelenheil nach gütlicher Beilegung eines Rechtsstreites zwischen den Mönchen und ihr, der auf Befehl ihrer Legaten Herbert und Odo von der Champagne seitens der <hi rend="italic">certimanentes</hi> Odilo von Liesle sowie der Pröpste Robert von Arbois und Robert von Vadans unter Eid entschieden worden ist, die ihnen von Rainald von Montby übertragenen Ländereien in Brainans (<hi rend="italic">Brunens</hi>). Des Weiteren bestätigt sie dem Kloster alle anderen Besitzungen mit Ausnahme der Salzquellen von Grozon (<hi rend="italic">excepto puteo salis apud Grosonium</hi>), über die sie mit dem Kloster ein eigenes Abkommen getroffen hat. <span n="witnesses">Z.: Abt Bernard von Bellevaux, Prior Jeremias (von St. Paul zu Besançon), Subprior Gislebert von St. Paul zu Besançon, Graf Odo von La Roche-Saint-Hyppolite (<hi rend="italic">Rocca</hi>), die Ritter Rainald von Besançon 	und Lambert von Montbozon sowie Robert von Villneuve-d’Aval (<hi rend="italic">Uillanoua</hi>) </span>. –<span n="clerk"> Von derselben Hand geschrieben wie die ebenfalls 1183 im Walde von Chaux ausgestellte Urkunde des Legaten Daniel über einen Rechtsstreit zwischen der Abtei Bellevaux und dem Priorat Chaux (Reg. 2703), wobei Anklänge an die äußeren Merkmale der Papsturkunde auftreten; als Datar genannt wird der Notar der Kaiserin Magister Daniel, der kaiserlicher Legat in Burgund, zugleich Kapellan des Kaisers (vgl. DD. 947, 948 und 994 = Regg. 3013, 3014 und 3242 sowie Reg. 3243) und Pfarrer von Mülhausen im Elsass war, aber nicht 	unter dem Einfluss des Urkundenstils der kaiserlichen Kanzlei stand (<hi rend="italic">data per manum magistri Danielis notarii nostri</hi>)</span>; <span n="seal"> SP.D.. (beschrieben in B: <hi rend="italic">Pendet sigillum maius de serico rubro exhibens principem foeminam in solio sedentem capite coronato, quae dextra sceptrum gerit, sinistra ad pectus prefert. Sigilli vero perigrapha est huiusmodi: BEATRIX.DEI.GRATIA.ROMANORVM.IMPERATRIX.</hi>)</span> <span n="incipit"><hi rend="italic">Verbum controversie adversus.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Verbum controversie adversus.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Lons-le-Saunier 19 								H 7 (A). Kop.: Abschriften des 17. Jh. von Chifflet, Nouv. 								acquis. franç. 8735 f. 211 (B) und Coll. Baluze 143 f. 16 (C) in der 								Nationalbibliothek zu Paris. Drucke: Perréciot, De l’état civil 								ed. I. 2, 281 n<hi rend="sup">o</hi> 24 = ed. II. 3, 38 n<hi rend="sup">o</hi> 24 = Gallia christ. ed. II. 15 Instr., 50 									n<hi rend="sup">o</hi> 51; MG.DBeatrix 6. Reg.: Mariotte, 								Le comté de Bourgogne, 169 n<hi rend="sup">o</hi> 8.</p></div>
+				
+				
+					<div type="commentary"><p>Auf dem Rücken der Dorsualvermerk (s. XII/XIII): 									<hi rend="italic">carta domine imperatricis</hi>. – Zum Siegel 								der Kaiserin, dessen Anbringung auch für DF.I.291 (Reg. 791) bezeugt 								ist, vgl. DBeatrix 6, Anm. b sowie Mariotte, Un acte impérial à 								double sceau, AfD 9/10 (1963/64) 287 f. – Zur diplomatischen Kritik 								vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur. – 								Das erwähnte, eigene Abkommen über die Salzquellen von Grozon hat 								keinen urkundlichen Niederschlag gefunden.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

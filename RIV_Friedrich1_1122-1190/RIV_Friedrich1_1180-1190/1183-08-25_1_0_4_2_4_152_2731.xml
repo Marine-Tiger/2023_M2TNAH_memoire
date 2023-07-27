@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2731</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-08-25_1_0_4_2_4_152_2731"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-08-25_1_0_4_2_4_152_2731"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-08-25_1_0_4_2_4_152_2731</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1453294496" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2731</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-08-25" to="1183-08-25">1183
+									(Juli 1 – August 25)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Tusculum</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Christian von Mainz (Reichslegat für 								Italien) kommt auf Bitten Papst Lucius’ (III.) der von den Römern 								belagerten Stadt Tusculum mit einem großen Heer, bestehend aus 								deutschen Truppen, zu Hilfe. Noch bevor er dort eintrifft, fliehen 								die Römer, und Christian zieht in die Stadt ein, deren beschädigte 								Mauern er weitgehend wiederherstellen lässt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Schreiben Papst Lucius’ III. an 								die deutsche Geistlichkeit von (1183) September 2, Segni, Acht, 								Mainzer UB. II/2, 740 n<hi rend="sup">o</hi> 457 sowie Baaken – 								Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 1: 1181–1184, n<hi rend="sup">o</hi> 796; Ann. Ceccan., MG. SS XIX, 287 (nach Juli 								1); Ex gestis Henrici II. et Ricardi I., MG. SS XXVII, 104 f. 								(legendenhaft entstellter Bericht); <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, 									n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/d6f1dc87-e500-4a45-b1d3-d00649504c3a.html" type="internal" n="regesten">199</ref>.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. auch Hägermann, Urkunden, AfD 14 (1968) 287. 								– Wiewohl in der Überlieferung von der Funktion Christians als 								Reichslegat nicht gesprochen wird, ist evident, dass der Mainzer 								Erzbischof diese Maßnahmen eben (auch) im Auftrag des Kaisers traf. 								– Die zeitliche Einordnung ergibt sich daraus, dass Christian am 25. 								August 1183 zu Tusculum verstarb und begraben wurde, was auch in dem 								unter den Überlieferungen angeführten päpstlichen Schreiben 								Erwähnung findet, vgl. dazu <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, a.a.O., n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/b9492f20-bb51-447a-8322-ef9d1b241f66.html" type="internal" n="regesten">201</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

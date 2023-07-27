@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 185</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-00_2_0_4_2_1_185_185"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-00_2_0_4_2_1_185_185"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-00_2_0_4_2_1_185_185</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236929" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 185</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-01" to="1153-06-30">(1153 Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">(Worms)</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hugo</hi>  <hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Vienne</hi></recipient>
+				
+				
+				
+					<scribe>Unter Verwendung des DK. III. 145 (VU.) wahrscheinlich von Wibald verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beauftragt den Erzbischof <span sameAs="recipient"><hi rend="spaced">Hugo</hi> </span>  und den Domdekan <span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Vienne</hi> </span>  mit der <hi rend="italic">custodia</hi>  der ausschließlich dem Reich unterstehenden Stadt Vienne samt der Burg Pipet (<hi rend="italic">Popetum</hi>) und Zubehör (wie DF. I. 62, Reg. 184), die nur ihm während seiner Anwesenheit übergeben werden darf, und empfiehlt ihnen den Überbringer dieses Mandats. - <span n="clerk">Unter Verwendung des DK. III. 145 (VU.) wahrscheinlich von Wibald verfaßt</span>. <span n="incipit"><hi rend="italic">In archivis imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In archivis imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Cod. Baluze 75 f. 373' aus dem 17. Jh., ex chartulario ecclesiae Viennensis, der Nationalbibliothek Paris (D). Drucke: Stumpf, Acta ined. 481 n<hi rend="sup">o</hi>  337; MG. DF. I. 63. Reg.: Chevalier, Reg. Dauphinois 1, Sp. 658 n<hi rend="sup">o</hi>  3938, ferner irrig Sp. 674 n<hi rend="sup">o</hi>  4033 zu 1157?; Stumpf 3674 a.</p></div>
+				
+				
+					<div type="commentary"><p>Brumm, Zur Frage der Echtheit, MIÖG 57 (1949) 305 hat die von Hirsch vorgebrachten Bedenken gegen die Echtheit (Hirsch, Urkundenfälschungen = Forsch. zur Gesch. d. deutschen Kaiserzeit 1, 1937, 71 ff.) entkräftet. Dieses Mandat dürfte gleichzeitig mit DDF. I. 61, 62 und 64 (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-00_1_0_4_2_1_182_182.html" type="internal" n="regesten">182</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-00_1_0_4_2_1_184_184.html" type="internal" n="regesten">184</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-00_3_0_4_2_1_186_186.html" type="internal" n="regesten">186</ref>) in Worms ausgestellt worden sein. Als Überbringer käme der Kapellan Heribert in Betracht, der dem Mundator von DF. I. 62 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-00_1_0_4_2_1_184_184.html" type="internal" n="regesten">184</ref>) auch die Kenntnis des königlichen Monogramms vermittelt haben könnte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0068" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_63" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 149</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_1_0_4_2_1_149_149"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_1_0_4_2_1_149_149"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-12-28_1_0_4_2_1_149_149</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240601" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 149</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-01" to="1152-12-28">(1152 Sommer-Dezember 28)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>S. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hillin</hi>  <hi rend="spaced">Trier</hi>  <hi rend="spaced">(Rether)</hi>  <hi rend="spaced">Prüm</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von A II. C</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich fordert Erzbischof <span sameAs="recipient"><hi rend="spaced">Hillin</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Trier</hi> </span>  abermals auf, dem neugewählten Abt <span sameAs="recipient"><hi rend="spaced">(Rether)</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Prüm</hi> </span>, der zu Unrecht der Simonie verdächtigt wurde, unverzüglich die Weihe zu erteilen (<hi rend="italic">sine omni retardatione manus inponas</hi>). - <span n="clerk">Verfaßt und geschrieben von A II. C</span>; <span n="seal">S. D.</span>  <span n="incipit"><hi rend="italic">Inter cetera, que</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter cetera, que</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: MG. Const. 1, 200 n<hi rend="sup">o</hi>  143; MG. DF. I. 39. Reg.: Wauters, Table chronol. 2, 389; Goerz, Reg. 2, n<hi rend="sup">o</hi>  14; Stumpf 4531 zu 1152-54.</p></div>
+				
+				
+					<div type="commentary"><p>Zu diesem ältesten erhaltenen Original einer <hi rend="italic">littera clausa</hi>  der Kanzlei Friedrichs I. und zu seiner Besiegelung und Faltung vgl. Bresslau, Urkundenlehre 2<hi rend="sup">3</hi>, 588 Anm. 1; auf der Rückseite steht durch den Pergamentstreifen getrennt von der Hand des Notars A II. C die Adresse: <hi rend="italic">archiepiscopo Treuer/ensi</hi>. Das Formular zeigt Anklänge an den päpstlichen Kanzleistil. - Die zeitliche Einreihung des Mandats ergibt sich aus der Rückkehr Hillins aus Italien im Sommer 1152 und aus der Nennung Rethers in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-12-28_2_0_4_2_1_150_150.html" type="internal" n="regesten">150</ref>. - Die Mönche von Prüm hatten nach der Erkrankung ihres Abtes Gottfried unterstützt von Erzbischof Arnold von Köln (Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-05-11_1_0_4_2_1_548_546.html" type="internal" n="regesten">546</ref>) bei Friedrich dessen Absetzung und eine Neuwahl durchgesetzt (Cat. abb. Epternac. sec., MG. SS XXIII, 34, vgl. dazu Wibalds Schreiben an Arnold, Jaffé, Mon. Corb. 510 n<hi rend="sup">o</hi>  381), die auf Rether gefallen war, vgl. dazu auch Hilpisch, Hillin, A. f. mittelrh. KG 7 (1955) 14.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0053" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_39" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

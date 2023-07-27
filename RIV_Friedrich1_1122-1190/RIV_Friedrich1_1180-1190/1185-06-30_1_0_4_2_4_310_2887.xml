@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2887</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-06-30_1_0_4_2_4_310_2887"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-06-30_1_0_4_2_4_310_2887"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-06-30_1_0_4_2_4_310_2887</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845217" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2887</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-06-30" to="1185-06-30">1185
+									Juni 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Kaiserpfalz zu Turin (<hi rend="italic">die dominico, pridie kal. iulii, </hi> <hi rend="italic">in palacio predicti domini imperatoris de Taurino</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument, 									geschrieben von Martinus Filippi, dem Pfalznotar und Paveser 									Notar (<hi rend="italic">Ego Martinus Filippi imperialis aule et 										Papiensis notarius precepto imperatoris hoc instrumentum 										scripsi.</hi>)</scribe>
+				
+				
+					<testis function="witnesses">Graf Ubert 									von Biandrate, Grandisuillanus von Pavia und Heinrich von 									Quattordio</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert Konsul Nicolaus Carencius und 								die bevollmächtigten Vertreter der <hi rend="spaced">Stadt 									Alba</hi>, nämlich Richter Raimundus, Roglerius Carosius und 								Tebaudus de Henrico Azolo, mit einem Barett (<hi rend="italic">per 									beretam, quam in sua tenebat manu</hi>) gegen einen jährlich zu 								St. Martin (11. November) zu leistenden Zins von 30 Astenser 								Pfennigen mit den Regalien. Anwesend bei dieser Investitur sind 								Gottfried, der Kanzler des kaiserlichen Hofes, Bischof Wilhelm von 								Asti und Graf Diepold von Lechsgemünd. Die Ausfertigung der Urkunde 								ordnet Friedrich in Gegenwart Bischof (Wilhelms) von Asti, des 								Thomas, Kastellans und Podestà von Annone, des Petrus Porcellus von 								Turin, des Kämmerers Rudolf, des Martin von Castello d’Agogna, des 								(Kartäuser-)Bruders Dietrich von Silve-Bénite und Manfreds, des 								Vogtes der Kirche von Turin, an. <span n="witnesses">Z.: Graf Ubert 									von Biandrate, Grandisuillanus von Pavia und Heinrich von 									Quattordio</span>. –<span n="clerk"> Notariatsinstrument, 									geschrieben von Martinus Filippi, dem Pfalznotar und Paveser 									Notar (<hi rend="italic">Ego Martinus Filippi imperialis aule et 										Papiensis notarius precepto imperatoris hoc instrumentum 										scripsi.</hi>)</span>. <span n="incipit"><hi rend="italic">Anno dominice incarnacionis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno dominice incarnacionis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift der ersten Hälfte des 13. Jh. 								im Registrum comunis Albae f. 39, Staatsarchiv Mailand 								(B). Drucke: Stumpf, Acta ined., 227 n<hi rend="sup">o</hi> 								165; MG.DF.I.906. Reg.: Stumpf 4420.</p></div>
+				
+				
+					<div type="commentary"><p>Aus dem Text (<hi rend="italic">Unde duo 									instrumenta uno tenore sunt scripta</hi>) ergibt sich, dass zwei 								gleich lautende Notariatsinstrumente angefertigt wurden, wobei das 								zweite möglicherweise dem Kaiser ausgehändigt wurde; darüber hinaus 								wurde diese Belehnung auch noch in Diplomform beurkundet (D.907 = 								Reg. 2888); auffälligerweise wird die hier festgelegte Verfügung 								über die Regalien mit dem Hinweis <hi rend="italic">sine 									contradictione predicti imperatoris suorumque successorum</hi> 								verbunden, während es in D.907 (Reg. 2888) an dieser Stelle <hi rend="italic">sine alicuius contradictione</hi> heißt; zu all 								dem sowie zu weiteren, allerdings von B abhängigen Überlieferungen 								vgl. die Vorbemerkung zum D. – Zur stadtgeschichtlichen Relevanz 								vgl. Opll, Stadt und Reich, 180.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_906" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

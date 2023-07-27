@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3042</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_9_0_4_2_4_466_3042"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_9_0_4_2_4_466_3042"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-28_9_0_4_2_4_466_3042</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3042</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-28" to="1186-11-28">(nach
+								1186 November 28, wohl Anfang
+								Dezember)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof A(dalbert) von Salzburg und seine 								Suffragane schreiben an die Kardinäle der römischen Kirche: Sie 								bekunden ihre Bestürzung über die Zwietracht zwischen dem Papst und 								dem Kaiser und berichten über den jüngst abgehaltenen feierlichen 								Hoftag Kaiser Friedrichs in der Diözese Mainz (in Gelnhausen), auf 								dem der Kaiser schwere Klagen gegen ihn (den Papst) erhoben habe: Im 								Einzelnen habe der Herrscher Klage geführt über die Aufforderung des 								Papstes an alle lombardischen Städte und Bischöfe, dem Kaiser gegen 								die gebannten Cremonesen keine Hilfe zu leisten, vor allem über das 								Verhalten des Papstes in Angelegenheit der Trierer Bischofswahl, 								wobei (Elekt) Folmar entgegen den im deutschen Reich üblichen 								Verhältnissen, aber auch im Widerspruch zu dem nach dem Zeugnis der 								Bischöfe (Hermann) von Münster und (Wilhelm) von Asti sowie des 								O(tto) Cendadarius (aus Mailand) seitens des Papstes abgegebenen 								Versprechen die Bischofsweihe vor der Regalieninvestitur erhalten 								habe, und schließlich habe der Kaiser auch über dem Reich seitens 								des Papstes im Erzbistum Mailand zugefügtes Unrecht wie auch die 								schweren Belastungen der Reichskirchen seitens des Papstes geklagt. 								Der Salzburger Erzbischof bittet den Papst, in den Streitigkeiten 								einzulenken, betont auch namens des Kaisers dessen Bereitschaft zu 								einer Beilegung des Zwistes gemäß Recht oder durch ein 								Schiedsgericht (<hi rend="italic">iusticiae sive arbitratui bonorum 									virorum</hi>) und kündigt die gelehrten Männer Propst Wortwin, 								Magister Liudolf (Domdechant von Magdeburg) und Magister Andreas 								(Domscholaster) von Speyer als seine an die Kardinäle entsandten 								Boten an.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 446 n<hi rend="sup">o</hi> 								316.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 149 								f. – Zu den genannten Boten wie auch zum Inhalt vgl. Reg. 3041 sowie 								3054 (Antwort des Papstes auf das Schreiben Erzbischof Wichmanns von 								Magdeburg).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

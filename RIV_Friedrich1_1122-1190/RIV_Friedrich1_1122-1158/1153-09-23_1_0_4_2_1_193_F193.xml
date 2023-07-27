@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †193</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-23_1_0_4_2_1_193_F193"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-23_1_0_4_2_1_193_F193"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-09-23_1_0_4_2_1_193_F193</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1366731116" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †193</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-09-23" to="1153-09-23">1153 September 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Überlingen">Überlingen</placeName>
+												<location><geo decls="#WGS">47.7667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V IIII kal. octobris, Vberlingen)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Emmeram</hi>  <hi rend="spaced">Regensburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imperialis aule canc. vice Chunradi Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>nach der Weingartener Fälschung (Reg. †194) abgefaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">St. Emmeram</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Regensburg</hi> </span>  das wörtlich inserierte Privileg Papst Lucius' II. von 1144 März 20 (in verfälschter Fassung, JL. 8530; Germ. pont. 1, 288 n<hi rend="sup">o</hi>  15), gewährt ihm Sicherheit für Gütererwerbungen aller Art, das Recht auf bestimmte Abgaben beim Tod von Hintersassen, die Erlaubnis zur Ernennung von Ministerialen aus der <hi rend="italic">familia</hi>  des Klosters und die Gerichtshoheit in seinem Bereich. - <span n="chancellor"><hi rend="italic">Iohannes imperialis aule canc. vice Chunradi Maguntine sedis archiep. et Germanie archicanc.</hi> </span>; <span n="clerk">nach der Weingartener Fälschung (Reg. †194) abgefaßt</span>; <span n="seal">SP. 2.</span>  <span n="incipit"><hi rend="italic">Ex imperatorie maiestatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex imperatorie maiestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung</hi>; <hi rend="spaced">Angebl</hi>. Orig.: Hauptstaatsarchiv München (A). Drucke: Lünig, Reichsarchiv 18<hi rend="sup">a</hi>, 654; Coelestin (Vogl), Ratisbona monastica 1, 146 n<hi rend="sup">o</hi>  57 mit Abb. des Siegels Appendix Tafel VI. Reg.: Mon. Boica 30<hi rend="sup">a</hi>, 397 n<hi rend="sup">o</hi>  11; Stumpf 3678.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser Fälschung, die der Schrift nach dem 14. Jh. angehört, vgl. Krallert, Urkundenfälschungen des Klosters Weingarten, AUF 15 (1938) 300 ff. Nach den beiliegenden Fragmenten eines echten Siegels Friedrichs I. aus der Kaiserzeit (vgl. Abb. bei C. Vogl) muß ein echtes Diplom existiert haben, das vermutlich aus der Spätzeit der Regierung stammt, als das Hängesiegel üblich geworden war. - Zu der Datierung des D. vgl. die Bemerkungen bei Reg. <ref type="unmatched">†194</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0070" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%223299%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

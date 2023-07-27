@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2313</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-22_3_0_4_2_3_541_2313"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-22_3_0_4_2_3_541_2313"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-22_3_0_4_2_3_541_2313</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453293494" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2313</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-22" to="1177-08-22">1177 August 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">im Dogenpalast zu Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die lune, qui est undecimus kal. septemb., Uenecie super solarium ducis)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Christian von Mainz, Bischof Garsidonius von Mantua und Kanzler Gottfried, die Grafen Florentius von Holland und Schenella (von Treviso), Gabriel von Camino, Graf Gerard von Crema, Petrus Traversarius (von Ravenna), die Hofrichter Carbo de Aurello (von Pavia), Oddo Nouellus und Bartolomeus von Casale Sant'Evasio sowie Richter Guido von Faenza</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert <hi rend="spaced">Konrad</hi>, den Sohn des Markgrafen (Wilhelm) von <hi rend="spaced">Montferrat</hi>, stellvertretend für dessen Schwester <hi rend="spaced">Agnes</hi>  mit einem goldenen Ring mit Burg und Hof Poggibonsi und Marturi zu erblichem Lehen und gewährt ihr das Vorrecht, diese Lehen, auch falls sie selbst Söhne haben sollte, einem ihrer Brüder zu übertragen. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Christian von Mainz, Bischof Garsidonius von Mantua und Kanzler Gottfried, die Grafen Florentius von Holland und Schenella (von Treviso), Gabriel von Camino, Graf Gerard von Crema, Petrus Traversarius (von Ravenna), die Hofrichter Carbo de Aurello (von Pavia), Oddo Nouellus und Bartolomeus von Casale Sant'Evasio sowie Richter Guido von Faenza</span>. — Auf Befehl Friedrichs durch den Hofgerichtsnotar Martinus Philippi ausgestelltes Notariatsinstrument. <span n="incipit"><hi rend="italic">Anno a nativitate</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno a nativitate</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Beglaubigung des 12. Jh., Stadtarchiv Pavia (B). Drucke: Stumpf, Acta ined. 526 n<hi rend="sup">o</hi>  371; MG.DF.I.700. Regg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, 51 n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/a9d68ffa-7776-4602-9142-96710703871a.html" type="internal" n="regesten">162</ref>; Stumpf 4216.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Martinus Philippi vgl. Herkenrath, Reichskanzlei 1174 bis 1180, 65 ff. — Am 4. April 1176 hatte Siena den Florentinern die Hälfte von Poggibonsi überlassen; am 6. Mai 1178 belehnten Markgraf Wilhelm von Montferrat und dessen Sohn Rainer gegen Zahlung von 4000 Pfund Paveser Münze den Thomas von Siena im Namen der Städte von Siena und Florenz mit Poggibonsi, nachdem die vom Kaiser damit belehnte Tochter des Markgrafen, Agnes, darauf verzichtet hatte (die beiden Urkunden, ed. Ficker, Forschungen zur Reichs- und Rechtsgeschichte Italiens 4, 188 n<hi rend="sup">o</hi>  148 und 191 n<hi rend="sup">o</hi>  151). — Zum Rechtsinhalt vgl. neben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-22_2_0_4_2_3_540_2312.html" type="internal" n="regesten">2312</ref>  die in der Vorbemerkung zum D. angeführte Literatur sowie Opll, Stadt und Reich, 432.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0195" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_700" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

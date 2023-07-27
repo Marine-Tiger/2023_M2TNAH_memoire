@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2502</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-07-01_1_0_4_2_3_731_2502"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-07-01_1_0_4_2_3_731_2502"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-07-01_1_0_4_2_3_731_2502</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605678" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2502</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-07-01" to="1179-07-01">1179 Juli 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Magdeburg</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(kal. iulii, in curia sollempni Magdeburg celebrata)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridvs imperialis aulę canc. vice Cristiani Mogontinę sedis archięp. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter teilweiser Heranziehung von DF.I.780 (= Reg. 2499) verfaßt und geschrieben von HA, dem Magdeburger Schreiber Friedrich A.</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Siegfried von Brandenburg, Martin von Meißen, Hubert von Havelberg, Hermann von Münster, Arnold von Osnabrück, Ulrich von Halberstadt und Anno von Minden; die Laien Markgraf Otto von Brandenburg und seine Brüder, die Grafen Bernhard von Aschersleben und Dietrich von Werben, Markgraf Otto von Meißen und seine Brüder, Markgraf Dietrich der Lausitz (<hi rend="italic">Orientalis</hi>) sowie die Grafen Heinrich von Wettin, Dedo von Groitzsch und Friedrich von Brehna</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">bischöfliche Kirche zu Brandenburg</hi>  (<hi rend="italic">ęcclesiam Brandeburgensem in honore dei ad titulum beati Petri principis apostolorum</hi>) in seinen Schutz und bestätigt dem dortigen Domkapitel die namentlich angeführten Besitzungen und Rechte. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Siegfried von Brandenburg, Martin von Meißen, Hubert von Havelberg, Hermann von Münster, Arnold von Osnabrück, Ulrich von Halberstadt und Anno von Minden; die Laien Markgraf Otto von Brandenburg und seine Brüder, die Grafen Bernhard von Aschersleben und Dietrich von Werben, Markgraf Otto von Meißen und seine Brüder, Markgraf Dietrich der Lausitz (<hi rend="italic">Orientalis</hi>) sowie die Grafen Heinrich von Wettin, Dedo von Groitzsch und Friedrich von Brehna</span>. — <span n="chancellor"><hi rend="italic">Godefridvs imperialis aulę canc. vice Cristiani Mogontinę sedis archięp. et archicanc.</hi> </span>; <span n="clerk">unter teilweiser Heranziehung von DF.I.780 (= Reg. 2499) verfaßt und geschrieben von HA, dem Magdeburger Schreiber Friedrich A.</span> <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Quoniam quidem ex</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam quidem ex</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Domarchiv Brandenburg (A). Drucke: Riedel, CD. Brandenburg. 1/8, 111 n<hi rend="sup">o</hi>  24; MG.DF.I.781. Faks.: Koch, Schrift der Reichskanzlei Abb.75 Teilfaks. Regg.: Krabbo — Winter, Reg. Brandenburg, 83 n<hi rend="sup">o</hi>  428; Stumpf 4283.</p></div>
+				
+				
+					<div type="commentary"><p>Anklänge an die Urkunde Bischof Siegfrieds von Brandenburg aus den Jahren 1173 — 1176 (Heinemann, CD. Anhalt, 1, 399 n<hi rend="sup">o</hi>  540) reichen nicht aus, diese als VU. zu bewerten. — Das D. wird auch in der Urkunde Markgraf Ottos von Brandenburg für das Domkapitel zu Brandenburg und die Prämonstratenser von 1179 November 2, Brandenburg ausdrücklich erwähnt, ed. Heinemann, CD. Anhalt.1, 425 n<hi rend="sup">o</hi>  576 (vgl. Krabbo — Winter, a.a.O., 84 n<hi rend="sup">o</hi>  430). — Zur diplomatischen Kritik vgl. die Vorbemerkung zum D. sowie Herkenrath, Reichskanzlei 1174 bis 1180, 203 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0255" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_781" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

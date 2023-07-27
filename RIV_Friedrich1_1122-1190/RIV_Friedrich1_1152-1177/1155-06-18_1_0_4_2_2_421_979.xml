@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 979</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1155-06-18_1_0_4_2_2_421_979"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1155-06-18_1_0_4_2_2_421_979"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_1_0_4_2_2_421_979</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1366733956" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 979</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1161-08-16">(1155 Juni 18-1161 August 16)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ramsen</hi></recipient>
+				
+				
+				
+					<scribe>Von zwei kanzleifremden Schreibern, einem Romanen und einem Deutschen, geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Graf Ulrich (<hi rend="italic">Huricus</hi>) von Ahr, Heinrich von <hi rend="italic">Robrersporc</hi>, Garterus von Schifferstadt, Erkemberius von Dannstadt, Halnulphus von <hi rend="italic">Mospac</hi>, Garnerus, Gottfried, Sifrid, Friedrich von Freinsheim, Embricho, Dietrich, Heinrich, Gerlach, Rutart, Roland, Friedrich, Beltolphus, die Ritter von Ebbeins Wilhelm, Billunc, Baldemaurus, Ulrich von <hi rend="italic">Warteneberc</hi>, Garnerus Kric von Leiningen und Bischof Gunther von Speyer (<hi rend="italic">Recognita fuerunt dona ista in presentia Gonteri venerabilis episcopi Spirensis</hi>.)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt die Gründung und Ausstattung des Benediktinerinnenklosters <span sameAs="recipient"><hi rend="spaced">Ramsen</hi> </span>  durch Berthold von Winzingen und seine Familie und verleiht ihm auf Bitten des Stifters das Recht, den Vogt frei wählen und ihn im Fall von Amtsmißbrrauch absetzen zu dürfen. <span n="witnesses">Z.: Graf Ulrich (<hi rend="italic">Huricus</hi>) von Ahr, Heinrich von <hi rend="italic">Robrersporc</hi>, Garterus von Schifferstadt, Erkemberius von Dannstadt, Halnulphus von <hi rend="italic">Mospac</hi>, Garnerus, Gottfried, Sifrid, Friedrich von Freinsheim, Embricho, Dietrich, Heinrich, Gerlach, Rutart, Roland, Friedrich, Beltolphus, die Ritter von Ebbeins Wilhelm, Billunc, Baldemaurus, Ulrich von <hi rend="italic">Warteneberc</hi>, Garnerus Kric von Leiningen und Bischof Gunther von Speyer (<hi rend="italic">Recognita fuerunt dona ista in presentia Gonteri venerabilis episcopi Spirensis</hi>.)</span>. - <span n="clerk">Von zwei kanzleifremden Schreibern, einem Romanen und einem Deutschen, geschrieben</span>. <span n="incipit"><hi rend="italic">Notum fieri volo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum fieri volo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Empfängerkonzept (in der ursprünglichen Fassung wohl als Reinschrift gedacht): Rheinpfälzische Urkunden n<hi rend="sup">o</hi>  1403, Hauptstaatsarchiv München (A). Drucke: Remling, Urkundliche Geschichte der ehemaligen Abteien und Klöster im jetzigen Rheinbayern 1, 333 n<hi rend="sup">o</hi>  18; MG. DF. I. 336. Faks.: Acht, Empfängerkonzept, MÖIG Erg. Bd. 14 (1939) nach S. 256. Reg.: Stumpf 4538 zu 1155-1162 August</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik dieses Dokumentes, das nie durch die Kanzlei zum Diplom erhoben worden ist, vgl. Acht, a. a. O., 249 ff. und die Vorbemerkung zum D. - Die Urkunde umfaßt jedenfalls mehrere, zeitlich getrennte Rechtshandlungen, da eine Gruppe von Schenkungen mit einer eigenen Zeugenreihe versehen ist (Graf Emicho von Leiningen und seine Sohn Emicho, Godebert und seine Söhne Gottfried und Helferich, Hellengerus von <hi rend="italic">Frangensten</hi>  und seine Söhne Hellengerus und Ulrich, Erlefrid von Heinfelt, Galterus von Schifferstadt, Erkembert von Dannstadt, Priester Konrad von Eisenburg, die Ritter Hugo, Konrad, Jordan und Eeberbero von Eisenburg; zu letzteren vgl. Graf, &amp;quot;milites de Ysenburc&amp;quot;, Pfälzer Heimat 10, 1959, 54 ff.). Die chronologische Einordnung erfolgte zum spätesten möglichen Zeitpunkt (Tod Bischof Gunthers von Speyer), obwohl der Zusammenhang mit Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-12-00_1_0_4_2_1_379_377.html" type="internal" n="regesten">377</ref>  zumindest den Ausfertigungsbefehl in das Jahr 1155 datieren läßt - Die Vogtei über Ramsen wurde von Pfalzgraf Konrad bei Rhein als sein Allod bezeichnet, vgl. Werle, Hausmachtpolitik, ZGORh 110 (1962) 317 f. Anm. 252. - Zu Berthold von Winzingen, dem Stifter, vgl. Werle, Ramsen, Bll. f. pfälz. Kirchengesch. u. religiöse Volkskunde 22 (1955) 129 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0120" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228363%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2047</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-12-03_1_0_4_2_3_272_2047"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-12-03_1_0_4_2_3_272_2047"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-12-03_1_0_4_2_3_272_2047</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598151" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2047</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-12-03" to="1173-12-03">1173  Dezember 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III nonas decembris, apud Wormatiam)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Nicht näher bestimmbares Diktat</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kapitel von St. Marien zu Utrecht</hi>, dem er selbst als Kanoniker angehört (<hi rend="italic">quarum orationum cottidie participes sumus et stipendiorum fructus canonica societate percipimus</hi>), auf Klagen der Kanoniker die Besitzungen und Rechte, insbesondere das Gut Bendorf (<hi rend="italic">Bethendorp</hi>), das ihnen streitig gemacht wird. —<span n="clerk">Nicht näher bestimmbares Diktat</span>. <span n="incipit"><hi rend="italic">Ad imperatorie quidem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad imperatorie quidem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Vidimus des Dompropstes und Offizials Adolf von Utrecht von 1287 Februar 23 eines Transsumptes Rudolfs I. von 1286 August 21 (B.-Redlich Reg. 2043), Reichsarchiv Utrecht, Archief van St Marie n<hi rend="sup">o</hi>  1622 (C). Drucke: Muller-Bouman, OB.Sticht Utrecht 1, 425 n<hi rend="sup">o</hi>  477; MG.DF.I.609. Reg.: Diestelkamp — Rotter, Urkundenregesten 1, 325 n<hi rend="sup">o</hi>  415.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung ergibt sich aus dem kaiserlichen Itinerar. — Zur Bezeichnung des Kaisers als Kanoniker des Stiftes vgl. auch den Hinweis bei B.-Baaken Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-25_1_0_4_2_1_508_506.html" type="internal" n="regesten">506</ref>, sowie Schulte, Kanoniker, Hist. Jb. 54 (1934), 141 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0100" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_609" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

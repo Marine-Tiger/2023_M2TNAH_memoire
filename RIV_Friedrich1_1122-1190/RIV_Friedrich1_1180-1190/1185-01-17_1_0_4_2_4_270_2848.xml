@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2848</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-17_1_0_4_2_4_270_2848"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-17_1_0_4_2_4_270_2848"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-17_1_0_4_2_4_270_2848</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844941" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2848</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-17" to="1185-01-17">1185
+									Januar 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Lodi (<hi rend="italic">XVI kal. febr., Laude</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>wohl eine auf GG zurückgehende 									Kanzleiausfertigung</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, der erwählte 									Erzbischof Rudolf von Trier, die Bischöfe Wilhelm von Asti und 									Guala von Bergamo, Elekt Konrad von Lübeck, Rudolf, Protonotar 									des kaiserlichen Hofes, Herzog Konrad von Spoleto, die Grafen 									Diepold von Lechsgemünd, Gerhard von Looz/Borgloon und Simon von 									Sponheim, Werner von Bolanden, (der stadtrömische Adelige) Leo 									von Monumento und Präfekt (Petrus) von Rom (<hi rend="italic">prefectus urbis</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster S. 									Cristina zu Corteolona</hi> (<hi rend="italic">monasterium 									sancte Cristine virginis et martiris situm in villa sancte 									Cristine</hi>) nach dem Vorbild seiner Vorgänger, der Kaiser 								Karl des Großen, Otto (I.) und Heinrich I. (irrig statt: II.), in 								seinen Schutz und bestätigt ihm die namentlich angeführten 								Besitzungen, darunter den ihm von König Berengar geschenkten Hof zu 								Chignolo Po am Po (<hi rend="italic">curtem Cuniolum super Padum 									positam</hi>) sowie das Recht, den Fluss Olona bis zur Burg S. 								Cristina regulieren und dort Mühlen errichten zu dürfen. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, der erwählte 									Erzbischof Rudolf von Trier, die Bischöfe Wilhelm von Asti und 									Guala von Bergamo, Elekt Konrad von Lübeck, Rudolf, Protonotar 									des kaiserlichen Hofes, Herzog Konrad von Spoleto, die Grafen 									Diepold von Lechsgemünd, Gerhard von Looz/Borgloon und Simon von 									Sponheim, Werner von Bolanden, (der stadtrömische Adelige) Leo 									von Monumento und Präfekt (Petrus) von Rom (<hi rend="italic">prefectus urbis</hi>)</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></span>;<span n="clerk"> wohl eine auf GG zurückgehende 									Kanzleiausfertigung</span>.<span n="incipit"> 									<hi rend="italic">Summi regis iudicium.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Summi regis iudicium.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige notarielle Abschrift des 								Transsumptes Kaiser Friedrichs II. von 1232 März (B.-Ficker Reg. 								1941), einst im Pfarrarchiv von S. Cristina, dann in das Archivio 								della Curia vescovile zu Pavia überstellt, heute unauffindbar (C); 								Originaltranssumpt Kaiser Heinrichs VII. von 1311 Februar 9 des 								Transsumptes Kaiser Friedrichs II., ebenda (D): Abschrift von 1337 								im Registrum magnum der Stadt Piacenza f. 716’, Stadtbibliothek 								Piacenza (E); Abschrift des Transsumptes Kaisers Friedrichs II., 								ebenda f. 717 (F); notarielle Abschrift des Transsumptes Kaiser 								Heinrichs VII. von 1402 Juli 31 im Staatsarchiv zu Mailand, Diplomi 								e dispacci sovrani (G). Druck: MG.DF.I.892. Regg.: 								Corbellini, Santa Cristina presso Corteolona, Boll. stor. Pavese 6 								Fasc. 1–2 (1943) 91; Stumpf 4405.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verlust des Originals und zu den 								archivalischen Recherchen vgl. die Vorbemerkung zum D., vor allem 								Petersohn, praefectura urbis, QFIAB 60 (1980) 170, demzufolge auch 								der Titel <hi rend="italic">prefectus urbis</hi> (zum römischen 								Stadtpräfekten Petrus vgl. dessen Nennung in D.891 = Reg. 2847) in 								der Zeugenliste nicht auf Leo de Monumento bezogen werden kann. – 								Über die im Text erwähnten Deperdita Karls des Großen, Berengars, 								Ottos I. und Heinrichs II. ist sonst nichts bekannt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_892" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

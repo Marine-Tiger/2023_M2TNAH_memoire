@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2995</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_2_0_4_2_4_419_2995"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_2_0_4_2_4_419_2995"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-08_2_0_4_2_4_419_2995</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846335" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2995</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-08" to="1186-06-08">1186
+									Juni 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Belagerung des Castel Manfredi (heute: Castelleone)  (<hi rend="italic">die dominico, octavo mensis iunii, quando Castrum Manfredi obsidebatur</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Paveser Hofnotar Martinus Filippi (<hi rend="italic">Martinus Filippi imperialis aule et Papiensis notarius</hi>)</scribe>
+				
+				
+					<testis function="witnesses">Gottfried, Kanzler des kaiserlichen Hofes (<hi rend="italic">dei gratia imperialis curie 	cancellarius</hi>), die Bischöfe Wilhelm von Asti und Bernard von Parma, Bischof (recte: erwählter Erzbischof) Rudolf von Trier, die Markgrafen Bonifaz von Montferrat und Supramons (von Cavalcabò), Vogt Bonusiohannes von Vercelli, der Hofvikar Magister Metellus, die Hofrichter Albertus Aldigheri aus Ferrara, Otto Cendadarius aus Mailand und Grossus aus Brescia, Martinus von Castel d’Agogna und sein Bruder Wilhelm, Guido von Sannazzaro de’ Burgondi und Busnardus de Grandiuillano</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und die <hi rend="spaced">Cremonesen</hi> lassen ein Notariatsinstrument über die <hi rend="spaced">Bedingungen der Aussöhnung</hi> zwischen ihnen ausfertigen, in dem Folgendes festgelegt wird: Die Konsuln Otto de Comite und Otto Curtese von Cremona stellen dem Kaiser Guastalla und 								Luzzara mit allen Zugehörungen sowie allen dortigen Rechten weiland Gräfin Mathildes (von Tuszien) unter Wahrung älterer Besitzungen und 								Rechte der Kirche von Cremona oder von Privatpersonen aus Cremona 	oder dem Distrikt dieser Stadt zurück, wofür allerdings dem Hof und dem Reich die schuldigen Dienste zu leisten sind. Des Weiteren werden die Burg Crema, die Insula Fulcherii sowie alle darüber erhaltenen Privilegien des Kaisers (vgl. DD. 290 und 353 und Regg. 790 und 1032) restituiert; diese Privilegien wird der Kaiser in Pavia deponieren, wobei die Cremoneser Konsuln von den Pavesen zugesichert erhalten, dass sie diese Privilegien im Falle, dass der Kaiser oder sein Nachfolger Crema oder die Insula Fulcherii an eine 								Stadt, einen Ort, ein Kollegium oder eine Person ausgeben sollten, wieder zurückerhalten werden und sie auch bei Bedarf den Cremonesen 								zur Verfügung gestellt werden sollen, dann aber binnen eines Monats wieder zurückzustellen sind (vgl. Reg. 3004). – Die vorgenannten 								Cremoneser Konsuln beschwören den Frieden mit den Cremasken, Mailändern und Piacentinern auf die heiligen Evangelien gemeinsam mit ihren Mitbürgern Albertus Trussus, Homobonus von Trezzo, Poncius de Giroldis, Bernardus Picinus, Surdus von Valera Fratta nel Lodigiano (<hi rend="italic">Ualariis</hi>), Girardus Faber, Johannes de Conrado, Nichola de Moro, Petrus von Sospiro, Otto von Casalmorano, dem Konsul Ambrosius <hi rend="italic">dela Scandolaria</hi> (Scandolara Ravara oder Scandolara Ripa d’Oglio), Todesscus Sagittaclericus, Girardus de Burgo, Ottolinus von Persico, Guidottus de Baldezonis, Martius de Bradalono, Barocius de Burgo und Willelmus de Bellato. Sie verpflichten sich, diesen Frieden auch durch ihre Mitkonsuln und die Credentia sowie in der Volksversammlung in Gegenwart des Boten des Kaisers durch einen Konsul oder einen anderen ehrenwerten Mann der Stadt beschwören zu lassen. – Einen gleich lautenden Friedensschwur legen gegenüber den Cremonesen die folgenden Mailänder ab: Ubertus Visconti von Piacenza, Podestà von Mailand, Willelmus Burrus, Willelmus de Osa, Crottus von Porta Nuova, Arnaldus de Supraaqua, Mutalbergus Marcellinus, Amizo von Soresina, Ardricus von Monza (<hi rend="italic">Moecia</hi>), Florius von <hi rend="italic">Cruce</hi> (Croce Mosso?), Cassius von Lampugnano, Albertus von Lampugnano, Petrus von Agliate, Reglerius Marinonus, Ardricus de Pusterna, Konsul Albertus von Mairola, Iacomus Mainerius, Ugo von <hi rend="italic">Camerario</hi> (Camerano oder Camerano 	Casassco?), Paganinus de Catto, Otto Plattus und Ugo von <hi rend="italic">Sexto</hi> (Sesto San Giovanni?). – Seitens der Stadt Crema schwören Otto von Ripalta Guerrina (<hi rend="italic">Riualtella</hi>), Girardus von Bonato (Sopra, Sotto), Luvilus von <hi rend="italic">Sablone</hi> (Sabbio Bergamasco oder Sabbio Chiese) und Domettus Bencettus; aus Piacenza schwören Opizo Nouellus und Bernardus Balbus. – Der Podestà und die Konsuln von Mailand sowie die Konsuln von Crema und Piacenza haben sich gleichfalls verpflichtet, diesen Frieden auch durch ihre Mitkonsuln und die Credentia sowie in der Volksversammlung in Gegenwart des Boten des Kaisers durch einen Konsul oder einen anderen ehrenwerten Mann der Stadt beschwören zu lassen. – Falls die Cremonesen Krieg führen und ihre Gegner dabei von den Cremasken unterstützt werden, sollen die Cremonesen auf die Dauer dieses Krieges nicht zur Einhaltung des Friedens gegenüber Crema verpflichtet sein, die Gefangenen sollen danach aber zurückgestellt werden. – Alle Cremonesen im Alter von 15 bis 60 Jahren müssen dem Kaiser und seinem Sohn, König Heinrich (VI.), den Treueid leisten, der alle zehn Jahre zu erneuern ist, wobei die Konsuln und die Credentia diesen Treueid binnen acht Tagen, nachdem ihnen die kaiserliche Gnade wieder gewährt worden ist, abzulegen haben, das übrige Volk innerhalb eines Monats ab diesem Zeitpunkt. – Der Kaiser und sein Sohn König Heinrich (VI.) gewähren ihnen Verzeihung für alle Angriffe und Schäden und nehmen sie wieder in ihre Gnade auf. – Sie (= die Cremonesen) stellen dem Kaiser Castel Manfredi (heute: Castelleone) zurück, der Bote des Kaisers betritt mit dem kaiserlichen Banner diese Burg, und die Bewohner der Burg müssen diese verlassen, wobei jeder nur so viel mitnehmen darf, wie er auf einmal tragen kann. Gemäß dem Willen des Kaisers wird die Burg zerstört. – Die vorgenannten Konsuln von Cremona stellen in ihrem Namen und dem ihrer Genossen alle ihnen von den Mailändern verliehenen Besitzungen und Rechte sowie die diesbezüglichen Urkunden diesen zurück, und sie verzichten gegenüber dem Kaiser auf alle Rechte und ausgestellten Privilegien im Hinblick auf diese Besitzungen. – Die Cremoneser Konsuln schwören auch, sich hinsichtlich der Beute der Piacentiner dem Befehl des Kaisers zu unterwerfen und die Friedensschwüre binnen acht Tagen nach 	Wiedererlangung der kaiserlichen Gnade zu vollziehen. <span n="witnesses">Z.: Gottfried, Kanzler des kaiserlichen Hofes (<hi rend="italic">dei gratia imperialis curie cancellarius</hi>), die Bischöfe Wilhelm von Asti und Bernard von Parma, Bischof (recte: erwählter Erzbischof) Rudolf von Trier, die Markgrafen Bonifaz von Montferrat und Supramons (von Cavalcabò), Vogt Bonusiohannes von Vercelli, der Hofvikar Magister Metellus, die Hofrichter Albertus Aldigheri aus Ferrara, Otto Cendadarius aus Mailand und Grossus aus Brescia, Martinus von Castel d’Agogna und sein Bruder Wilhelm, Guido von Sannazzaro de’ Burgondi und Busnardus de Grandiuillano</span>. –<span n="clerk"> Notariatsinstrument, geschrieben auf Befehl des Kaisers und der Konsuln sowie der anderen genannten Männer aus Cremona von dem dabei anwesenden Paveser Hofnotar Martinus Filippi (<hi rend="italic">Martinus Filippi imperialis aule et Papiensis notarius</hi>)</span>. <span n="incipit"><hi rend="italic">Anno a nativitate.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno a nativitate.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Cremona, Arch. stor. com. perg. n<hi rend="sup">o</hi> 361 (A). Drucke: MG. Const. 1, 433 n<hi rend="sup">o</hi> 306; Manaresi, Atti del Comune di Milano 1, 223 n<hi rend="sup">o</hi> 151; Falconi, Carte Cremonesi IV, 29 n<hi rend="sup">o</hi> 640; MG.DF.I.941. Reg.: Astegiano, 	CD. Cremonae 1, 162 n<hi rend="sup">o</hi> 424; Stumpf 4455.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Vorgehen gegen Castel Manfredi sowie zur Aussöhnung mit Cremona vgl. auch Regg. 2996, 2997, 3004 und 3007, weiters DH.VI. von 1186 Juli 6, vor Orvieto (B.-Baaken Reg. 11) und die folgenden historiographischen Quellen: Alberti Milioli Cron. imp., MG. SS XXXI, 644, Ann. Aquenses, MG. SS XXIV, 39 (zu 1185), Ann. Cremonenses, MG. SS XXXI, 7 (zu 1185); Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol., 56 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 172 (zu 1185), Ann. Mediolanenses minores, MG. SS XVIII, 396 (irrig zu Mai), Ann. Plac. Gib., MG. SS XVIII, 466, Gestorum Treverorum Cont. III., MG. SS XXIV, 385 (ohne Datum und Ortsangabe), Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. in us. schol., 13, Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 4, Sicardi ep. Cremon. Cronica, MG. SS XXXI, 168 und Sigeb. Cont. Aquicinct., MG. SS VI, 424 (Friedrich unterwirft die Cremonesen mit Hilfe der Mailänder). – Zum D. vgl. Riedmann, Verträge, 88 ff., und Opll, Stadt und Reich, 260. 	– Zur (wieder hergestellten) Reichsherrschaft über Guastalla und Luzzara vgl. die Urkunde des Vikars Kaiser (!) Heinrichs VI., Heinrichs von Kaiserslautern (<hi rend="italic">Erba de Lutre</hi>), von 1187 August 3, Luzzara, ed. Böhmer, Acta imp. sel., 606 no 895, und Falconi, Carte Cremonesi IV, 58 no 655 (vgl. dazu Ficker, Forschungen 2, 203, Kauffmann, Die italienische Politik Kaiser Friedrichs I. [Greifswalder Abhandlungen zur Gesch. d. Mittelalters 3, 1933], 147 f. Anm. 2, und Dolch – Münch, UB. der Stadt Kaiserslautern 1, 63 no 55), sowie auch die Nennung des Richters Roger von Guastalla, der sich seinerseits als <hi rend="italic">iudex … ex mandato et precepto domini Henrici de Lutra imperialis aule marescalchi et in podere comitisse Mathildis legati</hi> bezeichnet, bei Dolch – Münch, a.a.O., 63 no 54. – Die Burg Castel Manfredi, die ihren Namen seit 1181 nach dem aus Modena stammenden, damaligen Cremoneser Podestà Manfredus Fantus de filiis Manfredi trug (vgl. dazu Ann. Cremonenses, MG. SS XXXI, 6), wurde damals geschleift (vgl. auch Ann. Aquenses, MG. SS XXIV, 39 zu 1185, und Sicardi ep. Cremon. Cronica, MG. SS XXXI, 168 zu 1186). Allerdings konnte der Cremoneser Podestà Girardus de Camisano (<hi rend="italic">Camixano</hi>) zwei Jahre später unweit von Castel Manfredi eine neue Festung unter dem Namen Castelleone errichten (Ann. Cremonenses, MG. SS XXXI, 7), vgl. dazu auch unten Reg. 3198.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_941" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

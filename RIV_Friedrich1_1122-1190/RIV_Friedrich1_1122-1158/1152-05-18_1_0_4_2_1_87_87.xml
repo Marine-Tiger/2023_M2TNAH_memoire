@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 87</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-18_1_0_4_2_1_87_87"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-18_1_0_4_2_1_87_87"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-05-18_1_0_4_2_1_87_87</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235460" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 87</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-05-18" to="1152-05-18">1152 Mai 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Merseburg">Merseburg</placeName>
+												<location><geo decls="#WGS">51.3667, 12</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV<hi rend="sup">o</hi>  kal. iunii, in curia Mersburch)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Corvey</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archicanc.</hi></notarius>
+				
+				
+					<scribe>VUU.: DD. K. III. 181 (VU. I) und 245 (VU. II), D. Arn. 3 (VU. III), D. Hermanns 1 (VU. IV) und DK. III. 221 (VU. V), verfaßt von Wibald, mundiert vom Schreiber der DDK. III. 179, 181, 221 und 245</scribe>
+				
+				
+					<testis function="witnesses">Sven, der König der Dänen, der daselbst das Königreich aus der Hand des Königs empfing, Knut, ein zweiter Däne, der daselbst das Königreich in die Hand des Königs aufließ, Erzbischof Hartwig von Bremen, die Bischöfe Ulrich von Halberstadt, Burchard von Straßburg, Wichmann von Zeitz, Daniel von Prag, Bernhard von Paderborn, Heinrich von Minden, Hermann von Verden, Anselm von Havelberg, Emehard von Mecklenburg (<hi rend="italic">Michelemburgensis</hi>), Wicher von Brandenburg, die Äbte Markward von Fulda, Heinrich von Hersfeld, Arnold von Nienburg, Herzog Heinrich von Sachsen, sein Oheim <hi rend="italic">dominus</hi>  Welf, Markgraf Konrad von Meißen und seine Söhne, Markgraf Albrecht (der Bär) und seine Söhne</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Kloster <span sameAs="recipient"><hi rend="spaced">Corvey</hi> </span>  auf Bitten des Abtes Wibald wegen dessen Treue gegen seinen Vorgänger, König Konrad (III.), und bei seiner Königswahl in seinen Schutz und bestätigt ihm umfassend die von seinen Vorgängern verliehenen Rechte. <span n="witnesses">Z.: Sven, der König der Dänen, der daselbst das Königreich aus der Hand des Königs empfing, Knut, ein zweiter Däne, der daselbst das Königreich in die Hand des Königs aufließ, Erzbischof Hartwig von Bremen, die Bischöfe Ulrich von Halberstadt, Burchard von Straßburg, Wichmann von Zeitz, Daniel von Prag, Bernhard von Paderborn, Heinrich von Minden, Hermann von Verden, Anselm von Havelberg, Emehard von Mecklenburg (<hi rend="italic">Michelemburgensis</hi>), Wicher von Brandenburg, die Äbte Markward von Fulda, Heinrich von Hersfeld, Arnold von Nienburg, Herzog Heinrich von Sachsen, sein Oheim <hi rend="italic">dominus</hi>  Welf, Markgraf Konrad von Meißen und seine Söhne, Markgraf Albrecht (der Bär) und seine Söhne</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archicanc.</hi> </span>; <span n="clerk">VUU.: DD. K. III. 181 (VU. I) und 245 (VU. II), D. Arn. 3 (VU. III), D. Hermanns 1 (VU. IV) und DK. III. 221 (VU. V), verfaßt von Wibald, mundiert vom Schreiber der DDK. III. 179, 181, 221 und 245</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Ad regię dignitatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad regię dignitatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Münster (A). Drucke: Erhard, CD. Westf. 2, 64 n<hi rend="sup">o</hi>  283; Wilmans-Philippi, Kaiserurk. d. Prov. Westfalen 2, 314 n<hi rend="sup">o</hi>  230; MG. DF. I. 11. Reg.: Wauters, Table chronol. 2, 357; Stumpf 3626.</p></div>
+				
+				
+					<div type="commentary"><p>Ein vermutlich auf Purpur mit Goldschrift mundiertes zweites Original, das mit Goldbulle an roten Seidenfäden versehen war, wurde wahrscheinlich bei der Einnahme von Höxter durch die kaiserlichen Truppen 1634 vernichtet, vgl. Vorbemerkung zum D.; der Schreiber des Diploms war Corveyer Archivar und einer der engsten Mitarbeiter Wibalds, vgl. Zatschek, Wibald, MÖIG Erg.Bd. 10 (1928) 306 ff. - Zum D. vgl. auch Hausmann, Reichskanzlei 234.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0033" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228577%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_11" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

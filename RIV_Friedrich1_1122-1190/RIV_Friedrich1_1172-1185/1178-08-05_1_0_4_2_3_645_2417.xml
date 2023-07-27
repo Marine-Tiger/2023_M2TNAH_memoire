@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2417</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-05_1_0_4_2_3_645_2417"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-05_1_0_4_2_3_645_2417"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-08-05_1_0_4_2_3_645_2417</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604896" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2417</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-08-05" to="1178-08-05">1178 August 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Montélimar</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in nonis augusti mensis, apud castrum Montilium Adimar)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem <hi rend="spaced">Bischof Pontius von Avignon</hi>  die Herrschaft über die zur kaiserlichen Kammer gehörenden Juden in seiner Stadt mit dem Auftrag, sie vor fremder Besteuerung und Beschwerung zu schützen, und verleiht dem Bischof die Hafenrechte an der Durance innerhalb der angegebenen Grenzen, behält sich jedoch die kaiserlichen Gerechtsame vor. — <span n="clerk">Verfaßt und geschrieben von Burkhard</span>, der die kaiserliche Vorbehaltsformel nach Vollendung der Niederschrift der Corroboratio sofort hinzugefügt hat; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Consuevit imperatoria serenitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Consuevit imperatoria serenitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Avignon (A). Kop.: Abschrift des Vidimus von 1389 November 25, ebenda, G 5 f.42 (C). Drucke: Gallia Christ, novissima 7, 82 n<hi rend="sup">o</hi>  287 aus Transsumpt Kaiser Karls IV. B.-Huber Reg. 4174; MG.DF.I.747. Regg.: Chevalier, Reg.dauphinois 1, 781 n<hi rend="sup">o</hi> 4690; Stumpf 4260.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. die parallele Verfügung zugunsten des Erzbischofs von Arles vom Tag zuvor, DF.I.746 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-04_1_0_4_2_3_644_2416.html" type="internal" n="regesten">2416</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0228" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_747" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

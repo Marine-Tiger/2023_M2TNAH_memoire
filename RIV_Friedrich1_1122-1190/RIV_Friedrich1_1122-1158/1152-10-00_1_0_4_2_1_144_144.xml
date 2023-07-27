@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 144</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-00_1_0_4_2_1_144_144"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-00_1_0_4_2_1_144_144"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-00_1_0_4_2_1_144_144</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235848" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 144</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-01" to="1152-10-31">1152 Oktober</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(mense octobris, Wirzebvrc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wido</hi>  <hi rend="spaced">Biandrate</hi></recipient>
+				
+				
+				
+					<scribe>Nach DK. III. 51 (VU.) geschrieben von A II. E</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Hartwig von Bremen, Wichmann von Magdeburg, die Bischöfe Ulrich von Halberstadt, Gebhard von Würzburg, Gunther von Speyer, Anselm von Havelberg, Hugo von Vercelli, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Heinrich von Kärnten, die Markgrafen Albrecht (der Bär), Konrad (von Wettin), Hermann von Baden, die Pfalzgrafen Hermann bei Rhein, Otto von Bayern, Friedrich von Sachsen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Grafen <span sameAs="recipient"><hi rend="spaced">Wido</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Biandrate</hi> </span>  die Besitzungen und Rechte, besonders die Regalien zu Castano und Lonate, darüber hinaus Cesola nel Monferrato, Riva di Chieri, Porcile, Valmacca nel Monferrato (<hi rend="italic">Valdemax</hi>) und die Burg Monteacuto mit allen Besitzungen, die Rudolf von Monteacuto dem Grafen aus dem Besitz seiner Tochter Berta und ihres Gatten Odo gegeben hat, sowie das Fodrum in der Grafschaft und verleiht ihm den alleinigen Gerichtsstand vor dem König (<hi rend="italic">nemini liceat ... comitem neque eius heredes in ius vocare apud alium iudicem nisi ante nostram vel successorum nostrorum celsitudinem eo invito</hi>.). <span n="witnesses">Z.: die Erzbischöfe Hartwig von Bremen, Wichmann von Magdeburg, die Bischöfe Ulrich von Halberstadt, Gebhard von Würzburg, Gunther von Speyer, Anselm von Havelberg, Hugo von Vercelli, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Heinrich von Kärnten, die Markgrafen Albrecht (der Bär), Konrad (von Wettin), Hermann von Baden, die Pfalzgrafen Hermann bei Rhein, Otto von Bayern, Friedrich von Sachsen</span>. - <span n="clerk">Nach DK. III. 51 (VU.) geschrieben von A II. E</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si congruum fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si congruum fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv der Grafen Biandrate zu Turin (A). Drucke: Stumpf, Acta ined. 479 n<hi rend="sup">o</hi>  336; Mor, Carte Valsesiane, BSSS 124 (1933) 27 n<hi rend="sup">o</hi>  14; MG. DF. I. 36. Reg.: Stumpf 3652.</p></div>
+				
+				
+					<div type="commentary"><p>Mit der Zuweisung an A II. E (vgl. Zeillinger, Reichskanzlei, DA 22, 1966, 479, 512) erledigen sich die Zweifel von Simonsfeld, SB. München (1911/14) 20 an der Echtheit des D., vgl. auch Hausmann, DK. III. 51 Anm. 2. Aus der mangelnden Vertrautheit des Notars mit den Kanzleigewohnheiten läßt sich vielleicht auch das Fehlen der Signumzeile, des Monogramms und der Rekognition erklären. Das aufgedrückte Siegel war schon 1196 zerstört, wie wir aus der Nachurkunde Heinrichs VI. (B.-Baaken Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-06-00_1_0_4_2_1_553_551.html" type="internal" n="regesten">551</ref>) erfahren, vgl. Anm. o bei unserem D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>Eine Abschrift dieses DF.I. für die Abtei Ellwangen findet sich auch in den Beilagen zu einem Prozessakt des 18. Jhs. (1739–1769) über einen Rechtsstreit zwischen Ellwangen und der Grafschaft Öttingen, vgl. dazu, allerdings irrig zu „1157“: Akten des Reichskammergerichts im Hauptstaatsarchiv Stuttgart E–G, bearb. Brunotte – Weber (Veröff. der staatl. Archivverwalt. Bad.-Württ. 46/2, 1995) 118 f. Nr. 886 (E 1100) unter Q 48: Beilagen zu kläg. Supplik um Gewährung eines Pönalmandats (S. 119). – Zu Dank verpflichtet bin ich dem Landesarchiv Baden Württemberg/Hauptstaatsarchiv Stuttgart, das mir am 9. November
+</p>
+<p>2009 eine Kopie dieser neuzeitlichen Überlieferung zusandte, woraus klar zu erkennen war, dass die bei Brunotte – Weber, ebd., gebotene Jahreszahl „1157“ auf einer irrigen Lesung des dort gebotenen Kopfregestes beruht; die komplette Abschrift des Diploms weist jedenfalls nicht nur eine Nachzeichnung des Monogramms auf, sondern bietet auch die Datierung zum Jahr 1152 (<hi rend="italic">Dat. Wirtzburch VIIII Kalend. Novemb. anno Dominicae incarnationis MCLII</hi> …).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0051" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_36" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

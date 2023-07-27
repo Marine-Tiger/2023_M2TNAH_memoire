@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1225a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-27_1_1_4_2_2_667a_1225a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-27_1_1_4_2_2_667a_1225a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-08-27_1_1_4_2_2_667a_1225a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358501246" value="2013-01-18"></date>
+				<date type="lastmod" n="1415631012" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1225a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-08-27" to="1163-08-27">1163 August 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Como">Como</placeName>
+												<location><geo decls="#WGS">45.8, 9.0833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Richter Arnaldo, genannt de Carate, fällt als Assessor des Magister Paganus, des Boten Kaiser Friedrichs, auf dessen Befehl und auf Rat seines Bruders Ugo wie des Richters Arderico de Bonate ein Urteil im Hinblick auf die Streitigkeiten zwischen den Kommunen von Civenna und Limonta auf der einen und der Kommune Bellagio auf der anderen Seite. Dabei wird festgelegt, dass der Bellagio geleistete Eid hinfällig und die mit Aufrichtung einer <hi rend="italic">emsocietas</hi> fixierte Unterordnung der beiden Kommunen Civenna und Limonta ungültig sein solle. Die Konsuln von Bellagio kommen diesen Anordnungen unverzüglich nach.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Marta Mangini, Le carte del monastero di S. Ambrogio di Milano III/1, n<hi rend="sup">o</hi> 77 = <ref target="http://cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-1/carte/ambrogiomon1163-08-27" type="external" n="unkown">cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-1/carte/ambrogiomon1163-08-27</ref> (Zugriff: 27. Mai 2009).</p></div>
+				
+				
+					<div type="commentary"><p>Magister Paganus war im Sommer 1163 mit der Oberaufsicht über alle Mailänder Besitzungen im Bistum Como betraut worden, siehe dazu oben Reg. 1219. Die Streitigkeiten waren damit freilich nicht beigelegt, vgl. dazu Reg. 1613 sowie in den hier gebotenen Nachträgen die Hinweise zu Reg. 1613.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360331050" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXXII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

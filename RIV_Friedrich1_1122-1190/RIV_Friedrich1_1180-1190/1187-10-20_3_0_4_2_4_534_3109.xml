@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3109</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-20_3_0_4_2_4_534_3109"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-20_3_0_4_2_4_534_3109"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-10-20_3_0_4_2_4_534_3109</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3109</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-10-20" to="1187-10-20">1187
+									(vor Oktober 20)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entsendet seine schon früher an die Kurie 								entsandten Boten (Bischof Otto von Bamberg und Abt Siegfried von 								Hersfeld) abermals dorthin, um den mit Papst Urban (III.) 								vereinbarten Frieden zu fixieren.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Magdeburg., MG. SS XVI, 195.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Gesandten des Kaisers, die bereits im 								Frühjahr (gemeinsam mit Bischof Gottfried von Würzburg) an der Kurie 								Verhandlungen geführt hatten, vgl. oben Regg. 3058 und 3102. Von den 								beiden Legaten ist Bischof Otto von Bamberg zuletzt am 23. September 								1187 bei Hofe bezeugt, vgl. Regg. 3104 und 3105; die Entsendung muss 								demzufolge wohl zu Anfang Oktober, jedenfalls vor dem Tod des 								Papstes am 20. Oktober, erfolgt sein, vgl. dazu Giesebrecht – 								Simson, Kaiserzeit VI, 166 und 668.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

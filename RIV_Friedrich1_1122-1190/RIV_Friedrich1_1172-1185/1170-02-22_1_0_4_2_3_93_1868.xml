@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1868</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-02-22_1_0_4_2_3_93_1868"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-02-22_1_0_4_2_3_93_1868"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-02-22_1_0_4_2_3_93_1868</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596204" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1868</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-02-22" to="1170-02-22">1170 Februar 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Salzburg">Salzburg</placeName>
+												<location><geo decls="#WGS">47.8, 13.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII<hi rend="sup">o</hi>  kal. marcii, Salzeburg).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Moguntini archiep.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Pfalzgraf Otto von Wittelsbach, die Grafen Diepold von Lechsgemünd und Manegold von Veringen, Degenhard von Hellenstein, Eberhard von Frickendorf, Wolfram von Dornberg, Heinrich von Donaustauf <hi rend="italic">(Stoupha</hi>), Altmann von Abensberg, Ulrich von Weikershofen, Marschall Heinrich von Pappenheim, Arnold von Biberbach, Ulrich von Hausen <hi rend="italic">(Husen</hi>), Burggraf Meingot von Salzburg, Burggraf Kuno von Werfen und sein Bruder Ethico, Eckhard von Altentann, Lupold von Wald, Dietmar von Eichham und Markward von Itzling</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt auf Bitten der Salzburger Kirche und des <hi rend="italic">populus</hi>  von (Bad) Reichenhall dem <hi rend="spaced">Augustiner-Chorherrenstift St. Zeno (zu Reichenhall)</hi>  die Örtlichkeit <hi rend="italic">Huntbrunnescrote</hi>  zur Errichtung einer neuen Wehranlage an der Saalach (<hi rend="italic">ut in fonte salis retractis paululum hinc inde inferioribus asseribus in angulo, qui vulgariter Huntbrunnescrote appellatur, locus fieret ad ponendum novum asserem, quem Hallenses vocant werchpret</hi>), um damit die jährliche Hochwassergefahr für (Bad) Reichenhall einzudämmen, und nimmt darüber hinaus das genannte Stift unter Einschluß aller gegenwärtigen und künftigen Besitzungen in seinen Schutz. <span n="witnesses">Z.: Pfalzgraf Otto von Wittelsbach, die Grafen Diepold von Lechsgemünd und Manegold von Veringen, Degenhard von Hellenstein, Eberhard von Frickendorf, Wolfram von Dornberg, Heinrich von Donaustauf <hi rend="italic">(Stoupha</hi>), Altmann von Abensberg, Ulrich von Weikershofen, Marschall Heinrich von Pappenheim, Arnold von Biberbach, Ulrich von Hausen <hi rend="italic">(Husen</hi>), Burggraf Meingot von Salzburg, Burggraf Kuno von Werfen und sein Bruder Ethico, Eckhard von Altentann, Lupold von Wald, Dietmar von Eichham und Markward von Itzling</span>. — <span n="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Moguntini archiep.</hi> </span>; <span n="clerk">verfaßt und geschrieben von UB</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Imperialem maiestatem nostram</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem maiestatem nostram</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Kloster St. Zeno Urkunden 11 (A). Drucke: Mon.Boica 3, 545 n<hi rend="sup">o</hi>  14; MG.DF.I.560. Faks.: Koch, Reichskanzlei Abb.18 Teilfaks. Regg.: Mon.Boica29<hi rend="sup">a</hi>, 398 n<hi rend="sup">o</hi>  519; Lang, Reg.Boica 1, 270; Stumpf 4109.</p></div>
+				
+				
+					<div type="commentary"><p>Die dieser Verfügung zugrundeliegende Sentenz stammt von den in der Zeugenreihe genannten, ausschließlich dem Laienstand angehörenden Persönlichkeiten, vgl. die Vorbemerkung zum D. — Zur Identifizierung des Heinrich von Donaustauf vgl. jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 268, zu der des Lupold von Wald Plassmann, a.a.O., 269; Burggraf Meingot von Salzburg nannte sich in anderen Zeugnissen nach Surberg (Kr. Traunstein), vgl. Plassmann, a.a.O., 270; Ulrich von Hausen (Kr. Aichach-Friedberg) war vielleicht Augsburger Ministeriale, vgl. Plassmann, a.a.O., 275.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0044" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_560" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

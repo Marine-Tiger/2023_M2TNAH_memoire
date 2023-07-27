@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †2967</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-03-05_2_0_4_2_4_391_2967"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-03-05_2_0_4_2_4_391_2967"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-03-05_2_0_4_2_4_391_2967</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846124" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †2967</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-03-05" to="1186-03-05">1186
+									März 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Novara (<hi rend="italic">tercio nonas martii, apud Nouariam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gottefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der DD.464 (Reg. 1408; VU. 									I) für Asti für die Arenga und 935 (Reg. 2966; VU. II) im 									Hinblick auf Zeugenliste und Eschatokoll um 1500, jedenfalls vor 									1509 angefertigt.</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Münster, 									Wilhelm von Asti, Bonifaz von Novara, Wilhelm von Gap (<hi rend="italic">Vapicensis</hi>) und Nantelm (<hi rend="italic">Antelmus</hi>) von Genf, Propst Johannes von 									St. German in Speyer, die Brüder Markgraf Konrad und Markgraf 									Bonifaz von Montferrat, Werner von Bolanden, Kämmerer Rudolf 										(<hi rend="italic">Radulfus</hi>) und Marschall Heinrich von 									Pappenheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht <hi rend="spaced">Graf</hi> 								<hi rend="spaced">Ottobonus von Radicate</hi> aus dem Hause 								Cocconato und seinen Erben alle heimgefallenen Lehen in der 								Grafschaft Cocconato samt allen erdenklichen Rechten und Freiheiten 								unter namentlicher Anführung der Besitzungen, nimmt dabei jedoch die 								Neubruchzehnten aus, die sein Vorgänger (<hi rend="italic">per 									sacram maiestatem imperialem antecessorem nostrum</hi>) dem 								Bischof von Vercelli in den genannten Besitzungen verliehen hat. 									<span n="witnesses">Z.: die Bischöfe Hermann von Münster, 									Wilhelm von Asti, Bonifaz von Novara, Wilhelm von Gap (<hi rend="italic">Vapicensis</hi>) und Nantelm (<hi rend="italic">Antelmus</hi>) von Genf, Propst Johannes von 									St. German in Speyer, die Brüder Markgraf Konrad und Markgraf 									Bonifaz von Montferrat, Werner von Bolanden, Kämmerer Rudolf 										(<hi rend="italic">Radulfus</hi>) und Marschall Heinrich von 									Pappenheim</span>. –<span n="chancellor"> 									<hi rend="italic">Gottefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></span>;<span n="clerk"> unter Heranziehung der DD.464 (Reg. 1408; VU. 									I) für Asti für die Arenga und 935 (Reg. 2966; VU. II) im 									Hinblick auf Zeugenliste und Eschatokoll um 1500, jedenfalls vor 									1509 angefertigt.</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1509, 								Staatsarchiv Mantua, Archivio del Monferrato b. 1 n<hi rend="sup">o</hi> 12 (C); Originalkonzepte der Bestätigungen Kaiser 								Maximilians II. von 1574 Juli 30 und Rudolfs II. von 1585 Juni 19, 								Haus-, Hof- und Staatsarchiv Wien, Feuda latina, Karton 50, Radicate 								(E). Drucke: Stumpf, Acta ined., 232 n<hi rend="sup">o</hi> 								171; Torelli, Reg. Mantovano, 283 n<hi rend="sup">o</hi> 431; 								MG.DF.I.1075. Regg.: Stumpf 4452.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser frei erfundenen Fälschung aus der Zeit 								um 1500, jedenfalls vor 1509, die der Sicherung der 								reichsunmittelbaren Stellung der Grafen von Cocconato unter 								Einschränkung der Rechte des Bischofs von Vercelli diente, vgl. die 								Vorbemerkung zum D., wo auch auf die Fälschung auf den Namen 								Friedrichs II. (B.-Ficker Reg. 3726) hingewiesen wird.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1075" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

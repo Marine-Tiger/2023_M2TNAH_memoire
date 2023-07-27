@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2705</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-25_2_0_4_2_4_126_2705"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-25_2_0_4_2_4_126_2705"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-05-25_2_0_4_2_4_126_2705</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2705</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-05-25" to="1183-05-25">1183
+									(nach Mai 25)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lässt nach dem Ableben Erzbischof Arnolds 								von Trier (25. Mai 1183) dessen Hinterlassenschaft, auf die er <hi rend="italic">iure fisci</hi> Anspruch erhebt, durch Werner von 								Bolanden und andere Boten für das Reich sichern. Bei der Neuwahl in 								Trier kommt es zu einem Dissens, indem sich eine Partei für 								Dompropst Rudolf (von Wied), die andere für Archidiakon Folmar 								entscheidet. Werner von Bolanden, dem sich auch Pfalzgraf (Konrad) 								bei Rhein anschließt, fordert, die Angelegenheit vor den Kaiser zu 								bringen, doch kann Folmar seine eigene Wahl mit Hilfe des Herzogs 								Heinrich von Limburg durchsetzen. Die Gegenseite, dabei insbesondere 								der Bolandener und der Pfalzgraf, versucht mit allen Mitteln die 								Wahl für ungültig zu erklären. Schließlich wird eine Gesandtschaft 								an den Kaiser entsandt, um diesen von den Vorgängen in Kenntnis zu 								setzen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gestorum Treverorum Cont. III., MG. SS XXIV, 								383 f.; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 133 f. (irrig zu 1184); E Gervasii Cantuariensis Chronica, 								MG. SS XXVII, 304 (Friedrich übergibt das Erzbistum Trier seinem <hi rend="italic">nepos </hi>[!]); vgl. auch die Erwähnung in der 								Urkunde Erzbischof Philipps von Köln von (1183), ed. Lacomblet, 								Niederrhein. UB. I, 368 n<hi rend="sup">o</hi> 507; Knipping, Reg. 								Köln 2, n<hi rend="sup">o</hi> 1213.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung richtet sich nach dem Tod 								Erzbischof Arnolds von Trier am 25. Mai 1183. – Arnold war früher 								Propst von St. Andreas in Köln gewesen und hatte von den 230 Mark, 								die ihm Erzbischof Philipp von Köln schuldete (zu einer 								Darlehensaufnahme Philipps bei Arnold im Jahre 1182 vgl. Knipping, 								a.a.O., no 1191), 100 Mark seinem früheren Stift vermacht; dazu 								erteilte der Kaiser, wie in der oben erwähnten Kölner Urkunde (siehe 								Reg. 2704) berichtet wird, seine Zustimmung. – Zum Ausbruch des 								Trierer Wahlstreits vgl. Giesebrecht – Simson, Kaiserzeit VI, 57 								ff., Heyen, Trierer Bistumsstreit, Archiv f. mittelrhein. 								Kirchengesch. 21 (1969) 21 ff., sowie Anton – Haverkamp, Trier im 								Mittelalter, 257 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

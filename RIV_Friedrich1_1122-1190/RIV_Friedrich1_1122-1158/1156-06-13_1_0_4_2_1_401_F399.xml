@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †399</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-13_1_0_4_2_1_401_F399"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-13_1_0_4_2_1_401_F399"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-06-13_1_0_4_2_1_401_F399</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239039" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †399</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-06-13" to="1156-06-13">1156 Juni 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus iun., Wirzeburc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Berchtesgaden</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von AH (Albert), geschrieben von kanzleifremder Hand</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Hillin von Trier, Wichmann von Magdeburg, Humbert (<hi rend="italic">Cumbertus</hi>) von Besançon, die Bischöfe Eberhard von Bamberg, Otto (<hi rend="italic">Oddo</hi>) von Freising, Gebhard von Würzburg und andere Bischöfe, die Äbte Markward von Fulda, Fridelo von der Reichenau (<hi rend="italic">Augensis</hi>), Wibald von Corvey, die Herzoge Welf von Spoleto, Matthäus von Lothringen, Friedrich, der Sohn König Konrads, Pfalzgraf Hermann bei Rhein, Konrad, der Bruder des Kaisers, Markgraf Albrecht von Sachsen, Graf Gebhard von Sulzbach, Pfalzgraf Otto (<hi rend="italic">Oddo</hi>) von Wittelsbach und weitere Fürsten und Edle</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Stift <span sameAs="recipient"><hi rend="spaced">Berchtesgaden</hi> </span>  (<hi rend="italic">Bertherscadem</hi>) auf Bitten seines Propstes Heinrich in seinen Schutz und bestätigt ihm den Besitzstand, insbesondere den Forst um das Stift, den zunächst Graf Engelbert und seine Vorfahren besaßen, und der dann vom Grafen Berengar von Sulzbach dem Stift vor mehr als 30 Jahren geschenkt wurde, innerhalb der namentlich angegebenen Grenzen 〈mit dem Salz- und Bergregal〉 sowie das Recht der freien Vogtwahl. <span n="witnesses">Z.: die Erzbischöfe Hillin von Trier, Wichmann von Magdeburg, Humbert (<hi rend="italic">Cumbertus</hi>) von Besançon, die Bischöfe Eberhard von Bamberg, Otto (<hi rend="italic">Oddo</hi>) von Freising, Gebhard von Würzburg und andere Bischöfe, die Äbte Markward von Fulda, Fridelo von der Reichenau (<hi rend="italic">Augensis</hi>), Wibald von Corvey, die Herzoge Welf von Spoleto, Matthäus von Lothringen, Friedrich, der Sohn König Konrads, Pfalzgraf Hermann bei Rhein, Konrad, der Bruder des Kaisers, Markgraf Albrecht von Sachsen, Graf Gebhard von Sulzbach, Pfalzgraf Otto (<hi rend="italic">Oddo</hi>) von Wittelsbach und weitere Fürsten und Edle</span>. - <span n="chancellor"><hi rend="italic">Rainaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung der Traditionsnotiz von ca. 1124-25, Hauthaler-Martin, Salzburger UB. 2, 198 n<hi rend="sup">o</hi>  130b (VU.) verfaßt von AH (Albert), geschrieben von kanzleifremder Hand</span>; <span n="seal">B. 2.</span> <span n="incipit"><hi rend="italic">Quandocumque nostre imperialis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quandocumque nostre imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p><span sameAs="recipient"><hi rend="spaced">Angebl</hi> </span>. Orig.: Zweite Hälfte des 12. Jh., Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 321 n<hi rend="sup">o</hi>  490; MG. DF. I. 140. Faks.: Schönau, Berchtesgaden und die Kaisersage Tafel IV nach S. 8; Aus 1200 Jahren (Ausstellung des Bayer. Hauptstaatsarchivs, 1979) 63. Reg.: Weißthanner, Regesten, Anal. S. Ord. Cist. 14 (1958) 201 n<hi rend="sup">o</hi>  144; Stumpf 3742.</p></div>
+				
+				
+					<div type="commentary"><p>Die Verunechtung des D. diente der Durchsetzung des Anspruchs des Stiftes auf das Salzregal, dessen Verleihung im Privileg Hadrians IV. von 1157 Dezember 30 (JL. 10316; Germ. pont. 1, 63 n<hi rend="sup">o</hi>  13), das sich ausdrücklich auf unser D. bezieht, nicht enthalten ist, vgl. dazu Th. Mayer, Entstehung der Landeshoheit, Bll. f. dt. LG 89 (1952) 101 ff. sowie B.-Baaken Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-07-00_3_0_4_2_1_342_340.html" type="internal" n="regesten">340</ref>. Geschrieben wurde die Urkunde von einem zwischen 1147-1160 mehrfach für Berchtesgaden und andere Empfänger tätigen Schreiber, vgl. Martin, Urkundenwesen, MIÖG Erg.Bd. 9 (1915) 640, der das Eschatokoll mit anderer Tinte hinzufügte. Die in ganz unregelmäßiger Weise angehängte Goldbulle stammt wohl vom echten Exemplar unseres D., vgl. Acht, Siegelfälscher, Mitteil. f. d. Archivpflege in Bayern. Sonderheft 1 (1958) 13. - Bosl, Forsthoheit als Grundlage der Landeshoheit in Bayern (WdF 60, 1965) 443 ff. untersucht das D. gemäß seiner Bedeutung für die Berchtesgadener Landeshoheit, geht aber auf die Verfälschung nicht ein; über die Grenzen des Forstes vgl. Bosl, a. a. O. 470 ff. - Von Besitzungen Friedrichs in <hi rend="italic">villa Wernruden</hi>, die König Philipp von Schwaben dem Stift Berchtesgaden schenkte, erfahren wir aus dessen Diplom von 1205 Mai 23, B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-25_1_0_4_2_1_110_110.html" type="internal" n="regesten">110</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0131" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_140" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

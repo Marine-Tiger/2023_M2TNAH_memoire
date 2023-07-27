@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. D2447</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-16_1_0_4_2_3_675_D2447"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-16_1_0_4_2_3_675_D2447"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-09-16_1_0_4_2_3_675_D2447</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605332" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. D2447</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-09-16" to="1177-09-16">1177  wohl richtig: 1178  September 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>—, wohl Besançon</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(<hi rend="italic">du seize septembre</hi>)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Priorat Saint-Juste d' Arbois</hi>  die Hälfte seiner Mühlen in Arbois als Ersatz für die unproduktiven und teilweise ruinierten Mühlen des Priorats unterhalb der Burg von Arbois.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in folgenden Überlieferungen: Departementalarchiv Besançon 9 H 1 f. 77' von 1732-24; Coll. Moreau 876 f. 596', Nationalbibliothek Paris; Regest des Abbé Baverel, Nouv. Acquis. françaises 10.546 f. 4', Nationalbibliothek Paris. — Drucke: Marione, Comté de Bourgogne 163 n<hi rend="sup">o</hi>  31; MG.DF.I. *764.</p></div>
+				
+				
+					<div type="commentary"><p>Im Hinblick auf den Empfänger ist es sehr unwahrscheinlich, daß die Angabe des Inkarnationsjahres &amp;quot;1177&amp;quot; richtig sein sollte, vgl. dazu die Vorbemerkung zum D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Das in der Diplomata-Ausgabe nach den durch Mariotte, Comté de Bourgogne, bekannt gemachten Regestenüberlieferungen zum Jahr 1178 gereihte Deperditum für das Priorat Saint-Just in Arbois ist nach der Auffindung der kopialen Überlieferung aus dem 13.–15. Jh. durch Höflinger – Spiegel, Eine neugefundene Urkunde, AfD 47/48 (2001/02) 85 ff. nunmehr richtig zu 1177 August 27, Venedig, einzureihen, siehe dazu oben Reg. 2316a.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0238" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_764" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

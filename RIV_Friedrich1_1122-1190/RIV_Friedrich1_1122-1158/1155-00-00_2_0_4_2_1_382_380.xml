@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 380</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-00-00_2_0_4_2_1_382_380"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-00-00_2_0_4_2_1_382_380"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-00-00_2_0_4_2_1_382_380</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 380</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-01-01" to="1155-12-31">(1155)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kornelimünster</hi>  <hi rend="spaced">Arnold II.</hi>  <hi rend="spaced">Köln</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt in seiner Eigenschaft als Vogt der Abtei <span sameAs="recipient"><hi rend="spaced">Kornelimünster</hi> </span>  (Inden) Erzbischof <span sameAs="recipient"><hi rend="spaced">Arnold II.</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>  auf Grund einer Beschwerde des Abtes Anno gegen den Kölner Zöllner Fugelo, die Kölner Senatoren zu veranlassen, die Zollfreiheit der Abtei zu Köln zu respektieren.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einer Urkunde von 1155, ed. Quix. CD. Aquensis I/1, 64 n<hi rend="sup">o</hi>  93 (vgl. a. a. O. 58 ohne n<hi rend="sup">o</hi>, Vidimus von 1540) und derselbe, Geschichte der Stadt Aachen 1, 79 n<hi rend="sup">o</hi>  24; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  609.</p></div>
+				
+				
+					<div type="commentary"><p>Friedrich wird in dieser Urkunde sowohl als Kaiser als auch als König bezeichnet, was der Situation des Jahres 1155 genau entspricht. Vg. dazu Tille, Archive der Rheinprovinz 1 (Publl. d. Ges. f. Rhein. Geschichtskde. 19, 1899) 83 n<hi rend="sup">o</hi>  12 a und Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 264.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0125" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

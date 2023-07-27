@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3091</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-10_2_0_4_2_4_515_3091"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-10_2_0_4_2_4_515_3091"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-08-10_2_0_4_2_4_515_3091</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3091</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-08-10" to="1187-08-10">(wohl
+									vor 1187 August 10)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>F(riedrich) befiehlt <hi rend="spaced">(Graf) 									B(erthold von Schauenburg)</hi> im Hinblick auf dessen Klage 								(vgl. Reg. 3090), den von ihm seinem (Bertholds) Gegner (Graf Poppo 								dem Jüngeren von Lauffen) gebotenen Frieden zu bewahren, bis er in 								die Nähe der Stadt (Worms) kommen werde, um Gericht über seinen 								Widersacher abzuhalten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Brackmann, Dictamina, SB. d. preuß. Akad. d. 								Wiss. (1927) 391 n<hi rend="sup">o</hi> 4.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus dem 								Hinweis auf den Zug des Kaisers nach Worms, wo er ab dem 10. August 								1187 bezeugt ist, vgl. dazu Brackmann, a.a.O., 384 ff. und Reg. 								3095. – Vgl. dazu auch Regg. 3090 sowie 3092–3094.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1399793406" value="2014-05-11"></date><p n="author">Christian Burkhart, Dossenheim (RNK)</p><p>Die in der Nationalbibliothek der Tschechischen Republik zu Prag (<ref target="http://www.nkp.cz" type="external" n="unkown">www.nkp.cz</ref>), Handschrift VIII H 32, fol. 77v, überlieferten Dictamina, die Johannes Fried, Viator 21 (1990) Anm. 206 auf S. 139 in Abweichung von Brackamm, Dictamina, SB.preuß.Akad.d.Wiss. (1927) S. 388 &amp;quot;einer Wormser Schule, vielleicht der dortigen Domschule&amp;quot; zuweist, sind seit dem 20.11.2013 bei der Europäischen Digitalen Bibliothek der Handschriften (<ref target="http://www.manuscriptorium.com" type="external" n="unkown">www.manuscriptorium.com</ref>) als digitales Faksimile 'online' abrufbar unter folgendem <ref target="http://mscripthq.nkp.cz/documentrepository/manuscriptorium/3/NKCR__VIII_H_32___4DKIY63/N1/VIII_H_32___4DKIY63N10078V.JPG" type="external" n="unkown">Link</ref>.
+</p>
+<p>Die Datierung des - durch berittene Boten abgewickelten - Briefwechsels zwischen Graf Berthold I. von Schauenburg [an der Bergstraße], Kaiser Friedrich Barbarossa und Graf Poppo V. von Lauffen [am Neckar] &amp;quot;wohl vor 1187 August 10&amp;quot; (Regg. 3090-3094) bestätigt sich durch das Erscheinen Gottfrieds von [Schauenburg-]Winnenden bei Hofe, 1187 Juni 26, in Kloster Eußerthal [im Pfälzer Wald] (Reg. 3081). 
+</p>
+<p>Zur Identifizierung des 1181-1196 nach seiner Burg Winnenden [im Murrgau] zubenannten Gottfrieds als 1168-1173 unter der Zubenennung 'von Schauenburg' nachgewiesener jüngerer Bruder des Grafen Berthold von Schauenburg, der seinerseits 1182 als 'Graf von Wolfsölden' [im Murrgau] auftritt, vgl. Gerhard Fritz, Kloster Murrhardt im Früh- und Hochmittelalter. Eine Abtei und der Adel an Murr und Kocher (Forschungen aus Württembergisch Franken 18), Sigmaringen 1982, S. 135-138; Ottilie Kilian, Sülchgau – Wolfsölden – Schauenburg. Das machtpolitische Streben eines mittelalterlichen Adelsgeschlechts (1000-1300), in: Mannheimer Geschichtsblätter NF 6 (1999) S. 115-188, hier S. 156ff.; Gerhard Fritz, Winnenden im Mittelalter im Rahmen hochadliger Machtpolitik von den Anfängen im 9. Jahrhundert bis ins 14. Jahrhundert, in: Winnenden gestern und heute 12 (2009) S. 7-55, hier S. 25ff.
+</p>
+<p>Dass der Kaiser dem Grafen von Schauenburg sein Erscheinen in W[orms] ankündigt (Reg. 3091) und den Grafen von Lauffen nach Worms vorlädt (Reg. 3093), passt zu der laut Ferdinand Opll, Das Itinerar Kaiser Friedrich Barbarossas (1152-1190) (Forschungen zur Kaiser- und Papstgeschichte des Mittelalters. Beihefte zu J. F. Böhmer, Regesta Imperii 1), Wien / Köln / Graz 1978, S. 92 um diese Zeit, Ende Juni / Anfang Juli, erfolgten Ansage des 1187 August 15 (Mariä Himmelfahrt) in Worms abgehaltenen Hoftags (Reg. 3096).</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

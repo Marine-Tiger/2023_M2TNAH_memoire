@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1873</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-03-19_1_0_4_2_3_98_1873"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-03-19_1_0_4_2_3_98_1873"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-03-19_1_0_4_2_3_98_1873</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596270" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1873</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-03-19" to="1170-03-19">1170 März 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Leibnitz</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIIII<hi rend="sup">o</hi>  kal. aprilis, apud Livbenicen).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Henricus imperialis aulę canc. vice Christiani Moguntinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>hinsichtlich der Vogteibestimmungen unter gewissen Anklängen an das Privileg Papst Urbans II. von 1099 März 26 (Jaffé-L. 5784; Germ.Pont.1, 118 n<hi rend="sup">o</hi>  1) verfaßt von UB, bis auf Chrismon und Monogramm (von der Hand des UB) mundiert von Heinrich D</scribe>
+				
+				
+					<testis function="witnesses">Bischof Heinrich von Gurk, Elekt Heinrich von Brixen, Herzog Hermann von Kärnten, Pfalzgraf Otto der Ältere von Wittelsbach, Graf Berthold von Andechs, die Grafen Heinrich und Lupold von Plain, Graf Diepold von Lechsgemünd, Heinrich von Donaustauf (<hi rend="italic">Stovphe</hi>), Degenhard von Hellenstein, Graf Berthold von Tirol, Burggraf Konrad von Nürnberg, Otto von Puch und Wulfing von Kapfenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster St. Paul (im Lavanttal)</hi>  auf Intervention Herzog Hermanns von Kärnten und Graf Bertholds von Andechs sowie auf Bitten des Abtes Pilgrim von St. Paul und seiner Brüder für sein Seelenheil, das seiner Gemahlin Beatrix und seiner Söhne samt seinen gegenwärtigen und künftigen Besitzungen in seinen Schutz, verbietet gemäß Urteil des Hofes die Vergabe von Lehen aus Klostergut, insbesondere im Hinblick auf den ausschließlich dem Kloster gehörenden Besitz zu Völkermarkt, und verfügt hinsichtlich der Wahl des Vogtes, daß dieser nur aus der Gründerfamilie des Klosters genommen werden dürfe und sein Amt unentgeltlich auszuüben habe; Verstöße gegen die Bestimmungen sind mit 50 Pfund Goldes zu ahnden, wovon jeweils 20 an den Fiskus und die geschädigte Kirche, die restlichen 10 an den Kanzler fallen sollen. <span n="witnesses">Z.: Bischof Heinrich von Gurk, Elekt Heinrich von Brixen, Herzog Hermann von Kärnten, Pfalzgraf Otto der Ältere von Wittelsbach, Graf Berthold von Andechs, die Grafen Heinrich und Lupold von Plain, Graf Diepold von Lechsgemünd, Heinrich von Donaustauf (<hi rend="italic">Stovphe</hi>), Degenhard von Hellenstein, Graf Berthold von Tirol, Burggraf Konrad von Nürnberg, Otto von Puch und Wulfing von Kapfenberg</span>. — <span n="chancellor"><hi rend="italic">Henricus imperialis aulę canc. vice Christiani Moguntinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">hinsichtlich der Vogteibestimmungen unter gewissen Anklängen an das Privileg Papst Urbans II. von 1099 März 26 (Jaffé-L. 5784; Germ.Pont.1, 118 n<hi rend="sup">o</hi>  1) verfaßt von UB, bis auf Chrismon und Monogramm (von der Hand des UB) mundiert von Heinrich D</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Sane divinę miserationis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sane divinę miserationis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hofkammerarchiv Wien (A). Drucke: Jaksch, Mon.duc.Car.3, 428 n<hi rend="sup">o</hi>  1140; MG.DF.I.564. Faks.: Koch, Reichskanzlei Abb. 19 Teilfaks. Reg.: Stumpf 4112.</p></div>
+				
+				
+					<div type="commentary"><p>Die Zeugenreihe von <hi rend="italic">comes Bertholdus de Tyrols</hi>  an hat der Kanzleinotar Heinrich D nachträglich hinzugefügt — Auffällig ist die Aufteilung der Pön auf den Fiskus und den Empfänger sowie den Kanzler im Verhältnis von 2 : 2 : 1. — Zur Identifizierung des Heinrich von Donaustauf vgl. jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 268. — Zum Inhalt vgl. Appelt, St. Paul im Lavanttal, Carinthia I 151 (1961) 478 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0046" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_564" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

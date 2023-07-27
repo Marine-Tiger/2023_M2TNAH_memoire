@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2491</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-27_1_0_4_2_3_719_2491"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-27_1_0_4_2_3_719_2491"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-05-27_1_0_4_2_3_719_2491</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605594" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2491</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-05-27" to="1179-05-27">1179 Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI<hi rend="sup">o</hi>  kal. iunii, Constantię)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Auf südlichem Pergament von Burkhard geschrieben und wohl auch (mit etwas ungewöhnlichem Formular) verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt dem <hi rend="spaced">Abt des Klosters S. Ambrogio zu Mailand</hi>  die Vollmacht, die Hintersassen seines Klosters zu Inzago (<hi rend="italic">Antizago</hi>), die sich der Klosterherrschaft durch Abwanderung nach Bellinzago (<hi rend="italic">Biriciacum, Biriziacum</hi>) oder anderswohin entzogen haben, ungeachtet (des Widerstands) etwaiger Konsuln oder örtlicher Rechtsgewohnheiten (<hi rend="italic">nullo consule aut loci cuiusquam consuetudine huic nostrę concessioni ac tuo iuri ullo umquam tempore obstante</hi>) wieder unter seine Herrschaft zu bringen und zu den schuldigen Diensten zu verhalten. — <span n="clerk">Auf südlichem Pergament von Burkhard geschrieben und wohl auch (mit etwas ungewöhnlichem Formular) verfaßt</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Quoniam imperialis mansuetudo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam imperialis mansuetudo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mailand (A). Drucke: Prutz, Friedrich I. 3, 386 n<hi rend="sup">o</hi>  2; MG.DF.I.778. Faks.: Herkenrath, Reichskanzlei 1174 bis 1180, Abb.9. Reg.: Stumpf 4280.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Problemen der bedrohten Klosterherrschaft vor dem Hintergrund der Mailänder Hegemoniepolitik des hohen Mittelalters vgl. Opll, Le origini dell'egemonia territoriale Milanese, in: Atti dell' 11<hi rend="sup">o</hi>  Congresso internazionale di studi sull'alto medioevo, Milano 26-30 ottobre 1987, Tomo I(Spoleto 1989) 173 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0251" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_778" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

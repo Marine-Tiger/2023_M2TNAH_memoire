@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3119</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-05_1_0_4_2_4_544_3119"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-05_1_0_4_2_4_544_3119"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-12-05_1_0_4_2_4_544_3119</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848259" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3119</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-12-05" to="1187-12-05">(1170
+									Februar 17 – 1187 Dezember 5)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Milo von Turin</hi> das Recht, durch Verkauf 								oder Verpfändung widerrechtlich entfremdete Lehen zu revindizieren.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Erneuerung dieses 								Privilegs durch Heinrich VI. für Milos Nachfolger Arduin vom 15. 								September 1196 (B.-Baaken Reg. 550). – MG.DF.I.*1207.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der 								Regierungszeit Bischof Milos, vgl. die Vorbemerkung zum D. Während 								des Pontifikats Milos weilte der Kaiser im Sommer 1178 längere Zeit 								in Turin (siehe dazu u. a. D.732 = Reg. 2386 mit Nennung des 								Bischofs unter den Zeugen), im September 1184 in Mailand (D. 866 = 								Reg. 2784) und im März 1186 zu Casale Monferrato (DD. 933 und 934 = 								Regg. 2964 und 2965) ist Milo bei Hofe bezeugt – wohl bei einer 								dieser Gelegenheiten dürfte es zur Ausstellung der verlorenen 								Herrscherurkunde gekommen sein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1207" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

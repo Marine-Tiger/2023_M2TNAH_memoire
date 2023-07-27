@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3193</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-20_1_0_4_2_4_619_3193"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-20_1_0_4_2_4_619_3193"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-09-20_1_0_4_2_4_619_3193</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3193</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-09-20" to="1188-09-20">(1188
+									vielleicht um September
+									20)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Tyrus)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Markgraf) Konrad (von Montferrat) von Tyrus (<hi rend="italic">Sur</hi>) schreibt an Kaiser Friedrich und bittet 								ihn um rasches Kommen; er führt Klage über den ehemaligen König 								Guido (von Lusignan) von Jerusalem, der gefangen genommen, dann aber 								gegen die Übergabe einiger Kastelle an Saladin wieder freigelassen 								wurde, sowie auch über den Templer Philipp von Flandern. Diese 								beiden haben Gelder, die König (Heinrich II.) von England zur 								Unterstützung des Heiligen Landes geschickt hat, an sich genommen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed. Waitz, MG. SS rer. 								Germ. in us. schol., 141 (zu 1189; nennt den Templer Philipp von 								Flandern); Ann. Ianuenses 2, ed. Belgrano – Imperiale, Fonti per la 								storia d’Italia 12, 24 (zu 1187); vgl. Röhricht, Reg. Regni 								Hierosol., 181 n<hi rend="sup">o</hi> 676 mit Anm. 1 (zu 								November/Dezember 1188).</p></div>
+				
+				
+					<div type="commentary"><p>Die hier vorgenommene zeitliche Einreihung des 								Schreibens richtet sich danach, dass Konrad von Montferrat am 20. 								September (wohl 1188) mit ähnlichen Vorwürfen gegen den früheren 								König Guido und den Templermeister (= Gerard de Ridefort) an 								Erzbischof (Balduin) von Canterbury herantrat; dieses Schreiben 								(Röhricht, Reg. Regni Hierosol., 181 no 676) wird in der Übersetzung 								durch Edbury, The conquest of Jerusalem and the Third Crusade. 								Sources in Translation (1996) 168 f., vgl. a.a.O., 167 nur mit 								Vorbehalt zu 1188 und vielleicht eher zu 1189 gesetzt, was zu den 								Berichten über die Freilassung Guidos von Lusignan, die im Juni 1188 								erfolgt war (vgl. dazu The Old French Continuation of William of 								Tyre, 1184–1197, ed. Edbury, The conquest of Jerusalem and the Third 								Crusade. Sources in Translation [1996], 77 cap. 75 mit Anm. 118), im 								Widerspruch steht. Im Übrigen setzt auch Favreau-Lilie, Die 								Italiener im Heiligen Land, 257, das Schreiben zum September 1188. – 								Vgl. dazu Hiestand, ”precipua tocius christianismi columpna”, in: 								Friedrich Barbarossa (VuF 40, 1992) 97. – Giesebrecht – Simson, 								Kaiserzeit VI, 209, datieren das Eintreffen dieses Schreibens beim 								Kaiser um die Zeit des Aufenthalts in Eger, siehe dazu unten Regg. 								3212 und 3213. – Zu Saladin vgl. die Hinweise oben bei Reg. 								3085.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2830</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-25_1_0_4_2_4_251_2830"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-25_1_0_4_2_4_251_2830"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-25_1_0_4_2_4_251_2830</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2830</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-25" to="1184-11-25">(vor
+									1184 November 25)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Adalbert von Salzburg teilt Dompropst 								G(undakar) und dem Domkapitel von Salzburg, Burggraf M(eingoz) von 								Salzburg und S(iboto) von Surberg (<hi rend="italic">Surbach</hi>) 								mit, er sei in Verona ehrenvoll von Papst (Lucius III.) und Kaiser 								(Friedrich) empfangen worden, habe im Hinblick auf seine 								Auseinandersetzungen mit der Kirche von Gurk vor dem Kaiser einen 								vollen Erfolg erzielen können und habe auch von Papst und Kaiser 									(<hi rend="italic">ab utraque dignitate, Apostolica videlicet 									&amp;amp; Regia</hi>) Privilegien über die Gurker Angelegenheit, das 								Münzrecht und die Bestätigung seiner Stellung als (päpstlicher) 								Legat für ganz Bayern (<hi rend="italic">per totam Noricam</hi>) 								erhalten (siehe oben Regg. 2823 und 2824). (In Verona) haben Papst 								und Konzil die Katharer exkommuniziert, der Kaiser habe über sie die 								Reichsacht verhängt (siehe oben Reg. 2811). Der Patriarch von 								Jerusalem sowie Bischöfe (aus dem Heiligen Land), die Templer und 								die Johanniter (<hi rend="italic">Hospitalarii</hi>) haben vor 								Kaiser und Papst um Unterstützung für das Heilige Land gegen die 								Heiden gebeten und die von der Macht Saladins ausgehende Gefahr 								geschildert, worauf der Kaiser zugesagt habe, nach seiner Rückkehr 								nach Deutschland gemeinsam mit den Fürsten vom kommenden 								Weihnachtsfest an binnen einem Jahr mit Freiwilligen einen Kreuzzug 								zu veranlassen (siehe dazu auch oben Reg. 2801). Zuletzt lädt der 								Erzbischof die Adressaten seines Schreibens ein, 14 Tage nach St. 								Martin (= 25. November) gemeinsam mit Pabo von Ehring (<hi rend="italic">Eringen</hi>) und Salzburger Ministerialen zu 								einem Treffen mit Herzog (Otakar) von Steiermark nach Dürnstein (bei 								Friesach) zu kommen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Schreiben Erzbischof Adalberts, ed. Pez, 								Codex diplomatico-historico-epistolaris … Thesauri anecdot. 								Novissimi 6/2 (1729) 47 n<hi rend="sup">o</hi> 69.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung richtet sich nach dem auf 								14 Tage nach Martini festgesetzten Ladungstermin. Burggraf Meingoz 								und Siboto von Surberg waren Brüder, vgl. etwa die Zeugennennung in 								der Urkunde Erzbischof Adalberts von Salzburg für Reichenhall von 								1184 – – , Salzburg, ed. Hauthaler – Martin, Salzburger UB. II, 600 								no 439, die im Übrigen auch den Edelfreien Pabo von Ehring unter den 								Zeugen anführt. – Zum Inhalt vgl. Giesebrecht – Simson, Kaiserzeit 								VI, 90 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2066</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-31_1_0_4_2_3_293_2066"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-31_1_0_4_2_3_293_2066"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-03-31_1_0_4_2_3_293_2066</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598290" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2066</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-03-31" to="1174-03-31">1174 März 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(pridie kal. aprilis, Aquisgrani)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>S.P. (des Marienstiftes, grünes Wachs) und SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Ego quoque Godefridus canc. vice Christiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und mundiert von UB</scribe>
+				
+				
+					<testis function="witnesses">Bischof Rudolf von Lüttich, die Äbte Erlebold von Stablo und Florentius von Inden (Kornelimünster), Wortwin, Protonotar des kaiserlichen Hofes, Graf Heinrich von Diez, Albert von Grumbach, Werner von Bolanden, Konstantin von Berg und Kuno von Münzenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den zwischen dem <hi rend="spaced">Marienstift zu Aachen</hi>  und dem <hi rend="spaced">Kloster Hautmont</hi>  geschlossenen Vertrag, nach dem dieses die Nutznießung der stiftischen Besitzungen zu Grand-Reng und Givry <hi rend="italic">(Chiweneis)</hi>  unter der Bedingung erhält, daß es dem Stift jährlich zu Pfingsten bzw. spätestens 40 Tage danach zehn Mark Kölner Münze zu zwölf Denaren pro Mark zu bezahlen hat und jeder neu gewählte Abt binnen Jahr und Tag im Marienstift zu erscheinen hat und diesen Vertrag erneuern muß, andernfalls die Vereinbarung hinfällig ist. <span n="witnesses">Z.: Bischof Rudolf von Lüttich, die Äbte Erlebold von Stablo und Florentius von Inden (Kornelimünster), Wortwin, Protonotar des kaiserlichen Hofes, Graf Heinrich von Diez, Albert von Grumbach, Werner von Bolanden, Konstantin von Berg und Kuno von Münzenberg</span>. — <span n="chancellor"><hi rend="italic">Ego quoque Godefridus canc. vice Christiani Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und mundiert von UB</span>; <span n="seal">S.P. (des Marienstiftes, grünes Wachs) und SP.2.</span>  (rotes Wachs). <span n="incipit"><hi rend="italic">Ecclesiarum iura privilegiorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ecclesiarum iura privilegiorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: für das Aachener Marienstift, Hauptstaatsarchiv Düsseldorf (A). Kop.: Abschrift des verlorenen Originals für Hautmont im Cartular von Hautmont von ca. 1260, Nouv.acquis.lat. 1386 f. 42, Nationalbibliothek Paris (B<hi rend="sup">1</hi>); Abschrift desselben von 1773, Coll. Moreau 79 f. 1, ebenda (D<hi rend="sup">1</hi>). Drucke: Meuthen, Aachener Urkunden 206 n<hi rend="sup">o</hi>  35; MG.DF.I.615. Faks.: Koch, Reichskanzlei Teilfaks. im Einlageblatt. Regg.: Wauters, Table chronol. 2, 544 und 7, 310; Diestelkamp — Rotter, Urkundenregesten 1, 327 n<hi rend="sup">o</hi>  417; Stumpf 4157.</p></div>
+				
+				
+					<div type="commentary"><p>Den Nachweis des verlorenen zweiten Originals für Hautmont, das nach den Angaben in D<hi rend="sup">1</hi>  f. 2 ein kaiserliches Siegel in grünem (!) und das stiftische Siegel in rotem (!) Wachs trug, hat Meuthen, a.a.O. erbracht. Der Gebrauch des an A hängenden Abdruckes des Siegelstempels des Aachener Marienstiftes ist erst ab 1197 zu erweisen, so daß hier wohl mit nachträglicher Besiegelung zu rechnen ist, die letztlich auch dem Wortlaut der Corroboratio (<hi rend="italic">sigillo nostro cum appositione sigilli Aquensis ęcclesie</hi>) Genüge tat. Meuthen, a.a.O., 207 f. hat auch die Bestätigungen des Rechtsgeschäftes, das spätestens 1172 abgeschlossen worden war, von seiten Erzbischof Heinrichs von Reims, Papst Alexanders III. (Jaffé-L. 12.569) und des Erwählten Peter von Cambrai zusammengestellt. — Zur Identifizierung von <hi rend="italic">Chiweneis</hi>  vgl. Meuthen, a.a.O., 170 f., sowie Nolden, Besitzungen und Einkünfte, Zs.d.Aachener Geschichtsvereins 86/87 (1979/80) 112 ff. — Der unter den Zeugen genannte Konstantin von Berg gehörte nicht dem rheinischen Grafenhaus Berg an, sondern nannte sich nach ('s-Heeren-)Berg unweit Emmerich in den Niederlanden, vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 108.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0106" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_615" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

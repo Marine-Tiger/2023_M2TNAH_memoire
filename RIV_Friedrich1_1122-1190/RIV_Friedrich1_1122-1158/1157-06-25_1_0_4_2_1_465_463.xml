@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 463</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-06-25_1_0_4_2_1_465_463"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-06-25_1_0_4_2_1_465_463"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-06-25_1_0_4_2_1_465_463</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239464" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 463</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-06-25" to="1157-06-25">1157 Juni 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII kal. iulii, Goslare)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Riechenberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem für Riechenberg tätigen Empfängerschreiber Rd (vgl. O. Heinemann, Beitr. zur Dipl. der Bischöfe von Hildesheim 27)</scribe>
+				
+				
+					<testis function="witnesses">Bischof Bruno von Hildesheim, Erzbischof Wichmann von Magdeburg, Bischof Hermann von Verden (<hi rend="italic">Fardensis</hi>), Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), die Grafen Liudolf von Wöltingerode (<hi rend="italic">Waltiggerod</hi>) und Liudolf von Dassel, Markward von Grumbach, Truchseß Walter, Mundschenk Hildebrand, Kämmerer Hartmann</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Kanzlers und Propstes von Hildesheim Rainald und des Propstes Liudolf das Stift <span sameAs="recipient"><hi rend="spaced">Riechenberg</hi> </span>  (<hi rend="italic">ęcclesiam videlicet Richenbergensem in honore ... Marię fundatam</hi>) in seinen Schutz und bestätigt den namentlich angeführten Besitzstand, darunter besonders die Erwerbung des Nordberges (<hi rend="italic">Nortberch</hi>). <span n="witnesses">Z.: Bischof Bruno von Hildesheim, Erzbischof Wichmann von Magdeburg, Bischof Hermann von Verden (<hi rend="italic">Fardensis</hi>), Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), die Grafen Liudolf von Wöltingerode (<hi rend="italic">Waltiggerod</hi>) und Liudolf von Dassel, Markward von Grumbach, Truchseß Walter, Mundschenk Hildebrand, Kämmerer Hartmann</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Magontini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von dem für Riechenberg tätigen Empfängerschreiber Rd (vgl. O. Heinemann, Beitr. zur Dipl. der Bischöfe von Hildesheim 27)</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Imperii administrationem, quam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperii administrationem, quam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Diplomatischer Apparat der Universitätsbibliothek Göttingen (A). Drucke: Janicke, UB. des Hochstifts Hildesheim 1, 288 n<hi rend="sup">o</hi>  304; MG. DF. I. 172. <hi rend="spaced">Teilfaks</hi>.: Arndt-Tangl, Schrifttafeln 3, 84. Reg.: Stumpf 3772.</p></div>
+				
+				
+					<div type="commentary"><p>DF. I. 172 diente den gefälschten DDL. III. 32 und 128 als Vorlage; vgl. Goetting, Riechenberger Fälschungen, MIÖG 78 (1970) 145 ff. und 154 ff. Die Besitzliste (Lage und Grenzen des Nordberges) weist Anklänge an die undatierte Urkunde Bischof Brunos von Hildesheim (1154 Ende Mai oder Anfang Juni, Janicke, UB. des Hochstifts Hildesheim 1, 270 n<hi rend="sup">o</hi>  284) auf. Von den in der Vorbemerkung zu DF. I. 172 genannten sieben Urkunden verschiedener Aussteller für Riechenberg, die alle auf Rd zurückgehen, betreffen außer DF. I. 172 noch drei den Nordberg (Urkunde des Propstes Adelog: Bode, UB. Stadt Goslar 1, 282 n<hi rend="sup">o</hi>  247; Urk. Rainalds von Dassel: Janicke, a. a. O. 1, 271 n<hi rend="sup">o</hi>  285; Urk. des Pfalzgrafen Friedrich von Sommerschenburg: Janicke, a. a. O. 1, 272 n<hi rend="sup"></hi>  287). Zu DF. I. 172 vgl. weiters W. Heinemann, Hildesheim (Qu. u. Darst. zur Gesch. Ndsachs. 72, 1968) 341, Punkt 3 unten.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0156" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_172" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

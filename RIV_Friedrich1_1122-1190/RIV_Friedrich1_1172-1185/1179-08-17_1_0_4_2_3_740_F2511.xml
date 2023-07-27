@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †2511</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-08-17_1_0_4_2_3_740_F2511"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-08-17_1_0_4_2_3_740_F2511"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-08-17_1_0_4_2_3_740_F2511</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605870" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †2511</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-08-17" to="1179-08-17">1179 August 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Hoftag zu Kayna</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVI<hi rend="sup">o</hi>  kal. septembris, in curia apud Koyne celebrata)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Christiani Maguntini archiep. et totius Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben und wohl auch verfaßt von demselben Schreiber wie DF.I.787  (= Reg. †2512), einem aus dem Stift Kaltenborn stammenden Fälscher des späten 12. Jh.</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Augustiner-Chorherrenstift Kaltenborn</hi>  die Bestimmungen des (interpolierten) Diploms Kaiser Lothars (III.) (DL.III.90). — <span n="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Christiani Maguntini archiep. et totius Germanie archicanc.</hi> </span>; <span n="clerk">geschrieben und wohl auch verfaßt von demselben Schreiber wie DF.I.787  (= Reg. †2512), einem aus dem Stift Kaltenborn stammenden Fälscher des späten 12. Jh.</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Que in hoc</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Que in hoc</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebl. Orig.: Staatsarchiv Dresden (A). Drucke: Schmidt, UB. des Hochstifts Halberstadt 1, 249; MG.DF.I.786. Faks.: Kaiserurk. in Abb. X, 13<hi rend="sup">c</hi>. Regg.: Dobenecker, Reg. 2, n<hi rend="sup">o</hi>  554; Stumpf 4289.</p></div>
+				
+				
+					<div type="commentary"><p>Dieses angebliche D., dem keine echte Herrscherurkunde zugrundeliegt, findet sich auf demselben Pergamentblatt wie das interpolierte DL.III.90; sein Kontext besteht — in völlig kanzleiwidriger Form — nur aus einem einzigen Satz. Das Stück verdankt seine Entstehung einer Fälschungsaktion des späten 12. Jh. und war gegen die <hi rend="italic">pestifera advocatorum potestas</hi>  (so DL.III.90) gerichtet; möglicherweise gehört auch die vielleicht ebenfalls verunechtete Urkunde Bischof Ulrichs von Halberstadt von 1180 Juni 11 (Schmidt, a.a.O., 247 n<hi rend="sup">o</hi>  284 zu 1189; vgl. auch Dobenecker, a.a.O. n<hi rend="sup">o</hi>  571) in diesen Zusammenhang. Die Datierung ist durch das ebenfalls verunechtete DF.I.787 (Reg. †2512) gesichert, vielleicht weist das an der Urkunde hängende, echte Hängesiegel Friedrichs I. auf eine sonst nicht bekannte, echte Urkunde des Staufers für Kaltenborn hin. — Vgl. zu all diesen Fragen die ausführliche Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0258" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00200" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_786" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

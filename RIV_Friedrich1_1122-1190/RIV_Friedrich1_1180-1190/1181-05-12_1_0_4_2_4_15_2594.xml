@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2594</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-05-12_1_0_4_2_4_15_2594"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-05-12_1_0_4_2_4_15_2594"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-05-12_1_0_4_2_4_15_2594</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426842983" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2594</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-05-12" to="1181-05-12">1181
+									Mai 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Ulm (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> idus maii, Ulme</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Christiani 										Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst von HE (GB), geschrieben 									von diesem (Chrismon sowie Elongata der ersten sowie der 									Signumzeile) und Robert (Rest des Textes)</scribe>
+				
+				
+					<testis function="witnesses">Bischof Berthold von Konstanz, Eberhard von 									Waldsee/Wallsee und Konrad, Berthold, der Sohn des Eberhard (von 									Waldsee/Wallsee), Berthold und Eberhard von Alttann, Berthold 									von <hi rend="italic">Nirtherhaue</hi> und Heinrich von 									Winterstetten</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet die Umwandlung der <hi rend="spaced">Pfarrkirche</hi> in <hi rend="spaced">Waldsee/Wallsee</hi> in ein <hi rend="spaced">Augustiner-Chorherrenstift</hi>, gewährt die Freiheit der 								Propstwahl, legt mit Zustimmung Bischof Hermanns von Konstanz (†) 								fest, dass der Propst und dessen Untertanen keinem Archidiakon oder 								Dekan, sondern nur ihren Bischöfen (= von Konstanz) untertan sein 								sollen, und bestimmt, dass der Propst die Propstei aus der Hand des 								Herzogs von Schwaben empfangen soll, die Güter der Kirche nicht 								entfremden oder verpfänden dürfe und gemeinsam mit dem Herzog von 								Schwaben das Stift und dessen Güter zu schützen habe. Er erlaubt 								kinderlosen Ministerialen, ihre Güter dem Konvent zu übertragen, 								gewährt den freien Zensualen und Menschen gleich welchen Standes, 								die zur Herrschaft des Stiftes gehören, das Recht, dass niemand sie 									<hi rend="italic">nomine beneficii</hi> verkaufen dürfe, und 								gesteht den Ministerialen das freie Begräbnisrecht in dieser Kirche 								zu, wo immer sie sterben mögen. Er unterstellt die Ministerialen von 								Waldsee/Wallsee ausschließlich dem Herzog von Schwaben und betont 								abermals, dass der Propst der Kirche deren Güter weder durch 								Verpfändung noch durch Verlehnung oder Verkauf veräußern darf. <span n="witnesses">Z.: Bischof Berthold von Konstanz, Eberhard von 									Waldsee/Wallsee und Konrad, Berthold, der Sohn des Eberhard (von 									Waldsee/Wallsee), Berthold und Eberhard von Alttann, Berthold 									von <hi rend="italic">Nirtherhaue</hi> und Heinrich von 									Winterstetten</span>. – <span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Christiani 										Maguntini archiep. et archicanc.</hi> 								</span>; <span n="clerk">verfasst von HE (GB), geschrieben 									von diesem (Chrismon sowie Elongata der ersten sowie der 									Signumzeile) und Robert (Rest des Textes)</span>; <span n="seal">SP.2.</span> 								<span n="incipit"> 									<hi rend="italic">Noverint omnes imperii.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverint omnes imperii.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Ulm (A). Teilfaks.: 								Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 2. Drucke: 								Wirtemberg. UB. 2, 213 n<hi rend="sup">o</hi> 426; 								MG.DF.I.808. Reg.: Stumpf 4321.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Zustimmung des bereits am 20. November 1165 								verstorbenen Bischofs Hermann von Konstanz vgl. Reg. Imperii 								Friedrich I., Bd. 3, Nachträge, Reg. 1520a. – Zum D. vgl. Hruza, 								Herren von Wallsee, 70 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_808" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

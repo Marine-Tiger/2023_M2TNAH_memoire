@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3150</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_3_0_4_2_4_575_3150"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_3_0_4_2_4_575_3150"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-01_3_0_4_2_4_575_3150</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3150</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-01" to="1188-04-01">(wohl
+									bald nach 1188 April 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich richtet in Vorbereitung des 								Kreuzzugsunternehmens ein Schreiben an den <hi rend="spaced">byzantinischen Kaiser (Isaak II. Angelos)</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+				
+					<div type="commentary"><p>Deperditum; erwähnt: Chron. reg. Col., ed. Waitz, 								MG. SS rer. Germ. in us. schol., 141. Die zeitliche Einordnung 								ergibt sich daraus, dass von diesem Schreiben im Anschluss an den 								Mainzer Hoftag des Jahres 1188 berichtet wird. – Der Basileus 								behandelte die kaiserlichen Legaten (zu diesen vgl. auch Reg. 3151) 								schlecht, übersandte dann allerdings gemeinsam mit den Boten des 								Sultans Kilidsch Arslan von Ikonium (vgl. Reg. 3149) 								Antwortschreiben an den Staufer (siehe unten Reg. 3214), wie 								gleichfalls in der genannten Quelle berichtet wird.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

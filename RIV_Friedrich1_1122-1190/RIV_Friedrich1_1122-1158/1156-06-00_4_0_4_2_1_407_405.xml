@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 405</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-00_4_0_4_2_1_407_405"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-00_4_0_4_2_1_407_405"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-06-00_4_0_4_2_1_407_405</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1416570320" value="2014-11-21"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 405</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-06-01" to="1156-06-30">(1156 Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">(Würzburg)</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kaisheim</hi></recipient>
+				
+				
+				
+					<scribe>geschrieben von einem Würzburger bischöflichen Notar (Johanek, Siegelurkunde im Bistum Würzburg 217, 220 Anm. 86 bezeichnete ihn mit der Sigle Geb C)</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Bischof Walter von Augsburg, Graf Heinrich von Lechsgemünd, seiner Gemahlin, der Gräfin Luicardis, und seinem Sohn Volchrad gegründete Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Kaisheim</hi> </span>  unter Abt Ulrich in seinen Schutz und bestätigt ihm die Besitzungen, darunter namentlich Kaisheim, Bergstetten (<hi rend="italic">Bertensteten</hi>), Wolfsbrunnen (<hi rend="italic">Gvolfsprunnen</hi>), <hi rend="italic">Crangvinkel</hi>, Beuerfeld, Leitheim (<hi rend="italic">Litvn</hi> [. . .]), Ronheim, Anhausen, Weilheim (<hi rend="italic">Gvilun</hi>) Birkach (<hi rend="italic">Bircha</hi>), Wineden (<hi rend="italic">Gvineden</hi>), Aichen und <hi rend="italic">Suanerse</hi>  mit den Kirchen und allem Zubehör [sowie den Neubruchzehenten]. - <span n="clerk">Nach D. 135 für Lützel (Reg. 387; VU. I) und unter Verwendung der Kaisheimer Gründungsurkunde Bischof Walters von Augsburg vom Jahre 1135 (Hund-Gewold, Metrop. Salisb. ed. Rat. 2, 149; VU. II) geschrieben von einem Würzburger bischöflichen Notar (Johanek, Siegelurkunde im Bistum Würzburg 217, 220 Anm. 86 bezeichnete ihn mit der Sigle Geb C)</span>. <span n="incipit"><hi rend="italic">Desiderium, quod ad</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderium, quod ad</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fragment im Hauptstaatsarchiv München (A). Drucke: Wirtemberg. UB. 2, 79 n<hi rend="sup">o</hi>  348; MG. DF. I. 146. Reg.: Hoffmann, Urkunden des Reichsstifts Kaisheim 6 n<hi rend="sup">o</hi>  6; Stumpf 4532 als unecht bezeichnet (vor 1155 März 2).</p></div>
+				
+				
+					<div type="commentary"><p>Obwohl Federproben des 13. Jh. zwischen den Zeilen zeigen, daß das D. bereits damals kassiert war, blieb es erhalten, weil es beim Einbinden eines Kodex Verwendung fand. - Hausmann, Formularbehelfe, MIÖG 58 (1950) 80 Anm. 28 konnte die Hand des Schreibers in Urkunden Bischof Gebhards von Würzburg nachweisen; die zeitliche Einordnung ergibt sich aus der Tätigkeit des Schreibers auf dem Würzburger Tag des Jahres 1156. - Die Echtheit des D. wurde von Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh. 150 f. mit vollem Recht verteidigt (vgl. hier auch D. 135, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-02-21_1_0_4_2_1_389_387.html" type="internal" n="regesten">387</ref>). Gegenüber einer sekundären Quelle, nämlich der Nachricht in einem Nekrolog des 15. Jh., wo es heißt, Abt Ulrich von Kaisheim sei bereits am 11. März 1155 gestorben (Steichele, Bistum Augsburg 2, 617 Anm.), verdient unser D. jedenfalls den Vorzug.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0134" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221022622" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_146" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=557" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

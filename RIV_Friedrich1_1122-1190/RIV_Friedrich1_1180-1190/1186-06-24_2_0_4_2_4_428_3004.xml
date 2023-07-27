@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3004</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-24_2_0_4_2_4_428_3004"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-24_2_0_4_2_4_428_3004"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-24_2_0_4_2_4_428_3004</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3004</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-24" to="1186-06-24">1186
+									Juni 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Namens der Stadt Cremona übergeben Alberto di Sommo 								und Girardo Fabbro zwei Privilegien Kaiser Friedrichs, das eine über 								die Verleihung der Burg Crema und der Insula Fulcherii an Cremona 								und das andere über die Verleihung von Rechten im gesamten Distrikt 								von Cremona, eines ausgestellt zu Pavia (Reg. 2190), das andere zu 								Lodi (Reg. 1032), an den Kastellan Thomas von Annone und Umbert von 									<hi rend="italic">Olivalo</hi> (Olivolo oder Olevano di 								Lomellina?), die der kaiserliche Kanzler Gottfried namens des 								Kaisers zu diesem Zweck als seine Boten eingesetzt hat, und diese 								deponieren die Privilegien bei den Konsuln von Pavia. Eine 								gegebenfalls erforderliche Rückstellung der Privilegien an Cremona 								wird im Detail geregelt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 437 n<hi rend="sup">o</hi> 								309; Falconi, Carte Cremonesi IV, 34 n<hi rend="sup">o</hi> 641.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu schon die Bestimmungen in DF.I.941 (Reg. 								2995). – Bei den Privilegien handelte es sich einerseits um 								D.F.I.353 von 1162 März 7, Lodi (Reg. 1032), das die Schenkung der 								Burg Crema an Cremona zum Inhalt hat, allerdings die Insula 								Fulcherii, deren Grafschaft 1159 an Tinto Musa de Gatta von Cremona 								verliehen worden war (DF.I.290 = Reg. 790), nicht ausdrücklich 								nennt, und andererseits um DF.I.653 von 1176 Juli 29, S. Salvatore 								bei Pavia (Reg. 2190). – Zu den Beziehungen zwischen Cremona und 								Pavia vgl. auch das auf 40 Jahre abgeschlossene Bündnis der beiden 								Städte von 1186 September 7, ed. Falconi, Carte Cremonesi IV, 43 no 								646.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2566</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-19_1_0_4_2_3_795_2566"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-19_1_0_4_2_3_795_2566"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-10-19_1_0_4_2_3_795_2566</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606320" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2566</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-10-19" to="1180-10-19">1180 Oktober 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(nono decimo die mensis octubris, Altoburgii)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und vermutlich auch geschrieben von einem Italiener</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt dem <hi rend="spaced">Kloster Nonantola</hi>  (<hi rend="italic">ecclesie sancti Siluestri de Nonantula</hi>) den zu Unrecht von Turisendus von Verona beanspruchten Besitz zu Nogara (<hi rend="italic">in loco Nogarie vel eius curia</hi>) unter der Bedingung zurück, daß dieser Besitz ihm, seinem königlichen Sohn (Heinrich VI.) und seinen sonstigen Nachfolgern gegen Entrichtung des (schon) seitens der Gräfin Mathilde (von Tuszien), Kaisers Heinrichs (V.) und König Konrads (III.) bezahlten Zinses jederzeit zustehen soll. — <span n="clerk">Verfaßt und vermutlich auch geschrieben von einem Italiener</span>. <span n="incipit"><hi rend="italic">Imperatorie maiestatis deposcit</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorie maiestatis deposcit</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Einzelkopie des 13. Jh., Archiv der Abtei Nonantola (B). Drucke: Tiraboschi, Storia di Nonantola 2, 305 n<hi rend="sup">o</hi>  351; MG.DF.I.802. Reg.: Stumpf 4309.</p></div>
+				
+				
+					<div type="commentary"><p>Die Verleihung des Hofes an Turisendus hatte Friedrich 1164 durchgeführt (DF.I.434 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-04-07_2_0_4_2_2_778_1336.html" type="internal" n="regesten">1336</ref>), doch hatte die Abtei inzwischen Papst Alexander III. veranlassen können, die Bischöfe von Verona und Mantua mit der Wahrung ihrer Interessen zu beauftragen (Jaffé-L. 13.643; Italia pont. 5, 355 n<hi rend="sup">o</hi>  90), vgl. dazu die Vorbemerkung zum D. sowie auch Opll, Verona e l'Impero all'epoca di Federico Barbarossa, in: Verona dalla caduta dei Carolingi al libero Comune. Convegno dell'Accademia di agricoltura, scienze e lettere di Verona, 24 — 26 maggio 1985. Atti (Verona 1987) 59 f. — Zur Funktion des kaiserlichen <hi rend="italic">missus</hi>  Paganus als Verwalter des Hofes zu Nogara vgl. Tiraboschi, a.a.O., 308 n<hi rend="sup">o</hi>  357.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0279" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_802" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

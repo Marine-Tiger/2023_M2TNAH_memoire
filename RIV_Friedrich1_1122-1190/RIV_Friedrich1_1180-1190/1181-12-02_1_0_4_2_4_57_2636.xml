@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2636</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-12-02_1_0_4_2_4_57_2636"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-12-02_1_0_4_2_4_57_2636"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-12-02_1_0_4_2_4_57_2636</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843282" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2636</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-12-02" to="1181-12-02">1181
+									Dezember 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Erfurt (<hi rend="italic">quarto non. decemb., Erphurdiae</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst und vermutlich auch geschrieben von Robert</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt <hi rend="spaced">Bischof 									Berno von Schwerin</hi>, seiner Kirche und all seinen 								Nachfolgern alle von seinem Vetter, dem ehemaligen Herzog Heinrich 								(dem Löwen), geschenkten Güter sowie darüber hinaus <hi rend="italic">villas</hi> in Kessin (<hi rend="italic">Kitin</hi>), die zur (Burg) Werle gehörten, die der genannte 								ehemalige Herzog mit Zustimmung Pribislavs (von Kessin und 								Mecklenburg) der Burg Bischof Bernos zu Bützow (<hi rend="italic">Butisson</hi>) übertragen hat. – <span n="clerk"> 									Verfasst und vermutlich auch geschrieben von Robert</span>.<span n="incipit"> 									<hi rend="italic">Intuitus divinae miserationis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Intuitus divinae miserationis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Zwei Abschriften aus der zweiten Hälfte 								des 16. Jh., Bistum Schwerin, Diplomatarium B f. 7‘ (B) und 								Diplomatarium C f. 3 (C), Staatsarchiv Schwerin (jetzt: 								Landeshauptarchiv Schwerin). Drucke: Meklenburg. UB. 1, 129 									n<hi rend="sup">o</hi> 134; MG.DF.I.819. Regg.: 								Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 608; Stumpf 4333.</p></div>
+				
+				
+					<div type="commentary"><p>Über die Ausstattung des Bistums durch Heinrich 								den Löwen vgl. dessen Urkunde von 1171 September 9, ed. Jordan, Urk. 								Heinrichs des Löwen, 132 no 89.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_819" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

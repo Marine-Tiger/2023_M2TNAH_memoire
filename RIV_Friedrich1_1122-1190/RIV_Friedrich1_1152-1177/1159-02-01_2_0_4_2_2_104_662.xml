@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 662</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-01_2_0_4_2_2_104_662"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-01_2_0_4_2_2_104_662"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-02-01_2_0_4_2_2_104_662</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241775" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 662</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-02-01" to="1159-02-01">1159 Februar 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Occimiano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(kal. febr., in territorio Verzellensi apud castrum Aucimianvm)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Sant' Evasio zu Casale Monferrato</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den an den Hof gekommenen Propst Gregor von <span sameAs="recipient"><hi rend="spaced">Sant' Evasio zu Casale Monferrato</hi> </span>  als königlichen Propst mit den Regalien, nimmt die Kirche in seinen Schutz und bestätigt das Gut, das sie von König Liutprand erhalten hat, sowie die genannten anderen Güter, befreit sie vorbehaltlich der kaiserlichen Gerechtsame von allen öffentlichen Abgaben außer an den Kaiser und gewährt ihr eine Verjährungsfrist von 100 Jahren bei der Rückerwerbung von entfremdeten Besitzungen. - <span n="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Notum habeant fideles</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum habeant fideles</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Kapitelarchiv Casale Monferrato (A). Drucke: Gabotto - Fisso, Le carte dello archivio capitolare di Casale Monferrato, BSSS 40 (1907) 31 n<hi rend="sup">o</hi>  21; MG. DF. I. 255. Reg.: Stumpf 3840.</p></div>
+				
+				
+					<div type="commentary"><p>Das vorliegende D. ist die älteste bekannte Kaiserurkunde für die Casaleser Kirche, deren Gründung man auf Liutprand zurückführte, wobei noch nicht auf die erst später entstandene, angebliche Bleitafel dieses Königs im Kapitelarchiv zu Casale Monferrato, sondern auf die Vita sancti Evasii Bezug genommen wurde, vgl. dazu Brühl, Studien zu den langobardischen Königsurkunden, 125 f. - 1196 berief sich der Vertreter der Gemeinde Casale in einem Rechtsstreit mit dem Bistum Vercelli u. a. auf dieses D., vgl. Ficker, Forschungen 4, n<hi rend="sup">o</hi>  192. - Zu den Beziehungen Friedrichs zu dem Kollegiatstift vgl. Opll, Amator ecclesiarum, MIÖG 88 (1980) 77 f., zu denen zur Stadt Casale Monferrato Opll, Stadt und Reich, 227 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die – wohl finanzielle – Unterstützung, welche Friedrich Barbarossa nach den Hinweisen im Nekrolog der Propsteikirche von Sant’Evasio zu Casale Monferrato den Bauarbeiten am dortigen Kreuzgang angedeihen ließ, könnte sich nach dem Nachweis für den Bestand dieses Bauwerks zum Jahr 1161 etwa in die Zeit des kaiserlichen Privilegs für diese Kirche vom 1. Februar 1159 (DF.I. 255) datieren lassen, vgl. dazu Settia, Casale e il duomo, in: Il duomo di Casale Monferrato. Storia, arte e vita liturgica (2000) 21 f., sowie die Erläuterungen zu Reg. 3325.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0045" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_255" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1127</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-21_1_0_4_2_2_569_1127"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-21_1_0_4_2_2_569_1127"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-08-21_1_0_4_2_2_569_1127</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244836" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1127</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-08-21" to="1162-08-21">1162 August 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Turin">Turin</placeName>
+												<location><geo decls="#WGS">45.0667, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XII kal. sept. apud Taurinum post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Forcalquier</hi>  <hi rend="spaced">Johannitern</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus archicanc. et sanctę Coloniensis ęcclesię electus archiep.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung des Vertrages zwischen Graf Wilhelm und den Johannitern, dessen Wortlaut Erzbischof Wilhelm von Embrun Papst Eugen III. zur Bestätigung vorlegte (Delaville-le-Roulx 1, 152 n<hi rend="sup">o</hi>  197, vgl. JL. 9610; VU.), verfaßt und geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erklärt auf die bei Hofe vorgebrachte Klage des Johanniter-Ordensbruders Hugo Bosonis hin, der dabei von Erzbischof (Wilhelm) von Embrun, Bischof Gaufred von Avignon, Ginand von Simiane-la-Rotonde, Rostagnus <hi rend="italic">de Goldo</hi>  und dessen Bruder sowie von Berenger <hi rend="italic">de Ponte</hi>  und weiteren Edlen der Provence unterstützt wird, den Grafen Wilhelm von <span sameAs="recipient"><hi rend="spaced">Forcalquier</hi> </span>  und dessen Geschwister für verpflichtet, den mit den <span sameAs="recipient"><hi rend="spaced">Johannitern</hi> </span>  geschlossenen Vertrag über die Besitzrechte an den Burgen Manosque und Toutes Aures, die ihnen schon Graf Gigo übereignet hatte, einzuhalten, und nimmt die gegenwärtigen und künftigen Besitzungen des Hospitals in der Provence in seinen Schutz. - <span n="chancellor"><hi rend="italic">Rainaldus archicanc. et sanctę Coloniensis ęcclesię electus archiep.</hi> </span>; <span n="clerk">unter Heranziehung des Vertrages zwischen Graf Wilhelm und den Johannitern, dessen Wortlaut Erzbischof Wilhelm von Embrun Papst Eugen III. zur Bestätigung vorlegte (Delaville-le-Roulx 1, 152 n<hi rend="sup">o</hi>  197, vgl. JL. 9610; VU.), verfaßt und geschrieben von RH</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Serenitatis nostre studium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Serenitatis nostre studium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Marseille (A). Drucke: Stumpf, Acta ined. 507 n<hi rend="sup">o</hi>  357; Delaville-le-Roulx, Cartulaire général 1, 219 n<hi rend="sup">o</hi>  305; MG. DF. I. 383. Faks.: Herkenrath, Reichskanzlei 1174 bis 1180, Abb. 8 Teilfaks. Reg.: Chevalier, Rég. dauphinois 1, 694 n<hi rend="sup">o</hi>  4143; Gallia christ. noviss. 7, 78 n<hi rend="sup">o</hi>  266; Stumpf 3963a.</p></div>
+				
+				
+					<div type="commentary"><p>Der Vertrag des Grafen Gigo mit den Johannitern von 1149 Juni 1 findet sich bei Delaville-le-Roulx 1, 146 n<hi rend="sup">o</hi>  186. - Zur Wendung der kaiserlichen Politik gegen die Grafen von Forcalquier vgl. auch DDF. I. 378 und 382 (= Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-01_1_0_4_2_2_559_1117.html" type="internal" n="regesten">1117</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-18_2_0_4_2_2_567_1125.html" type="internal" n="regesten">1125</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0158" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_383" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

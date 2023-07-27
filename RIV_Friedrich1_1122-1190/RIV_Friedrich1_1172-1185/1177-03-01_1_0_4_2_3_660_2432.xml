@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2432</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-01_1_0_4_2_3_660_2432"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-01_1_0_4_2_3_660_2432"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-03-01_1_0_4_2_3_660_2432</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606814" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2432</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-03-01" to="1177-03-01">1177 — 1180 März 1, wahrscheinlich 1178 Juni — August</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt dem <hi rend="spaced">Markgrafen Otto von Brandenburg, dem Klerus und dem Volk der Wische</hi>  (<hi rend="italic">de Prato</hi>), <hi rend="spaced">Bischof Hugo von Verden</hi>  gegen die von Bischof (Ulrich) von Halberstadt vor Papst Alexander (III.) erhobenen, unrechtmäßigen Ansprüche auf (die östlichen) Gebiete des Verdener Bistums zu schützen, und ordnet an, daß der Halberstädter Bischof allfällige Klagen bei Hofe vorbringen möge. — Außerhalb der Kanzlei verfaßt und geschrieben, wobei südliches Pergament Verwendung fand; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Pervenit ad nostre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Pervenit ad nostre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (A). Drucke: Schmidt, UB.des Hochstifts Halberstadt 1, 255 n<hi rend="sup">o</hi>  285; MG.DF.I.758. Faks.: Kaiserurk. in Abb. X, 16<hi rend="sup">e</hi>. Regg.: Diestelkamp — Rotter, Urkundenregesten 1, 340 n<hi rend="sup">o</hi>  436; Stumpf 4563 (zu 1179 Juni — Juli).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung resultiert aus der Verwendung südlichen Pergaments sowie dem Aufenthalt des Verdener Bischofs bei Hofe, der bis zum 20. August 1178 (DF.I.757 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-20_2_0_4_2_3_659_2431.html" type="internal" n="regesten">2431</ref>) bezeugt ist, vgl. dazu die Vorbemerkung zum D; daß es sich um die östlichen Gebiete des Bistums Verden handelte, ergibt sich aus den angeführten Adressaten. — Dorsualvermerk saec.XIII: <hi rend="italic">Friderici imperatoris de terminis contra Halberstadensem episcopum.</hi>  — Dieses Mandat wird auch im letzten Satz des DF.I.759 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-03-01_2_0_4_2_3_661_2433.html" type="internal" n="regesten">2433</ref>) erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0233" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00193" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_758" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

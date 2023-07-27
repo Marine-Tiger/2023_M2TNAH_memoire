@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2378</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-03-09_1_0_4_2_3_606_2378"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-03-09_1_0_4_2_3_606_2378"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-03-09_1_0_4_2_3_606_2378</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604465" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2378</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-03-09" to="1178-03-09">1178 März 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(septimo idus martii, apud Papiam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus sacri imperii canc. vice domini Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Bischof Lanfrancus von Brugnato, Notar (der Reichskanzlei) Rudolf, Magister Metellus (Hofrichter), die Markgrafen Wilhelm von Montferrat, Heinrich Guercio (<hi rend="italic">Wertio</hi>) von Vasto, Marvellus (<hi rend="italic">Munruellus</hi>) Malaspina und Wilhelm von Parodi, die Grafen Macharius von S. Miniato und sein Sohn Franko sowie Friedrich von Abenberg, Burggraf Burchard der Jüngere von Magdeburg, Friedrich von Ampfurth, Wido von Sannazzaro de' Burgondi, Bischof Petrus von Pavia</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Erzbischof Ubald von Pisa</hi>  auf dessen Bitten und für sein eigenes Seelenheil alle namentlich angeführten Rechte und Besitzungen des Erzbistums, wie sie König Konrad (III.) Erzbischof Balduin übertragen und verliehen hat, und fügt unter Vorbehalt der kaiserlichen Gerechtsame die Schenkung des Hauses der Berta Botrionis hinzu. <span n="witnesses">Z.: Bischof Lanfrancus von Brugnato, Notar (der Reichskanzlei) Rudolf, Magister Metellus (Hofrichter), die Markgrafen Wilhelm von Montferrat, Heinrich Guercio (<hi rend="italic">Wertio</hi>) von Vasto, Marvellus (<hi rend="italic">Munruellus</hi>) Malaspina und Wilhelm von Parodi, die Grafen Macharius von S. Miniato und sein Sohn Franko sowie Friedrich von Abenberg, Burggraf Burchard der Jüngere von Magdeburg, Friedrich von Ampfurth, Wido von Sannazzaro de' Burgondi, Bischof Petrus von Pavia</span>. — <span n="chancellor"><hi rend="italic">Gotefridus sacri imperii canc. vice domini Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; unter Verwendung der dispositiven Teile des DK.III.32 (VU.) in den selbständigen Teilen von Burkhard verfaßt, geschrieben von einem sonst nicht bekannten Schreiber; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Si venerabilium peticiones</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si venerabilium peticiones</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Pisa (A). Druck: MG.DF.I.730. Regg.: Tallone, Marchesi di Saluzzo, BSSS 16 (1906) 21 n<hi rend="sup">o</hi>  69<hi rend="sup">bis</hi>; Stumpf 4245.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0215" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_730" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

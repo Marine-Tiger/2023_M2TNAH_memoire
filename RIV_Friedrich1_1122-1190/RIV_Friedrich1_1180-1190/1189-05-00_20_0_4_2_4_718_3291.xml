@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3291</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_20_0_4_2_4_718_3291"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_20_0_4_2_4_718_3291"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_20_0_4_2_4_718_3291</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3291</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1152
+									März 9 – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt <hi rend="spaced">Bonacursus 									(Bürger von Pisa)</hi> und seine Brüder Ceconia und Girardus mit 								all ihren Gütern in der Stadt und im Gebiet von Pisa in seinen 								Schutz, verleiht ihnen das Recht, an ihren Häusern Mauervorsprünge 								und Treppen nach jeder Seite zur öffentlichen Straße hin zu bauen, 								und die Freiheit von Abgaben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im DF.II. von 1244 August 								für die Bürger von Pisa Marcus Roncionis, Gerardus Ceconie und 								Iacobus Roncionis (B.-Ficker Reg. 3443; Huillard-Bréholles 6<hi rend="sup">a</hi>, 228). – MG.DF.I.*1226.</p></div>
+				
+				
+					<div type="commentary"><p>Hochinteressante, gleichsam baupolizeiliche 								Regelungen. – Vgl. auch das DH.VI. von 1197 Januar 15, Gioia del 								Colle, für die Angehörigen derselben Familie (B.-Baaken Reg. 								579).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

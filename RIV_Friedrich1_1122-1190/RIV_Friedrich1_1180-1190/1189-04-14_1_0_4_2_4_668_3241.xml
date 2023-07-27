@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3241</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-14_1_0_4_2_4_668_3241"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-14_1_0_4_2_4_668_3241"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-04-14_1_0_4_2_4_668_3241</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3241</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-04-14" to="1189-04-14">1189
+									April 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Hagenau (<hi rend="italic">XVIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. maii, apud Hagenowe</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt einen zu Gunsten des <hi rend="spaced">Zisterzienserklosters</hi> 								<hi rend="spaced">Eußerthal</hi> (<hi rend="italic">Uzerstal</hi>) 								durchgeführten Gütertausch, bei dem er die Güter zu Spechbach (<hi rend="italic">Spehtesbach</hi>) und <hi rend="italic">Tegerenbach</hi> (wohl Tegernbach), die er von der 								bischöflichen Kirche zu Straßburg zu Lehen getragen hat, unter der 								Bedingung an Bischof Heinrich von Straßburg zurückgestellt hat, dass 								dieser diese Güter gemeinsam mit weiteren namentlich angeführten 								Straßburger Lehen, nämlich Gräfenhausen, dem Mettenbacher Hof und 								Rodenbach, an Eußerthal übergibt und dafür im Tauschweg die 								Klostergüter in Mühlhofen und Rohrbach erhält, mit denen der Bischof 								ihn (den Kaiser) belehnt hat. Bei dem Vertragsabschluss anwesend 								waren (<hi rend="italic">Huic contractui interfuit</hi>) die Söhne 								des Kaisers, König Heinrich (VI.), Pfalzgraf Otto von Burgund und 								Konrad von Rothenburg, weiters Johannes, Kanzler des kaiserlichen 								Hofes, Propst Konrad von St. German zu Speyer, K(onrad) von <hi rend="italic">Lapide</hi> (vielleicht Stein bei Bellefosse) und 								Vitztum Burchard von Straßburg. Z. des Tausches (<hi rend="italic">Testes sunt eciam huius concambii</hi>): die Grafen F(riedrich) 								von Leiningen, Albert von Dagsburg und Siegbert, Hermann <hi rend="italic">Weiso</hi>, Werner von Bolanden, Dietmar (<hi rend="italic">Diemarus</hi>) von Leimersheim, Ulrich <hi rend="italic">Weiso</hi>, Marschall Werner von Straßburg, 								Kämmerer Rudolf von Siebnach (<hi rend="italic">Sibeneich</hi>), 								Walter aus Straßburg, Vogt Anselm von Straßburg, Wezel von 								Berg/Trifels, H(einrich) von Altdahn (<hi rend="italic">Tanne</hi>) 								und H(einrich) von Burg Meistersel. – Unter Heranziehung der 								gleichzeitigen Urkunde Bischof Heinrichs von Straßburg über dasselbe 								Rechtsgeschäft (Würdtwein, Nova Subsidia 12, 120 n<hi rend="sup">o</hi> 39; Wentzcke, Reg. der Bischöfe von Straßburg 1, 359 									n<hi rend="sup">o</hi> 646) unter Beteiligung der kaiserlichen 								Kanzlei verfasst. <hi rend="italic">De iniuncto nobis</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Drucke: Würdtwein, Nova Subsidia 12, 118 n<hi rend="sup">o</hi> 38; MG.DF.I.993. Regg.: Wentzcke, Reg. 								der Bischöfe von Straßburg 1, 359 n<hi rend="sup">o</hi> 645; 								Stumpf 4515.</p></div>
+				
+				
+					<div type="commentary"><p>Bis auf eine deutsche Übersetzung des 15. Jh. im 								Hauptstaatsarchiv München, Rheinpfälzer Urkunden 408, fehlt jegliche 								archivalische Überlieferung (ebenso wie bei den DD. 771 und 865 = 								Regg. 2460 und 2779), sodass der Druck von Würdtwein in der 								DD.-Ausgabe wiederholt wurde. – Das D. unterscheidet ebenso wie die 								Bestätigung durch Bischof Heinrich von Straßburg zwischen Zeugen des 								Vertragsabschlusses und solchen der Tauschhandlung; vielleicht darf 								daraus – vor allem aus der Häufung von Straßburger Zeugen – auf die 								Vornahme der Rechtshandlung in Straßburg geschlossen werden (siehe 								dazu oben Reg. 3236). – Zu dem unter den Zeugen genannten Wezel von 								Berg vgl. Plassmann, Struktur des Hofes, 246 und 277. – Zum Inhalt 								vgl. Doll, Eußerthal, Mitteil. des histor. Vereins der Pfalz 68 								(1970) 210; zu Dietmar von Leimersheim (Kr. Germersheim) vgl. 								Plassmann, a.a.O., 282 f. – Der Kaisersohn Konrad von Rothenburg ist 								hier nach dem Scheitern des staufisch-kastilischen Eheprojekts von 								1188 (vgl. Reg. 3155) erstmals wieder in Deutschland bezeugt. Die 								Auflösung der 1188 beschlossenen Verlobung (siehe dazu oben Reg. 								3167) erfolgte dann zwischen dem Oktober 1190 und dem April 1192, 								vgl. dazu Meyer, Dynastische Verbindungen, in: España y el „Sacro 								Imperio“, hg. von Julio Valdeón, Klaus Herbers und Karl Rudolf 								(Historia y sociedad, n. 97, 2002) 75 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

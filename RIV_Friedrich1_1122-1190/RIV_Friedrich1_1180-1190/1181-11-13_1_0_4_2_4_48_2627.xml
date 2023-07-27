@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2627</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-13_1_0_4_2_4_48_2627"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-13_1_0_4_2_4_48_2627"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-11-13_1_0_4_2_4_48_2627</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843100" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2627</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-11-13" to="1181-11-13">1181
+									November 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg Altenburg (<hi rend="italic">idus novembris, in castro Aldenburc</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst und geschrieben von Robert, 									allerdings entsprechen Corroboratio und Pönformel sowie die 									Zeichnung des Monogramms den Gewohnheiten des HE, mit dem 									gemeinsam Robert das DF.I.808 (Reg. 2594) hergestellt 									hat</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann 									von Magdeburg, die Bischöfe Hermann von Münster und Martin von 									Meißen, die Markgrafen Otto von Meißen und Dietrich von 									Landsberg (= der Lausitz), Graf Dedo (von Groitzsch), Hugo von 									Warthe und Thiemo von Colditz, Kämmerer Sibodo und seine Brüder 									von Groitzsch, Siegfried und (der Ministeriale) Gerhard von 									Altenburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt mit Zustimmung Bischof Eberhards von 								Merseburg die Streitigkeiten zwischen <hi rend="spaced">Abt 									Eckelin von Pegau</hi> und seinen Mönchen auf der einen und dem 									<hi rend="spaced">Reichsministerialen Friedrich von 									Groitzsch</hi> auf der anderen Seite bei, indem er folgende 								Regelungen trifft: Abt Eckelin stellt die <hi rend="italic">villa 									Heinrichstorp</hi> (Heinrichsdorf?), mit der der Kaiser den 								Reichsministerialen belehnt hatte, eine Hufe in <hi rend="italic">Drossecowe</hi> (wohl Droysig) sowie zwei Hufen in <hi rend="italic">Bukuwiz</hi> (Bockelwitz?), die dem Reimbodo 								gehörten, weiters die Kirche in <hi rend="italic">Clobelochstorph</hi> (wohl Knobelsdorf sö. Leipzig unweit 								Döbeln) mit ihrer Ausstattung und den Pfennigen, die <hi rend="italic">missales</hi> genannt werden, aber mit Ausnahme 								des Zehents dieser <hi rend="italic">villa</hi> (<hi rend="italic">Clobelochstorph</hi>), der der Kirche in <hi rend="italic">Luzic</hi> (wohl Bad Lausick sö. Leipzig) gehört, an den Kaiser 								zurück, der alles mit Zustimmung des Abtes und seiner Brüder an den 								Reichsministerialen zu Lehen ausgibt. Im Gegenzug übergibt der 								Reichsministeriale Friedrich dem Kloster alles, was er in Pegau (<hi rend="italic">Bigowe</hi>) zu Eigen oder zu Lehen hat und was 								dort seine Holden von ihm zu Lehen innehaben, mit Ausnahme der Lehen 								des Pilgrim und des Konrad, die diese aus der Hand des Abtes 								empfangen haben; dort, wo der Reichsministeriale eine Mühle zu 								erbauen beschlossen hat, wird er künftig nichts veranlassen; die 								Gebüsche (<hi rend="italic">virgulta</hi>), um die gestritten worden 								ist, werden ebenfalls dem Kloster zurückgestellt. Zuletzt legt der 								Kaiser fest, dass weder der Abt noch der Vogt des Klosters erlauben 								dürfen, dass eine Hofstätte (<hi rend="italic">aream</hi>) oder 								irgendeine Besitzung in Pegau von einem Ritter erworben oder bewohnt 								werden dürfe, und auch die Kaufleute dürfen ihre Hofstätten und Höfe 								nicht an Ritter, sondern nur an Kaufleute verkaufen, die nach 								Marktrecht leben (<hi rend="italic">mercatoribus, qui forensia iura 									exequantur</hi>). <span n="witnesses">Z.: Erzbischof Wichmann 									von Magdeburg, die Bischöfe Hermann von Münster und Martin von 									Meißen, die Markgrafen Otto von Meißen und Dietrich von 									Landsberg (= der Lausitz), Graf Dedo (von Groitzsch), Hugo von 									Warthe und Thiemo von Colditz, Kämmerer Sibodo und seine Brüder 									von Groitzsch, Siegfried und (der Ministeriale) Gerhard von 									Altenburg</span>. – <span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Moguntini archiep. et archicanc.</hi> 								</span>; <span n="clerk">verfasst und geschrieben von Robert, 									allerdings entsprechen Corroboratio und Pönformel sowie die 									Zeichnung des Monogramms den Gewohnheiten des HE, mit dem 									gemeinsam Robert das DF.I.808 (Reg. 2594) hergestellt 									hat</span>;<span n="seal"> SI.2.</span> 								<span n="incipit"> 									<hi rend="italic">Equum et rationi.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equum et rationi.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Universitätsbibliothek Leipzig, Dipl. 								VI (Leihgabe Leipziger Stadtbibliothek) (A). Teilfaks.: Herkenrath, 								Reichskanzlei 1181 bis 1190, Abb. 3. Drucke: Kehr, UB. des 								Hochstiftes Merseburg 104 n<hi rend="sup">o</hi> 123; 								MG.DF.I.813. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 599; Diestelkamp – Rotter, Urkundenregesten 1, 363 n<hi rend="sup">o</hi> 461; Stumpf 4326.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Anwendung des damals nicht mehr kanzleigemäßen 									<hi rend="italic">sigillum impressum</hi> vgl. auch DF.I.811 								(Reg. 2598). – Der letztgenannte Zeuge, Gerhard von Altenburg 								(Burgenlandkreis), dürfte mit Gerhard von Braunshain (Kr. 								Altenburger Land) und Gerhard von Nöbdenitz (Kr. Altenburg) 								identisch sein, vgl. dazu Plassmann, Struktur des Hofes, 285. – Zur 								stadtgeschichtlichen Bedeutung vgl. Opll, Stadt und Reich, 132 								f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_813" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

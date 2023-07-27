@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2538</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-03-27_1_0_4_2_3_767_2538"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-03-27_1_0_4_2_3_767_2538"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-03-27_1_0_4_2_3_767_2538</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2538</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-03-27" to="1180-03-27">1180 März 27 — April 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Gelnhausen">Gelnhausen</placeName>
+												<location><geo decls="#WGS">50.2, 9.1833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <hi rend="spaced">Hoftag</hi>, auf dem die (bereits in Würzburg, vgl. Reg. 2530) verfügte Absetzung Heinrichs des Löwen umgesetzt wird. Mit Zustimmung aller Fürsten wird das Herzogtum geteilt, und im Bereich östlich der Weser an Graf Bernhard von Anhalt, im Westen dieses Flusses in Westfalen an Erzbischof Philipp von Köln übertragen; Landgraf Ludwig (III.) von Thüringen wird anstelle des ohne Erben verstorbenen Adalbert von Sommerschenburg zum Pfalzgrafen (von Sachsen) erhoben und sodann auf Befehl seines kaiserlichen Oheims und auf Bitten Erzbischof Philipps von Köln zur Bekämpfung des abgesetzten Welfenherzogs nach Sachsen entsandt. Allen Fürsten sagt Friedrich die Heerfahrt gegen Heinrich den Löwen für Jacobi (25. Juli) an. In Anwesenheit zweier Kardinale als päpstliche Legaten (wohl des Petrus von Pavia, Kardinalbischofs von Tusculum, und des Petrus de Bono, Kardinalpresbyters von S. Susanna) wird Bischof Siegfried von Brandenburg, der früher zum Erzbischof von Bremen gewählt worden ist, dann aber keine Anerkennung gefunden hat (vgl. Reg. 1839), während dieses Hoftages am Sonntag Letare (30. März) auf den Bremer Erzstuhl erhoben; Elekt Berthold von Bremen erhält das Bistum Metz (siehe dazu schon oben die Bemerkungen bei Reg. 2532).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed Waitz, MG. SS rer. Germ, in us. schol., 130 (zu März 27); Ann. Stadenses, MG. SS XVI, 349 (zu März 30); Ann. Pegav., MG. SS XVI, 263 (zu April 6); Ann. s. Petri Erph. maiores, ed. Holder-Egger, MG. SS rer. Germ, in us. schol., 64 f.; Ann. Seldental., ed. Böhmer, Fontes rer. Germ. 3, 526; Cron. s. Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ, in us. schol., 189; Cron. Reinhardsbrunn., MG. SS XXX/1,540; Chron. Montis Sereni, MG. SS XXIII, 157; Chron. principum Saxoniae ampliata, MG. SS XXX/1, 30 und 32 (zu April 6); Ann. Egmundani, ed. Oppermann, Werken uitgegeven door het historisch genootschap 3. Serie/61 (1933), 184; Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ, in us. schol., 52 (ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 166); Ann. s. Georgii, Cont. A, MG. SS XVII, 296; Catalogus archiepp. Coloniensium, Cont. I und II., MG. SS XXIV, 344 und 345; Chounradi Schirensis Ann., MG. SS XVII, 630; Hugonis Chron. Cont. Weingartensis, MG. SS XXI, 475; Otto von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ, in us. schol., 36 (ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 74).</p></div>
+				
+				
+					<div type="commentary"><p>Urkundlich ist der Aufenthalt des Kaisers in Gelnhausen vom 1. — 13. April bezeugt, wobei am letzten Tag die berühmte &amp;quot;Gelnhäuser Urkunde&amp;quot; (D.795 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-04-13_1_0_4_2_3_769_2540.html" type="internal" n="regesten">2540</ref>) ausgestellt wurde. Damals fand in Ausführung der bereits in Würzburg (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-01-06_1_0_4_2_3_759_2530.html" type="internal" n="regesten">2530</ref>) getroffenen Maßnahmen das Vorgehen gegen Heinrich den Löwen seine Fortsetzung, vgl. dazu bereits die oben bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-01-06_1_0_4_2_3_759_2530.html" type="internal" n="regesten">2530</ref>  angeführte Literatur. — Zu den Kämpfen zwischen Ludwig von Thüringen und Heinrich dem Löwen in Sachsen, bei denen Goslar im Mittelpunkt stand, Ludwig dann am 14. Mai eine Niederlage erlitt und gemeinsam mit seinem Bruder Hermann und anderen in die Gefangenschaft Heinrichs fiel, vgl. Jordan, Heinrich der Löwe, 204 f. — Die erste Wahl Siegfrieds, des dritten Sohnes Albrechts des Bären, zum Bremer Erzbischof hatte nach dem Tode Erzbischof Hartwigs (11. Oktober 1168) stattgefunden, war aber dann auf dem Bamberger Hoftag vom Juni 1169 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1169-06-08_3_0_4_2_3_64_1839.html" type="internal" n="regesten">1839</ref>) unter dem Einfluß Heinrichs des Löwen, der damals noch eng mit Barbarossa verbündet war, gescheitert; Siegfried wurde 1173 Bischof von Brandenburg, vgl. dazu Jordan, Heinrich der Löwe, 120 ff. sowie die Literaturhinweise oben bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1169-06-08_3_0_4_2_3_64_1839.html" type="internal" n="regesten">1839</ref>. Als Tag seiner Inthronisation in Bremen ist der 21. September 1180 überliefert, vgl. dazu Heinemann, CD. Anhalt. 1, 467 n<hi rend="sup">o</hi>  637. — Zu den beiden bei der Regelung der Bremer Frage anwesenden Kardinallegaten vgl. jetzt Weiss, Die Urkunden der päpstlichen Legaten von Leo IX. bis Coelestin III., 259 ff. — Nach der Nennung des Elekten Bertram von Metz in der Zeugenreihe von Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-01-25_1_0_4_2_3_761_2532.html" type="internal" n="regesten">2532</ref>  war die Erhebung des vom Laterankonzil 1179 abgesetzten Bremer Erzbischofs Berthold (als Metzer Bischof: Bertram) schon früher erfolgt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0269" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2965</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-03-02_1_0_4_2_4_389_2965"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-03-02_1_0_4_2_4_389_2965"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-03-02_1_0_4_2_4_389_2965</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845998" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2965</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-03-02" to="1186-03-02">1186
+									März 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Casale Monferrato (<hi rend="italic">sexto nonas martii, apud Casale sancti Evasii</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verkürzte Wiedergabe des Wortlautes von D.933 (Reg. 2964; 									VU.), wohl ebenfalls außerhalb der Kanzlei 									ausgefertigt</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Münster, Albert von 									Vercelli und Milo von Turin, Vogt Bonusiohannes von Vercelli, 									Werner von Bolanden, Rupert von Walldürn und Ulrich von 									Gutenburg (Gutenburg [Judenburg] im Arr. 									Rappoltsweiler/Ribeauville im Elsass oder Guttenberg n. 									Weißenburg, w. Oberotterbach, Rheinland-Pfalz?; <hi rend="italic">Gudenbor</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet wegen Bedrückung der <hi rend="spaced">Kirche von Lausanne</hi> auf Grund eines Urteils 								des Hofgerichts die Verhängung der <hi rend="spaced">Reichsacht</hi> über den <hi rend="spaced">Grafen</hi> 								<hi rend="spaced">Wilhelm von Genf</hi>, der dreimal rechtmäßig 								vorgeladen, aber nicht erschienen ist, und befiehlt, die Kirche bei 								der Wiedergutmachung der erlittenen Schäden zu unterstützen. <span n="witnesses">Z.: die Bischöfe Hermann von Münster, Albert von 									Vercelli und Milo von Turin, Vogt Bonusiohannes von Vercelli, 									Werner von Bolanden, Rupert von Walldürn und Ulrich von 									Gutenburg (Gutenburg [Judenburg] im Arr. 									Rappoltsweiler/Ribeauville im Elsass oder Guttenberg n. 									Weißenburg, w. Oberotterbach, Rheinland-Pfalz?; <hi rend="italic">Gudenbor</hi>)</span>. –<span n="clerk"> Verkürzte Wiedergabe des Wortlautes von D.933 (Reg. 2964; 									VU.), wohl ebenfalls außerhalb der Kanzlei 									ausgefertigt</span>.<span n="incipit"> 									<hi rend="italic">Imperialem decet maiestatem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem decet maiestatem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. Ms. Droz 48 f. 								155, Stadtbibliothek Besançon (E); Abschrift des 18. Jh. Ms. Hist. 								Helv. II. 32, p. 181 (Haller, Coll. diplomatica 11), 								Burgerbibliothek zu Bern (F); Ruchat, Hist. générale de la Suisse 5, 								Ms. Hist. Helv. IV. 87, ebenda (G). Drucke: MG. Const. 1, 433 									n<hi rend="sup">o</hi> 305; MG.DF.I.934, vgl. Nachträge und 								Berichtigungen, a.a.O., 777. Regg.: Rég. Genevois, 121 n<hi rend="sup">o</hi> 438; Hidber 2, n<hi rend="sup">o</hi> 2548; 								Diestelkamp – Rotter, Urkundenregesten 1, 381 n<hi rend="sup">o</hi> 484; Stumpf 4448.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Reg. 2964, wo es allerdings heißt, dass 								der Graf zunächst bei Hofe erschienen war, sich dann aber heimlich 								entfernt hat. – Zu Stumpf 4449 siehe unten Reg. 3194. – Nach der 								Eintragung des Kaisers im Nekrolog des Reichsstiftes Sant’Evasio zu 								Casale Monferrato hat Friedrich hier auf eigene Kosten ein <hi rend="italic">claustrum</hi> errichten lassen, vgl. dazu Opll, 								Amator ecclesiarum, MIÖG 88 (1980) 77 f. mit Anm. 39, unten Reg. 								3325 sowie die Nachträge in diesem Band zu Reg. 662. – Der unter den 								Zeugen genannte Ulrich von Gutenburg wird mit dem gleichnamigen 								Minnesänger identifiziert, vgl. Regesten deutscher Minnesänger, hg. 								von Meves (2005) 823 ff. (mit Diskussion möglicher Lokalisierungen), 								zum Stück a.a.O., 830 no 5.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_934" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

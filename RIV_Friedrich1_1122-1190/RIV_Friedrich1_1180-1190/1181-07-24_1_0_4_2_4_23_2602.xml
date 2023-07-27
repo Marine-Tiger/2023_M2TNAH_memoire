@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2602</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-07-24_1_0_4_2_4_23_2602"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-07-24_1_0_4_2_4_23_2602"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-07-24_1_0_4_2_4_23_2602</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2602</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-07-24" to="1181-07-24">1181
+									Juli 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Dole (<hi rend="italic">IX</hi><hi rend="sup">o</hi><hi rend="italic"> kal. augusti, apud Templum iuxta Dolam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D. (und zwar das Siegel des Klosters von Cluny; vgl. den 									Wortlaut der Urkunde: <hi rend="italic">et sigilli Cluniacensis 										ecclesie capituli impressione monuimus 									communiri</hi>)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl von einem cluniacensischen 									Schreiber verfasst, der in manchem dem Muster der äußeren 									Gestaltung von Kaiserurkunden folgte</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix schließt – auch im Namen ihrer zukünftigen 								Nachfolger als Grafen von Burgund – mit Rat und Willen Abt Theobalds 								von Cluny, Prior Beralds und des ganzen Kapitels mit dem <hi rend="spaced">Cluniazenserpriorat Romainmôtier</hi> einen 								Assoziationsvertrag (<hi rend="italic">societatem</hi>), zu dem sie 								durch die Brüder von Cluny eingeladen worden ist: Auf dem Berg zu 								Romainmôtier, den sie (die Kaiserin) zu besiedeln und mit Gebäuden 								zu befestigen begonnen hat, werden die aus dem Hofstättenzins und 								den Gerichtsstrafen resultierenden Einkünfte zwischen der Kirche und 								den Grafen von Burgund geteilt. Sie sichert sich auf diesem Berg 								eine Hofstätte für ein dort für den Grafen zu errichtendes Haus, die 								Kirche behält sich für ebendiesen Zweck gleichfalls dort eine 								Hofstätte vor. Der Anspruch auf die Hälfte der Einkünfte schließt 								die <hi rend="italic">villa</hi> Romainmôtier nicht ein. Die Art der 								Abgaben von den einzelnen Häusern wird im Detail festgelegt. Den 								Propst dieser Herrschaft wird der Graf von Burgund mit Zustimmung 								und Rat des Priors einsetzen, und dieser Propst wird beiden bei 								seinem Amtsantritt den Treueid leisten. Die der Kirche vorbehaltenen 								Rechte und Einkünfte werden detailliert festgelegt, allerdings 								sollen diese im Fall der Anwesenheit des Grafen von Burgund nicht 								gelten. Die dem Grafen im Rahmen der Ahndung von Unrecht, das dem 								Grafen selbst oder der Kirche zugefügt wird, geschuldete 								Heerfahrtspflicht der Untertanen dieser Herrschaft reicht bis 								Chillon, zur Genfer Brücke, Avenches (<hi rend="italic">Auenticam</hi>), Pontarlier und <hi rend="italic">Nouum</hi>. 								Wenn der Graf von der Kirche um Hilfe gebeten wird, soll er bei 								seiner Ankunft abends und morgens von der Kirche verpflegt werden, 								falls er aber länger bleibt, muss er sich selbst verpflegen. Der 								Graf wird seinen Anteil weder zu Lehen ausgeben noch sonst an 								jemanden anderen veräußern. Falls er von seinem Anteil Almosen geben 								möchte, darf er dies nur zu Gunsten der Kirche Romainmôtier tun. – 									<span n="clerk"> Wohl von einem cluniacensischen 									Schreiber verfasst, der in manchem dem Muster der äußeren 									Gestaltung von Kaiserurkunden folgte</span>; <span n="seal">SP.D. (und zwar das Siegel des Klosters von Cluny; vgl. den 									Wortlaut der Urkunde: <hi rend="italic">et sigilli Cluniacensis 										ecclesie capituli impressione monuimus 									communiri</hi>)</span>.<span n="incipit"> 									<hi rend="italic">Quoniam in contractibus.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam in contractibus.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Besançon B 419, 								stark beschädigt (A). Kop.: Vidimus des Abtes von Corneux von 								1256, ebenda (B); Abschriften von 1318 im Cartulaire des comtes de 								Bourgogne, erstes Exemplar, ebenda B 1 f. 74’ (C), zweites Exemplar, 								ebenda B 2 f. 92’ (D), sowie im ms. 790 f. 222, Stadtbibliothek 								Dijon (E). Drucke: Cottier, L’abbaye royale de Romainmôtier, 								102; MG.DBeatrix 2. Reg.: Mariotte, Le comté de Bourgogne, 168 									n<hi rend="sup">o</hi> 4.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Beurteilung – es handelt sich 								hier um einen „traité de pariage“ im Sinne des französischen Rechts 								– vgl. die Vorbemerkung zum D., wo die Ansicht von Mariotte, a.a.O., 								168, es hätte eine zweite Ausfertigung gegeben, zurückgewiesen wird. 								– Zum Rechtsinhalt vgl. Endemann, Vogtei und Herrschaft im 								alemannisch-burgundischen Raum, 27 ff. – Gemäß dem Wortlaut dieses 								D. war damals noch nicht entschieden, welcher Sohn des kaiserlichen 								Paares die Grafschaft Burgund übernehmen sollte (vgl. dazu auch oben 								Reg. 2477 sowie unten Regg. 2701 und 2741).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1451746530" value="2016-01-02"></date><p n="author">Ferdinand Opll</p><p>Bei dem Ausstellungsort handelt es sich nicht um Dole selbst, sondern um die älteste Templerniederlassung in Burgund, die als Les-Temple-lez-Doubs bezeichnet wird und sich in Falletans am Doubs, wenige Kilometer östlich von Doubs, befand, siehe dazu: <ref target="http://www.templiers.org/falletans.php" type="external" n="unkown">www.templiers.org/falletans.php</ref> (Zugriff: 2.1.2016).</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

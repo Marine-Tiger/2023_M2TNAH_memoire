@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3151</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_4_0_4_2_4_576_3151"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_4_0_4_2_4_576_3151"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-01_4_0_4_2_4_576_3151</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1453801879" value="2016-01-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3151</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-01" to="1188-04-01">(wohl
+									bald nach 1188 April 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entsendet zur Vorbereitung des 								Kreuzzugsunternehmens Erzbischof (Konrad) von Mainz als Legaten an 								König (Bela III.) von Ungarn, Ritter Gottfried von Wiesenbach mit 								Schreiben (Reg. 3149) und Geschenken an Sultan (Kilidsch Arslan) von 								Ikonium, weitere Legaten an den König von Griechenland (Kaiser Isaak 								Angelos von Byzanz, siehe auch Reg. 3150) und Graf Heinrich von Diez 								(siehe auch unten Reg. 3160) (ebenfalls) an Sultan Saladin.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 59 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 178: ohne Nennung der Namen der 								Legaten); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 139 (Konrad von Mainz) und 141 (Gottfried von Wiesenbach); 								Hist. peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 126 ff. 								(Gottfrieds von Wiesenbach Mission irrig zu Dezember 1188); Niketas 								Choniates lI/3, ed. Bekker, 525 bzw. ed. van Dieten, 401 f. 								(deutsche Übersetzung bei Grabler, Abenteurer auf dem Kaiserthron, 								204); Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 7 (<hi rend="italic">… cómitem Henricum de Déti … ad Saladinum direxit, 									…</hi>); Sicardi ep. Cremon. Cronica, MG. SS XXXI, 168 (<hi rend="italic">… honorabiles nuntios … ad Salatinum direxit, 									…</hi>); vgl. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/b5b15d7f-9873-4c0c-84f8-69c0f6eb6bf6.html" type="internal" n="regesten">204</ref>; zu Kontakten zu den Seldschuken vgl. auch die 								Angaben im Brief des Katholikos (Patriarchen) von Armenien Gregor 								(IV.) (beim Absender könnte es sich auch um Bar Krikour Basil, einen 								Basilios, Sohn des Gregor, oder auch einen anderen Gregor, Enkel des 								Basilios von Rhom-gla handeln) an Sultan Saladin, überliefert in 								Bahā’ al-Dīn, History of Saladin, transl. by D. S. Richards (2002) 								115 (in einer alten deutschen Übersetzung auch bei Wilken, 								Geschichte der Kreuzzüge 4, 3 ff.).</p></div>
+				
+				
+					<div type="commentary"><p>Die Entsendung dieser Legaten dürfte wohl bald 								nach dem Mainzer Hoftag erfolgt sein. Konrad von Mainz ist dann erst 								wieder am 1. September 1188 bei Hofe nachweisbar (Reg. 3188). Es 								wäre freilich auch denkbar, dass Konrad von Mainz erst im Herbst 								1188 nach Ungarn zog, da er sich nach seinem letztbezeugten 								Aufenthalt bei Hofe am 19. September 1188 (Reg. 3192) erst wieder am 								8. Februar 1189 (vgl. Böhmer – Will, a.a.O, no 205) im Reichsgebiet 								nachweisen lässt. Eine weitere Datierungsmöglichkeit bietet ein 								möglicher Zusammenhang mit der Entsendung des Grafen Heinrich von 								Diez an Saladin, siehe dazu unten Reg. 3160. – Vgl. dazu Eickhoff, 								Barbarossa im Orient, 37 f., der (a.a.O., 38 mit Anm. 9a) vermutet, 								dass der Staufer damals auch Verbindung mit dem armenischen Fürsten 								Leon II. aus dem Hause der Roupeniden aufnahm, siehe dazu unten Reg. 								3463. – Zu Saladin vgl. die Hinweise oben bei Reg. 3085.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2996</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_3_0_4_2_4_420_2996"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_3_0_4_2_4_420_2996"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-08_3_0_4_2_4_420_2996</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846485" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2996</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-08" to="1186-06-08">1186
+									Juni 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Zelt des Kaisers bei der Belagerung des Castel Manfredi  (heute: Castellone) (<hi rend="italic">die dominico, octavo mensis iunii, subtus temptorium </hi> <hi rend="italic">eiusdem domini imperatoris, quando erat in obsidione Castri Manfredi</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument, 									geschrieben auf Befehl des Kaisers von dem dabei anwesenden 									Paveser Hofnotar Martinus Filippi (wohl Erstausfertigung), sowie 									Notariatsinstrument, geschrieben auf Befehl des Kaisers von dem 									dabei anw</scribe>
+				
+				
+					<testis function="witnesses">									Gottfried, Kanzler des kaiserlichen Hofes (<hi rend="italic">dei 										gratia imperialis curie cancellarius</hi>), die Pröpste 									Friedrich von St. Thomas in Straßburg und Johannes von (St. 									German in) Speyer, Kämmerer Rudolf und Kastellan Thomas von 									Annone</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Cremoneser 								</hi>Konsuln Otto Curtese und Otto de Comite sowie Albertus Trussus, 								Homobonus von Trezzo, Pontius de Giroldis, Bernardus Picinus, Surdus 								von Valera (<hi rend="italic">Vallariis</hi>; wohl Valera Fratta nel 								Lodigiano), Girardus Faber, Johannes de Conrado, Nicolaus de Moro, 								Petrus von Sospiro und Otto von Casalmorano stellvertretend für die 								Gemeinde Cremona wieder in seine Gnade auf, gewährt ihnen Verzeihung 								für alle erlittenen Angriffe und Schäden, lässt dies auch durch 								seinen Sohn, König Heinrich (VI.), beschwören und durch den Eid 								eines seiner Boten auf die Evangelien zusichern, er werde ihnen das 								Vorgefallene nicht weiter nachtragen. <span n="witnesses">Z.: 									Gottfried, Kanzler des kaiserlichen Hofes (<hi rend="italic">dei 										gratia imperialis curie cancellarius</hi>), die Pröpste 									Friedrich von St. Thomas in Straßburg und Johannes von (St. 									German in) Speyer, Kämmerer Rudolf und Kastellan Thomas von 									Annone</span>. –<span n="clerk"> Notariatsinstrument, 									geschrieben auf Befehl des Kaisers von dem dabei anwesenden 									Paveser Hofnotar Martinus Filippi (wohl Erstausfertigung), sowie 									Notariatsinstrument, geschrieben auf Befehl des Kaisers von dem 									dabei anwesenden Paveser Pfalznotar Osbert (<hi rend="italic">sacri palazii notarius</hi>) (wohl 									Zweitausfertigung)</span>.<span n="incipit"> 									<hi rend="italic">Anno a nativitate.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno a nativitate.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Instrument des Notars Osbert, wohl 								Zweitausfertigung, Staatsarchiv Cremona, Arch. stor. com. perg. n<hi rend="sup">o</hi> 1914 (A<hi rend="sup">1</hi>). Kop.: 								Notarielle Abschrift des 13. Jh. des Original-Instrumentes des 								Notars Martinus Filippi (wohl Erstausfertigung), ebenda n<hi rend="sup">o</hi> 1929 (B). Drucke: MG. Const. 1, 435 n<hi rend="sup">o</hi> 307; Falconi, Carte Cremonesi IV, 25 n<hi rend="sup">o</hi> 638; MG.DF.I.942. Reg.: Astegiano, 								CD.Cremonae 1, 162 n<hi rend="sup">o</hi> 425; Stumpf 4456.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verhältnis der beiden Überlieferungen – das 								Notariatsinstrument von der Hand des Martinus Filippi, der auch D. 								941 (Reg. 2995) schrieb, ist wohl als Erstausfertigung, das im 								Original erhaltene Instrument von der Hand Osberts, der am 6. Juli 								1186 im Auftrage Heinrichs VI. dessen Parallelurkunde (B.-Baaken 								Reg. 11) ausfertigte, diente möglicherweise dazu, König Heinrich zu 								informieren – vgl. die Vorbemerkung zum D. – Zum Inhalt vgl. Reg. 								2995 mit den dort angeführten historiographischen Quellen sowie den 								Hinweisen auf weiterführende Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_942" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2870</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-04-01_1_0_4_2_4_292_2870"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-04-01_1_0_4_2_4_292_2870"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-04-01_1_0_4_2_4_292_2870</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2870</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-04-01" to="1185-04-01">1185
+									April 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Bologna">Bologna</placeName>
+												<location><geo decls="#WGS">44.5, 11.3333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wird gemeinsam mit seinem Sohn Konrad, 								genannt <hi rend="italic">Pochaterra</hi>, von Podestà Prendiparte 								und der gesamten Stadtbevölkerung von Bologna ehrenvoll empfangen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Corpus Chron. Bononiensium, ed. Sorbelli, 								Rer. Ital. SS N.Ed. XVIII/1, 48 f.; der Aufenthalt in Bologna wird 								auch erwähnt in: Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. 								in us. schol., 12, und Alberti Milioli notarii Regini Liber de 								temporibus, MG. SS XXXI, 450.</p></div>
+				
+				
+					<div type="commentary"><p>Eine weitere Version der Bologneser Chroniken 								(Corpus Chron. Bononiensium, ebda.) nennt als Datum dieses 								Kaiserbesuches das Michaelsfest im Mai (= 8. Mai), was aber nach dem 								kaiserlichen Itinerar unmöglich ist, vgl. dazu Opll, Itinerar, 224. 								– Zu dem hier erwähnten Kaisersohn Konrad (später: Herzog von 								Rothenburg und nach dem Tod seines Bruders Friedrich auf dem 								Kreuzzug Herzog von Schwaben), der etwa im Februar/März 1172 geboren 								wurde vgl. Assmann, Kinder, DA 33 (1977) 435 ff., insbesondere 459 								Nr. 7 (siehe auch oben Reg. 1975); Konrads sonst nicht bezeugter 								Beiname <hi rend="italic">Pochaterra</hi> könnte sich darauf 								beziehen, dass der Knabe damals noch über keine eigenen 								Herrschaftstitel verfügte. – Der hier genannte Bologneser Podestà 								wird in Reg. 2852 als Vertreter der Lega Lombarda genannt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

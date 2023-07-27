@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2680</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-12-00_3_0_4_2_4_101_2680"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-12-00_3_0_4_2_4_101_2680"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-12-00_3_0_4_2_4_101_2680</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2680</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-12-01" to="1182-12-31">(1182
+									Anfang Dezember)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Merseburg">Merseburg</placeName>
+												<location><geo decls="#WGS">51.3667, 12</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag</hi>: Vor dem Kaiser 								sowie in Gegenwart der Erzbischöfe Wichmann von Magdeburg und 								Siegfried von Bremen, des Markgrafen Otto von Meißen und dessen 								Bruders Graf Dedo (von Groitzsch), des Markgrafen Otto von 								Brandenburg und dessen Brüdern, Herzog Bernhards (von Sachsen) und 								(Mark-)Graf Dietrichs (der Lausitz), verkauft Graf Adolf von 								Schauenburg sein Erbgut im Dorf Salbke (<hi rend="italic">Salbeke, 									Salebeke</hi>) an das Stift Unserer Lieben Frauen in Magdeburg, 								indem er diese <hi rend="italic">hereditas</hi> durch die Hand des 								Kaisers und Erzbischof Wichmanns in die Hand des Propstes Ulrich der 								Herrschaft (<hi rend="italic">ad iurisdictionem</hi>) der 								Marienkirche übergibt und sowohl dem Kaiser wie dem Erzbischof 								gelobt, gemeinsam mit seiner Mutter diese Übertragung zu bestätigen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in den Urkunden des Grafen Adolf von 								Schauenburg von 1189 (Heinemann, CD. Anhalt. I, 488 n<hi rend="sup">o</hi> 667) und des Erzbischofs Wichmann von Magdeburg von 1189 								(Israël – Möllenberg, UB. Erzstift Magdeburg I, 559 n<hi rend="sup">o</hi> 425); vgl. Krabbo – Winter, Reg. Brandenburg, n<hi rend="sup">o</hi> 449 sowie Stumpf 4350a.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

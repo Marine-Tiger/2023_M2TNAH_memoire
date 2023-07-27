@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. D106</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_1_0_4_2_1_106_D106"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_1_0_4_2_1_106_D106"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-00_1_0_4_2_1_106_D106</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. D106</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-01" to="1152-07-31">1152 (Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Augsburg">Augsburg</placeName>
+												<location><geo decls="#WGS">48.35, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Stadt Augsburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der <span sameAs="recipient"><hi rend="spaced">Stadt Augsburg</hi> </span>  auf Klagen des Bischofs Konrad, der Geistlichen und aller Stadtbewohner über Gewalttätigkeiten der Vögte und über das Fehlen eines festgelegten Rechtes (<hi rend="italic">quod civitas nullo certo iuris ordine vel termino fungeretur</hi>) ein Weistum über die Stadtrechte (<hi rend="italic">eos ex communi consilio, quo iure ex antiqua et legali institutione gubernari deberent, pronunciare precepit</hi>); ohne Hinzufügung von Neuerungen wird in Gegenwart des Vogtes Adelgoz und des Burggrafen Konrad das auf dem Regensburger Hoftag (unter Heinrich IV.) festgelegte Recht verkündet und bekräftigt, in dem es vor allem um die Abgrenzung der Rechte zwischen den Vögten und den Domkanonikern geht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in DF. I. 147 (Reg. 406).</p></div>
+				
+				
+					<div type="commentary"><p>Die Existenz dieses Deperditums ist durch die Worte <hi rend="kursiv">rex id ipsum auctoritate sui privilegii confirmabat. Acta sunt autem hęc anno MCLII<hi rend="sup">o</hi> </hi>. gesichert. Der Ausstellungsort ergibt sich aus der Narratio: <hi rend="italic">Accidit namque, quod predictus imperator, dum antenominatam civitatem quadam vice intraret</hi>... (vgl. Simonsfeld, Jahrbücher 115). - Zu den hier bestätigten, wörtlich aufgenommenen Verfügungen Heinrichs IV. aus dem Jahre 1104 (DH. IV. 484, daneben dienten in geringem Maß auch DD. H. IV. 482 Lemma Anm. I und 483 als Vorlagen, vgl. die Vorbemerkung zu DF. I. 147) vgl. Vock, Urkunden des Hochstiftes Augsburg 6 n<hi rend="sup">o</hi>  16.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04-opl1980-0039" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

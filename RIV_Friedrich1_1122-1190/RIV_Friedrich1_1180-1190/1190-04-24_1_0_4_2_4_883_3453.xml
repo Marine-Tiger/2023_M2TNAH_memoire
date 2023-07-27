@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3453</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-24_1_0_4_2_4_883_3453"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-24_1_0_4_2_4_883_3453"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-24_1_0_4_2_4_883_3453</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3453</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-24" to="1190-04-24">1190
+									April 22–24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">Philadelphia</hi> (jetzt: Alaşehir) – <hi rend="italic">Aëtos</hi> (bei Derbent) –  <hi rend="italic">Minor Tripolis</hi> (heute: Kasch Jemdje bei Yenicekent)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer bricht am 22. April von Philadelphia 								auf, wobei es von byzantinischen Truppen, die allerdings leicht 								zurückgeschlagen werden können, eine Zeit lang verfolgt wird. – Am 								24. April erreicht man über ein mühevoll zu begehendes Gebirge und 								über Aëtos die zerstörte Stadt <hi rend="italic">Minor 								Tripolis</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513; 								Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 74 f. (deutsche Übersetzung von Bühler, Der Kreuzzug 								Friedrich Barbarossas, 129); Hist. peregrinorum, ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 154 f.; Niketas Choniates II/6, ed. Bekker, 539 								bzw. ed. van Dieten, 412 (deutsche Übersetzung bei Grabler, 								Abenteurer auf dem Kaiserthron, 216); Tageno, ed. Struve, Rerum 								Germanicarum Scriptores I (1717) 411; Gesta Fed. I. imp. in 								expeditione sacra, ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 87 (= Ex Iacobi Aquensis Cronica ymaginis mundi: <hi rend="italic">Postea recedimus de Philadelphia, et dat nobis dux 									civitatis Grecos, qui nobis viam ostendant. Et ducunt nos per 									vias gravissimas et nemora et per deserta</hi>); Salimbene de 								Adamo von Parma, Chronica, MG. SS XXXII, 11.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. zu den Itinerarorten Eickhoff, Barbarossa im 								Orient, 97 ff., und Bühler, a.a.O., 164 Anm. 273. – Bei Ansbert 								(vgl. Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 129 sowie 								164 Anm. 271) heißt es im Zusammenhang mit dem Aufenthalt in 								Tripolis Minor, dass manche diesen Ort für <hi rend="italic">Thyatira</hi> hielten, siehe dazu schon oben Reg. 3450.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

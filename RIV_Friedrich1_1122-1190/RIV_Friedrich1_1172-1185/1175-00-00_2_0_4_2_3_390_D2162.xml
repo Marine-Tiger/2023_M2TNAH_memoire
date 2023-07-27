@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. D2162</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-00-00_2_0_4_2_3_390_D2162"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-00-00_2_0_4_2_3_390_D2162"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-00-00_2_0_4_2_3_390_D2162</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426607466" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. D2162</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-01-01" to="1175-12-31">1175</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verbietet den <hi rend="spaced">Pisanern</hi>, nach dem Vorbild der Luccheser Währung Münzen schlagen zu lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt bei Tholomeus von Lucca, Annalen, ed. Schmeidler, MG.SS rer.Germ. N.S. 8, 72 und auch in den Ann. Ianuenses 2, ed. Belgrano — Imperiale, Fonti per la storia d'Italia 12, 9 (vgl. auch Imperiale, CD. di Genova 2, 224 n<hi rend="sup">o</hi>  99). — MG.DF.I. *1166.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Haverkamp, Herrschaftsformen 577. — Es ist nicht eindeutig zu entscheiden, ob dieses Deperditum mit der den Pisanern am 6. November 1175 übergebenen Friedenssentenz (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-11-06_1_0_4_2_3_383_D2155.html" type="internal" n="regesten">2155</ref>) identisch ist; auch das Verhältnis zu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-00-00_2_0_4_2_3_448_2220.html" type="internal" n="regesten">2220</ref>  ist nicht zu klären.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0140" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1166" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

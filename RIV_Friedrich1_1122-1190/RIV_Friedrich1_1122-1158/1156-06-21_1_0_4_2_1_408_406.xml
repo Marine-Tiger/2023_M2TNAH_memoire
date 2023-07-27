@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 406</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-21_1_0_4_2_1_408_406"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-21_1_0_4_2_1_408_406"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-06-21_1_0_4_2_1_408_406</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239116" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 406</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-06-21" to="1156-06-21">1156 Juni 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XI kal. iulii, Nurenberc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Augsburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der DD. H. IV. 484 (VU. II), 482 Lemma Anm. I (VU. I) und 483 (VU. III) geschrieben, teilweise vielleicht auch verfaßt von RC</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der Stadt <span sameAs="recipient"><hi rend="spaced">Augsburg</hi> </span>  auf Klagen des Bischofs Konrad, der Geistlichen und aller Stadtbewohner über Gewalttätigkeiten der Vögte und das Fehlen eines festgelegten Rechtes zunächst das schon im Jahre 1152 anläßlich eines Besuches in der Stadt formulierte und beurkundete Weistum (s. Reg. 106) und sodann im einzelnen 1) die Rechte der Stadt bezüglich des Verfahrens gegen Friedensbrecher, der Bestellung eines Burggrafen, Münzmeisters und Pfarrers aus dem Domkapitel durch den Bischof und des Münzwesens, 2) die Rechte des Bischofs bezüglich der ihm zustehenden Abgaben aus dem Zoll, seinen Höfen und der Gerichtsbarkeit sowie anläßlich seiner Hof-, Heer-, Romfahrt oder der Reise zu seiner Weihe, 3) die städtischen Gerechtsame, vor allem bezüglich des Besitzrechtes, der alleinigen Zuständigkeit des Stadtrechtes für dessen Inhaber und der Rechte der Zinspflichtigen, 4) die Rechte des Vogtes bezüglich der Gerichtsbarkeit und der ihm zustehenden Einkünfte, 5) die Rechte des Vogtes, vor allem die täglich von ihm auszuübende Gerichtsbarkeit, die Kontrolle der Bäcker, Schenkwirte, Fleischer und Wursterzeuger und deren Verpflichtungen gegen den Burggrafen sowie dessen Pflichten gegenüber dem Bischof, 6) die Zuständigkeit des Bischofs für die Absetzung des Vogtes oder Burggrafen, wenn sich diese gegenüber einer allgemeinen Klage nicht in Rechtsfrist rechtfertigen und 7) die Gültigkeit des Stadtrechts für einen außerhalb der Stadt begangenen Raub an einem Augsburger Bürger, wenn der Räuber in der Stadt dinghaft gemacht werden kann. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Heranziehung der DD. H. IV. 484 (VU. II), 482 Lemma Anm. I (VU. I) und 483 (VU. III) geschrieben, teilweise vielleicht auch verfaßt von RC</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 327 n<hi rend="sup">o</hi>  492; Meyer, Stadtbuch von Augsburg 309 Beilage; MG. DF. I. 147. Reg.: Schröder, Bistum Augsburg 9, 146 n<hi rend="sup">o</hi>  48; Nürnberger UB. 44 n<hi rend="sup">o</hi>  66; Vock, Urkunden des Hochstiftes Augsburg 13 n<hi rend="sup">o</hi>  30; Stumpf 3747.</p></div>
+				
+				
+					<div type="commentary"><p>Die Ausfertigung des D. dürfte, wie Indiktion, Herrscherjahre und auch die Formulierung des Eschatokolls annehmen lassen, erst im nächsten Jahr erfolgt sein, vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 338. - Das aufgedrückte Siegel ist abgefallen und fast bis zur Unkenntlichkeit zerbrochen (vgl. DF. I. 147 Anm. k). - Zum Inhalt vgl. das ausführliche Regest bei Vock a. a. O. und auch Schlesinger, Bischofssitze, Pfalzen und Städte (FS. E. Maschke. Veröff. d. Komm. f. gesch. Landeskde. in Bad.-Württ. B, 85, 1975) 21 f.; zu den Standesverhältnissen in Augsburg um diese Zeit vgl. Bosl, Entwicklung des Augsburger Bürgertums, SB. München 1969 Heft 3, 14 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Empfänger des DF. I. 147 war Bischof Konrad von Augsburg, wie die Überlieferung im Bayerischen Hauptstaatsarchiv München (und nicht im Augsburger Stadtarchiv) zeigt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0134" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210231%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_147" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

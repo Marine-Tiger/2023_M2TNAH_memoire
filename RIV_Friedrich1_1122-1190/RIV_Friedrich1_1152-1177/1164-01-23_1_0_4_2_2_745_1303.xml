@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1303</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-01-23_1_0_4_2_2_745_1303"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-01-23_1_0_4_2_2_745_1303"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-01-23_1_0_4_2_2_745_1303</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245977" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1303</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-01-23" to="1164-01-23">1164 Januar 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Castrocaro</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X<hi rend="sup">o</hi>  kal. februarii, in Castro Caro)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Camaldoli</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von Christian E, wobei RG am Diktat mitgewirkt haben dürfte</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Eremiten von <span sameAs="recipient"><hi rend="spaced">Camaldoli</hi> </span>  mit ihren Eigenleuten und Besitzungen in seinen Schutz und befiehlt dem Bischof (Hieronymus) von Arezzo sowie allen kaiserlichen Legaten und Getreuen in Reichsitalien, sie nicht zu bedrücken und ihnen dasjenige zurückzuerstatten, was ihnen zu Unrecht entzogen worden ist. - <span n="clerk">Verfaßt und geschrieben von Christian E, wobei RG am Diktat mitgewirkt haben dürfte</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Quamvis omnibus, qui imperatorie</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamvis omnibus, qui imperatorie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Florenz (A). Druck: MG. DF. I. 426. Reg.: Schiaparelli - Baldasseroni, Reg. di Camaldoli 2, 228 n<hi rend="sup">o</hi>  1153; Stumpf 4004.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. ist das erste erhaltene Original von der Hand des Christian E.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0200" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_426" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

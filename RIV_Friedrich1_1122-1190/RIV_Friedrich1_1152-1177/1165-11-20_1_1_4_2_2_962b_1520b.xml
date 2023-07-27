@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1520b</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-11-20_1_1_4_2_2_962b_1520b"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-11-20_1_1_4_2_2_962b_1520b"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-11-20_1_1_4_2_2_962b_1520b</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358505850" value="2013-01-18"></date>
+				<date type="lastmod" n="1358505996" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1520b</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-11-01" to="1165-11-20">(vor 1165 November 20)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt (im Zusammenhang mit der der durch ihn veranlaßten Umwandlung der Pfarrkirche Waldsee in ein Augustiner-Chorherrenstift) mit Rat und Zustimmung Bischof Hermanns von Konstanz fest, daß der Propst des Augustiner-Chorherrenstiftes Waldsee und dessen Untertanen keinem Archidiakon oder Dekan, sondern nur ihren Bischöfen (von Konstanz) unterstehen sollen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in MG.DF.I.808 von 1181 Mai 12, Ulm, mit dem der Kaiser die Umwandlung der Pfarrkirche in Waldsee in ein Augustiner-Chorherrenstift beurkundete.</p></div>
+				
+				
+					<div type="commentary"><p>Wiewohl nicht ausdrücklich erwähnt ist, daß der Kaiser diese Regelung getroffen hat &amp;#x2012; es heißt in der Kaiserurkunde: <hi rend="kursiv">Factum est etiam consilio et consensu Hermanni Constanciensis episcopi, quod</hi> ... &amp;#x2012; läßt sich dies nach der ausdrücklichen Erwähnung der Gründung des Stiftes durch den Kaiser doch sehr wohl annehmen. &amp;#x2012; Die zeitliche Einreihung dieser Nachricht richtete sich nach dem Tod Bischof Hermanns (I.) von Konstanz am 20. November 1165 (nicht am 1. September 1165), vgl. dazu Weiss, Konstanzer Bischöfe, 97 f., sowie insbesondere Hruza, Herren von Wallsee, 71 f. mit Anm. 15.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1358506295" value="2013-01-18"></date><p n="author">Redaktion</p><p>Bitte beachten Sie bei diesem Regest die vom Druck (hier fälschlich n. 1520a zweifach vergeben!) abweichende Zählung der Regestennummer 1520b!</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

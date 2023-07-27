@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2694</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_2_0_4_2_4_115_2694"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_2_0_4_2_4_115_2694"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-04-30_2_0_4_2_4_115_2694</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843706" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2694</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-04-30" to="1183-04-30">(1183
+									März – April 30)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Piacenza)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Überarbeitung einer Stellungnahme des Kaisers durch die Rektoren 									des Lombardenbundes (vgl. die Überschrift in B: <hi rend="italic">qualiter peticio domini imperatoris fuit facta 										a rectoribus Lonbardie</hi>), d. h. eine Stufe in den 									Vorverhan</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Vorentwurf eines Friedensvertrages zwischen 								Friedrich und dem <hi rend="spaced">Lombardenbund</hi>, wobei über 								die Frage der Regalien Folgendes festgelegt wird: (1) Den Städten 								und den Personen des Bundes werden die Regalien und die 								Gewohnheitsrechte innerhalb und außerhalb der Stadt in der Form 								zuerkannt, wie sie sie in der Burg Verona und in Brescia innehaben. 								Jede Stadt soll diese Rechte in ihrem Bistum, ihrer Grafschaft bzw. 								ihrem Distrikt besitzen, außer das Gewohnheitsrecht oder der Inhalt 								des Vertrags würden dem widersprechen. Allerdings darf aus dieser 								kaiserlichen Verleihung dem Recht oder der Gewohnheit einer anderen 								Stadt kein Präjudiz erwachsen, und niemand soll Rechte an dem, was 								umstritten ist, beanspruchen. – (2) Im Hinblick auf die übrigen 								Regalien wird festgelegt, dass sie durch wohl beleumundete, aus der 								Stadt und dem Bistum zu wählende Männer, die weder gegen die Stadt 								noch gegen den Kaiser Hass hegen, untersucht werden sollen. Das, was 								dem Kaiser gehört, soll festgelegt werden; was sie einmütig 								festlegen, soll dem Kaiser gehören. – (3) Für diese Regalien wird 								ein jährlicher Zins von 2.000 Mark gefordert, doch kann über die 								Höhe dieser Summe noch verhandelt werden. – (4) Weder der Kaiser 								noch sein Bote werden Klagen über das, was den Lombarden oben 								zugestanden oder versprochen worden ist, zulassen. – (5) Das, was 								der Kaiser oder seine Vorgänger Bischöfen oder anderen geistlichen 								oder weltlichen Personen vor dem Krieg zugestanden haben, wird vom 								Kaiser nicht beeinsprucht werden. Die vorhin den Städten gemachten 								Zugeständnisse und Versprechungen sollen dabei ausgenommen sein, und 								dafür sollen die üblichen Dienste geleistet werden. Für Sentenzen, 								Transaktionen, Refutationen und Privilegien zum Schaden einer 								Kirche, einer Stadt oder einer Person des Bundes oder für kassierte 								Entscheidungen soll dagegen kein Zins bezahlt werden. – (6) Der 								Kaiser erklärt die zur Herstellung des Friedens gewährten 								Verleihungen von <hi rend="italic">regalia et commoditates</hi> an 								Städte oder Personen des Bundes für frei von der Leistung eines 								Zinses. – (7) Alle Privilegien, Maßnahmen und Verleihungen, die aus 								Anlass des Krieges oder wegen des Schismas (<hi rend="italic">occasione guerre vel discordie ecclesie</hi>) zum Nachteil oder 								zum Schaden von Mitgliedern des Bundes durch den Kaiser oder seine 								Boten ergangen sind, werden kassiert und für ungültig erklärt. – (8) 								In den Städten, in denen der Papst über den <hi rend="italic">comitatus</hi> verfügt, sind die Bürger nicht dazu 								verpflichtet, das Konsulat vom Kaiser zu empfangen; in Städten, in 								denen der Bischof kraft kaiserlichen Privilegs über den <hi rend="italic">comitatus</hi> verfügt, können die Konsuln, falls 								dies üblich ist und sie es wollen, das Konsulat weiterhin vom 								Bischof empfangen; ansonsten sollen sie das Konsulat vom Kaiser oder 								dessen Boten kostenfrei in der Lombardei empfangen oder darum 								nachsuchen, wobei es ausreicht, dass die Investitur einem Konsul 								stellvertretend für die Übrigen erteilt wird. Dieser Konsul oder 								dessen Nachfolger ist dann zu Lebzeiten des Kaisers nicht 								verpflichtet, abermals um die Investitur einzukommen. – (9) Wenn der 								Kaiser gestorben sein oder das Königreich seinem Sohn übertragen 								haben wird, sollen die Konsuln in gleicher Weise die Investitur in 								der Lombardei empfangen oder darum nachsuchen. – (10) Bei 								Appellationen, bei denen ein Betrag von 100 Pfund Imperialen 								überstiegen wird, soll die Appellation an den Kaiser freistehen; man 								soll jedoch nicht nach Deutschland zu ziehen gezwungen sein, sondern 								der Kaiser soll dafür einen mit Rat der Konsuln der Stadt gewählten 								Boten in der Stadt oder im Bistum einsetzen. – (11) Die in den 								Städten eingesetzten Konsuln sollen dem Kaiser ebenso wie die Bürger 								den Treueid leisten, und zwar bevor sie das Konsulat empfangen. – 								(12) Die Vasallen des Kaisers sollen von ihm die Investitur 								empfangen und ihm den Lehnseid wie Vasallen leisten, die Bürger 								sollen dies nach dem vor der Herrschaft Friedrichs üblichen 								Gewohnheitsrecht tun. – (13) Die geistlichen und weltlichen 								Vasallen, die zur Zeit des Krieges oder des Waffenstillstands (Reg. 								2288) die Investitur nicht empfangen, dem Kaiser die schuldigen 								Dienste nicht geleistet oder ihn aus Gründen der Zugehörigkeit zum 								Bund angegriffen haben, sollen deshalb ihr Lehen nicht verloren 								haben oder dafür zur Rechenschaft gezogen werden. – (14) Die 								Pachtverträge und Prekarien bleiben gemäß dem Gewohnheitsrecht jeder 								Stadt in Kraft, und das Gesetz Kaiser Friedrichs soll dem nicht 								entgegenstehen, außer in der Stadt, die es freiwillig beachten will. 								– (15) Der Kaiser wird den Mitgliedern des Bundes und dessen 								Verbündeten alles ihm zugefügte Unrecht nachsehen und ihnen seine 								ganze Gnade gewähren. – (16) Der Kaiser wird keinen überflüssigen 								Aufenthalt in der Stadt oder im Bistum zum Schaden der Stadt nehmen. 								– (17) Der Kaiser erlaubt den Städten, sich zu befestigen und 								Befestigungen im Umland anzulegen, und er wird niemandem, der nicht 								dem Bund angehört, erlauben, in der Grafschaft, dem Bistum oder dem 								Distrikt einer Bundesstadt eine Burg, eine Stadt oder irgendeine 								Befestigung ohne Rat und Willen der betreffenden Stadt anzulegen. – 								(18) Die Aufrechterhaltung des bestehenden Bundes und dessen 								Erneuerung wird erlaubt. – (19) Aus Furcht vor dem Kaiser oder durch 								Druck von dessen Boten erpresste Abmachungen, wie etwa die der 								Piacentiner (vgl. die in der Überlieferung C interlinear von 								gleicher Hand eingefügte Ergänzung, DF.I.843 Anm. i’’’: nämlich der 								Vertrag über die Pobrücke sowie den Zoll für diese Brücke und die 								Regalien [= Regg. 424, 1129, 1130, 1282 und 1520], der Vertrag 								Bischof Ugos [von Piacenza] über Castell’Arquato wie auch allfällige 								andere Abmachungen des Bischofs, der Kommune oder einer anderen 								Person mit dem Kaiser und dessen Boten sowie die Tat des Markgrafen 								O[pizo Malaspina] und jeglicher Angriff … auf die Pavesen und 								Tortonesen), die des Bischofs von Padua, der Veronesen, der 								Vicentiner und ähnliche, werden für ungültig erklärt. – (20) 								Sentenzen, die nach den Gesetzen gegen Mitglieder des Bundes 								ergangen sind, sollen ihre Gültigkeit behalten, solche, die aus 								Anlass des Krieges oder des Schismas gefällt worden sind, dagegen 								nicht. – (21) Besitzungen von Mitgliedern des Bundes, die diese seit 								Anfang der Herrschaft Friedrichs innehaben, sollen, falls sie ihnen 								von Bundesfremden entzogen worden sind, zurückgestellt werden, bzw. 								sie sollen sie im Falle der Rückerwerbung in Ruhe innehaben, außer 								sie würden durch zur Überprüfung der Regalien gewählte 								Schiedsrichter dem Kaiser zugesprochen, all dies jedoch unter 								Vorbehalt der oben erwähnten Zugeständnisse und Versprechungen. – 								(22) Alessandria soll Stadt bleiben, den Stadtrang erhalten und 								aller Privilegien der Bundesstädte teilhaftig sein. – (23) Den 								Mailändern wird die in den Grafschaften Seprio, Martesana (vgl. Reg. 								1636), Bulgaria und in anderen Grafschaften ausgeübte Jurisdiktion 								ohne Widerspruch von Seiten des Kaisers und seiner Nachfolger 								zuerkannt, allerdings unter Vorbehalt der auch weiterhin gültigen 								Abmachungen der Mailänder mit den Städten Bergamo, Novara und Lodi. 								– (24) Dem Markgrafen Opizo (Malaspina) wird jeglicher Angriff auf 								den Kaiser, den er gemeinsam mit dem Bund unternommen hat, 								verziehen. Er wird in die kaiserliche Gnade wieder aufgenommen, und 								alle seine Besitzungen im Bistum Tortona werden ihm zurückgestellt. 								– (25) Dem von den Mitgliedern des Bundes dem Kaiser zu leistenden 								Treueid ist die Verpflichtung anzufügen, den Kaiser bei der 								Bewahrung und Wiedergewinnung seiner Besitzungen und Rechte in der 								Lombardei und außerhalb des Bundes zu unterstützen, und zwar in der 								Form, dass ihm im Falle der Weigerung der (diesen Besitzungen) 								benachbarten Städte andere helfen. Die Bundesstädte außerhalb der 								Lombardei müssen dies in ihrem Bereich ebenso tun. – (26) Wenn eine 								Stadt die hier niedergelegten und vom Kaiser festgelegten 								Friedensabmachungen nicht befolgen sollte, muss sie dazu von den 								übrigen Städten <hi rend="italic">bona fide</hi> gezwungen werden. – 								(27) Wenn der Kaiser zum Empfang der Krone die Lombardei betritt, 								ist ihm das gewohnte Fodrum und das <hi rend="italic">regale</hi> zu 								leisten, ebenso sind die Wege und Brücken für den Hin- und Rückzug 								wiederherzustellen, und es ist ihm und den Seinen auf dem Hin- und 								Rückzug <hi rend="italic">bona fide et sine omni fraude</hi> der 								Markt bereitzustellen. – (28) Den aus ihren Besitzungen vertriebenen 								Anhängern des Kaisers sind diese <hi rend="italic">sine fructibus et 									dampno dato</hi> zurückzustellen, jedoch unter Vorbehalt der 								früher angeführten Konzessionen und Versprechungen sowie der 								Übereinkunft zwischen den Pavesen und den Eltern des Egidius <hi rend="italic">de Prando</hi> (aus Pavia) wegen dessen Todes; 								auszunehmen von diesen Rückstellungen sind des Weiteren Fälle, in 								denen der Besitzer über ein kaiserliches oder königliches Privileg 								oder ein anderes Recht verfügt und die Stadt durch Eid verpflichtet 								ist, den Besitz nicht zu restituieren. In diesem Fall möge ein 								Schiedsgericht über die Restitution befinden. Die zwischen den 								Städten geschlossenen Abmachungen, vor allem die vor Beginn der 								Regierung des Kaisers eingegangenen Pakte, sollen ihre Rechtskraft 								behalten, darunter namentlich die zwischen Bologna, Faenza und 								Imola. – (29) Wenn zwischen dem Kaiser und einem Mitglied des Bundes 								Streit um ein Lehen ausbricht, so soll dieser durch Standesgenossen 								dieser Stadt oder dieses Bistums, wo der Streitfall ausgetragen 								wird, gemäß dem Gewohnheitsrecht der Lombardei, in diesem Bistum 								oder in dieser Stadt entschieden werden. –<span n="clerk"> 									Überarbeitung einer Stellungnahme des Kaisers durch die Rektoren 									des Lombardenbundes (vgl. die Überschrift in B: <hi rend="italic">qualiter peticio domini imperatoris fuit facta 										a rectoribus Lonbardie</hi>), d. h. eine Stufe in den 									Vorverhandlungen für den Abschluss des Konstanzer Friedens (Reg. 									2716)</span>.<span n="incipit"> 									<hi rend="italic">In Christi nomine. Super questione 										regalium.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In Christi nomine. Super questione 										regalium.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im 								Registrum privilegiorum civitatis Mutinensis f. 17’, Stadtarchiv 								Modena (B); gleichzeitige Einzelabschrift, mehrfach beschädigt, im 								Archiv von S. Antonino zu Piacenza (C). Faks. (von B): Milano e la 								Lombardia in età comunale, secoli XI–XIII (Catalogo della Mostra, 								Milano 15 aprile – 11 luglio 1993) 377 n<hi rend="sup">o</hi> 								202. Drucke: MG. Const. 1, 396 n<hi rend="sup">o</hi> 288; 								Manaresi, Atti del Comune di Milano 1, 182 n<hi rend="sup">o</hi> 								133; Simeoni – Vicini, Registrum privilegiorum Comunis Mutinae 1, 84 									n<hi rend="sup">o</hi> 52; Falconi, La documentazione, in: 								Studi sulla pace di Costanza (Deputazione di storia patria per le 								provincie Parmensi. Sezione di Piacenza, 1984) 49 n<hi rend="sup">o</hi> 2; MG.DF.I.843.</p></div>
+				
+				
+					<div type="commentary"><p>In diesem Schriftstück haben zunächst die kurz 								zuvor von Friedrich für Verhandlungen ermächtigten Unterhändler 								(Regg. 2692 und 2693) in Ausführung einer kaiserlichen 								Willenserklärung (D.842 = Reg. 2692: <hi rend="italic">verbum 									tractande pacis et concordie … sinceritati vestre proponendum et 									consumandum committimus</hi>) den Standpunkt des Herrschers 								erläutert, wobei dann auch Bestimmungen aufgenommen wurden, die 								eindeutig von Seiten des Lombardenbundes formuliert worden sind 								(etwa Punkt 22 über Alessandria, der sich eigentlich durch D.841 = 								Reg. 2690 bereits erübrigt hatte); vgl. dazu die Vorbemerkung zum 								D., sowie Riedmann, Verträge, 111. – Die Formulierung von Punkt 22, 								bei der es um Alessandria geht, dürfte darauf hinweisen, dass man 								zum Zeitpunkt der Erstellung dieses Vorentwurfs noch nichts von dem 								am 14. März 1183 in Nürnberg ausgestellten DF.I.841 (Reg. 2690) – 								der Regelung, mittels der Alessandria unter dem Namen <hi rend="italic">Caesarea</hi> als kaiserliche Stadt neu gegründet 								worden war – wusste.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_843" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1342</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-16_1_0_4_2_2_784_1342"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-16_1_0_4_2_2_784_1342"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-04-16_1_0_4_2_2_784_1342</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246236" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1342</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-04-16" to="1164-04-16">1164 April 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI<hi rend="sup">o</hi>  kal. maii, apud sanctum Salvatorem iuxta Papiam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Raimund</hi>  <hi rend="spaced">Arles</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter geringfügiger Benützung des DF. I. 64 (Reg. 186; VU.) verfaßt und geschrieben von CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Raimund</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Arles</hi> </span>  und dessen Nachfolgern, deren Kirche als <hi rend="italic">caput Prouincie et principalis sedes imperii</hi>  bezeichnet wird, die Regalien in seiner Diözese, die gesamte Gerichtsbarkeit in der Stadt Arles mit dem Recht der Ernennung von Konsuln und allen sonstigen Hoheitsrechten (<hi rend="italic">sicut sunt tholonea, pedatica, iustitias, Iudeos, cordam, quintale, farnariam, monetam, portus, montationes et redditus navium, stagna, lacus, paludes, flumina, pascua de lapidoso agro</hi>), die Hälfte der Einkünfte aus all diesen Gerechtsamen, die namentlich angeführten Besitzungen und die Reichsunmittelbarkeit, verpflichtet ihn jedoch zum Dienst am Reich und behält sich die kaiserlichen Gerechtsame vor. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi> </span>; <span n="clerk">unter geringfügiger Benützung des DF. I. 64 (Reg. 186; VU.) verfaßt und geschrieben von CE</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Ad imperialis eminentie</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad imperialis eminentie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Livre d'or f. 72, Departementalarchiv Marseille (A). Drucke: Stumpf, Acta ined. 517 n<hi rend="sup">o</hi>  362; Gallia christ. noviss. 3, 236 n<hi rend="sup">o</hi>  604; MG. DF. I. 436. Reg.: Chevalier, Rég. dauphinois 1, 700 n<hi rend="sup">o</hi>  4179; Stumpf 4012b.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Diktat und zum Verhältnis zu dem gefälschten DK. III. 290, das erst nach dem vorliegenden D. entstanden sein dürfte, vgl. die Vorbemerkung zum D.; zum Inhalt vgl. auch Opll, Stadt und Reich 495 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0209" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_436" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

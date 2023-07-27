@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1259</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-06_3_0_4_2_2_701_1259"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-06_3_0_4_2_2_701_1259"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-06_3_0_4_2_2_701_1259</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245507" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1259</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-06" to="1163-11-06">1163 November 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus novembris, Laude)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Wachssiegel nach B.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Borgo San Sepolcro</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus sancte Coloniensis ecclesie electus Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der gleichfalls von ihm stammenden Legatenurkunde Rainalds von Dassel von 1163 September 6 (Reg. 1233) verfaßt und geschrieben von RH</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt Abt Francianus von <span sameAs="recipient"><hi rend="spaced">Borgo San Sepolcro</hi> </span>  gemäß den Verfügungen, die der Reichslegat Rainald, Elekt von Köln, während seiner Legation in der Toskana getroffen hat (Reg. 1233), in seinen Schutz, unterstellt die Abtei und die gleichnamige Ortschaft der unmittelbaren Herrschaft des Reiches, verleiht dem Abt unter Vorbehalt der kaiserlichen Gerechtsame verschiedene Herrschafts- und Gerichtsrechte hinsichtlich des Ortes Borgo San Sepolcro, die den Camaldulensern zur Gänze aberkannt werden, und verpflichtet im besonderen die Konsuln von Arezzo und Città di Castello sowie die Gemeinde Anghiari zur Unterstützung der Abtei und ihres Ortes. - <span n="chancellor"><hi rend="italic">Rainaldus sancte Coloniensis ecclesie electus Italie archicanc.</hi> </span>; <span n="clerk">unter Heranziehung der gleichfalls von ihm stammenden Legatenurkunde Rainalds von Dassel von 1163 September 6 (Reg. 1233) verfaßt und geschrieben von RH</span>; <span n="seal">Wachssiegel nach B.</span> <span n="incipit"><hi rend="italic">Neglecta diu predecessorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Neglecta diu predecessorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1246, Bischöfliches Archiv Borgo San Sepolcro (B); Abschrift aus B in einem Pergamentheft von 1542 f. 23', ebenda (B<hi rend="sup">1</hi>); Abschrift des 15. Jh. im Cod. Plut. LXVI n<hi rend="sup">o</hi>  25 (Libellus supplex ad Nicolaum V a. 1454 dec. 3) f. 8, Biblioteca Laurenziana zu Florenz (C). Drucke: Prutz, Friedrich I. 1, 448 n<hi rend="sup">o</hi>  18; MG. DF. I. 409. Reg.: Stumpf 3989.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. von der Nahmer, Reichsverwaltung in Toscana, 172.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0190" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_409" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

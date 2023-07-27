@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. D1901</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_3_0_4_2_3_126_D1901"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_3_0_4_2_3_126_D1901"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-00-00_3_0_4_2_3_126_D1901</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426607005" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. D1901</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-01-01" to="1170-12-31">1170 Herbst</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(vielleicht auf dem Hoftag zu Besançon)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Stephan (von Burgund), Elekt Eberhard von Besançon, Bischof Walcher von Langres, Odo von der Champagne, Graf Amadeus von Mömpelgard (Montbéliard) und Theobald von Rougemont</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit dem <hi rend="spaced">Grafen Gerhard von Mâcon-Vienne</hi>  (<hi rend="italic">Viennensem</hi>) unter Zustimmung von dessen Gemahlin und dessen mündigen Söhnen Wilhelm, Walcher, Reinald und Stephan einen Vertrag (<hi rend="italic">concordiam</hi>). <span n="witnesses">Z.: Graf Stephan (von Burgund), Elekt Eberhard von Besançon, Bischof Walcher von Langres, Odo von der Champagne, Graf Amadeus von Mömpelgard (Montbéliard) und Theobald von Rougemont</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; bekannt aus einer Notiz von Chifflet, Col. Baluze 143 f. 127, Nationalbibliothek Paris. — Druck: Mariotte, Le comté de Bourgogne, 76 (vgl. a.a.O. 162 n<hi rend="sup">o</hi>  24); MG.DF.I.*1153.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Hoftag in Besançon vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1170-00-00_2_0_4_2_3_125_1900.html" type="internal" n="regesten">1900</ref>; zum politischen Umfeld vgl. Fried, Krönung in Arles, Hist.Jb. 103 (1983) 359 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0054" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1153" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

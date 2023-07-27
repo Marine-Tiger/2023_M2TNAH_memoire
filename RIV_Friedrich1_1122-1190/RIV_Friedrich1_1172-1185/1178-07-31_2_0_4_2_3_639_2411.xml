@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2411</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-31_2_0_4_2_3_639_2411"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-31_2_0_4_2_3_639_2411"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-31_2_0_4_2_3_639_2411</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430900312" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2411</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-31" to="1178-07-31">1178 Juli 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Arles</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(pridie kal. augusti mensis, apud Arelatem)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt von Burkhard, geschrieben von einem Romanen, wahrscheinlich einem Gerichtsschreiber</scribe>
+				
+				
+					<testis function="witnesses">Bischof Hugo von Verden, Rudolf, Notar des Hofes, Burggraf Burchard von Magdeburg, Rupert von Walldürn, Wolfram (<hi rend="italic">Golfrainus</hi>) von Bebenburg, Mundschenk Konrad (Colbo von Oberschüpf) und Kämmerer Rudolf (von Siebeneich)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet, daß <hi rend="spaced">Bertrand von Baux</hi>  in einem zu Arles abgehaltenen Gericht durch Zeugen, nämlich Erzbischof Raimund von Arles, Prior Bernard von Trinquetaille, Kapellan Richard von ebendieser Burg (Trinquetaille), Guaufredus Chaucenne, Rainaldus Autardi, Petrus Bertandi, Arnaldus sancti Cesarii und Bernardus de Sazo, nachgewiesen habe, daß die von seinem Bruder Hugo testamentarisch getroffene Verfügung, sein Erbe solle für den Fall des nachkommenlosen Todes seines Sohnes Raimund an ihn (= Bertrand von Baux) fallen, zu Recht bestehe; auch der genannte Raimund habe sich, was durch weitere Zeugen erwiesen wird, eidlich zur Einhaltung dieser Abmachung verpflichtet, die so zu handhaben sei, daß Bertrand von Baux kein Schaden erwachsen dürfe. <span n="witnesses">Z.: Bischof Hugo von Verden, Rudolf, Notar des Hofes, Burggraf Burchard von Magdeburg, Rupert von Walldürn, Wolfram (<hi rend="italic">Golfrainus</hi>) von Bebenburg, Mundschenk Konrad (Colbo von Oberschüpf) und Kämmerer Rudolf (von Siebeneich)</span>. — <span n="clerk">Verfaßt von Burkhard, geschrieben von einem Romanen, wahrscheinlich einem Gerichtsschreiber</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Ea, que occasione</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ea, que occasione</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Allgemeines Reichsarchiv zu Den Haag (A). Drucke: Stumpf, Acta ined. 731 n<hi rend="sup">o</hi>  525; De Font-Réaulx, Le Trésor des chartes des Baux, Provence historique 4, 148 n<hi rend="sup">o</hi>  3; MG.DF.I.745. Regg.: Barthélémy, Inventaire des chartes de la maison de Baux 19 n<hi rend="sup">o</hi>  72; Stumpf 4258a.</p></div>
+				
+				
+					<div type="commentary"><p>Zum dem hier bestätigten Vertrag Bertrands mit seinem Neffen Raimund vgl. Barthélémy, a.a.O., 17 n<hi rend="sup">o</hi>  66.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0226" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_745" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

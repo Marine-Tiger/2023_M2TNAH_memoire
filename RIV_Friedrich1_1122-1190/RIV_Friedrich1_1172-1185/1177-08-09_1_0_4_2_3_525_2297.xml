@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2297</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-09_1_0_4_2_3_525_2297"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-09_1_0_4_2_3_525_2297"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-09_1_0_4_2_3_525_2297</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306525" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2297</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-09" to="1177-08-09">1177 August 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Rialto zu Venedig</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(V idus augusti, Venetię in Rivo Alto)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt; A<hi rend="sup">1</hi>  ist in zeitgemäßer Buchschrift wohl von einem gerade verfügbaren Italiener auf südlichem Pergament geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt den <hi rend="spaced">Prälaten und Ministerialen der Salzburger Kirche und ihrem Klerus und Volk in Kärnten und der (karantanischen) Mark (bzw. dem Domkapitel, den Prälaten, den Ministerialen, dem Klerus und dem Volk der Salzburger Kirche</hi>  = so in A<hi rend="sup">1</hi>) mit, daß nach der Wiederherstellung des Friedens zwischen Reich und Kirche im Einvernehmen mit dem Papst, den Kardinälen und den Reichsfürsten die beiden miteinander im Erzbistum Konkurrierenden (die Erzbischöfe Adalbert und Heinrich) nach langen Beratungen und schließlich mit Zustimmung von Seiten dieser beiden abgesetzt worden sind, darauf trotz der Einwände der anwesenden Salzburger Prälaten, die erst das Kommen der in der Heimat verbliebenen Wahlberechtigten abwarten wollten, auf Befehl des Papstes sein (des Kaisers) Verwandter, Pfalzgraf Konrad (von Wittelsbach), aus dem Kreis der Kirche zum Erzbischof gewählt und von ihm mit den Regalien investiert worden ist, daß die Belehnungen mit oder Veräußerungen von kirchlichen Gütern, die er (= der Kaiser) oder andere durchgeführt haben, nach Fürstenspruch ungültig sind und er ihnen sein Wohlwollen trotz vielfacher Beleidigungen wieder zuwendet, und er befiehlt ihnen, dem neuen Erzbischof zu gehorchen. — <span n="clerk">Außerhalb der Kanzlei verfaßt; A<hi rend="sup">1</hi>  ist in zeitgemäßer Buchschrift wohl von einem gerade verfügbaren Italiener auf südlichem Pergament geschrieben</span>; <span n="seal">SP.</span>  <span n="incipit"><hi rend="italic">Cum deo pacis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum deo pacis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Kop. (für den Klerus, das Volk und die Ministerialen der Salzburger Kirche in Kärnten und Steiermark bestimmte Ausfertigung): Chronicon Magni presbiteri Reicherspergensis, Abschrift des 12. Jh. in dem verschollenen, nur aus der Edition Gewolds (1611) bekannten Reichersberger Codex (g); Abschrift des 12. — 13. Jh. im Cod. 894 f. 80', Steiermärkisches Landesarchiv Graz (M<hi rend="sup">3</hi>); Abschrift des 14. Jh. im Cod. 296 f. 28', Stiftsbibliothek Vorau (M<hi rend="sup">4</hi>). — Orig. (für das Salzburger Domkapitel bestimmte Zweitausfertigung): Hauptstaatsarchiv München, Salzburger Urkunden 9 (A<hi rend="sup">1</hi>). Drucke: MG.SS XVII, 505; MG.Const.1, 368 n<hi rend="sup">o</hi>  267; MG.DF.I.693. Faks.: Kaiserurk. in Abb. X, 13a. Regg.: Acht, Mainzer UB.2/2, 653 n<hi rend="sup">o</hi>  399; Diestelkamp — Rotter, Urkundenregesten 1, 337 n<hi rend="sup">o</hi>  433; Stumpf 4209.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und dem inhaltlich parallelen Schreiben Alexanders III. (Jaffé-L. 12.912 sowie Acht, Mainzer UB. II/2, 652 n<hi rend="sup">o</hi>  398) vgl. die Vorbemerkung zum D. — Mit dieser Wahl Konrads von Wittelsbach (siehe dazu auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-01_4_0_4_2_3_519_2291.html" type="internal" n="regesten">2291</ref>), der seit der Mitte der 1160er Jahre an der Kurie geweilt hatte und dort zum Bischof der Sabina aufgestiegen war, wurde einer der wesentlichen Punkte des Friedens von Venedig erfüllt, vgl. dazu Dopsch, Geschichte Salzburgs I/1, 295 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0189" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00203" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_693" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._368" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

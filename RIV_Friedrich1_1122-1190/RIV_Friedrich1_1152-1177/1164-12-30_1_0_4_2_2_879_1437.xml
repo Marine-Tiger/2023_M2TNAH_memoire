@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1437</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-12-30_1_0_4_2_2_879_1437"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-12-30_1_0_4_2_2_879_1437"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-12-30_1_0_4_2_2_879_1437</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246775" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1437</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-12-30" to="1164-12-30">1164 Dezember 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Strassburg">Straßburg</placeName>
+												<location><geo decls="#WGS">48.5833, 7.75</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III kal. ianuarii, apud Argentinam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>wohl B. 2 laut D<hi rend="sup">2</hi></p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Her(i)bert von Besançon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canc. vice Cunradi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>wahrscheinlich in der Hauptsache von RG verfaßt, vielleicht von RC geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Augsburg, Elekt Rudolf von Straßburg, die Herzoge Welf (VI.), Friedrich, der Sohn König Konrads (III.), Matthäus von (Ober)Lothringen und Berthold von Zähringen, Graf Rudolf von Pfullendorf, Ulrich von Herrlingen, Egelolf von Irslingen, Kämmerer Hartmann und sein Sohn</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Elekten <span sameAs="recipient"><hi rend="spaced">Her(i)bert von Besançon</hi> </span>  den schon von Kaiser Karl (dem Kahlen) übertragenen Besitz der Abtei Brégille und verfügt gemäß einem in Gegenwart zahlreicher Edelfreier Burgunds zu Weihnachten in Straßburg gefällten Fürstenspruch (vgl. Reg. 1435), daß entgegen den Ansprüchen der Bürger nur der Erzbischof über den Geldwechsel in der Stadt zu bestimmen habe. <span n="witnesses">Z.: Bischof Konrad von Augsburg, Elekt Rudolf von Straßburg, die Herzoge Welf (VI.), Friedrich, der Sohn König Konrads (III.), Matthäus von (Ober)Lothringen und Berthold von Zähringen, Graf Rudolf von Pfullendorf, Ulrich von Herrlingen, Egelolf von Irslingen, Kämmerer Hartmann und sein Sohn</span>. - <span n="chancellor"><hi rend="italic">Christianus canc. vice Cunradi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">wahrscheinlich in der Hauptsache von RG verfaßt, vielleicht von RC geschrieben</span>; <span n="seal">wohl B. 2 laut D<hi rend="sup">2</hi></span>. <span n="incipit"><hi rend="italic">Imperialis clementia bene</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis clementia bene</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift vom Ende des 13. Jh. im Chartular des Erzbistums Besançon ms. 716 p. 36, Stadtbibliothek Besançon (B); Abschrift des 18. Jh. Coll. Moreau ms. 866 f. 545, Nationalbibliothek Paris (B<hi rend="sup">1</hi>); Abschrift des 17. Jh., Annales ecclesiae Bisuntinae coll. a Francisco Dorival canonico, ms. 710 f. 62, Stadtbibliothek Besançon (D<hi rend="sup">1</hi>); Abschriften des 18. Jh. Coll. Droz ms. 32 f. 371 (D<hi rend="sup">2</hi>), Coll. Droz ms. 74 p. 76 (D<hi rend="sup">3</hi>) und Documenta ad hist. eccl. Bisuntinae spectantia coll. a D. Anselmo Berthod ms. 707 f. 42, ebenda (D<hi rend="sup">4</hi>). Drucke: Albrecht, Rappoltstein. UB. 1, 38 n<hi rend="sup">o</hi>  27; MG. DF. I. 472. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 300 n<hi rend="sup">o</hi>  387; Stumpf 4038.</p></div>
+				
+				
+					<div type="commentary"><p>Bei der erwähnten Urkunde Karls (des Kahlen) handelt es sich um DKa. II. 354. - Zum Inhalt vgl. Opll, Stadt und Reich 505.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0232" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_472" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

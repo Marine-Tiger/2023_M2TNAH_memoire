@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2243</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-23_1_0_4_2_3_471_2243"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-23_1_0_4_2_3_471_2243"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-03-23_1_0_4_2_3_471_2243</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453292965" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2243</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-03-23" to="1177-03-23">1177  nach März 23/24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Cesena">Cesena</placeName>
+												<location><geo decls="#WGS">44.15, 12.25</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erfährt in Cesena vom Eintreffen Papst Alexanders (III.) in Venedig (am 23./24. März) und sendet Erzbischof Wichmann von Magdeburg, Elekt Konrad von Worms und Protonotar Wortwin als seine Gesandten zu ihm. Sie versichern dem Papst, daß der Kaiser an den gemachten Zusagen festhalte, aber die Verhandlungen nicht in Bologna, das ihm nicht sicher erscheine, da Erzbischof Christian von Mainz dort wegen seiner früheren Maßnahmen verhaßt sei, sondern in Ravenna oder Venedig führen wolle. Alexander (III.) betont darauf, daß er ohne Besprechung mit den Lombarden und seinen Legaten von dem ursprünglichen Plan, daß der Kaiser nach Imola und er selbst nach Bologna kommen sollten, nicht abgehen könne, und lädt deshalb die in Ravenna weilenden Kardinale, Erzbischöfe, Bischöfe und Äbte sowie die Podestà, Konsuln und Rektoren der Lombarden zu Beratungen nach Ferrara.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Boso, ed. Duchesne, 437 f.; Romuaid von Salerno, ed. Garufi, Ren Ital. SS N.Ed. VII/1, 271; <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/c4d27c43-29ea-446f-8f75-d5e52c91df61.html" type="internal" n="regesten">147</ref>.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht, Kaiserzeit V, 818 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0166" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_715" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

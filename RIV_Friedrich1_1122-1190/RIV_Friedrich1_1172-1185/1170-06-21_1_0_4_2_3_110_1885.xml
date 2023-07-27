@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1885</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-21_1_0_4_2_3_110_1885"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-21_1_0_4_2_3_110_1885"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-06-21_1_0_4_2_3_110_1885</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596314" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1885</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-06-21" to="1170-06-21">1170 Juni 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XI kal. iulii, Erpesfort).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Mogontiensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>von Empfängerseite (Ichtershausen) unter teilweiser Heranziehung des DK.III. 188 verfaßt, nach dem Vorbild des D. 176 (Reg. 472) geschrieben von demselben Empfängerschreiber, von dem D.785 (Reg. 2510) und drei weitere Urkunden für Ichtershausen stammen</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Wichmann von Magdeburg, die Bischöfe Eberhard von Bamberg, Udo von Naumburg, Willimar von Brandenburg, Gerung von Meißen und Ludwig von Münster, Abt Burchard von Fulda, Herzog Heinrich (der Löwe) von Bayern und Sachsen, die Markgrafen Albrecht (der Bär), Otto (von Meißen) und Dietrich (der Lausitz), Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Grafen Dietrich (von Werben), Hermann (von Orlamünde), Heinrich (von Schwarzburg), Günther (von Käfernburg), Adelger (von Hohnstein) und Sigeboto (von Scharzfeld) sowie weitere, ungenannte Grafen und Edelfreie</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt einen in seiner und der Fürsten Gegenwart vorgenommenen Gütertausch zwischen <hi rend="spaced">Abt Willibold von Hersfeld</hi>  und Markward von Grumbach als Gründer und Vogt des <hi rend="spaced">Zisterzienserinnenklosters Ichtershausen</hi>, nach dem die Lehen des Grafen Erwin von Gleichen zu Ichtershausen, die dieser an den Hersfelder Ministerialen und Burggraf zu Wachsenburg Adelher und dieser wieder an den Eigenmann und Ritter des genannten Grafen namens Herwicus weiterverlehnt hatte, nach Auflassung dieser Lehen an Markward von Grumbach und Propst Ludeger von Ichtershausen kommen. Im Gegenzug werden Ichtershausener Güter zu Haarhausen (<hi rend="italic">Horehusen</hi>), die Propst Ludeger um 39 Mark Silber von Berthold von Kühnhausen (<hi rend="italic">Kindehusen</hi>) gekauft hatte, an Hersfeld übertragen, und Ichtershausen erhält zur Vermeidung eines Nachteils aus diesem Tauschgeschäft noch einen an den Hersfelder Ministerialen Wernher von Wüllersleben (<hi rend="italic">Winrichesleiben</hi>) verlehnten Hof, gelegen neben dem Kloster Ichtershausen, samt fünf Hufen daselbst, wofür der Abt von Hersfeld und der genannte Wernher samt seinem Sohn Günther durch die Überlassung von Gütern zu Gossel (<hi rend="italic">Guslo</hi>) und einer Hufe zu <hi rend="italic">Diderichewineden</hi>  entschädigt werden. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Wichmann von Magdeburg, die Bischöfe Eberhard von Bamberg, Udo von Naumburg, Willimar von Brandenburg, Gerung von Meißen und Ludwig von Münster, Abt Burchard von Fulda, Herzog Heinrich (der Löwe) von Bayern und Sachsen, die Markgrafen Albrecht (der Bär), Otto (von Meißen) und Dietrich (der Lausitz), Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Grafen Dietrich (von Werben), Hermann (von Orlamünde), Heinrich (von Schwarzburg), Günther (von Käfernburg), Adelger (von Hohnstein) und Sigeboto (von Scharzfeld) sowie weitere, ungenannte Grafen und Edelfreie</span>. — <span n="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Mogontiensis archiep. et archicanc.</hi> </span>; <span n="clerk">von Empfängerseite (Ichtershausen) unter teilweiser Heranziehung des DK.III. 188 verfaßt, nach dem Vorbild des D. 176 (Reg. 472) geschrieben von demselben Empfängerschreiber, von dem D.785 (Reg. 2510) und drei weitere Urkunden für Ichtershausen stammen</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Decet imperatoriam clementiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet imperatoriam clementiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Gotha (A). Druck: MG.DF.I.567. Regg.: Rein, Thuringia sacra 1, 53 n<hi rend="sup">o</hi>  10; Dobenecker, Reg.2, n<hi rend="sup">o</hi>  398; Stumpf 4114.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D. — Zu dem unter den Zeugen genannten Grafen Adelger (auch: Edelger) von Hohnstein bzw. Ilfeld vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 236.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0050" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_567" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

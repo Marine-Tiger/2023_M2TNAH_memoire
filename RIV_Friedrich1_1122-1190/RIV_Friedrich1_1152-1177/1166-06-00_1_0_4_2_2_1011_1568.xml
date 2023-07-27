@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1568</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-06-00_1_0_4_2_2_1011_1568"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-06-00_1_0_4_2_2_1011_1568"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-06-00_1_0_4_2_2_1011_1568</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1366974024" value="2013-04-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1568</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-01-01" to="1166-03-31">(vor 1166 Juni, wohl Ende 1165/Anfang 1166)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Cremona soll sich mit gemeinsam mit acht anderen Städten gegen den Kaiser erhoben haben, wobei wohl Kontakte zur Lega Veronese, namentlich zu Padua und Venedig, gefördert vom oströmischen Kaiser Manuel, eine Rolle spielen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Brief des John of Salisbury an Bischof Bartholomäus von Exeter, Letters of John of Salisbury II, ed. Millor - Brooke, n<hi rend="sup">o</hi>  168 (S. 116), vgl. Boso, ed. Duchesne, 412 und Ioannes Cinnamus, Epitome l. V, ed. Meineke, CSHB 13 (1836) 228 ff.</p></div>
+				
+				
+					<div type="commentary"><p>Wenngleich die Kontakte mit Byzanz nicht mit Sicherheit auf 1165/66 zu datieren sind, ihre Fixierung vielmehr erst 1167 erfahren haben, haben wir uns doch aus praktischen Gründen dazu entschlossen, sie hier zu erwähnen, vgl. Classen, La politica di Manuele Comneno, in: Popolo e stato in Italia nell'età di Federico Barbarossa (1970) 271 mit Anm. 22, Lilie, Handel und Politik, 466 mit Anm. 196 und Opll, Stadt und Reich, 256. - Zu Unruhen in Cremona und Pavia bereits im Sommer 1164 vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-06-00_1_0_4_2_2_829_1387.html" type="internal" n="regesten">1387</ref>  sowie - zu Cremona - auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-05-23_2_0_4_2_2_916_1474.html" type="internal" n="regesten">1474</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0267" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210271%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

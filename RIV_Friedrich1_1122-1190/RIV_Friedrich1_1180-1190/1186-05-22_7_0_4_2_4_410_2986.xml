@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2986</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-05-22_7_0_4_2_4_410_2986"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-05-22_7_0_4_2_4_410_2986"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-05-22_7_0_4_2_4_410_2986</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846305" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2986</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-05-22" to="1186-05-22">(1155–1186 Mai 22)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Friedrich) teilt <hi rend="spaced">Bischof 									</hi>(<hi rend="spaced">Albert von Freising</hi>) mit, dass 								die in seinem Bistum gelegene Kirche von Dietramszell (<hi rend="italic">ęcclesia beati Martini</hi>) gegen ihre 								Mutterkirche, das Kloster Tegernsee, ungehorsam ist. Die dortigen 								Chorherren haben den ihnen von Abt (Rupert) von Tegernsee 								eingesetzten Provisor verjagt und die schuldigen Dienste sowohl 								gegenüber dem Reich wie gegenüber dem Abt nicht geleistet. Er 								befiehlt ihm, die Chorherren mit kirchlichen Zwangsmaßnahmen (<hi rend="italic">ęcclesiastica censura</hi>) zur Leistung der 								schuldigen Dienste gegenüber dem Mutterkloster Tegernsee zu zwingen. 								– <span n="incipit"><hi rend="italic">Significamus tibi ad 										aures</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Significamus tibi ad 										aures</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Tegernseer Briefsammlung des 12. Jh. 								Clm. 19.411 f. 74 (p. 149), Staatsbibliothek München 								(B). Drucke: Plechl – Bergmann, Tegernseer Briefsammlung, MG. 								Briefe VIII, 29 n<hi rend="sup">o</hi> 20 (zu etwa 1170–1173 								Oktober 6); MG.DF.I.1020. Regg.: Plechl, Tegernseer 								Briefsammlung, DA 13 (1957) 420 n<hi rend="sup">o</hi> 55 zu etwa 								1170–1173 Oktober 6; Diestelkamp – Rotter, Urkundenregesten 1, 325 									n<hi rend="sup">o</hi> 414 zu ca. 1170–1173 Oktober 6.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einreihung vgl. Reg. 2984; sollte 								es sich um Albert von Freising handeln, würde das Stuck zu 1158–1184 								gehören.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1020" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

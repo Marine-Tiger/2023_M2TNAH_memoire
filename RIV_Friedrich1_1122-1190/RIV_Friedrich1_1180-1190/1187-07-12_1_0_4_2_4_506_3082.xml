@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3082</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-07-12_1_0_4_2_4_506_3082"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-07-12_1_0_4_2_4_506_3082"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-07-12_1_0_4_2_4_506_3082</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848232" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3082</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-07-12" to="1187-07-12">1187
+									Juli 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Hagenau (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> idus iulii, aput Hagenogiam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice Cunradi 										Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>Kanzleidiktat, wahrscheinlich (Nachzeichnung 									des Monogramms in D) zur Gänze von GK mundiert</scribe>
+				
+				
+					<testis function="witnesses">die Pröpste Friedrich von St. 									Thomas in Straßburg, (Kapellan) Siegfried, (Propst) von Eger, 									und Konrad von Allerheiligen in Speyer, Graf Heinrich von 									Grötzingen, Otto von Waldeck (<hi rend="italic">Waltekin</hi>), 									Otto von Geroldseck und sein Bruder Burchard sowie Berthold von 									Hohkönigsburg (<hi rend="italic">Kunigesburg</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster 									St. Peter zu Weißenburg</hi> (<hi rend="italic">ecclesia beati 									Petri in Wissenburg</hi>) auf Bitten des Abtes Gundelach die von 								dem (angeblichen) Gründer König Dagobert und von den Kaisern Otto I. 								und Otto II. gewährten Privilegien sowie weitere Rechte, nämlich das 								der freien Abtwahl, die freie Verfügungsgewalt des Abtes innerhalb 								der klösterlichen Immunität und die Freiheit der zu den täglichen 								Diensten für die Brüder angewiesenen <hi rend="italic">prebendarii</hi> von allen Abgaben und Diensten, zu denen die 								der Vogteigewalt unterstehenden Leute verpflichtet sind. Er 								verbietet den klösterlichen Ministerialen, ihre Güter an andere 								Kirchen – es sei denn durch die Hand des Abtes – zu übertragen, 								verpflichtet zum einen die zur Herrschaft des Klosters gehörenden 								Frauen nach dem Tod ihrer Männer sowie zum anderen auch deren 								nächste Verwandte nach deren Tod zur Leistung des Herdrechtes (<hi rend="italic">ius laris, quod vulgo dicitur herdrecht</hi>) und 								verleiht der Abtei in ihrem Gebiet die selben freien 								Herrschaftsrechte, wie sie auch die Kirchen von Fulda, Reichenau und 								Prüm genießen. <span n="witnesses">Z.: die Pröpste Friedrich von St. 									Thomas in Straßburg, (Kapellan) Siegfried, (Propst) von Eger, 									und Konrad von Allerheiligen in Speyer, Graf Heinrich von 									Grötzingen, Otto von Waldeck (<hi rend="italic">Waltekin</hi>), 									Otto von Geroldseck und sein Bruder Burchard sowie Berthold von 									Hohkönigsburg (<hi rend="italic">Kunigesburg</hi>)</span>. 									–<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice Cunradi 										Maguntini archiep. Germanie archicanc.</hi></span>; <span n="clerk">Kanzleidiktat, wahrscheinlich (Nachzeichnung 									des Monogramms in D) zur Gänze von GK mundiert</span>. <span n="incipit"><hi rend="italic">Racioni consonum et</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Racioni consonum et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des Transsumptes König 								Albrechts I. von 1303 Januar 19 im Kopialbuch des Klosters 								Weißenburg von 1491, Cod. F 1 n<hi rend="sup">o</hi> 866 f. 25, 								Landesarchiv Speyer (C); Liber privil. Weissenburg. von 1580, Hs. W 								1001 f. 8‘, Haus-, Hof- und Staatsarchiv Wien (D); Cod. Rudolphinus 								von 1582, Kopialbuch n<hi rend="sup">o</hi> 89a f. 9‘, Landesarchiv 								Speyer (E); Abschrift des Transsumptes Albrechts I. im Nachlass 								Grandidier, Karton 2, fasc. n<hi rend="sup">o</hi> 315–317, 								Generallandesarchiv Karlsruhe (G). Drucke: Mon. Boica 31<hi rend="sup">a</hi>, 427 n<hi rend="sup">o</hi> 226; Zeuss, 								Traditiones Wizenburgenses, 326; MG.DF.I.961. Reg.: Stumpf 								4479.</p></div>
+				
+				
+					<div type="commentary"><p>Da die erwähnten Privilegien Dagoberts, Ottos I. 								und Ottos II. nicht als Vorurkunden verwendet wurden, sondern ihr 								Inhalt nur zusammenfassend bestätigt wurde, hat dieses D. als <hi rend="italic">terminus ante quem</hi> für die Entstehung der 								Dagobertfälschung zu gelten, vgl. dazu die Vorbemerkung zum D. mit 								der dort angeführten Literatur. – Plassmann, Struktur des Hofes, 								289, identifiziert die Herkunftsbezeichnung des Otto von Waldeck 								wegen des Ausstellungsortes des D. mit Waldeck (Dép. Bas-Rhin). Zu 								Propst Siegfried von Eger vgl. auch dessen Nennung unter den Zeugen 								von D. 960 (Reg. 3081). – Das D. bezeugt, dass der Reichslegat für 								Italien, Berthold von Hohkönigsburg (siehe etwa Regg. 2773, 2859, 								2862, 2863, 2881, 2886, 2900, 2914, 2919, 2922, 2928, 3001 und 3023) 								damals an den Hof nach Deutschland gekommen war.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_961" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

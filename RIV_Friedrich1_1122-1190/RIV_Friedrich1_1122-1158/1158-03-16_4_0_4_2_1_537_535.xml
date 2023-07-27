@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 535</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_4_0_4_2_1_537_535"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_4_0_4_2_1_537_535"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-03-16_4_0_4_2_1_537_535</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240433" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 535</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-03-16" to="1158-03-16">1158 März 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII kal. april., Frankenvort)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hamburg-Bremen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>VU.: DH. IV. 103, gleiches Kanzleidiktat wie DD. F. I. 209 und 211 (Regg. 534 u. 536), verfaßt unter Benützung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  44) enthaltenen Formulargutes, wahrscheinlich mundiert von ZB</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die erzbischöfliche Kirche zu <span sameAs="recipient"><hi rend="spaced">Hamburg-Bremen</hi> </span>  (<hi rend="italic">Hammaburgensis sive Bremensis</hi>) auf Bitten ihres Erzbischofs Hartwig gemäß einem vorgelegten Diplom Kaiser Heinrichs IV. in seinen Schutz und bestätigt ihr die Verleihungen seiner genannten Vorgänger, besonders den Hof Lesum (<hi rend="italic">Liestmunde</hi>) in der Grafschaft weiland Markgraf Udos im Gau <hi rend="italic">Wimodi</hi>  mit allem Zubehör, Münze, Zoll und Bann (<hi rend="italic">nostrique banni districtum super omnes ipsam terram inhabitantes</hi>), den Forst mit Königsbann im ganzen genannten Gau <hi rend="italic">Wimodi</hi>  (<hi rend="italic">forestum cum banno regali per totum pagum Wimodi cum insulis Breme scilicet et Lechter</hi>), die Marschländereien am südlichen Weserufer (<hi rend="italic">paludes Linebruch, Aspruch, Aldenebruch, Huchtingebroch, Bruscimibroch, Wigeribroch limite discurrente usque ad Ettirna fluvium</hi>) und alle Hoheitsrechte (<hi rend="italic">libertatem, parochias scilicet, decimas, terras cultas et incultas, comitatus, mercatus, monetas, thelonea cum omni utilitate, que describi vel quoquo modo inde provenire poterit</hi>). <span n="witnesses">Z.: Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen)</span>. - <span n="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinensis archiep. et archicanc.</hi> </span>; <span n="clerk">VU.: DH. IV. 103, gleiches Kanzleidiktat wie DD. F. I. 209 und 211 (Regg. 534 u. 536), verfaßt unter Benützung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  44) enthaltenen Formulargutes, wahrscheinlich mundiert von ZB</span>. <span n="incipit"><hi rend="italic">Imperialem celsitudinem decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem celsitudinem decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Bremer Kopiar aus dem Anfang des 14. Jh. f. 59 n<hi rend="sup">o</hi>  79, Staatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (B); Abschrift daraus im alten Apparat der Monumenta Germaniae (B<hi rend="sup">1</hi>). Drucke: Lappenberg, Hamburg. UB. 1, 192 n<hi rend="sup">o</hi>  210; MG. DF. I. 210. Reg.: Goerz, Mittelrhein. Reg. 2, 38 n<hi rend="sup">o</hi>  136; May, Reg. d. Erzb. v. Bremen 1, 140 n<hi rend="sup">o</hi>  536; Stumpf 3803.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der hier bestätigten Verfügung Heinrichs IV. vgl. Glaeske, Erzbischöfe von Hamburg-Bremen (Qu. u. Darst. zur Gesch. Ndsachs. 60, 1962) 90.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0182" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_210" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

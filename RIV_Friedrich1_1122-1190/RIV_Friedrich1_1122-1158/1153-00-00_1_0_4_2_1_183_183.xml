@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 183</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-00-00_1_0_4_2_1_183_183"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-00-00_1_0_4_2_1_183_183"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-00-00_1_0_4_2_1_183_183</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358155587" value="2013-01-14"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 183</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-01-01" to="1153-12-31">(? 1153)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hugo</hi>  <hi rend="spaced">Baux</hi>  <hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Bertrand</hi>  <hi rend="spaced">Gerbert</hi>  <hi rend="spaced">Wibald</hi>  <hi rend="spaced">Stablo</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><span sameAs="recipient"><hi rend="spaced">Hugo</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Baux</hi> </span>  und seine Brüder (<span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>, <span sameAs="recipient"><hi rend="spaced">Bertrand</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Gerbert</hi> </span>) danken Abt <span sameAs="recipient"><hi rend="spaced">Wibald</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Stablo</hi> </span>  für seine Bemühungen am kaiserlichen Hofe zugunsten Wilhelms, bitten ihn um weitere Unterstützung beim Kaiser (!), dem sie gegen die Angriffe des Grafen von Barcelona (<hi rend="italic">Barcinonensis</hi>) Treue geloben, und um Mitteilung darüber, was sie sich von dessen Ankunft erhoffen können.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Korrektur der verderbten Datierung gemäß der 2. Lieferung (1991): &amp;quot;(1152 Ende, vor dem Aufbruch nach Burgund) - vgl. dazu Regg. 160 - 163 und Heinemann, Burgund, AfD 29 (1963) 168 Anm. 106.&amp;quot;
+</p>
+<p>Im Erstdruck genannte Datierung: (? 1153).
+</p>
+<p></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Epp. Wibaldi, ed. Jaffé, Mon. Corb. 565 n<hi rend="sup">o</hi>  428.</p></div>
+				
+				
+					<div type="commentary"><p>Simonsfeld, Jahrbücher 82 mit Anm. 259, verlegt mit Giesebrecht-Simson, Kaiserzeit 6, 329, das Schreiben in das Jahr 1152 vor den Abschluß des Vertrages mit dem Herzog von Zähringen (DF. I. 12, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-01_1_0_4_2_1_94_94.html" type="internal" n="regesten">94</ref>). Dagegen folgt Hausmann, Reichskanzlei 239 der Datierung Jaffés und verlegt das Dokument in den Sommer 1153, während Büttner, Burgund (VuF 12, 1968) 90, den Zusammenhang mit dem Wormser Hoftag im Juni 1153 herstellt. Daß damals wohl eine Gesandtschaft des Edlen von Baux an den Hof Barbarossas kam, läßt sich daraus erschließen, daß DK. III. 132 für Raimund von Baux als Vorlage für DF. I. 61 diente, vgl. die Vorbemerkung zu dem letztgenannten D. (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-00_1_0_4_2_1_182_182.html" type="internal" n="regesten">182</ref>). - Zum Kaisertitel vgl. Herkenrath, in: WdF 390 (1975) 347.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0067" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

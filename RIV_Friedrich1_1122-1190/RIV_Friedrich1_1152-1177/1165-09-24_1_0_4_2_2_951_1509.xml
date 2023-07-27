@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1509</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-09-24_1_0_4_2_2_951_1509"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-09-24_1_0_4_2_2_951_1509"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-09-24_1_0_4_2_2_951_1509</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247062" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1509</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-09-24" to="1165-09-24">1165 September 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII kal. octobr., Wormacie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Münzern</hi>  <hi rend="spaced">Worms</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Henricus protonotarius vice Cristiani Moguntini electi et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  77) enthaltenen Formulargutes verfaßt und geschrieben von Wortwin</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Worms, Abt Hermann von Fulda, Dompropst Sifrid (von Worms), Propst Emicho von St. Paul (zu Worms), Domdekan Heinrich (von Worms), Herzog Ulrich von Böhmen, Graf Simon von Saarbrücken, Markward der Ältere von Grumbach und sein Sohn Markward der Jüngere, Graf Emicho von Leiningen, Ulrich von Herrlingen, Berthold von Schauenburg, Werner von Steinberg, Walter von Hausen, Bernger von Ravenstein, Werner von Bolanden, der Mundschenk Konrad Kolbe und seine Brüder Ludwig und Bernger, Truchseß Rudolf, Bertolf von Scharfenberg, Hunfrid und Heinrich von Falkenstein, Vitztum Sifrid und sein Bruder Burchard, Adelbert Bertold und sein Bruder Heinrich, Werner der Zöllner und sein Bruder Giselbrecht, Schultheiß Rigoho und sein Bruder Gerlach, Gernot, Gerbot, Raimund, Konrad, Dude und sein Bruder Reinhart, Winant, Sifrid Heihel der Alte und sein Sohn Ortolf und Lutfrid, Baldemar (ab Vitztum Sifrid: Wormser Bürger)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <span sameAs="recipient"><hi rend="spaced">Münzern</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Worms</hi> </span>  ihre Rechte, indem das Schlagen der Münze - auch bei Lieferung des Silbers durch den Kaiser - genau geregelt wird, der Bestand ihres Konsortiums und ihre Vorrechte, darunter die Heranziehung nur zu höheren Hofdiensten bei Besuchen des Herrschers mit großem Gefolge, die Befreiung von der Übernahme städtischer Ämter, ihre eigene Gerichtsbarkeit und die Rechtsprechung über sie sowie das mit Ausnahme der Rechte der Juden ausschließliche Wechselrecht in der Stadt, im einzelnen verbrieft werden, die Abführung des Gewinns an den Bischof und gewisse Abgaben an diesen zu den drei hohen Kirchenfesten des Jahres festgelegt werden, und verleiht ihnen die Wechselrechte in den der kaiserlichen Kammer gehörigen Märkten Ladenburg und Wiesloch, wo die übrigen Herrschaftsrechte in der Hand des Wormser Bischofs liegen. <span n="witnesses">Z.: Bischof Konrad von Worms, Abt Hermann von Fulda, Dompropst Sifrid (von Worms), Propst Emicho von St. Paul (zu Worms), Domdekan Heinrich (von Worms), Herzog Ulrich von Böhmen, Graf Simon von Saarbrücken, Markward der Ältere von Grumbach und sein Sohn Markward der Jüngere, Graf Emicho von Leiningen, Ulrich von Herrlingen, Berthold von Schauenburg, Werner von Steinberg, Walter von Hausen, Bernger von Ravenstein, Werner von Bolanden, der Mundschenk Konrad Kolbe und seine Brüder Ludwig und Bernger, Truchseß Rudolf, Bertolf von Scharfenberg, Hunfrid und Heinrich von Falkenstein, Vitztum Sifrid und sein Bruder Burchard, Adelbert Bertold und sein Bruder Heinrich, Werner der Zöllner und sein Bruder Giselbrecht, Schultheiß Rigoho und sein Bruder Gerlach, Gernot, Gerbot, Raimund, Konrad, Dude und sein Bruder Reinhart, Winant, Sifrid Heihel der Alte und sein Sohn Ortolf und Lutfrid, Baldemar (ab Vitztum Sifrid: Wormser Bürger)</span>. - <span n="chancellor"><hi rend="italic">Henricus protonotarius vice Cristiani Moguntini electi et archicanc.</hi> </span>; <span n="clerk">unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  77) enthaltenen Formulargutes verfaßt und geschrieben von Wortwin</span>. <span n="incipit"><hi rend="italic">Quocienscumque nostre imperialis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quocienscumque nostre imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Reichsregister Sigismunds K f. 145', 1434 Mai (B.-Altmann Reg. 10.440), Transsumpt eines Transsumptes Kaiser Karls IV. von 1356 November 14 (B.-Huber Reg. 2519), Haus-, Hof- und Staatsarchiv Wien (C<hi rend="sup">1</hi>); Reichsregister Friedrichs III. O f. 151, 1442 Juli 23 (Chmel, Reg. 776), Transsumpt desselben Transsumptes Karls IV., ebenda (C<hi rend="sup">2</hi>); (deutsche Übersetzung, Insert in Bestätigung Kaiser Karls IV. von 1372 Juni 5 (B.-Huber Reg. 5071), Staatsarchiv Darmstadt (D); deutsche Übersetzung, Insert in Abschrift einer Bestätigung König Ruprechts von 1400 Oktober 31 (Oberndorff Reg. 211) im Kopialbuch n<hi rend="sup">o</hi>  801 f. 125, Generallandesarchiv Karlsruhe (E). Drucke: Boos, UB. der Stadt Worms 1, 64 n<hi rend="sup">o</hi>  80 (aus E); MG. DF. I. 491 (erstmals den lateinischen Wortlaut). Reg.: Stumpf 4052.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekognition vgl. Bresslau, Urkundenlehre, 1<hi rend="sup">3</hi>, 493 Anm. 5. - Zu den hier erwähnten Rechten der Juden hinsichtlich des Geldwechsels vgl. schon DF. I. 166 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-04-06_2_0_4_2_1_450_448.html" type="internal" n="regesten">448</ref>); zum D. vgl. Opll, Stadt und Reich, 174 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0250" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_491" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

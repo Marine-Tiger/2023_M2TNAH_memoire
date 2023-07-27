@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2458</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_3_0_4_2_3_686_2458"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_3_0_4_2_3_686_2458"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-12_3_0_4_2_3_686_2458</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430900502" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2458</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-12" to="1178-10-12">1178 Oktober 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Oberehnheim?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Von derselben Hohenburger Empfängerhand geschrieben wie die genauso undatierte <hi rend="italic">karta Herradis abbatisse</hi>  über den gleichen Gegenstand mit derselben Zeugenreihe (Würdtwein, Nova Subsidia 10, 68 n<hi rend="sup">o</hi> 26)</scribe>
+				
+				
+					<testis function="witnesses">Günther von Finhey, Dietrich von Stein und sein Bruder Burchard, Lampert, Rudolf von (Ober)Ehnheim, Schultheiß Walter von (Ober)Ehnheim, Meier Konrad, Kellermeister Friedrich von Rosheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Benediktinerinnenkloster Hohenburg</hi>  (St. Odilienberg) unter Äbtissin Herrad die durch seine Hand vorgenommene Jahrtagsstiftung der edlen, aus der Ministerialität des Klosters stammenden Matrone Willebirg aus Andlau im Umfang von 31 Äckern und einem halben im Bannbezirk Rosheim sowie zwei Höfen und einem steinernen Haus in ebendiesem Ort, wofür künftig jährlich ihr Anniversar in der Weise begangen werden möge, daß der Konvent eine Fischmahlzeit im Wert von fünf <hi rend="italic">solidi</hi>  erhalten möge. <span n="witnesses">Z.: Günther von Finhey, Dietrich von Stein und sein Bruder Burchard, Lampert, Rudolf von (Ober)Ehnheim, Schultheiß Walter von (Ober)Ehnheim, Meier Konrad, Kellermeister Friedrich von Rosheim</span>. — <span n="clerk">Von derselben Hohenburger Empfängerhand geschrieben wie die genauso undatierte <hi rend="italic">karta Herradis abbatisse</hi>  über den gleichen Gegenstand mit derselben Zeugenreihe (Würdtwein, Nova Subsidia 10, 68 n<hi rend="sup">o</hi> 26)</span>; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Noverit universitas vestra</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverit universitas vestra</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Straßburg (A). Drucke: Scheffer-Boichorst, Kleinere Forschungen, MIÖG 9 (1888) 211 n<hi rend="sup">o</hi>  2; MG.DF.I.769.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem wahrscheinlichen Bezug der genannten Zeugen zum Aufenthalt des Kaisers in Oberehnheim (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-12_1_0_4_2_3_684_2456.html" type="internal" n="regesten">2456</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-12_2_0_4_2_3_685_2457.html" type="internal" n="regesten">2457</ref>), doch ist sie nicht völlig gesichert. Das D. selbst begnügt sich mit der lapidaren Feststellung: <hi rend="italic">Hec acta sunt temporibus Herradis abbatissę.</hi></p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0241" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_769" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

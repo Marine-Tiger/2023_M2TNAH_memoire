@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2676</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-11-30_1_0_4_2_4_97_2676"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-11-30_1_0_4_2_4_97_2676"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-11-30_1_0_4_2_4_97_2676</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843221" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2676</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-11-30" to="1182-11-30">1182
+									November 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Erfurt (<hi rend="italic">II kal. decembr., in civitate Erfordiensi</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Beide Originale von Robert mundiert, auf den 									auch das kanzleigemäße Diktat zurückgehen könnte</scribe>
+				
+				
+					<testis function="witnesses">Herzog Friedrich von Schwaben, Gottfried, Kanzler des kaiserlichen Hofes, Rudolf, Protonotar des kaiserlichen Hofes, Propst Burchard von Jechaburg, Albert von Biesenrode, Albero, Kämmerer der Hersfelder Kirche, Propst Otto von Hagenrode (= Propstei des 									Benediktinerklosters Nienburg), Kapellan Witelo (des Abtes von Hersfeld), die Grafen Erwin von Gleichen (<hi rend="italic">Geligen</hi>), Gunzelin von Schwerin (<hi rend="italic">Szuerin</hi>), Otto von Oberkirchberg, Heinrich von Schwarzburg und Gunther von Käfernburg (<hi rend="italic">Keueremberc</hi>), Albert von Grumbach sowie Graf Hoger von Wöltingerode und sein Bruder Burchard.</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet die Beilegung eines lange währenden Streites zwischen <hi rend="spaced">Abt Siegfried von Hersfeld</hi> und seinem (= des Kaisers) Neffen <hi rend="spaced">Landgraf Ludwig von Thüringen</hi> um die Hersfelder Lehen des verstorbenen Grafen Heinrich, eines Bruders des Landgrafen, in folgender Form: Der Abt überlässt dem Landgrafen alle von Graf Heinrich weiter verlehnten Lehen, kann aber dafür über alle von Graf Heinrich zum eigenen Nutzen innegehabten Lehen, darunter die Hersfelder Vogtei und weitere namentlich genannte, ungestört verfügen, es sei denn, der Landgraf könne sie vom Abt durch Urteilsspruch erhalten oder für seine Verdienste vom Abt freiwillig übertragen bekommen. Zur höheren Sicherheit verspricht der Landgraf in die rechte Hand des Kaisers, seines Sohnes, König Heinrichs 								(VI.), und des Abtes die Einhaltung dieser Abmachung, wobei als <hi rend="italic">fideisponsores</hi> die folgenden Persönlichkeiten namhaft gemacht werden: die Grafen Adelger von Hohnstein (<hi rend="italic">Elgerus de Honstein</hi>) und Sibodo von Scharzfeld, Albert von Hildenburg, Meinhard von Mühlberg (<hi rend="italic">Mulemburc</hi>), Burggraf Dietrich von Kapellendorf, Gebhard von Ziegenberg (<hi rend="italic">Giuehardus de Scigemberc</hi>), Eckhard von Gottern (<hi rend="italic">Guteren</hi>), Mechtfried von Zimmern (<hi rend="italic">Meihtfridus de Cimberen</hi>), Udo von Topfstedt (<hi rend="italic">Totpestede</hi>) und Berthold von Röhrenfurth (<hi rend="italic">Rornefurt</hi>). Z.: Herzog Friedrich von Schwaben, Gottfried, Kanzler des kaiserlichen Hofes, Rudolf, Protonotar des kaiserlichen Hofes, Propst Burchard von Jechaburg, Albert von Biesenrode, Albero, Kämmerer der Hersfelder Kirche, Propst Otto von Hagenrode (= Propstei des Benediktinerklosters Nienburg), Kapellan Witelo (des Abtes von Hersfeld), die Grafen Erwin von Gleichen (<hi rend="italic">Geligen</hi>), Gunzelin von Schwerin (<hi rend="italic">Szuerin</hi>), Otto von Oberkirchberg, Heinrich von Schwarzburg und Gunther von Käfernburg (<hi rend="italic">Keueremberc</hi>), Albert von Grumbach sowie Graf Hoger von Wöltingerode und sein Bruder Burchard. – Beide Originale von Robert mundiert, auf den auch das kanzleigemäße Diktat zurückgehen könnte; SP.2.<hi rend="italic">Equitas et providentia.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equitas et 									providentia.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: zwei Originale, Hessisches Staatsarchiv Marburg (A und A<hi rend="sup">1</hi>). Drucke: 								Posse, CD. Sax. regiae I/2, 324 n<hi rend="sup">o</hi> 467; MG.DF.I.835. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 635; Diestelkamp – Rotter, Urkundenregesten 1, 367 n<hi rend="sup">o</hi> 466; B.-Baaken Reg. 1n; Stumpf 4330 zu 1181 und S. 550.</p></div>
+				
+				
+					<div type="commentary"><p>Nach einigen Varianten hat A als Erstausfertigung, 								A1 als expeditio duplicata zu gelten, vgl. dazu die Vorbemerkung zum 								D. – Zu dem als <hi rend="italic">fideisponsor</hi> genannten Grafen 								Adelger (auch: Edelger) von Hohnstein bzw. Ilfeld vgl. Plassmann, 								Struktur des Hofes, 236 und 283; zu Kämmerer Albero von Hersfeld, 								der auch Propst von Petersberg war, Plassmann, a.a.O., 278 f.; zu 								Gebhard von Ziegenberg (Werra-Meißner-Kreis) Plassmann, a.a.O., 285; 								der als Zeuge genannte Graf Erich von Gleichen nannte sich auch nach 								Gräfentonna (Kr. Gotha), vgl. Plassmann, a.a.O., 284. – Zum Inhalt 								vgl. Hauser, Staufische Lehnspolitik, 304 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2000523" type="external" n="unkown">Urkundenabbildung (1) in Arcinsys (HstAM)</ref></item><item><ref target="https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5243938" type="external" n="unkown">Urkundenabbildung (2) in Arcinsys (HstAM)</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_835" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

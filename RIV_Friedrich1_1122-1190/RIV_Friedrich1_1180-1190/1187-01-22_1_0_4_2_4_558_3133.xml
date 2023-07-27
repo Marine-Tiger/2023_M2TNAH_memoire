@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3133</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-01-22_1_0_4_2_4_558_3133"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-01-22_1_0_4_2_4_558_3133"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-01-22_1_0_4_2_4_558_3133</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3133</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-01-22" to="1187-01-22">1188
+									(nach Januar 21/22)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>König Heinrich (II.) von England schreibt an Kaiser 								Friedrich, er habe gemeinsam mit seinem Freund, König Philipp (II. 								August) von Frankreich und zahlreichen anderen <hi rend="italic">proceres</hi> beider Königreiche das Kreuz genommen. Er ersucht 								ihn um sicheren Durchmarsch durch das Reich sowie ausreichende 								Versorgung mit Lebensmitteln; als seinen Gesandten kündigt er 								Richard Barre, Archidiakon von Lisieux, an.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ex Radulfi de Diceto Ymaginibus historiarum, 								MG. SS XXVII, 277.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung des Schreibens ergibt 								sich daraus, dass die Könige von England und Frankreich bei ihrer 								Zusammenkunft in Gisors am 21./22. Januar 1188 das Kreuz genommen 								und den Aufbruch zum Kreuzzug für das Osterfest des kommenden Jahres 								festgelegt hatten; Richard Barre ging darüber hinaus auch als 								Gesandter an König Bela (III.) von Ungarn und den byzantinischen 								Kaiser Isaak II. Angelos. – Vgl. dazu Giesebrecht – Simson, 								Kaiserzeit VI, 180 f. (irrig: Archidiakon von Luxeuil), Cartellieri, 								Philipp II. August, Bd. I, 57 (Archidiakon von Lisieux), und 								Möhring, Saladin und der Dritte Kreuzzug, 76 f. – Zur Antwort des 								Kaisers siehe unten Reg. 3144.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

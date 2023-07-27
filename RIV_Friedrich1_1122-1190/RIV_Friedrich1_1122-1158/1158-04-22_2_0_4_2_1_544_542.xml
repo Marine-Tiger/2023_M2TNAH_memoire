@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 542</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-22_2_0_4_2_1_544_542"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-22_2_0_4_2_1_544_542"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-04-22_2_0_4_2_1_544_542</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240506" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 542</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-04-22" to="1158-04-22">1158 April 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Kaiserswerth">Kaiserswerth</placeName>
+												<location><geo decls="#WGS">51.3, 6.7167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. maii, in Werda sancti Suuiberti)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hamburg-Bremen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntinensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Wiederholung des DH. IV. 115, vermutlich von demselben Schreiber wie DF. I. 213 (Reg. 541), vielleicht unter Aufsicht des Kanzleinotars AH (Albert) mundiert, dessen Gewohnheit die Form des Monogramms entspricht.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Friedrich von Köln, die Bischöfe Gottfried von Utrecht, Friedrich von Münster, Hermann von Verden, Philipp von Osnabrück (<hi rend="italic">Osembrugensis</hi>), die Pröpste Albert von Aachen, Gerhard von Magdeburg, Tibald von Xanten (<hi rend="italic">Sanctensis</hi>), Arnold von St. Andreas zu Köln, Bruno von St. Georg zu Köln, Dompropst (<hi rend="italic">summus prepositus</hi>) Otto von Bremen, Dompropst Hartwig von Hamburg, Propst Udo von Ramelsloh (<hi rend="italic">Rameslensis</hi>), Notar Heinrich, Herzog Heinrich von Sachsen, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), die Grafen Dietrich von Ahr, Dietrich von Kleve, Hermann von Kuik (<hi rend="italic">Cuke</hi>), Adolf von Berg, Simon von Tecklenburg (<hi rend="italic">Teggeneburch</hi>) sowie Otto von Ravensberg und sein Bruder Heinrich, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der erzbischöflichen Kirche zu <span sameAs="recipient"><hi rend="spaced">Hamburg-Bremen</hi> </span>  in Wiederholung einer Verfügung König Heinrichs IV. den ihr erstmals von Kaiser Konrad II. geschenkten Forst Eiterbruch (<hi rend="italic">Eternebroch</hi>), das Jagdrecht zwischen Warmenau, Weser, Ollen und Hunte (<hi rend="italic">quicquid inter Warmanoue, Wiseram, Aldenam et Huntam fluvios venationis fieri potest</hi>), den Forst im Ammergau in der Grafschaft Udos (<hi rend="italic">sue proprietatis forestum in pago Ameri situm in comitatu Vdonis</hi>), ihren Hintersassen die freie Verfügungsgewalt über deren außerkirchlichen Besitz sowie die Freiheit und alle Güter, die ihr seit Karl dem Großen verliehen wurden. <span n="witnesses">Z.: Erzbischof Friedrich von Köln, die Bischöfe Gottfried von Utrecht, Friedrich von Münster, Hermann von Verden, Philipp von Osnabrück (<hi rend="italic">Osembrugensis</hi>), die Pröpste Albert von Aachen, Gerhard von Magdeburg, Tibald von Xanten (<hi rend="italic">Sanctensis</hi>), Arnold von St. Andreas zu Köln, Bruno von St. Georg zu Köln, Dompropst (<hi rend="italic">summus prepositus</hi>) Otto von Bremen, Dompropst Hartwig von Hamburg, Propst Udo von Ramelsloh (<hi rend="italic">Rameslensis</hi>), Notar Heinrich, Herzog Heinrich von Sachsen, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), die Grafen Dietrich von Ahr, Dietrich von Kleve, Hermann von Kuik (<hi rend="italic">Cuke</hi>), Adolf von Berg, Simon von Tecklenburg (<hi rend="italic">Teggeneburch</hi>) sowie Otto von Ravensberg und sein Bruder Heinrich, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntinensis archiep. et archicanc.</hi> </span>; <span n="clerk">Wiederholung des DH. IV. 115, vermutlich von demselben Schreiber wie DF. I. 213 (Reg. 541), vielleicht unter Aufsicht des Kanzleinotars AH (Albert) mundiert, dessen Gewohnheit die Form des Monogramms entspricht.</span> <span n="incipit"><hi rend="italic">Cum regie dignitatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum regie dignitatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Bremer Kopiar aus dem Anfang des 14. Jh., Staatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (B); Abschrift daraus im alten Apparat der Monumenta Germaniae (B<hi rend="sup">1</hi>); Prozeßakten von 1565, Reichskammergericht S 22 fasc. 7 f. 174 ff., Staatsarchiv Hamburg (C). Druck e: Lappenberg, Hamburg. UB. 1, 195 n<hi rend="sup">o</hi>  212; MG. DF. I. 214. Reg.: May, Reg. d. Erzb. v. Bremen 1, 140 n<hi rend="sup">o</hi>  538; Reincke, Zur Geschichte des Hamburger Domarchivs, Veröffentll. aus dem Staatsarchiv Hamburg 5 (1960) 75 n<hi rend="sup">o</hi>  5; Stumpf 3807.</p></div>
+				
+				
+					<div type="commentary"><p>Reincke a. a. O. 76 vermutet, daß die Nennung des Bischofs von Verden in der Zeugenliste - der Name fehlt in B<hi rend="sup">1</hi>  und war nach der Beschreibung des Originals in C etwas dunkel, aber dennoch lesbar - auf eine von erzbischöflicher Seite nachträglich vorgenommene Interpolation zurückgehe, da sich das D. gegen die Ansprüche Verdens richtet und Bischof Hermann im April 1158 nicht bei Hofe genannt wird, vielmehr noch am 21. Mai dieses Jahres in Verden urkundete.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0184" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_214" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

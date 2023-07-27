@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1553</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-29_1_0_4_2_2_996_1553"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-29_1_0_4_2_2_996_1553"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-03-29_1_0_4_2_2_996_1553</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595296" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1553</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-03-29" to="1166-03-29">(nach 1166 März 29)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Plain</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich dankt den Grafen von <span sameAs="recipient"><hi rend="spaced">Plain</hi> </span>  für die energische Bekämpfung der zu Feinden des Reiches und der Kirche erklärten Salzburger, sagt ihnen vollen Schadenersatz zu, fordert sie zur Fortsetzung der Kämpfe auf und setzt sie davon in Kenntnis, daß er auch dem Herzog (Heinrich II.) von Österreich und dem Bischof (Albo) von Passau befohlen habe, sich gegen die Salzburger zu wenden. - <span n="incipit"><hi rend="italic">Dilectioni vestrae grates</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dilectioni vestrae grates</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. XI 671 f. 508', Landesbibliothek Hannover (D). Drucke: Fichtenau - Dienst, UB. zur Geschichte der Babenberger 4/1, 170 n<hi rend="sup">o</hi>  827; Hödl - Classen, Salzburger Briefsammlung, MG. Briefe VI, 165 n<hi rend="sup">o</hi>  10; MG. DF. I. 508. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 309 n<hi rend="sup">o</hi>  395.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-03-29_1_0_4_2_2_993_1551.html" type="internal" n="regesten">1551</ref>. - Eigene Mandate an den österreichischen Herzog und den Passauer Bischof sind nicht erhalten. - Auch in historiographischen Quellen ist davon die Rede, daß der Kaiser zum militärischen Vorgehen gegen Salzburg aufgerufen hat, vgl. die Hinweise bei Dopsch, in: Geschichte Salzburgs I/3, 1275 Anm. 392.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0263" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_508" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

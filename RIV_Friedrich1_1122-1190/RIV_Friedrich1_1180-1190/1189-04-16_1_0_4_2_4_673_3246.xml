@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3246</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-16_1_0_4_2_4_673_3246"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-16_1_0_4_2_4_673_3246"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-04-16_1_0_4_2_4_673_3246</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3246</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-04-16" to="1189-04-16">1189
+									April 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Selz (<hi rend="italic">XVI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. maii, apud Selsam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe><hi rend="italic">Iohannes imp. aulę canc. in vice Conradi 										Maguntini archiep., Germanię vero 									archicanc.</hi>  wohl von GK 									verfasst, geschrieben von JC mit Ausnahme der Signumzeile und 									des Monogramms, die – wahrscheinlich vor der Nie</scribe>
+				
+				
+					<testis function="witnesses">Abt Erenbert 									von Neuburg, Vogt Rüdiger von Hagenau, Schultheiß Billung von 									Hagenau, Gottfried von Fleckenstein und sein Bruder Konrad, 									Werner von Bolanden, Kämmerer Rudolf von Siebeneich (heute: 									Bretzfeld-Siebeneich, <hi rend="italic">Sibeneich</hi>) und sein 									Bruder Hartmann, Kellermeister Heinrich, Schultheiß Walter von 									Oberehnheim (<hi rend="italic">Ehenheim</hi>) und Helfrich von 									Marly (<hi rend="italic">Marley</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stiftet auf seinem Eigengut und mit 								Zustimmung seines ihm dort nachfolgenden Sohnes Herzog Friedrichs 								von Schwaben das <hi rend="spaced">Hospital zu Hagenau</hi> samt 								einer zu seinem und seiner Eltern Gedächtnis errichteten <hi rend="spaced">Kirche zu Ehren der hl. Maria, des Apostels 									Paulus und des hl. Nikolaus</hi> (<hi rend="italic">oratorium … 									in honore dei genitricis Marię, Pauli apostoli, Nycolai 									confessoris</hi>), das einem Propst und vier Priestern des 								Prämonstratenserordens übergeben wird. Er stattet das Hospital mit 								Gütern und Einkünften aus, darunter einem Stück Landes in 								Leitersweiler (<hi rend="italic">Lutericheswilre</hi>), allen 								Zehentrechten von seinen Einkünften im Elsass (<hi rend="italic">omnibus decimis, quę de victualibus et pecuniis nostris 									proveniunt per totam Alsatiam</hi>) und Mühlen mit insgesamt bis 								zu 15 Rädern (<hi rend="italic">molendina vicelicet ad quantitatem 									quindecim rotarum</hi>). <span n="witnesses">Z.: Abt Erenbert 									von Neuburg, Vogt Rüdiger von Hagenau, Schultheiß Billung von 									Hagenau, Gottfried von Fleckenstein und sein Bruder Konrad, 									Werner von Bolanden, Kämmerer Rudolf von Siebeneich (heute: 									Bretzfeld-Siebeneich, <hi rend="italic">Sibeneich</hi>) und sein 									Bruder Hartmann, Kellermeister Heinrich, Schultheiß Walter von 									Oberehnheim (<hi rend="italic">Ehenheim</hi>) und Helfrich von 									Marly (<hi rend="italic">Marley</hi>)</span>. –<span n="clerk"> 									<hi rend="italic">Iohannes imp. aulę canc. in vice Conradi 										Maguntini archiep., Germanię vero 									archicanc.</hi></span>;<span n="clerk"> wohl von GK 									verfasst, geschrieben von JC mit Ausnahme der Signumzeile und 									des Monogramms, die – wahrscheinlich vor der Niederschrift des 									übrigen Textes – von GK eingetragen wurden</span>; <span n="seal"> SP.D.</span>.<span n="incipit"> 									<hi rend="italic">Inter opera caritatis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter opera caritatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Straßburg 								(A). Faks.: Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 								21. Drucke: Schoepflin, Alsatia dipl. 1, 291 n<hi rend="sup">o</hi> 344; MG.DF.I.995. Reg.: Stumpf 4517.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Identifizierung des Helfrich von Marly (Dép. 								Moselle) vgl. Plassmann, Struktur des Hofes, 287. – Zu den 								Reichsministerialen von Siebeneich vgl. Keupp, Dienst und Verdienst 								(Monographien zur Geschichte des Mittelalters, 48, 2002); bei der in 								der DD.-Ausgabe vorgenommenen Identifizierung von Sibeneich mit 								Siebnach im Allgäu handelt es sich um einen Irrtum. – Zum D. vgl. 								Opll, Amator ecclesiarum, MIÖG 88 (1980) 73 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1446197572" value="2015-10-30"></date><p n="author">Bernhard Metz</p><p>Der Zeuge Helfrich von Marley nennt sich nicht nach Marly, sondern nach Marlenheim, 20 km westlich von Straßburg. Er oder ein anderer Helfericus de Marley zeugt schon 1158 in einer Urkunde von Andlau für Sindelsberg, also in einem rein unterelsässischen Zusammenhang (Würdtwein, Nova Subs. dipl., IX 360 Nr. 185). Marlenheim wird im Mittelalter stets Marley, Marlei oder Marle genannt.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

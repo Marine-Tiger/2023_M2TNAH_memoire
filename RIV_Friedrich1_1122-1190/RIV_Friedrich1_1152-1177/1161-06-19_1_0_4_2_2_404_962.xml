@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 962</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-19_1_0_4_2_2_404_962"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-19_1_0_4_2_2_404_962"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-19_1_0_4_2_2_404_962</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1453219660" value="2016-01-19"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 962</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-19" to="1161-06-22">1161 Juni 19-22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Synode von Lodi</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich führt den Vorsitz auf der <span sameAs="recipient"><hi rend="spaced">Synode von Lodi</hi> </span>  und bestätigt gemeinsam mit den anwesenden geistlichen und weltlichen Fürsten die Wahl und die schon im Vorjahr zu Pavia (vgl. Reg. 822) erfolgte Konfirmation Papst Viktors IV. Als Anwesende werden neben den in Regg. 955, 959, 960 und 961 angeführten Zeugen folgende Persönlichkeiten genannt: Patriarch Pilgrim von Aquileia, die Elekten Guido von Ravenna und Rainald von Köln mit ihren Suffraganen, Erzbischof (Stephan) von Vienne mit seinen Suffraganen und Erzbischof (Hillin) von Trier, zehn Suffragane des Mainzer Sitzes, Rudolf von Zähringen, Elekt von Mainz, und Konrad von Wittelsbach, Elekt von Mainz, zahlreiche Bischöfe, darunter Bischof Uguccio von Vercelli, Prioren, Äbte, Pröpste und andere Geistliche sowie Herzog (Theobald) von Böhmen und fünf Senatoren aus Rom. Des weiteren finden sich Boten der Könige (Ludwig VII.) von Frankreich, (Heinrich II.) von England und des (Herzogs Boleslaw IV.) von Polen ein, die ihre Zustimmung bekunden. Schriftlich entschuldigen sich die Könige (Waldemar) von Dänemark, (Hakon Herdebred oder Magnus Erlingson) von Norwegen, (Geisa II.) von Ungarn und (Vladislav) von Böhmen, sechs Erzbischöfe, 20 Bischöfe und viele Äbte der Zisterzienser (Acerbus Morena: <hi rend="italic">abbates Claravallenses</hi>) und anderer Orden sowie Pröpste und erkennen Viktor ausdrücklich als Papst an. Auf dieser Synode setzt Viktor IV. den Elekten Rudolf von Mainz, der den Kaiser vergeblich durch Geschenke für sich zu gewinnen versucht hatte, und den später gewählten Propst Christian von Merseburg gemäß dem Kirchenrecht ab und inthronisiert den vom Herrscher favorisierten Konrad von Wittelsbach, einen Verwandten Friedrichs, als Erzbischof von Mainz.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Acerbus Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 138 ff., Ann. s. Petri Erph. antiqui, ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 20, Ann. s. Petri Erph. mai., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 58, Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 181, Ann. s. Disibodi, MG. SS XVII, 30, Gislebert von Mons, ed. Vanderkindere, 65 (zu 1160), Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 106 (zu Cremona) und 113 (zu 1163), Ann. Laubienses, MG. SS IV, 24 (zu 1161 Mai, Cremona), Cron. Reinhardsbrunn., MG. SS XXX/1, 537 (zu Mai 21).</p></div>
+				
+				
+					<div type="commentary"><p>Zum ursprünglichen Termin der Kirchenversammlung und zur Wahl des Ortes vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-05-21_1_0_4_2_2_381_939.html" type="internal" n="regesten">939</ref>. Zur Interpretation der bei Acerbus Morena genannten <hi rend="italic">abbates Claravallenses</hi>  vgl. Güterbock in der Morena-Edition, 139 Anm. 5. - Die hier überlieferten, angeblichen Zustimmungen zu Viktor IV. aus anderen Königreichen wurden nur teilweise gegeben, vgl. etwa - zu Ungarn - Holtzmann, Alexander III. und Ungarn, Ungar. Jahrbücher 6 (1927) 408. Die Vorgänge der Mainzer Wahl von 1160/61 sind quellenmäßig erfaßt bei <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Reg. Geschichte Mainzer Erzbischöfe 1, S. 378 ff., vgl. aber auch Cron. Reinhardsbrunn., MG. SS XXX/1, 537 (Wahl Christians von Mainz zu 1161 April 2; dagegen in Cron. s. Petri Erf. mod., 180: zu 1160 Oktober 29) sowie Eberbacher Chronik, ed. Widmann, NA 13 (1888) 134 (Absetzung irrig nach Mainz verlegt). - Zur Reaktion der Zähringer vgl. das Schreiben Herzog Bertholds IV. von Burgund an König Ludwig VII. von Frankreich (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-06-20_1_0_4_2_2_595_1153.html" type="internal" n="regesten">1153</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0116" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1097</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-04-00_2_0_4_2_2_539_1097"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-04-00_2_0_4_2_2_539_1097"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-04-00_2_0_4_2_2_539_1097</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244658" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1097</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-04-01" to="1162-06-30">(1162 April-Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Pavia ?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bellefontaine</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>nach einem Empfängerentwurf im Stil der burgundisch-el-sässischen Zisterzienserdiplome verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Rainald, Erzbischof von Köln und Erzkanzler für Italien, die Bischöfe Heinrich von Lüttich, Ortlieb von Basel und Hermann von Konstanz, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), die Markgrafen Otto von Meißen und Dietrich von der Lausitz und dessen Bruder, Graf Dedo (von Groitzsch), Markgraf Albert von Sachsen, Graf Ulrich von Lenzburg, ..., die Grafen Konrad von Amöneburg, Tiebold von Lechsgemünd und Rudolf von Pfullendorf, Markgraf Wilhelm von Montferrat</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Intervention seines Kapellans, des Archidiakons und Thesaurars von Besançon, Magister Eberhard, das Augustiner-Chorherrenstift <span sameAs="recipient"><hi rend="spaced">Bellefontaine</hi> </span>  unter Prälat Raimbald in seinen Schutz und bestätigt ihm die Besitzungen und Rechte mit dem Neubruchzehent, behält sich jedoch die kaiserlichen Rechte vor. <span n="witnesses">Z.: Rainald, Erzbischof von Köln und Erzkanzler für Italien, die Bischöfe Heinrich von Lüttich, Ortlieb von Basel und Hermann von Konstanz, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), die Markgrafen Otto von Meißen und Dietrich von der Lausitz und dessen Bruder, Graf Dedo (von Groitzsch), Markgraf Albert von Sachsen, Graf Ulrich von Lenzburg, ..., die Grafen Konrad von Amöneburg, Tiebold von Lechsgemünd und Rudolf von Pfullendorf, Markgraf Wilhelm von Montferrat</span>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi> </span>; <span n="clerk">nach einem Empfängerentwurf im Stil der burgundisch-el-sässischen Zisterzienserdiplome verfaßt und geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Desiderium, quod ad</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderium, quod ad</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Besançon (A). Drucke: Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh., 165; MG. DF. I. 370.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung (nach den Zeugen) und zur Frage einer doppelten Rekognition (eine andere zeitgenössische Hand fügte eine zweite Rekonition hinzu) vgl. Scheffer-Boichorst, a. a. O. sowie die vorsichtigere Bewertung in der Vorbemerkung zum D. - Nach der Nennung Graf Ulrichs von Lenzburg in der Zeugenliste fehlen im Original ein bis zwei Zeugennamen. - Bei Bellefontaine handelte es sich nicht um ein eigenes Stift, sondern um ein Priorat des Augustiner-Chorherrenstiftes St. Paul in Besançon. - Bemerkenswert ist die Bezeichnung Raimbalds als <hi rend="italic">perlatus</hi>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0150" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_370" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

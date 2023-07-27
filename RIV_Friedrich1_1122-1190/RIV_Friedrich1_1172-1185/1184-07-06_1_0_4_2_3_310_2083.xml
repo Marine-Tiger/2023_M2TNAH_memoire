@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2083</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1184-07-06_1_0_4_2_3_310_2083"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1184-07-06_1_0_4_2_3_310_2083"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-07-06_1_0_4_2_3_310_2083</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598503" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2083</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-07-06" to="1184-07-06">1184  recte: 1174  Juli 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(II<hi rend="sup">o</hi>  non. iulii, Ratisponę)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Mogvntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von HE</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Heinrich von Salzburg und Wichmann von Magdeburg, die Bischöfe Kuno von Regensburg und Heinrich von Gurk, die Pröpste Sigbodo von Salzburg, Albert von der Maximilianszelle (bei Bischofshofen) und Roman von Gurk, die Herzoge Heinrich (der Löwe) von Bayern und Sachsen, Heinrich von Österreich und Hermann von Kärnten, Burggraf Heinrich von Regensburg, Heinrich von Altendorf, Otto von Buch, Meingoz von Surberg, Eckhard von Altentann und Lupold von Nockstein (<hi rend="italic">Iohstein</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt dem <hi rend="spaced">Kloster St. Lambrecht</hi>  in Kärnten das Bergregal auf seinen Besitzungen samt allen gegenwärtigen und künftig noch zu erschließenden Salinen und insbesondere den Kupferbergbau im Pibertal (Kainachtal). <span n="witnesses">Z.: die Erzbischöfe Heinrich von Salzburg und Wichmann von Magdeburg, die Bischöfe Kuno von Regensburg und Heinrich von Gurk, die Pröpste Sigbodo von Salzburg, Albert von der Maximilianszelle (bei Bischofshofen) und Roman von Gurk, die Herzoge Heinrich (der Löwe) von Bayern und Sachsen, Heinrich von Österreich und Hermann von Kärnten, Burggraf Heinrich von Regensburg, Heinrich von Altendorf, Otto von Buch, Meingoz von Surberg, Eckhard von Altentann und Lupold von Nockstein (<hi rend="italic">Iohstein</hi>)</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Mogvntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von HE</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Venerabilis et pia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Venerabilis et pia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv St. Lambrecht (A). Drucke: Zahn, UB.des Herzogtums Steiermark 1, 532 n<hi rend="sup">o</hi>  560; MG.DF.I.623. Faks.: Koch, Schrift der Reichskanzlei Abb.77 Teilfaks. Reg.: Stumpf 4164.</p></div>
+				
+				
+					<div type="commentary"><p>Die ebenso wie in DF.I.626 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1184-08-02_1_0_4_2_3_316_2089.html" type="internal" n="regesten">2089</ref>) verschriebene Jahreszahl ist nach der Ortsangabe wie nach der Schrift- und Diktatbestimmung auf 1174 zu korrigieren. — Der hier genannte Erzbischof Heinrich von Salzburg war erst kurz zuvor gewählt worden, siehe dazu oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-06-24_2_0_4_2_3_308_2081.html" type="internal" n="regesten">2081</ref>; später wirkte er als Bischof Heinrich III. von Brixen, vgl. dazu Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 267; der als Zeuge genannte Meingoz von Surberg ist identisch mit dem gleichnamigen Burggrafen von Salzburg, vgl. dazu Plassmann, a.a.O., 270.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0113" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_623" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

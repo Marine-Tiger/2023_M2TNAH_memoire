@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †343</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-08-13_1_0_4_2_1_345_F343"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-08-13_1_0_4_2_1_345_F343"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-08-13_1_0_4_2_1_345_F343</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1366724984" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †343</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-08-13" to="1155-08-13">1155 August 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus augusti, Nurinberc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Georg</hi>  <hi rend="spaced">Prüfening</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Pfalzgraf Otto der Ältere (von Wittelsbach), Berthold von Andechs, Markgraf Berthold von Cham, Pfalzgraf Friedrich Wittelsbach), die Grafen Otto von Valley, Rapoto von Ortenburg und Gebhard <hi rend="italic">de Tollenstein</hi>, Ludwig von Lupburg, Heinrich von Altendorf, Meinhard von Parkstein, Gottfried von Wöhr (<hi rend="italic">Werde</hi>), Albert von Kamm (<hi rend="italic">Chambe</hi>), Burchard von Stein, Werner von Giersdorf (<hi rend="italic">Gibestorf</hi>), Otnand von Eschenau (<hi rend="italic">Eschenadere</hi>) und Regil <hi rend="italic">de Otericheshusen</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Bischof Otto von Bamberg gegründete Kloster <span sameAs="recipient"><hi rend="spaced">St. Georg</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Prüfening</hi> </span>  auf Bitten von Bischof Eberhard von Bamberg und Abt Erbo in seinen Schutz und bestätigt ihm die namentlich angeführten Besitzungen und Rechte, darunter vor allem die Freiheit von allen eigenkirchlichen Ansprüchen der Bamberger Bischöfe und von den Forderungen der Vögte, die freie Abtwahl, das Asylrecht und den Neubruchzehnten. <span n="witnesses">Z.: Pfalzgraf Otto der Ältere (von Wittelsbach), Berthold von Andechs, Markgraf Berthold von Cham, Pfalzgraf Friedrich Wittelsbach), die Grafen Otto von Valley, Rapoto von Ortenburg und Gebhard <hi rend="italic">de Tollenstein</hi>, Ludwig von Lupburg, Heinrich von Altendorf, Meinhard von Parkstein, Gottfried von Wöhr (<hi rend="italic">Werde</hi>), Albert von Kamm (<hi rend="italic">Chambe</hi>), Burchard von Stein, Werner von Giersdorf (<hi rend="italic">Gibestorf</hi>), Otnand von Eschenau (<hi rend="italic">Eschenadere</hi>) und Regil <hi rend="italic">de Otericheshusen</hi>  </span>. - Unter Verwendung der Urkunde Bischof Eberhards von Bamberg von 1156 (Mon. Boica 13, 181 n<hi rend="sup">o</hi>  16) und der Prüfeninger Traditionsnotiz über eine am Hof Friedrichs zu Laufen vollzogene Handlung (Mon. Boica 13, 115 n<hi rend="sup">o</hi>  68; Stumpf 4067a) - für die Namen der Zeugenliste - abgefaßt; <span n="seal">SP. 2.</span>  <span n="incipit"><hi rend="italic">Quoniam regalis nobilitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam regalis nobilitas</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung; Angebl</hi>. Orig.: Hauptstaatsarchiv München (A). Druck: Mon. Boica 13, 176 n<hi rend="sup">o</hi>  15; vgl. ebenda 29<hi rend="sup">a</hi>, 335 n<hi rend="sup">o</hi>  493. Reg.: Nürnberger UB. 46 n<hi rend="sup">o</hi>  68 (zu 1156); Stumpf 3750 zu 1156.</p></div>
+				
+				
+					<div type="commentary"><p>Die vorliegende Urkunde stellt ein Glied in einer umfangreichen Prüfeninger Fälschungsgruppe, die in der ersten Hälfte des 13. Jh. angefertigt wurde, dar, vgl. dazu Hirsch, Urkundenfälschungen des Klosters Prüfening, MIÖG 29 (1908) 1 ff. Gegen Ficker, Beiträge zur Urkundenlehre 1, 33 hat Simonsfeld, Jahrbücher 465 Anm. 165 die Unechtheit nochmals durch den Hinweis auf das Itinerar des Kaisers betont; dieses Argument trifft bei der Einreihung des Stückes zum Jahr 1155,wie die Datierung angibt, noch deutlicher zu, da Friedrich damals in Italien weilte. - Das Siegel ist ein dem echten Exemplar nachgebildetes Falsum mit der unrichtigen Namensform <hi rend="italic">Friderius</hi>  statt <hi rend="italic">Fredericus</hi>. - Zum Sachverhalt vgl. zuletzt Schmitz, Kloster Prüfening (Misc. Bavar. Monac. 49, 1975) 17 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0115" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210232%22" type="external" n="unkown">Abbildung im LBA Marburg</ref> mit abweichender Datierung (11.8.1155)</item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

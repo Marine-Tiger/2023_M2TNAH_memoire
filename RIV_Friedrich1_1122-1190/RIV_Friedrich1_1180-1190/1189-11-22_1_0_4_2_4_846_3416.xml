@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3416</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-22_1_0_4_2_4_846_3416"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-22_1_0_4_2_4_846_3416"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-22_1_0_4_2_4_846_3416</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3416</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-22" to="1189-11-22">1189
+									(November 20, 21 oder 22)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>zwischen <hi rend="italic">Constantia</hi> (Harmanli an der Marica)  und Adrianopel (Edirne)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt eine byzantinische Gesandtschaft, 								die ein in arrogantem Ton gehaltenes Schreiben Kaiser Isaaks (II.) 								Angelos (Hist. peregrinorum: <hi rend="italic">litteras plenas fastu 									et arrogancia</hi>) überbringt. Darin beharrt der Basileus wegen 								des Plans Friedrichs, nach Adrianopel vorzurücken, von neuem auf 								seinem feindseligen Standpunkt und gibt seiner Freude darüber 								Ausdruck, die Deutschen nunmehr gleichsam in seinem Netz zu halten. 								Die Gesandten sagen dem Kaiser den Tod vor Ostern (1190) voraus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. peregrinorum, ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 145; Niketas Choniates II/5, ed. Bekker, 537 bzw. ed. 								van Dieten, 410 (deutsche Übersetzung bei Grabler, Abenteurer auf 								dem Kaiserthron, 214); vgl. Dölger – Wirth, Reg. d. Kaiserurkunden 								d. oström. Reiches 2, n<hi rend="sup">o</hi> 1599 (zu 1189 November 								Mitte).</p></div>
+				
+				
+					<div type="commentary"><p>Unsere zeitliche Einreihung richtet sich nach dem 								Eintreffen der Gesandten bei Hofe, vgl. dazu die Analyse der Quellen 								bei Zimmert, Der deutsch-byzantinische Konflikt, Byzantin. Zs. 12 								(1903) 62 f. – Dass die Quellen hier tendenziös berichten, ist 								einsichtig. Dennoch waren die Beziehungen zwischen dem Staufer und 								dem byzantinischen Hof damals unverkennbar von starken Spannungen 								geprägt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

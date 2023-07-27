@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 69</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-12_1_0_4_2_1_69_69"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-12_1_0_4_2_1_69_69"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-03-12_1_0_4_2_1_69_69</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235312" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 69</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-03-12" to="1152-03-12">1152 März 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII idus mart., Aquisgrani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhards II. von Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Data per manum Arnoldi canc. vice archicanc. Heinrici Moguntini archiep.</hi></notarius>
+				
+				
+					<scribe>nach Bamberger Diktat geschrieben vom Bamberger Kleriker Gotebold</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Ortlieb von Basel, Abt Wibald (<hi rend="italic">Gwinebaldvs</hi>) von Corvey, Markgraf Albrecht von Sachsen, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt zu seinem und seines in der Domkirche zu Bamberg beigesetzten Oheims und Vorgängers, König Konrad III., ewigem Angedenken auf Bitten Bischof <span sameAs="recipient"><hi rend="spaced">Eberhards II. von Bamberg</hi> </span>  diesem, seinen Nachfolgern und seiner Kirche zur Hebung des religiösen Lebens die in weltlicher und geistlicher Hinsicht in trostlosem Zustand befindliche Reichsabtei Niederaltaich (<hi rend="italic">abbatiam nostram Altaha</hi>). Der Bischof oder sein kanonisch gewählter Nachfolger hat das Recht der Investitur des Abtes, die Vogtei mit den Ministerialen und Hörigen beiderlei Geschlechts geht an die Bamberger Kirche über, wobei dem Abt und den Mönchen ihre Einkünfte (<hi rend="italic">stipendia</hi>) aber unvermindert erhalten bleiben sollen; die jährlichen Abgaben an den Fiskus (<hi rend="italic">Ea vero, quę fisco exrinde annuatim solvebantur</hi>) fallen künftig an den Bischof, der aber die bisherigen Verpflichtungen des Klosters gegenüber dem Reich übernimmt und für die Bedürfnisse der Abtei sorgt (<hi rend="italic">quatenus episcopus vice abbatis plenius et devotius curię regali deservire et necessitatibus predicti monasterii commodius et uberius providere valeat</hi>). <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Ortlieb von Basel, Abt Wibald (<hi rend="italic">Gwinebaldvs</hi>) von Corvey, Markgraf Albrecht von Sachsen, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Data per manum Arnoldi canc. vice archicanc. Heinrici Moguntini archiep.</hi> </span>; <span n="clerk">nach Bamberger Diktat geschrieben vom Bamberger Kleriker Gotebold</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Quia placuit altissimo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia placuit altissimo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 11, 164 n<hi rend="sup">o</hi>  42 und 29<hi rend="sup">a</hi>, 310 n<hi rend="sup">o</hi>  484 Reg. aus A; MG. DF. I. 3. Faks.: Kaiserurk. in Abb. X, 7b. Reg.: Stumpf 3618.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Schreiber und zu den Abweichungen von der Kanzleiregel in der Gestaltung des Eschatokolls vgl. Föhl, Eberhard II., MÖIG 50 (1936) 80 ff. und die Vorbemerkung zum D.; das Siegel wurde erst nach der Niederschrift des Eschatokolls aufgedrückt, da es Teile desselben verdeckt, was wohl mit der Anfertigung des endgültigen königlichen Typars zusammenhängt, vgl. Jaffé, Mon. Corb. 506 n<hi rend="sup">o</hi>  377 und Deér, Siegel (FS. Hahnloser, 1961) 68 f., jetzt: VuF 21 (1977) 214. - Zu dieser Schenkung vgl. Guttenberg, Bistum Bamberg 1, Germ. Sacra 2/1, 152, wo auch auf die Bestätigung durch Eugen III. (JL. 9590) und die späteren DD. F. I. (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-00_3_0_4_2_1_102_102.html" type="internal" n="regesten">102</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-10-00_1_0_4_2_1_146_146.html" type="internal" n="regesten">146</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-02-03_1_0_4_2_1_208_208.html" type="internal" n="regesten">208</ref>) in dieser Angelegenheit Bezug genommen ist. - Zur Lage des Klosters in dieser Zeit vgl. das Schreiben in der Tegernseer Briefsammlung, Plechl, Studien 4/1, DA 13 (1957) 87 f. n<hi rend="sup">o</hi>  201.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>DF.I.69 für Bischof Arducius von Genf ist bei Scalfati, Carte dell’Archivio arcivescovile di Pisa 3, 15 no 8, nach einer im dortigen
+</p>
+<p>Archiv überlieferten Kopie des 13. Jh. ediert.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0027" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210218%22" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2280159%22" type="external" n="unkown">Kopie, 14. Jhd.</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00185" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_3" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

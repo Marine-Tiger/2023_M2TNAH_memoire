@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2942</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-00-00_3_0_4_2_4_366_2942"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-00-00_3_0_4_2_4_366_2942"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-00-00_3_0_4_2_4_366_2942</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2942</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-01" to="1185-12-31">1185 –
+									–</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>–</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">der Wechsler Johannes, Mönch Wilhelm von 									Lieucroissant, Kellermeister Haimo und Mönch Eberhard (von 									Bellevaux), Propst Lambert von Vesoul, Pontius von Roche, 									genannt <hi rend="italic">Juget</hi>, und Richard von 									Loulens</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Daniel, kaiserlicher Legat in Burgund, beurkundet, 								dass Hugo von Avilley während eines Aufenthalts im Kloster Bellevaux 								in Gegenwart des Superiors Berenger, des Kellermeisters Haimo, des 								Sakristans Humbert, des Mönches Eberhard von Bellevaux und des 								Richard von Loulens diesem Kloster die namentlich angeführten Rechte 								und Güter übertragen habe, wegen welcher der genannte Hugo das 								Kloster zuvor böswillig angegriffen hatte. Weiters wird beurkundet, 								dass Hugo diesen Verzicht in seine (= Daniels) Hände gelobt hat, und 								auch für ein Landstück, das die Mönche neben der Grangie zu Trevey 									(<hi rend="italic">Trevirs</hi>) besitzen, garantiert. <span n="witnesses">Z.: der Wechsler Johannes, Mönch Wilhelm von 									Lieucroissant, Kellermeister Haimo und Mönch Eberhard (von 									Bellevaux), Propst Lambert von Vesoul, Pontius von Roche, 									genannt <hi rend="italic">Juget</hi>, und Richard von 									Loulens</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Mariotte, Le comté de Bourgogne, Annexe VI, 								207 n<hi rend="sup">o</hi> 9 (nach dem Original im 								Departementalarchiv Haute-Saône); Regg.: Mariotte, a.a.O., 								Annexe I, 172 n<hi rend="sup">o</hi> 10; Diestelkamp – Rotter, 								Urkundenregesten 1, 379 n<hi rend="sup">o</hi> 482.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

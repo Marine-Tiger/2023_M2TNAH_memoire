@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1800</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-07-23_1_0_4_2_3_25_1800"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-07-23_1_0_4_2_3_25_1800"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-07-23_1_0_4_2_3_25_1800</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606520" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1800</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-07-23" to="1168-07-23">1168 nach Juli 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(—)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Aller Wahrscheinlichkeit nach von Ulrich B unter Heranziehung eines Deperditums für Fulda von 1164/65 (Reg. 1462) verfaßt und — nach der Orthographie einiger Namen — wohl auch mundiert.</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Rainald von Köln und Wichmann von Magdeburg, Bischof Willeram von Brandenburg, Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen, Gerard von Nürings, Heinrich von Diez und Berthold von Schauenburg, Markward von Grumbach, Graf Boppo von Amöneburg, Kuno von Münzenberg, Hartmann von Büdingen, Werner von Bolanden, der kaiserliche Mundschenk Ludwig, Rudolf und Marschall Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das vom verstorbenen Abt Markward von Fulda und dessen beiden Pröpsten Rugger und Burkhard gegründete neue <hi rend="spaced">Hospital zu Fulda</hi>  in seinen Schutz, bestimmt, daß es keinen anderen Vogt haben solle als ihn selbst bzw. seinen Nachfolger im Reich und daß weder er selbst noch der Abt die Vogtei als Lehen vergeben oder Güter des Hospitals entfremden dürfen, gewährt dem Abt das Recht, <hi rend="italic">ex communi consilio fratrum et sapientum claustri sui</hi>  den Spitalmeister zu ernennen, und bestätigt Propst Rugger die von diesem mit Erlaubnis Abt Hermanns von Fulda, des Nachfolgers des Abtes Markward, in seiner (= des Kaisers) Gegenwart vorgenommene Übertragung von dessen Fuldaer Lehen zu <hi rend="italic">Nuyiunhaym</hi>  an das Hospital. <span n="witnesses">Z.: die Erzbischöfe Rainald von Köln und Wichmann von Magdeburg, Bischof Willeram von Brandenburg, Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen, Gerard von Nürings, Heinrich von Diez und Berthold von Schauenburg, Markward von Grumbach, Graf Boppo von Amöneburg, Kuno von Münzenberg, Hartmann von Büdingen, Werner von Bolanden, der kaiserliche Mundschenk Ludwig, Rudolf und Marschall Heinrich</span>. — <span n="clerk">Aller Wahrscheinlichkeit nach von Ulrich B unter Heranziehung eines Deperditums für Fulda von 1164/65 (Reg. 1462) verfaßt und — nach der Orthographie einiger Namen — wohl auch mundiert.</span> <span n="incipit"><hi rend="italic">Iustum et rationabile</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Iustum et rationabile</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 15. Jh. im Kopiar 432 (Fuldaer Kopiar VIII) f. 148 im Staatsarchiv zu Marburg (C). Drucke: Schannat, Hist. Fuldensis 2, 191 n<hi rend="sup">o</hi>  74 zu 1168; MG.DF.I.505 zu (1165 — 1166 Oktober, am ehesten 1166 Ende Januar). Reg.: Stumpf 4544 zu 1165 September — 1167 August 14.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. — Nach der Nennung des am 14. August 1167 verstorbenen Rainald von Dassel an der Spitze der Zeugenreihe wie auch nach der Nennung mehrerer Zeugen in D.504 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-01-29_1_0_4_2_2_984_1542.html" type="internal" n="regesten">1542</ref>) wurde das D. in der Diplomata-Ausgabe zeitlich eingeordnet; allerdings weisen sowohl die Erwähnung des 1165 wegen seiner alexandrinischen Haltung abgesetzten Abtes Markward als <hi rend="italic">bone memorie</hi>  († 1168 Juli 23) wie auch die seines Nachfolgers Hermann (1165 nach August 15, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-08-15_1_0_4_2_2_945_1503.html" type="internal" n="regesten">1503</ref>  — 1168 April 26) auf eine spätere Beurkundung hin, sodaß die Zeugenreihe wohl eher der Rechtshandlung zuzuordnen sein dürfte, vgl. dazu jetzt Herkenrath, Fuldaer Hospital, Hess.Jb.f.Landesgesch. 31 (1981) 48 ff. sowie den — irrtümlich nach Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-03-00_1_0_4_2_2_994_D1552.html" type="internal" n="regesten">1552</ref>  eingereihten — Hinweis im 2. Band der Regesta Imperii.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0025" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_505" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

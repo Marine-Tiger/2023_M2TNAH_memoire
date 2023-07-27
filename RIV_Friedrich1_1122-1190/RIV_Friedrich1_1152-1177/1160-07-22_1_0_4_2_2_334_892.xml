@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 892</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-07-22_1_0_4_2_2_334_892"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-07-22_1_0_4_2_2_334_892"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-07-22_1_0_4_2_2_334_892</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 892</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-07-22" to="1160-07-22">1160 Juli 22 und folgende Tage</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Beauvais</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Legaten des Kaisers finden sich mit kaiserlichen Schreiben auf der von den Königen Heinrich II. von England und Ludwig VII. von Frankreich einberufenen Synode zu Beauvais ein, an der Legaten Alexanders III. und Viktors IV. sowie Vertreter der beiden Königreiche teilnehmen. Hier soll über die Anerkennung des rechtmäßigen Papstes entschieden werden. Die Legaten des Kaisers werden nach drei Tagen in Frieden und in der Hoffnung auf eine einträchtige Lösung (<hi rend="italic">in spe concordie</hi>) entlassen, doch entscheiden sich die beiden Könige dann doch für Alexander. Die Schismatiker werden exkommuniziert.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Lamberti Waterlos Ann. Cameracenses, MG. SS XVI, 534, Gerhoch von Reichersberg, De investigatione Antichristi I 56, MG. Libelli de lite 3, 365 f. (nennt als Ort Toulouse), Schreiben Abt Fastrads von Clairvaux an Bischof Ognibene von Verona, Admonter Briefsammlung, ed. Hödl - Classen, MG. Briefe VI, 125 n<hi rend="sup">o</hi>  70, William Fitz Stephen, Vita S. Thomae, ed. Robertson, Materials for the history of Thomas Becket 3 (1877) 27 f.</p></div>
+				
+				
+					<div type="commentary"><p>Eine endgültige Klärung der Probleme dieser lange Zeit nach dem Bericht Gerhochs nach Toulouse und in den Herbst 1160 oder auch das Frühjahr 1161 verlegten Synode und ihre endgültige Fixierung auf Juli 1160 und nach Beauvais ist Cheney, The recognition of Pope Alexander III, English Historical Review 84 (1969) 474 ff., besonders 480 ff. und - ihr zustimmend - Classen, Das Konzil von Toulouse 1160: eine Fiktion, DA 29 (1973) 220 ff. zu verdanken, die beide auch in übersichtlicher Form sämtliche Quellenzeugnisse (bei uns nur diejenigen, in denen die kaserlichen Legaten erwähnt werden!) zusammenstellen. - Vgl. auch Kienast, Deutschland und Frankreich l, 203 mit Anm. 506 sowie Reuter, The papal schism, the Empire and the West (masch. phil. Diss., Merton College Oxford 1975) 37 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0100" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

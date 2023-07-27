@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2389</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-15_1_0_4_2_3_617_2389"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-15_1_0_4_2_3_617_2389"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-06-15_1_0_4_2_3_617_2389</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604574" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2389</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-06-15" to="1178-06-15">1178 Juni 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz zu Turin</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVIIo kal. iulii, in palacio Taurinensi)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Wachssiegel laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und sicherlich auch geschrieben von Burkhard</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich sagt den <hi rend="spaced">Konsuln und der Kommune von Como</hi>  zu, daß ihnen infolge der Verträge, die sie durch ihre Notlage gezwungen zur Auslösung ihrer gefangenen Mitbürger mit den Mailändern geschlossen haben oder noch schließen werden, hinsichtlich der Rückgewinnung ihrer dabei veräußerten Güter keinerlei Präjudiz erwachsen solle, und läßt seine Urkunde durch Ariald von Lucino und den Seneschall Waltericus an die Stadt übergeben. — <span n="clerk">Verfaßt und sicherlich auch geschrieben von Burkhard</span>; <span n="seal">Wachssiegel laut D.</span>  <span n="incipit"><hi rend="italic">Ex imperatorie nostre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex imperatorie nostre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Vetera monumenta civitatis Novocomi vom Ausgang des 13. Jh. 1, f. 4 aus notarieller Abschrift von A, Stadtbibliothek Como (D); Abschrift des 18. Jh., D. S. IV 9 f. 289 aus D, Biblioteca Ambrosiana zu Mailand (E). Druck: MG.DF.I.734. Reg.: Stumpf 4249.</p></div>
+				
+				
+					<div type="commentary"><p>Dieses eindeutig zu 1178 datierte Stück ist nicht zuletzt für die Einreihung des damit in engstem Zusammenhang stehenden D.733 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-14_3_0_4_2_3_615_2387.html" type="internal" n="regesten">2387</ref>) von großer Bedeutung. — Vgl. auch unten Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-11_1_0_4_2_3_625_2397.html" type="internal" n="regesten">2397</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0219" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_734" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

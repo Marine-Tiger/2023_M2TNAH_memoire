@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3213</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_4_0_4_2_4_640_3213"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_4_0_4_2_4_640_3213"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-12-25_4_0_4_2_4_640_3213</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3213</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-12-25" to="1188-12-25">(1188
+									um Dezember 25)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(wohl in Eger)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Heinrich von 									Altendorf, Gottfried von Plankenstein, Friedrich von Eger, 									Heinrich von Rackendorf, Berthold von Rothenstadt, Werner <hi rend="italic">economus</hi> in Zettlitz (<hi rend="italic">Zedliz</hi>), U(dal)schalk (<hi rend="italic">Usalcus</hi>) 									von Königsberg (<hi rend="italic">Chunigisberch</hi>), Heinrich 									von Plassenburg, Heinrich von Lohma, Ulrich von Lohma und 									Markward Reles</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>In Gegenwart Kaiser Friedrichs schenkt der 								kaiserliche Ministeriale Gottfried von Falkenberg (<hi rend="italic">Valchenberch</hi>), der bereits das Kreuz genommen hat, dem 								Kloster Reichenbach das Gut Streißenreut (<hi rend="italic">Stritisrivte</hi>). <span n="witnesses">Z.: Graf Heinrich von 									Altendorf, Gottfried von Plankenstein, Friedrich von Eger, 									Heinrich von Rackendorf, Berthold von Rothenstadt, Werner <hi rend="italic">economus</hi> in Zettlitz (<hi rend="italic">Zedliz</hi>), U(dal)schalk (<hi rend="italic">Usalcus</hi>) 									von Königsberg (<hi rend="italic">Chunigisberch</hi>), Heinrich 									von Plassenburg, Heinrich von Lohma, Ulrich von Lohma und 									Markward Reles</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Mon. Boica 14, 427 n<hi rend="sup">o</hi> 								37; Gradl, Monumenta Egrana I, 37 n<hi rend="sup">o</hi> 108; 								Baumann (Bearb.), Die Traditionen des Klosters Reichenbach am Regen 								(Qu. u. Erörterungen zur Bayer. Gesch. N.F. 38/1, 1991) 102 n<hi rend="sup">o</hi> 67 (zu 1188 Dezember 25, Eger); Reg. bei 								Friedrich, CD. regni Bohemiae I, 294 n<hi rend="sup">o</hi> 320a.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Kejř, Friedrich Barbarossa, Pocta 								akademiku Václavu Vaněčkovi 70 (Praha 1975) 16, und Ders., Böhmen, 								in: Friedrich Barbarossa (VuF 40, 1992) 275 mit Anmm. 190–191. – 								Vollmer, Reichs- und Territorialpolitik, masch. phil. Diss. 								(Freiburg i. Br. 1955) 289, weist generell darauf hin, dass sich der 								Kaiser damals die Verfügung über den durch frühere Schenkungen der 								Markgrafen von Vohburg entstandenen Außenbesitz des vohburgischen 								Hausklosters Reichenbach, soweit im Egerland gelegen, zu sichern 								wusste. – Für Reichenbach hatte der Herrscher bereits 1182 								geurkundet, siehe dazu DF.I. 832 (Reg. 2668); vgl. des Weiteren auch 								Reg. 2712.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

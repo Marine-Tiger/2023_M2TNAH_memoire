@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2113</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-12-27_1_0_4_2_3_340_2113"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-12-27_1_0_4_2_3_340_2113"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-12-27_1_0_4_2_3_340_2113</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599038" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2113</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-12-27" to="1174-12-27">1174 Dezember 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Belagerung von Roboreto (Alessandria)</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI kal. ian., in obsidione Roboreti)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und sicherlich auch geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Trier, Pfalzgraf Otto von Wittelsbach, Graf Heinrich von Diez, Marschall Berthold, (Markgraf) Heinrich Guercio, Markgraf Martellus, (der Hofrichter) Otto Novellus, Albert de Summo (aus Cremona), Syrus Salginbon (Salimbene von Pavia), Larbon (irrig statt: Carbo) de Aurello (aus Pavia), Wilhelm Cepula (aus Pavia), Wido und Reiner und Assalgitus von Sannazzaro de' Burgondi, Geiferius Yseinbardi (aus Pavia) und Busenardus Grandeuillani (aus Pavia)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt die <hi rend="spaced">Söhne Bertholds von Borgo San Donnino (heute: Fidenza) Friedrich und Otto</hi>  mit dem Lehen ihres Vaters, behält sich jedoch die Hälfte des Wegzolls vor. <span n="witnesses">Z.: Erzbischof Arnold von Trier, Pfalzgraf Otto von Wittelsbach, Graf Heinrich von Diez, Marschall Berthold, (Markgraf) Heinrich Guercio, Markgraf Martellus, (der Hofrichter) Otto Novellus, Albert de Summo (aus Cremona), Syrus Salginbon (Salimbene von Pavia), Larbon (irrig statt: Carbo) de Aurello (aus Pavia), Wilhelm Cepula (aus Pavia), Wido und Reiner und Assalgitus von Sannazzaro de' Burgondi, Geiferius Yseinbardi (aus Pavia) und Busenardus Grandeuillani (aus Pavia)</span>. — <span n="clerk">Verfaßt und sicherlich auch geschrieben von Burkhard</span>. <span n="incipit"><hi rend="italic">Si iustis fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si iustis fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1293 einer notariellen Abschrift von 1257, Staatsarchiv Mantua (C). Drucke: Ficker, Forschungen 4, 187 n<hi rend="sup">o</hi>  147; MG.DF.I.635. Reg.: Stumpf 4173a.</p></div>
+				
+				
+					<div type="commentary"><p>Zu einer weiteren Überlieferung, die auf C beruht und nach den Namen Friedrichs und Ottos von Borgo San Donnino die Worte <hi rend="italic">marchionibus Pallavicini</hi>  einschaltet, vgl. die Vorbemerkung zum D. — Die Arenga erinnert an Diplome Konrads III., so daß möglicherweise ein Deperditum dieses Herrschers für Berthold von Borgo San Donnino existiert haben dürfte, vgl. dazu Herkenrath, Reichskanzlei 1174 bis 1180, 73 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0124" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_635" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

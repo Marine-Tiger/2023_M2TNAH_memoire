@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1706</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-14_1_0_4_2_2_1151_1706"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-14_1_0_4_2_2_1151_1706"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-08-14_1_0_4_2_2_1151_1706</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1706</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-08-14" to="1167-08-14">(1167 nach August 14)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gerhard</hi>  <hi rend="spaced">Köln</hi>  <hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Alpheim</hi>  <hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Volmarstein</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und sicherlich auch geschrieben von Wortwin</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bittet den Vogt <span sameAs="recipient"><hi rend="spaced">Gerhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>, <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Alpheim</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Volmarstein</hi> </span>  nachdrücklich, sich für die Wahl des Kanzlers Philipp zum Erzbischof von Köln einzusetzen, da nur dieser allein geeignet sei, die Nachfolge Erzbischof Rainalds anzutreten, der nach seinem glanzvollen Sieg über die Römer (vgl. Reg. 1664) plötzlich vom Tod dahingerafft worden sei. - <span n="clerk">Verfaßt und sicherlich auch geschrieben von Wortwin</span>. <span n="incipit"><hi rend="italic">Post gloriosam victoriam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Post gloriosam victoriam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. aus dem Briefbuch des Ivo von Siegburg im Cod. Aug. 27. 9. f. 465, Herzog-August-Bibliothek zu Wolfenbüttel (D). Drucke: Böhmer, Acta imp. 118 n<hi rend="sup">o</hi>  126; MG. DF. I. 535. Reg.: Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  902 und 906; Stumpf 4089.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem Tod Rainalds von Dassel, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-08-02_1_0_4_2_2_1142_1697.html" type="internal" n="regesten">1697</ref>. - Der Kölner Vogt war unter den Teilnehmern des 4. Italienzuges, wie seine Nennung als Zeuge in DF. I. 532 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-08-01_2_0_4_2_2_1136_1691.html" type="internal" n="regesten">1691</ref>) zeigt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0300" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

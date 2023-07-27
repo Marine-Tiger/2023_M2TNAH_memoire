@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2277</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1160-00-00_1_0_4_2_3_505_2277"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1160-00-00_1_0_4_2_3_505_2277"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-00-00_1_0_4_2_3_505_2277</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456305719" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2277</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-01-01" to="1160-12-31">1160 — 1177</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt den <hi rend="spaced">Lehensträgern, Ministerialen und sonstigen Getreuen im Bistum Halberstadt</hi>  mit, daß es gemäß einem wegen unbefugter Münzprägung in ihrem Bistum bei Hofe gefällten Fürstenspruch über die ausschließlich dem Bischof zustehende Kompetenz zur Münzprägung in seiner Diözese (<hi rend="italic">quod in epischopatu alicuius episcopi nullus omnino aliquam monetam veram vel falsam absque conscientia et voluntate episcopi, cuius ipsa dyocesis est, facere potest vel habere</hi>) verboten sei, in der Diözese Halberstadt ohne Erlaubnis des Bischofs Gero Münzen zu schlagen. — Gewisse Anklänge an den Mandatsstil der sechziger Jahre reichen zur Diktatbestimmung nicht aus. <span n="incipit"><hi rend="italic">Per presentes nostre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Per presentes nostre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. des Originaltranssumptes König Adolfs von 1295 Januar 9 (B.-Samanek Reg. 524) im Copiale A des Bistums Halberstadt, einst in der Gymnasialbibliothek zu Halberstadt, Mscr. Nr. 60, f. 19, Verbleib derzeit unbekannt (C). Drucke: Schmidt, UB.Hochstift Halberstadt 1, 241 n<hi rend="sup">o</hi>  280; MG.Const l, 272 n<hi rend="sup">o</hi>  194; MG.DF.I.686. Regg.: Diestelkamp — Rotter 1, Urkundenregesten 1, 333 n<hi rend="sup">o</hi>  425 zu (vor 1174 Oktober); Stumpf 4558 zu 1160 — 1177.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung kann nur nach der Amtszeit Bischof Geros vorgenommen werden, wobei freilich kaum anzunehmen ist, daß dieser Spruch kurz vor seiner in Venedig erfolgten Absetzung ergangen ist, vgl. dazu die Vorbemerkung zum D. sowie die davon abweichende, aber nicht näher begründete Datierung durch Diestelkamp — Rotter, a.a.O.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0177" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_686" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._272" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

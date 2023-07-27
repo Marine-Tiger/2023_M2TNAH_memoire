@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 153</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-29_1_0_4_2_1_153_153"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-29_1_0_4_2_1_153_153"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-12-29_1_0_4_2_1_153_153</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236456" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 153</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-12-29" to="1152-12-29">1152 Dezember 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Trier">Trier</placeName>
+												<location><geo decls="#WGS">50, 6.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  kal. ianuarii, Treueris)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cambrai</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>VU.: DK. III. 143, geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Hillin von Trier, die Bischöfe Stephan von Metz, Konrad von Worms, Heinrich von Lüttich, Philipp von Osnabrück (<hi rend="italic">Osenburcgensis</hi>), Abt Wibald von Stablo, die Herzoge Heinrich von Sachsen, Matthäus von Lothringen, Gottfried von Löwen, Welf von Spoleto, Markgraf von Tuszien und Rektor von Sardinien, die Pfalzgrafen Otto von Wittelsbach, Hermann bei Rhein, Friedrich von Sommerschenburg, die Grafen Dietrich von Flandern, Heinrich von Namur</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der Kirche von <span sameAs="recipient"><hi rend="spaced">Cambrai</hi> </span>  gemäß den Verfügungen seiner genannten Vorgänger die Besitzungen und Rechte, insbesondere die Immunität, den Königsschutz und die Freiheit des Bischofs, der Stadt, der Kirche und des Territoriums von der <hi rend="italic">gaulum</hi>  genannten Abgabe, die der Graf von Flandern widerrechtlich einzuheben pflegt. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Hillin von Trier, die Bischöfe Stephan von Metz, Konrad von Worms, Heinrich von Lüttich, Philipp von Osnabrück (<hi rend="italic">Osenburcgensis</hi>), Abt Wibald von Stablo, die Herzoge Heinrich von Sachsen, Matthäus von Lothringen, Gottfried von Löwen, Welf von Spoleto, Markgraf von Tuszien und Rektor von Sardinien, die Pfalzgrafen Otto von Wittelsbach, Hermann bei Rhein, Friedrich von Sommerschenburg, die Grafen Dietrich von Flandern, Heinrich von Namur</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">VU.: DK. III. 143, geschrieben von A II. D</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Predecessorum debet privileya(!)</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Predecessorum debet privileya(!)</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Lille (A). Drucke: Miraeus-Foppens, Opera 1, 182; MG. DF. I. 43. Reg.: Wauters, Table chronol. 2, 369 zu 1153 Dez. 29; Stumpf 3657.</p></div>
+				
+				
+					<div type="commentary"><p>Über die Entstehungsgeschichte dieses D. sind wir durch den Bericht der Ann. Cameracenses, MG. SS XVI, 523 ff. eingehend unterrichtet, vgl. dazu Simonsfeld, Jahrbücher 145 ff., die Vorbemerkung zum D. und Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-12-25_1_0_4_2_1_148_148.html" type="internal" n="regesten">148</ref>. - Zu der Abgabe, die <hi rend="italic">gaulum</hi>  genannt wird, vgl. Brinckmeier, Glossar. dipl. 1, 884 und Vanderkindere, Cambrésis (Compte rendu des séances de la Comm. royale d'hist. 5. sér./tome 9 = 68, Bruxelles 1899) 10 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0054" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_43" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

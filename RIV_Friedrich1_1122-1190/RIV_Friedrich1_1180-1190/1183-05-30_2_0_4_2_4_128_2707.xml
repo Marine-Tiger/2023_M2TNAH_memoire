@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2707</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-30_2_0_4_2_4_128_2707"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-30_2_0_4_2_4_128_2707"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-05-30_2_0_4_2_4_128_2707</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843744" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2707</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-05-30" to="1183-05-30">(1179
+									Ende Juni – Anfang Juli), Magdeburg – 1183 (ca. Mai 30)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Eger (<hi rend="italic">Actum </hi> <hi rend="italic">apud Magdeburgk in curia solenni, datum in territorio Ratisponensi apud Egram</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem <hi rend="spaced">Augustiner-Chorherrenstift Neuwerk</hi> (in Halle) hundert 								Hufen in dem Wald von Schweinitz bei Jüterbog, die Bodo von 								Schochwitz dem Grafen Heinrich von Wettin und dieser vor dem Kaiser 								dem Stift aufgelassen hat.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fragmentarische Kop.: Repertorium U. 4a, 								Neuwerk n<hi rend="sup">o</hi> 37, S. 4, Staatsarchiv Magdeburg 								(jetzt: Landeshauptarchiv Sachsen-Anhalt, Abteilung Magdeburg) 								(R). Drucke: Bierbach, UB. der Stadt Halle 1, 93 n<hi rend="sup">o</hi> 90; MG.DF.I.*846. Reg.: Mülverstedt, 								Reg. archiep. Magdeburgensium 1, n<hi rend="sup">o</hi> 1663.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung der Beurkundung ergibt 								sich aus der angegebenen Jahreszahl 1183 und dem Aufenthaltsort 								(vgl. D.845 = Reg. 2706), die Rechtshandlung hatte dagegen schon 								1179 auf dem Hoftag zu Magdeburg stattgefunden, vgl. Reg. 2506. Aus 								diesem Grunde konnte die Übertragung auch schon in einer Urkunde 								Erzbischof Wichmanns von Magdeburg von 1182 Februar 14 (siehe 								gleichfalls den Hinweis oben bei Reg. 2506) Erwähnung finden.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_846" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2818</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_5_0_4_2_4_239_2818"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_5_0_4_2_4_239_2818"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-15_5_0_4_2_4_239_2818</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2818</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-15" to="1184-11-15">1184
+									November 15</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Kaiserin Beatrix stirbt. Sie wird (am 28. August 								1185) unter königlichen Ehren in Gegenwart ihres Sohnes, König 								Heinrichs (VI.), gemeinsam mit ihrer gleichfalls um diese Zeit 								verstorbenen Tochter (Agnes, siehe dazu oben Reg. 2788) im Dom zu 								Speyer beigesetzt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Aquenses, MG. SS XXIV, 38 (zu 1183, ohne 								Tagesdatum); Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. 								schol., 55 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 170 (ohne Datum); Ann. Ratisponenses, MG. SS XVII, 589 (ohne 								Datum); Ann. s. Rudberti Salisburg., MG. SS IX, 777 (ohne Datum); 								Ann. Floreffienses, MG. SS XVI, 625 (zu 1185); Ann. Stadenses, MG. 								SS XVI, 351 (zu 1185); Arnoldi Chron. Slavorum l. III cap. 10, MG. 								SS XXI, 154 (ohne Datum, a.a.O., Anm. 10 irrig zu 1185 gesetzt; 								führt das Unglück während des Mainzer Hoftages zu Pfingsten – oben 								Reg. 2762 – als böses Vorzeichen für den bevorstehenden Tod der 								Kaiserin an); Chounradi Schirensis Ann., MG. SS XVII. 630 (ohne 								Datum); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 134 (irrig zu 1185); Cont. Admunt., MG. SS IX, 586; Cont. 								Cremifanensis, MG. SS IX, 547 (ohne Datum); Cont. Zwetlensis altera, 								MG. SS IX, 542 (zu 1183); Cron. s. Petri Erford. mod., ed. 								Holder-Egger, MG. SS rer. Germ. in us. schol., 193; Ex gestis 								Henrici II. et Ricardi I., MG. SS XXVII, 107; Hermanni Altah. Ann., 								MG. SS XVII, 384 (ohne Datum); Otto von St. Blasien, Chronica, ed. 								Hofmeister, MG. SS rer. Germ. in us. schol., 38 = ed. Schmale, 								Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 78 (zu 1185; begraben 								in Speyer); B.-Baaken Reg. 4a (Begräbnis im Jahre 1185). – Vgl. dazu 								auch die Nekrologüberlieferungen: Teichmann, Das älteste Aachener 								Totenbuch, Zs. d. Aachener Geschichtsvereins 38 (1916) 137 n<hi rend="sup">o</hi> 316 (irrig zu November 14 mit dem Hinweis: 									<hi rend="italic">… que dedit ecclesie coronam auream et vas 									aureum et casulam magnam et pallium de examita rufa et partem de 									ligno domini … In anniversario marcam.</hi>); Necrologium 								Admuntense, MG. Necrologia II, 306 (zu November 16); Necrologium 								mon. s. Udalrici Augustensis civitatis, MG. Necrologia I, 127 (zu 								November 16); Necrologium von St. Bartholomäus in Frankfurt, ed. 								Bund, Memorialüberlieferung des Frankfurter Bartholomäusstiftes, 								Hess. Jb. f. Landesgesch. 32 (1982) 36 und 44, sowie Fischer, 								Kirchengeschichte Frankfurts während der Stauferzeit, Jb. f. fränk. 								Landesforsch. 52 (1992) 91; Necrologium ecclesiae beati Evasii 								Casalensis, ed. Avogadro, Mon. hist. patriae, Scriptores III (1848) 								Sp. 504 (zum 15. November mit dem Hinweis: <hi rend="italic">…, quae 									multa bona huic contulit ecclesiae</hi>; dieses Nekrolog 								verzeichnet im Übrigen auch die Todestage Herzog Friedrichs von 								Schwaben, des Vaters des Kaisers [a.a.O., 466: zum 4. April, vgl. 								dazu auch oben Reg. 26], des Kaisers selbst [vgl. unten Reg. 3470], 								Graf Rainalds, des Vaters Kaiserin Beatrix’ [a.a.O., 454: zum 22. 								Januar] und ihrer namentlich nicht genannten Mutter [a.a.O., 463: 								zum 22. März]; Kuen, Collectio scriptorum rerum 								historicarum-monasticarum-ecclesiasticarum, 5b (Ulm 1765 ff.) 16 f. 								(Feier des Jahrtags der Kaiserin im Augustiner-Chorherrenstift 								Rebdorf, das von Beatrix Reliquien erhalten hatte; vgl. dazu Opll, 								Amator ecclesiarum, MIÖG 88, 1980, 87 f. mit Anm. 89); Sauer, 								Bruchstücke des Nekrologiums des Klosters Rupertsberg, Ann. d. 								Vereins f. Nassauische Altertumskunde u. Geschichtsforsch. 17/2 								(1882) 3 (zu November 16); Necrologium Augiae minoris, MG. 								Necrologia I, 164 (zu November 14); Reimer, Todtenbuch des Speirer 								Domstifts, ZGORh 26 (1874) 441 (zu November 15) und 436 (mit dem 								Hinweis zum 28. September: <hi rend="italic">Hic agitur memoria 									Beatricis imperatricis que centum et viginti octo annis 									requievit in sepulchro Alberti regis [usque ad sepulturam ipsius 									Alberti] filii quondam Růdolphi regis de Habesburc.</hi>); 								Remling, Geschichte der Bischöfe zu Speyer 1, 413 f. mit Anmm. 904 								(irrig zu 1190 Oktober 16) und 905 (Hinweis auf die spätere Feier 								des Anniversars der Kaiserin im Speyerer Dom am 16. August); 								Kalendarium necrologicum canonicorum Spirensium recentius, ed. 								Böhmer, Fontes rer. Germ. 4 (1868) 325 (zu November 15); Chron. 								praesulum Spirensis civitatis, ed. Böhmer, Fontes rer. Germ. 4 								(1868) 345 f. (zu November 15); Metz, Das älteste Nekrolog des 								Speyrer Domstifts, AfD 29 (1983) 205 (zu November 15); Iohannis 								Seefried de Mutterstadt, Chronica Praesulum Spirensium, ed. Böhmer, 								Fontes rer. Germ. 4 (1868) 345 f.; Grafen, Spuren der ältesten 								Speyerer Necrologüberlieferung, Frühmittelalterl. Studien 19 (1985) 								409; Necrologium Undensdorfense, MG. Necrologia III, 191 (zu 								September 17); Auszug aus dem Nekrolog der Domkirche S. Eusebio zu 								Vercelli bei Mandelli, Il Comune di Vercelli nel Medio Evo, Tom. II 								(1857) 337 Anm. 1 (zu 1184 November 14); Vercelleser Nekrolog, Nr. 								837, zu dieser völlig unzulänglichen Edition durch Colombo – Pasté, 								Necrologi Eusebiani, in: Boll. stor.-bibl. subalp. 2–4, 6–7 sowie 25 								(1898–1899, 1901–1902 sowie 1923) vgl. den Hinweis bei Dormeier, 								Memoria in Vercelli, in: Memoria. Ricordare e dimenticare, hg. von 								Borgolte – Fonseca – Houben (Annali dell’Istituto italo-germanico in 								Trento. Contributi 15, 2005) 325 mit Anm. 88 (zu November 12).</p></div>
+				
+				
+					<div type="commentary"><p>Zum Tod Beatrix’ vgl. immer noch Giesebrecht – 								Simson, Kaiserzeit VI, 625 f.; zum Verhältnis des Kaisers zu seiner 								Gemahlin vgl. Vones-Liebenstein, Vir uxorius?, in: Stauferreich im 								Wandel. Ordnungsvorstellungen und Politik in der Zeit Friedrich 								Barbarossas, hg. von Stefan Weinfurter (Mittelalter-Forschungen 9, 								Stuttgart 2002) 189 ff., die unter Berufung auf die Überlieferung 								des Johann Seefried von Mutterstadt den 19. November als Todestag 								und das Benediktinerkloster Jouhé bei Dole als Todesort nennt (Wir 								halten dagegen an den Ausführungen von Giesebrecht – Simson, 								Kaiserzeit VI, 625 f. fest, der den – vor allem in der Speyerer 								Nekrologüberlieferung genannten – 15.11. als den am besten bezeugten 								Termin nennt.); zu ihrem Begräbnis in Speyer – das Datum des 28. 								August 1185 weist wohl darauf hin, dass es sich dabei um die 								endgültige Beisetzung handelte – vgl. Ottenthal, Sieben 								unveröffentlichte Königsurkunden, MIÖG 39 (1923) 355, Ehlers, 								Metropolis Germaniae (Veröff. des Max-Planck-Instituts für 								Geschichte 125, 1996) 175 ff., 349 f. Nr. 11 und 370, und 								Vones-Liebenstein, a.a.O., 216 f. – Zu dem im Bartholomäusstift zu 								Frankfurt begangenen Anniversar für die Kaiserin vgl. Rauch, Sankt 								Bartholomäus in Frankfurt (Studien zur Frankfurter Gesch. 8, 1975) 								224 mit Anm. 1261. – Zum Grab der Kaiserin in Speyer vgl. Engels, 								Grablege, in: Papstgeschichte und Landesgeschichte. FS. f. Hermann 								Jakobs zum 65. Geburtstag (Beihefte zum Archiv für Kulturgeschichte, 								39, 1995) 239 f. mit Anmm. 59 und 63. – Zu den Stiftungen der 								Kaiserin für Aachen und Speyer, die anlässlich der Eintragungen 								ihres Todes erwähnt werden, vgl. Ganz, Hof und Kultur, in: Friedrich 								Barbarossa (VuF 40, 1992) 649 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

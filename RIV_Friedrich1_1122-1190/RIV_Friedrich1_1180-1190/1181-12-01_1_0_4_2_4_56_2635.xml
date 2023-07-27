@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2635</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-12-01_1_0_4_2_4_56_2635"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-12-01_1_0_4_2_4_56_2635"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-12-01_1_0_4_2_4_56_2635</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843269" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2635</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-12-01" to="1181-12-01">1181
+									Dezember 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Hoftag zu Erfurt (<hi rend="italic">kal. decembr., </hi> <hi rend="italic">in curia Erfordie celebrata</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Christiani 										Moguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>trotz gewisser Anklänge an den 									Kanzleistil lässt sich eine bestimmte Aussage über das Diktat 									nicht machen, manche Eigenheiten weisen auf GG als Mundator 									hin</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln, 									Wichmann von Magdeburg und Siegfried von Bremen, Bischof Anno 									von Minden, Herzog Bernhard von Westfalen und Engern, Markgraf 									Otto von Brandenburg, Graf Albert von Eberstein, Ludolf der 									Jüngere von Wöltingerode, Graf Sibodo von Scharzfeld, Vogt 									Lupold (von Hildesheim), Ludolf von Peine, Dietrich von Goltern 										(<hi rend="italic">Golthorne</hi>) und Konrad von 									Kemme</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Bistum 									Hildesheim</hi> den Besitz der Burg Homburg (<hi rend="italic">Hoemburc</hi>), die der ehemalige Herzog Heinrich (der Löwe) 								von den Hildesheimer Bischöfen zu Lehen trug. Der Nachweis betreffs 								der seit 30 Jahren und mehr bestehenden Besitzrechte ist auf dem 								Erfurter Hoftag vor ihm und zahlreichen Fürsten durch Bischof 								Adelhog von Hildesheim mittels Urkunden und Zeugen, nämlich nach 								Angaben der Grafen Hoger und Burchard von Wöltingerode, Dietrichs 								von Gieselwerder (<hi rend="italic">Insula</hi>), Widekinds von 								Schwalenberg, Graf Heinrichs von Schladen (<hi rend="italic">Slatheim</hi>), Engelmers und Friedrichs, erbracht worden. 									<span n="witnesses">Z.: die Erzbischöfe Philipp von Köln, 									Wichmann von Magdeburg und Siegfried von Bremen, Bischof Anno 									von Minden, Herzog Bernhard von Westfalen und Engern, Markgraf 									Otto von Brandenburg, Graf Albert von Eberstein, Ludolf der 									Jüngere von Wöltingerode, Graf Sibodo von Scharzfeld, Vogt 									Lupold (von Hildesheim), Ludolf von Peine, Dietrich von Goltern 										(<hi rend="italic">Golthorne</hi>) und Konrad von 									Kemme</span>. – <span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Christiani 										Moguntine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">trotz gewisser Anklänge an den 									Kanzleistil lässt sich eine bestimmte Aussage über das Diktat 									nicht machen, manche Eigenheiten weisen auf GG als Mundator 									hin</span>. <span n="incipit"><hi rend="italic">Imperialis 										mansuetudinis decet.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis 										mansuetudinis decet.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 15. Jh. im 								Kopialbuch des Bistums Hildesheim Kopiar VI 11 n<hi rend="sup">o</hi> 1232, Hauptstaatsarchiv Hannover (jetzt: 								Niedersächsisches Landesarchiv, Hauptstaatsarchiv Hannover), 1943 								durch Kriegseinwirkung vernichtet (B); Abschrift von 1609, ebenda, 								Aktenarchiv Celle, Briefschaften 57 a H n<hi rend="sup">o</hi> 8 								(C). Drucke: Orig. Guelf. 3, 547 n<hi rend="sup">o</hi> 86 ex 								authentico msct.; Janicke, UB. des Hochstifts Hildesheim 1, 394 n<hi rend="sup">o</hi> 406; MG.DF.I.818. Regg.: Erhard, Reg. 								Westf. 2, n<hi rend="sup">o</hi> 2100; Mülverstedt, Reg. archiep. 								Magdeburgensium 1, n<hi rend="sup">o</hi> 1639; Dobenecker, Reg. 								Thur. 2, n<hi rend="sup">o</hi> 607; Diestelkamp – Rotter, 								Urkundenregesten 1, 363 n<hi rend="sup">o</hi> 462; Stumpf 4332.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zur diplomatischen Kritik 								vgl. die Vorbemerkung zum D. – Zur Identifizierung des unter den 								Zeugen genannten Vogtes Lupold von Hildesheim vgl. Plassmann, 								Struktur des Hofes, 287. – Die Unterstützung des Kaisers für die 								Rückerwerbung der durch Heinrich den Löwen dem Bistum entfremdeten 								Burg Homburg wird auch im Chron. Hildesheimense, MG. SS VII, 857, 								erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_818" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 205</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-01-17_1_0_4_2_1_205_205"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-01-17_1_0_4_2_1_205_205"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-01-17_1_0_4_2_1_205_205</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237143" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 205</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-01-17" to="1154-01-17">(wohl kurz vor 1154 Januar 17)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Speyer">(Speyer)</placeName>
+												<location><geo decls="#WGS">49.3167, 8.4333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ortliebs</hi>  <hi rend="spaced">Basel</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Zezicolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DK. III. 204 (VU.) verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Burchard von Straßburg, Konrad von Eichstätt, Gunther von Speyer, die Grafen Sibert von Frankenburg (<hi rend="italic">Franthenburc</hi>), Ulrich (<hi rend="italic">Ovlricus</hi>) von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt aus gegebenem Anlaß auf Bitten Bischof <span sameAs="recipient"><hi rend="spaced">Ortliebs</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Basel</hi> </span>, der Fürsten, des Klerus und des Volkes die Verbesserung der Basler Münze (<hi rend="italic">pondere puritate in melius mutata</hi>), verbietet jede neuerliche Verschlechterung sowie jede unberechtigte Nachahmung derselben, erklärt die bischöfliche Gerichtsbarkeit für Mißachtungen dieser Rechte zuständig und verfügt, daß über Orte, in denen sich Falschmünzer aufhalten, das Interdikt verhängt werde (<hi rend="italic">divina censent ministeria</hi>). <span n="witnesses">Z.: die Bischöfe Burchard von Straßburg, Konrad von Eichstätt, Gunther von Speyer, die Grafen Sibert von Frankenburg (<hi rend="italic">Franthenburc</hi>), Ulrich (<hi rend="italic">Ovlricus</hi>) von Lenzburg</span>. - <span n="chancellor"><hi rend="italic">Zezicolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">nach DK. III. 204 (VU.) verfaßt und geschrieben von A II. D</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Ex nostri culmine</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex nostri culmine</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archives de l'ancien évêché de Bâle, Porrentruy (Pruntrut, Kanton Jura) (A). Drucke: Trouillat, Mon. de Bâle 1, 323 n<hi rend="sup">o</hi>  210; MG. DF. I. 67. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2003; Stumpf 3683.</p></div>
+				
+				
+					<div type="commentary"><p>Diktatanklänge zwischen unserem D., DK. III. 204 und DF. I. 69 für Genf (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-01-17_1_0_4_2_1_207_207.html" type="internal" n="regesten">207</ref>) lassen die Annahme zu, daß A II. D das vorliegende D. etwa um die gleiche Zeit wie D. 69 verfaßt hat. Gegen Simonsfeld, Jahrbücher 224 ist es also nicht nötig, die Ausstellung des D. auf einen Aufenthalt des Königs in Basel etwa im Mai 1154 zu verlegen. - Die entstellte Wiedergabe des Namens des Kanzlers, erklärt sich aus Zeizolfs erstem Auftreten im vorliegenden D. - Zum Inhalt des D. vgl. Kamp, Moneta regis, masch. phil. Diss. (Göttingen 1957) 17 f. und 31 f. und jetzt Wielandt, Basler Münzprägung (Schweizer. Münzkataloge 6, 1971) 22.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0073" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2212117%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_67" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

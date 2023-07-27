@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3113</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-11-11_1_0_4_2_4_538_3113"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-11-11_1_0_4_2_4_538_3113"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-11-11_1_0_4_2_4_538_3113</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3113</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-11-11" to="1187-11-11">(1187
+									vor November 11)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Kardinalbischof Heinrich von Albano teilt Kaiser 								Friedrich mit, dass er vom Papst zum Kreuzzugslegaten ernannt worden 								ist, und bittet ihn, für den Kreuzzug zu wirken.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Holtzmann, Zur Geschichte Friedrich 								Barbarossas, NA 48 (1930) 412 f.; Weiß, Urkunden der päpstlichen 								Legaten von Leo IX. bis Coelestin III. (Forschungen zur Kaiser- und 								Papstgeschichte des Mittelalters, Beihefte zu J.F. Böhmer, Regesta 								Imperii, 13, 1995) 275 n<hi rend="sup">o</hi> 14.</p></div>
+				
+				
+					<div type="commentary"><p>Die Ernennung des Kardinals, der zuvor Abt von 								Clairvaux gewesen war, zum Kreuzzugslegaten wird auch bei Gislebert 								von Mons, ed. Vanderkindere, 200, und in der Hist. de expeditione 								Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 10 								(deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 70) erwähnt. Zur Entsendung von Kreuzzugslegaten 								durch Papst Gregor VIII. vgl. des Weiteren Ann. Magdeburg., MG. SS 								XVI, 195; Chron. Montis Sereni, MG. SS XXIII, 160, Chron. reg. Col., 								ed. Waitz, MG. SS rer. Germ. in us. schol., 138, Gestorum Treverorum 								Cont. III., MG. SS XXIV, 387 und Iohannes de Piscina de 								transfretatione Friderici I., MG. SS XXII, 339. – Am 11. November 								1187 ist Heinrich noch an der Kurie nachweisbar, vgl. dazu 								Giesebrecht – Simson, Kaiserzeit VI, 672.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

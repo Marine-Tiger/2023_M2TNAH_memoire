@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3442</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-03-28_1_0_4_2_4_872_3442"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-03-28_1_0_4_2_4_872_3442"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-03-28_1_0_4_2_4_872_3442</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3442</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-03-28" to="1190-03-28">1190
+									März 21/22–28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gallipoli (Gelibolu) – Hellespont (Dardanellen)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer trifft am Vortag des Gründonnerstags 								(März 21) gesammelt in Gallipoli ein, wo man sich darauf einigt, die 								Überfahrt des gesamten Kreuzheeres von hier aus vorzunehmen. Schon 								am Tag darauf (= März 22) setzt Herzog Friedrich von Schwaben als 								Erster über das Meer. Hier erscheinen Legaten der Pisaner vor dem 								Kaiser, die ihn ihrer Ergebenheit versichern und ihm Schiffe und 								Galeeren für eine Belagerung von Konstantinopel anbieten. Der Kaiser 								überquert nach der Feier des Osterfestes (März 25) am 28. März als 								Letzter das <hi rend="italic">brachium sancti Georgii</hi>, nachdem 								zuvor das gesamte Kreuzheer auf Schiffen, die der Basileus zur 								Verfügung gestellt hat, den Meeresarm ohne Verlust eines einzigen 								Mannes übersetzt hat. Die 18 byzantinischen Geiseln begleiten den 								Kaiser, der nach der Überfahrt 13 von ihnen nach Konstantinopel 								zurückschickt und die restlichen fünf bis nach Philadelphia (heute: 								Alaşehir) weiterhin bei sich behält.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513 								(vgl. auch Boshof, Regesten d. Bischöfe von Passau 1, 292 n<hi rend="sup">o</hi> 961); Hist. de expeditione Friderici 								(Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 70 f. (deutsche 								Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 								125 f.); Epistola de morte, ed. Chroust, MG. SS rer. Germ. N.S. 5, 								174 (zu März 25 = Ostern); Hist. peregrinorum, ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 152 f.; Tageno, ed. Struve, Rerum Germanicarum 								Scriptores I (1717) 411 (nennt 1.500 <hi rend="italic">naves</hi> 								und 27 <hi rend="italic">galeas</hi>); Arnoldi Chron. Slavorum l. IV 								cap. 10, MG. SS XXI (Feier des Osterfestes = 25. März am Hellespont; 								ab dem 26. März Überquerung des Meeres auf Schiffen des Basileus); 								Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 148 								(zu März 29; 300 Schiffe); Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 294 englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 59 c. 22); vgl. auch Ann. Egmund., 								ed. Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. 								Ser. 61 (1933) 186 (zu 1189); Ann. Einsidlenses, MG. SS III, 148, , 								jetzt: Annalen des Klosters Einsiedeln, hg. C. von Planta, MG. SS 								rer. Germ. in us. schol. 78 (2007), 294; Ann. Engelbergenses, MG. SS 								XVII, 279 (zu 1187); Ann. Ianuenses 2, ed. Belgrano – Imperiale, 								Fonti per la storia d’Italia 12, 33; Ann. Pegav., MG. SS XVI, 267 								(zu nach März 18); Ann. Ratisponenses, MG. SS XVII, 590; Chron. 								Montis Sereni, MG. SS XXIII, 161 (200 Schiffe); Cont. Cremifanensis, 								MG. SS IX, 547 (zu März 26); Cron. s. Petri Erford. mod., ed. 								Holder-Egger, MG. SS rer. Germ. in us. schol., 195 (18.–25.März); 								Cron. Reinhardsbrunn., MG. SS XXX/1, 544; E Gervasii Tilleberiensis 								Otiis imperialibus, MG. SS XXVII, 380; Gesta Fed. I. imp. in 								expeditione sacra, ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 84 f. (mit teilweise unrichtigen bzw. nicht überprüfbaren 								Angaben); Gotifredi Viterbiensis Cont. Funiacensis et Eberbacensis, 								MG. SS XXII, 345; Ex Guidonis de Bazochiis Chronographia, MG. SS 								XXVI, 217; Hugonis Chron. Cont. Weingartensis, MG. SS XXI, 476 								(Termin = Ostern = 25.3.; nennt 1.500 <hi rend="italic">naves</hi> 								und 20 <hi rend="italic">galeas</hi>); Ioannis Długossii Annales 								lib. VI, ed. Budkowa et al. (1973) 146 (zu 1189); Niketas Choniates 								II/6, ed. Bekker, 539, bzw. ed. van Dieten, 411 f. (deutsche 								Übersetzung bei Grabler, Abenteurer auf dem Kaiserthron, 216: 								Überfahrt binnen vier Tagen); Roberti canonici s. Mariani 								Autissiodorensis Chron., MG. SS XXVI, 255 (spricht irrig von der 								Überquerung des Bosporus); Salimbene de Adamo von Parma, Chronica, 								MG. SS XXXII, 10; Sicardi ep. Cremon. Cronica, MG. SS XXXI, 169; 								Willelmi Chron. Andrensis, MG. SS XXIV, 719; Ex Willelmi 								Neuburgensis Historia Anglicana, MG. SS XXVII, 238 (berichtet irrig, 								das Kreuzheer sei durch Konstantinopel gezogen); Alberti Milioli 								Cron. imp., MG. SS XXXI, 648 (binnen fünf Tagen Überquerung des 								Meeres); Vetter, Nerses von Lampron’s Bericht, Histor. Jb. 2 (1881) 								290 (Überquerung des Meeres zu Ostern = 25. März); Bericht des `Imâd 								ad-Dîn al-Isfahânî, Conquête de la Syrie et de la Palestine par 								Saladin (al-Fath al-qussî fî l-fath al-qudsî), trad. par H. Massé 								(Documents relatifs a l’Histoire des Croisades. Académie des 								inscriptions et belles-lettres X, 1972) 226 f., sowie in deutscher 								Übersetzung bei Petermann, Imâd el Ispahani, Wochenblatt der 								Johanniter-Ordensballey Brandenburg Nr. 30 (1873) 175; vgl. auch den 								Brief des Katholikos (Patriarchen) von Armenien Gregor (IV.) an 								Sultan Saladin, der im Bericht des `Imâd ad-Dîn al-Isfahânî, 								Conquête de la Syrie et de la Palestine par Saladin (al-Fath 								al-qussî fî l-fath al-qudsî), trad. par H. Massé (Documents relatifs 								a l’Histoire des Croisades. Académie des inscriptions et 								belles-lettres X, 1972) 229 (eine alte deutsche Übersetzung bei 								Wilken, Geschichte der Kreuzzüge 4, 3 ff.) überliefert und auch in 								englischer Übersetzung bei Bahā’ al-Dīn, History of Saladin, transl. 								by D. S. Richards (2002) 114 ff., verfügbar ist (siehe zu dieser 								Quelle die Hinweise in den Quellenangaben bei Reg. 3367). – Knapp 								und gerafft berichtet auch Chronicle of Ibn al-Athīr, Part 2, 								transl. by D. S. Richards (Crusade Texts in Translation, 2007) 374 								f. (siehe dazu auch die auszugsweise deutsche Übersetzung bei 								Gabrieli, Die Kreuzzüge aus arabischer Sicht, 1973) von den 								Fährnissen des Kreuzheeres bis zur Überquerung des Meeres.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Erscheinen der Pisaner siehe oben Reg. 3411: 								Im November des Vorjahres hatte der Kaiser seinen Sohn, König 								Heinrich VI., beauftragt, Gesandte nach Genua, Venedig, Ancona und 								Pisa zu schicken, um für den Mitte März 1190 geplanten Angriff auf 								Konstantinopel eine italienische Kriegsflotte zu sammeln. – Zu den 								byzantinischen Geiseln siehe oben Reg. 3431. – Zu den Geschehnissen 								vgl. Giesebrecht – Simson, Kaiserzeit VI, 255 ff., und Eickhoff, 								Barbarossa im Orient, 79 ff. (Eintreffen in Gallipoli zu März 22, 								was für den Kaiser selbst durchaus zutreffen kann – vgl. dazu die 								grundsätzlichen Bemerkungen zu den Kreuzzugsquellen, oben bei Regg. 								3367 und 3437.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

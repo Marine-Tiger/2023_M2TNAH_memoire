@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 365</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-13_1_0_4_2_1_367_365"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-13_1_0_4_2_1_367_365"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-10-13_1_0_4_2_1_367_365</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 365</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-10-13" to="1155-10-13">1155 Oktober 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>. Friedrich weist Heinrich den Löwen in das Herzogtum Bayern ein, nachdem Verhandlungen mit Herzog Heinrich Jasomirgott gescheitert sind (Regg. 224 und 364); die Großen des Landes leisten dem neuen Herrn Mannschaft und Eid, die Bürger werden durch Eid und Bürgen verpflichtet. Erzbischof Arnold von Mainz und Pfalzgraf Hermann bei Rhein, durch deren Streitigkeiten (vgl. Reg. 290) das Reich großen Schaden gelitten hat, erscheinen bei Hofe und erheben Klage gegeneinander. Der neugewählte und von seinem Metropoliten bereits geweihte Bischof von Regensburg, Hartwig, wird gemäß dem Gesetz des Hofes zu einer Buße von 100 Pfund verurteilt, weil er unrechtmäßig vor der Belehnung durch den Kaiser über die Regalien seines Bistums verfügt hat. Auch diejenigen, die Lehen von ihm empfangen haben, werden bestraft. Bischof (Theobald) von Verona erscheint gemeinsam mit den Rittern Garzaban und Isaak, die den Kaiser auf dem Italienzug begleitet haben, als Gesandter seiner Stadt bei Hofe, beteuert, daß Verona nicht mit den Wegelagerern in der Veroneser Klause (vgl. Reg. 356) in Verbindung gestanden sei, und bietet an, ihre Unschuld durch Urteil des Hofgerichtes zu erhärten und Genugtuung zu leisten. Friedrich berät sich mit den Fürsten, und später wird Verona gegen eine große Geldsumme und die eidliche Verpflichtung, eine möglichst große Truppe gegen Mailand zu stellen, wieder in Gnaden aufgenommen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ottonis Gesta Frid. l. II cap. 43-45, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 151 ff.; Ann. Isingr. Ottenbur. mai., MG. SS XVII, 314; Cont. Admunt., MG. SS IX, 582.</p></div>
+				
+				
+					<div type="commentary"><p>Hauptquelle für diesen Hoftag ist der Bericht Ottos von Freising, der als Datum Mitte Oktober angibt; der genauere Zeitpunkt leitet sich aus dem Ladungsschreiben an den Tegernseer Abt her, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-09-00_1_0_4_2_1_364_362.html" type="internal" n="regesten">362</ref>. - Vgl. Simonsfeld, Jahrbücher 389 ff. und Fichtenau-Dienst, UB. zur Gesch. d. Babenberger 4/1, 135 n<hi rend="sup">o</hi>  783. - Pfalzgraf Hermann war schon etwas früher zum Kaiser gekommen, s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-10-00_1_0_4_2_1_366_364.html" type="internal" n="regesten">364</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0120" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

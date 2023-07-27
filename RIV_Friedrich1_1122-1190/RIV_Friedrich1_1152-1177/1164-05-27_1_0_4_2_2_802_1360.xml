@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1360</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-05-27_1_0_4_2_2_802_1360"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-05-27_1_0_4_2_2_802_1360"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-05-27_1_0_4_2_2_802_1360</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246330" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1360</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-05-27" to="1164-05-27">1164 Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI<hi rend="sup">to</hi>  kal. iunii, Papię aput sanctum Saluatorem)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Mantua</hi></recipient>
+				
+				
+				
+					<scribe>In der Kanzlei verfaßt, geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, Bischof Heinrich von Lüttich, Pfalzgraf Otto der Ältere (von Wittelsbach), Marschall Heinrich, Mundschenk Konrad, Markward von Grumbach, Kämmerer Rüdiger, der kaiserliche Hofrichter Rudolf von Mantua, Ugo Azonis Henrici und Siegfried von S. Agata (wohl aus Mantua)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt der Stadt <span sameAs="recipient"><hi rend="spaced">Mantua</hi> </span>  auf Bitten ihres Bischofs Garsendonius gegen die von einer großen Zahl von Bürgern abgegebene Zusicherung, mit den Veronesen, Paduanern, Vicentinern und Venezianern kein Bündnis einzugehen und dies bei jedem Konsulwechsel während der Dauer des Krieges beeiden zu lassen, den Nachlaß des Regalienzinses, die Befreiung von den Kriegszügen gegen Sizilien und den Veroneser Bund, den Schutz von Stadt und Bistum im Zug der Kriegsereignisse und die Gewohnheitsrechte, wie sie vor seinem Zug nach Italien bestanden, und läßt einige dieser Punkte durch Erzbischof Rainald von Köln und Pfalzgraf Otto den Älteren (von Wittelsbach) eidlich bekräftigen; schließlich legt auch Kanzler Christian denselben Eid wie Erzbischof Rainald in Anwesenheit des Grafen Lantelinus (von Crema), des Maluicius, des kaiserlichen Hofrichters Agnellus und des Adhelardus ab. <span n="witnesses">Z.: Erzbischof Rainald von Köln, Bischof Heinrich von Lüttich, Pfalzgraf Otto der Ältere (von Wittelsbach), Marschall Heinrich, Mundschenk Konrad, Markward von Grumbach, Kämmerer Rüdiger, der kaiserliche Hofrichter Rudolf von Mantua, Ugo Azonis Henrici und Siegfried von S. Agata (wohl aus Mantua)</span>. - <span n="clerk">In der Kanzlei verfaßt, geschrieben von UB</span>. <span n="incipit"><hi rend="italic">Tantę clementię nostri imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Tantę clementię nostri imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Unbeglaubigte, gleichzeitige Einzelkopie, ergänzt durch die Niederschrift des Eides der Mantuaner, Staatsarchiv Mantua (B); Kopie des 14. Jh., ergänzt durch die Niederschrift des Eides des Kanzlers Christian, im Liber privilegiorum civitatis Mantuae f. 7', ebenda (C). Drucke: MG. Const. 1, 312 n<hi rend="sup">o</hi>  221; Colorni, Territorio Mantovano 1, 142 n<hi rend="sup">o</hi>  8; MG. DF. I. 442. Faks.: Koch, Reichskanzlei Abb. 14 Teilfaks. Reg.: Wauters, Table chronol. 2, 463 zu 1165 Mai 27; Torelli, Reg. Mantovano 1, 221 n<hi rend="sup">o</hi>  327; Stumpf 4016 sowie S. 548.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen und inhaltlichen Kritik vgl. die Vorbemerkung zum D., Riedmann, Verträge 35 ff. und Opll, Stadt und Reich 347 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0213" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_442" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

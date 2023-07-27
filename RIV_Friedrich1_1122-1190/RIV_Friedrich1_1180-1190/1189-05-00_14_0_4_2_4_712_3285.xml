@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3285</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_14_0_4_2_4_712_3285"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_14_0_4_2_4_712_3285"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_14_0_4_2_4_712_3285</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3285</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1152
+									März 9 – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich behält sich vor, im Falle der 								Verschleuderung oder der Bedrückung der Güter des <hi rend="spaced">Klosters Hirsau</hi> durch die Untervögte diesen 								die in königlicher Verfügung stehende Vogtei zu entziehen und sie 								zum Vorteil des Klosters einem seiner Schultheißen anzuvertrauen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im DF.II.310 von 1215 								Juli 8 (B.-Ficker Reg. 827; Wirtemberg. UB. 3, 27 n<hi rend="sup">o</hi> 576). – MG.DF.I.*1220.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der ebenfalls verlorenen, hier erwähnten und 								gleich lautenden Verfügung Heinrichs VI. vgl. B.-Baaken Reg. 641. – 								Zu den territorialpolitischen Maßnahmen des Kaisers, die mit der 								Hirsauer Vogtei verbunden waren, vgl. Vollmer, Reichs- und 								Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 180 								und 192, sowie Schäfer, Staufische Reichslandpolitik, ZGORh 117 = 								N.F. 78 (1969) 204 ff., insbesondere 211, wo die im Raume Durlach 								(zur Stadtentwicklung von Durlach vgl. auch Asche – Hochstrasser, 								Durlach [Veröff. des Karlsruher Stadtarchivs 17, 1996]) 								konzentrierten Aktivitäten des Herrschers behandelt werden.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

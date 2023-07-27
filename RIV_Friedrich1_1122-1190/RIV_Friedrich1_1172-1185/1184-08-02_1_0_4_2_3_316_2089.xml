@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2089</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1184-08-02_1_0_4_2_3_316_2089"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1184-08-02_1_0_4_2_3_316_2089"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-08-02_1_0_4_2_3_316_2089</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598665" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2089</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-08-02" to="1184-08-02">1184  recte: 1174  August 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Trifels</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII non. augusti, apud castrum Triuels)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Moguntini Cristiani archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von HE</scribe>
+				
+				
+					<testis function="witnesses">Elekt Konrad von Worms, Graf Emicho von Leiningen, der Rauhgraf (<hi rend="italic">Irsutvs</hi>) Emicho, Graf Konrad von Löwenstein, Berthold von Schauenburg, Albert von Hildenburg, Hartmann von Büdingen, Werner von Bolanden, Truchseß Walter, Berengar von Neukastel, Burchard von Kästenburg, Richter Richolf von Aachen und Alard von Nimwegen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt den an den Hof gekommenen <hi rend="spaced">Bürgern von Utrecht</hi>  auf ihre Klagen über Zollforderungen in Tiel hin nach Prüfung der Rechtslage durch seine Schöffen zu Tiel die Zollfreiheit daselbst, was allerdings dann nicht gilt, wenn sie <hi rend="italic">de extranea regione et transmarinis partibus, quod vulgo over wilde haf navigando</hi>  kommen, legt für die Inanspruchnahme von Maß und Gewicht zu Tiel eine Abgabe fest und bestätigt diese Freiheit auch für den nunmehr nach Rat des Hofes von Tiel nach Kaiserswerth verlegten Zoll bzw. für künftige Verlegungen, wobei der Meereszoll ausgenommen bleibt (<hi rend="italic">excepto marino theloneo, quod vulgo dicitur syethol</hi>). <span n="witnesses">Z.: Elekt Konrad von Worms, Graf Emicho von Leiningen, der Rauhgraf (<hi rend="italic">Irsutvs</hi>) Emicho, Graf Konrad von Löwenstein, Berthold von Schauenburg, Albert von Hildenburg, Hartmann von Büdingen, Werner von Bolanden, Truchseß Walter, Berengar von Neukastel, Burchard von Kästenburg, Richter Richolf von Aachen und Alard von Nimwegen</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Moguntini Cristiani archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von HE</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Nostri iuris et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nostri iuris et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Utrecht (A). Drucke: Muller-Bouman, OB.Sticht Utrecht 1, 426 n<hi rend="sup">o</hi>  479; MG.DF.I.626. Faks.: Koch, Reichskanzlei Abb.32 Teilfaks. Regg.: Wauters, Table chronol.2, 635; Diestelkamp — Rotter, Urkundenregesten 1, 330 n<hi rend="sup">o</hi>  422; Stumpf 4168.</p></div>
+				
+				
+					<div type="commentary"><p>Der Irrtum bei der Angabe des Inkarnationsjahres unterlief HE auch in D.623 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1184-07-06_1_0_4_2_3_310_2083.html" type="internal" n="regesten">2083</ref>), an der zeitlichen Einordnung ist kein Zweifel möglich. — Zum Inhalt vgl. zuletzt Stehkämper, Barbarossa und die Stadt Köln, Köln. Stadt und Bistum in Kirche und Reich des Mittelalters. FS. Odilo Engels zum 65. Geburtstag (1993) 385 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0116" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_626" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

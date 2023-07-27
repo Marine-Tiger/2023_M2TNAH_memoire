@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 207</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-01-17_1_0_4_2_1_207_207"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-01-17_1_0_4_2_1_207_207"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-01-17_1_0_4_2_1_207_207</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1467889860" value="2016-07-07"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 207</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-01-17" to="1154-01-17">1154 Januar 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Speyer">Speyer</placeName>
+												<location><geo decls="#WGS">49.3167, 8.4333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>[XVI kal. frebruabrii (!), Spire]</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Arducius</hi>  vpn <hi rend="spaced">Genf</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Zeizolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Einfluß von DK. III. 204 verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Humbert von Besançon, die Bischöfe Ortlieb von Basel, Amadeus von Lausanne, Gunther von Speyer, Anselm von Havelberg, Stephan von Metz, die Herzoge Welf von Spoleto, Matthäus von Lothringen, Friedrich von Schwaben, Pfalzgraf Friedrich von Tübingen, Markgraf Hermann von Baden, die Grafen Hugo vom Elsaß (Dagsburg; <hi rend="italic">Alsats</hi>), Dietrich von Mömpelgard (Montbéliard; <hi rend="italic">Monte Biligardis</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt den an seinen Hof gekommenen Bischof <span sameAs="recipient"><hi rend="spaced">Arducius</hi> von <hi rend="spaced">Genf</hi> </span>  als geistlichen Fürsten des Reiches mit dem kaiserlichen Zepter und bestätigt ihm den Besitzstand seiner Kirche. <span n="witnesses">Z.: Erzbischof Humbert von Besançon, die Bischöfe Ortlieb von Basel, Amadeus von Lausanne, Gunther von Speyer, Anselm von Havelberg, Stephan von Metz, die Herzoge Welf von Spoleto, Matthäus von Lothringen, Friedrich von Schwaben, Pfalzgraf Friedrich von Tübingen, Markgraf Hermann von Baden, die Grafen Hugo vom Elsaß (Dagsburg; <hi rend="italic">Alsats</hi>), Dietrich von Mömpelgard (Montbéliard; <hi rend="italic">Monte Biligardis</hi>)</span>. - <span n="chancellor"><hi rend="italic">Zeizolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Einfluß von DK. III. 204 verfaßt und geschrieben von A II. D</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Quamvis omni peticioni</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamvis omni peticioni</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Genf (A). Drucke: Rechtsquellen des Kantons Genf 1, 8 n<hi rend="sup">o</hi>  7; MG. DF. I. 69. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2001; Stumpf 3680.</p></div>
+				
+				
+					<div type="commentary"><p>Das falsche Inkarnationsjahr 1153 beruht auf einem Versehen des Notars. - Hadrian IV. bestätigte das vorliegende D. 1157 Mai 21, Lateran (JL. 10278; Germ. pont. 2/2, 154 n<hi rend="sup">o</hi>  12). - Mit diesem Akt nützte Friedrich die Möglichkeiten, die ihm der Vertrag mit Herzog Berthold von Zähringen aus dem Jahre 1152 (DF. I. 12; Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-01_1_0_4_2_1_94_94.html" type="internal" n="regesten">94</ref>) bot, aus, vgl. dazu Büttner, Staufer und Zähringer (VuF 15, 1972) 471.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0074" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2214782%22" type="external" n="unkown">Abbildung im LBA Marburg</ref> (<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2214781%22" type="external" n="unkown">Abbildung des Siegels</ref>)</item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_69" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

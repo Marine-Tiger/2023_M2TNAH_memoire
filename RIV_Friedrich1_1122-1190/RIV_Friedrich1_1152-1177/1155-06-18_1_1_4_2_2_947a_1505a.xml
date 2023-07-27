@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1505a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1155-06-18_1_1_4_2_2_947a_1505a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1155-06-18_1_1_4_2_2_947a_1505a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_1_1_4_2_2_947a_1505a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358504038" value="2013-01-18"></date>
+				<date type="lastmod" n="1415631080" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1505a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1165-09-19">(1155 Juni 18 bzw. 1156 Juni – 1165 September 19)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Dem Diktat nach nicht zuzuordnen</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt bekannt, dass Abt Anselm von Corneux seine dem Reich gehörende (Prämonstratenser)Abtei aus seiner (= des Kaisers) Hand empfangen und dafür den Lehns- und Treueid geleistet habe (<hi rend="italic">…fidelissimus abbas Ancelinus abbatiam Cornioliensem, que nostri iuris est, libere de manu nostra suscepit; pro qua nobis hominium fecit et etiam fidelitatem regni et corone iuravit</hi>), und verbietet, dass irgendjemand diese Kirche in ihren Besitzrechten stören möge. Des weiteren gibt er bekannt, dass der Abt von ihm auch den Ort Saint-Maurice übertragen erhalten habe. – Dem Diktat nach nicht zuzuordnen; SP. <hi rend="italic">Notum esse volumus</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle, französisch kommentierte Abschrift von vor 1560 September 12 aus einer älteren, lateinisch kommentierten Abschrift im Landesarchiv Baden-Württemberg, Abteilung Hauptstaatsarchiv Stuttgart, B 33, Bü 119 (C). Druck: Matscha, Urkunde Kaiser Friedrichs I. für die Prämonstratenserabtei Corneux, künftig in: DA (2011?).</p></div>
+				
+				
+					<div type="commentary"><p>Einem Hinweis des Präsidenten der Monumenta Germaniae historica, Rudolf Schieffer, auf einen ihm bekannten Fund einer bislang unbekannten Barbarossaurkunde durch Michael Matscha (derzeit: Leiter des Bistumsarchivs Erfurt) sowie der direkten Kontaktaufnahme mit Herrn Kollegen Matscha vom Herbst 2009 bis zum Januar 2010 ist die Kenntnis dieses Diploms zu verdanken. Herr Matscha hat mir das Rohmanuskript seines zum Druck im DA vorgesehenen Beitrags am 25. Januar 2010 per Mail übermittelt, wofür ich ihm meinen besten Dank abstatten möchte. Die Datierung des undatierten Stücks ergibt sich aus der Kaiserkrönung (Reg. 319) bzw. der Heirat Barbarossas mit Beatrix, der Erbin der Grafschaft Hochburgund, im Juni 1156 (Reg. 398) und der Nennung des als Empfänger angeführten Prämonstratenserabtes am Kaiserhof in Worms am 19. September 1165 (Reg. 1506). – Die Hinweise auf das am verlorenen Original vorhandene Hängesiegel verdanken wir einer kurzen Beschreibung durch den Kopisten des 16. Jhs.: <hi rend="italic">Predictus titulus suprascriptus est signe [!] die aut data. Nillominus scriptus est in parva litera, cui pendet sigillum unum in dicta litera pergamena pendente [!] sanum siquidem integer [!] et omni carens suspicione. In quo quidem sigillo aut sere clave [!] aut rube in quo sedet unus imperator in quatedra sue magestatis tenens in una manu septrum suum imperialle [!] et in altera gladium imperatorium</hi>. – Die diplomatische Bewertung des Stücks weist auf eine Ausfertigung in Form eines einfachen Diploms mit Salutatio und ohne Datierung, doch ist leider keine Zuordnung des Diktats (weder zur Reichskanzlei noch zu der des Empfängers) möglich; der letzte, als eine Art unorganischer Nachtrag gleichsam hinzugefügte Satz betreffs der Verleihung des Ortes Saint Maurice, einer sonst erstmals 1185 als Besitz von Corneux nachweisbaren Grangie (heute Gemeinde Bucey-lès-Gy, ostsüdöstlich Gray und nordwestlich Besançon, ca. 15 km westsüdwestlich Corneux) könnte auf eine Verunechtung weisen. – Aus der Kenntnis dieses Stückes ergibt sich auch, dass der Abt von Corneux, der in DF.I.490 von 1165 September 19, Worms für das Kloster Château-Chalon als Zeuge genannt wird, tatsächlich <hi rend="italic">Ancelinus</hi> bzw. <hi rend="italic">Enselinus</hi> (= Anselm) hieß und die Vornahme einer Korrektur dieser Namensform zu <hi rend="italic">Ticelinus</hi> (sowohl bei MG.DF.I.490 als auch bei Reg. 1506; Abt Ticelinus dagegen ist als Abt erst zu 1167 und 1169 belegt, siehe dazu Reg. 1654; im Widerspruch zur älteren Literatur ist er aber nicht schon zu 1153 zu fassen.) daher nicht richtig ist.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330461" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXXVI.</p></item><item><date type="creation" n="1425750082" value="2015-03-07"></date><p n="author">Georges RECH</p><p>Je suis le directeur des archives départementales de la Haute-Saône, département où se trouve Corneux.
+</p>
+<p>J'ai reçu en don l'année dernière l'original de l'acte de Frédéric Ier Barberousse, que M. Matscha et vous même ne connaissez que par une copie.
+</p>
+<p>Cet acte est très abîmé et très difficile à lire : je suis en train de le transcrire.
+</p>
+<p>Le sceau est conservé, bien que des parties manquent.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

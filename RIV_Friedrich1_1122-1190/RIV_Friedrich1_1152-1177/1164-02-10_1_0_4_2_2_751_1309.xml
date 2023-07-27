@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1309</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-02-10_1_0_4_2_2_751_1309"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-02-10_1_0_4_2_2_751_1309"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-02-10_1_0_4_2_2_751_1309</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246044" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1309</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-02-10" to="1164-02-10">1164 Februar 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Arcangelo</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  idus frebruarii [!], in castro sancti Archangeli)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Severo in Classe</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben von CE, der gemeinsam mit RG (Monogramm !) unter Heranziehung von DH. V. Stumpf 3153 auch das Diktat besorgte</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Kloster <span sameAs="recipient"><hi rend="spaced">S. Severo in Classe</hi> </span>  (bei Ravenna) auf Bitten des Abtes Petrus in seinen Schutz, bestätigt ihm unter Vorbehalt der kaiserlichen Gerechtsame die Besitzungen in Ravenna und in den genannten Grafschaften sowie die Gerichtsbarkeit über die Eigenleute, bestimmt, daß Güter des Klosters, die zu Lehen oder zu Erbpacht (<hi rend="italic">per feudum vel per enphyteosin</hi>) oder sonstwie vergeben sind, auf keine Weise veräußert werden dürfen, und befreit das Kloster von Abgaben an Markgrafen, Grafen, Große und Valvassoren. - <span n="chancellor"><hi rend="italic">Christianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi> </span>; <span n="clerk">geschrieben von CE, der gemeinsam mit RG (Monogramm !) unter Heranziehung von DH. V. Stumpf 3153 auch das Diktat besorgte</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Quamvis omnibus, qui imperatorie</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamvis omnibus, qui imperatorie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Zwei Originale im Archivio storico comunale zu Ravenna, eines ohne (A), das andere mit der Vorbehaltsklausel (A<hi rend="sup">1</hi>). Druck: MG. DF. I. 428. Faks.: Koch, Reichskanzlei Abb. 23 und 24 Teilfaks. Reg.: Stumpf 4007.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verhältnis der beiden Originale zueinander vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Papst Lucius III. bekräftigt in seinem Privileg für Abt Heinrich von S. Severo (in Classe) und dessen Brüder von 1184 April 27, Veroli, die Verfügung Kaiser Friedrichs, in der den Leuten dieser Abtei die Entfremdung der Klostergüter durch Weiterleihe verboten wird (DF.I.428), vgl. dazu Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 1: 1181–1184, Nr. 1083.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0201" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_428" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

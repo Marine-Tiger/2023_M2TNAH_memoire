@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 85</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-09_1_0_4_2_1_85_85"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-09_1_0_4_2_1_85_85"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-05-09_1_0_4_2_1_85_85</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235444" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 85</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-05-09" to="1152-05-09">1152 Mai 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII idus maii, Goslarie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Georgenberg</hi>  <hi rend="spaced">Goslar</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DH. V. Stumpf 3025 (VU. I) und der Urkunde Bischof Bernhards von Hildesheim von 1131 Juni 12 (Bode, UB. Stadt Goslar 1, 216 n<hi rend="sup">o</hi>  181; VU. II) verfaßt und geschrieben von Arnold H (Albert)</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Bernhard von Hildesheim, Wichmann von Zeitz, Anselm von Havelberg, Abt Wibald von Corvey, (Dom)propst Rainald von Hildesheim, (Dom)dekan Bruno (von Hildesheim), Propst Burchard (des Moritzstiftes zu Hildesheim), Propst Eckehard (des St.-Blasius-stiftes zu Braunschweig), Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär), Herzog Welf, Graf Lutolf von Wöltingerode (<hi rend="italic">Waltingerode</hi>) und seine Söhne Lutolf und Burchard, Hoger (der Bruder Graf Lutolfs von Wöltingerode), Vogt Anno von Goslar, Rudolf <hi rend="italic">de Capella</hi>  und sein Sohn Ulrich, Boto, Withekind, Hirzo, Boto, Adelhard (ab Rudolf wohl Bürger von Goslar)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Stift <span sameAs="recipient"><hi rend="spaced">Georgenberg</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Goslar</hi> </span>  auf Bitten Bischof Bernhards von Hildesheim, dessen Obsorge das Stift untersteht, des dortigen Propstes Benno und seines Verwandten, des Herzogs Heinrich von Sachsen und Bayern, die genannten Besitzungen. <span n="witnesses">Z.: die Bischöfe Bernhard von Hildesheim, Wichmann von Zeitz, Anselm von Havelberg, Abt Wibald von Corvey, (Dom)propst Rainald von Hildesheim, (Dom)dekan Bruno (von Hildesheim), Propst Burchard (des Moritzstiftes zu Hildesheim), Propst Eckehard (des St.-Blasius-stiftes zu Braunschweig), Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär), Herzog Welf, Graf Lutolf von Wöltingerode (<hi rend="italic">Waltingerode</hi>) und seine Söhne Lutolf und Burchard, Hoger (der Bruder Graf Lutolfs von Wöltingerode), Vogt Anno von Goslar, Rudolf <hi rend="italic">de Capella</hi>  und sein Sohn Ulrich, Boto, Withekind, Hirzo, Boto, Adelhard (ab Rudolf wohl Bürger von Goslar)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DH. V. Stumpf 3025 (VU. I) und der Urkunde Bischof Bernhards von Hildesheim von 1131 Juni 12 (Bode, UB. Stadt Goslar 1, 216 n<hi rend="sup">o</hi>  181; VU. II) verfaßt und geschrieben von Arnold H (Albert)</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Quoniam regię nostre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam regię nostre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: seit 1832 in Privathand und verschollen, 1930 wiederentdeckt und dem Urkundenbestand des Historischen Vereins für Niedersachsen Staatsarchiv Hannover einverleibt, 1943 durch Kriegseinwirkung vernichtet (A). Drucke: Bode, UB. Stadt Goslar 1, 249 n<hi rend="sup">o</hi>  219; Janicke, UB. d. Hochst. Hildesheim 1, 262 n<hi rend="sup">o</hi>  279; Diestelkamp, Diplomatische Beiträge, Niedersächs. Jb. f. LG 10 (1933) 62; MG. DF. I. 10 Reg.: Stumpf 3625.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Schrift und Diktat vgl. Diestelkamp, der auch eine genaue Beschreibung von A bietet. - Bei der Nennung Heinrichs des Löwen als Petent sind die Worte <hi rend="italic">Saxonie atque Bawarie</hi>  von späterer Hand im frei gelassenen Raum nachgetragen; er wurde damals von der Reichskanzlei noch nicht als Herzog von Bayern bezeichnet. Diestelkamp vermutet, daß der freie Raum für einen weiteren Petenten vorgesehen war. - Zum Inhalt vgl. Heinemann, Hildesheim (Quellen u. Darstell. zur Gesch. Niedersachsens 72, 1968) 216 f. - Zur Bedeutung des welfischen Vogtes Anno von Goslar vgl. Jordan, Goslar und das Reich, Niedersächs. Jb. f. LG 35 (1963) 62 ff., Heinemann, a. a. O. 237 ff. und Petke, Grafen von Wöltingerode-Wohldenberg (Veröff. d. Inst. f. hist. LF d. Univ. Göttingen 4, 1971) 305 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0032" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_10" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

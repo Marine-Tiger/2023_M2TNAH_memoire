@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2633</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-30_2_0_4_2_4_54_2633"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-30_2_0_4_2_4_54_2633"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-11-30_2_0_4_2_4_54_2633</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2633</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-11-30" to="1181-11-30">1181
+									November (nach 13 bzw. vor 16)–30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag</hi>: Friedrich hält den 								nach dem Scheitern des Hoftags in Quedlinburg (siehe Reg. 2625) 								(ursprünglich) zu Martini (11. November) nach Erfurt einberufenen 								Hoftag, wo Heinrich (der Löwe) unter dem Geleit Erzbischof Wichmanns 								von Magdeburg erscheint und sich entsprechend dem im Vorjahr zu 								Würzburg gefällten Fürstenspruch (= Reg. 2530) vollends seiner Gnade 								unterwirft. Der Kaiser hebt den sich ihm zu Füßen werfenden Welfen 								auf, küsst ihn unter Tränen, setzt ihn aber dennoch nicht wieder in 								seine frühere Stellung ein. Er schwört vielmehr, Heinrich, dem sein 									<hi rend="italic">patrimonium</hi> (Ann. s. Petri Erph. maiores, 								Ann. Patherbrunnenses und Hugonis Chron. Cont. Weingartensis: 								Braunschweig und Lüneburg; Gislebert: Braunschweig, Haldensleben <hi rend="italic">et quadam terra que Nova-terra dicitur</hi>) 								verbleiben soll, nur im Einvernehmen mit den Fürsten künftig wieder 								in seinen früheren Rang einzusetzen. Der Welfe verpflichtet sich 								eidlich zu einem um Jakobi (25. Juli 1182) anzutretenden, 								dreijährigen bzw. siebenjährigen (Ex Rogeri de Hoveden Chronica, 								a.a.O.: dreijährig und Roberti canonici s. Mariani Autissiodorensis 								Chron.: siebenjährig) Exil im Land seiner englischen Gemahlin, aus 								dem er nur auf Ruf des Kaisers früher zurückkehren werde (Arnoldi 								Chron. Slavorum). Auf diesem Hoftag investiert Friedrich (Ulrich), 								den Sohn des verstorbenen Herzogs Hermann von Kärnten, und 								(Friedrich), den Sohn Herzog Leopolds (V.) von Österreich, mit den 								Herzogtümern ihrer Väter (Cont. Zwetlensis altera). Hermann, der 								Bruder des Landgrafen Ludwig von Thüringen, wird nach Verzicht 								seines Bruders auf diese Würde zum Pfalzgrafen von Sachsen erhoben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 52 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa,166; Ann. Palid., MG. SS XVI, 96; 								Scheffer-Boichorst, Ann. Patherbrunnenses, 177; Ann. s. Petri Erph. 								maiores, ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 66 f.; 								Ann. Stadenses, MG. SS XVI, 349; Ann. Stederburg., MG. SS XVI, 214 								f.; Arnoldi Chron. Slavorum l. II cap. 22, MG. SS XXI, 142; Cron. s. 								Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 191; Cron. Reinhardsbrunn., MG. SS XXX/1, 541 (zu 1182: 								thüringische Angelegenheiten); Hugonis Chron. Cont. Weingartensis, 								MG. SS XXI, 475; Roberti de Monte Cronica, MG. SS VI, 532; Roberti 								canonici s. Mariani Autissiodorensis Chron., MG. SS XXVI, 245; Ex 								Rogeri de Hoveden Chronica, MG. SS XXVII, 146; Gottfried von 								Viterbo, Gesta Frid., MG. SS XXII, 333 V. 1192 ff.; vgl. des 								Weiteren Ann. Floreffienses, MG. SS XVI, 625; Ann. Aquenses, MG. SS 								XXIV, 38 (zu 1182); Ann. Egmund., ed. Oppermann, Werken uitgeg. d. 								h. hist. genootschap Utrecht 3. Ser. 61 (1933) 184 (zu 1178); Ann. 								s. Georgii, MG. SS XVII, 297 = Hofmeister, Annalen von St. Georgen, 								ZGORh N.F. 33 (1918) 47 (ohne Ort und Datum); Ex Annalibus 								Melrosensibus, MG. SS XXVII, 436 (zu 1182, dem Antritt des Exils 								Heinrichs des Löwen); Ann. Welfici Weingartenses, ed. König (Schwäb. 								Chroniken d. Stauferzeit 1,<hi rend="sup">2</hi>1978) 92 (zu 1180 								zwischen Oktober 16 und November 11; <hi rend="italic">exilii 									proscriptione dampnavit</hi>); Chron. princ. Sax., MG. SS XXV, 								475 f.; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 12 (ohne Ort und Datum); Gislebert von Mons, ed. 								Vanderkindere, 84 (ohne Datum).  Zu den Herzogtümern Kärnten und Österreich 								vgl. Cont. Zwetlensis altera, MG. SS IX, 542 (ohne Datum).  Zur Pfalzgrafschaft Sachsen vgl. Ann. s. 								Petri Erph. maiores, ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 66 f., und Cron. s. Petri Erford. mod., ed. Holder-Egger, 								MG. SS rer. Germ. in us. schol., 191.</p></div>
+				
+				
+					<div type="commentary"><p>Der Beginn des Hoftags hatte sich verzögert; noch 								am 13. November (Reg. 2627) war Friedrich in Altenburg gewesen, 								bereits am 16. November (Reg. 2628) weist die Datierung eines 								Diploms auf den feierlichen Hoftag in Erfurt hin. – Zu diesem Hoftag 								vgl. aus der jüngeren Literatur insbesondere Engels, Entmachtung, 								in: Ders., Stauferstudien (1988) 116 ff., Weinfurter, Sturz 								Heinrichs des Löwen, in: Köln – Stadt und Bistum in Kirche und Reich 								des Mittelalters. FS. für Odilo Engels zum 65. Geburtstag, hg. von 								Vollrath und Weinfurter (Kölner Hist. Abhandlungen 39, 1993) (jetzt 								in: Ders., Gelebte Ordnung – Gedachte Ordnung. Ausgewählte Beiträge 								zu König, Kirche und Reich. Aus Anlaß des 60. Geburtstages, hg. von 								Kluger – Seibert – Bomm, 2005, 335 ff.), Ders., Entmachtung, in: 								Heinrich der Löwe und seine Zeit. Bd. 2. (Katalog der Ausstellung 								Braunschweig 1995) 188 f. (irrig zu November 11), Althoff, Sturz 								Heinrichs des Löwen, in: Die Welfen und ihr Braunschweiger Hof im 								hohen Mittelalter, hg. von B. Schneidmüller (Wolfenbütteler 								Mittelalter-Studien, 7, 1995) 163 ff., und Görich, Jäger des Löwen, 								in: Staufer &amp;amp; Welfen, hg. von Hechberger und Schuller (2009) 98 								ff.; auf die 2008 erschienene Biographie von Ehlers, Heinrich der 								Löwe, passim, ist hier generell zu verweisen. – Von der 								Verpflichtung des Löwen zu einem siebenjährigen Exil ist auch später 								die Rede, siehe dazu unten Reg. 2653; zur Bedeutung der Stadt 								Braunschweig für die Welfen vgl. Schneidmüller, Burg – Stadt – 								Vaterland, in: Heinrich der Löwe, hg. von J. Fried und O. G. Oexle 								(VuF 57, 2003) 27 ff. – Herzog Hermann II. von Kärnten war am 4. 								Oktober 1181 verstorben, seine Söhne Ulrich und Bernhard standen 								danach unter der Vormundschaft Herzog Leopolds von Österreich, vgl. 								dazu Opll, Kärnten und das Reich, in: Kärntner Landesgeschichte und 								Archivwissenschaft. FS. Alfred Ogris zum 60. Geburtstag (Archiv für 								vaterländ. Geschichte und Topographie, Bd. 84, 2001) 78. – Die 								Erhebung Hermanns zum Pfalzgrafen von Sachsen hing mit der Regelung 								der Hinterlassenschaft Graf Heinrichs III. Raspe von Hessen (gest. 								18. Juli 1180) zusammen, die an Landgraf Ludwig von Thüringen fiel, 								vgl. dazu Hauser, Staufische Lehnspolitik, 304.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

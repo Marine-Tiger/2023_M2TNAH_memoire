@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2409</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_4_0_4_2_3_637_2409"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_4_0_4_2_3_637_2409"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-30_4_0_4_2_3_637_2409</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2409</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-30" to="1178-07-30">1178 Juli 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Arles</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wird in Arles, das seit Hunderten von Jahren kein Herrscher mehr betreten hat, ganz besonders festlich empfangen und hält einen <hi rend="spaced">Hoftag</hi>. Auf dem Thron zeigt er sich im Schmuck der Krone, und er läßt hier auch seinen Sohn (König Heinrich VI.) krönen. Orgeln ertönen und ein Festmahl wird gegeben. Bei einem Umzug werden ihm die Insignien des Reiches vorangetragen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gottfried von Viterbo, Gesta Frid., MG. SS XXII, 331 V 1093 ff; Ann. Aquenses, MG. SS XXIV, 38; Ann. Pegav., MG. SS XVI, 262; Ex Gaufredi de Bruil prioris Vosiensis Chronica, MG. SS XXVI, 201 (Krönung Heinrichs VI.); Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 270 (irrig zum 15. August).</p></div>
+				
+				
+					<div type="commentary"><p>Die Krönung des Kaisers, die wohl als Krönung zum König des burgundischen Reiches anzusehen ist, wird auch in der Datierung von D. 742 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-30_2_0_4_2_3_635_2407.html" type="internal" n="regesten">2407</ref>) sowie in der Datierungszeile der oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-26_1_0_4_2_3_633_2405.html" type="internal" n="regesten">2405</ref>  zitierten <hi rend="italic">conventio</hi>  der Juden von Arles mit dem Erzbischof (Raimund) von Arles und den dortigen Konsuln von 1178 Juni 15 erwähnt (<hi rend="italic">venit Arelatum et ibi se coronavit</hi>); bei der Krönung Heinrichs VI. (zu dessen Anwesenheit auf dem Burgundzug vgl. etwa seine Erwähnung als Zeuge in D. 755 vom 19. August 1178 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-19_1_0_4_2_3_656_2428.html" type="internal" n="regesten">2428</ref>) handelte es sich entgegen dem Wortlaut der Überlieferung keinesfalls um eine solche zum König, sondern um eine Beikrönung des Sohnes des Kaisers anläßlich der feierlichen Zeremonie an diesem Tag. Radulf de Diceto führt aus, daß der Staufer gemäß den vier von ihm beherrschten Königreichen (<hi rend="italic">Langobardos, Baioarios, Austriasos, Burgundiones</hi>) Anspruch auf vier Kronen erhob. — Vgl. dazu jetzt Fried, Krönung in Arles, Histor. Jb. 103 (1983), 347 ff., der in diesem Zusammenhang auch auf einen letztlich gescheiterten Versuch der Byzantiner aufmerksam macht, durch die Ehe zwischen Eudokia Komnena, einer Nichte Kaiser Manuels, mit dem Bruder des Königs Alfons von Aragon, Graf Raimund Berengar von der Provence, ein gegen den Kaiser gerichtetes Bündnis zu schließen; neuerdings vgl. auch Fößel, Die Königin im mittelalterlichen Reich, 356 f. — Zu den hier erwähnten Reichsinsignien vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-14_1_0_4_2_3_613_2385.html" type="internal" n="regesten">2385</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0226" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

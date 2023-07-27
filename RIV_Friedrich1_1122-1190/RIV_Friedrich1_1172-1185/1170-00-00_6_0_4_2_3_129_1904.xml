@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1904</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_6_0_4_2_3_129_1904"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_6_0_4_2_3_129_1904"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-00-00_6_0_4_2_3_129_1904</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597068" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1904</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-01-01" to="1170-12-31">1170  Herbst</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Givors <hi rend="italic">(apud Guiorz in episcopatu [Lugdunensi])</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus [canc. vice Roberti Viennensis archiep. et totius Burgundiae] archicanc.</hi></notarius>
+				
+				
+					<scribe>wahrscheinlich von UB verfaßt, möglicherweise auch von ihm mundiert; angehängtes Wachssiegel laut D.</scribe>
+				
+				
+					<testis function="witnesses">Bischof Ludwig von Basel, Pfalzgraf Konrad bei Rhein, Herzog Berthold von Zähringen, Markgraf Hermann von Baden, die Grafen Hugo von Dagsburg, Robert von Nassau, Folmar (wohl von Saarwerden), Heinrich von Diez, Ludwig von Pfirt, Raimund von Saint-Gilles-du-Gard und Amadeus von Mömpelgard, Humbert von Beaujeu</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Hospital Saint-Jean in Viviers</hi>  die mit Zustimmung des Bischofs R(aimund) von Viviers durch Armannus Ruffus und dessen Bruder Bertrand geschenkten Güter gemäß den Bestimmungen des Privilegs des genannten Bischofs. <span n="witnesses">Z.: Bischof Ludwig von Basel, Pfalzgraf Konrad bei Rhein, Herzog Berthold von Zähringen, Markgraf Hermann von Baden, die Grafen Hugo von Dagsburg, Robert von Nassau, Folmar (wohl von Saarwerden), Heinrich von Diez, Ludwig von Pfirt, Raimund von Saint-Gilles-du-Gard und Amadeus von Mömpelgard, Humbert von Beaujeu</span>. — <span n="chancellor"><hi rend="italic">Heinricus [canc. vice Roberti Viennensis archiep. et totius Burgundiae] archicanc.</hi> </span>; <span n="clerk">wahrscheinlich von UB verfaßt, möglicherweise auch von ihm mundiert; angehängtes Wachssiegel laut D.</span> <span n="incipit"><hi rend="italic">Cum apud fontem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum apud fontem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. nach einem auf Veranlassung des Bischofs Hugo von Viviers 1284 April 18 ausgestellten Vidimus, Collection Baluze 19, f. 62, Nationalbibliothek Paris (D). Drucke: Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh., 191; MG.DF.I.573.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. ist der einzige Beleg für den damaligen Aufenthalt des Kaisers im Bereich von Lyon, vgl. dazu Opll, Itinerar, 52 und Ders., Stadt und Reich, 511. — Zur Bedeutung des Burgundaufenthalts vom Herbst 1170 vgl. jetzt auch Georgi, Barbarossa und die auswärtigen Mächte, 276 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0055" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_573" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3232</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-03-04_1_0_4_2_4_659_3232"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-03-04_1_0_4_2_4_659_3232"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-03-04_1_0_4_2_4_659_3232</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3232</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-03-04" to="1189-03-04">(vor
+									1189 März 4)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verhängt über <hi rend="spaced">Graf 									Humbert von Savoyen</hi> wegen Entfremdung von Allodien und 								Gütern des Bischofs und des <hi rend="spaced">Bistums von 									Turin</hi>, deretwegen er den Grafen bereits öfters ermahnt und 								durch zahlreiche – auch peremptorische – Edikte vergeblich 								vorgeladen hat, unter Aberkennung aller Allodien und Lehen innerhalb 								der Reichsgrenzen durch Urteil der Reichsfürsten und Standesgenossen 								die Reichsacht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im DH.VI. von 1189 Mai 7, Basel 								(B.-Baaken Reg. 86; ed. Fontes rer. Bern. 1, 482 n<hi rend="sup">o</hi> 87; Regest bei Diestelkamp – Rotter, Urkundenregesten 1, 								406 n<hi rend="sup">o</hi> 516).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung richtet sich nach dem 								Tode des Grafen von Savoyen am 4. März 1189, vgl. dazu Heinemann, 								Burgund, AfD 30 (1984) 196. Wenig später nahm der Kaiser den Sohn 								Humberts, Graf Thomas von Savoyen, wieder in seine Gnade auf, vgl. 								dazu Reg. 3257. – Zweifellos ist es im Zusammenhang mit dem Vorgehen 								gegen Graf Humbert zur Ausstellung eines (oder mehrerer?) 								kaiserlicher Mandate gekommen, die aber nicht erhalten sind.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

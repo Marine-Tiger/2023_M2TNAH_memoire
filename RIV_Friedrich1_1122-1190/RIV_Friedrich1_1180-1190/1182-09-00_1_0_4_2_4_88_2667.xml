@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2667</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-00_1_0_4_2_4_88_2667"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-00_1_0_4_2_4_88_2667"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-09-00_1_0_4_2_4_88_2667</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843509" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2667</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-09-01" to="1182-09-30">1182
+									September 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Regensburg (<hi rend="italic">VI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. octobr., Ratisponę</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Cristiani Maguntinę sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben von Robert, der an der Abfassung zumindest beteiligt war, doch weist das Diktat 									Anklänge an Gottfried G und den Regensburger Urkundenstil 									auf</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Salzburg, die Bischöfe 									Kuno von Regensburg und Albert von Freising, Rudolf, Protonotar 									des kaiserlichen Hofes, Herzog Otto von Bayern, Pfalzgraf Otto 									von Wittelsbach, Graf Diepold von Lechsgemünd, Markgraf Berthold 									von Vohburg, Graf Friedrich von Abenberg und Marschall Heinrich 									von Pappenheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der <hi rend="spaced">Steinernen Brücke zu Regensburg</hi> mit Rat und Zustimmung Bischof Ottos von Regensburg, Herzog Ottos von Bayern und der anderen Fürsten und Edlen seines Hofes wie auch auf Bitten der Bürger von Regensburg und des Brückenmeisters Herbord, dass niemand 								für das Überqueren dieser Brücke irgendwelche Abgaben verlangen 								dürfe, es sei denn, sie würden freiwillig zur Erhaltung und 								Restaurierung der Brücke gegeben. Er verbietet jegliche Verbauung 								der Hofstätten an beiden Enden der Brücke im Ausmaß von zwölf 								Schritten, betont, dass die Abgabenfreiheit sowohl für die Brücke 								als auch für den Bereich an ihren beiden Enden gilt, und legt fest, 								dass fürstliche Übertreter dieser Bestimmungen mit zehn Pfund 								Goldes, andere mit fünf Pfund Goldes bestraft werden mögen, die zur 								Hälfte an den Fiskus, zur anderen an die Brückenamtleute (<hi rend="italic">pontis procuratoribus</hi>) fallen sollen. Z.: Erzbischof Konrad von Salzburg, die Bischöfe 									Kuno von Regensburg und Albert von Freising, Rudolf, Protonotar 									des kaiserlichen Hofes, Herzog Otto von Bayern, Pfalzgraf Otto 									von Wittelsbach, Graf Diepold von Lechsgemünd, Markgraf Berthold 									von Vohburg, Graf Friedrich von Abenberg und Marschall Heinrich 									von Pappenheim. – <hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Maguntinę sedis archiep. et Germanię archicanc.</hi>; 									geschrieben von Robert, der an der 									Abfassung zumindest beteiligt war, doch weist das Diktat 									Anklänge an Gottfried G und den Regensburger Urkundenstil 									auf; SP.2. <hi rend="italic">Ad hoc divina.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc 										divina.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Reichsstadt 								Regensburg, Urkunden 2 (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 446 n<hi rend="sup">o</hi> 539; ebenda 53, 10 n<hi rend="sup">o</hi> 40; MG.DF.I.831. Reg.: Stumpf 4347.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung 								zum D. mit weiterführenden Hinweisen; Interesse verdient die sozial 								gestaffelte Festlegung der Pön. – Bei der Steinernen Brücke in 								Regensburg handelt es sich um die älteste Donaubrücke; zur 								stadtgeschichtlichen Bedeutung vgl. Opll, Stadt und Reich, 141 f., 								sowie Ambronn, Werden der Kommune, in: Regensburg im Mittelalter, 								hg. von M. Angerer und H. Wanderwitz unter Mitarbeit von E. Trapp 								(Regensburg 1995) 58 f. – Etwa um diese Zeit könnte Friedrich auch 								sein verlorenes D. für die Stadt Regensburg (siehe unten Reg. 3299) 								erlassen haben, vgl. Opll, a.a.O., 142.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_831" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

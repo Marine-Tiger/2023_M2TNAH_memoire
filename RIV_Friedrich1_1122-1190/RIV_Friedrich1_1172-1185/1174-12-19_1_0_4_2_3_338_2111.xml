@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2111</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-12-19_1_0_4_2_3_338_2111"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-12-19_1_0_4_2_3_338_2111"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-12-19_1_0_4_2_3_338_2111</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598981" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2111</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-12-19" to="1174-12-19">1174 Dezember 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Belagerung von Roboreto (Alessandria) im Bistum Pavia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIIII kal. ianuarii, in episcopatu Papiensi in obsidione Roboreti)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Hermann von Bamberg, Kuno von Regensburg, Hugo von Verden, Hartwig von Augsburg, Gero von Halberstadt und Udo von Zeitz, Herzog Ulrich von Böhmen, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, Protonotar Wortwin, die Kapelläne Burkhard und Rudolf, Albert von Hildenburg, Burkhard von Asuel, Konrad von Ballhausen (<hi rend="italic">Bealis</hi>), Mundschenk Konrad, Kämmerer Hartmann und Paucuspillus de Strata aus Pavia</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Zisterzienserkloster Morimondo</hi>  am Ticino mit all seinen Besitzungen in seinen Schutz und überträgt ihm zum einen den Hof Basiano (<hi rend="italic">curiam Farę Basilianę</hi>), von dem ihm die Brüder bisher jährlich ein Viertel des Nießbrauches entrichtet haben, gegen einen jährlich zu St. Martin (=11. November) zu zahlenden <hi rend="italic">aureus</hi>  als uneingeschränktes Eigentum und bestätigt ihm andererseits den Ort Fallavecchia (<hi rend="italic">locum Farę Uetulę</hi>). <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Hermann von Bamberg, Kuno von Regensburg, Hugo von Verden, Hartwig von Augsburg, Gero von Halberstadt und Udo von Zeitz, Herzog Ulrich von Böhmen, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, Protonotar Wortwin, die Kapelläne Burkhard und Rudolf, Albert von Hildenburg, Burkhard von Asuel, Konrad von Ballhausen (<hi rend="italic">Bealis</hi>), Mundschenk Konrad, Kämmerer Hartmann und Paucuspillus de Strata aus Pavia</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">verfaßt von Burkhard</span>. <span n="incipit"><hi rend="italic">Notum esse volumus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 17. Jh., Ughelli, Monumenta ord. Cistercien., Cod. Barb. 3234 f. 84' und 77, Vatikanische Bibliothek zu Rom (E). Druck: MG.DF.I.633. Regg.: Gasparolo, Cartario Alessandrino 2, BSSS 115 (1930) 14 n<hi rend="sup">o</hi>  192; Stumpf 4172.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0123" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_633" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

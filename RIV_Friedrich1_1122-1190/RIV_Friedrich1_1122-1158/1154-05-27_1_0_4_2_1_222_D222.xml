@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. D222</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-27_1_0_4_2_1_222_D222"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-27_1_0_4_2_1_222_D222"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-05-27_1_0_4_2_1_222_D222</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237300" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. D222</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-05-27" to="1154-05-27">1154 Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI calendas Junii, Goslar)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Goslar</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich urkundet über das Münzwesen der Stadt <span sameAs="recipient"><hi rend="spaced">Goslar</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; nur bekannt aus: Braunschweigische Anzeigen 11. Jahr, 83. Stück vom 15. Oktober 1755, Spalte 1669. Drucke: Bode, UB. Stadt Goslar 1, 253 n<hi rend="sup">o</hi>  223; MG. DF. I. *79. Reg.: Stumpf 3691.</p></div>
+				
+				
+					<div type="commentary"><p>Über Inhalt und Glaubwürdigkeit dieses Deperditums vgl. die Vorbemerkung zum D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Vgl. dazu Poppe, Die Magdeburger Frage, in: Europa Slavica &amp;#x2012; Europa Orientalis. FS. für Herbert Ludat zum 70. Geburtstag (Berlin 1980) 333 ff., der (a.a.O., 334 mit Anm. 90) die Datierung von Reg. 222 aus Gründen des Itinerars des Königs in Zweifel zicht und auch (a.a.O, 335 ff.) auf Grund der nicht vor dem 13. Juni 1154 erfolgten Wahl Propst Bertholds zum Bischof von Naumburg-Zeitz (Berthold wird in Reg. 223 = DF.I.80 als Elekt bezeichnet) die Ausstellung des DF.I. 80 erst zu August/September 1154 annimmt; eher zu diesem Zeitpunkt dürfte dann auch der bei Otto von Freising überlieferte Hoftag zu Goslar (Reg. 224) oder vielleicht bei Halle (dazu a.a.O., 336 f.) stattgefunden haben. &amp;#x2012; Zu dieser Problematik hat sich im Zusammenhang mit der aus einer am 19. September 1154 in Halle für das Kloster Paulinzella ausgestellten Urkunde Erzbischof Hartwigs I. von Bremen rekonstruierbaren ersten Provinzialsynode Erzbischof Wichmanns von Magdeburg jüngst auch Herkenrath, Provinzialsynode, in: Sachsen und Anhalt 20 (1997) 97 ff. geäußert.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Sowohl in der Diplomata-Edition wie auch (dieser folgend) in Reg. 222 heißt es bei der Überlieferung irrig: Braunschweigische Anzeigen 11. Jahr, 83. Stück vom 15. Oktober 1755, Spalte 1669 statt richtig: Braunschweigische Anzeigen 11. Jahr, 83. Stück vom 17. (!) Oktober 1755, Spalte 1669.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0079" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_79" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

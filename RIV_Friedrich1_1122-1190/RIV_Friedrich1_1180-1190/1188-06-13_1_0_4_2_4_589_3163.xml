@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3163</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-06-13_1_0_4_2_4_589_3163"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-06-13_1_0_4_2_4_589_3163"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-06-13_1_0_4_2_4_589_3163</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848379" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3163</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-06-13" to="1188-06-13">1188
+									Juni 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Tag der Weihe der Kapelle auf der Boyneburg  (<hi rend="italic">idibus iunii, ipso die dedicacionis eiusdem capelle</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl in der 									Kanzlei, wahrscheinlich von JC verfasst</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Otto von 									Freising und Berthold von Naumburg, die Äbte Konrad von Fulda 									und Siegfried von Hersfeld, Kanzler Johannes (<hi rend="italic">sacri palacii cancellarius</hi>), Protonotar Rudolf, 									Landgraf Ludwig von Thüringen, Pfalzgraf Hermann (von Sachsen), 									der Bruder des Landgrafen, die Grafen Gosmar von Ziegenhain (<hi rend="italic">Zienhain</hi>), Ludwig von Lohra (<hi rend="italic">Lare</hi>) und sein Bruder Berenger, Graf 									Wicher von Beilstein, Albert von Hildenburg, Albert von 									Grumbach, Vogt Almar (von der Boyneburg), (der Ministeriale) 									Boto (von der Boyneburg) und Gerhard sowie die Brüder Reinhard 									und Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht der <hi rend="spaced">Kapelle 									der hl. Maria und des hl. Petrus in seiner Burg Boyneburg</hi> 									(<hi rend="italic">Bomeneborgh</hi>) zum Unterhalt eines 								Priesters den Anteil des vom Landgrafen Ludwig von Thüringen 								erworbenen Gutes, den er (= der Kaiser) zum Zeitpunkt der Weihe der 								Kapelle innehat, in den genannten Orten frei von aller Vogtei unter 								seiner (= des Kaisers) alleiniger Schirmgewalt. Als Auflagen legt er 								fest, dass der Kapellan dafür täglich in der Kapelle Gott dient, für 								die Burgbewohner die heilige Messe feiert, keinen Vikar bestellen 								darf und die Güter weder durch Verpfändung, Belehnung oder sonstwie 								entfremden darf. <span n="witnesses">Z.: die Bischöfe Otto von 									Freising und Berthold von Naumburg, die Äbte Konrad von Fulda 									und Siegfried von Hersfeld, Kanzler Johannes (<hi rend="italic">sacri palacii cancellarius</hi>), Protonotar Rudolf, 									Landgraf Ludwig von Thüringen, Pfalzgraf Hermann (von Sachsen), 									der Bruder des Landgrafen, die Grafen Gosmar von Ziegenhain (<hi rend="italic">Zienhain</hi>), Ludwig von Lohra (<hi rend="italic">Lare</hi>) und sein Bruder Berenger, Graf 									Wicher von Beilstein, Albert von Hildenburg, Albert von 									Grumbach, Vogt Almar (von der Boyneburg), (der Ministeriale) 									Boto (von der Boyneburg) und Gerhard sowie die Brüder Reinhard 									und Heinrich</span>. –<span n="clerk"> Wohl in der 									Kanzlei, wahrscheinlich von JC verfasst</span>.<span n="incipit"> 									<hi rend="italic">Ea, que divinis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ea, que divinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Deutsche Übersetzung eines Transsumptes 								Kaiser Maximilians I. von 1505 Juli 3, A VI Boyneburg, Hessisches 								Staatsarchiv Marburg. Drucke: Kuchenbecker, Von denen Erb-, 								Hof-Ämtern der Landgrafschaft Hessen, Beweistümer 3 aus dem 								genannten Transsumpt Maximilians I. (k); Posse, CD. Sax. regiae I 2, 								367 n<hi rend="sup">o</hi> 531; MG.DF.I.972. Regg.: 								Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 788; Wenzel, UB. 								Langensalza, 196 n<hi rend="sup">o</hi> 281; Stumpf 4492.</p></div>
+				
+				
+					<div type="commentary"><p>Den lateinischen Text bietet nur die Edition von 								Kuchenbecker. – Zu der Identifizierung des Vogtes Almar und des 								Ministerialen Boto von der Boyneburg vgl. Plassmann, Struktur des 								Hofes, 279 und 280. – Der Ausstellungsort wird zwar nicht genannt, 								ergibt sich aber unzweifelhaft aus der Datierung.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_972" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

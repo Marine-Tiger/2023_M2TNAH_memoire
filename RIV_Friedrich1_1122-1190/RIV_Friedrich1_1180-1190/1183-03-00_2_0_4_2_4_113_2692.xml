@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2692</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-03-00_2_0_4_2_4_113_2692"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-03-00_2_0_4_2_4_113_2692"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-03-00_2_0_4_2_4_113_2692</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843617" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2692</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-03-01" to="1183-03-31">(1183
+									März)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Kaiserliches Siegel (SP.)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erteilt <hi rend="spaced">Bischof 									(Wilhelm) von Asti</hi>, <hi rend="spaced">Markgraf Heinrich 									Guercio (von Savona)</hi> und <hi rend="spaced">Bruder 									Theoderich (Kartäuser von Silve-Bénite)</hi> die Vollmacht, mit 								den gegen das Reich rebellierenden Lombarden über den Abschluss 								eines Friedensvertrages zu verhandeln. – <span n="seal"> 									Kaiserliches Siegel (SP.)</span>; <span n="incipit"><hi rend="italic">Quia vestre devocionis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia vestre devocionis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im 								Registrum privilegiorum civitatis Mutinensis f. 16, Stadtarchiv 								Modena (B). Drucke: MG. Const. 1, 395 n<hi rend="sup">o</hi> 								287; Simeoni – Vicini, Registrum privilegiorum Communis Mutinae 1, 								98 n<hi rend="sup">o</hi> 55; MG.DF.I.842. Reg.: Stumpf 4354.</p></div>
+				
+				
+					<div type="commentary"><p>Gemeinsam mit dieser Vollmacht, die anlässlich der 								eidlichen Bekräftigung der Vereinbarungen durch die Unterhändler in 								Piacenza am 30. April 1183 (Reg. 2697) öffentlich verlesen wurde, 								wurde den genannten Unterhändlern offenbar die Stellungnahme des 								Kaisers übergeben, die dann den Ausgangspunkt für die Abfassung des 								Vorentwurfs (D.843 = Reg. 2694) bildete. Die Vollmacht für den 								gleichfalls als Unterhändler eingesetzten Kämmerer Rudolf ist nicht 								erhalten, vgl. dazu MG.DF.I.*1185 (Reg. 2693). – Vgl. zu all dem 								Riedmann, Verträge, 110 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_842" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

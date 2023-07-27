@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 348</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-08-25_1_0_4_2_1_350_348"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-08-25_1_0_4_2_1_350_348"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-08-25_1_0_4_2_1_350_348</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238734" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 348</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-08-25" to="1155-08-25">1155 August 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Faenza</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(octavo kal. septembris, in territorio Fauentino)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pisanern</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>bis auf Eschatokoll und Nachtrag nach der Zeugenliste, die auf A II. D zurückgehen, von Wibald verfaßt</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Anselm von Ravenna, Patriarch Pilgrim (<hi rend="italic">Pelegrinus</hi>) von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Ortlieb von Basel und viele andere Fürsten</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <span sameAs="recipient"><hi rend="spaced">Pisanern</hi> </span>  in Anerkennung ihrer ruhmreichen Großtaten, besonders der Eroberung der Balearen, die sie der Herrschaft Kaiser Heinrichs (V.) unterstellten, und ihrer Waffentaten gegen Roger von Sizilien, das Recht, eine eigene, in ganz Italien gültige Münze zu prägen, deren Gewicht und Form sie selbst bestimmen dürfen, jedoch unter Vorbehalt des kaiserlichen Rechts, und bestimmt die Konsuln als zuständig für Vergehen gegen das Münzrecht. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Anselm von Ravenna, Patriarch Pilgrim (<hi rend="italic">Pelegrinus</hi>) von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Ortlieb von Basel und viele andere Fürsten</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi> </span>; <span n="clerk">bis auf Eschatokoll und Nachtrag nach der Zeugenliste, die auf A II. D zurückgehen, von Wibald verfaßt</span>. <span n="incipit"><hi rend="italic">Principalem munificentiam decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Principalem munificentiam decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Privilegia civitatis Pisarum des 14. Jh., Ms. 2385 f. 28 der Universitätsbibliothek Bologna (B). Drucke: Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh. 404; MG. DF. I. 119. Reg.: Stumpf 3722.</p></div>
+				
+				
+					<div type="commentary"><p>Diktat und Zeugenliste weisen darauf hin, daß das Diplom in zwei zeitlich aufeinanderfolgenden Stufen entstand. DF. I. 119 richtet sich gegen die Bestimmungen von DF. I. 112 (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-06-18_3_0_4_2_1_321_321.html" type="internal" n="regesten">321</ref>). Zum Inhalt vgl. Haverkamp, Herrschaftsformen 2 (Monogr. zur Gesch. d. MA 1/2, 1971) 574 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0116" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_119" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

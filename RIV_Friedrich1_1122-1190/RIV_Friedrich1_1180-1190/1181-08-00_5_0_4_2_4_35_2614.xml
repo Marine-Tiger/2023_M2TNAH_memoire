@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2614</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-08-00_5_0_4_2_4_35_2614"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-08-00_5_0_4_2_4_35_2614"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-08-00_5_0_4_2_4_35_2614</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2614</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-08-01" to="1181-08-31">1181
+									(August)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lübeck">Lübeck</placeName>
+												<location><geo decls="#WGS">53.8667, 10.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich kommt nach Überschreitung der Elbe (Reg. 								2611) vor die Stadt Lübeck, wo sich ein Heer aus Slawen (Wenden) 								unter Bogislav (von Stettin-Pommern) und dem Obodritenfürsten 								(Niklot von Werle; bei Saxo irrig: <hi rend="italic">Kazimarus</hi>) 								sowie aus Holsteinern, den Anhängern des Grafen Adolf (von 								Schauenburg-Holstein), bei ihm einfindet. Sowohl Bogislav wie auch 								(Niklot) werden vom Kaiser mittels einer mit einem Adler 								geschmückten Fahne mit ihren Herrschaftsgebieten belehnt. Zugleich 								kommt König Waldemar von Dänemark mit einer großen Flotte an die 								Mündung der Trave (Travemünde), und so wird Lübeck vom Land wie auch 								vom Meer her belagert. Der Dänenkönig begibt sich zum Kaiser und 								verlobt seine Tochter mit dem Sohn des Kaisers, Herzog (Friedrich) 								von Schwaben; eine andere Tochter (Sophia) gibt Waldemar Graf 								Siegfried (von Orlamünde) zur Frau. In diesem Zusammenhang wird eine 								Vereinbarung über die Mitgift für die Prinzessin beurkundet (vgl. 								Reg. 2618) und das Ehegelöbnis wird von Bischöfen beeidet. Bischof 								Heinrich von Lübeck erscheint vor dem Kaiser und versucht zu 								vermitteln. Er kann beim Kaiser die Erlaubnis für die Lübecker 								Bürger erwirken, sich zu Heinrich dem Löwen als ihrem Stadtherrn 								nach Stade zu begeben, um dessen Entscheidung darüber einzuholen, 								wie sie sich angesichts der Belagerung zu verhalten haben. Als 								besonderen Gunsterweis sendet Friedrich seinen Arzt zu dem an Fieber 								leidenden Lübecker Bischof. Als die Bürger nach einigen Tagen aus 								Stade gemeinsam mit Graf Gunzelin (von Schwerin; als Abgeordneten 								Heinrichs des Löwen) zurückkehren, übergeben sie auf Befehl 								Heinrichs des Löwen ihre Stadt dem Kaiser, bitten diesen aber vor 								der Öffnung der Stadt um Bestätigung ihrer früher von Heinrich dem 								Löwen schriftlich bestätigten Privilegien, was Friedrich auch 								gewährt (siehe Reg. 2615). Der Kaiser urkundet auch für die 								Kanoniker von Lübeck und Ratzeburg (siehe Regg. 2626 und 2617) und 								belehnt Graf Adolf (von Schauenburg) in Anerkennung von dessen 								Verdiensten um das Reich und als Entschädigung für sein Exil mit der 								Hälfte der städtischen Einkünfte aus Zöllen, Mühlen und 								Wechselbänken. Schließlich betritt er, feierlich empfangen von 								Klerus und Volk, die Stadt Lübeck, wo er Abt (Arnold) von St. Marien 								und St. Johannes in Lübeck auf Vermittlung Bischof Heinrichs mit den 								Stadthöfen des Klosters und den vom Bischof dem Kloster übereigneten 								Feldern <hi rend="italic">in campo eiusdem civitatis</hi> belehnt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. II cap. 21, MG. SS 								XXI, 140 f.; Saxo Grammaticus l. XV cap. V/3–12, ed. Olrik – Ræder 								(1931) 532 ff.; Ex Annalibus Dano-Suecanis, MG. SS XXIX, 184 								(Dänenkönig kommt zum Kaiser); Ann. Lundenses, MG. SS XIX, 206 								(Dänenkönig sucht den Kaiser an der Trave auf); Ann. Pegav., MG. SS 								XVI, 265; Ann. s. Petri Erph. maiores, ed. Holder-Egger, MG. SS rer. 								Germ. in us. schol., 66; Ann. Stadenses, MG. SS XVI, 349; Ex 								Annalibus Waldemarianis et Vitescolensibus, MG. SS XXIX, 178 								(Dänenkönig sucht den Kaiser an der Trave auf); Ex Chronica Danorum 								Sialandica, MG. SS XXIX, 213 (Dänenkönig sucht den Kaiser an der 								Trave auf).</p></div>
+				
+				
+					<div type="commentary"><p>Arnold von Lübeck berichtet an anderer Stelle (l. 								III cap. 20, MG. SS XXI, 161) davon, dass die Burg Travemünde von 								den Slawen zerstört worden sei, als der Kaiser Lübeck belagert habe. 								– Als Ärzte des Kaisers werden 1177 ein <hi rend="italic">magister 									Guido medicus noster</hi> (DF.I.715 = Reg. 2343), 1186 ein <hi rend="italic">magister C</hi><hi rend="italic">v</hi><hi rend="italic">°no medicus et capellanus noster</hi> (DF.I.938 = 								Reg. 2976) erwähnt. – Vgl. zu den Geschehnissen rund um die 								Belagerung von Lübeck Giesebrecht, Kaiserzeit V, 939 ff., Walther, 								Barbarossas Urkunde für Lübeck, Zs. f. lübeck. Geschichte und 								Altertumskunde 69 (1989) 21 ff., Engels, Dänemark, in: Friedrich 								Barbarossa (VuF 40, 1992) 381 f. bes. Anm. 134, Hauser, Staufische 								Lehnspolitik, 221 f., und Weller, Heiratspolitik, 130 ff. – Zuletzt 								unterstreicht Giese, Adler als kaiserliches Symbol, in: Staufisches 								Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller 								und Weinfurter (2010) 341 f., dass mit dem Bericht des Saxo 								Grammaticus über die Belehnung des Bogislav mit Pommern die einzige 								detailliertere Beschreibung der mit dem Adler gezierten kaiserlichen 								Fahne vorliegt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

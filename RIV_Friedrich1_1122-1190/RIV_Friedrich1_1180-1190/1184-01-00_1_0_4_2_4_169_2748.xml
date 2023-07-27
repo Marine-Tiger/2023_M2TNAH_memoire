@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2748</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-01-00_1_0_4_2_4_169_2748"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-01-00_1_0_4_2_4_169_2748"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-01-00_1_0_4_2_4_169_2748</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2748</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-12-18" to="1186-12-31">(nach
+									1180 Dezember 17 – 1186, vielleicht 1184 Januar –
+									)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Strassburg">(Straßburg)</placeName>
+												<location><geo decls="#WGS">48.5833, 7.75</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Heinrich von Straßburg fällt in Gegenwart 								Kaiser Friedrichs (<hi rend="italic">Residentibus nobis in presentia 									domini nostri imperatoris</hi>) und anderer Bischöfe und 								Mitbrüder sowie zahlreicher Edelfreier auf Klagen Bischof Rogers von 								Lausanne gegen den Kaiser, der in der Zeit seines Vorgängers, 								Bischof Amadeus’ von Lausanne, die Stellung von dessen Kirche in 								Abwesenheit des damaligen Bischofs und ohne dass dieser geladen 								worden wäre durch Übertragung von deren Regalien an Herzog Berthold 								(von Zähringen) gemindert hat (vgl. Reg. 424), und nach der 								Vorbringung weiterer Beschwerden Bischof Rogers gegen 								Rechtsverletzungen durch den abwesenden Herzog Berthold auf 								Verlangen des Kaisers (<hi rend="italic">super his dominus imperator 									a nobis sententiam quesivisset</hi>), der betont, in Abwesenheit 								des Herzogs im Gericht nicht Rede stehen zu können, eine Sentenz, 								die folgendermaßen lautet: Der Kaiser hat sich betreffs der gegen 								ihn vorgebrachten Klagen des Bischofs auch in Abwesenheit des 								Herzogs zu rechtfertigen; hinsichtlich der vom Bischof von Lausanne 								gegen den Herzog vorgebrachten Klagen über das seiner Kirche 								zugefügte Unrecht müsse aber das Erscheinen des ordnungsgemäß 								geladenen Herzogs abgewartet werden. Diesem Spruch stimmen 								Erzbischof (Theoderich) von Besançon, die Bischöfe (Ulrich) von 								Speyer und (Arducius) von Genf zu. Als dann Bischof (Heinrich) von 								Basel um seine Zustimmung gebeten wird, urteilt dieser, der Kaiser 								hätte die Regalien dem Herzog nicht geben dürfen und können; da 								jedoch gesagt worden sei, der Herzog hätte sie vom Kaiser erhalten, 								dürften sie diesem nur in Anwesenheit oder bei Missachtung einer 								Ladung wieder abgenommen werden. Dieser Sentenz stimmt auch eine 								große Anzahl von Laien zu.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 387 n<hi rend="sup">o</hi> 								281; Gallia christ. XV, Instrumenta, Sp. 155 n<hi rend="sup">o</hi> 								34 (zu 1179); Fontes rerum Bernensium 1, 460 n<hi rend="sup">o</hi> 								66. Regg.: Wentzcke, Reg. Straßburg n<hi rend="sup">o</hi> 628 								(zu 1181–1186); Diestelkamp – Rotter, Urkundenregesten 1, 370 n<hi rend="sup">o</hi> 470 (zu 1184 Januar?); Stumpf 4564a (zu ca. 								1181).</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierung richtet sich nach der Regierungszeit 								Bischof Heinrichs von Straßburg, der sein Amt um die Jahreswende 								1180/81 (nach 1180 Dezember 17) antrat (vgl. dazu Wentzcke, a.a.O.), 								und dem kaiserlichen Itinerar. In diesen Konflikt hatte bereits 								Papst Alexander III. am 17. Oktober 1179 – dem Tag, an dem Bischof 								Roger von Lausanne das Pallium erhielt – allerdings zu Gunsten des 								Kaisers und des Herzogs eingegriffen, vgl. dazu Fontes rerum 								Bernensium 1, 460 Anm. 1. – Vgl. dazu auch eine weitere Sentenz 								Bischof Heinrichs von Straßburg, in der er <hi rend="italic">inquisitus a domino imperatore per fidelitatem</hi> das 								folgende Urteil fällt (Sources du droit de Vaud 1 = Sammlung 								Schweizerischer Rechtsquellen 19, 1977, 8 no 10 [zu circa 1180]): 								Der Kaiser darf Herzog Berthold das Regalienrecht über Lausanne 								nicht übertragen und es der Kirche entziehen, doch darf dies nicht 								in Abwesenheit des Herzogs rückgängig gemacht werden. Diesem Urteil 								stimmen Erzbischof (Eberhard) von Besançon, die Bischöfe (Arducius) 								von Genf und (Ulrich) von Speyer sowie zahlreiche Laien zu. – Zu 								Roger von Vico Pisano, dem Bischof von Lausanne, vgl. Mariotte, Le 								schisme de 1159, AfD 18 (1972) 303 ff., des Weiteren vgl. auch die 								bei Reg. 424 angeführte Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

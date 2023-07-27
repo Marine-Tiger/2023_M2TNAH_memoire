@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2695</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_3_0_4_2_4_116_2695"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_3_0_4_2_4_116_2695"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-04-30_3_0_4_2_4_116_2695</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843718" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2695</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-04-30" to="1183-04-30">(1183
+									März – April 30)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Piacenza)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter weitgehender 									Abhängigkeit von D.843 (Reg. 2694; VU.) angefertigte, formlose 									Aufzeichnung, die von den kaiserlichen Unterhändlern (siehe 									Regg. 2692 und 2693) und den Vertretern des Lombardenbundes am 									30. April 1183</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Die bevollmächtigten Unterhändler – zu ihnen siehe 								Regg. 2692 und 2693 – vereinbaren im Namen und Auftrag des Kaisers 								den Wortlaut des Friedensvertrages mit dem <hi rend="spaced">Lombardenbund</hi>, wobei im Einzelnen gemäß dem Vorentwurf 								(vgl. Reg. 2694) Folgendes festgelegt wird): (1) Friedrich und sein 								Sohn König Heinrich (VI.) werden den Mitgliedern des Bundes, 								insbesondere Verona, seiner Burg und seinen Vorstädten sowie den 								übrigen Städten, Orten und Personen des Bundes, die Regalien und 								Gewohnheitsrechte zuerkennen, wobei darunter (neben den in Reg. 2694 								genannten Rechten) auch die Wälder und die Kriminalgerichtsbarkeit 								sowie die Jurisdiktion in Geldangelegenheiten innerhalb und 								außerhalb der Stadt verstanden werden. – Im Weiteren folgen die 								Bestimmungen nach dem Wortlaut von Reg. 2694 mit folgenden 								Abänderungen sowie einigen neuen Punkten: (ad 2) Hinsichtlich der 								vorgesehenen Untersuchung der nicht verliehenen Regalien wird auch 								der Bischof der Stadt in das aus diesem Anlass zu wählende 								Schiedsgericht berufen. – (ad 6) Die verliehenen <hi rend="italic">commoditates</hi> werden nicht zu den Regalien gerechnet, für 								die Zins zu leisten ist. – (ad 8) Die Konsuln haben von dem in der 								Stadt oder dem Bistum eingesetzten kaiserlichen Boten spätestens 								binnen fünf Jahren die Investitur zu empfangen. Nach dieser Frist 								muss jede Stadt einen Boten an den Kaiser zur Einholung der 								Investitur schicken. In weiterer Folge ist die Investitur jeweils 								nach dem Ablauf dieser fünf Jahre vom Kaiser bzw. innerhalb dieser 								fünf Jahre vom kaiserlichen Boten einzuholen, außer der Kaiser 								selbst hält sich in der Lombardei auf, dann haben sie die Belehnung 								von ihm zu empfangen. Dies soll auch unter seinem Nachfolger 								eingehalten werden, und alle Investituren sollen gratis erteilt 								werden. – (ad 10) Hinsichtlich der Appellationen wird im Hinblick 								auf das Recht und die Gewohnheiten der Kirche von Brescia (<hi rend="italic">iure et moribus Brixiensis ecclesie in 									appellationibus</hi>) eine Ausnahme gemacht. Weiters hat der vom 								Kaiser mit der Behandlung derartiger Fälle betraute Bote gemäß den 								Gesetzen und Gebräuchen der jeweiligen Stadt binnen zwei Monaten 								nach Ausbruch des Streites bzw. nach Erhalt der Appellation seine 								Entscheidung zu fällen, falls sich dies nicht durch ein rechtmäßiges 								Hindernis oder durch Konsens der Streitparteien erübrigt. – (ad 12) 								Alle übrigen haben den Treueid wie die Bürger im Alter zwischen 16 								und 70 Jahren zu leisten, außer es handelt sich um Personen, denen 								der Treueid nachgelassen werden kann. – (ad 19) Die Verfügung über 								die Pobrücke wird den Piacentinern belassen, doch haben sie dafür 								stets den Zins an die Äbtissin von S. Giulia in Brescia zu 								entrichten. – (ad 23) Von den Herrschaftsrechten der Mailänder 								ausgenommen werden die Orte, die die Bergamasken zwischen Adda und 								Oglio innehaben, sowie Romano (<hi rend="italic">Rumano Ueteri</hi>) 								und Bariano. – (24 neu) Wegen dieser Zugeständnisse soll es für das 								Recht und die Gewohnheiten der Bundesstädte kein Präjudiz geben, und 								kein Recht soll zum Nachteil einer Stadt akquiriert werden. – (25 								neu, vgl. Punkt 28 bei Reg. 2694) Durch diese Konzessionen werden 								die zwischen den Städten des Bundes früher abgeschlossenen Abkommen 								nicht berührt. – (26 neu) Das Recht der Mailänder im Bistum Lodi am 								Fluss Lambro und am Wegzoll wird anerkannt. – (ad 28, vgl. 26 bei 								Reg. 2694) Die Verpflichtung von Städten zur Unterstützung des 								Kaisers gegen Städte, die die Abmachungen nicht einhalten, wird in 								der Hinsicht ergänzt, dass in einem solchen Fall der Friede dennoch 								bestehen bleiben soll. – (30 neu) Die Treueide sind von denen, die 								sie nicht geleistet haben, alle zehn Jahre auf Aufforderung des 								Kaisers oder seines Boten zu erneuern. – (31 neu, vgl. 28 bei Reg, 								2694) Den aus ihren rechtmäßigen Besitzungen vertriebenen Anhängern 								des Kaisers sind diese <hi rend="italic">sine fructibus et dampno 									dato</hi> zurückzustellen, wenn sich der Besitzer nicht <hi rend="italic">in causa principali</hi> oder durch Hinweis auf 								Eigentum schützen kann, jedoch unter Vorbehalt der früheren 								Konzessionen, und alle Angriffe seien ihnen nachgesehen. Das selbe 								Recht möge für die Anhänger des Kaisers betreffs der Restitution in 								Anwendung kommen, es sei denn eine Stadt sei durch Eid verpflichtet, 								keine Rückstellung durchzuführen. In diesem Fall möge ein 								Schiedsgericht über die Restitution befinden. – (32 neu, vgl. 29 bei 								Reg. 2694) Falls der Kaiser in der Lombardei weilt, dann können 								Streitigkeiten zwischen ihm und Mitgliedern des Bundes vor ihm 								verhandelt werden. – (33 neu) Der Kaiser wird Klagen gegen 								Abmachungen von Bundesstädten mit anderen Städten und Personen, die 								nicht durch Gewalt erzwungen und die durch Eid bekräftigt worden 								sind, kein Gehör schenken. – (34 neu) Der Kaiser wird den Veronesen 								die (Reichs-)Straße zurückstellen und Herrn Ezelin (von Verona, <hi rend="italic">Icilinum</hi>) wieder in seine Gnade aufnehmen und 								ihm alle Angriffe verzeihen. – (35 neu) Bei Rechtsfällen, die vor 								dem Frieden abgeschlossen worden sind, wird der Kaiser keine 								Appellationen annehmen. – (36 neu) Folgende Fürsten und Ritter 								werden schwören: die Erzbischöfe (Christian) von Mainz, (Philipp) 								von Köln und (Konrad) von Salzburg, die Bischöfe (Otto) von Bamberg, 								(Konrad) von Worms, (Heinrich) von Straßburg, (Heinrich) von Basel, 								(Ulrich) von Speyer und (Kuno) von Regensburg, (Gottfried), der 								Kanzler des Kaisers, Abt (Konrad) von Fulda (<hi rend="italic">Uolt</hi>); Kaiser Friedrich, sein Sohn König Heinrich (VI.) 								und ein weiterer Sohn, der Herzog ist (Herzog Friedrich von 								Schwaben), die Herzöge Bernhard von Sachsen, Welf (VI.), (Berthold) 								von Zähringen, (Otto) von Bayern, (Leopold) von Österreich, (Otakar) 								von Steier, (Friedrich) von Böhmen und (Ulrich) von Kärnten, die 								sächsischen Markgrafen, nämlich Markgraf Dietrich (<hi rend="italic">Tiris</hi>, der Lausitz) und sein Bruder Graf Dedo (von 								Groitzsch), die Landgrafen (von Thüringen), die Neffen des Kaisers 								sind (Ludwig und Heinrich Raspe), der Bruder des Kaisers (Pfalzgraf 								Konrad bei Rhein), die Grafen Heinrich von Diez (<hi rend="italic">Decio</hi>) und (Humbert) von Savoyen (<hi rend="italic">Sauolia</hi>) und Pfalzgraf Hugo von Tübingen (<hi rend="italic">Doenga</hi>), Werner von Bolanden (<hi rend="italic">Balenda</hi>), Kuno von Münzenberg (<hi rend="italic">Miciborgo</hi>), Marschall Heinrich, Konrad von 								Oberschüpf (<hi rend="italic">Schinke</hi>), Kämmerer Rudolf, Albert 								von <hi rend="italic">Grognengo</hi> (Gröningen oder Grumbach?), 								A(da)lbert von Altenburg (<hi rend="italic">Adelburgo</hi>) und alle 								diejenigen, die vom Kaiser mit der Administration in der Lombardei, 								der Mark (Verona) und der Romagna betraut sind, innerhalb eines 								Monats nach Amtsantritt. – (37) Auf Seiten des Kaisers werden die 								Städte Cremona, Pavia, Asti und Tortona den Eid leisten. – (38) Die 								Städte, Orte und Personen des Bundes, mit denen der Kaiser die <hi rend="italic">concordia</hi> abschließt und die den Eid seitens 								des Bundes leisten werden, sind folgende: Vercelli, Novara, Mailand, 								Lodi, Bergamo, Brescia, Mantua, Verona, Vicenza, Padua, Treviso, 								Ferrara, Bologna, Imola, Faenza, die Burg S. Cassiano (bei Imola), 								Modena, Reggio, Parma, Piacenza gemeinsam mit Bobbio, Gravedona (<hi rend="italic">plebs de Grabadona</hi>) und Markgraf Opizo 								(Malaspina). –<span n="clerk"> Unter weitgehender 									Abhängigkeit von D.843 (Reg. 2694; VU.) angefertigte, formlose 									Aufzeichnung, die von den kaiserlichen Unterhändlern (siehe 									Regg. 2692 und 2693) und den Vertretern des Lombardenbundes am 									30. April 1183 in Piacenza feierlich beschworen 									wurde</span>.<span n="incipit"> 									<hi rend="italic">In nomine domini.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In nomine domini.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im 								Registrum privilegiorum civitatis Mutinensis f. 13, Stadtarchiv 								Modena (B); unbeglaubigte Einzelkopie aus dem Anfang des 13. Jh. im 								Staatsarchiv Novara, Comune, p. antica, cart. I fasc. I 								(C). Drucke: MG. Const. 1, 400 n<hi rend="sup">o</hi> 289; 								Manaresi, Atti del Comune di Milano 1, 186 n<hi rend="sup">o</hi> 								134; Simeoni – Vicini, Registrum privilegiorum Comunis Mutinae 1, 89 									n<hi rend="sup">o</hi> 53; Baroni, Novara, 3 n<hi rend="sup">o</hi> 1; Falconi, La documentazione, in: Studi sulla pace di 								Costanza (Deputazione di storia patria per le provincie Parmensi. 								Sezione di Piacenza, 1984) 49 n<hi rend="sup">o</hi> 2; 								MG.DF.I.844.</p></div>
+				
+				
+					<div type="commentary"><p>Die Kenntnis der bis dahin unbekannten Einzelkopie 								(C) ist Maria Franca Baroni zu verdanken; sie enthält die in der VU. 								(Reg. 2694) nicht, im endgültigen Vertrag (D.848 = Reg. 2716) aber 								sehr wohl enthaltene Bestimmung in Punkt 1, die der Stadt Verona die 								Regalien und Gewohnheitsrechte eigens zusicherte, vgl. dazu die 								Vorbemerkung zum D. – Vgl. auch das eigens angelegte 								Notariatsinstrument über die Eidesleistungen (Reg. 2696), weitere 								Erklärungen über diese Eidesleistungen (Reg. 2697) und den Wortlaut 								des Eides der Rektoren bzw. Podestà der Städte (Reg. 2699) sowie 								Riedmann, Verträge, 112 ff. – Das hier mit 16 Jahren angegebene 								Mindestalter von zum Eid verpflichteten Bürgern (siehe Punkt 12) 								wird im Frieden von Konstanz (Reg. 2716) unterschiedlich auf 16 oder 								15 Jahre festgelegt, vgl. dazu die Vorbemerkung zu DF.I.848. – Die 								Anführung des Kärntner Herzogs in der Zeugenliste kann sich nicht 								auf Herzog Bernhard, sondern nur auf Herzog Ulrich beziehen, vgl. 								dazu Plassmann, Struktur des Hofes, 291, sowie Opll, Kärnten und das 								Reich, in: Kärntner Landesgeschichte und Archivwissenschaft. FS. 								Alfred Ogris zum 60. Geburtstag (Archiv für vaterländ. Geschichte 								und Topographie, Bd. 84, 2001) 78 f. mit Anm. 61; zur 								Identifizierung des gleichfalls als Zeugen genannten Adalbert von 								Altenburg vgl. Plassmann, a.a.O., 278; zur Identifizierung des 								ungenannten Basler Bischofs mit Heinrich (nicht: Hugo), vgl. 								Plassmann, a.a.O., 286.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_844" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

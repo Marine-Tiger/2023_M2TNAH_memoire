@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 528</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-02-27_1_0_4_2_1_530_528"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-02-27_1_0_4_2_1_530_528"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-02-27_1_0_4_2_1_530_528</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240283" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 528</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-02-27" to="1158-02-27">1158 Februar 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Hagenau">Hagenau</placeName>
+												<location><geo decls="#WGS">48.8167, 7.7833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(tertio kal. marcii, Hagenowe)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Neuburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnaldi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach D. 136 (Reg. 388) mundiert von RD.</scribe>
+				
+				
+					<testis function="witnesses">Pfalzgraf Konrad bei Rhein, Markgraf Hermann von Baden, Graf Sygebert (von Frankenburg), (Graf) Ludwig von Württemberg (<hi rend="italic">Wirtenberc</hi>), Burkhard von Weyersheim, Vogt Rüdiger und (der Reichsministeriale) Truchseß Walter</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Graf Reginold von Lützelburg (<hi rend="italic">Lucelenburch</hi>) gemeinsam mit Herzog Friedrich (II.) von Schwaben, seinem Vater, dem Zisterzienserorden übergebene Kloster <span sameAs="recipient"><hi rend="spaced">Neuburg</hi> </span>  (<hi rend="italic">Nuvenburch</hi>), das nach Erbrecht an ihn gekommen ist, in seinen Schutz, bestätigt ihm die genannten Besitzungen, verfügt jedoch, daß kaiserliche Ministerialen und Hörige (<hi rend="italic">ministeriales nostros et homines nostros fiscalinos</hi>) mit ihren Gütern nur mit seiner Zustimmung an das Kloster übergehen dürfen, trifft Bestimmungen über die Nutzungsrechte im Heiligen Forst (<hi rend="italic">Sacra Sylva</hi>), indem er dem Kloster daselbst das Weiderecht für sein Vieh mit Ausnahme der Schafe und die Schlägerung für Brennholz zwar frei, für Bauholz aber nur mit Erlaubnis seines Verwalters (<hi rend="italic">ex consignatione et permissione ministri nostri</hi>) zugesteht, und bestätigt die päpstlichen Verleihungen an den Orden. <span n="witnesses">Z.: Pfalzgraf Konrad bei Rhein, Markgraf Hermann von Baden, Graf Sygebert (von Frankenburg), (Graf) Ludwig von Württemberg (<hi rend="italic">Wirtenberc</hi>), Burkhard von Weyersheim, Vogt Rüdiger und (der Reichsministeriale) Truchseß Walter</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnaldi Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">nach D. 136 (Reg. 388) mundiert von RD.</span> <span n="incipit"><hi rend="italic">Pium desiderium, quod</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Pium desiderium, quod</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Nachlaß Grandidier aus dem verlorenen Chartular des Klosters f. 10, Generallandesarchiv Karlsruhe (G). Drucke: Würdtwein, Nova Subsidia 9, 361; MG. DF. I. 206. Reg.: Stumpf 3800.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. ist eine Überarbeitung der Empfängerausfertigung D. 136 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-02-00_1_0_4_2_1_390_388.html" type="internal" n="regesten">388</ref>) durch die Reichskanzlei im Interesse der kaiserlichen Verwaltung im Gebiet der Abtei. Zum Kloster selbst vgl. Germ. pont. 3/3, 64 ff. - Nach Hertzog, Chronicon Alsatiae (Straßburg 1592) 9. Buch S. 148 hat Friedrich im Jahre 1153 die Hagenauer Pfalz erbauen und in ihr die Reichskleinodien aufbewahren lassen, vgl. Sprater, Trifels (<hi rend="sup">3</hi> 1950) 16 und 68; zur Hagenauer Pfalz zur Zeit Friedrichs I. vgl. auch Opll, Itinerar 133.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Eine von Herrn Jean-Yves Mariotte der Wiener Diplomata-Abteilung zur Verfügung gestellte Abschrift des 18. Jhs. aus dem Stadtarchiv Straßburg - Côte II 85 f. 6 (C) - zeigt die Signumzeile an der kanzleimäßig richtigen Stelle und überliefert auch Monogramm und Beizeichen, die von derselben Hand stammen wie in MG. DDF. I. 204 und 207 (= Regg. 526 und 530).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0179" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_206" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

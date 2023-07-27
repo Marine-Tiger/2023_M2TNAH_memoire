@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1890</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-06-00_1_0_4_2_3_115_1890"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-06-00_1_0_4_2_3_115_1890"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-06-00_1_0_4_2_3_115_1890</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595801" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1890</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-06-01" to="1168-06-30">1168 — 1180, am ehesten 1170 Juni</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich trägt dem Klerus, den Lehensträgern und den Ministerialen der <hi rend="spaced">Verdener Kirche</hi>  auf, die auf Antrag Bischof H(ugos) von Verden ergangenen Hofgerichtsurteile zu befolgen, nach denen Ansprüche der weltlichen Erben des verstorbenen Bischofs auf dessen Hausrat ausschließlich vor dem Hof zu behandeln sind und Benefizialrechte an den Domherrenpfründen und den Pfarrkirchen nach dem Ableben des Übertragenden aufhören. — Das Diktat läßt sich nicht zuordnen. <span n="incipit"><hi rend="italic">Notum facimus universitati</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus universitati</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Kopialbuch der Verdener Kirche II 125 n<hi rend="sup">o</hi>  26, Hauptstaatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (B). Drucke: MG. Const. 1, 330 n<hi rend="sup">o</hi>  236 zu 1170 Juni; MG.DF.I.569. Reg.: Diestelkamp — Rotter, Urkundenregesten 1, 317 n<hi rend="sup">o</hi>  405; Stumpf 4096 zu 1168 Juli.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Datierung und zur Beziehung des D. auf die Amtszeit Bischof H(ugos), nicht H(ermanns), vgl. die Vorbemerkung zum D. — Zum Rechtsvorgang vgl. Appelt, Fürstensentenz, MIÖG 71 (1963) 38.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0051" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_569" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

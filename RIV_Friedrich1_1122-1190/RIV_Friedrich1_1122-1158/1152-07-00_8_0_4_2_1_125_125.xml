@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 125</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_8_0_4_2_1_125_125"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_8_0_4_2_1_125_125"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-00_8_0_4_2_1_125_125</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239210" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 125</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-20" to="1152-08-10">(wohl 1152 Ende Juli-Anfang August)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">(Ulm)</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Landfrieden</hi></recipient>
+				
+				
+				
+					<scribe>Bis zur Arenga verfaßt von Heribert, allerdings unter teilweiser Übereinstimmung mit dem von AH (Albert) verfaßten D. 29 (Reg. 136)</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet einen in allen Teilen des Reiches gültigen <span sameAs="recipient"><hi rend="spaced">Landfrieden</hi> </span>  (<hi rend="italic">pacem diu desideratam et antea toti terre necessariam per universas regni partes habendam</hi>). Darin legt er als Strafe für Totschlag die Hinrichtung [§1] und die Maßnahmen bei Flucht von Friedensbrechern hinsichtlich ihrer Güter [§2] bzw. die Maßregeln für Burgherrn, auf deren Burg sich der Beklagte geflüchtet hat [§7], fest, bestimmt die Strafen für schwere [§3] und leichtere Körperverletzung bzw. auch für Schmähreden [§4 und 5] und die Maßnahmen bei Friedensbruch durch Kleriker [§6], ordnet das Verfahren bei Anklagen auf Friedensbruch zwischen Bauern und Rittern, Rittern und Bauern oder unter Rittern [§10], bei Streitigkeiten von zwei oder mehr Leuten um ein Lehen [§8 und 9] oder zwischen Ministerialen eines Herrn [§19], spricht das Verbot bzw. die Erlaubnis zum Waffentragen für Bauern, Kaufleute und Ritter [§12, 13 und 15] aus, erklärt Leute, die ein ihnen wegen schlechter Verwaltung abgesprochenes Lehensamt gewaltsam wiederzuerlangen trachten, als Friedensbrecher [§17], trifft Bestimmungen über die Strafen für Raub und Diebstahl [§16 und 18], beschränkt die Anwendung bestimmter Fanginstrumente auf einige Tierarten [§14] und regelt die Festsetzung des Getreidepreises durch den Grafen nach Mariä Geburt (September 8) [§11], das freie Weiderecht für alle zu Pferde Reisenden am Wegesrand sowie die Erlaubnis, Weide und Wald unter Hintanhaltung von Verwüstungen und Schäden für die eigenen Bedürfnisse zu verwenden [§20]. - <span n="clerk">Bis zur Arenga verfaßt von Heribert, allerdings unter teilweiser Übereinstimmung mit dem von AH (Albert) verfaßten D. 29 (Reg. 136)</span>, <span n="incipit"><hi rend="italic">Quoniam divina preordinante</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam divina preordinante</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Cod. 545 f. 50', Bibliothèque publique, Tours (F); Abschriften des 14. Jh. im Msc. Can. 45 f. 73', Staatsbibliothek Bamberg (G), im Cod. 24 der Universitätsbibliothek zu Münster, Paulinische Bibliothek (durch Kriegseinwirkung vernichtet, H), im Cod. Y e 24 f. 11' a, Universitäts- und Landesbibliothek Halle (I), im Cod. 744 p. 108 der Stiftsbibliothek zu St. Gallen (K), im Ms. 64 der Stadtbibliothek zu Metz (durch Kriegseinwirkung vernichtet, L), im Cod. lat. 3509 f. 222, Staatsbibliothek München (M), im Cod. lat. 23.559 f. 56 ebenda (N), im Cod. lat. 4567 f. 122 der Nationalbibliothek zu Paris (O), im Cod. 216 der Stadtbibliothek zu Breslau (P), im Cod. M. p. j. f. 3 f. 194 der Universitätsbibliothek zu Würzburg (Q). Drucke: MG. Const. 1, 194 n<hi rend="sup">o</hi>  140; MG. DF. I. 25. Reg.: Stumpf 3756 zu 1156 Sept.</p></div>
+				
+				
+					<div type="commentary"><p>Der vorliegenden Urkunde lag wohl ein Weistum zugrunde, wie die objektive Fassung der Bestimmungen vermuten läßt. Dieser älteste Landfriede Barbarossas galt nach dem deutschrechtlichen Charakter der Satzungen nur für Deutschland. - Die zeitliche Einordnung durch Stumpf richtete sich nach dem Kaisertitel im Landfrieden, doch kann es sich dabei auch - genauso wie etwaauch im Konstanzer Vertrag (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-03-23_1_0_4_2_1_169_169.html" type="internal" n="regesten">169</ref>) - um eine Vorwegnahme durch die Kanzlei handeln. Wegen der Erwähnung der Thronbesteigung des Herrschers wollte man das Gesetz dann in die erste Zeit der Regierung Friedrichs I. setzen, so etwa Simonsfeld, Jahrbücher 59 ff. im Anschluß an Küch, Landfriedensbestimmungen Friedrichs I., 12 ff. in den März 1152. Da derartige Hinweise auf die Thronbesteigung aber auch in späteren Diplomen des Jahres 1152 vorkommen (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-15_1_0_4_2_1_136_136.html" type="internal" n="regesten">136</ref>  u. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-10-17_1_0_4_2_1_138_138.html" type="internal" n="regesten">138</ref>), ist danach keine allzu enge zeitliche Fixierung möglich. Dagegen spricht aber ein im Gesetz verwendeter terminus technicus des alamannischen Volksrechtes dafür, daß es auf schwäbischem Boden erlassen wurde, womit auch die Tatsache übereinstimmt, daß die Hungersnot in Schwaben (Ann. Ottenburani, MG. SS XVII, 313) eine Festsetzung der Getreidepreise (vgl. § 11) erforderlich machen mochte. Außerdem ist die gesetzgeberische Tätigkeit des Staufers damals in Ulm ja auch in der Errichtung eines Provinziallandfriedens zum Ausdruck gekommen (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-25_1_0_4_2_1_110_110.html" type="internal" n="regesten">110</ref>). - Zur Interpretation des Landfriedens vgl. Küch a. a. O. und Gernhuber, Landfriedensbewegung in Deutschland (Bonner rechtswiss. Abhandlungen 44, 1952).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04-opl1980-0044" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_25" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

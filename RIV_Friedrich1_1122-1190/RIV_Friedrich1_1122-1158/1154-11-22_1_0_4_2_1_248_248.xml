@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 248</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-22_1_0_4_2_1_248_248"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-22_1_0_4_2_1_248_248"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-11-22_1_0_4_2_1_248_248</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237448" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 248</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-11-22" to="1154-11-22">1154 November 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Cologne</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. decembris, in campo, qui vocatur Calegnus)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Theobald</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>Empfängerdiktat</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordibus</hi>) von Basel, die Äbte Markward von Fulda, Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Bayern</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Bischof <span sameAs="recipient"><hi rend="spaced">Theobald</hi> </span>  von Verona die seiner Kirche (<hi rend="italic">sancta Veronensis ecclesia in honorem sancte dei genitricis virginisque Marie dicata</hi>) von den Kaisern und Königen verliehenen, namentlich angeführten Besitzungen, die Immunität, die Regalien und verbietet die Veräußerung von Lehen der Ministerialen ohne Zustimmung des Bischofs, behält sich jedoch die königlichen Gerechtsame und das Fodrum bei seinem Kommen nach Italien vor. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordibus</hi>) von Basel, die Äbte Markward von Fulda, Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Bayern</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">Empfängerdiktat</span>. <span n="incipit"><hi rend="italic">Si dignis nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si dignis nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1331, Staatsarchiv Verona (B); Abschrift des 18. Jh. in Processi busta 35 n<hi rend="sup">o</hi>  2001 f. 1' ebenda (C). Drucke: MG. DF. I. 88. Reg.: Cipolla, Kaiserurkunden, MIÖG 4 (1883) 218 n<hi rend="sup">o</hi>  93; Stumpf 3697.</p></div>
+				
+				
+					<div type="commentary"><p>Die erwähnten, älteren Kaiserurkunden sind verloren. - Der Ausstellungsort ist wohl Cologne zwischen Brescia und Bergamo, das sich gut in das Itinerar einfügt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0086" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_88" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

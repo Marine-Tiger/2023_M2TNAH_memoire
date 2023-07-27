@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2747</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-01-03_1_0_4_2_4_168_2747"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-01-03_1_0_4_2_4_168_2747"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-01-03_1_0_4_2_4_168_2747</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844039" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2747</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-01-03" to="1184-01-03">1184
+									Januar 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Straßburg (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> non. ianuar., apud civitatem Argentinensem</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aulę canc. vice C°nradi 										Moguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>in Erneuerung des DH.V. von 1114 November 									30 (Stumpf 3119; VU.) und unter Bezugnahme auf das DH.V. von 									1112 Oktober 16 (Stumpf 3091) in mehreren Schritten geschrieben 									von GG</scribe>
+				
+				
+					<testis function="witnesses">König Heinrich (VI.), Erzbischof Konrad von 									Mainz, die Bischöfe Konrad von Worms, Hermann von Münster und 									Kuno von Regensburg, Dompropst Dieter von Worms, Dekan Meinhard 									von Worms, Rudolf, Kanoniker der Wormser Kirche und Protonotar 									des kaiserlichen Hofes, Herzog Friedrich von Schwaben, Landgraf 									Ludwig von Thüringen, Pfalzgraf Konrad bei Rhein, Werner von 									Bolanden und sein Sohn Philipp, Kämmerer Dudo von 									(Weisenau-)Mainz, Kustos Luppold von Worms, Präcentor Eberhard 									(wohl von Worms) und Vitztum Burchard von Worms</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <hi rend="spaced">Bürgern 									von Worms</hi> mit Zustimmung seines Sohnes, König Heinrichs 								(VI.), mit Rat und auf Bitten Bischof Konrads von Worms, Dompropst 								Dieters (von Worms) und des Kustos Luppold (von Worms) sowie mit 								Zustimmung des Vitztums Burchard von Worms und aller anderen, die 								über die Wormser Bürger Recht und Macht haben, die ihnen von seinem 								Vorfahren (<hi rend="italic">de cuius nos stirpe originem 									ducimus</hi>) Kaiser Heinrich V. verliehenen Rechte. Er 								erweitert diese Rechte hinsichtlich der Verfügung über ihr Erbe, 								fügt der bereits früher gewährten Freiheit von Ansprüchen auf 								Todfallsabgaben, genannt <hi rend="italic">buvteil</hi>, auch die 								Freiheit von der Abgabe des besten Tieres und des besten Kleides 									(<hi rend="italic">ab exactione optimi animalis sive 									preciosioris vestimenti</hi>), genannt <hi rend="italic">houbitreht</hi>, hinzu und bestätigt ihnen unter Berufung auf 								das Privileg seines Urgroßvaters Kaiser Heinrichs IV. (gemeint ist 								trotz der richtigen Bezeichnung als „Urgroßvater“: Heinrich V.) die 								Zollfreiheit in den Reichsorten Frankfurt, Boppard, Hammerstein, 								Dortmund, Goslar, Engern, Nimwegen und Duisburg, deren Einwohner 								umgekehrt in Worms gleichfalls keinen Zoll zahlen müssen. <span n="witnesses">Z.: König Heinrich (VI.), Erzbischof Konrad von 									Mainz, die Bischöfe Konrad von Worms, Hermann von Münster und 									Kuno von Regensburg, Dompropst Dieter von Worms, Dekan Meinhard 									von Worms, Rudolf, Kanoniker der Wormser Kirche und Protonotar 									des kaiserlichen Hofes, Herzog Friedrich von Schwaben, Landgraf 									Ludwig von Thüringen, Pfalzgraf Konrad bei Rhein, Werner von 									Bolanden und sein Sohn Philipp, Kämmerer Dudo von 									(Weisenau-)Mainz, Kustos Luppold von Worms, Präcentor Eberhard 									(wohl von Worms) und Vitztum Burchard von Worms </span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aulę canc. vice C°nradi 										Moguntine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">in Erneuerung des DH.V. von 1114 November 									30 (Stumpf 3119; VU.) und unter Bezugnahme auf das DH.V. von 									1112 Oktober 16 (Stumpf 3091) in mehreren Schritten geschrieben 									von GG</span>; <span n="seal">B.2.</span> 								<span n="incipit"><hi rend="italic">Imperialis iusticię 										decet.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis iusticię 										decet.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Worms (A). Faks.: Reuter 								im Ausstellungskatalog „Von der Reichsstadt zur Industriestadt 								(Worms)”, 105; Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 8 								Teilfaks.; Bönnen (Hg.), Geschichte der Stadt Worms, 161 Abb. 								14. Drucke: Stumpf, Acta ined., 220 n<hi rend="sup">o</hi> 								160; Boos, UB. der Stadt Worms 1, 73 n<hi rend="sup">o</hi> 90; 								Milz – Bergmann – Budde – Spitzbart, UB. d. Stadt Duisburg 1, n<hi rend="sup">o</hi> 16; MG.DF.I.853. Regg.: Goerz, 								Mittelrhein. Reg. 2, 143 n<hi rend="sup">o</hi> 501; Dobenecker, 								Reg. Thur. 2, n<hi rend="sup">o</hi> 664; Böhmer – Lau, CD. 								Moenofrancofurt. 1, 14 n<hi rend="sup">o</hi> 27; B.-Baaken Reg.2a; 								Stumpf 4370.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. wurde nach dem Schriftbefund in mehreren 								Schritten ausgefertigt, womit auch die von Ficker, Beiträge zur 								Urkundenlehre 1, 255, gemachte Beobachtung, der wegen der nicht nach 								Straßburg, sondern nach Worms verweisenden Zeugen eine 								Rechtshandlung in Worms annimmt (vgl. Reg. 2740), übereinstimmt. – 								Eine Abbildung der Goldbulle jetzt bei Türck, Goldbulle, in: Die 								Staufer und Italien, Bd. 2: Objekte (2010) 24 Kat.-Nr. II.A.3. – Bei 								dem hier bestätigten <hi rend="italic">privilegium predecessoris et 									proavi nostri Heinrici quarti divi imperatoris</hi> über die 								Zollbefreiung handelt es sich um das DH.V. von 1112 Oktober 16 								(Stumpf 3091), in der sich Heinrich V. <hi rend="italic">quartus 									imperator</hi> nennt, und nicht um das laut Signumzeile von <hi rend="italic">Heinricus quartus rex</hi> ausgestellte DH.IV.267. 								– Eine Erztafel über dem Nordportal des Wormser Domes, die den Text 								des D. enthielt, ist nicht erhalten geblieben, vgl. Müller, 								Urkundeninschriften, 69 no 11, sowie Die Inschriften der Stadt 								Worms, ges. und bearb. von R. Fuchs (Die Deutschen Inschriften, Bd. 								29, 1991) 27 ff. no 26. – Zur stadtgeschichtlichen Bedeutung vgl. 								Opll, Stadt und Reich, 175 ff., Bönnen, Entwicklung von 								Stadtverfassung und Stadtgemeinde, ZGORh 150 = N.F. 111 (2002) 143 								ff., Bönnen, Zur Bedeutung der Stadt Worms, in: Herzner – Krüger – 								Staab (Hgg.), Kunst der Stauferzeit im Rheinland und in Italien 								(2003) 113 ff., sowie im großen Zusammenhang Bönnen (Hg.), 								Geschichte der Stadt Worms, 160 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_853" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

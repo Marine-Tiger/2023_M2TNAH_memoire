@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 931</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-02-12_1_0_4_2_2_373_931"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-02-12_1_0_4_2_2_373_931"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-02-12_1_0_4_2_2_373_931</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 931</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-02-12" to="1161-02-12">1161 Februar 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ferrara">Ferrara</placeName>
+												<location><geo decls="#WGS">44.8, 11.8333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ravenna</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Magister Johannes, Legat Kaiser Friedrichs für das Gebiet von Ferrara, überträgt in einer Gerichtsversammlung einem lokalen Konsortium von genannten Personen auf kaiserlichen Befehl (<hi rend="italic">ex precepto imperiali tibi presenti placito pro te et Martinello et Zannitino et Vitalino et Zeno Gregorio tuis consortibus seu filiis et nepotibus vestris</hi>) ein unter ihnen aufzuteilendes Stück Land auf dem Gut Corlo zu emphytheutischem Recht, für das der Kirche von <span sameAs="recipient"><hi rend="spaced">Ravenna</hi> </span>, die auch künftig als Grundherr zu gelten hat, Zins zu zahlen ist.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt bei (Muratori), Piena esposizione dei diritti imperiali ed Estensi sopra la città di Comacchio, 169; vgl. auch Frizzi, Memorie per la storia di Ferrara, 172; gedruckt bei Simonsfeld, Urkunden Friedrich Rotbarts in Italien, SB. München 1905 (1906) 746 f. (Beilage III).</p></div>
+				
+				
+					<div type="commentary"><p>Das Stück gehört zu zwei weiteren Belegen für die Aktivitäten dieses Reichslegaten aus dem Jahre 1160 und betrifft dasselbe Gebiet, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-09-08_1_0_4_2_2_357_915.html" type="internal" n="regesten">915</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-09-29_1_0_4_2_2_359_917.html" type="internal" n="regesten">917</ref>  sowie Haverkamp, Herrschaftsformen, 627 Anm. 80. - Auch der hier als Schreiber genannte Richter und Hofnotar Stephanus de Gaybana begegnet schon namentlich in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-09-08_1_0_4_2_2_357_915.html" type="internal" n="regesten">915</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0108" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

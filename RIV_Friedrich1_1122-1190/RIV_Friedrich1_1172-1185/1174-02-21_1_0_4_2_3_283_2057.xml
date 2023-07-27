@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2057</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-21_1_0_4_2_3_283_2057"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-21_1_0_4_2_3_283_2057"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-02-21_1_0_4_2_3_283_2057</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598206" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2057</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-02-21" to="1174-02-21">1174 Februar 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Merseburg">Merseburg</placeName>
+												<location><geo decls="#WGS">51.3667, 12</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIIII kal. martii, Merseburg)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Moguntini archiep.</hi></notarius>
+				
+				
+					<scribe>geschrieben und wohl auch verfaßt von dem Schreiber der Urkunde Bischof Ulrichs von Halberstadt von 1177  (Schmidt, UB.des Hochstifts Halberstadt 242 n<hi rend="sup">o</hi>  281), von dem auch das Diktat des D.585 (= Reg. 1952) und des D.611 (= Reg. 2058) stammt</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann von Magdeburg, Herzog Heinrich (der Löwe) von Sachsen und Bayern, Markgraf Otto von Brandenburg, Graf Dietrich von Werben und Burggraf Heinrich von Leisnig</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Augustiner-Chorherrenstift St. Peter zu Roßleben</hi>  (<hi rend="italic">Rusteleue</hi>) mit den namentlich angeführten Besitzungen und den Zugehörungen in seinen Schutz. <span n="witnesses">Z.: Erzbischof Wichmann von Magdeburg, Herzog Heinrich (der Löwe) von Sachsen und Bayern, Markgraf Otto von Brandenburg, Graf Dietrich von Werben und Burggraf Heinrich von Leisnig</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Moguntini archiep.</hi> </span>; <span n="clerk">geschrieben und wohl auch verfaßt von dem Schreiber der Urkunde Bischof Ulrichs von Halberstadt von 1177  (Schmidt, UB.des Hochstifts Halberstadt 242 n<hi rend="sup">o</hi>  281), von dem auch das Diktat des D.585 (= Reg. 1952) und des D.611 (= Reg. 2058) stammt</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Voti nostri ista</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Voti nostri ista</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: früher im Archiv der Klosterschule zu Roßleben, Verbleib derzeit unbekannt (A). Druck: MG.DF.I.610. Regg.: Dobenecker, Reg. 2, n<hi rend="sup">o</hi>  476; Stumpf 4153.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Herr Dr. Eberhard Holtz (Akademie der Wissenschaften, Berlin-Brandenburg) machte mich dankenswerter Weise in einer EMail vom 26.2.2002 darauf aufmerksam, dass sich DF.I.610 für Rossleben entgegen der Angabe in der Diplomata-Ausgabe noch immer in Rossleben befindet und von der Stiftung Klosterschule Rossleben (Postfach 31, D-06568) verwahrt wird.</p></div>
+				
+				
+					<div type="commentary"><p>Zur kanzleigeschichtlichen Beurteilung dieses außerhalb der Reichskanzlei entstandenen D. vgl. Beumann, Halberstadt, in: Archiv f.Urkundenforschung 16 (1939) 31 und die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0103" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_610" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

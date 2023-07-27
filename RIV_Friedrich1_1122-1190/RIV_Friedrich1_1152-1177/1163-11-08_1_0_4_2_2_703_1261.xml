@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1261</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-08_1_0_4_2_2_703_1261"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-08_1_0_4_2_2_703_1261"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-08_1_0_4_2_2_703_1261</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245520" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1261</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-08" to="1163-11-08">1163 November 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI yd. novembr., Laude)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gubbio</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den zwischen der Stadt <span sameAs="recipient"><hi rend="spaced">Gubbio</hi> </span>, vertreten durch den Elekten Bonactus, den Prior des Domkapitels, Benedikt, Abt Offred von S. Pietro, den Konsul Rainald Vgonis Petri und Vgo Ianucii für die anderen Konsuln, nämlich Albertinus und Rainald de Serra sowie Rainald de Honesto, und Elekt Rainald von Köln im Beisein des Pfalzgrafen Otto von Wittelsbach, des Burggrafen Burchard von Magdeburg und des Podestà von Piacenza, Arnold Barbavaria, abgeschlossenen Vertrag, nach dem die Stadt mit all ihren Besitzungen und Kirchen, darunter das Domstift S. Mariano, der Episkopat, die Klöster S. Pietro und S. Donato (di Pulpiano) und weitere namentlich genannte Güter und Burgen dieser Kirchen, keinem Herzog, Markgrafen oder sonstigem Weltlichen gerichtlich unterstehen sollen <hi rend="italic">nisi legitime</hi>, die Konsuln ihre Befugnisse in Stadt und Distrikt nach dem Gutdünken des Bischofs und der Vorsteher der genannten Kirchen ausüben sollen bzw. sich auch um Hilfe an den kaiserlichen Boten wenden können, den sie auch auf dessen Wunsch bei der Eintreibung des Fodrums innerhalb und außerhalb der Grafschaft Gubbio unterstützen sollen, und die Abgaben der Stadt an das Reich in folgender Form festgelegt werden: Im laufenden Jahr werden wegen des Feldzuges nach Apulien oder sonstwohin 100 Pfund Luccheser oder Pisaner Münze entrichtet und Hilfe bei der Eintreibung des restlichen Fodrums aus dem vorigen Jahr geleistet; künftig werden die jährlichen Abgaben mit 60 Pfund Luccheser oder Pisaner Münze festgesetzt, die von der Stadt und den Kirchen mit ihren genannten Besitzungen aufzubringen und jährlich am Fest des hl. Martin (= 11. November) in San Miniato oder an sonst einem zu bestimmenden Ort in der Toskana zu bezahlen sind, außer in dem Jahr, da in ganz Italien das kaiserliche Fodrum eingesammelt wird. - <span n="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus Italię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Quoniam ea, quę inter</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam ea, quę inter</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Sezione dell'Archivio di Stato di Perugia zu Gubbio (A). Drucke: MG. Const. 1, 309 n<hi rend="sup">o</hi>  218; Cenci, CD. di Gubbio 344 n<hi rend="sup">o</hi>  273; MG. DF. I. 410. Reg.: Hagemann, Archivio storico von Gubbio, QFIAB 29 (1938/39) 143 n<hi rend="sup">o</hi>  1; Stumpf 3990.</p></div>
+				
+				
+					<div type="commentary"><p>Mit Ausnahme eines von RH nachgetragenen Satzes über Ort und Zeit der Zahlungen an den Kaiser entspricht der Wortlaut des D. mit geringfügigen formalen Änderungen der ursprünglichen <hi rend="italic">conventio</hi>, vgl. Riedmann, Verträge 38 ff. - Nach dem Itinerar Rainalds von Dassel müßten die Vereinbarungen wohl im August - zwischen den Aufenthalten in Siena (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-01_2_0_4_2_2_664_1222.html" type="internal" n="regesten">1222</ref>) und Città di Castello (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-00_2_0_4_2_2_669_D1227.html" type="internal" n="regesten">1227</ref>) - getroffen worden sein. - Zum Inhalt vgl. Haverkamp, Herrschaftsformen, 190 ff. und Opll, Stadt und Reich, 287 f. - Die Gubbieser Kirchen S. Pietro und S. Donato di Pulpiano erhielten wenig später kaiserliche Diplome (DDF. I. 411 und 418 = Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-09_1_0_4_2_2_704_1262.html" type="internal" n="regesten">1262</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-13_1_0_4_2_2_712_1270.html" type="internal" n="regesten">1270</ref>), darüber hinaus wissen wir aus späterer historiographischer Überlieferung von mehreren Gunsterweisen des Herrschers für Leute aus Gubbio, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-00_4_0_4_2_2_718_D1276.html" type="internal" n="regesten">1276</ref> -<ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-00_7_0_4_2_2_721_1279.html" type="internal" n="regesten">1279</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0190" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_410" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

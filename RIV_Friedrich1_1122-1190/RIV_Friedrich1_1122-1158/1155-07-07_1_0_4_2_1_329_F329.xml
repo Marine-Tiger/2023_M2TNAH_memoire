@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †329</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-07-07_1_0_4_2_1_329_F329"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-07-07_1_0_4_2_1_329_F329"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-07-07_1_0_4_2_1_329_F329</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238648" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †329</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-07-07" to="1155-07-07">1155 Juli 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Tusculum</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(non. iulii, in territorio Tusculano)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Dauphin Guigo</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>gleichzeitige Nachzeichnung (in der Manier der sogenannten Lütticher Schriftprovinz) nach einem echten, von A II. D verfaßten und geschriebenen Original</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, Bischof Eberhard von Bamberg, Erzbischof Anselm von Ravenna, die Bischöfe Ortlieb (<hi rend="italic">Orthliuus</hi>) von Basel, Hermann von Konstanz, die Äbte Wibald von Stablo und Corvey, Markward von Fulda (<hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Otto (von Wittelsbach), die Markgrafen Otakar von Steier, Hermann von Verona, die Grafen Guido Guerra, Guido von Biandrate</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht in einem verunechteten Diplom dem <span sameAs="recipient"><hi rend="spaced">Dauphin Guigo</hi> </span>, Grafen von Albon (<hi rend="italic">Gygo Delfinus comes Albionensis</hi>), für seine unermüdliche Treue die Silbergrube bei Rame (<hi rend="italic">iuxta Ramas</hi>) im Erzbistum Embrun (<hi rend="italic">in archiepiscopatu Ebredunensi</hi>) zu erblichem Lehen und gewährt ihm das Recht, eine Münzstätte zu errichten, wo immer es ihm in seiner Grafschaft beliebt, unter Vorbehalt der kaiserlichen Gerechtsame. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, Bischof Eberhard von Bamberg, Erzbischof Anselm von Ravenna, die Bischöfe Ortlieb (<hi rend="italic">Orthliuus</hi>) von Basel, Hermann von Konstanz, die Äbte Wibald von Stablo und Corvey, Markward von Fulda (<hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Otto (von Wittelsbach), die Markgrafen Otakar von Steier, Hermann von Verona, die Grafen Guido Guerra, Guido von Biandrate</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi> </span>; <span n="clerk">gleichzeitige Nachzeichnung (in der Manier der sogenannten Lütticher Schriftprovinz) nach einem echten, von A II. D verfaßten und geschriebenen Original</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Si fidelium nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si fidelium nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Angebliches</hi>  Orig.: Departementalarchiv Grenoble (A). Drucke: Stumpf, Acta ined. 164 n<hi rend="sup">o</hi>  128; Chevalier, Cartul. de Saint-André-le-Bas 292 n<hi rend="sup">o</hi>  82*; MG. DF. I. 115. Reg.: Chevalier, Reg. Dauphinois 1, Sp. 664 n<hi rend="sup">o</hi>  3970; Stumpf 3715.</p></div>
+				
+				
+					<div type="commentary"><p>Das vorliegende Diplom ist eine äußerst geschickte Nachzeichnung einer echten Urkunde Friedrichs I. Die Verfälschung liegt wohl in der Freiheit der Wahl der Prägestätte für die Münzen des Dauphin, vgl. dagegen DF. I. 97 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-01-13_1_0_4_2_1_269_269.html" type="internal" n="regesten">269</ref>), wo dieses Recht für Cesana Torinese verliehen wurde. Zur Betonung der Lage von Rame im Erzbistum Embrun, die Grund für Konflikte mit dem Erzbischof bildete, der das Münzregal in seinem kirchlichen Sprengel beanspruchte, vgl. DK. III. 257 und Hirsch, Urkundenfälschungen (Forsch. zur Gesch. d. deutschen Kaiserzeit 1, 1937) 47. Friedrich II. bestätigt 1238 nicht die vorliegende Urkunde, sondern DF. I. 97 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-01-13_1_0_4_2_1_269_269.html" type="internal" n="regesten">269</ref>, B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-00-00_1_0_4_2_3_555_2327.html" type="internal" n="regesten">2327</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Nach Herkenrath, Legastheniker, AfD 33 (1987) 285 ff. handelt es sich nicht um ein angebliches, damit verunechtetes Diplom, sondern um eine echte Herrscherurkunde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0110" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_115" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

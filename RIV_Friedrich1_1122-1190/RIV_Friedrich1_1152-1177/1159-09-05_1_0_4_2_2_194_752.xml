@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 752</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-09-05_1_0_4_2_2_194_752"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-09-05_1_0_4_2_2_194_752"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-09-05_1_0_4_2_2_194_752</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242472" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 752</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-09-05" to="1159-09-05">(1159) September 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Crema">vor Crema</placeName>
+												<location><geo decls="#WGS">45.3667, 9.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(nonas septembris, apud Cremam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kirche des hl. Alexander</hi>  <hi rend="spaced">Bergamo</hi></recipient>
+				
+				
+				
+					<scribe>Geschrieben und wohl auch verfaßt von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt der <span sameAs="recipient"><hi rend="spaced">Kirche des hl. Alexander</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Bergamo</hi> </span>  wegen der Verdienste ihrer Kanoniker seine beiden Arimannen, die Brüder Taliarammus und Benedikt von Calusco, legt fest, daß diese im Fall der Lösung ihrer Untertänigkeit durch Geldzahlung oder eine andere Gabe sofort wieder unter seine Herrschaft zurückkehren sollen. - <span n="clerk">Geschrieben und wohl auch verfaßt von RG</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Notum facimus universis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus universis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtbibliothek Bergamo (A). Drucke: Lupi, CD. Bergom. 2, 1169; MG. DF. I. 280. Reg.: Stumpf 3864.</p></div>
+				
+				
+					<div type="commentary"><p>Die Verfügungsgewalt über die Arimannen wird in der Regaliendefinition von Roncaglia an erster Stelle genannt, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-22_1_0_4_2_2_53_611.html" type="internal" n="regesten">611</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0066" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_280" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

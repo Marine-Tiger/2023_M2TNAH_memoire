@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1020</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-21_1_0_4_2_2_462_1020"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-21_1_0_4_2_2_462_1020"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-02-21_1_0_4_2_2_462_1020</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1419873565" value="2014-12-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1020</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-02-21" to="1162-02-21">1162 Februar 21 und darauffolgende Tage</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Mailänder entsenden Vertreter (Gesta Fed. I.: Osa, dessen Sohn Albert und Anselm de Orto; Codagnelli Libellus tristitiae: auch Graf Guido von Biandrate) an den Kaiser, die ein Ende der Kampfhandlungen entweder durch bedingungslose Kapitulation oder durch ein Übereinkommen (<hi rend="italic">conventio</hi>) herbeiführen sollen. In der <hi rend="italic">conventio</hi>  sind als Bedingungen vorgesehen: Einebnung des Grabens, Zerstörung der Mauern und Türme, Stellung von 300 Geiseln auf drei Jahre nach Wahl des Kaisers, Annahme eines deutschen oder lombardischen Podestà nach kaiserlichem Willen, Rückstellung aller Regalien, Zahlung eines Strafgeldes (Chron. reg. Col., 103: 10.000 Mark), Errichtung einer Pfalz inner- oder außerhalb der Stadt auf deren Kosten, die Verpflichtung, die Befestigungen nur mit kaiserlicher Erlaubnis wiederaufzubauen, das Verbot von Bündnissen, Ausweisung von 3000 Bewohnern und jederzeitige Aufnahme des Kaisers und seines Heeres in der Stadt. Die Mehrheit der Fürsten unter Graf Guido von Biandrate setzt sich für die Annahme der <hi rend="italic">conventio</hi>  ein und kann sich gegen die Minderheit unter Erzbischof (Rainald) von Köln, die eine bedingungslose Kapitulation fordert und der offensichtlich auch die Vertreter der kaiserlichen Städte (Cremona, Pavia, Novara, Como und Lodi) angehören (Acerbus Morena), zunächst durchsetzen. Da jedoch eine Erfüllung der Bedingungen auch nur zum Teil völlig unmöglich ist, fügen sich die Mailänder letztlich nach Lösung der Bündnisse mit Brescia und Piacenza in die Unterwerfung.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Bericht des kaiserlichen Notars Burchard von Köln in seinem Schreiben an Abt Nikolaus von Siegburg, Reg. 1035. - Vgl. auch Acerbus Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 150, Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 50 ff., Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 103 f. (zu 1160) und 109 f., Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 249 und Sigeb. Auct. Afflig., MG. SS VI, 405.</p></div>
+				
+				
+					<div type="commentary"><p>Die genaueste Überlieferung bietet Burchard von Köln, vgl. dazu auch Güterbock, Le lettere, Boll. dell'ist. stor. ital. 61 (1949) 23 f. - Tendenziös entstellt ist der Bericht im Libellus tristitiae et doloris, ed. Holder-Egger (wie Gesta Fed. I.); vgl. dazu - insbesondere zu dem Mailänder &amp;quot;Verräter&amp;quot; Jordanes Scacabaroccius, die Arbeit von Fasola, Una famiglia di sostenitori, QFIAB 52 (1972) 131 ff. - Waitz möchte den Bericht der Chron. reg. Col. (a. a. O., 104 Anm. 1) zu 1161 setzen, doch ist der Konnex mit der im Burchard-Brief überlieferten <hi rend="italic">conventio</hi>  so deutlich, daß die Nachricht wohl ebenfalls hieher gehört. - Auf die Verwendung der nicht vollzogenen <hi rend="italic">conventio</hi>  mit Mailand für die Abfassung der Übereinkommen mit anderen Städten weist Herkenrath, Miszellen, AfD 28 (1982) 251 ff. hin.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0130" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

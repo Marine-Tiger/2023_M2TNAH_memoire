@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 790</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-12-30_1_0_4_2_2_232_790"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-12-30_1_0_4_2_2_232_790"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-12-30_1_0_4_2_2_232_790</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242632" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 790</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-12-30" to="1159-12-30">1159 Dezember 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Belagerung von Crema</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(tertio kalendas ianuarii, in obsidione Cremae)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Tinto Mussa de Gatta von Cremona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Raynaldus Coloniensis archiep. et Italiae archicanz.</hi></notarius>
+				
+				
+					<scribe>verfaßt und wohl auch geschrieben von RG (das nachgezeichnete Monogramm entspricht allerdings der Manier des RH)</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Investitur): Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Konrad bei Rhein, die Herzoge Heinrich von Kärnten und Berthold von Zähringen, Graf Hugo von Dagsburg, Graf Walter, Graf Friedrich von Eppan, Burchard von Hasenburg und der kaiserliche Hofrichter Guibertus de Bornado</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den <span sameAs="recipient"><hi rend="spaced">Tinto Mussa de Gatta von Cremona</hi> </span>  und seine männlichen und weiblichen Nachkommen wegen seiner großen Verdienste nach Grafschaftsrecht mit der Grafschaft der Insula Fulcherii innerhalb der angegebenen Grenzen mit allen dazugehörigen Besitzungen und Rechten sowie unter Zustimmung seines Oheims, des Herzogs Welf (VI.), mit der Burg Prada, die den Mailändern als Reichsfeinden aberkannt worden ist, und mit allen mailändischen Allodialgütern innerhalb der Zugehörungen dieser Burg. <span n="witnesses">Z. (der Investitur): Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Konrad bei Rhein, die Herzoge Heinrich von Kärnten und Berthold von Zähringen, Graf Hugo von Dagsburg, Graf Walter, Graf Friedrich von Eppan, Burchard von Hasenburg und der kaiserliche Hofrichter Guibertus de Bornado</span>. - <span n="chancellor"><hi rend="italic">Raynaldus Coloniensis archiep. et Italiae archicanz.</hi> </span>; <span n="clerk">verfaßt und wohl auch geschrieben von RG (das nachgezeichnete Monogramm entspricht allerdings der Manier des RH)</span>. <span n="incipit"><hi rend="italic">Quamvis omnibus, qui</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamvis omnibus, qui</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. G. 94 f. 224, Biblioteca Vallicelliana zu Rom (D). Drucke: Böhmer, Acta imp. 101 n<hi rend="sup">o</hi>  109; MG. DF. I. 290. Reg.: Astegiano, CD. Cremonae 1, 125 n<hi rend="sup">o</hi>  192; Stumpf 3876.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. die Vorbemerkung zum D. - Die Verfügung gehört in die Reihe der Folgewirkungen der über Mailand und Crema verhängten Reichsacht, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-04-16_1_0_4_2_2_142_700.html" type="internal" n="regesten">700</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-09-18_1_0_4_2_2_198_756.html" type="internal" n="regesten">756</ref>. Zu den Reichsrechten über die Insula Fulcherii vgl. auch den Spruch der kaiserlichen Hofrichter von 1188 Oktober 13 bei Vignati, CD. Laudense 2, 154 n<hi rend="sup">o</hi>  136. - Die Ausdehnung der Insula Fulcherii zwischen Adda und Serio bei Arbinger, Komitat, Adel und städtische Kommune, masch. phil. Diss. (Wien 1967) 129 Karte 5. - Die Zustimmung Herzog Welfs VI. resultierte aus seiner Stellung als Herr der Mathildischen Güter, vgl. Feldmann, Welf VI., 46 f. und ebda., Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-05-00_3_0_4_2_1_92_92.html" type="internal" n="regesten">92</ref>. - Zum Empfänger vgl. schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-05-17_1_0_4_2_2_151_709.html" type="internal" n="regesten">709</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0075" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_290" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

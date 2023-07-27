@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 94</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-06-01_1_0_4_2_1_94_94"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-06-01_1_0_4_2_1_94_94"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-06-01_1_0_4_2_1_94_94</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235475" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 94</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-06-01" to="1152-06-01">(1152 vor Juni 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Herzog Berthold (IV. von Zähringen)</hi></recipient>
+				
+				
+				
+					<scribe>Vielleicht von Wibald verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit <span sameAs="recipient"><hi rend="spaced">Herzog Berthold (IV. von Zähringen)</hi></span> einen Vertrag über die Ordnung der Verhältnisse im Königreich Burgund: Der König verpflichtet sich, mit dem Herzog nach Burgund und in die Provence zu ziehen, ihm die Länder unterwerfen zu helfen und ihm zu übergeben; Graf Wilhelm von Mâcon muß über das Land, das er von seiner Nichte (Beatrix, die spätere Kaiserin) her innehat, dem Herzog Rechenschaft geben; Herrschaft und Leitung beider Länder stehen dem König bei Anwesenheit zu, nach seinem Abzug verbleiben nur die Erzbistümer und Bistümer in seiner Verfügungsgewalt; Bischöfe, die bisher vom Grafen Wilhelm oder anderen Fürsten investiert wurden, empfangen ihre Investitur vom Herzog. Bürgen des Königs: Herzog Heinrich von Sachsen, <hi rend="italic">dominus</hi>  Welf, Kanzler Arnold, die Grafen Ulrich von Lenzburg, Egeno (wohl von Vaihingen) und Ulrich von Herrlingen (<hi rend="italic">H얏rnunge</hi>), Markward von Grumbach, Arnold von Biberbach, Pfalzgraf Otto von Wittelsbach, der Truchseß Walther, der Mundschenk Hildebrand, (der Reichsministeriale) Konrad Colbo und sein Bruder Siegfried. - Herzog Berthold verpflichtet sich, für den Burgundzug des Königs tausend Panzerreiter (<hi rend="italic">loricatos equites</hi>), für den Italienzug, an dem er teilnehmen wird, für die Zeit seiner Anwesenheit fünfhundert Panzerreiter und fünfzig Armbrustschützen (<hi rend="italic">arcobalistarios</hi>) zu stellen; als Pfand wird er dem König sein Allod, die Burg Teck (<hi rend="italic">Thecche</hi>), mit allen Ministerialen und dazugehörigen Gütern sowie Oethlingen (<hi rend="italic">Hetlingen</hi>), Wellingen (<hi rend="italic">Willigen</hi>) und Erstein mit allen Pertinenzen geben. Für den Herzog schwören seine Ministerialen Burchard und Werner. - Der König wird seinen Feldzug in die genannten Länder vom nächsten 1. Juni in der 15. Indiktion (1152 Juni 1) an innerhalb eines Jahres antreten. -<span n="clerk">Vielleicht von Wibald verfaßt</span>. <span n="incipit"><hi rend="italic">Hęc est conventio</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Hęc est conventio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 12. Jh. im Cod. Wibaldi f. 125, Staatsarchiv Lüttich (B). Drucke: Jaffé, Mon. Corb. 514 n<hi rend="sup">o</hi>  383; MG. Const. 1, 199 n<hi rend="sup">o</hi>  141; MG. DF. I. 12. Reg.: Hidber 2, n<hi rend="sup">o</hi>  1982; Stumpf 3628.</p></div>
+				
+				
+					<div type="commentary"><p>Formlose Aufzeichnung des bereits vorher mündlich durch Eidesleistungen der genannten Personen geschlossenen Vertrages; gegen Erben, Privilegium für Österreich 41 f., aber wohl keine von Wibald für seine eigenen Zwecke aufgezeichnete Notiz, vgl. Vorbemerkung zum D. Es kam wohl nicht zur Ausfertigung eines feierlichen Diploms, vgl. zuletzt Riedmann, Verträge, SB. Wien 291/3 (1973) 139 ff. - Die zeitliche Einordnung ergibt sich aus dem Termin für den geplanten Burgundzug, der Abschluß des Vertrages ist nach der teilweisen Übereinstimmung der genannten Bürgen mit den Zeugenlisten der DD. F. I. 9-11 wohl mit Simonsfeld, Jahrbücher 78 in den Mai 1152 zu setzen. - Zum Inhalt vgl. Rauch, Bündnisse mit Reichsangehörigen (Untersuchungen zur dt. Staats- u. Rechtsgesch. N. F. 5, 1966) 5 ff., Büttner, Friedrich Barbarossa und Burgund (VuF 12, 1968) 88 f. und ders., Staufer und Zähringer (VuF 15, 1972) 468 f. - Zum Geschlecht derer von <hi rend="italic">H얏rnunge</hi>  vgl. die Ausführungen von Jänichen, Herrschafts- und Territorialverhältnisse (Schriften zur südwestdeutschen Landeskunde 2, 1964) 4 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0035" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_12" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=541" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref> zum Mai</item><item><ref target="http://www.wubonline.de/?wub=543" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref> zu vor 1. Juni</item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

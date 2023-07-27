@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 987</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-09-08_2_0_4_2_2_429_987"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-09-08_2_0_4_2_2_429_987"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-09-08_2_0_4_2_2_429_987</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243672" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 987</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-09-08" to="1161-09-08">(1161 bald nach September 8)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi>  <hi rend="spaced">Salzburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich tadelt Erzbischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Salzburg</hi> </span>  wegen dessen neuerlicher Mißachtung des kaiserlichen Befehls, am Fest Mariä Geburt (September 8) vor ihm zu erscheinen, und befiehlt ihm aufs eindringlichste, ihn um Ostern (1162 April 8) mit Heeresmacht zu unterstützen und sich am 15. Tag nach diesem Termin (1162 April 22) mit seinen Truppen auf dem Felde bei Verona einzufinden, was er dem Überbringer dieses Schreibens, dem kaiserlichen Boten und Kapellan Burchard von Köln, in die Hand geloben müsse; für den Fall der abermaligen Mißachtung der Ladung droht er Maßnahmen an, welche die Leistung des dem Reich schuldigen Dienstes der Salzburger Kirche gewährleisten würden. - <span n="incipit"><hi rend="italic">Cum sacri imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum sacri imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige Abschrift im Cod. pal. Vind. 629 (Admonter Briefsammlung) f. 46, Nationalbibliothek Wien (B). Drucke: MG. Const. 1, 276 n<hi rend="sup">o</hi>  199; Hödl - Classen, Admonter Briefsammlung, MG. Briefe VI, 110 n<hi rend="sup">o</hi>  57; MG. DF. I. 341. Reg.: Stumpf 3920.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der Nennung der nicht befolgten Ladung zum 8. September, vgl. auch DF. I. 327 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-05-21_1_0_4_2_2_396_954.html" type="internal" n="regesten">954</ref>). - Vgl. dazu auch Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-12-00_2_0_4_2_2_444_1002.html" type="internal" n="regesten">1002</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-12-25_2_0_4_2_2_449_1007.html" type="internal" n="regesten">1007</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0122" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_341" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

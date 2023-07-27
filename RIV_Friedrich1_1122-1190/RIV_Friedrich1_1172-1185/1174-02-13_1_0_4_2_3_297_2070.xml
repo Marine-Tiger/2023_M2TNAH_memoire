@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2070</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-13_1_0_4_2_3_297_2070"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-13_1_0_4_2_3_297_2070"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-02-13_1_0_4_2_3_297_2070</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1340986342" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2070</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-02-13" to="1174-02-13">1174 Februar 13 — Mai 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(—)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Christian, Erzbischof von Mainz, Erzkanzler für Deutschland und Reichslegat für Italien, verleiht den Einwohnern von <hi rend="spaced">Narni</hi>  in Ansehung ihrer Verdienste um das Reich, vor allem der von ihnen aufgebrachten Geldmittel, mit Zustimmung des Reichslegaten für den Dukat Spoleto, Konrads (von Urslingen), die <hi rend="italic">insula</hi>  der Stadt Terni, deren Volk er wegen zahlreicher Missetaten, insbesondere wegen Falschmünzerei, aus ihrer Heimat vertrieben hat.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hägermann, Urkunden, AfD 14 (1968) 257 n<hi rend="sup">o</hi>  18.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik dieser in einer gelehrten Abschrift Theodor Wüstenfelds von ca. 1880 überlieferten Legatenurkunde, die vom Leiter der Legatenkanzlei, Magister Robert, verfaßt und von einem im Frühjahr 1174 mehrfach für Erzbischof Christian tätigen Schreiber (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-02-13_1_0_4_2_3_281_2055.html" type="internal" n="regesten">2055</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-05-06_1_0_4_2_3_298_2071.html" type="internal" n="regesten">2071</ref>) geschrieben wurde, sowie zu ihrer zeitlichen Einordnung vgl. Hägermann, a.a.O., 257 ff, und Acht, Mainzer UB. II/1, 599 n<hi rend="sup">o</hi>  358 (zu 1174 März — April). — Zur Zerstörung von Terni, die im März oder im April 1174 erfolgt sein dürfte, vgl. auch Burchard von Ursberg, ed. Holder-Egger-Simson, MG.SS rer.Germ.in us.schol., 52, und dazu Hägermann, a.a.O., 260 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0108" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

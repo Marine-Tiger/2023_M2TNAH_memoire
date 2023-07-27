@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3381</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-07-11_1_0_4_2_4_811_3381"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-07-11_1_0_4_2_4_811_3381"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-07-11_1_0_4_2_4_811_3381</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3381</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-07-11" to="1189-07-11">1189
+									Juli 2–11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Braničevo an der Donau</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lagert gemeinsam mit dem Kreuzheer, 								darunter seinem Sohn, Herzog (Friedrich) von Schwaben, sieben (Hist. 								peregrinorum; Chron. reg. Col.: acht) Tage lang zu Braničevo an der 								Donau, wo sie vom hiesigen (byzantinischen) <hi rend="italic">dux</hi>, freilich nur vorgeblich, ehrenvoll empfangen werden. 								Hier werden die bisher auf Schiffen transportierten Versorgungsgüter 								auf Wagen umgeladen. Der Kaiser erhält von König (Bela III.) von 								Ungarn zahlreiche von jeweils zwei Stieren gezogene Wagen voll mit 								Mehl. Der ungarische Herrscher ehrt den Kaiser durch Boten und 								übergibt ihm vier Kamele, beladen mit wertvollen Geschenken mit 								einem Wert von etwa 5.000 Mark. Friedrich dankt dem König und 								überlässt ihm alle Schiffe, die ihm von Regensburg her gefolgt sind. 								Graf Friedrich der Jüngere von Abenberg erhält hier die 								Schwertleite. Erzbischof (Aimo) von Tarentaise sowie Grafen (der 								Graf von Salm und der Bruder des Grafen Siegfried? von Vianden) und 								Metzer Bürger (siehe dazu oben Reg. 3274) schließen sich hier dem 								Kreuzheer an.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Iohannes de Piscina de transfretatione 								Friderici I., MG. SS XXII, 339 (berichtet hier schon von Übergriffen 								auf das Kreuzheer durch den byzantinischen Herzog von Braničevo im 								Auftrag des Basileus); Chron. Montis Sereni, MG. SS XXIII, 161 (zu 								Juli 6: … <hi rend="italic">Danubium transiit, ubi Ungarorum et 									Grecorum regnum dividitur</hi>); Chron. reg. Col., ed. Waitz, 								MG. SS rer. Germ. in us. schol., 144 (zu um Juni 29: <hi rend="italic">… Brundusium </hi>[!]<hi rend="italic"> 									pervenerunt. Ibique per dies octo quieverunt</hi>); Hist. de 								expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 								5, 27 f. (deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 79, 81 und 83 f.); Hist. peregrinorum, ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 132.</p></div>
+				
+				
+					<div type="commentary"><p>Genaue Daten bietet die Hist. de expeditione 								Friderici (Ansbert). – Zur Problematik der miteinander nicht 								koordinierbaren Zeitangaben (Aufenthaltsdauer) vgl. auch oben die 								Bemerkungen zu Reg. 3367. – Zum Verhalten des byzantinischen 								Statthalters von Braničevo vgl. auch unten Reg. 3385. – Zu 								Übergriffen, denen das Kreuzheer in der Folge ausgesetzt war, siehe 								Regg. 3382, 3385–3388 und 3390. – Heute bezeichnet der Name 								Braničevo einen serbischen Distrikt mit dem Hauptort Požarevac 								(Passarowitz).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

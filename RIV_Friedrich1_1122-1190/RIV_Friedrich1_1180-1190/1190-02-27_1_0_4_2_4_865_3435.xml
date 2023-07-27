@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3435</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-27_1_0_4_2_4_865_3435"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-27_1_0_4_2_4_865_3435"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-02-27_1_0_4_2_4_865_3435</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3435</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-02-27" to="1190-02-27">1190
+									Februar 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Edirne">Adrianopel (Edirne)</placeName>
+												<location><geo decls="#WGS">41.6667, 26.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bei Friedrich treffen die erwarteten Geiseln und die 								Führer der Byzantiner, die dem Kreuzheer das Geleit geben sollen 								(siehe dazu oben Reg. 3431) ein, und man tauscht Gaben aus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513 (zu 								Februar 27); Hist. de expeditione Friderici (Ansbert), ed. Chroust, 								MG. SS rer. Germ. N.S. 5, 67 (zu Februar 27) (deutsche Übersetzung 								von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 122); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 152 (irrig wird 								zu Februar 27 bereits der Aufbruch von Adrianopel erwähnt); Tageno, 								ed. Struve, Rerum Germanicarum Scriptores I (1717) 411 (zu Februar 								27); Niketas Choniates II/6, ed. Bekker, 538 f. bzw. ed. van Dieten, 								411 (deutsche Übersetzung bei Grabler, Abenteurer auf dem 								Kaiserthron, 215).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Giesebrecht – Simson, Kaiserzeit VI, 253 f. 								(Nennung der Quellen) und 709. – Niketas berichtet, dass sich einige 								der als Geiseln auserkorenen Leute weigerten, diese Rolle zu 								übernehmen, weshalb der Basileus diese bestrafte (dies wurde später 								wieder zurückgenommen) und an deren Stelle andere Personen schickte. 								Der byzantinische Historiograph nennt vier Kentenare Silbermünzen 								und herrliche, golddurchwirkte Stoffe als Geschenke des Basileus, 								und betont, dass auch der Staufer dem Byzantiner Gegengaben 								überreichen ließ.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

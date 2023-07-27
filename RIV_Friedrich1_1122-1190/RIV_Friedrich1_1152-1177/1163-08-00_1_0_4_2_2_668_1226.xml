@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1226</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-00_1_0_4_2_2_668_1226"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-00_1_0_4_2_2_668_1226"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-08-00_1_0_4_2_2_668_1226</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1358501491" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1226</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-08-01" to="1163-08-31">(1163 August)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>, auf dem die Bischöfe (Petrus) von Pavia und (Heinrich) von Troyes und zwei Kardinäle, (Otto) von Brescia (Kardinaldiakon von S. Nicola in Carcere Tulliano) und ein anderer (wohl Albert von S. Lorenzo in Lucina), sowie Magister Roland als Gesandte Papst Alexanders III. erscheinen. Nach zunächst gescheiterten Verhandlungen einigt man sich im freundschaftlichen Gespräch mit den beiden Bischöfen darauf, daß zwei neutrale Kirchenmänner eine siebenköpfige Schiedskommission aus Lateinern (=Italienern) oder Deutschen nominieren mögen, deren Entscheidung (über das Schisma) auf einem Konzil in der Lombardei erfolgen solle. Friedrich kann König (Vladislav) von Böhmen, Herzog Welf (VI.) und - wie es heißt - Herzog (Heinrich) von Österreich und Markgraf (Otakar) von Steier von der Teilnahme an einer Verschwörung abbringen, wobei Markgraf Albrecht (der Bär) von Sachsen, Pfalzgraf (Adalbert von Sommerschenburg) von Sachsen, Bischof (Udo) von Zeitz und Landgraf (Ludwig) von Thüringen gegen Herzog (Heinrich den Löwen) von Bayern Krieg führen wollten. Mit den Polen wird Frieden geschlossen, wobei diese den Sohn ihres vertriebenen Herzogs (Boleslaw, den Sohn Wladislaws) aufnehmen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Vgl. dazu den Bericht in Reg. 1239 sowie auch Cont. Cremifanensis, MG. SS IX, 545, Chron. Montis Sereni, MG. SS XXIII, 152 und Germ. Pont. I, 200 n<hi rend="sup">o</hi>  33.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. insbesondere die Angaben in den erläuternden Fußnoten der Edition von Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-21_1_0_4_2_2_681_1239.html" type="internal" n="regesten">1239</ref>, Giesebrecht, Kaiserzeit V, 378 f., Pelzer, Friedrichs I. Politik gegenüber Dänemark, Polen und Ungarn, 28 f. und Randt, in: Geschichte Schlesiens I (1938) 77 (zur polnischen Frage) sowie Ohnsorge, Legaten Alexanders III., 59 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Zu den Angaben hinsichtlich Polens sind folgende Quellen zu ergänzen: 1. Vincentii Chron. Polonorum lib. IV, MG. SS XXIX, 494 (erwähnt Interventionen des Kaisers wie der Kaiserin Beatrix zugunsten der Brüder Boleslaw, Mieszko des Jüngeren Loripes und Konrad, die durch [Groß]Herzog Boleslaw von Polen im Gefolge einer Teilung Schlesiens in Herrschaftsrechte eingesetzt werden) und &amp;#x2012; 2. Ioannis Dlugossii Annales lib. V, ed. Budkowa et al. (1973), 74 ff. (zu 1163: die Interventionen des Kaisers zugunsten Herzog Boleslaws und seiner Brüder sind erfolgreich; es kommt zur Teilung Schlesiens, das auf Boleslaw, Mieszko und Konrad aufgeteilt wird). &amp;#x2012; Siehe dazu auch Reg. 1101 sowie hier oben den Nachtrag zu Reg. 1101.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0183" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

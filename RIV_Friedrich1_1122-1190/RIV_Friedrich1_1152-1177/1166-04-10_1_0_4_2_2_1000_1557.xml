@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1557</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-04-10_1_0_4_2_2_1000_1557"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-04-10_1_0_4_2_2_1000_1557"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-04-10_1_0_4_2_2_1000_1557</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595317" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1557</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-04-10" to="1166-04-10">1166 April 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII idus aprilis, Ratispone)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Asbach</hi>  <hi rend="spaced">Bamberg</hi>  <hi rend="spaced">Regensburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Data per manum Christiani sacri palacii canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben außerhalb der Kanzlei nach Bamberger Empfängerdiktat</scribe>
+				
+				
+					<testis function="witnesses">die Herzoge Heinrich von Bayern und Sachsen und Friedrich von Rothenburg, Pfalzgraf Otto und sein Bruder Friedrich von Wittelsbach, Markgraf Berthold von Vohburg, Graf Berengar von Sulzbach, Burggraf Heinrich von Regensburg und sein Bruder, Landgraf Otto, Markward von Grumbach, Gebhard von Leuchtenberg und sein Bruder Markward; von den Regensburger Ministerialen: Sieghard von Eberspoint, Vitztum Ulrich und Nize von Reitenbuch; von den Bamberger Ministerialen: Hartlieb von Winzer, Eppo und Rapoto und Goswin von Osterhofen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Bischofs Eberhard von Bamberg und des Elekten Eberhard von Regensburg einen (im Interesse des bambergischen Eigenklosters <span sameAs="recipient"><hi rend="spaced">Asbach</hi> </span>  vollzogenen) Gütertausch zwischen den Bistümern <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Regensburg</hi> </span>. <span n="witnesses">Z.: die Herzoge Heinrich von Bayern und Sachsen und Friedrich von Rothenburg, Pfalzgraf Otto und sein Bruder Friedrich von Wittelsbach, Markgraf Berthold von Vohburg, Graf Berengar von Sulzbach, Burggraf Heinrich von Regensburg und sein Bruder, Landgraf Otto, Markward von Grumbach, Gebhard von Leuchtenberg und sein Bruder Markward; von den Regensburger Ministerialen: Sieghard von Eberspoint, Vitztum Ulrich und Nize von Reitenbuch; von den Bamberger Ministerialen: Hartlieb von Winzer, Eppo und Rapoto und Goswin von Osterhofen</span>. - <span n="chancellor"><hi rend="italic">Data per manum Christiani sacri palacii canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben außerhalb der Kanzlei nach Bamberger Empfängerdiktat</span>. <span n="incipit"><hi rend="italic">Immortale premium ab</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Immortale premium ab</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Zwei Abschriften des 15. Jh., Hauptstaatsarchiv München, Kloster Asbach Lit. 2 f. 17' (B) und Lit. 3 f. 103 (C). Drucke: Geier, Traditionen des Klosters Asbach (Quellen u. Erört. zur bayer. Gesch. N. F. 23, 1969) 89 n<hi rend="sup">o</hi>  5; MG. DF. I. 509. Reg.: Stumpf 4068.</p></div>
+				
+				
+					<div type="commentary"><p>Der eigentliche Empfänger des D. war das Kloster Asbach, wie sich deutlich aus der Urkunde Bischofs Hartwigs II. von Regensburg von 1163 über die gleiche Angelegenheit (Geier, a. a. O. 85 n<hi rend="sup">o</hi>  3), die jedoch bei der Abfassung des D. nicht herangezogen wurde, und aus der Überlieferung des D. ergibt; zum Kloster vgl. Geier, a. a. O. *23 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0264" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_509" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

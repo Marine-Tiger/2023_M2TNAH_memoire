@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 469</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-07-00_3_0_4_2_1_471_469"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-07-00_3_0_4_2_1_471_469"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-07-00_3_0_4_2_1_471_469</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1423579319" value="2015-02-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 469</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-07-01" to="1157-07-31">1157 (Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Bamberg">Bamberg</placeName>
+												<location><geo decls="#WGS">49.9, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kanonikern</hi>  <hi rend="spaced">St. Peter</hi>  <hi rend="spaced">Öhringen</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">der noch unmündige Herzog Friedrich (von Schwaben), Graf B(oppo von Henneberg?), M(arkward) von Grumbach, Vogt A(rnold) von Rothenburg, Graf Gerhard, der Widersacher des Stiftes, Propst Gottfried von Öhringen, Dekan Ulrich, der Pfarrangehörige Herold, Kustos Dammo, Kellermeister Ekkebert, Pförtner Ulrich, Adelrad, Dibert, Suibbodo und andere Kanoniker sowie die Laien Vogt F(riedrich) von Öhringen mit den Ministerialen des Stiftes Herold, Ludwin, Ekkebert, Konrad, Ekkebert, Ekeno, Dietmar und Gernod</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Vor Friedrich wird den <span sameAs="recipient"><hi rend="spaced">Kanonikern</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">St. Peter</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Öhringen</hi> </span>, die mit ihrem Vogt Friedrich (von Bilried) und Bischof Hartwig von Regensburg, ihrem Herrn, auf den Hoftag zu Bamberg gekommen sind, ihr Recht an den genannten Zensualen in Gollhofen, das ihnen Graf Gerhard von Bergtheim streitig gemacht hat, durch kaiserliches Urteil (<hi rend="italic">imperiali censura assistentiumque principum favore</hi>) bestätigt. <span n="witnesses">Z.: der noch unmündige Herzog Friedrich (von Schwaben), Graf B(oppo von Henneberg?), M(arkward) von Grumbach, Vogt A(rnold) von Rothenburg, Graf Gerhard, der Widersacher des Stiftes, Propst Gottfried von Öhringen, Dekan Ulrich, der Pfarrangehörige Herold, Kustos Dammo, Kellermeister Ekkebert, Pförtner Ulrich, Adelrad, Dibert, Suibbodo und andere Kanoniker sowie die Laien Vogt F(riedrich) von Öhringen mit den Ministerialen des Stiftes Herold, Ludwin, Ekkebert, Konrad, Ekkebert, Ekeno, Dietmar und Gernod</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnung in einer Urkunde des Stiftskapitels zu Öhringen von 1157, ed. Wirtemberg. UB. 2, 105 n<hi rend="sup">o</hi>  356; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  148; Stumpf 3774 a.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Auflösungen der Namen vgl. den angegebenen Druck sowie Simonsfeld, Jahrbücher 539 f. mit Anm. 81.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0158" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.wubonline.de/?wub=567" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

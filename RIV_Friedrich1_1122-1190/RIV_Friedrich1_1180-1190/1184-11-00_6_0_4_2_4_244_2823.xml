@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2823</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-00_6_0_4_2_4_244_2823"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-00_6_0_4_2_4_244_2823"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-00_6_0_4_2_4_244_2823</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2823</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-01" to="1184-11-30">1184
+									(Oktober/November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Verona">Verona</placeName>
+												<location><geo decls="#WGS">45.4167, 11.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Adalbert von Salzburg kann vor Papst 								Lucius (III.) und Kaiser Friedrich trotz der Anwesenheit von Gegnern 								aus dem Kreis der Gurker Kirche, darunter Hermann (von Ortenburg) 								und Dompropst (Hertnid) von Gurk, seine Ansprüche auf die Oberhoheit 								der Salzburger über die Gurker Kirche durchsetzen. Sowohl der Papst 								als auch der Kaiser stellen ihm entsprechende Privilegien (siehe 								dazu Reg. 2824) aus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Schreiben Erzbischof Adalberts von 								Salzburg an Dompropst G(undaker) von Salzburg und das Salzburger 								Domkapitel, unten Reg. 2830; vgl. Jaksch, Mon. Duc. Car. 1, 248 n<hi rend="sup">o</hi> 330 mit Anm. 3.</p></div>
+				
+				
+					<div type="commentary"><p>Die entsprechende Urkunde Lucius’ III. 								(Bestätigung des Rechts des Salzburger Erzbischofs, den Bischof von 								Gurk zu wählen) ist überliefert, siehe dazu Jaksch, a.a.O., 249 no 								331 von 1184 Dezember 3, Verona. – Die Anwesenheit Adalberts bei 								Hofe lässt sich zum 3. November 1184 nachweisen, siehe dazu oben 								Reg. 2806. – Zur Sache vgl. Patze, Osten, in: Probleme des 12. 								Jahrhunderts (VuF 12, 1968) 395, und Fräss-Ehrfeld, Geschichte 								Kärntens 1, 218.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

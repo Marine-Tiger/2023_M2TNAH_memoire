@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich – RI IV,2,3 n. 2316a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-27_2_1_4_2_3_544a_2316a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-27_2_1_4_2_3_544a_2316a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-27_2_1_4_2_3_544a_2316a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358516165" value="2013-01-18"></date>
+				<date type="lastmod" n="1426608146" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2316a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-27" to="1177-08-27">1177 August 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIo kl. Septembris, apud Uenecias in palatio ducis)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem <hi rend="gesperrt">Priorat Saint - Just zu Arbois</hi>, dessen Mühlen bei der Burg Arbois nach Berichten des Abtes Ado (II.) von Saint-Oyend-de-Joux und des Priors Wilhelm von Arbois durch die dort gelegenen kaiserlichen Mühlen beinahe zerstört werden und ihnen keinen Nutzen bringen, durch die Hand Graf Ludwigs von Pfirt, seines dispensator in Burgund (<hi rend="italic">qui noster in Burgundia dispensator erat</hi>), ebendiese kaiserlichen Mühlen (<hi rend="italic">in custodiam et procurationem prioris iamdicti ponerentur</hi>), legt dabei jedoch fest, dass der Ertrag dieser Mühlen zur Hälfte an den Prior und dessen Brüder, zur anderen Hälfte an ihn selbst fallen solle. – Vielleicht von Burkhard verfasst. <hi rend="italic">Commoda et profectus ecclesiarum</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Commoda et profectus ecclesiarum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift vom Anfang des 13. Jh. in Lons-le-Saunier, Archives départementales du Jura, 2 H 1354 (B); Abschrift des 14. Jh., ebenda (C); Abschrift des 14./15. Jh., ebenda (D). Drucke: Mariotte, Comté de Bourgogne, 163 n<hi rend="sup">o</hi> 31 (zu 1178); MG.DF.I.*764 (zu 1178); Höflinger – Spiegel, Eine neugefundene Urkunde, AfD 47/48 (2001/02) 89 (aus den angeführten, der DDF.I.-Ausgabe unbekannt gebliebenen Überlieferungen B, C und D). Reg.: Reg. Imp. F. I./3, n<hi rend="sup">o</hi> 2447.</p></div>
+				
+				
+					<div type="commentary"><p>Die Kenntnis des bislang aufgrund der von Mariotte bekannt gemachten Regestenüberlieferung irrig zu 1178 datierten DF.I.*764 (siehe auch Reg. 2447) hat sich bei der Suche nach archivalischen Überlieferungen für die Edition der Urkunden Kaiser Friedrichs II. durch Walter Koch ergeben, vgl. dazu Höflinger – Spiegel, a.a.O., 85 ff. – Die hier vorgenommene Diktatzuweisung resultiert aus Anklängen an das Diktat des während des Friedenskongresses von Venedig vielfach tätigen Kanzleinotars Burkhard. – Interesse verdient insbesondere die Bezeichnung des Pfirter Grafen als kaiserlicher <hi rend="italic">ispensator</hi> für Burgund, bringt sie doch abermals den fortschrittlichen Status der burgundischen Reichsverwaltung in frühstaufischer Epoche zum Ausdruck, vgl. dazu im besonderen die Arbeit von Mariotte, ebda.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360657359" value="2013-02-12"></date><p n="author">Redaktion</p><p>Nachtrag von F. Opll in RI IV,2,4, S. LI.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_764" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

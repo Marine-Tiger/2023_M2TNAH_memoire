@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1144</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-09-07_1_0_4_2_2_586_1144"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-09-07_1_0_4_2_2_586_1144"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-09-07_1_0_4_2_2_586_1144</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244878" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1144</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-09-07" to="1162-09-07">1162 September 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Saint-Jean-de-Losne</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII<hi rend="sup">o</hi>  idus septembris, apud Pontem Laone super Saonam fluvium)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Savigny</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Ulricus canc. vice Reinaldi Coloniensis electi archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung von DH. IV. 397 aller Wahrscheinlichkeit nach verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Primas und Erzbischof Heraclius von Lyon, Herzog Heinrich von Bayern und Sachsen, Graf Berthold von Andechs, Protonotar Heinrich, Archidiakon Drogo von Lyon, Truchseß Dalmacius Morellus von Lyon</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Erzbischofs und Primas Heraclius von Lyon das dem Kloster <span sameAs="recipient"><hi rend="spaced">Savigny</hi> </span>  unterstehende Priorat Lutry im Bistum Lausanne sowie die demselben Kloster unterstehenden Priorate Talloires, Saint-Jorioz und Lovagny in der Diözese Genf und Bourdeaux in der Diözese Die samt ihren Besitzungen und Rechten in seinen Schutz und bestätigt dem Kloster Savigny unter Vorbehalt der kaiserlichen Gerechtsame alle diese Kirchen und die im Reichsgebiet gelegenen Güter. <span n="witnesses">Z.: Primas und Erzbischof Heraclius von Lyon, Herzog Heinrich von Bayern und Sachsen, Graf Berthold von Andechs, Protonotar Heinrich, Archidiakon Drogo von Lyon, Truchseß Dalmacius Morellus von Lyon</span>. - <span n="chancellor"><hi rend="italic">Ulricus canc. vice Reinaldi Coloniensis electi archicanc.</hi> </span>; <span n="clerk">unter Heranziehung von DH. IV. 397 aller Wahrscheinlichkeit nach verfaßt und geschrieben von RG</span>. <span n="incipit"><hi rend="italic">Inclinare precibus fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inclinare precibus fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Vidimus von 1481 Oktober 3, Staatsarchiv Lausanne (C); Abschrift des 18. Jh. im Ms. Hist. Helv. II 47 p. 53, Burgerbibliothek Bern (E); Abschrift des 18. Jh. von L. Besson Ms. n<hi rend="sup">o</hi>  68 f. 589, Bibliothèque de l'Académie Florimontane d'Annecy (F). Drucke: Gallia christ. ed. II. 4<hi rend="sup">b</hi>, 18 n<hi rend="sup">o</hi>  23 ex autogr. Talluer. (Priorat Talloires, Dép. Haute-Savoie); MG. DF. I. 387. Reg.: Reg. Genevois 101 n<hi rend="sup">o</hi>  366; Hidber 2, n<hi rend="sup">o</hi>  2119; Chevalier, Rég. dauphinois 1, 694 n<hi rend="sup">o</hi>  4144; Stumpf 3965.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. die Vorbemerkung zum D. - Nach der Quellenangabe im Drucke der Gallia christ. scheint es nicht ausgeschlossen, daß die genannten Priorate von Savigny über eigene Ausfertigungen des D. verfügten.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0162" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2280069%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_387" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

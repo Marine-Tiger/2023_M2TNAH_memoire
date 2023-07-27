@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3041</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_8_0_4_2_4_465_3041"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_8_0_4_2_4_465_3041"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-28_8_0_4_2_4_465_3041</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3041</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-28" to="1186-11-28">(nach
+								1186 November 28, wohl Anfang
+								Dezember)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof W(ichmann) von Magdeburg bekundet 								gegenüber Papst Urban (III.) seine Bestürzung über die Zwietracht 								zwischen Kirche und Reich und berichtet ihm über den neulich 								abgehaltenen feierlichen Hoftag Kaiser Friedrichs (in Gelnhausen), 								auf dem der Kaiser schwere Klagen gegen ihn (den Papst) erhoben hat: 								Im Einzelnen habe der Herrscher Klage geführt über die 								Feindseligkeiten gegenüber seinem Sohn, König (Heinrich VI.), den er 								zur Verteidigung der Freiheit der Kirche so schnell wie möglich 								entsandt hat, des Weiteren über die Kontakte des Papstes zu den 								gebannten und zu Reichsfeinden erklärten Cremonesen, wobei das 								Kirchenoberhaupt sowohl die italienischen Städte wie auch die 								Bischöfe aufgefordert habe, dem Kaiser keine Hilfe gegen Cremona zu 								leisten, weiters über das Verhalten des Papstes in Angelegenheit der 								Trierer Bischofswahl, wobei (Elekt) Folmar entgegen den im deutschen 								Reich üblichen Verhältnissen, aber auch im Widerspruch zu dem nach 								dem Zeugnis der Bischöfe (Hermann) von Münster und (Wilhelm) von 								Asti sowie des O(tto) Cendadarius (aus Mailand) seitens des Papstes 								abgegebenen Versprechen die Bischofsweihe vor der Regalieninvestitur 								erhalten habe, und schließlich habe der Kaiser über dem Reich 								seitens des Papstes im Erzbistum Mailand zugefügtes Unrecht wie auch 								die schweren Belastungen der Reichskirchen seitens des Papstes 								geklagt. Wichmann bittet den Papst, in den Streitigkeiten 								einzulenken, betont auch namens des Kaisers dessen Bereitschaft zu 								einer freundschaftlichen Beilegung des Zwistes oder einem 								Schiedsgericht (<hi rend="italic">amicabili compositioni aut 									arbitratui bonorum virorum</hi>) und kündigt die gelehrten 								Männer Propst Woltwin (Wortwin) von Magdeburg, Domscholaster 								Magister Andreas von Speyer und (Domdechant) Magister Ludolf von 								Magdeburg als seine an den Papst entsandten Boten an.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 444 n<hi rend="sup">o</hi> 								315.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 147 								ff., sowie Regg. 3042 und Reg. 3054 (Antwort des Papstes an 								Wichmann). – Einige bei Acht, Mainzer UB. 2/2, 791 no 485, 792 no 								486 und 793 no 487, edierte Stilübungen berichten ebenfalls über die 								Spannungen zwischen Friedrich und Urban III.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

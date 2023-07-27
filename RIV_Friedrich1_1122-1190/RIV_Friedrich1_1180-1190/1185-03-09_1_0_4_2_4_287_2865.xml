@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2865</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-09_1_0_4_2_4_287_2865"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-09_1_0_4_2_4_287_2865"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-03-09_1_0_4_2_4_287_2865</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845107" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2865</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-03-09" to="1185-03-09">(wohl
+									1181–1185 März 9)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Zisterzienserkloster Waldsassen</hi> eine Besitzung in der 								Provinz Zettlitz (Elbogen/Loket westl. Karlsbad, Böhmen; <hi rend="italic">In provincia Cedlize circuitum quem karissimus in 									Christo filius noster F[ricericus], illustris Romanorum 									imperator, vobis contulit.</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im Privileg Papst Lucius’ 								III. für Waldsassen von 1185 März 9, Verona, ed. Gradl, Mon. Egrana 								I, 33 f. n<hi rend="sup">o</hi> 98 sowie Pflugk-Harttung, Acta 								pontificum Romanorum inedita 1, 324 n<hi rend="sup">o</hi> 372 								(Jaffé-L. 15.380; Germ. Pont. 2, 308 n<hi rend="sup">o</hi> 2). – 								MG.DF.I. *1181 (zu 1155 Juni 18 – 1185 März 9, am ehesten 1179 								Juni).</p></div>
+				
+				
+					<div type="commentary"><p>Die in der Diplomata-Ausgabe vorgenommene 								zeitliche Einordnung resultiert aus der Anwesenheit des Kaisers in 								Waldsassen anlässlich der Einweihung der dortigen Klosterkirche , 								vgl. Reg. 2495. Da der Kaiser die Verfügung über die böhmische 								Provinz Zettlitz aber erst zwischen 1181 und 1184 erwarb – vgl. dazu 								Kejř, Böhmen und das Reich, in: Friedrich Barbarossa (VuF 40, 1992) 								273 ff. –, richtet sich unsere zeitliche Einordnung nach dem <hi rend="italic">terminus ante quem</hi>, den die Papsturkunde 								darstellt. – Unsicher ist, ob tatsächlich eine eigene Urkunde 								ausgestellt wurde, da es im päpstlichen Privileg nur heißt: <hi rend="italic">quem … imperator vobis contulit;</hi> vgl. dazu 								die Vorbemerkung zum D. mit der dort angeführten Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1181" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

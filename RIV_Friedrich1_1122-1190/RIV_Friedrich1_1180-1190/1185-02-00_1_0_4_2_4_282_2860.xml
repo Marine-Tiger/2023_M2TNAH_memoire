@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2860</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-02-00_1_0_4_2_4_282_2860"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-02-00_1_0_4_2_4_282_2860"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-02-00_1_0_4_2_4_282_2860</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845056" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2860</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-02-01" to="1185-02-28">1185
+									Februar –</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Reggio (Emilia) (<hi rend="italic">Regii in palatio domini Federici imperatoris, </hi> <hi rend="italic">in colloquio ibi ab eo habito</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert anlässlich des in der Pfalz zu 								Reggio (Emilia) abgehaltenen <hi rend="spaced">Hoftags</hi> (<hi rend="italic">colloquium</hi>) in Gegenwart des Erzbischofs 								Konrad von Mainz, der Bischöfe (Garsidonius) von Mantua, (Alberich) 								von Reggio (Emilia) und (Bernard) von Parma, weiterer Geistlicher 								sowie des Albert von Baiso, des Rudolf von Bazzano, des Jacobus von 									<hi rend="italic">Saviola</hi>, des Guido von Fogliano und 								zahlreicher weiterer Ritter den Guido, Sohn weiland Rolands von 								Canossa, namens seiner Brüder Rolandinus und Albertinus mit den 								Burgen Bibbianello, Gesso, Canossa und <hi rend="italic">Paternum</hi> (Paderna, it. Prov. Reggio Emilia oder Prov. 								Piacenza?), wofür der genannte Guido ihm und seinem Sohn, König 								Heinrich (VI.), den Treueid leistet und verspricht, diese Burgen 								ebenso für die Ehre Kaiser Friedrichs und König Heinrichs 								innezuhaben, wie dies schon sein Vater und sein Großvater getan 								haben, und ihnen (dem Kaiser und dem König) und ihren Boten diese 								Burgen gegebenenfalls <hi rend="italic">ad offensionem et 									defensionem contra omnes homines</hi> zur Verfügung zu stellen. 								– Notariatsinstrument, bei dem der kaiserliche Befehl zur 								Ausfertigung nicht erwähnt wird. <hi rend="italic">Anno ab 									incarnatione.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige notarielle Abschrift, 								Staatsarchiv Reggio-Emilia, Busta 38 n<hi rend="sup">o</hi> 2 (B); 								Abschrift des frühen 16. Jh., Prisciani Pergerini Collectanea 1, 31, 								Staatsarchiv Modena (D). Druck: MG.DF.I.897. Reg.: Stumpf 								4410.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Herstellung des Textes vgl. die Vorbemerkung 								zum D. sowie auch MG.DDF.I. Band 4, S. 777 (Nachträge und 								Berichtigungen), sowie Band 5, S. 283 (Nachträge und Berichtigungen 								zur Gesamtausgabe). – Das in der Datierung erwähnte <hi rend="italic">colloquium</hi> in der Pfalz zu Reggio bezog sich 								wohl vor allem auf die Verhandlungen, die zur Ausstellung des D.896, 								des Vertrages mit den Mailändern (Reg. 2859), führten, und darf als 								Hoftag verstanden werden. – Mit diesem D. beginnt das bereits im 								Vertrag mit Mailand (Reg. 2859) vorbereitete Eingreifen des 								Herrschers in das Gebiet der Mathildischen Güter.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_897" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

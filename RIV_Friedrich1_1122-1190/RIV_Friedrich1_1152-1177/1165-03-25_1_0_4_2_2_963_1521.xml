@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1521</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-03-25_1_0_4_2_2_963_1521"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-03-25_1_0_4_2_2_963_1521"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-03-25_1_0_4_2_2_963_1521</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247105" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1521</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-03-25" to="1167-03-05">1165 November 25-1167 März 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Utrecht">Utrecht</placeName>
+												<location><geo decls="#WGS">52.0833, 5.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII<hi rend="sup">o</hi>  kal. decembr., Traiecti)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Oostbroek</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Philippus canc. vice Christiani Maguntine sedis electi et archicanc.</hi></notarius>
+				
+				
+					<scribe>aller Wahrscheinlichkeit nach verfaßt und wohl auch geschrieben von Wortwin</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Gottfried von Utrecht, Hermann von Verden (<hi rend="italic">Fardensis</hi>) und Nikolaus von Cambrai, Dompropst Arnold von Utrecht, (Dom)dekan Arnold (von Utrecht), Propst Arnold von St. Andreas in Köln, Herzog Ulrich von Böhmen, die Grafen Heinrich von Geldern, Florentius von Holland, Emicho von Leiningen und Heinrich von Diez, Markward von Grumbach, Kämmerer Kuno, Marschall Heinrich, Mundschenk Ludwig, Schultheiß Gerard von Utrecht, Wilhelm von Schalkwijk, Lubert von Oudwijck</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Kaiserin Mathilde und Kaiser Heinrich V. gemeinsam mit Bischof Godebold von Utrecht gegründete Kloster des hl. Laurentius zu <span sameAs="recipient"><hi rend="spaced">Oostbroek</hi> </span>  unter Abt Remigius in seinen Schutz und befreit es von allen Abgaben an weltliche und geistliche Richter. <span n="witnesses">Z.: die Bischöfe Gottfried von Utrecht, Hermann von Verden (<hi rend="italic">Fardensis</hi>) und Nikolaus von Cambrai, Dompropst Arnold von Utrecht, (Dom)dekan Arnold (von Utrecht), Propst Arnold von St. Andreas in Köln, Herzog Ulrich von Böhmen, die Grafen Heinrich von Geldern, Florentius von Holland, Emicho von Leiningen und Heinrich von Diez, Markward von Grumbach, Kämmerer Kuno, Marschall Heinrich, Mundschenk Ludwig, Schultheiß Gerard von Utrecht, Wilhelm von Schalkwijk, Lubert von Oudwijck</span>. - <span n="chancellor"><hi rend="italic">Philippus canc. vice Christiani Maguntine sedis electi et archicanc.</hi> </span>; <span n="clerk">aller Wahrscheinlichkeit nach verfaßt und wohl auch geschrieben von Wortwin</span>. <span n="incipit"><hi rend="italic">Si ea, que a predecessorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ea, que a predecessorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift vom Ende des 15. Jh. im Chartular der Abtei Oostbroek, Archieven kleine kapittelen en kloosters n<hi rend="sup">o</hi>  530 f. 1', Reichsarchiv Utrecht (C); Abschrift von etwa 1525 ebenda n<hi rend="sup">o</hi>  531 f. 2 (D), beide aus einem verlorenen Vidimus des Priors der St.- Paulus-Abtei in Utrecht von 1346 Juli 25. Drucke: Muller-Bouman, OB. Sticht Utrecht 1, 399 n<hi rend="sup">o</hi>  447; MG. DF. I. 495. Reg.: Stumpf 4055.</p></div>
+				
+				
+					<div type="commentary"><p>Die Rekognition stammt aus der Zeit zwischen 1167 Januar 6 (Beginn der Tätigkeit Philipps als Kanzler) und März 5 (Weihe Christians zum Erzbischof von Mainz), vgl. dazu und zu den Gründen für ihr Erscheinen auf dem Dokument die Vorbemerkung zum D. - Zur Gründung von Oostbroek vgl. Muller-Bouman, a. a. O. 277 n<hi rend="sup">o</hi>  302 und 286 n<hi rend="sup">o</hi>  313.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0254" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_495" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

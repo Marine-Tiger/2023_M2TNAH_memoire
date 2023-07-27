@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2992</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-01_4_0_4_2_4_416_2992"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-01_4_0_4_2_4_416_2992"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-01_4_0_4_2_4_416_2992</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1453801219" value="2016-01-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2992</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-01" to="1186-06-01">(1186
+									nach Juni 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ist wegen der von Papst Urban (III.) gegen 								seinen Willen vorgenommenen Weihe (Folmars) zum Erzbischof von Trier 								erzürnt, versteht dies aber zu verbergen. Er fordert seinen Sohn, 								König Heinrich (VI.), der militärisch in der Toscana vorgeht, auf, 								dieses Unrecht zu ahnden. Der Papst versucht gleichzeitig, die 								Bischöfe, die Fürsten und alle Lombarden zu einer Verschwörung gegen 								das Reich aufzustacheln.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 56 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 172 (zu 1185); Ann. s. Rudberti 								Salisburg., MG. SS IX, 777 (zu 1187: <hi rend="italic">Apostolicus 									et imperator dissentiunt.</hi>); Arnoldi Chron. Slavorum l. III cap. 17, MG. SS XXI, 158 (vgl. dazu auch <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/a2ed3383-d313-48e0-96da-87a42ff0585f.html" type="internal" n="regesten">170</ref>); E Gervasii Cantuariensis Chronica, 								MG. SS XXVII, 304; Gestorum Treverorum Cont. III., MG. SS XXIV, 385; 								Vita s. Hildegundis (früheste Bearbeitung), ed. Schwarzer, NA 6 								(1881) 517 f.; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 1261; 								vgl. auch Sigeb. Cont. Aquicinct., MG. SS VI, 423 f. (nennt als 								Grund für das Zerwürfnis die Trierer Angelegenheit, aber auch den 								Ärger des Papstes über die Teilnahme des Patriarchen von Aquileia 								und anderer italienischer Bischöfe an der Krönung Heinrichs VI., 								siehe dazu oben Reg. 2953).</p></div>
+				
+				
+					<div type="commentary"><p>Die Weihe Folmars durch den Papst war am 1. Juni 								1186 in Verona vorgenommen worden, vgl. dazu Opll, Friedrich 								Barbarossa, 154, sowie Reg. 2989. – Das Verhalten des Kaisers wird 								in der Gestorum Treverorum Cont. III., ebda., folgendermaßen 								geschildert: <hi rend="italic">Imperator, audita novitate huius 									facti, sicut constantissimus semper fuerat in omnibus viis suis, 									motum animi sui repressit, et more solito indignationem mentis 									risu colorans, …</hi> – In der Vita s. Hildegundis heißt es, 								dass sich Erzbischof Philipp von Köln brieflich bei dem in Verona 								weilenden Papst für den Elekten Folmar von Trier verwendet habe, 								vgl. dazu Engels, Niederrhein, in: Ders., Stauferstudien (1988) 194 								f. – Zu den Unruhen, die in der Folge im Gebiet von Trier 								ausbrachen, vgl. die Schilderungen in der Gestorum Treverorum Cont. 								III., ebda.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

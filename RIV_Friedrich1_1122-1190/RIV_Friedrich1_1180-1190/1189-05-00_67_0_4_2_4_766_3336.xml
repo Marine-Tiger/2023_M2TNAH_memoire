@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3336</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_67_0_4_2_4_766_3336"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_67_0_4_2_4_766_3336"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_67_0_4_2_4_766_3336</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3336</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1169
+									Juni – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gründet gemeinsam mit seinem Sohn, König 								Heinrich (VI.), das <hi rend="spaced">Hospital zu Ellingen</hi>, 								das zuvor von Walter und Kunigunde von Ellingen aus eigenen Mitteln 								ins Leben gerufen und von diesen dem Kaiser übergeben worden ist, 								und unterstellt es dem <hi rend="spaced">Augustiner-Chorherrenstift Berchtesgaden.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Deperditum Heinrichs VI. 								(B.-Baaken Reg. 639), und im DF.II.180 von 1212 Dezember 11 								(B.-Ficker Reg. 681); vgl. hinsichtlich der Initiative Walters und 								Kunigundes von Ellingen die Erwähnungen in den DDF.II.380 von 1216 								September 8 und 1224 Februar (B.-Ficker Regg. 877 und 1512), mit 								denen das Hospital den Deutschordensbrüdern zu Akkon übertragen 								wurde.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus der 								Königswahl Heinrichs VI. im Jahre 1169 (Reg. 1839) und dem Antritt 								des Kreuzzuges. – Die eigentlichen Stifter des Hospitals waren 								Walter und Kunigunde von Ellingen. – Vgl. Vollmer, Reichs- und 								Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 200 								und 213.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

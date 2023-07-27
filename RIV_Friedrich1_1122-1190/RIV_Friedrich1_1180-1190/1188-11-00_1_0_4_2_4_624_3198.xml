@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3198</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_1_0_4_2_4_624_3198"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_1_0_4_2_4_624_3198"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-11-00_1_0_4_2_4_624_3198</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3198</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-01-01" to="1188-10-31">(vor
+									1188 November)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Sicard von Cremona sucht auf Ersuchen der 								Bürger seiner Stadt den Kaiser auf, um von diesem die Erlaubnis zum 								Wiederaufbau von Castel Manfredi zu erlangen. Die Mission misslingt, 								allerdings kann dann nach der Rückkehr des Bischofs mit der 								Errichtung von Castelleone unweit von Castel Manfredi begonnen 								werden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Sicardi ep. Cremon. Cronica, MG. SS XXXI, 								169; vgl. auch Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 								7.</p></div>
+				
+				
+					<div type="commentary"><p>Die Errichtung von Castelleone wurde im November 								1188 begonnen (siehe dazu Sicardi ep. Cremon. Cronica, a.a.O., 169 								Anm. 1), woraus auch die hier vorgenommene zeitliche Einreihung 								resultiert; in den Ann. Cremonenses, MG. SS XXXI, 7, wird die 								Errichtung von Castelleone dem Cremoneser Podestà Girardus de 								Camisano (<hi rend="italic">Camixano</hi>) zugeschrieben, vgl. dazu 								schon oben die Bemerkungen zu Reg. 2995. – Der Kaiser hatte bereits 								im September 1188 für einen italienischen Empfänger geurkundet, 								siehe dazu oben Reg. 3189. – Dass der Kaiser die Bitte des Bischofs 								abschlug, geht auch aus einem Schreiben König Heinrichs (VI.) an die 								Cremonesen hervor (B.-Baaken Reg. 72; ed. Falconi, Carte Cremonesi 								IV, 87 no 666): Darin heißt es, dass die königlichen Boten Marschall 								Heinrich Testa und Trushard (von Kestenburg; siehe zu diesem oben 								Reg. 3194) die Errichtung von Castelleone früher untersagt hatten, 								da sie glaubten, dass dies wegen der Nähe zu Castel Manfredi durch 								Kaiser Friedrich verboten worden sei und aus diesen Aktivitäten auch 								eine Störung des Friedens in der Lombardei erwachsen könnte. Da die 								Bedenken aber nun durch eigene, an ihn (König Heinrich VI.) gesandte 								Boten ausgeräumt worden sind, wird das früher ergangene Verbot 								widerrufen. Offensichtlich war damit ein Kompromiss gefunden worden: 								Castel Manfredi blieb zerstört, zugleich erfüllte aber das unweit 								davon neu errichtete Castelleone für die Cremonesen denselben 								Zweck.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

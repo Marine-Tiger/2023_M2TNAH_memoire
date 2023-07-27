@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2110</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-10-00_1_0_4_2_3_337_2110"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-10-00_1_0_4_2_3_337_2110"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-10-00_1_0_4_2_3_337_2110</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1358511310" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2110</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-10-01" to="1174-10-31">1174 Ende Oktober — 1175 April</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei Alessandria</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich, der wegen schwerer Regenfälle entgegen seiner Absicht nicht rasch auf Alessandria hat vorrücken können, schließt diese Stadt, die wegen ihres noch mangelhaften Ausbaus von den Deutschen verächtlich <hi rend="italic">Palea</hi>  (= die Strohstadt) genannt wird, mit seinem Heer, zu denen auch die zuvor unter Leistung des Treueids auf seine Seite zurückgekehrten Pavesen und Markgraf Wilhelm von Montferrat stoßen, insgesamt 20.000 Mann, mit einem Belagerungsring ein. Dabei läßt er Belagerungstürme, die von den Genuesen bereitgestellt worden sind, einsetzen. Eine <hi rend="italic">Ebenhoe</hi>  genannte Belagerungsmaschine wird bei Kämpfen am Graben, bei denen er viele Leute einbüßt, gemeinsam mit den darauf Befindlichen durch griechisches Feuer zerstört (wohl erst gegen Ende der Belagerung). Obwohl der Stadt noch Befestigungen fehlen — sie wird nur durch Gräben und den Fluß Tanaro geschützt —, vermag er sie nicht im Sturm zu nehmen. Probleme bereiten vor allem die schlechte Witterung wie auch die ungünstigen Geländeverhältnisse im sumpfigen Umland der belagerten Stadt. Der regnerische, feuchte Winter führt sodann zu Versorgungsengpässen; nur Pavia bietet einen Markt und schafft Güter auf Schiffen herbei. Die böhmischen Truppen bitten ihn um Erlaubnis zur vorzeitigen Heimkehr. Obwohl Friedrich darauf nicht einwilligt, ziehen dann viele der Böhmen um Weihnachten heimlich ab (vgl. Reg. 2114). Während der Belagerung befiehlt der Kaiser, drei Gefangene zu blenden. Als diese Strafe bereits an zweien von ihnen vollzogen ist, läßt er den dritten, den jüngsten, befragen, warum er rebelliere. Dieser betont, dies nur auf Befehl seines Herrn in der Stadt zu tun. Friedrich verschont ihn und läßt alle drei in die Stadt zurückführen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Seligenstad., MG. SS XVII, 32 (27. 10.); Ann. Plac. Gib., MG. SS XVIII, 462 (27. 10.); Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ.in us.schol., 9 (27. 10.); Gesta Fed. I., ed. Holder-Egger, MG. SS rer.Germ.in us.schol., 62 (29. 10. 1174 — 11. 4. 1175); Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 267 (1. 11.); Boso, ed. Duchesne, 427 f. (Oktober, 4 Monate lang); Ann. s. Eustorgii Mediol., ed. Holder-Egger, MG. SS rer.Germ.in us.schol., 70 (Oktober 1174 — März 1175); Ann. Marbacenses, ed. Bloch, MG. SS rer.Germ.in us.schol., 54 (= ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 168: Belagerungsmaschine <hi rend="italic">Ebenhoe</hi>); Ann. Mediolanenses minores, MG. SS XVIII, 395 (Oktober 1174 — März 1175); Ann. s. Trinitatis Veronenses, MG. SS XIX, 4 (Mitte Oktober); Burchard von Ursberg, ed. Holder-Egger, MG. SS rer.Germ.in us.schol., 52 f. (Mißerfolg, da Heinrich der Löwe sich in perfider Weise vom Kaiser entfernt hat); Cont. Gerlaci abbatis Milovicensis, MG. SS XVII, 687 f. (Desertion der böhmischen Truppen); Chron. reg. Col., ed. Waitz, MG. SS rer.Germ.in us.schol., 125 f. (Blendung der Gefangenen); Ex Chronico universali anonymi Laudunensis, MG. SS XXVI, 448 f. (7 Monate Belagerung); Corpus Chron. Bononiensium, ed. Sorbelli, Rer. Ital. SS N. Ed. XVIII/1, 39; Cron. Alberti de Bezanis, ed. Holder-Egger, MG. SS rer.Germ.in us.schol., 36 (20.000 Mann); Gottfried von Viterbo, Gesta Friderici, MG. SS XXII, 309 V. 91 ff., 327 V. 901 ff. (Versorgung aus Pavia), 327 V. 916 (Desertion der böhmischen Truppen), 327 f. V. 921 ff. (Belagerungsmaschinen der Genuesen); Hist. ducum Venet, MG. SS XIV, 82 (zu 1173: Treueid der Pavesen); Hofmeister, Annalen von St. Georgen, ZGORh N.F. 33 (1918) 45; Otto von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer.Germ.in us.schol., 31 f. (ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 66 ff.); Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 262 f. (zu 1173); Sigeb. Cont. Aquicinct, MG. SS VI, 41f f. (nach Pfingsten 1174; regnerischer, feuchter Winter); vgl. des weiteren: Cont. Admunt, MG. SS IX, 585; Ann. Augustani minores, MG. SS X, 9; Ann. s. Georgii, Cont. A, MG. SS XVII, 296; Ann. Magdeburg., MG. SS XVI, 193; Ann. Neresheim., MG. SS X, 22; Ann. s. Rudberti Salisburg., MG. SS IX, 777; Ann. Zwifalt, MG. SS X, 56 (zu 1175); Cont. Zwetlensis altera, MG. SS IX, 541; Cron. fratris Salimbene de Adam, MG. SS XXXII, 2; Hermanni Altahensis Ann., MG. SS XVII, 384; Magistri Tolosani Chron. Faventinum, Rer. Ital. SS N. Ed. 28/1, 59 f.; Roberti de Monte Cronica, MG. SS VI, 524; Sicardi ep. Cremon. Cronica, MG. SS XXXI, 167; zur Belagerung vgl. auch den Rhythmus auf den Sieg des Lombardenbundes bei Holder-Egger, Resie nach Italien, NA 17 (1892) 493 — 496.</p></div>
+				
+				
+					<div type="commentary"><p>Die vergebliche Belagerung von Alessandria ist eines der zentralen Ereignisse der Herrschaft Barbarossas in Italien, vgl. dazu den Sammelband Popolo e Stato in Italia nell'età di Federico Barbarossa. Alessandria e la Lega Lombarda (Relazioni e comunicazioni presentate al XXXIII Convegno storico subalpino/Alessandria 1968, Torino 1970); zu den Anfangen Alessandrias siehe schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1168-04-24_1_0_4_2_3_10_1785.html" type="internal" n="regesten">1785</ref>; zu den Einzelheiten der Belagerung vgl. Giesebrecht, Kaiserzeit V, 749 ff.; zur Interpretation des Geschehens vgl. jüngst Görich, Ehre Friedrich Barbarossas, 264 ff — Die Belagerung von Alessandria wird auch in der Datierung einer Urkunde Herzog Gottfrieds von Lothringen von 1173 (recte: 1175) Februar 26, Lüttich erwähnt, ed. Lahaye, Inventaire analytique des chartes de la Collégiale de Saint-Jean l'Évangeliste à Liége Tome I (Bruxelles 1921) 18 n<hi rend="sup">o</hi>  23: <hi rend="kursiv">Acta sunt hec ... M<hi rend="sup">o</hi> C<hi rend="sup">o</hi> LXX<hi rend="sup">o</hi> III<hi rend="sup">o</hi>  (!), Friderico imper Alexandriam novellam civitatem Italie potenter expugnante.</hi>
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die Belagerung von Alessandria gehört ohne Zweifel zu den besonders häufig memorierten Ereignissen. Neben dem hier angeführten Beleg der Erwähnung der Belagerung in einer Urkunde Herzog Gottfrieds von Lothringen ist auch auf die Erwähnung auf einer Inschrift in der Krypta zu S. Apollinare in Classe bei Ravenna (<hi rend="italic">… Frederico imperatore regnante Alexandriam quoque tunc expugnante …</hi>) zu verweisen, die zur Erinnerung an die im Herbst 1173 zur Entscheidung eines Streites zwischen den Kamaldulenser- und den Benediktinermönchen von S. Apollinare in Classe von den Kardinallegaten Ildebrandinus von XII Apostoli und Teodinus durchgeführte Erhebung der Gebeine des Heiligen dort angebracht wurde, vgl. dazu – mit Abbildung der Inschrift – Raccagni, Le legazioni del cardinale Ildebrando Crasso a Ravenna, in: Ravenna studi e ricerche 13 (2006) nach Anm. 100 (online verfügbar unter: ‚Le legazioni del cardinale Ildebrando Crasso a Ravenna e lo scontro tra Alessandro III e Federico I (1152–1178)‘, Zugriff: 27.2.2011). Und hierher gehören auch die zahlreichen Bezugnahmen auf dieses Ereignisses in den Zeugenaussagen, die von Bewohnern von fünf kleinen Orten an den Grenzen der <hi rend="italic">contadi</hi> von Pavia und Piacenza im November 1184 zu Pavia gemacht wurden, vgl. dazu Opll, Zwang und Willkür, passim.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0122" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

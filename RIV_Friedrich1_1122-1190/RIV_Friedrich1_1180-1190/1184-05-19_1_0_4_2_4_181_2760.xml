@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2760</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-19_1_0_4_2_4_181_2760"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-19_1_0_4_2_4_181_2760"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-05-19_1_0_4_2_4_181_2760</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2760</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-05-19" to="1184-05-19">1184
+									Mai 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mainz">Mainz</placeName>
+												<location><geo decls="#WGS">47.8333, 11.9667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Graf Balduin (V.) von Hennegau trifft mit einem 								stattlichen Gefolge – genannt werden Eustachius der Jüngere von 								Rœulx, Otto von Trazegnies (<hi rend="italic">Osto de 								Trasiniis</hi>), Walter von Wargnies (<hi rend="italic">Warini</hi>), Nikolaus von Barbençon (<hi rend="italic">Barbencione</hi>), Rainer von Trith, Hugo von 								Croix-les-Rouveroy (<hi rend="italic">Croiz</hi>), Almannus von 								Prouvy (<hi rend="italic">Provi</hi>), Polins von Villers-Pol (<hi rend="italic">Vileir</hi>), Gottfried von Esch-sur-la-Sûre (<hi rend="italic">de Ascha castro in Ardenna</hi>), Nikolaus le 								Moine (<hi rend="italic">Monachus</hi>), Walter von Steenkerque (<hi rend="italic">Stankirca</hi>) und sein (Graf Balduins) Bruder, 								der erst kürzlich zum Ritter geschlagen worden ist – und in 								prächtigster Ausstattung zum Hoftag in Mainz ein und bezieht sein 								Quartier in prachtvollen Zelten auf der Ebene außerhalb der Stadt am 								Rhein, wo der Kaiser wegen der großen Zahl der Teilnehmer – nach 								einer wahren Schätzung (<hi rend="italic">iuxta veram 									extimationem</hi>) sollen allein an ritterlichen Personen 70.000 								gezählt worden sein – entsprechende Baulichkeiten hat errichten 								lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gislebert von Mons, ed. Vanderkindere, 155 								ff.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Teilnehmern am Hoftag, dem so genannten 								Mainzer Pfingstfest, siehe auch unten Reg. 2762.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

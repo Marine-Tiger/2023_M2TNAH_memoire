@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2516</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-09-15_1_0_4_2_3_745_2516"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-09-15_1_0_4_2_3_745_2516"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-09-15_1_0_4_2_3_745_2516</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605932" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2516</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-09-15" to="1179-09-15">1179 September 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Augsburg">Augsburg</placeName>
+												<location><geo decls="#WGS">48.35, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVII<hi rend="sup">o</hi>  kal. octobris, Augustę)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Verkündigung der Sentenz): die Bischöfe Otto von Bamberg, Kuno von Regensburg, Diepold von Passau, Heinrich von Brixen und Hartwig von Augsburg, die Herzoge Berthold von Zähringen und Leopold von Österreich (danach durch Rasur getilgt: Herzog Hermann von Kärnten, vgl. Anm. e), Graf Rudolf von Pfullendorf, Heinrich von Altendorf, Burggraf Friedrich von Regensburg und sein Bruder (Heinrich)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt seinem Verwandten, <hi rend="spaced">Erzbischof Konrad von Salzburg</hi>, gemäß den von diesem auf dem feierlichen <hi rend="spaced">Hoftag</hi>  zu Augsburg (<hi rend="italic">in sollempni curia nostra apud Augustam celebrata</hi>) vorgelegten päpstlichen und kaiserlichen Privilegien das Recht, den Bischof von Gurk zu wählen und zu investieren, und approbiert die auf Bitten des Erzbischofs von Bischof Otto von Bamberg verkündete Sentenz, gemäß der der Gurker Bischof erst nach Empfang der Investitur zur Vergabe von Lehen aus dem Besitz seiner Kirche berechtigt sein soll. <span n="witnesses">Z. (der Verkündigung der Sentenz): die Bischöfe Otto von Bamberg, Kuno von Regensburg, Diepold von Passau, Heinrich von Brixen und Hartwig von Augsburg, die Herzoge Berthold von Zähringen und Leopold von Österreich (danach durch Rasur getilgt: Herzog Hermann von Kärnten, vgl. Anm. e), Graf Rudolf von Pfullendorf, Heinrich von Altendorf, Burggraf Friedrich von Regensburg und sein Bruder (Heinrich)</span>. — <span n="clerk">Verfaßt und geschrieben von Burkhard</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Ostendit dilectus consanguineus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ostendit dilectus consanguineus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Haus-, Hof- und Staatsarchiv Wien (A). Drucke: Hauthaler — Martin, Salzburger UB. 2, 582 n<hi rend="sup">o</hi>  422; Jaksch, Mon.duc.Car. 1, 234 n<hi rend="sup">o</hi>  310; MG.DF.I.788. Reg.: Diestelkamp — Rotter, Urkundenregesten 1, 349 n<hi rend="sup">o</hi>  446; Stumpf 4291.</p></div>
+				
+				
+					<div type="commentary"><p>Einige Auffälligkeiten in der Zeugenreihe (Rasur des Namens des Herzogs von Kärnten, Eintragung des ursprünglich nach Graf Rudolf von Pfullendorf genannten Bischof Kunos von Regensburg durch Verweisungszeichen in die Reihe der Bischöfe) deuten daraufhin, daß diese der ursprünglichen Rechtslage bei der Gründung des Bistums Gurk entsprechende, infolge der herrschaftlichen Maßnahmen des Gurker Bischofs während des 12. Jh. zur Ausstellungszeit aber keinesfalls mehr unumstrittene Regelung des Verhältnisses zum Erzbistum Salzburg nicht sofort und einhellige Billigung fand. Der Standpunkt des Erzbischofs setzte sich jedoch durch und wurde am 2. Februar 1180 durch Bischof Albert von Freising und Abt Heinrich von Heiligenkreuz als päpstliche delegierte Richter anerkannt (Hauthaler — Martin, a.a.O., 584 n<hi rend="sup">o</hi>  424, vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-02-02_2_0_4_2_3_765_2536.html" type="internal" n="regesten">2536</ref>), vgl. dazu die Vorbemerkung zum D. und Fräss-Ehrfeld, Geschichte Kärntens Bd.1, 216 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0260" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_788" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

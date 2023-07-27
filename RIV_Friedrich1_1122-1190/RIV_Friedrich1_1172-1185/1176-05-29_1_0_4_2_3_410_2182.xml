@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2182</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-05-29_1_0_4_2_3_410_2182"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-05-29_1_0_4_2_3_410_2182"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-05-29_1_0_4_2_3_410_2182</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1358511903" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2182</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-05-29" to="1176-05-29">1176 Mai 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Legnano</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Ein lombardisches Heer unter der Führung der Mailänder, bestehend aus Kontingenten aus Piacenza, Verona, Brescia, Novara, Vercelli, Lodi und der Mark Verona, zieht unter Mitnahme des Mailänder Carroccio dem Kaiser und seinen Truppen, darunter fast 1000 deutsche Ritter und Comasker Kontingente, entgegen. Sie stellen sich Friedrich, der von seinem Lager bei Cairate nach Pavia aufbrechen will, zwischen Borsano und Busto Arsizio entgegen, und es kommt zum bewaffneten Konflikt. Zwischen der dritten und der neunten Stunde tobt der Kampf, wobei der Bannerträger des Kaisers von einer Lanze durchbohrt wird. Als dann Friedrich selbst aus dem Sattel stürzt und den Blicken entschwindet, löst sich die Ordnung der kaiserlichen Truppen auf, und sie erleiden eine Niederlage. Viele fallen, andere ertrinken im Ticino, die Gefangenen, darunter fast alle Comasken, werden in der Folge in verschiedenen Städten eingekerkert. Von den gefangenen Reichsfürsten werden Herzog Berthold (von Meranien), der Neffe der Kaiserin (Graf Philipp von Flandern) und der Bruder Erzbischof (Philipps) von Köln (Graf Goswin von Heinsberg) in Mailand inhaftiert. Die Lombarden machen große Beute, nicht nur Waffen und Pferde, sondern auch unschätzbare Wertsachen, darunter Schild, Banner, Kreuz und Lanze des Kaisers (siehe den Brief der Mailänder an die Bolognesen).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Boso, ed. Duchesne, 432 f. (irrig zum 1. Samstag im Juni); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ, in us.schol., 128 f.; Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 63; Gottfried von Viterbo, Gesta Friderici, MG. SS XXII, 329 V 982 ff.; Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 266 f.; Ex gestis Henrici II. et Ricardi I., MG. SS XXVII, 92 (nennt als Ort Cerro bei Legnano); Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 268 (nennt Gefangene namentlich); Burchard von Ursberg, ed. Holder-Egger — Simson, MG. SS rer. Germ, in us.schol., 56 (irrig zu Mai 31); Magistri Tolosani Chron. Faventinum, Rer. Ital. SS N. Ed. XXVIII/1, 61 (irrig zu 1175 Juni); Otto von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ, in us.schol., 34 (ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 70 ff.) (irrig zu 1171); Alberti Milioli Cron. imp., MG. SS XXXI, 643; Alberti Milioli Liber de temporibus, MG. SS XXXI, 448 (irrig zu 1177); Ann. Bergomates, MG. SS XXXI, 329 (Kampf von der sechsten bis zur neunten Stunde); Ann. Brixienses. MG. SS XVIII, 814; Ann. Cremonenses, MG. SS XXXI, 5 (irrig zu 1174); Ann. Magdeburg., MG. SS XVI, 194; Ann. Med. brevium, ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 73 (irrig zu Mai 30); Ann. Mediolanenses minores, MG. SS XVIII, 396; Ann. Palid, MG. SS XVI, 94; Ann. Pegav, MG. SS XVI, 261; Ann. s. Disibodi, MG. SS XVII, 30; Ann. s. Eustorgii Mediol., ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 70 f. (irrig zu Juni); Ann. s. Petri Erph. maiores, ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 60 f.; Ann. s. Trinitatis Veronenses, MG. SS XIX, 4 (Kampf von der zweiten bis zur neunten Stunde); Ann. Stederburg., MG. SS XVI, 213 (irrig zu 1175); Chron. Montis Sereni, MG. SS XIII, 156; Ann. Veron. antiqui, ed. Cipolla, Boll. dell'Ist. stör. ital. 29 (1908) 41; Cron. fratris Salimbene de Adam, MG. SS XXXII, 2; Ex Ricardi Pictaviensis Chronica, MG. SS XXVI, 84; Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 11; Memoriae Mediolanenses, MG. SS XVIII, 400; Notae s. Georgii Mediol., ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 72 (irrig zu Mai 30); Notae s. Mariae Mediolanenses, MG. SS XVIII, 385; Sicardi ep. Cremon. Cronica, MG. SS XXXI, 167; vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1062. — Vgl. auch den Brief der Mailänder an die Bolognesen von (1176 nach Mai 29), ed. Manaresi, Atti del Comune di Milano 1, 143 n<hi rend="sup">o</hi>  102.</p></div>
+				
+				
+					<div type="commentary"><p>Obwohl es sich bei der Niederlage von Legnano nicht wirklich um ein völliges Desaster für die kaiserliche Seite handelte, wurde das Ereignis als erster Sieg der Lombarden über den Staufer in der Folge dennoch — und das nicht nur auf seiten der Lombarden, sondern offenbar auch vom Kaiser selbst — als wesentliche Wende in den seit Jahren währenden Auseinandersetzungen angesehen. — Zur Zahl der kaiserlichen Truppen siehe auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-05-12_1_0_4_2_3_408_2180.html" type="internal" n="regesten">2180</ref>. — Zu den Einzelheiten vgl. immer noch Giesebrecht, Kaiserzeit V, 787 ff.; und jetzt Görich, Ehre Friedrich Barbarossas, 272 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zur Schlacht von Legnano aus der Sicht der Lega Lombarda sowie Mailands vgl. jüngst Raccagni, the Lombard League, 90 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0145" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

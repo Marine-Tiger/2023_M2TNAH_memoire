@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2696</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_4_0_4_2_4_117_2696"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-04-30_4_0_4_2_4_117_2696"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-04-30_4_0_4_2_4_117_2696</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2696</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-04-30" to="1183-04-30">(1183
+									März – April 30)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Festlegung über die (im Rahmen des mit dem <hi rend="spaced">Lombardenbund</hi> zu schließenden Friedens) zu 								leistenden Eide: (1) Kaiser Friedrich und sein Sohn, König Heinrich 								(VI.), werden entweder persönlich oder durch Beauftragte schwören, 								die niedergeschriebene Friedensvereinbarung, ausgehandelt durch die 								vom Kaiser damit Betrauten, nämlich Bischof Wilhelm von Asti, 								Markgraf Heinrich Guercio (von Savona), Bruder Theoderich (Kartäuser 								von Silve-Bénite) und Kämmerer Rudolf (<hi rend="italic">qui 									mandatum pacis habuerunt ab imperatore</hi>), sowie durch die 								Vertreter der Lega Lombarda, einzuhalten und die geistlichen und 								weltlichen Fürsten sowie die Ritter, Konsuln und Podestà der Städte 								dies ebenfalls beeiden zu lassen. – (2) Der Kaiser, seine beiden 								Söhne (wohl Heinrich und Friedrich) und die Fürsten, die am bis zur 								Oktav des künftigen Pfingstfestes (= Juni 12) durchzuführenden 								Kolloquium teilnehmen werden, werden dort schwören, die übrigen 								Fürsten und Ritter bis zum kommenden 1. September. Die Konsuln der 								Städte werden binnen drei Monaten nach Aufforderung durch die 								zurückgekehrten Boten der Lega den Eid leisten bzw. ihn leisten 								lassen. Für den Fall der Weigerung soll zwei Monate nach 								Aufforderung seitens der Lega der Bann über die sich weigernde Stadt 								verhängt werden. – (3) Die anwesenden Rektoren und Konsuln werden 								schwören, dem Kaiser und seinem Sohn Heinrich den Frieden gemäß 								seiner schriftlichen Fixierung zu wahren und ihre <hi rend="italic">credentiae</hi> sowie die übrigen Konsuln und Podestà in 								ebendieser Form schwören zu lassen; das dem Kaiser zugesagte Geld in 								der Höhe von 15.000 Pfund Imperialen und 1.000 Pfund Imperialen 								werden sie Bischof (Wilhelm) von Asti, Markgraf Heinrich Guercio, 								Kämmerer Rudolf und dem Propst von S. Antonino zu Piacenza (Petrus 								Diani) zu den festgesetzten Terminen zu Mailand entrichten, wobei 								die von den Vertretern des Bundes festgesetzten Anteile beachtet 								werden müssen. – (4) Zwischen den Boten des Kaisers und den Rektoren 								und Konsuln der Lega wird vereinbart, Städte, die den Eid verweigern 								und ihren Anteil an der genannten Summe nicht zahlen, binnen zwei 								Monaten nach Aufforderung vom Kaiser bannen und nur gegen Bezahlung 								der doppelten Summe wieder aus der Acht lösen zu lassen. Die 								Bezahlung darf nicht auf die übrigen Städte überwälzt werden, 								allerdings sind diese zur Hilfestellung verpflichtet. – (5) Diesen 								Frieden werden die Mitglieder der Lega, falls die Städte Ferrara, 								Imola und Faenza sowie die Bistümer Feltre, Belluno und Ceneda damit 								einverstanden sind, vorbehaltlich der Verträge zwischen den Leuten 								der genannten Bistümer und der Stadt Treviso vom nächsten Mittwoch 								an binnen drei Wochen leisten. Falls der Friede <hi rend="italic">per fraudem</hi> abgelehnt wird, sind die Rektoren und 								diejenigen, die den Eid geleistet haben, (dennoch) darauf 								verpflichtet.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 403 n<hi rend="sup">o</hi> 								290.</p></div>
+				
+				
+					<div type="commentary"><p>Der hier unter den Persönlichkeiten, denen das 								zugesagte Geld zu den festgesetzten Terminen zu bezahlen war, 								erwähnte Propst Petrus Diani von S. Antonino zu Piacenza – er stieg 								im Jahr darauf zum Kardinal von S. Cecilia auf und stand noch in der 								Mitte der 1190er Jahre in enger Verbindung mit Heinrich VI. – soll 								nach einer späteren Überlieferung im Jahr 1183 von Heinrich VI. 								einen Bildteppich als Geschenk erhalten haben, den er später der 								Kirche S. Antonino zu Piacenza für sein Seelenheil stiftete. Leider 								ist das Kunstwerk nicht erhalten geblieben, vgl. dazu die Hinweise 								bei Riva, Libri, cultura e scuola nella Piacenza medioevale, in: 								Studi sull’Emilia occidentale nel Medioevo: società e istituzioni, a 								cura di Roberto Greci (Itinerari Medievali 4, Bologna 2001) 342 ff. 								mit Anm. 156. – Die Bezahlung der hier festgelegten Summe von 								insgesamt 16.000 Pfund Imperialen erfolgte im Herbst dieses Jahres, 								vgl. dazu Reg. 2737.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

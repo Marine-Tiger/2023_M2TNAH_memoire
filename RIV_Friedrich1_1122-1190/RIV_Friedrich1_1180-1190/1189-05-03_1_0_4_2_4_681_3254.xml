@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3254</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-03_1_0_4_2_4_681_3254"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-03_1_0_4_2_4_681_3254"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-03_1_0_4_2_4_681_3254</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3254</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-03" to="1189-05-03">1189
+									Mai 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Donauwörth (<hi rend="italic">V</hi><hi rend="sup">o</hi><hi rend="italic"> non. maii, apud Werdam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst und geschrieben von GK</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die dem <hi rend="spaced">Kloster 									Isny</hi> gehörende <hi rend="spaced">Kirche zu Rohrdorf</hi>, 								die ihm von Bischof Hermann von Konstanz übertragen worden ist, in 								seinen Schutz. Diese Kirche ist der <hi rend="italic">cura 									animarum</hi> des Abtes Markward von Isny unterstellt worden, 								damit die bisher in Isny wohnenden Nonnen dorthin übersiedeln mögen. 								Er verbietet jegliche Störung der Befugnisse des Abtes von Isny 								seitens des Konstanzer Bischofs, eines Vogtes oder sonst einer 								weltlichen oder geistlichen Person. –<span n="clerk"> 									Verfasst und geschrieben von GK</span>; <span n="seal"> 									SP.D.</span>. <span n="incipit"><hi rend="italic">Licet 										universas ecclesias</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Licet 										universas ecclesias</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fürstlich Quadt’sches Archiv zu Isny 								(A). Teilfaks.: Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 								14. Drucke: Wirtemberg. UB. 2, 264 n<hi rend="sup">o</hi> 460; 								ebenda 3, 475 n<hi rend="sup">o</hi> 15; MG.DF.I.999. Reg. Stumpf 								4521.</p></div>
+				
+				
+					<div type="commentary"><p>Die Erwerbung der Kirche von Rohrdorf von Bischof 								Hermann (II.) von Konstanz dürfte wohl schon früher erfolgt sein, am 								ehesten anlässlich des Aufenthaltes des Kaisers in Konstanz im 								Juni/Juli 1183, vgl. dazu Reg. 2724. – Bischof Diethelm von Konstanz 								bestätigte diese Übertragung an Isny in einer undatierten, wohl 1190 								ausgestellten Urkunde, ed. Wirtemberg. UB. 3, Nachtrag, 476 no 16 									(<hi rend="italic">sed et privilegia pii atque religiosi 									imperatoris nostri Friderici considerantes</hi>). – Im Nekrolog 								des Klosters (Necrologium Isnense, MG. Necr. I, 178) wird Friedrich 								als <hi rend="italic">benefactor</hi> des Klosters bezeichnet.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

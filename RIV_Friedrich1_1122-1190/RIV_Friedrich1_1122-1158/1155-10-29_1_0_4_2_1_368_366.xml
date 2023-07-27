@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 366</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-29_1_0_4_2_1_368_366"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-10-29_1_0_4_2_1_368_366"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-10-29_1_0_4_2_1_368_366</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415627300" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 366</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-10-29" to="1155-10-29">1155 Oktober 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII kal. novembris, Wirzeburc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lochgarten</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus notarius vice Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfaßt und geschrieben, wohl von einer Würzburger Hand</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann von Magdeburg, Bischof Gebhard von Würzburg, die Äbte Markward von Fulda, Adam von Ebrach, Herzog Friedrich von Schwaben, Landgraf Ludwig (von Thüringen), Pfalzgraf Otto der Jüngere von Wittelsbach und sein Bruder Friedrich, die Grafen Gerard von Bergtheim, Poppo von Henneberg (<hi rend="italic">Hinneberc</hi>) sowie sein Bruder Berthold und Goswin von Tecklenburg (<hi rend="italic">Teckeneborc</hi>), Markward von Grumbach, Konrad von Pfitzingen (<hi rend="italic">Puzeke</hi>), Giso von Hildenburg (<hi rend="italic">Hiltenborc</hi>), Sigeboto von Zimmern (<hi rend="italic">Zimbre</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das (Frauenstift) <span sameAs="recipient"><hi rend="spaced">Lochgarten</hi> </span>  (<hi rend="italic">L잒kharthen</hi>) als Schirmvogt in seinen Schutz, nachdem ihm Friedrich von Bilried die Vogtei aufgelassen hat. <span n="witnesses">Z.: Erzbischof Wichmann von Magdeburg, Bischof Gebhard von Würzburg, die Äbte Markward von Fulda, Adam von Ebrach, Herzog Friedrich von Schwaben, Landgraf Ludwig (von Thüringen), Pfalzgraf Otto der Jüngere von Wittelsbach und sein Bruder Friedrich, die Grafen Gerard von Bergtheim, Poppo von Henneberg (<hi rend="italic">Hinneberc</hi>) sowie sein Bruder Berthold und Goswin von Tecklenburg (<hi rend="italic">Teckeneborc</hi>), Markward von Grumbach, Konrad von Pfitzingen (<hi rend="italic">Puzeke</hi>), Giso von Hildenburg (<hi rend="italic">Hiltenborc</hi>), Sigeboto von Zimmern (<hi rend="italic">Zimbre</hi>)</span>. - <span n="chancellor"><hi rend="italic">Heinricus notarius vice Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">außerhalb der Kanzlei verfaßt und geschrieben, wohl von einer Würzburger Hand</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Notum facimus tam</hi> </span>.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Es muß richtig heißen: Friedrich von Bielriet; vgl.dazu jetzt Wunder, Bielriet, Württembergisch Pranken 71 (1987) 273 ff.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus tam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fürstlich Hohenlohisches Zentralarchiv Neuenstein (A). Druck e: Wirtemberg. UB. 2, 94 n<hi rend="sup">o</hi>  351; MG. DF. I. 127. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  103; Stumpf 3729.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekognition durch den Notar (Protonotar) Heinrich vgl. die Vorbemerkung zu DF. I. 127. Goswin von Tecklenburgl, wohl irrig statt Goswin von Valkenburg und Heinrich von Tecklenburg, vgl. Erhard, Reg. Westfal. 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1169-03-05_1_0_4_2_3_58_1833.html" type="internal" n="regesten">1833</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0120" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_127" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=560" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

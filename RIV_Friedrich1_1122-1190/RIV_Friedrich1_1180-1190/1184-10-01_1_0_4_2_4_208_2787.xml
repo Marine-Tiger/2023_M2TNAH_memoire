@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2787</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-01_1_0_4_2_4_208_2787"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-01_1_0_4_2_4_208_2787"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-10-01_1_0_4_2_4_208_2787</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2787</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-10-01" to="1184-10-01">(1184)
+									Oktober 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Pavia) (<hi rend="italic">kal. octobr.</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter Heranziehung von DK.III.68 (VU.) wohl in der Reichskanzlei 									verfasst</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof 									Konrad von Mainz, die Bischöfe Kuno von Regensburg, Otto von 									Bamberg, Albert von Freising und Diepold von Passau, Herzog 									Leopold von Österreich, Markgraf Berthold von Andechs (Istrien) 									und sein Sohn Berthold, Herzog von Dalmatien und Markgraf von 									Istrien, Landgraf Ludwig von Thüringen, Pfalzgraf Otto von 									Wittelsbach, die Grafen Heinrich von Eppan und Diepold von 									Lechsgemünd, Burggraf Heinrich von Regensburg, Marschall 									Heinrich von Pappenheim, Truchsess Heinrich von Boyneburg (<hi rend="italic">Bomineburc</hi>), Mundschenk Konrad von 									Klingenberg (bzw. Oberschüpf) und Konrad <hi rend="italic">Crob</hi> (von Emetzheim)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich genehmigt gemäß einer in seiner und der 								Fürsten Gegenwart vorgebrachten Bitte des <hi rend="spaced">Bischofs Drudo von Feltre</hi> mit Rat der Fürsten die 								Verlegung der Stadt Feltre auf einen sichereren Platz, bestätigt der 								Stadt die Unabhängigkeit von anderen Kommunen der Lombardei und der 								Mark (Verona), unterstellt ihre Einwohner der Herrschaft des 								Bischofs, legt fest, dass sich niemand, der in der Grafschaft Feltre 								eine Burg oder Befestigungen innehat, der Herrschaft einer anderen 								Stadt oder einer anderen Person unterstellen darf, erlaubt jedem <hi rend="italic">liber homo</hi>, sich in der Stadt niederzulassen, 								bestätigt weiters der bischöflichen Kirche daselbst alle Privilegien 								und namentlich genannten Besitzungen, insbesondere die Grafschaft 								samt Gerichtsbarkeit, Zollrechten und Münze, die der kaiserlichen 								Münze an Gewicht und Wert nicht gleichen darf (<hi rend="italic">ita 									tamen, quod … an sit pondere et pretio imperialis monetę</hi>), 								verpflichtet die bischöflichen Hintersassen, die über ein <hi rend="italic">conditionale feudum</hi> verfügen und es aufgeben, 								das dafür schuldige <hi rend="italic">conditionale servitium</hi> zu 								leisten, außer der Bischof verzichtet darauf, und verbietet, die 								Diener (<hi rend="italic">famulos</hi>) der Kirche der Herrschaft 								des Bischofs zu entfremden. <span n="witnesses">Z.: Erzbischof 									Konrad von Mainz, die Bischöfe Kuno von Regensburg, Otto von 									Bamberg, Albert von Freising und Diepold von Passau, Herzog 									Leopold von Österreich, Markgraf Berthold von Andechs (Istrien) 									und sein Sohn Berthold, Herzog von Dalmatien und Markgraf von 									Istrien, Landgraf Ludwig von Thüringen, Pfalzgraf Otto von 									Wittelsbach, die Grafen Heinrich von Eppan und Diepold von 									Lechsgemünd, Burggraf Heinrich von Regensburg, Marschall 									Heinrich von Pappenheim, Truchsess Heinrich von Boyneburg (<hi rend="italic">Bomineburc</hi>), Mundschenk Konrad von 									Klingenberg (bzw. Oberschüpf) und Konrad <hi rend="italic">Crob</hi> (von Emetzheim)</span>. –<span n="clerk"> 									Unter Heranziehung von DK.III.68 (VU.) wohl in der Reichskanzlei 									verfasst</span>.<span n="incipit"> 									<hi rend="italic">Ad consequendum ęterni.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad consequendum ęterni.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der zweiten Hälfte des 								17. Jh. im Libro secondo Ducali f. 4, Museo civico zu Bassano (G); 								Abschrift des 18. Jh. im Cod. 957 vol. I p. 93 n<hi rend="sup">o</hi> 64, Stadtbibliothek Treviso (H); beide ohne 								Eschatokoll. Drucke: Verci, Storia della marca Trivigiana 1, 25 									n<hi rend="sup">o</hi> 23 aus H; MG.DF.I.868. Regg.: 								Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 666; Huter, 								Tiroler UB. I 1, 211 n<hi rend="sup">o</hi> 412; Stumpf 4566 zu 								1183 November – 1184 vor März.</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierung ergibt sich zum einen aus der Angabe 								in einem Notariatsinstrument von 1476 März 2 (Catastrum seu 								Inventarium bonorum episcopatus Feltri, Archivio della curia 								vescovile I A f. 75’: <hi rend="italic">viso … privilegio huic 									episcopatui indulcto per serenissimum imperatorem Phedericum sub 									1204 </hi>[!]<hi rend="italic"> indict. secunda kal. 									octobr.</hi>), die auf das Jahr 1184 zu korrigieren ist, und zum 								anderen aus der Zeugenliste (dazu vgl. Herkenrath, Reichskanzlei 								1181 bis 1190, 166 ff.) vgl. dazu die Vorbemerkung zum D. Das DF.I. 								fand in dem am 29. Oktober 1184 in Verona ausgestellten Privileg 								Papst Lucius’ III. für Bischof Drudo eigens Erwähnung, Baaken – 								Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, no 1238. 								– Der unter den Zeugen genannte Mundschenk Konrad von Klingenberg 								(Kr. Miltenberg) ist identisch mit dem gleichnamigen Mundschenken 								Konrad von Oberschüpf, vgl. dazu Plassmann, Struktur des Hofes, 282; 								zum letztgenannten Zeugen siehe schon oben Reg. 2706. – Zu den 								Bestimmungen hinsichtlich des bestätigten Münzrechtes vgl. 								Haverkamp, Herrschaftsformen, 573 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

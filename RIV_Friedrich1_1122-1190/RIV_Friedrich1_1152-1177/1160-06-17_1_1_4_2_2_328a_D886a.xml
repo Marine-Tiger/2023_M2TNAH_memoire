@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 886a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-06-17_1_1_4_2_2_328a_D886a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-06-17_1_1_4_2_2_328a_D886a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-06-17_1_1_4_2_2_328a_D886a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358258641" value="2013-01-15"></date>
+				<date type="lastmod" n="1358258641" value="2013-01-15"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 886a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-06-18" to="1160-06-17">(1159 Juni 18 &amp;#x2012; 1160 Juni 17)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem <hi rend="gesperrt">Grafen Lambert</hi>, dem Gemahl seiner Schwester Rengalda, in einer <hi rend="kursiv">concordia</hi> das freie Eigentum (<hi rend="kursiv">liberum dominium</hi>) in all seinen Besitzungen in den Grafschaften der Städte Rieti, Ravenna und Faenza sowie in der Sabina.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum einer Fälschung; erwähnt in der Urkunde der Grafen Unrocco, Ugo und Romolo, den Söhnen des verstorbenen Grafen Albericus aus Faenza, für die Brüder Teodino, Pietro und Carlo degli Alfiani von Rieti von 1344 September 12, Rieti, ed. Schuster, Un protocollo di notar Pietro di Gregorio nell' archivio di Farfa, Archivio della R. Societŕ Romana di Storia Patria 35, fasc. III &amp;#x2012; IV (Roma 1912) 571 n<hi rend="hoch">o</hi> 24 (irrig zu 1344 September 11).</p></div>
+				
+				
+					<div type="commentary"><p>Den Hinweis auf dieses Stück, das freilich nach der Erwähnung der sonst überhaupt nicht bekannten Schwester Barbarossas, Rengalda, als apokryph zu gelten hat, verdanken wir einem an Herrn Prof. Appelt gerichteten Schreiben von Herrn Prof. Giuseppe Rabotti vom 25. August 1993. &amp;#x2012; Die zeitliche Einordnung richtet sich nach der Nennung des 5. Kaiserjahres.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360329461" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. X.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

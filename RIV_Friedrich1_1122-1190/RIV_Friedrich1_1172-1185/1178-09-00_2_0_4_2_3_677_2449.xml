@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2449</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-09-00_2_0_4_2_3_677_2449"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-09-00_2_0_4_2_3_677_2449"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-09-00_2_0_4_2_3_677_2449</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2449</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-09-01" to="1178-09-30">1178  September?</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Hof (des Erzbischofs) zu Besançon</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Erzbischof Eberhard von Besançon, Abt Theobald von La Charité (<hi rend="italic">Caritate</hi>), Abt Narduinus von Lieucroissant (<hi rend="italic">loci Crescentis</hi>), Thesaurar Petrus von St. Johannes (zu Besançon) und Thesaurar Stephan von St. Stephan (zu Besançon)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Lambert von (Saint-Jean-de-) Maurienne (<hi rend="italic">Maurianensis</hi>) beurkundet gemäß päpstlichem Auftrag die Beilegung eines lange währenden Rechtsstreites zwischen dem Abt von Bellevaux und dem Prior von Chaux, der früher am Hofe (Magister) Daniels, des Reichslegaten (für Burgund), und am Hofe des Erzbischofs von Besançon eine zu seinen Gunsten lautende Sentenz erwirkt hat, dann aber seine Ansprüche nicht hat nachweisen können, unter Bestätigung einer weiteren für den Abt am Hofe Daniels ergangenen Sentenz über das Gebiet von Chaux zu Gunsten der Abtei. <span n="witnesses">Z.: Erzbischof Eberhard von Besançon, Abt Theobald von La Charité (<hi rend="italic">Caritate</hi>), Abt Narduinus von Lieucroissant (<hi rend="italic">loci Crescentis</hi>), Thesaurar Petrus von St. Johannes (zu Besançon) und Thesaurar Stephan von St. Stephan (zu Besançon)</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Perreciot, De l'état civil 2, 277 n<hi rend="sup">o</hi>  21; Perreciot, De l'état civil 3, Preuves, 33 n<hi rend="sup">o</hi>  21; Mariotte, Le comté de Bourgogne, 171 n<hi rend="sup">o</hi>  3.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung resultiert aus den Nennungen Daniels und Erzbischof Eberhards bei Hofe (vgl. Regg. <ref type="unmatched">2439 — 2443</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-09-00_1_0_4_2_3_674_2446.html" type="internal" n="regesten">2446</ref>); in einer weiteren Urkunde des Legaten Daniel von 1183 wird ebenfalls auf den Hoftag zu Besançon hingewiesen, vgl. Mariotte, a.a.O. 172 n<hi rend="sup">o</hi>  8.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0238" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

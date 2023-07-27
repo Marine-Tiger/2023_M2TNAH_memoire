@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3367</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_3_0_4_2_4_797_3367"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_3_0_4_2_4_797_3367"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-28_3_0_4_2_4_797_3367</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3367</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-28" to="1189-05-28">1189
+									Mai 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Vierfeld bei Pressburg</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht von seinem Lager auf dem Vierfeld 								bei Pressburg aus auf (siehe bereits oben Regg. 3274–3276). An der 								Grenze nach Ungarn kommen Boten König (Belas III.) von Ungarn zum 								Herrscher, der ihm sein Land öffnet, den Kauf der nötigen 								Versorgungsgüter zusichert und allfällige Hindernisse auf dem Weg 								beseitigen lässt. Als Teilnehmer am Kreuzzug sind folgende 								Persönlichkeiten nachweisbar (Belege siehe unten in der 								Quellenangabe): Erzbischöfe: (Theodericus/Dietrich) von Besançon, 								(Hartwig) von Bremen (wählt die Meeresroute), Aimo von Tarentaise. – 								Bischöfe: Otto von Bamberg (?), Heinrich von Basel, Otto von 								Freising, Rudolf von Lüttich, Martin von Meißen, Hermann von 								Münster, Arnold von Osnabrück, Dietpold von Passau, (Ugrinus) von 								Raab, Konrad von Regensburg, Peter von Toul, Gottfried von Würzburg. 								– Äbte: Isenrich von Admont. – Domkanoniker: Werner von St. Viktor 								in Mainz. – Kleriker: Eberhard. – Herzöge: Friedrich von Schwaben, 								Berthold von Dalmatien/Meranien, zugleich Markgraf von Istrien. – 								Markgrafen: Hermann von Baden, Berthold von Vohburg. – Landgrafen: 								(Ludwig) von Thüringen (wählt die Meeresroute). – Grafen: Friedrich 								d.J. von Abenberg, Otto von Bentheim, Engelbert von Berg, Heinrich 								(II.) und Heinrich (III.) der Jüngere von Diez, Adalbert von 								Dillingen, Gebhard von Dollnstein, Konrad von Dornberg (Burggraf von 								Nürnberg) und sein Bruder Friedrich, Kuno von Falkenstein, Otto von 								Geldern, Ludolf (<hi rend="italic">Liutoldus</hi>) von Hallermund 								und sein Bruder Wilhelm (<hi rend="italic">Willibrandus</hi>; von 								Oldenburg), Poppo von Henneberg, Florens von Holland (und seine 								Söhne), Ulrich von Kiburg, Heinrich von Kuik, Siegfried (IV.) von 								Lebenau, (Dietrich), Sohn des Markgrafen Otto von Meißen, Rupert von 								Nassau, Berthold von Neuenburg (<hi rend="italic">Nivvenburhc</hi>), 								Christian von Oldenburg, Konrad von Öttingen, Heinrich von 								Saarbrücken, (Heinrich/Simon?) von Salm, Heinrich von Sayn, Adolf 								von (Holstein-)Schauenburg, Widukind von Schwalenberg-Waldeck (Vogt 								von Paderborn), Heinrich von Sponheim und sein Bruder Simon, (Simon) 								von Tecklenburg (wählt die Meeresroute), N.N., Bruder des Grafen 								(Siegfried?) von Vianden, Heinrich von Vöhringen, Dietrich von Wied, 								Burchard von Wöltingerode. – Burggrafen: (Burchard) von Magdeburg. – 								Weitere: Markward von Annweiler, kaiserlicher Truchsess, Hadubrand 								von Arnsberg, Gaubert von Aspremont, Vogt Friedrich von Berg, 								Friedrich von <hi rend="italic">Bergilen</hi> (Beichlingen oder 								Belgern bei Torgau), Adalbert von Bruckberg, Berenger von Gamburg 									(<hi rend="italic">Gamburhc</hi>), Adalbert von Grumbach, 								Heinrich von <hi rend="italic">Grunneberhc</hi>, Liutold von 								Gutenberg, Heinrich von <hi rend="italic">Hagen</hi>, N.N., Ritter 								von <hi rend="italic">Halle</hi>, Konrad von Harbach, Adalbert von 								Hildenburg, Hermann von <hi rend="italic">Hirzekke</hi>, Adalbert 								von Hohenlohe, Arnold von <hi rend="italic">Hornberg</hi>, Heinrich 								von <hi rend="italic">Isinburhc</hi>, Heinrich von Kalden, 								kaiserlicher Marschall, Berthold von Hohkönigsburg, Diepold von <hi rend="italic">Liukinberhc</hi> (Leuchtenberg?), Bodo von 								Massing, N.N., Marschall Herzog (Bertholds) von Meranien, Markward 								von Neuenburg, kaiserlicher Kämmerer, Konrad von (Jacob-)Neuharting, 								Manegold (Abt von Kremsmünster, siehe oben Reg. 3245), der Bruder 								Bischof Dietpolds von Passau, N.N., Marschall Bischof (Dietpolds) 								von Passau, Ulrich von Peggau, Hadebrand von <hi rend="italic">Phr</hi><hi rend="italic">v</hi><hi rend="italic">°ndorf</hi>, 								Otto von <hi rend="italic">Rammesperhc</hi>, Eberhard und Reinhold 								von Reifenberg, Konrad von <hi rend="italic">Swarzinberhc</hi>, 								Udalschalk von Trübenbach, der Ministeriale Heinrich von Völs, 								(Konrad von Waldhausen), kaiserlicher Mundschenk, Liutold von <hi rend="italic">Walstein</hi>, Ritter Gottfried von Wiesenbach, 								Adalbert von <hi rend="italic">Wisselberhc</hi>, Liutger von 								Woldenberg, Gobert, Poppo, Walram, ein Verwandter des Grafen Rupert 								von Nassau. – Des Weiteren ohne Namensnennung: Grafen und Edle aus 								Bayern, Truppen aus Böhmen, Edle aus dem Elsass, Edle aus Franken, 								Edle aus Kärnten, Bogenschützen aus Italien, Edle aus Österreich, 								Grafen und Edle sowie Leute aus Sachsen, Grafen und Edle aus 								Schwaben, Edle aus der Steiermark, Truppen aus Ungarn, Bürger aus 								Metz, ein Bürger aus Regensburg. Die Zahl der Teilnehmer am 								Unternehmen wird höchst unterschiedlich angegeben, weshalb hier 								gleichfalls eine Zusammenschau geboten werden soll. Es finden sich 								die folgenden konkreten Zahlenangaben: 300.000 Mann, darunter 60.000 								geharnischte Ritter; 200.000 oder 260.000 Mann; 150.000 Ritter (nach 								dem Tod des Kaisers noch 42.000 gepanzerte Ritter bei Herzog 								Friedrich von Schwaben); 100.000 Personen, darunter 40.000 edle 								Ritter; 100.000 Bewaffnete und 50.000 Ritter; 90.000 Kreuzritter 								sowie weiters 20.000 Fußtruppen und unterschiedlich ausgestattete 								Bogenschützen; 90.000 Kämpfer, darunter 12.000 Ritter; etwa 20.000 								Ritter, wobei in dieser Zahl die Knechte, Bürger, Kleriker und die 								übrigen Fußtruppen nicht mitgezählt sind; 13.000 Teilnehmer.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zur Überlieferung vgl. schon oben Reg. 3274. 								– Die hier in einer Gesamtschau gebotene Liste der Teilnehmer am 								Kreuzzug ergibt sich aus den Regg. 3157, 3245, 3264–3266, 3271–3274, 								3360–3365, 3367, 3378, 3381, 3385, 3386, 3389, 3399, 3402, 3403, 								3406, 3417, 3420, 3427–3432, 3436, 3452 und 3461. Zur Teilnahme Graf 								Heinrichs (III.) des Jüngeren von Diez ist wohl auch die seines 								Vaters, Graf Heinrichs (II.) von Diez, zu ergänzen, da ihn Gislebert 								von Mons, ed. Vanderkindere, 272 unter den auf dem Kreuzzug 								Barbarossas Umgekommenen zählt, vgl. dazu Schieffer, Heinrich II. 								von Diez, in: Italia et Germania. Liber Amicorum Arnold Esch (2001) 								436 f. – Als Teilnehmerzahlen bei Petermann, Imâd el Ispahani, 								Wochenblatt der Johanniter-Ordensballey Brandenburg Nr. 44 (1872) 								265, genannt: 300.000 Mann, darunter 60.000 geharnischte Ritter. Im 								Bericht des Bahā’ al-Dīn, History of Saladin, transl. by D. S. 								Richards (2002) 106, ist von 200.000 oder 260.000 Mann die Rede. In 								armenischen Quellen (Vartan der Große, Universalgeschichte [Recueil 								des Historiens des Croisades, Doc. arméniens 1, 1869], 440, sowie 								dem Brief des Katholikos [Patriarchen] von Armenien Gregor [IV.] – 								beim Absender [vgl. dazu auch Halfter, Das Papsttum und die 								Armenier, 176 Anm. 20] könnte es sich auch um Bar Krikour Basil, 								einen Basilikos, Sohn des Gregor, oder auch einen anderen Gregor, 								Enkel des Basilios von Rhom-gla, handeln – an Sultan Saladin, der im 								Bericht des `Imâd ad-Dîn al-Isfahânî, Conquête de la Syrie et de la 								Palestine par Saladin [al-Fath al-qussî fî l-fath al-qudsî], trad. 								par H. Massé [Documents relatifs a l’Histoire des Croisades. 								Académie des inscriptions et belles-lettres X, 1972], 229 f. [eine 								alte deutsche Übersetzung bei Wilken, Geschichte der Kreuzzüge 4, 3 								ff.] überliefert und auch in englischer Übersetzung bei Bahā’ 								al-Dīn, History of Saladin, transl. by D. S. Richards [2002], 114 								ff., verfügbar ist) ist von 150.000 Rittern bzw. 42.000 gepanzerten 								Rittern die Rede, die nach dem Tod des Kaisers noch bei Herzog 								Friedrich von Schwaben weilten, vgl. dazu Böhm, Bild Friedrich 								Barbarossas (Histor. Studien 289, 1936) 62 ff. und 65 (arabische 								Quellen). Zu den westlichen Quellen vgl. Regg. 3259, 3268 (Friedrich 								lässt 500 Mann des Kreuzheeres zur Rückkehr zwingen), 3274, 3378 und 								3402. Hinweise lassen sich auch aus der Zahl der Schiffe ableiten, 								auf denen im Frühjahr 1190 der Hellespont überquert wurde, siehe 								dazu unten Regg. 3442–3443. Anlässlich des Aufenthalts in Belgrad 								sind gleichfalls Teilnehmerzahlen (50.000 Ritter, 100.000 								Bewaffnete) überliefert, siehe Reg. 3378. – An dieser Stelle sei 								darauf hingewiesen, dass nach Thomas Ebendorfer, Historia 								Jerusalemitana, hg. von Zimmermann (MG. SS rer. Germ. N.S. 21, 2006) 								94, unter den Teilnehmern auch die Erzbischöfe (Gerard) von Ravenna 								und (Ubald) von Pisa, 50 Schiffe aus Friesland und Dänemark sowie 37 									<hi rend="italic">rates</hi> aus Flandern waren, 								Persönlichkeiten, von denen sonst keine Rede ist.</p></div>
+				
+				
+					<div type="commentary"><p>Eine detaillierte Übersicht zu den 								Kreuzzugsteilnehmern bieten Riezler, Kreuzzug, Forschungen zur dt. 								Gesch. 10 (1870) 1 ff., und Röhricht, Die Deutschen im heiligen 								Lande, 52 ff. – Zu den Zahlen der Teilnehmer am Unternehmen vgl. 								Eickhoff, Barbarossa im Orient, 47, der unter Berufung auf die 								Arbeit von Jahn, Heereszahlen in den Kreuzzügen, 14 ff., etwa 								12.000–15.000 Mann, davon rund 3.000 voll bewaffnete Ritter als 								realistisch ansieht, sowie Hiestand, ”precipua tocius christianismi 								columpna”, in: Friedrich Barbarossa (VuF 40, 1992) 69 f. – Den Weg 								des Kreuzheeres durch Ungarn und das byzantinische Gebiet vermelden 								neben zahlreichen anderen historiographischen Quellen (siehe dazu 								die einschlägigen Regg. in der Folge) auch die Ann. Egmund., ed. 								Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 								(1933) 185 f., und Burchard von Ursberg, ed. Holder-Egger – Simson, 								MG. SS rer.Germ. in us. schol., 61, sowie sehr allgemein L’estoire 								de Eracles (Recueil des Historiens des Croisades, Sér. II: 								Historiens occidentaux, Tom. 2, 1859) 131 lib. XXIV cap. XXI = 								Continuation de Guillaume de Tyr, ed. Morgan (Doc. relatifs à 								l’histoire des Croisades 14, 1982) 84 cap. 74 und 93 cap. 88 = The 								Old French Continuation of William of Tyre, 1184–1197, ed. Edbury, 								The conquest of Jerusalem and the Third Crusade. Sources in 								Translation (1996) 75 cap. 74 und 84 cap. 88. An dieser Stelle 								sei eine grundsätzliche Bemerkung über die Kreuzzugsquellen (zu 								diesen vgl. aus der älteren Literatur Zimmert, Quellen zur 								Geschichte des Kreuzzugs Kaiser Friedrichs I., XXXV. Jahresbericht 								der k.k. II. deutschen Staats-Realschule in Prag-Kleinseite 								1907–1908 [1908], 3 ff., Eickhoff, Barbarossa im Orient, 188 ff. 								sowie die Hinweise oben in den Bemerkungen zu Reg. 3245) und deren 								Datierungsangaben eingefügt: Nicht selten erfolgten während des 								Zuges (über Land und über die Donau) Teilungen des Kreuzheeres, und 								so gab es neben den im persönlichen Umfeld des Kaisers weilenden 								Kreuzrittern immer wieder auch getrennt marschierende Gruppen. Im 								Gegensatz zur älteren Literatur (vgl. etwa Zimmert, Tageno und der 								Brief Dietpolds, XXIX. Jahresbericht des k.k. Staats-Gymnasiums in 								Nikolsburg für das Schuljahr 1901–1902, 3 ff.) dürfte es wohl eher 								darauf – und nicht auf Ungenauigkeiten oder Irrtümer der 								Historiographen – zurückzuführen sein, dass die auf den Weitermarsch 								bezüglichen Tagesangaben in den verschiedenen Überlieferungen immer 								wieder voneinander abweichen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

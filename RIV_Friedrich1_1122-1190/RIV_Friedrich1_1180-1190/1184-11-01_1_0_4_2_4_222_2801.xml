@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2801</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-01_1_0_4_2_4_222_2801"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-01_1_0_4_2_4_222_2801"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-01_1_0_4_2_4_222_2801</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1453295043" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2801</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-01" to="1184-11-01">1184
+									um November 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Verona">Verona</placeName>
+												<location><geo decls="#WGS">45.4167, 11.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich hält 								einen Hoftag (Ann. Stadenses), bei dem Gespräche mit Papst Lucius 								(III.) im Mittelpunkt stehen. Er setzt sich beim Papst zu Gunsten 								der anwesenden Kleriker, darunter zahlreicher (ehemals 								schismatischer) Geistlicher aus Deutschland, ein. Lucius zeigt sich 								zunächst auch geneigt, diesem Ansinnen zu entsprechen, ändert dann 								aber seine Meinung und weist die Behandlung derartiger Fälle, wie 								sie ja auch in Venedig (siehe Reg. 2291) auf einem Konzil 								durchgeführt worden sind, einem nach Lyon einzuberufenden Konzil zu. 								In den Gesprächen zwischen dem Kaiser und dem Papst wird auch über 								das Mathildische Gut verhandelt, doch geht der Papst auf den 								Vorschlag einer Überlassung seiner Ansprüche an das Reich gegen 								jeweils ein Zehntel der Reichseinkünfte aus Italien für ihn und die 								Kardinäle nicht ein. Papst Lucius (III.) geht auf den Wunsch 								des Kaisers, dessen Sohn Heinrich (VI.) zum Kaiser zu krönen, 								deshalb nicht ein, weil nicht zwei Kaiser zur gleichen Zeit 								herrschen können. Auch in der Angelegenheit der zwiespältigen 								Bischofswahl in Trier kann keine Einigkeit erzielt werden; der Papst 								hat sich für Folmar, der Kaiser für Rudolf entschieden und beide 								wollen davon nicht abgehen. Friedrich lädt in dieser Angelegenheit 								auf Rat der Kardinäle sogar (Elekt) Rudolf von Trier nach Verona, um 								dem Papst die Gelegenheit zu bieten, beide Seiten zu hören. Ein 								Gesandter Sultan Saladins erscheint auf dem Hoftag in Verona und 								überbringt ein Schreiben seines Herrn, in dem dieser Ansprüche auf 								Jerusalem erhebt, worüber der ganze Hof sehr bestürzt ist (Ann. 								Stadenses). Während des <hi rend="italic">colloquium</hi> mit 								dem Papst führen Patriarch (Heraclius) von Jerusalem, eine Reihe von 								Bischöfen (aus dem Heiligen Land) und die Magister (Arnold) der 								Templer und (Roger de Moulins) des Hospitals (= der Johanniter) über 								das feindliche Vorgehen der Sarazenen Klage. Der Kaiser sagt ihnen 								Unterstützung zu, verspricht, einen Fürstenrat einzuberufen, und 								stellt in Aussicht, dass sich im nächsten Jahr Ritter für einen Zug 								nach Jerusalem rüsten können. Friedrich erteilt (dem 								abgesetzten Herzog) Heinrich (dem Löwen) auf Betreiben König 								Heinrichs (II.) von England, als dessen Legaten in dieser 								Angelegenheit der Archidiakon von Lisieux (Hugo von Nuant) und 								andere Kleriker sowie Familiaren an Papst Lucius (III.) nach Verona 								gesandt worden sind, die Erlaubnis zur Rückkehr in die Heimat und 								löst den Welfen gemeinsam mit dem Papst von dem Eid, niemals in sein 								Land zurückzukehren, es sei denn, der Kaiser würde dies erlauben (Ex 								gestis Henrici II. et Ricardi I.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Plac. Gib., MG. SS XVIII, 465; Ann. 								Brixienses, MG. SS XVIII, 814; Ann. s. Rudberti Salisburg., MG. SS 								IX, 777 (ohne Ort und Datum; <hi rend="italic">cum Lucio papa 									familiare colloquium habuit</hi>); Ann. Stadenses, MG. SS XVI, 								350; Ann. Veronenses (Parisii de Cereta), MG. SS XIX, 5 (irrig zu 								1183 Juli); Ann. Welfici Weingart., ed. König (Schwäb. Chroniken d. 								Stauferzeit 1,<hi rend="sup">2</hi>1978) 92 (ehrenvolle Aufnahme 								des Kaisers durch die Veronesen); Arnoldi Chron. Slavorum l. III 								cap. 11, MG. SS XXI, 154 f.; Burchard von Ursberg, ed. Holder-Egger 								– Simson, MG. SS rer.Germ. in us. schol., 58; Cont. Admunt., MG. SS 								IX, 586 (<hi rend="italic">familiare habuit colloquium</hi>); vgl. 								Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 134 								(teilweise auch zu 1185); Cont. Cremifanensis, MG. SS IX, 546 (<hi rend="italic">cum papa Lucio Verone habuit colloquium</hi>); 								Cron. Reinhardsbrunn., MG. SS XXX/1, 542; Gestorum Treverorum Cont. 								III., MG. SS XXIV, 384 (Trierer Angelegenheiten); Ioh. Cod. Ann., 								ed. Holder-Egger, MG. SS rer.Germ. in us. schol., 12 (Eintreffen in 								Verona irrig zu ca. Oktober 6); vgl. auch <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz 								II, n<hi rend="sup">o</hi> 
+</p>
+<p><ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/b2ba8a4b-4440-4819-b8a7-79756ec317f9.html" type="internal" n="regesten">159</ref> (zu 1185!). – Vgl. des Weiteren auch 								Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, 									n<hi rend="sup">o</hi> 1250 (Ablehnung der Intervention des 								Kaisers zugunsten von Schismatikern), 1251 (Ablehnung des 								kaiserlichen Wunsches nach Kaiserkrönung Heinrichs VI.) und 1252 								(Lucius III. lehnt Angebot des Kaisers ab, für den Verzicht auf die 								Mathildischen Güter künftig ein Zehntel der Reichseinkünfte aus 								Italien dem Papst, ein weiteres Zehntel den Kardinälen zu 								übertragen). Zu den Klagen der Gesandten aus dem Heiligen Land: 								Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol., 55 = 								ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 170 (mit 								dem angegebenen Datum „um November 1“); Cont. Admunt., MG. SS IX, 								586; Cont. Zwetlensis altera, MG. SS IX, 542; Hermanni Altah. Ann., 								MG. SS XVII, 384 (ohne Ort und Datum); vgl. dazu auch Roberti 								canonici s. Mariani Autissiodorensis Chron., MG. SS XXVI, 248; Ex 								Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 274 (zu 1184 								und 1185); vgl. auch das Schreiben Erzbischof Adalberts von Salzburg 								an Dompropst G(undaker) von Salzburg und das Salzburger Domkapitel, 								unten Reg. 2830. Zu der Begnadigung Heinrichs des Löwen vgl. Ex 								gestis Henrici II. et Ricardi I, MG. SS XXVII, 107 sowie Baaken – 								Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, n<hi rend="sup">o</hi> 1249; vgl. auch Ex Radulfi de Diceto 								Ymaginibus historiarum, MG. SS XXVII, 274 (zu 1185: Rückkehr 								Heinrichs des Löwen <hi rend="italic">imperatoris impetrata 									licentia</hi>).</p></div>
+				
+				
+					<div type="commentary"><p>Das vorliegende Regest dient einer Zusammenfassung 								sämtlicher historiographischer Nachrichten über den Aufenthalt in 								Verona im Herbst 1184 (allgemein vgl. dazu Giesebrecht – Simson, 								Kaiserzeit VI, 87 ff.), wobei sich die zeitliche Einordnung an dem 								vermutlichen Hoftagstermin, dem Fest Allerheiligen, orientiert (zum 								Eintreffen des Kaisers in Verona siehe schon oben Reg. 2793). – 								Papst Lucius III. hatte im Übrigen seinen Zug nach Norden zum 								Treffen mit dem Kaiser, das ja im Jahr zuvor für das Apostelfest (= 								29. Juni) am Gardasee fixiert worden war (Reg. 2722), nach 								monatelangem Verweilen in Anagni (1184 Januar 1 – März 23/24) und 								dann in Veroli (März 27 – Mai 29) zu Ende Mai angetreten (Ann. 								Casinenses, MG. SS XIX, 313); er begab sich sodann an die Adriaküste 								(17. Juni in Ancona), von dort weiter über die Via Emilia und weilte 								Mitte Juli in Carpi, vgl. dazu die Stationen des päpstlichen 								Itinerars bei Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 								1: 1181–1184, no 1136 ff.; bereits am 22. Juli 1184 wurde er 								feierlich in Verona empfangen, vgl. Baaken – Schmidt, Papstregesten 								1124–1198, Teil 4/Lfg. 2: 1184–1185, no 1167. Für eine 								Überlassung der Mathildischen Güter hatte der Kaiser schon im 								Vorjahr ein Angebot an die Kurie gemacht (siehe Friedrichs Schreiben 								an Lucius III., Reg. 2722). Die Ann. Stadenses, MG. SS XVI, 350 								berichten zeitlich schon vor dem Zug des Herrschers nach Verona, 								Papst Lucius (III.) habe den Sohn des Kaisers, Heinrich (VI.), 								krönen und weihen wolllen, doch sei er daran von einigen Kardinälen 								gehindert worden; vgl. zu diesem Themenkomplex vor allem Baaken, 								Unio regni ad imperium, QFIAB 52 (1972) 219 ff., Schmidt, Königswahl 								und Thronfolge, 198 f., sowie Schmidt, A quo ergo habet, in: Von 								Schwaben bis Jerusalem (FS. G. Baaken), hg. von Lorenz – Schmidt 								(Veröff. des Alemann. Instituts, no 61, 1995) 84 f. (mit Hinweisen 								auf weiterführende Literatur). Zur Trierer Angelegenheit siehe 								schon oben Reg. 2705 sowie auch Baaken – Schmidt, Papstregesten 								1124–1198, Teil 4/Lfg. 2: 1184–1185, no 1224; der als hier nach 								Verona geladen genannte Rudolf von Trier ist am 4. November 1184 bei 								Hof nachweisbar (siehe seine Zeugennennung in D. 883 = Reg. 2808). 								Sowohl im Zusammenhang mit der Nennung von Boten Saladins (zur 								Glaubwürdigkeit dieser Angaben vgl. Möhring, Saladin und der Dritte 								Kreuzzug, 136 f.) wie auch bei den Berichten über die Klagen von 								Gesandten aus dem Heiligen Land klingt die Kreuzzugsproblematik an. 								Zur Reise des Patriarchen von Jerusalem und seiner Gefährten nach 								dem Westen vgl. die Hinweise bei Röhricht, Reg. regni 								Hierosolymitani, 169 no 638; zu den Begleitern des Patriarchen 								zählte wohl auch Bischof Odo von Beirut, der schon am 5. September 								1184 ein feierliches päpstliches Privileg für seine Kirche erhalten 								hatte, vgl. Hiestand, Papsturkunden für das Heilige Land 								(Abhandlungen der Akad. d. Wiss. in Göttingen, Phil.-hist. Kl., 3. 								Folge, Nr. 136, 1985) 298 no 125; der gleichfalls zur Delegation 								zählende Großmeister der Templer, Arnald von Torroga, war bereits am 								30. September 1184 in Verona verstorben, vgl. Bulst-Thiele, Sacrae 								domus mil. templi Hierosol. magistri (Abhandlungen der Akad. d. 								Wiss. in Göttingen, Phil.-hist. Kl. 3., Folge, Nr. 86, 1974) 102; 								Vertreter der Templer traten aber in jedem Fall an den Kaiser heran 								(siehe dazu unten Reg. 2830). Möglich wäre es, dass auch armenische 								Würdenträger damals bei Hofe weilten, vgl. dazu Halfter, Staufer und 								Armenien, in: Von Schwaben bis Jerusalem, hg. von Lorenz und Schmidt 								(Veröff. d. Alemann. Instituts, Nr. 61, 1995) 190 ff., sowie Ders., 								Das Papsttum und die Armenier, 150. – Insgesamt vgl. dazu Hiestand, 								”precipua tocius christianismi columpna”, in: Friedrich Barbarossa 								(VuF 40, 1992) 62 f., sowie auch unten Reg. 2809. Zur 								Begnadigung Heinrichs des Löwen vgl. auch Reg. 2802 sowie Engels, 								Entmachtung, in: Ders., Stauferstudien (1988) 120 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

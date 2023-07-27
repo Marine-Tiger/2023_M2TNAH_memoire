@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3177</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-08_3_0_4_2_4_603_3177"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-08_3_0_4_2_4_603_3177"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-08-08_3_0_4_2_4_603_3177</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3177</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-08-08" to="1188-08-08">1188
+									(Juli 25 – August 8)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich hält 								einen allgemeinen Hoftag, wo er im Sinne des beschlossenen 								Kreuzzuges für den Frieden im Lande tätig ist. Heinrich den Löwen, 								der wegen der Zwietracht, die zwischen ihm und Herzog Bernhard (von 								Sachsen) um das Herzogtum (Sachsen) herrscht, hieher befohlen worden 								ist (vgl. oben Reg. 3145), stellt der Kaiser vor drei Optionen: Er 								könne sich entweder mit einer teilweisen Wiedereinsetzung in seine 								frühere Stellung zufrieden geben, sich auf Kosten des Kaisers auf 								den Kreuzzug begeben und danach seine Stellung völlig wieder 								erlangen oder das Land gemeinsam mit seinem gleichnamigen Sohn für 								drei Jahre verlassen. Heinrich der Löwe entscheidet sich für ein 								(weiteres) dreijähriges Exil in England.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. IV cap. 7, MG. SS 								XXI, 170; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 140; Ann. Stederburg., MG. SS XVI, 221; Cron. 								Reinhardsbrunn., MG. SS XXX/1, 544 (irrig: sechsjähriges Exil des 								Welfen); vgl. Ann. Augustani min., MG. SS X, 9 (ohne Ort und Datum: 									<hi rend="italic">Heinricus prius dux, non recepto ducatu, in 									gratiam redit.</hi>); Ex gestis Henrici II. et Ricardi I., MG. 								SS XXVII, 110 f. (Friedrich ist wegen der Vorbereitung des 								Kreuzzuges um den Frieden im Reich bemüht; die dem Welfen gestellte 								Bedingung, im Falle der Weigerung, am Kreuzzug teilzunehmen, das 								Land drei Jahre verlassen zu müssen, wird hier so dargestellt, als 								hätte sie für alle Reichsfürsten Gültigkeit gehabt).</p></div>
+				
+				
+					<div type="commentary"><p>Zur Kritik an Arnolds Bericht über die drei 								Optionen für den Welfen – vor allem das Angebot einer völligen 								Wiederherstellung der früheren Position Heinrichs ist kaum denkbar – 								vgl. Giesebrecht – Simson, Kaiserzeit VI, 680 f., sowie Jordan, 								Heinrich der Löwe, 220. – Der Hoftag des Kaisers auf dem Georgenberg 								(siehe auch Reg. 3178) zu Goslar wird auch bei Bode, UB. Stadt 								Goslar 1, 344 n<hi rend="sup">o</hi> 311 und 327 n<hi rend="sup">o</hi> 314 erwähnt; als Termin des Hoftages kommen entweder St. 								Jakob (25. Juli) oder St. Laurentius (10. August) in Betracht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

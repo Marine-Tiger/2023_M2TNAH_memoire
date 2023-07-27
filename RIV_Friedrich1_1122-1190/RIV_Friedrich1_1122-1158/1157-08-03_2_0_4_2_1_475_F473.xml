@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †473</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_2_0_4_2_1_475_F473"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_2_0_4_2_1_475_F473"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-08-03_2_0_4_2_1_475_F473</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1366732091" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †473</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-08-03" to="1157-08-03">1157 August 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Halle">Halle</placeName>
+												<location><geo decls="#WGS">52.0667, 8.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III non. augusti, in Halle)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ichtershausen</hi>  <hi rend="spaced">Fälschung</hi>  <hi rend="spaced">Angebl</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von St. 4288 und DF. I. 176 (Reg. 472) abgefaßt</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Konrad von Mainz, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Johann von Merseburg und Gebhard von Würzburg, Herzog Heinrich von Sachsen, Landgraf Heinrich Raspo von Thüringen, Markgraf Dietrich (von der Lausitz) und seine Brüder Heinrich (Graf von Wettin) und Dedo (Graf von Groitzsch), die Grafen Heinrich von Schwarzburg, Siboto von Scharzfeld (<hi rend="italic">Scarrtfelt</hi>), Ludolf von Wöltingerode und sein Bruder Graf Hoger sowie Volrad von Kranichfeld</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Frideruna und ihrem Sohn Markward von Grumbach zur Zeit König Konrads III. gegründete Zisterzienserinnenkloster <span sameAs="recipient"><hi rend="spaced">Ichtershausen</hi> </span>  in Thüringen (<hi rend="italic">ad honorem dei et beate virginis sancte Marie sanctique Georii martiris in provincia, que Thuringia dicitur, monasterium, quod Y chtrishusen nuncupatum est</hi>) nach dem Vorbild dieses seines Vorgängers in seinen Schutz und bestätigt ihm die Besitzungen und Rechte, darunter die freie Wahl von Propst und Äbtissin, die Freiheit von der Gerichtsbarkeit weltlicher Machthaber, besonders der Gründersippe, unbeschadet der dem Erzbischof von Mainz zustehenden Spiritualien, sowie die Peterskapelle, Fischereirechte zu Rudisleben (<hi rend="italic">Rvdoluislebin</hi>) und die Brücke in Ichtershausen. <span n="witnesses">Z.: die Erzbischöfe Konrad von Mainz, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Johann von Merseburg und Gebhard von Würzburg, Herzog Heinrich von Sachsen, Landgraf Heinrich Raspo von Thüringen, Markgraf Dietrich (von der Lausitz) und seine Brüder Heinrich (Graf von Wettin) und Dedo (Graf von Groitzsch), die Grafen Heinrich von Schwarzburg, Siboto von Scharzfeld (<hi rend="italic">Scarrtfelt</hi>), Ludolf von Wöltingerode und sein Bruder Graf Hoger sowie Volrad von Kranichfeld</span>. - <span n="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von St. 4288 und DF. I. 176 (Reg. 472) abgefaßt</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quoniam antecessores nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam antecessores nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p><span sameAs="recipient"><hi rend="spaced">Fälschung</hi> </span>; <span sameAs="recipient"><hi rend="spaced">Angebl</hi> </span>. Orig.: Staatsarchiv Gotha (A). Drucke: Stumpf, Acta Maguntina 64 n<hi rend="sup">o</hi>  62; Rein, Thuringia sacra 1, 46 n<hi rend="sup">o</hi>  4. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  150; Stumpf 3776.</p></div>
+				
+				
+					<div type="commentary"><p>Der Zweck dieser Fälschung, deren angebl. Orig. aus dem 13. Jh. stammt, ergibt sich deutlich aus einem Dorsualvermerk des 13. Jh.: <hi rend="italic">invenies de iudicio et piscaria et libertate</hi>. Vgl. auch Riedmann, Reichskanzlei, MIÖG 75 (1967) 392. - Das Siegel ist eine unechte Nachbildung des echten SI. 2 an DF. I. 176. - Zur Gründung des Zisterzienserinnenklosters vgl. Hausmann, Grumbach (FS. Pivec = Innsbrucker Beiträge zur Kulturwissenschaft 12, 1966) 171 und 179.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0160" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221691%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

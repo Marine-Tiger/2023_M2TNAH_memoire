@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 78</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-04-20_1_0_4_2_1_78_78"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-04-20_1_0_4_2_1_78_78"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-04-20_1_0_4_2_1_78_78</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235355" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 78</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-04-20" to="1152-04-20">1152 April 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Köln">Köln</placeName>
+												<location><geo decls="#WGS">50.9333, 6.95</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XII kal. maii, Colonię)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Laach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Kölner Einfluß von dem an der Kirche geschulten Notar romanischer Zunge Arnold II. C, der hier erstmals auftritt, verfaßt und offenbar auch mundiert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold II. von Köln, Dompropst Walter von St. Peter zu Köln, die Pröpste Gerhard von Bonn, Tiepold von Xanten, Domdekan Albert von Köln, die Äbte Markward von Fulda, Heinrich von Hersfeld, Nikolaus von Siegburg (<hi rend="italic">Sibergensis</hi>), Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär), die Herzoge Welf, Heinrich von Limburg, die Grafen Ulrich von Lenzburg (<hi rend="italic">Linceborch</hi>), Dietrich von Ahr, Heinrich von Namur, Wilhelm und sein Bruder Gerhard von Jülich, Adolf von Saffenberg und sein Sohn Hermann, Adolf von Berg, Ludwig von Looz, Robert von Laurenburg (Nassau/<hi rend="italic">Lurenborch</hi>), (Graf) Eberhard von Sayn und sein Bruder (Heinrich), Graf (Heinrich) von Diez (<hi rend="italic">Dyedesa</hi>), Graf Siegfried von Wied und sein Bruder Burchard von Wied, Arnold und Gerhard von Blankenheim, Hermann von Kuik, Friedrich von Arnsberg, Rembold von Isenburg und <hi rend="italic">Hartbernus de Bocstella</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt der Abtei <span sameAs="recipient"><hi rend="spaced">Laach</hi> </span>  (<hi rend="italic">sancte Marię de Lacu</hi>) den ihr von ihrem Gründer, Pfalzgraf Heinrich, geschenkten Hof Bendorf (<hi rend="italic">Bedendorf</hi>) zurück, indem er den widerrechtlichen Besitzer Heinrich von Molsberg (<hi rend="italic">Henricus quidam de Mollesperch</hi>), dem der Hof schon durch ein Hofgerichtsurteil unter Konrad III. abgesprochen worden ist, durch die Zahlung von 60 Mark entschädigt; dies wird von Erzbischof Arnold II. von Köln, dessen Kirche dieses Gut gehört, in Gegenwart des Königs und der Fürsten kraft seiner und der päpstlichen Gewalt bestätigt (<hi rend="italic">auctoritate beati Petri et Eugenii secundi sacrosancte Romanę ecclesię pontificis et suo banno</hi>). <span n="witnesses">Z.: Erzbischof Arnold II. von Köln, Dompropst Walter von St. Peter zu Köln, die Pröpste Gerhard von Bonn, Tiepold von Xanten, Domdekan Albert von Köln, die Äbte Markward von Fulda, Heinrich von Hersfeld, Nikolaus von Siegburg (<hi rend="italic">Sibergensis</hi>), Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär), die Herzoge Welf, Heinrich von Limburg, die Grafen Ulrich von Lenzburg (<hi rend="italic">Linceborch</hi>), Dietrich von Ahr, Heinrich von Namur, Wilhelm und sein Bruder Gerhard von Jülich, Adolf von Saffenberg und sein Sohn Hermann, Adolf von Berg, Ludwig von Looz, Robert von Laurenburg (Nassau/<hi rend="italic">Lurenborch</hi>), (Graf) Eberhard von Sayn und sein Bruder (Heinrich), Graf (Heinrich) von Diez (<hi rend="italic">Dyedesa</hi>), Graf Siegfried von Wied und sein Bruder Burchard von Wied, Arnold und Gerhard von Blankenheim, Hermann von Kuik, Friedrich von Arnsberg, Rembold von Isenburg und <hi rend="italic">Hartbernus de Bocstella</hi> </span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Kölner Einfluß von dem an der Kirche geschulten Notar romanischer Zunge Arnold II. C, der hier erstmals auftritt, verfaßt und offenbar auch mundiert</span>. <span n="incipit"><hi rend="italic">Ex commisso nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex commisso nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift Staatsarchiv Koblenz (?), nicht auffindbar (B); Abschrift erste Hälfte 15. Jh. ebenda (C). Drucke: Beyer, Mittelrhein. UB. 1, 618 n<hi rend="sup">o</hi>  561; MG. DF. I. 6. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  4; Wauters, Table chronol. 2, 351; Stumpf 3621.</p></div>
+				
+				
+					<div type="commentary"><p>Über den neuen Notar in der Reichskanzlei vgl. Zeillinger, Zwei Diplome Barbarossas, DA 20 (1964) 571 ff. und die Vorbemerkung zu DF. I. 6 sowie jetzt Baaken, Beurteilung Gottfrieds von Viterbo (FS. H. Löwe, 1978) 382 ff. - Zur Verwendung der päpstlichen <hi rend="italic">auctoritas</hi>  in den Sicherungsformeln von Kölner erzbischöflichen Urkunden vgl. Peters, Beziehungen zwischen kölnischer und römischer Kirche, AfD 17 (1971) bes. 187 ff. - Zum Inhalt vgl. auch die Vorbemerkung zu DK. III. 8.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2001):</hi>
+</p>
+<p>Bei dem als letztem Zeugen genannten <hi rend="kursiv">Hartbernus de Bocstella</hi> handelt es sich um Hartbern von Boxtel (Nord-Brabant), vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 106 f.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>Zur Frage der Identifizierung des mit DF.I.6 an die Abtei Laach zurückgestellten Hofes Bendorf mit dem in DK.III.8 genannten
+</p>
+<p>Hof zu Bendorf vgl. nun die Bemerkungen bei B.-Niederkorn-Hruza, Regg. 98 sowie 786.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0030" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_6" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

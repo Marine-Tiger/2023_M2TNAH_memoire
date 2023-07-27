@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3242</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-00_1_0_4_2_4_669_3242"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-00_1_0_4_2_4_669_3242"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-04-00_1_0_4_2_4_669_3242</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3242</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-04-01" to="1189-04-30">1189
+									(April)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Hagenau (<hi rend="italic">apud Hagenowem</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.. (vgl. Anm. g)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Kanzleidiktat</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Theoderich von Besançon, Graf 									Ludwig von Saarwerden, Magister Daniel, derzeit Legat von 									Burgund, Vizegraf Gislebert (<hi rend="italic">Gillebertus</hi>) 									von Vesoul, Guido von Chay (<hi rend="italic">Chawis</hi>), 									Wilhelm von Pesmes und Heinrich von (der) Rue-Poitune (in 									Besançon)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Stift</hi> 								<hi rend="spaced">Saint-Étienne zu Besançon</hi> für das 								Seelenheil seiner verstorbenen Frau Beatrix und das ihrer Vorfahren, 								der Grafen von Burgund, auf Bitten der Kanoniker des Stiftes 								gemeinsam mit seinem Sohn Otto, den er mit Zustimmung der Vasallen 								der Grafschaft Burgund im mütterlichen Erbe zum Grafen von Burgund 								eingesetzt hat, das Dorf Villeneuve. Von diesem Dorf soll eine 								jährliche Zahlung in der Höhe von 16 Pfund der Münze von Besançon 									(<hi rend="italic">Stephanensium</hi>) an zwei durch Kaiserin 								Beatrix zum Seelgerät für ihren Vater, Graf Rainald, sowie für die 								früheren Grafen von Burgund eingesetzte Priester entrichtet werden. 								Die zwischen dem Grafen und dem Stift geteilten Befugnisse 								hinsichtlich der Einsetzung dieser Priester legt er fest. <span n="witnesses">Z.: Erzbischof Theoderich von Besançon, Graf 									Ludwig von Saarwerden, Magister Daniel, derzeit Legat von 									Burgund, Vizegraf Gislebert (<hi rend="italic">Gillebertus</hi>) 									von Vesoul, Guido von Chay (<hi rend="italic">Chawis</hi>), 									Wilhelm von Pesmes und Heinrich von (der) Rue-Poitune (in 									Besançon)</span>. –<span n="clerk"> Kanzleidiktat</span>; 									<span n="seal"> SP.D.. (vgl. Anm. g)</span>. <span n="incipit"><hi rend="italic">Imperialis celsitudinis 										dignitas</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis celsitudinis 										dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschriften des 17. Jh. aus dem 								Original, Coll. Baluze 144 f. 61 (C) und f. 118 (D), 								Nationalbibliothek Paris; Abschrift des 18. Jh., Nouv. acquis. 								franç. 8735 f. 215, Nationalbibliothek Paris (E). Drucke: 								Böhmer, Acta imp., 151 n<hi rend="sup">o</hi> 160; 								MG.DF.I.994. Reg.: Stumpf 4516.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung resultiert aus dem 								kaiserlichen Itinerar. – Zur Sache vgl. die Bestätigung durch den 								Pfalzgrafen Otto von 1191, Güterbock, Geschichte Burgunds, Zs. f. 								Schweiz. Gesch. 17 (1937) 224 no 5, sowie zuletzt Vones-Liebenstein, 								Vir uxorius?, in: Stauferreich im Wandel. Ordnungsvorstellungen und 								Politik in der Zeit Friedrich Barbarossa, hg. von Weinfurter 								(Mittelalter-Forschungen 9, Stuttgart 2002) 189 ff., insbesondere 								216. – Zu der hier erwähnten Einsetzung des Kaisersohnes Otto als 								(Pfalz-)Graf von Burgund siehe schon oben Reg. 3229. – Einige der 								Zeugen finden sich auch in der Urkunde Graf Ludwigs (I.) von 								Saarwerden in seiner Eigenschaft als kaiserlicher Justitiar und 								Reichslegat in Burgund von 1188 (Reg. 3220); der in der Zeugenreihe 								genannte Wilhelm von Pesmes fungierte im Jahr zuvor gemeinsam mit 								dem gleichfalls unter den Zeugen erwähnten Magister Daniel als Legat 								für Burgund, vgl. dazu Reg. 3219. – Zur Hagenauer Pfalz vgl. Ganz, 								Hof und Kultur, in: Friedrich Barbarossa (VuF 40, 1992) 645 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

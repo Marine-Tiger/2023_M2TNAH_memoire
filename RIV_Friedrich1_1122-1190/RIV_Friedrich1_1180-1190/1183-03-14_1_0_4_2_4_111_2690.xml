@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2690</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-03-14_1_0_4_2_4_111_2690"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-03-14_1_0_4_2_4_111_2690"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-03-14_1_0_4_2_4_111_2690</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843671" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2690</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-03-14" to="1183-03-14">1183
+									März 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz Nürnberg (<hi rend="italic">II idus marcii, in palacio Nurenberc</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl von 									einem Deutschen, wahrscheinlich von GG mundiert</scribe>
+				
+				
+					<testis function="witnesses">Herzog Friedrich von Schwaben, Rudolf, 									Protonotar des kaiserlichen Hofes, Graf Albert von Eberstein, 									Burggraf Konrad von Nürnberg, Graf Heinrich von Altendorf, 									Hubertus <hi rend="italic">de Clemente</hi> (Konsul von Pavia), 									Philipp von Casale Monferrato, Gerhard von Dovera (oder: Doera, 									wohl aus Cremona), Lanfranc von Como, Sirus Salinbene von Pavia, 									Paltinerius von Osanna, Petrus <hi rend="italic">de 										Visconte</hi> (aus Mailand), Malewisca von Brescia und 									Picelmilia von Vella</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Leute von <hi rend="spaced">Caesarea</hi> am Ufer des Tanaro (<hi rend="italic">homines de 									Cesaria, que posita est super ripam Tanaris</hi> = Alessandria) 								unter folgenden Bedingungen in seine Gnade auf: Alle männlichen und 								weiblichen Einwohner werden die Stadt verlassen und außerhalb 								derselben verweilen, bis sie der Bote des Kaisers wieder in die 								Stadt hineinführt und ihnen diese kraft kaiserlicher Autorität 								zurückstellt. Der Kaiser gründet die Stadt aus sieben Orten, nämlich 								Gamondo (heute: Castellazzo Bormida), Marengo, Bergoglio, Roboreto 								(auch: Rovereto), Solero, Villa del Foro und Oviglia sowie unter 								Einbeziehung von 40 Familien aus Quargnento, (in einem fingierten 								Akt neu) und verleiht ihr den Namen Caesarea (<hi rend="italic">Cesaria</hi>); er wird den Zoll der Tanarobrücke, weitere 								Rechte (<hi rend="italic">pedagium civitatis et cureiam 									</hi>[sic!]<hi rend="italic"> rerum venalium</hi>) und alle 								Regalien und Besitzungen außerhalb der Stadt, die die Markgrafen 								(von Montferrat) vom Reich innehatten, für sich behalten. Alle 								männlichen Bewohner der Stadt zwischen 14 und 70 Jahren werden dem 								Kaiser und seinem Sohn, König Heinrich (VI.), den Treueid leisten 								und (nur) gemäß dem Befehl des Kaisers und seines Boten Frieden 								schließen und Krieg führen. Den Treueid werden sie alle fünf Jahre 								erneuern, und sie werden auch den Boten des Kaisers, der inner- und 								außerhalb der Stadt die Einkünfte des Kaisers einzutreiben hat, 								aufnehmen. Dieser Bote wird das Geleitrecht und die Aufsicht über 								Waisen und Minderjährige innehaben, Appellationen werden vor ihm 								behandelt werden und Duelle, die vor den Konsuln vereinbart werden, 								werden in seiner Gegenwart und der der Konsuln auszutragen sein. Der 								Kaiser sieht den Leuten von Caesarea die Angriffe (auf das Reich) 								nach, gewährt ihnen und ihren Anhängern, namentlich den Leuten von 								Cassine und Belmonte, seine Gnade und verleiht Caesarea den Rang 								einer Stadt. Er wird ihnen Konsuln geben, die die Stadt zu bewahren 								und zur Ehre des Reiches zu regieren schwören werden, das Gericht in 								der Stadt und die Gewohnheitsrechte ausüben und Verbrechen bestrafen 								werden. Der Kaiser wird seine Verbündeten in der Nachbarschaft von 								Ceasarea, nämlich Pavia, Tortona, Asti, Acqui, Alba, Casale 								Monferrato, die Markgrafen von Vasto, von Bosco Marengo und von 								Occimiano, durch Eid zur Hilfeleistung gegenüber Caesarea und im 								Gegenzug Caesarea ebenso zur Hilfeleistung gegenüber diesen 								verpflichten. Er wird die Stadt in seiner unmittelbaren Herrschaft 								behalten und keine Herrschaft von Markgrafen über sie zulassen. Die 								Wahl der Konsuln wird jährlich von der Kommune durchgeführt werden, 								und sie werden das Konsulat jährlich vom Kaiser oder dessen Sohn, 								dem König, empfangen, falls diese in Italien weilen; falls keiner 								von beiden in Italien weilt, werden sie die Investitur jährlich von 								Seiten des Boten des Kaisers erhalten, ohne dafür bezahlen zu müssen 									(<hi rend="italic">sine remuneracione</hi>). Falls auch der Bote 								nicht in Italien weilt, werden sie alle fünf Jahre nach Deutschland 								ziehen und dort vom Kaiser investiert werden. Caesarea wird keine 								Leute von Pavia, weder solche aus der Stadt noch aus dem Paveser 								Land, insbesondere nicht die Leute des Guido von Pietra Marazzi, die 								von Sala Monferrato und die von Bassignana, aufnehmen und 								denjenigen, über die es jetzt die Herrschaft innehat, erlauben, 								ihren Herren die schuldigen Dienste zu leisten. Ebenso werden die 								Pavesen und Guido (von Pietra Marazzi) keine Leute aus Caesarea 								aufnehmen, es sei denn, es geschehe in beiderseitigem 								Einverständnis. Die Boten der Stadt Caesarea, Magister Anselm von 								Conzano und Thiebald <hi rend="italic">Uasonus</hi>, haben dem 								Kaiser und seinem Sohn, König Heinrich (VI.), die Einhaltung dieser 								Bestimmungen und auch deren Beeidung durch ihre Mitbürger eidlich 								zugesichert, Kämmerer Rudolf hat auf Befehl des Kaisers und des 								Königs <hi rend="italic">in anima ipsorum</hi> die Befolgung der 								Abmachungen, solange Caesarea die Treue bewahrt, beschworen. <span n="witnesses">Z.: Herzog Friedrich von Schwaben, Rudolf, 									Protonotar des kaiserlichen Hofes, Graf Albert von Eberstein, 									Burggraf Konrad von Nürnberg, Graf Heinrich von Altendorf, 									Hubertus <hi rend="italic">de Clemente</hi> (Konsul von Pavia), 									Philipp von Casale Monferrato, Gerhard von Dovera (oder: Doera, 									wohl aus Cremona), Lanfranc von Como, Sirus Salinbene von Pavia, 									Paltinerius von Osanna, Petrus <hi rend="italic">de 										Visconte</hi> (aus Mailand), Malewisca von Brescia und 									Picelmilia von Vella </span>. –<span n="clerk"> Wohl von 									einem Deutschen, wahrscheinlich von GG mundiert</span>.<span n="incipit"> 									<hi rend="italic">Sub hac forma.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sub hac forma.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im 								Liber crucis p. 102, Stadtarchiv Alessandria (B); notarielle 								Abschrift von 1270 August 22, Departementalarchiv Marseille 								(C). Drucke: MG. Const. 1, 407 n<hi rend="sup">o</hi> 292; 								MG.DF.I.841. Regg.: Tallone, Marchesi di Saluzzo, BSSS 16 								(1906) 24 n<hi rend="sup">o</hi> 76; Nürnberger UB., 63 n<hi rend="sup">o</hi> 88; B.-Baaken Reg. 1o; Stumpf 4357.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Riedmann, Verträge, 72 ff., Opll, Stadt 								und Reich, 190 ff., Pavoni, Il governo di Alessandria, Nuova rivista 								storica 99 (2005) 1–54, und Opll, Friedrich Barbarossa als Gründer 								von italienischen Städten, MIÖG 118 (2010), 47–60. – Zur Festlegung, 								dass spätestens nach fünf Jahren beim Kaiser selbst um die 								Investitur mit den Regalien nachgesucht werden muss, siehe den Beleg 								im Hinblick auf die Leute von Corneliano aus dem Jahr 1188, unten 								Reg. 3189.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_841" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

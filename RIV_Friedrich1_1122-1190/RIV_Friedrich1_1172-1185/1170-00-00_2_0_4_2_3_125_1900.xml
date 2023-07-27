@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1900</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_2_0_4_2_3_125_1900"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-00-00_2_0_4_2_3_125_1900"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-00-00_2_0_4_2_3_125_1900</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595404" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1900</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-01-01" to="1170-12-31">1170 Herbst</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich dankt <hi rend="spaced">Erzbischof (Raimund) von Arles</hi>  dafür, daß er ihm bis nach Lyon entgegengezogen sei, um den Hoftag in Besaçon zu besuchen, und teilt ihm mit, er habe den von den Einwohnern von Marseille (<hi rend="italic">Marsilienses</hi>) mit dem Bruder (Graf Raimund Berengar) des Königs (Alfons) von Aragon vollzogenen Tausch kraft kaiserlicher Autorität kassiert (Reg. 1899). — <span n="incipit"><hi rend="italic">Sicut ab amicis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut ab amicis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Livre noir des Erzbistums Arles aus dem 12. Jh. f. 3', Departementalarchiv Marseille (B); Livre vert aus dem 13. Jh. f. F ebenda (C); Livre rouge aus dem 13. Jh. f. 1' ebenda (D). Drucke: Stumpf, Acta ined. 490 n<hi rend="sup">o</hi>  344; Gallia christ noviss. 3, 230 n<hi rend="sup">o</hi>  592; MG. DF.I. 188. Reg.: Stumpf 3782b.</p></div>
+				
+				
+					<div type="commentary"><p>Ebenso wie MG.DF.I. 187 (jetzt Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1170-00-00_1_0_4_2_3_124_1899.html" type="internal" n="regesten">1899</ref>) gehört auch MG.DF.I. 188 nicht zum Herbst des Jahres 1157 (so irrig auch oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-10-00_4_0_4_2_1_496_494.html" type="internal" n="regesten">494</ref>), sondern richtig zum Herbst 1170. Diese Erkenntnis ist Fried, Krönung in Arles, Hist. Jb. 103 (1983), 357 ff., besonders 359 mit Anm. 69 zu verdanken, vgl. dazu den Nachtrag zu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-10-00_4_0_4_2_1_496_494.html" type="internal" n="regesten">494</ref>  im 2. Band der Regesta Imperii sowie die Vorbemerkung zu MG.DF.I.573. — Zu dem hier erwähnten Hoftag von Besançon vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1170-00-00_3_0_4_2_3_126_D1901.html" type="internal" n="regesten">1901</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0054" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_188" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

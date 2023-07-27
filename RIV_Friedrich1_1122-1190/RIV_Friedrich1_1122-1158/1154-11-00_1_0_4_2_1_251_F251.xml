@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †251</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-00_1_0_4_2_1_251_F251"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-00_1_0_4_2_1_251_F251"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-11-00_1_0_4_2_1_251_F251</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237509" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †251</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-11-01" to="1154-11-30">1154 (? Ende November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Cremona  (Cremona)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Vezzano</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Guglielmo ossia Ugolino di Opizzo, a Cacciaguerra di Cane, a Beringario di Grimaldo, a Corrado di Malietto, ad Enrico di Ugolino e loro consorti)</hi></notarius>
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Herren von <span sameAs="recipient"><hi rend="spaced">Vezzano</hi> </span>  [<hi rend="italic">dominos de Vezano Willelmum de Opizo et Caziawerram de Cone et Beringerium de Gremalch (Grimaldo) et Curradum de Malfrech (Manfredo) et Henricum de Villelmino et universos eorum consortes</hi> ] wegen ihrer hervorragenden Dienste für das Reich sowie ihrer Treue und Beständigkeit mit all ihren Besitzungen in seinen Schutz. - Diktat weist Merkmale der späteren Zeit auf, die sich etwa seit der Tätigkeit des Notars Rainald G während des dritten Italienzuges in Diplomen für italienische Adelige entwickelt haben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Drucke: Giov. Sforza, Vezzano, Giornale stor, e letter. della Liguria 3 (1902) 353 f. nach Bernucci, der folgende Überlieferungsangaben bietet: Privilegium Federici I. imperatoris, Datum Cremone, etc. come da copia esibita ed esistente nel Processo fatto in Genova nanti il Pretore della Rota civile negli atti del notaio genovese Pier Maria Bacigalupo nell' anno 1665 nella ricognizione e prove della discendenza de' sigg. Nobili della Spezia; Abschrift am Ende der Collettanea copiosissima di memorie e notizie istoriche appartenenti alla città e provincia di Luni des Bonav. Rossi; Abschrift des canonico Nicc. Maria Torriani aus alten Pergamenten und Schriften der Herren von Vezzano, die der bischöflichen Kirche von Sarzana vorgelegt wurden; Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh. 135 Anm. l nach der Handschrift B. V. 32 f. 400 der Universitätsbibliothek Genua (als Empfänger des D. werden hier genannt: <span n="chancellor"><hi rend="italic">Guglielmo ossia Ugolino di Opizzo, a Cacciaguerra di Cane, a Beringario di Grimaldo, a Corrado di Malietto, ad Enrico di Ugolino e loro consorti)</hi> </span>; MG. DF. I *93.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einordnung nach dem überlieferten Datum zum Jahr 1154 läßt sich nach dem Itinerar höchstens vor, nicht aber nach dem Reichstag von Roncaglia vornehmen, vgl. Opll, Itinerar 13 mit Anm. 4, wahrscheinlicher dürfte eine Einreihung in die 60er Jahre sein, doch kann hier auch nicht die Möglichkeit ausgeschlossen werden, daß es sich um eine genealogische Fälschung handelt. - Vgl. auch Haverkamp, Herrschaftsformen 2, 416 f. Anm. 171 a.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0087" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_93" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

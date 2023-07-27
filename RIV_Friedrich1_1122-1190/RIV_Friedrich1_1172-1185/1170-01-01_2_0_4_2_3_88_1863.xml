@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1863</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-01-01_2_0_4_2_3_88_1863"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-01-01_2_0_4_2_3_88_1863"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-01-01_2_0_4_2_3_88_1863</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596143" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1863</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-01-01" to="1170-01-01">1170 Januar 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(V<hi rend="sup">o</hi>  nonas ianuarii, apud Franckenvort).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Hinricus imperialis aule canc. vice Cristiani Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Verfälschung eines echten D., kein Kanzleidiktat erkennbar</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem an den Hof gekommenen <hi rend="spaced">Bischof Berno von Schwerin</hi>  innerhalb der angegebenen Grenzen den Bestand von dessen Bistum, das Berno als Mönch im Rahmen seiner unter der Autorität Papst Hadrians (IV.) im Gebiet jenseits der Elbe durchgeführten Missionstätigkeit mit seiner Wahl von Seiten der dortigen Fürsten, der (Pommernherzöge) Bogeslaw, Kasimir und Pribislaw, und der Konstituierung durch Herzog Heinrich (den Löwen) von Sachsen begründet hat, und trägt den dortigen Fürsten (= den Pommernherzögen) und den Großen des Landes auf, den Zehnt zu entrichten, gegen Plünderung und Raub vorzugehen und den Frieden mit den benachbarten Christen zu bewahren. — <span n="chancellor"><hi rend="italic">Hinricus imperialis aule canc. vice Cristiani Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">Verfälschung eines echten D., kein Kanzleidiktat erkennbar</span>; <span n="seal">SI.2</span>, vgl. MG.DF.I.557 Anm.f'. <span n="incipit"><hi rend="italic">Quia ad predicandum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia ad predicandum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Beglaubigte Abschrift des Notars Nikolaus Pakebusch aus dem 16. Jh. aus dem verlorenen Register der Schweriner Kirche, Staatsarchiv Schwerin, Bistum Schwerin C 4 p. 1 (C); Abschriften des 16. Jhs. aus demselben Register ebenda, Bistum Schwerin, Urkundenabschriften f. 339' (D) und Diplomatarium B f. 5' (E). Drucke: Mecklenburg.UB.1, 85 n<hi rend="sup">o</hi>  91; Conrad, Pommersches UB.1, 60 n<hi rend="sup">o</hi>  53; MG.DF.I.557. Reg.: Stumpf 4106.</p></div>
+				
+				
+					<div type="commentary"><p>Wohl zur Sicherung der ausgedehnten Diözesangrenzen und der Zehentpflicht der Pommernherzöge um 1225 — 1229 entstandene Verfälschung eines echten D., dessen Existenz sich insbesondere aus der mit MG.DF.I.556 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1170-01-01_1_0_4_2_3_87_1862.html" type="internal" n="regesten">1862</ref>) übereinstimmenden, fehlerhaften Datierung ergibt, vgl.dazu die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0042" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_557" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

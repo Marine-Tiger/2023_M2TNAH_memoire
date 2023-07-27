@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 296</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-13_1_0_4_2_1_296_296"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-13_1_0_4_2_1_296_296"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-13_1_0_4_2_1_296_296</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238394" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 296</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-13" to="1155-05-13">1155 Mai 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Bologna am Reno</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(tertio ydus maii, in territorio Bononie iuxta Renum)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Medicina</hi></recipient>
+				
+				
+				
+					<scribe>Von A II. C oder A II. D verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt den Wiederaufbau der Burg <span sameAs="recipient"><hi rend="spaced">Medicina</hi> </span>, deren Bewohner frei von jeder Abgabe (<hi rend="italic">Ad solum itaque regni servitium vacantes ab omni districtu, fodro, albergaria, censu nec non ab omni exactione immunes cum integritate rerum suarum subsistant</hi>) dem Reich allein dienen sollen und bestätigt ihnen die namentlich angeführten Grenzen ihres Gebietes und ihrer Besitzungen. - <span n="clerk">Von A II. C oder A II. D verfaßt</span>. <span n="incipit"><hi rend="italic">Cum omnibus in regno</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnibus in regno</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1319 April 11 im Registrum novum der Stadt Bologna f. 198' im Staatsarchiv Bologna (B); Abschrift des 18. Jh. im Codex 317 n<hi rend="sup">o</hi>  8 der Universitätsbibliothek Bologna (F). Drucke: (Savioli), Annali Bolognesi 1<hi rend="sup">b</hi>, 238 n<hi rend="sup">o</hi>  154; MG. DF. I. 104. Reg.: Stumpf 3708.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Ausstellungsort vgl. Hessel, Bologna (Hist. Stud. 76, 1910) 87 mit Anm. 2. Zur strategischen Bedeutung Medicinas vgl. Simonsfeld, Jahrbücher 309 f. und das Testament Heinrichs VI. B.-Baaken Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-25_1_0_4_2_2_56_614.html" type="internal" n="regesten">614</ref>  (von 1197).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0100" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_104" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

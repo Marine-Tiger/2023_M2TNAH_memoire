@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3328</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_57_0_4_2_4_755_3328"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_57_0_4_2_4_755_3328"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_57_0_4_2_4_755_3328</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3328</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1155
+									Juni 18 – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Nonnenkloster Wunstorf</hi> die Verleihungen Bischof Dietrichs 								von Minden und gemäß den Verfügungen König Ludwigs (des Deutschen) 								das Recht der Wahl der Äbtissin und des Vogtes. – <hi rend="italic">Varia et multimoda</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Fragmentarische Abschrift aus der Mitte 								des 19. Jh. „aus dem Archiv des Stiftes Wunstorf von Oberamtmann 								Reiche zu Blumenau mitgeteilt. Auf Baumwollenpapier(!)“ im Apparat 								der Wiener Diplomata-Abteilung aus dem vor 1859 vernichteten 								Original (E). Drucke: Hodenberg, Calenberger UB. 9/1, 2 n<hi rend="sup">o</hi> 2; MG.DF.I.1024. Reg.: Stumpf 4569.</p></div>
+				
+				
+					<div type="commentary"><p>Aufgrund des Verlustes des Originals ist nicht mit 								Sicherheit zu entscheiden, ob dieses Stück Friedrich I. oder 								Friedrich II. zuzuweisen ist. Für Friedrich I. spricht sowohl die 								Angabe Hodenbergs, dass die Schrift dem 12. Jh. angehöre, wie auch 								die Behauptung des Oberamtmannes Reiche, die Schrift stamme von der 								gleichen Hand wie in D.158 (Reg. 435), das er aus dem Faksimile im 								Chronicon Gotwicense 1, 359 kannte; allerdings entsprechen die 								erhaltenen Formularteile nicht dem Diktat dieses Kanzleinotars, 								nämlich Rainalds C, vgl. dazu die Vorbemerkung zum D. – Die freie 								Äbtissinnenwahl wurde dem Kloster bereits durch Ludwig den Deutschen 								(MG.DLu.140) gewährt, worauf unser D. auch Bezug nimmt, während die 								Freiheit der Vogtwahl aus rechtsgeschichtlichen Gründen eine Zutat 								der Ausstellungszeit unseres D. sein muss. – Zum Stift bzw. zur 								Siedlung Wunstorf vgl. Höing, Die „civitas Wnstorpensis“, in: 								Civitatum communitas 1 (FS. Heinz Stoob = Städteforschung 21/1, 								1984) 103 mit Anm. 46.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 956</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-22_1_0_4_2_2_398_956"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-22_1_0_4_2_2_398_956"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-22_1_0_4_2_2_398_956</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243473" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 956</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-22" to="1161-06-22">1161 Juni 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. iulii, apud Nouam Laudam habito generali concilio, quod dominus Victor papa IIII<hi rend="sup">us</hi>  celebravit presente domino Frederico Romanorum imperatore augusto)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Avignon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ęcclesię electus et Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben vom persönlichen Vertrauten Rainalds von Dassel, RH</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die bischöfliche Kirche zu <span sameAs="recipient"><hi rend="spaced">Avignon</hi> </span>  auf Bitten Bischof Gaufrids und auf Intervention des Elekten Rainald von Köln, des Erzkanzlers für Italien, mit all ihren Besitzungen in seinen Schutz, sichert ihr die Regalien zu, trifft eine Reihe von Verfügungen über die Kirchenlehen des Bistums, besonders über die Pflichten der Belehnten und die Erblichkeit der Lehen, und erlaubt dem Bischof, innerhalb seiner Diözese öffentliche Notare zu ernennen. - <span n="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ęcclesię electus et Italię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben vom persönlichen Vertrauten Rainalds von Dassel, RH</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Imperatoriam decet maiestatem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam decet maiestatem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Avignon (A). Kop.: Beglaubigte Kopie von 1266 März 17 ebenda (B). Drucke: Gallia Christ. noviss. 7, 75 n<hi rend="sup">o</hi>  262; MG. DF. I. 329. Reg.: Stumpf 3908.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0114" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_329" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

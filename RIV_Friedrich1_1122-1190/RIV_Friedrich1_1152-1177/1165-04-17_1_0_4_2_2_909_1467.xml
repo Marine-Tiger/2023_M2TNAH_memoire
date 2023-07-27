@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1467</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-04-17_1_0_4_2_2_909_1467"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-04-17_1_0_4_2_2_909_1467"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-04-17_1_0_4_2_2_909_1467</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1358504345" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1467</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-04-17" to="1165-04-17">(vor 1165 April 17)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Kanzler) Christian investiert die Pisaner gegen die Entrichtung einer Summe von 13.000 Pfund mit Sardinien und sagt zu, sich beim Kaiser dafür einzusetzen, daß den Genuesen befohlen werde, sich künftig nicht mehr in Sardinien einzuschalten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Ianuenses I, ed. Belgrano, Fonti per la storia d'Italia 11, 194.</p></div>
+				
+				
+					<div type="commentary"><p>Die Genueser Annalen bringen diese Nachricht unter Bezug auf Aussagen der Pisaner Konsuln und Christians vom Herbst 1166 (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-11-00_2_0_4_2_2_1045_1602.html" type="internal" n="regesten">1602</ref>), wobei Christian in der für diesen Zeitpunkt richtigen Weise bereits als Erzbischof von Mainz angesprochen wird. Der Anteil Christians an der Belehnung Pisas mit Sardinien spiegelt sich wohl auch darin, daß bei dem über diesen Rechtsakt ausgestellten Diplom (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-04-17_1_0_4_2_2_911_1469.html" type="internal" n="regesten">1469</ref>) Diktatanklänge an den Kanzleinotar Christian E auftreten, der von 1164-1167 die Kanzleigeschäfte des Reichslegaten und Reichskanzlers bzw. Mainzer Elekten Christian besorgte, vgl. dazu Koch, Reichskanzlei, 91 mit Anm. 5. - Die Datierung der Investitur richtete sich nach dem darüber ausgestellten Diplom (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-04-17_1_0_4_2_2_911_1469.html" type="internal" n="regesten">1469</ref>), dem Itinerar Christians nach ist sie vielleicht in den November 1164 (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-11-30_1_0_4_2_2_874_1432.html" type="internal" n="regesten">1432</ref>) zu setzen.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu den Bedingungen der kaiserlichen Politik gegenüber Genua und Pisa, die im April 1165 zur Ausstellung des DF.I.477 (Reg. 1469) für Pisa führten, vgl. jetzt ausführlich Bernwieser, Ex consilio principum curie, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 205–227, insbesondere 219 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0239" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

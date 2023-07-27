@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 706</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-06_1_0_4_2_2_148_706"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-06_1_0_4_2_2_148_706"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-05-06_1_0_4_2_2_148_706</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242027" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 706</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-05-06" to="1159-05-06">1159 Mai 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Roncaglia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(pridie nonas maii, in Runchalia)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Walburg im Heiligen Forst</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>unter geringfügiger Benützung des DH. V. Stumpf 3009 (VU.) verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Eberhard von Bamberg, Hermann von Verden und Daniel von Prag, Herzog Friedrich von Schwaben und Pfalzgraf Konrad bei Rhein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von seinen Vorfahren gegründete Kloster <span sameAs="recipient"><hi rend="spaced">St. Walburg im Heiligen Forst</hi> </span>  (<hi rend="italic">ęcclesiam sanctorum apostolorum Phylippi et Iacobi et beatę Walburgis virginis in Sacra Silva</hi>) unter Abt Dietmar um des Seelenheiles seines dort begrabenen Vaters, Herzog Friedrichs (von Schwaben), willen in seinen Schutz, bestätigt ihm die Privilegien seiner Vorgänger und gewährt die freie Abtwahl nach der Regel des hl. Benedikt; er behält sich die Vogtei vor, die nach seinem Tod an den ihm folgenden Besitzer von Hagenau und der dazugehörigen Allodien fallen soll, erlaubt im Falle ungerechtfertigter Handlungen die Wahl eines anderen Vogtes aus seiner Familie und bestätigt die genannten Besitzungen sowie das Recht der Holz- und Gewässernutzung. <span n="witnesses">Z.: die Bischöfe Eberhard von Bamberg, Hermann von Verden und Daniel von Prag, Herzog Friedrich von Schwaben und Pfalzgraf Konrad bei Rhein</span>. - <span n="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">unter geringfügiger Benützung des DH. V. Stumpf 3009 (VU.) verfaßt und geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Salutari exemplo antecessorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Salutari exemplo antecessorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Straßburg (A). Drucke: Scheffer-Boichorst, Kleinere Forschungen, MIÖG 9 (1888) 209 n<hi rend="sup">o</hi>  1; MG. DF. I. 270.</p></div>
+				
+				
+					<div type="commentary"><p>Der Aufenthalt in Roncaglia wird auch bei Rahewin (Gesta Frid. l. IV cap, 38, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 281) erwähnt, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-05-00_1_0_4_2_2_149_D707.html" type="internal" n="regesten">707</ref>. - Zu Daniel von Prag vgl. auch Mon. Sazav. Cont. Cosmae, MG. SS IX, 161 (irrig: Mailand).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0055" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_270" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

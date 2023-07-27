@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 388</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-00_1_0_4_2_1_390_388"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-00_1_0_4_2_1_390_388"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-02-00_1_0_4_2_1_390_388</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238960" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 388</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-02-01" to="1156-02-28">1156 (Februar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">(Frankfurt)</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Neuburg</hi></recipient>
+				
+				
+				
+					<scribe>In Anlehnung an das zisterziensische Formular (vgl. Reg. 387) mit Ausnahme des wohl von AH (Albert) eingesetzten Monogramms außerhalb der Kanzlei verfaßt und wohl auch geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Burchard von Straßburg, Ortlieb von Basel, die Herzoge Matthäus von Lothringen, Konrad von Schwaben, Heinrich von Sachsen, Graf Hugo von Dagsburg (<hi rend="italic">Tagespurch</hi>), (Graf) Sibert von Frankenburg, Anselm von Ringelstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Graf Reinhold von Lützelburg (<hi rend="italic">Lucelenburch</hi>) gemeinsam mit seinem Vater, Herzog Friedrich (II.) von Schwaben, gegründete Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Neuburg</hi> </span>  (<hi rend="italic">Nuwenburch</hi>) unter Abt Nendungus auf Grund des Erbrechtes (<hi rend="italic">hereditario iure patri succedens</hi>) in seinen und seiner Familie Schutz (<hi rend="italic">in nostram et imperatorum sive regum aut ducum vel comitum de nostra progenie in futurum nobis succedentium suscipio tuitionem</hi>) und bestätigt ihm die Besitzungen, darunter namentlich den Ort Neuburg, die Weide- und Holzrechte im Heiligen Forst (<hi rend="italic">usuaria pascuarum et lignorum in Sancto Foresto</hi>) und die Höfe Gebolsheim (<hi rend="italic">Gebolteshusen</hi>), Laubach (<hi rend="italic">Loupach</hi>), <hi rend="italic">Wilenbach</hi>, Pfaffenbronn, Hochstett (<hi rend="italic">Hohenscheit</hi>), Sufflenheim (<hi rend="italic">Suvelnheim</hi>), Hegeney (<hi rend="italic">Herckenheim</hi>), Harthausen, Gereuth, Bergbieten (<hi rend="italic">Buthenheim</hi>) und Adamsweiler (<hi rend="italic">Adelmanneswilre</hi>) mit Zubehör und Zehenten sowie den Neubruchzehenten. <span n="witnesses">Z.: Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Burchard von Straßburg, Ortlieb von Basel, die Herzoge Matthäus von Lothringen, Konrad von Schwaben, Heinrich von Sachsen, Graf Hugo von Dagsburg (<hi rend="italic">Tagespurch</hi>), (Graf) Sibert von Frankenburg, Anselm von Ringelstein</span>. - <span n="clerk">In Anlehnung an das zisterziensische Formular (vgl. Reg. 387) mit Ausnahme des wohl von AH (Albert) eingesetzten Monogramms außerhalb der Kanzlei verfaßt und wohl auch geschrieben</span>. <span n="incipit"><hi rend="italic">Desiderium, quod ad</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderium, quod ad</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Nachlaß Grandidier aus dem verlorenen Chartular des Klosters f. 9', Generallandesarchiv Karlsruhe (G). Drucke: Schoepflin, Alsatia dipl. 1, 471 n<hi rend="sup">o</hi>  670; MG. DF. I. 136. Reg.: Wentzcke, Reg. der Bischöfe von Straßburg 1, 337 n<hi rend="sup">o</hi>  552; Stumpf 3738.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>DF.I.388 für die bischöfliche Kirche von Genf unter Bischof Arducius ist bei Scalfati, Carte dell’Archivio arcivescovile di Pisa 3, 61 no 35, nach einer im dortigen Archiv überlieferten Kopie des 13. Jh. ediert.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich neben der textlichen Abhängigkeit von D. 135 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-02-21_1_0_4_2_1_389_387.html" type="internal" n="regesten">387</ref>) vor allem aus der Übereinstimmung der Zeugenliste mit diesem D. - Die irrige Nennung <hi rend="italic">Chunrado duce de Suevia</hi>  statt offenbar richtig C. <hi rend="italic">duce fratre imperatoris, Friderico duce de Suevia</hi>  unter den Zeugen geht wohl auf einen Überlieferungsfehler zurück.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1250866208" value="2009-08-21"></date><p n="author">Bernhard Metz</p><p>Hohenscheid ist nicht Hochstett, sondern Hochscheid bei Niederbronn; Gereuth liegt unweit der Mossig westlich von Dahlenheim; Adelmanneswilre ist nicht Adamsweiler im sog. Krummen Elsass, sondern der heutige Münchhof bei Still, vgl. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Pfleger%2C+Entwicklung+Neuburg" type="external" n="opac">L. Pfleger,</ref> Die wirtschaftliche und territoriale Entwicklung der ehemaligen Zisterzienserabtei Neuburg im Heiligen Forst bis zum 15. Jahrhundert. In: Archiv für elsässische Kirchengeschichte 1 (1926), S. 1-48.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0127" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_136" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

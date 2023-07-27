@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1350</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-22_1_0_4_2_2_792_1350"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-22_1_0_4_2_2_792_1350"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-04-22_1_0_4_2_2_792_1350</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1350</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-04-22" to="1164-04-22">1164 April 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Luca">Lucca</placeName>
+												<location><geo decls="#WGS">43.8333, 10.2167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Rainald von Köln eilt auf die Nachricht vom Tode Papst Viktors IV. (1164 April 20) hin nach Lucca und bewirkt dort gemeinsam mit Viktors Kardinälen, namentlich Johannes de S. Martino, sowie den Bischöfen Heinrich von Lüttich und (Alberich) von Lodi sowie in Anwesenheit von tuszischen Bischöfen, des römischen Stadtpräfekten (Petrus) und vieler römischer Adeliger die Wahl Guidos von Crema zum neuen Papst (Paschal III.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pisani, ed. Gentile, Rer. Ital. SS N. Ed. VI/2, 31, Acerbus Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 175, Ann. Palid., MG. SS XVI, 91, Ann. Reichersperg., MG. SS XVII, 470 (mit Zustimmung des Kaisers), Ann. s. Rudberti Salisburg., MG. SS IX, 776 (Paschal durch den Kaiser eingesetzt), Boso, ed. Duchesne, 410 (irrig: der Kaiser erfährt in Deutschland von den Ereignissen!), Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 115, E Gervasii Cantuariensis Chronica, MG. SS XXVII, 299, Ex Willelmi Neuburgensis Historia Anglicana, MG. SS XXVII, 232; zu den Anwesenden (bes. den Römern) vgl. auch DDF. I. 480 und 481; des weiteren vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  791 und JL. nach 14.484.</p></div>
+				
+				
+					<div type="commentary"><p>Nach dem Schreiben eines Anonymus an Alexander III. aus dem Jahre 1165 (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-05-24_1_0_4_2_2_917_1475.html" type="internal" n="regesten">1475</ref>  sowie auch Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 263) hätte Rainald hiebei gegen einen schriftlichen Befehl des Kaisers, der dem Rat Erzbischof Konrads von Mainz zufolge eine Aussprache hätte führen wollen, gehandelt; vgl. dazu Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-10-00_1_0_4_2_2_233_791.html" type="internal" n="regesten">791</ref>  und Giesebrecht - Simson, Kaiserzeit VI, 427 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0211" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

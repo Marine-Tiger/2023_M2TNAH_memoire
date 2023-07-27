@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 428</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_2_0_4_2_1_431_428"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_2_0_4_2_1_431_428"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-00-00_2_0_4_2_1_431_428</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 428</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-01-01" to="1156-12-31">(1156 Ende)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">W(ibald</hi>  <hi rend="spaced">Stablo</hi>  <hi rend="spaced">Corvey</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Abt) <span sameAs="recipient"><hi rend="spaced">W(ibald</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Stablo</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Corvey</hi> </span>) beklagt sich beim Kaiser [<hi rend="italic">Inclito triumphatori et glorioso domino suo F(riderico) Dei gratia Romanorum imperatori augusto, a Deo coronato, magno et pacifico</hi> ] über seine mangelhafte Information über die Angelegenheiten des Reiches und bittet ihn um Intervention zugunsten seines Klosters Corvey bei Erzbischof (Wichmann) von Magdeburg, dem die Klärung der Zehentstreitigkeiten zwischen dem Bistum Osnabrück (<hi rend="italic">Osnebruggensis</hi>) und Corvey vom Papst übertragen worden ist und der den streitenden Parteien für den 20. Januar (1157) einen Termin nach Merseburg angesetzt hat. Weiters führt er Klage über die Ermordung des Grafen Dietrich von Höxter (<hi rend="italic">Huxara</hi>), eines verdienstvollen Teilnehmers des ersten Italienzuges, durch Widekind von Schwalenberg (<hi rend="italic">Sualenberch</hi>), der ihn tötete, als er als von Wibald bestellter erblicher Vogt an der geweihten Kirchenmauer zu Gericht saß, und gemeinsam mit seinen Mitbrüdern über die Gewalttaten des Grafen (Heinrich) von Tecklenburg (<hi rend="italic">Tekeneburch</hi>), der sie zur Herausgabe eines alten Corveyer Besitzes (<hi rend="italic">ut predium quoddam, quod aecclesia Corbeiensis in tempore quatuor predecessorum nostrorum abbatum quiete possedit, nos absque ulla legum ratione dimittamus</hi>) zwingen will, wogegen er die Frage gerichtlich zu klären vorschlägt (<span n="incipit"><hi rend="italic">cum nos parati simus et ei multociens optulerimus, in vestro iudicio sive ducis sive comitis nos pro eodem predio velle stare et, si per legem amiserimus, sine impedimento à possessione recedere.</hi> </span>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">cum nos parati simus et ei multociens optulerimus, in vestro iudicio sive ducis sive comitis nos pro eodem predio velle stare et, si per legem amiserimus, sine impedimento à possessione recedere.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Jaffé, Mon. Corb. 577 n<hi rend="sup">o</hi>  446.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung dieses Schreibens ergibt sich daraus, daß DF. I. 154 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-00-00_3_0_4_2_1_432_429.html" type="internal" n="regesten">429</ref>) die Antwort darauf darstellt. - Zur Anrede des Kaisers vgl. Herkenrath, Regnum und Imperium, Friedrich Barbarossa (WdF 390, 1975) 335 ff. - Zum Inhalt vgl. Simonsfeld, Jahrbücher 481 f. und 482 Anm. 199 (zum Termin des Merseburger Tages) und Hausmann, Reichskanzlei 246 f., zum Zehentstreit Jäschke, Osnabrücker Zehntstreit, AfD 11/12 (1965/66) 392 ff.; die erwähnte Übertragung der Angelegenheit an Erzbischof Wichmann durch Papst Hadrian IV. erfolgte am 11. Juli 1155 (JL. 10082, ed. Israël-Möllenberg, UB. Erzstift Magdeburg 1, 350 n<hi rend="sup">o</hi>  281). Der Kaiser reagierte auf die Bitte bezüglich der Intervention in diesem Streit mit DF. I. 155 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-01-25_1_0_4_2_1_433_430.html" type="internal" n="regesten">430</ref>). - Die Klage über die Gewalttat Widekinds von Schwalenberg führte 1157 zu dessen Verurteilung durch Herzog Heinrich den Löwen (s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-05-00_1_0_4_2_1_457_455.html" type="internal" n="regesten">455</ref>), vgl. Güterbock, Gelnhäuser Urkunde 130 f. 1156. Unter diesem Datum verzeichnet Stumpf *3760 eine gefälschte Urkunde für die Stadt Rimini. Das D. beruht auf einer echten Grundlage, das Diktat weist auf den Notar Rainald G, vor allem im Jahre 1160. Mit Riedmann, Reichskanzlei, MIÖG 75 (1967) 393 ff. reihen wir daher das Stück zu diesem Jahr (am Ende) ein (s. künftig Teil 2 der Reg. Imp. Friedrichs I.).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0144" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

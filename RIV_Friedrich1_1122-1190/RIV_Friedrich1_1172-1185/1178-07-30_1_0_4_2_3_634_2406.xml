@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2406</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_1_0_4_2_3_634_2406"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_1_0_4_2_3_634_2406"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-30_1_0_4_2_3_634_2406</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604762" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2406</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-30" to="1178-07-30">1178 Juli 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz zu Arles</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III<hi rend="sup">o</hi>  kalendas augusti mensis, in palacio Arelatensi)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="kursiv">Godefridus imperialis curie canc. vice Ro<hi rend="sup">v</hi> tperti Viennensis archiep. et Burgundie ac Prouincie archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Bischöfe Hugo von Verden und Bertrand von Vaison-la-Romaine, Graf Wilhelm von Forcalquier, Bertrand von Baux, Raymund von Mévouillon, Draconetus, Ysinido <hi rend="italic">de Palta</hi>, Adiemarius de Stella, Willelmus Artaldi, Gentio, Willelmus de Stella, Burggraf Burchard von Magdeburg, Wolfram von Bebenburg und Rupert von Walldürn</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem <hi rend="spaced">Wilhelm von Peytieux, Grafen des Valentinois (von Valence?), und dem Grafen Dauphin</hi>  (= der damals noch minderjährige Dauphin Albéric Taillefer) das Weggeld (<hi rend="italic">pedagium</hi>) auf der Straße von Valence nach Montélimar unter der Bedingung, daß der Dauphin diese Rechte unter Verzicht auf eigene Einkünfte zu erblichem Lehen an Wilhelm gibt, legt die einzuhebenden Sätze im einzelnen fest, verbietet die Erhebung anderer als der gerechten und althergebrachten Weggelder an der genannten Straße, verpflichtet Wilhelm ausdrücklich zum Schutz dieser Straße (<hi rend="italic">ut fidelis et diligens eiusdem strate protector et defensor circa divites, pauperes, peregrinos et quoslibet per eam transeuntes existas</hi>) und bestätigt ihm unter Vorbehalt der kaiserlichen Gerechtsame alle gegenwärtigen und künftigen Besitzungen. <span n="witnesses">Z.: die Bischöfe Hugo von Verden und Bertrand von Vaison-la-Romaine, Graf Wilhelm von Forcalquier, Bertrand von Baux, Raymund von Mévouillon, Draconetus, Ysinido <hi rend="italic">de Palta</hi>, Adiemarius de Stella, Willelmus Artaldi, Gentio, Willelmus de Stella, Burggraf Burchard von Magdeburg, Wolfram von Bebenburg und Rupert von Walldürn</span>. — <span n="chancellor"><hi rend="kursiv">Godefridus imperialis curie canc. vice Ro<hi rend="sup">v</hi> tperti Viennensis archiep. et Burgundie ac Prouincie archicanc.</hi> </span>; trotz mancher Anklänge an den Stil Burkhards läßt sich die Frage nach dem Verfasser nicht eindeutig beantworten; <span n="seal">B. laut D.</span>  <span n="incipit"><hi rend="italic">Ad laudem Romani</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad laudem Romani</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 15./16. Jh. im Primus über copiarum comitatus Valentinensis et Diensis, B 2983 f. 35, Departementalarchiv Grenoble (C); Abschrift des 15./16. Jh. im Quintus über, B 2987 f. 806, ebenda (D); Abschrift des 18. Jh. im Ms. U 317 f. 208, Stadtbibliothek Grenoble (E); Abschrift des 18. Jh. im Ms. lat. 10.950 p. 329, Nationalbibliothek Paris (F). Drucke: Stumpf, Acta ined. 529 n<hi rend="sup">o</hi>  374; Chevalier, Doc. inédits sur le Dauphiné 1, 27 n<hi rend="sup">o</hi>  1; MG.DF.I.741. Regg.: Chevalier, Reg. dauphinois 1, 780 n<hi rend="sup">o</hi>  4688; Stumpf 4255a.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Weggelder hatte der Kaiser bereits früher, wohl im Juni 1161, dem Grafen Wilhelm (zu ihm vgl. jetzt auch MG.DDF.I. Band 5, S. 283) als Lehen des Dauphins verliehen (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-06-00_1_0_4_2_2_406_D964.html" type="internal" n="regesten">964</ref>), doch war diese Maßnahme im Januar 1168 im Interesse des Bistums Valence wieder rückgängig gemacht worden (DF.I.544 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1168-01-10_1_0_4_2_2_1212_1767.html" type="internal" n="regesten">1767</ref>). Das Deperditum von 1161 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-06-00_1_0_4_2_2_406_D964.html" type="internal" n="regesten">964</ref>) könnte auch auf die Gestaltung des vorliegenden D. Einfluß genommen haben, vgl. dazu die Vorbemerkung zum D. — Zum Dauphin Albéric Taillefer vgl. Fried, Krönung in Arles, Hist. Jb. 193 (1983), 363 mit Anmm. 85 und 86.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0224" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_741" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

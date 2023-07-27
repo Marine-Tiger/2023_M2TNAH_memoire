@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1988</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-00_1_0_4_2_3_213_1988"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-06-00_1_0_4_2_3_213_1988"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-06-00_1_0_4_2_3_213_1988</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1988</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-06-01" to="1170-06-30">1170 Juni  — 1172  Juli</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Erfurt <hi rend="italic">(Erbsfurdię)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Bischof Udo von Zeitz, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Landgraf Ludwig von Thüringen, Markgraf Otto von Meißen und sein Bruder Markgraf Dietrich (der Lausitz), die Grafen Dedo von Groitzsch und Sibodo von Scharzfeld (irrig: <hi rend="italic">Scarfenberg</hi>), Burggraf Burchard von Magdeburg und Arnold von Dorstadt</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem <hi rend="spaced">Michaelskloster zu Lüneburg</hi>  auf Bitten Herzog Heinrichs (des Löwen) von Bayern und Sachsen den fünften Teil des kaiserlichen Marktzolls zu Bardowick gemäß der Übertragung durch Kaiser Otto (I.). <span n="witnesses">Z.: Bischof Udo von Zeitz, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Landgraf Ludwig von Thüringen, Markgraf Otto von Meißen und sein Bruder Markgraf Dietrich (der Lausitz), die Grafen Dedo von Groitzsch und Sibodo von Scharzfeld (irrig: <hi rend="italic">Scarfenberg</hi>), Burggraf Burchard von Magdeburg und Arnold von Dorstadt</span>. — <span n="clerk">Verfaßt und geschrieben von UB</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Imperialem nostram decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem nostram decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (A). Drucke: Böhmer, Acta imp. 123 n<hi rend="sup">o</hi>  131; MG.DF.I.593. Faks.: Die Zeit der Staufer, Katalog Stuttgart 5, Abb.4. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  400 zu 1170 Juni; Stumpf 4116 zu 1170 Juni.</p></div>
+				
+				
+					<div type="commentary"><p>Das Wort <hi rend="italic">Bardewic</hi>  steht auf Rasur, wahrscheinlich von erster Hand. Vermutlich hatte dort zunächst <hi rend="italic">Livniburc</hi>  gestanden. Otto der Große hatte dem Kloster durch zwei Diplome (DD.O.I.308 und 309, beide von 965 Oktober 1), an die sich in der Dispositio des DF.I. Anklänge finden, sowohl den fünften Teil des Marktzolls zu Lüneburg als auch den Zehnten vom Zoll zu Bardowick geschenkt, was dann offensichtlich im DF.I. dazu führte, die zunächst auf Lüneburg bezügliche Verfügung in eine Schenkung des fünften (statt: zehnten) Teils des Zolls zu Bardowick abzuändern. — Die Rechtshandlung hatte wohl auf dem Hoftag zu Erfurt im Juni 1170 (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1170-06-24_1_0_4_2_3_112_1887.html" type="internal" n="regesten">1887</ref>) stattgefunden, worauf die Zeugennennung Heinrichs des Löwen (dieser befand sich 1172 im Heiligen Land, vgl. dazu Jordan, Heinrich der Löwe, 175 ff. und Georgi, Barbarossa und die auswärtigen Mächte, 209 ff.) und auch die stattliche Zeugenreihe weisen. — Vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0081" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

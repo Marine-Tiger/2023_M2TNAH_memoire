@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 996</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-10-00_2_0_4_2_2_438_996"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-10-00_2_0_4_2_2_438_996"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-10-00_2_0_4_2_2_438_996</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 996</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-10-01" to="1161-10-31">1161 Oktober</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(wohl Lodi)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt eine Gesandtschaft der Pisaner Konsuln, bestehend aus Konsul Gerardus Bulgarelli, Marzuccus, Henricus Frederici und Richter Opitho, ehrenvoll, verhandelt mit ihnen über seinen <hi rend="italic">honor</hi>  und den <hi rend="italic">status regni</hi>  und bringt die Verhandlungen zu einem Abschluß (<hi rend="italic">composuit</hi>). Die Pisaner erfahren dabei große Auszeichnung vor allen anderen Städten Tusziens (<hi rend="italic">honorem magnum et bonam voluntatem Imperatoris super omnes civitates Tuscie adepti sunt</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pisani, ed. Gentile, Rer. Ital. SS N. Ed. VI/2, 23.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Nachrichten über eine frühere Pisaner Gesandtschaft an den Hof vom Juni 1161, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-06-00_2_0_4_2_2_407_965.html" type="internal" n="regesten">965</ref>  (mit Bemerkungen zur Datierung nach dem stilus Pisanus). - Der Erfolg der Verhandlungen für den Kaiser äußerte sich darin, daß die Pisaner darauf gegen den Wunsch des oströmischen Kaisers kein Bündnis mit diesem gegen den Staufer schlossen und im Januar 1162 auch <hi rend="italic">propter amorem et pavorem imperatoris Frederici</hi>  Papst Alexander III., der von Erzbischof Villanus von Pisa geleitet wurde, die Aufnahme in ihrer Stadt verweigerten, vgl. Ann. Pisani, a. a. O., 24.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0124" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

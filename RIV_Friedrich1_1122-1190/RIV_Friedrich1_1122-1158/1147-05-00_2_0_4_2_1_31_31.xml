@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 31</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1147-05-00_2_0_4_2_1_31_31"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1147-05-00_2_0_4_2_1_31_31"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1147-05-00_2_0_4_2_1_31_31</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 31</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1147-06-01" to="1147-12-31">1147 (nach Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Vertrag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Friedrich, Herzog von Schwaben, oder Graf Gebhard von Sulzbach) schließt mit König Heinrich (VI.), dem Sohn König Konrads III., einen befristeten <span sameAs="recipient"><hi rend="spaced">Vertrag</hi> </span>  über gewisse Burgen, Dienstleute und Allodialgüter.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einem verlorenen Schreiben König Heinrichs (VI.) an seinen Vater von (1147 Juli/Dezember), DH. (VI.) *3.</p></div>
+				
+				
+					<div type="commentary"><p>Hausmann führt in der Vorbemerkung zu diesem Diplom aus, daß es sich bei dem <hi rend="italic">avunculus</hi>, mit dem Heinrich den Vertrag abgeschlossen hat, nicht um seinen Oheim, Herzog Friedrich II. von Schwaben, sondern um seinen älteren Vetter, Friedrich Barbarossa, handeln muß. Der Zeitpunkt dieses Vertragsabschlusses muß auf jeden Fall nach dem Aufbruch Konrads III. zum Kreuzzug (Ende Mai 1147) liegen, da der König sonst unmittelbar davon hätte erfahren müssen. Friedrich Barbarossa dürfte dann wohl erst etwas nach seinem Oheim zum Kreuzzug aufgebrochen sein. - Giesebrecht, Kaiserzeit IV, 326 und 487 sowie Bernhardi, Konrad III. 724 sehen im Vertragspartner des jungen Königs dagegen Gebhard von Sulzbach.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0019" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

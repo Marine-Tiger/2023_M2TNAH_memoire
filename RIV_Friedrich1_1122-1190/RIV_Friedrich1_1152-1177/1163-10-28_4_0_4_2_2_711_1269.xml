@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1269</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_4_0_4_2_2_711_1269"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_4_0_4_2_2_711_1269"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-10-28_4_0_4_2_2_711_1269</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245622" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1269</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-10-28" to="1163-11-13">(1163 Oktober 28-November 13)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Lodi ?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Antimo</hi></recipient>
+				
+				
+				
+					<scribe>Wohl von RH verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt auf die Klage des Abtes Guido von <span sameAs="recipient"><hi rend="spaced">S. Antimo</hi> </span>, des von Kaiser Karl (dem Großen) ausgestatteten Reichsklosters, den Lombarden von <hi rend="italic">Monte Vicese</hi>  und allen, die im Hof Casi Besitzungen dieser Abtei innehaben, die dem Kloster entfremdeten Güter bis zum kommenden Andreasfest (30. November) zurückzustellen und den Abt hinfort nicht mehr zu bedrücken. - <span n="clerk">Wohl von RH verfaßt</span>. <span n="incipit"><hi rend="italic">Dilectus et fidelis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dilectus et fidelis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. im Cod. Conv. Soppr. J. X. 38 f. 63', Nationalbibliothek Florenz (B). Drucke: Schmid, Mitteilungen, Röm. Quartalschrift 19 (1905) 120 n<hi rend="sup">o</hi>  2; MG. DF. I. 417. Reg.: Schneider, Reg. Senense 1, 135 n<hi rend="sup">o</hi>  347.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Diktatbestimmung und zur zeitlichen Einordnung vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-10-28_1_0_4_2_2_708_1266.html" type="internal" n="regesten">1266</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-10-28_3_0_4_2_2_710_1268.html" type="internal" n="regesten">1268</ref>. - Zu den Verleihungen Karls des Großen vgl. Lechner, Verlorene Urkunden n<hi rend="sup">o</hi>  26-29. - Zur sozialen Gruppe der &amp;quot;Lombarden&amp;quot; - es handelt sich um Angehörige des niederen Landadels - vgl. Herlihy, Medieval and Renaissance Pistoia 28 Anm. 44.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0193" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_417" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

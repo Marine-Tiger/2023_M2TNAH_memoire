@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2618</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-08-00_9_0_4_2_4_39_2618"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-08-00_9_0_4_2_4_39_2618"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-08-00_9_0_4_2_4_39_2618</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2618</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-08-01" to="1181-08-31">1181
+									(August)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(bei) Lübeck</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Vertrag hinsichtlich der 								Verlobung (<hi rend="italic">pactio desponsationis</hi>) zwischen 								seinem eigenen Sohn, Herzog Friedrich von Schwaben, und der Tochter 								des Königs Waldemar von Dänemark. Es wird eine Mitgift von 4.000 								Mark vereinbart, die zu einem ersten Teil bei der Übergabe der 								Prinzessin, zu ihrem restlichen Teil sechs Jahre nach der Verlobung 								zum Zeitpunkt des Eintritts des Heiratsalters der derzeit 								siebenjährigen Prinzessin zu bezahlen ist; sollte dem nicht 								entsprochen werden, so sind Vertrag und Abmachung hinfällig.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt bei Arnoldi Chron. 								Slavorum l. II cap. 21 und besonders l. III cap. 2, MG. SS XXI, 140 								und 143.</p></div>
+				
+				
+					<div type="commentary"><p>Dass diese Abmachungen von beiden Seiten (also 								auch von König Waldemar von Dänemark) urkundlich bestätigt wurden, 								geht aus der Überlieferung bei Arnold von Lübeck (a.a.O., 143: <hi rend="italic">Hec utrobique privilegiis firmata erant, …</hi>) 								eindeutig hervor; bei Saxo Grammaticus l. XV cap. XV/9, ed. Olrik – 								Ræder (1931) 533 werden 8.000 Mark als Mitgift genannt, eine Summe, 								die offensichtlich aus dem unterschiedlichen Wert der dänischen 								Währung resultiert, vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 								577. – Siehe dazu die bereits oben Reg. 2612 gebotenen 								Literaturhinweise.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

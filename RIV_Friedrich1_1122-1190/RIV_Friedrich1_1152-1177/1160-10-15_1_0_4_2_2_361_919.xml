@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 919</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-10-15_1_0_4_2_2_361_919"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-10-15_1_0_4_2_2_361_919"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-10-15_1_0_4_2_2_361_919</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243341" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 919</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-10-15" to="1160-10-15">1160 Oktober 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>apud Pontemtremulum</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus octobris, apud Pontemtremulum)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Carrara</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Ulricus canc. vice Renaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Benützung des DH. V. Stumpf 3102 in der Kanzlei, möglicherweise von RG, verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt wegen seiner treuen Dienste den Marsilius von <span sameAs="recipient"><hi rend="spaced">Carrara</hi> </span>, dessen Vater im Dienst seines Vorgängers, Kaiser Heinrichs (V.), gestorben ist, seine Verwandte Mathilde und all ihre Erben mit ihren Besitzungen, im besonderen der Burg Carrara und dem dortigen Kloster St. Stephan, in seinen Schutz, befreit sie von jeder fremden Gerichtsbarkeit und gewährt ihnen das Recht zur Anlage von Mühlen an Flüssen in ihrem Gebiet, behält sich jedoch in allem die kaiserlichen Rechte vor. - <span n="chancellor"><hi rend="italic">Ulricus canc. vice Renaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Benützung des DH. V. Stumpf 3102 in der Kanzlei, möglicherweise von RG, verfaßt</span>. <span n="incipit"><hi rend="italic">Cum universis imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum universis imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Cod. 38/I im Besitz der Grafen Papafava dei Carraresi zu Padua (C); Abschriften des Transsumptes Kaiser Karls IV. von 1370 Juni 23 (B.-Huber 4853), Bibliothek des Domkapitels zu Treviso (D<hi rend="sup">1</hi>), des 18. Jh. in Joh. Brunatii Apographa, Cod. lat. X 203 f. 213', Biblioteca Marciana Venedig (D<hi rend="sup">2</hi>) und des 18. Jh. von Scoti, Series episcoporum Tarvisinorum 1, f. 512, Bibliothek des Domkapitels zu Treviso (D<hi rend="sup">3</hi>). Drucke: Stumpf, Acta ined., 681 n<hi rend="sup">o</hi>  484; Gloria, CD. Padovano, 62 n<hi rend="sup">o</hi>  748; Galeazzo e Bartolomeo Gatari, Cronaca Carrarese, ed. Cessi, Rer. Ital. SS N. Ed. XVII/1/2, 6, 54 und 171; MG. DF. I. 319. Reg.: Stumpf 3900 und Nachtrag S. 546.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Ausstellungsort (Pontremoli, Pontirolo an der Adda oder Pontemurii) vgl. Opll, Itinerar, 28 Anm. 26. - Zum D. vgl. Cessi, La signoria comitale dei Carraresi, Bollettino del Museo civico di Padova N. S. I (1925) 137 mit Anm. 1 und Haverkamp, Herrschaftsformen, 460 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0105" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_319" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

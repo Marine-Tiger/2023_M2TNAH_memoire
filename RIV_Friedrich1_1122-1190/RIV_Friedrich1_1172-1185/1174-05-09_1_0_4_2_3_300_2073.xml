@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2073</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-09_1_0_4_2_3_300_2073"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-09_1_0_4_2_3_300_2073"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-05-09_1_0_4_2_3_300_2073</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598342" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2073</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-05-09" to="1174-05-09">1174 Mai 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Sinzig">Sinzig</placeName>
+												<location><geo decls="#WGS">50.55, 7.25</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VII<hi rend="sup">o</hi>  idus maii, apud Sinceche)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aulę canc. vice Christiani Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung des verunechteten DH.IV.244 (VU.I) und der ebenfalls verunechteten Urkunden Erzbischof Annos von Köln (Wisplinghoff, Urkunden und Quellen von Siegburg 1, n<hi rend="sup">o</hi>  11 und 12; VU.II und III) unter Einfluß des HE verfaßt, bis auf Chr</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Arnold von Trier, Propst Siegfried von Xanten, Siegfried, Domscholaster von Mainz und Propst von St. Johannes (zu Mainz), Propst Wezel von St. Andreas in Köln, die Grafen Engelbert (von Berg), Rudolf von Pfullendorf, Eberhard von Sayn, Heinrich von Diez, Rupert von Nassau, Dietrich von Hochstaden, Arnold von Altena, Wilhelm von Jülich und Heinrich von Kessel, Dietrich und Florentius von Kempenich, Gerlach von Isenburg, Konstantin von Berg, Werner von Bolanden, Werner von Merode, Gottfried von Wolkenburg, Vogt Gerhard (von Eppendorf) von Köln, Schultheiß Dietrich von Siegburg und sein Bruder Richolf, Zöllner Wolfinus von Siegburg und Hartmann von Stoßdorf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster Siegburg</hi>  auf Bitten des Abtes Gerhard und seiner Brüder in seinen Schutz, bestätigt ihm die namentlich angeführten Besitzungen und Rechte, regelt die Befugnisse des Vogtes, der einmal pro Jahr drei Tage lang über hochgerichtliche Fälle zu Gericht sitzen möge, wobei die Hintersassen des Klosters im Umkreis von fünf Meilen zu erscheinen haben, nur mit Zustimmung des Abtes einen Stellvertreter nominieren darf und für seine Tätigkeit genau festgelegte Naturalabgaben erhält, und verbietet die Neugründung eines Marktes im Umkreis von zwei Meilen um den Klosterberg. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Arnold von Trier, Propst Siegfried von Xanten, Siegfried, Domscholaster von Mainz und Propst von St. Johannes (zu Mainz), Propst Wezel von St. Andreas in Köln, die Grafen Engelbert (von Berg), Rudolf von Pfullendorf, Eberhard von Sayn, Heinrich von Diez, Rupert von Nassau, Dietrich von Hochstaden, Arnold von Altena, Wilhelm von Jülich und Heinrich von Kessel, Dietrich und Florentius von Kempenich, Gerlach von Isenburg, Konstantin von Berg, Werner von Bolanden, Werner von Merode, Gottfried von Wolkenburg, Vogt Gerhard (von Eppendorf) von Köln, Schultheiß Dietrich von Siegburg und sein Bruder Richolf, Zöllner Wolfinus von Siegburg und Hartmann von Stoßdorf</span>. — <span n="chancellor"><hi rend="italic">Godefridus imperialis aulę canc. vice Christiani Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Heranziehung des verunechteten DH.IV.244 (VU.I) und der ebenfalls verunechteten Urkunden Erzbischof Annos von Köln (Wisplinghoff, Urkunden und Quellen von Siegburg 1, n<hi rend="sup">o</hi>  11 und 12; VU.II und III) unter Einfluß des HE verfaßt, bis auf Chrismon, Signumzeile, Monogramm und die Schlußworte der Zeugenreihe (<hi rend="italic">et alii quam plures</hi>), die von der Hand des HE stammen, von einem unbekannten, zweifellos dem Empfänger zuzuordnenden Schreiber geschrieben</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Quoniam auctore deo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam auctore deo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Wisplinghoff, Urkunden und Quellen von Siegburg 1, 150 n<hi rend="sup">o</hi>  67; MG.DF.I.618. Regg.: Goerz, Mittelrhein.Reg.2, 100 n<hi rend="sup">o</hi>  354; Stumpf 4159.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur sowie neuerdings Nikolay-Panter, Siegburg, in: Grundherrschaft — Kirche — Stadt zwischen Maas und Rhein während des hohen Mittelalters, hg. von A. Haverkamp und F. G. Hirschmann (Trierer Historische Forschungen 37, 1997), 198, 203 und 210 f. — Der unter den Zeugen genannte Konstantin von Berg gehörte nicht dem rheinischen Grafenhaus Berg an, sondern nannte sich nach ('s-Heeren-)Berg unweit Emmerich in den Niederlanden, vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 108; zu dem gleichfalls unter den Zeugen genannten Grafen Dietrich von Hochstaden wie zu Vogt Gerhard von Köln vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 245, 251 und 274.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0109" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_618" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

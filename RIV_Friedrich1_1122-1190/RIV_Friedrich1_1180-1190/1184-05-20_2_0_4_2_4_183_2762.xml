@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2762</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-20_2_0_4_2_4_183_2762"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-20_2_0_4_2_4_183_2762"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-05-20_2_0_4_2_4_183_2762</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1453294768" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2762</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-05-20" to="1184-05-20">1184
+									Mai 20 (Pfingsten) – 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei Mainz</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag (Mainzer 									Pfingstfest):</hi> Friedrich feiert einen ungemein prächtigen 								Hoftag, unter dessen Teilnehmern sich alle Fürsten des Reiches, 								nämlich die der Franken, der Deutschen, der Slawen, Italiker, aus 								Illyrien bis nach Spanien sowie Fürsten aus den benachbarten 								Königreichen, insgesamt eine ungeheure Menge an Menschen befinden. 								Wegen der großen Zahl der Teilnehmer hat er zu diesem Anlass auf der 								Rheinebene außerhalb der Stadt eigene Baulichkeiten errichten 								lassen, nämlich eine große Kirche, eine Pfalz und unzählige andere 								Gebäude aus Holz. Die Verpflegung mit Lebensmitteln und Wein ist 								aufs Beste geregelt. Die vier Hofämter, nämlich die des Truchsessen, 								des Mundschenk, des Kämmerers und des Marschalls, werden 								ausschließlich von Königen, Herzögen und Markgrafen ausgeübt. Als 								Teilnehmer zählt man (Gislebert von Mons, siehe oben Reg. 2760) 								70.000 Ritter, wobei Herzog (Friedrich) von Böhmen 2.000, Herzog 								Leopold (V.) von Österreich 500, Herzog (Bernhard) von Sachsen 700, 								Pfalzgraf (Konrad) bei Rhein über 1.000, Landgraf (Ludwig) von 								Thüringen über 1.000, Erzbischof Konrad von Mainz, der Verwandte des 								Kaisers, 1.000, Erzbischof Philipp von Köln, der Verwandte des 								Grafen Balduin (V.) von Hennegau, 1.700, Erzbischof (Wichmann) von 								Magdeburg 600 und Abt (Konrad) von Fulda 500 Ritter im Gefolge mit 								sich führen. Anwesend sind des Weiteren – entsprechend den 								Einladungen, die an alle in Bayern, Sachsen, Schwaben, Franken, 								Österreich, Böhmen, Burgund und Lothringen ergangen waren (siehe 								Reg. 2753) – die Erzbischöfe (Rudolf) von Trier, (Siegfried) von 								Bremen und (Theoderich) von Besançon, die Bischöfe (Konrad) von 								Regensburg (Gislebert: <hi rend="italic">archiepiscopo 									Resneburgensi</hi>), Roger von Cambrai, Rudolf von Lüttich, 								(Bertram) von Metz, (Petrus) von Toul, (Heinrich) von Verdun, 								(Balduin) von Utrecht, der Verwandte des Grafen von Hennegau, 								(Konrad) von Worms, (Ulrich) von Speyer, (Heinrich) von Straßburg, 								(Heinrich) von Basel, (Hermann) von Konstanz, (Heinrich) von Chur, 								(Reinhard) von Würzburg, (Otto) von Bamberg, (Hermann) von Münster 								und (Adelhog) von Hildesheim, die Äbte von Großkomburg (<hi rend="italic">Camberc</hi>), von Lorsch (oder: Lorch? – 								Gislebert: <hi rend="italic">Lorcensi</hi>) und (Gregor) von Prüm, 								die Fürsten Herzog Ludwig (Gislebert: irrig <hi rend="italic">Otone</hi>) von Bayern, Pfalzgraf Otto der Jüngere (Gislebert: 								irrig <hi rend="italic">Theoderico</hi>) von Bayern, der Bruder des 								Herzogs, Herzog Welf (VI.) (Gislebert: irrig <hi rend="italic">Welffone duce Bawarie</hi>), der Oheim des Kaisers, Landgraf 								(Otto von Steffling) von Bayern, Herzog Berthold von Zähringen, der 								Verwandte des Grafen von Hennegau, Markgraf (Otto I.) von 								Brandenburg, Markgraf (Otto) von Meißen, Markgraf (Otakar; recte: 								Herzog) von Steiermark, Herzog (Simon) von Nancy (= Oberlothringen), 								Graf Gerard von Vienne (Gislebert: <hi rend="italic">Vienne super 									Rodanum</hi>), der Oheim der Kaiserin, Pfalzgraf (Rudolf) von 								Tübingen und zahlreiche andere geistliche und weltliche Fürsten, 								Grafen, Edle und Ministerialen. Graf Balduin (V.) von Hennegau 								ist gemäß früher getroffenen Vereinbarungen (siehe Reg. 2752) mit 								prächtigem Gefolge erschienen (siehe Reg. 2760) und erreicht hier 								den Abschluss eines Vertrages über das Erbe des Grafen von Namur und 								Luxemburg (siehe dazu Reg. 2764). Graf (Philipp) von Flandern 								entsendet seinen <hi rend="italic">sigillarius</hi>, den Kleriker 								und Propst von Lille, Gerard von Messines, sowie den Ritter Radulf 								von Hazebrouck als seine Boten an den Hof, die entgegen der Zusage, 								sich für die Sache des Hennegauers zu verwenden, diesem gerne – 								falls dies möglich gewesen wäre – geschadet hätten. Die Boten des 								Flandrers erlangen allerdings die Zusage König Heinrichs (VI.), ihn 								gegen König (Philipp II. August) von Frankreich zu unterstützen. 								Am Pfingstsonntag (= 20. Mai) zeigen sich der Kaiser, seine 								Gemahlin, Kaiserin (Beatrix), und sein Sohn, König Heinrich (VI.), 								im Schmuck der Kronen. Das Recht, zu diesem Anlass das Reichsschwert 								voranzutragen, wird von den Herzögen (Friedrich) von Böhmen, Leopold 								(V.) von Österreich und Bernhard von Sachsen, Pfalzgraf Konrad bei 								Rhein, dem Bruder des Kaisers, und von Landgraf (Ludwig) von 								Thüringen, dem Neffen des Kaisers, die mit großem Gefolge auf dem 								Hoftag erschienen sind, jeweils für sich reklamiert. Der Kaiser 								gewährt es aber dem Hennegauer Grafen, was ohne Widerspruch 								akzeptiert wird. Ebenfalls am Pfingstsonntag (= 20. Mai) führt 								Abt (Konrad) von Fulda in der eigens errichteten Kirche außerhalb 								der Stadt vor dem Kaiser und den versammelten Fürsten Klage darüber, 								dass der Erzbischof von Köln dem Kloster Fulda das alte Vorrecht 								streitig mache, bei in Mainz gefeierten, allgemeinen Hoftagen zur 								Linken des Kaisers zu sitzen, während der Mainzer Erzbischof zur 								Rechten Platz nehmen dürfe. Als Erzbischof (Philipp) von Köln 								widerstrebend nachgibt, zugleich aber in seine Herberge zurückkehren 								und sich ihm eine Reihe seiner Lehnsleute, darunter Pfalzgraf 								(Konrad) bei Rhein, Herzog (Gottfried) von Brabant und Graf (Rupert) 								von Nassau, anschließen möchte, außerdem Landgraf (Ludwig) von 								Thüringen als Fuldaer Lehnsmann die Partei des Abtes ergreift, 								versuchen König Heinrich (VI.) und der Kaiser selbst, den Kölner zum 								Bleiben zu bewegen. Als nun dieser seinerseits über dieses Ansinnen 								beredte Klage führt und auf seine vor Alessandria (siehe etwa oben 								Reg. 2111) und Braunschweig (siehe Regg. 2605 und 2606) erworbenen 								Verdienste um das Reich verweist, lenkt der Kaiser ein, belässt dem 								Kölner seinen Ehrenplatz und weist Abt Konrad einen niedrigeren zu. 								Friedrich krönt (wohl während dieses Hoftages) Richter Petrus 								von Arborea zum König von Sardinien (Ann. Aquenses). Am 								Pfingstmontag (= 21. Mai) erhalten die Söhne des Kaisers, König 								Heinrich (VI.) und Herzog Friedrich von Schwaben, nach einer 								feierlichen Messe die Schwertleite. Aus diesem Anlass spenden der 								Kaiser und die beiden neuen Ritter, aber auch alle Fürsten und 								andere Edlen, die damit nicht nur den Kaiser und dessen Söhne ehren, 								sondern auch den eigenen Ruhm mehren möchten, den Rittern, den 								Gefangenen, denen, die als Kreuzfahrer ins Heilige Land ziehen 								wollen, und den männlichen und weiblichen Spielleuten (Gislebert: 									<hi rend="italic">joculatoribus et joculatricibus</hi>) Pferde, 								kostbare Kleider, Gold und Silber. Am Pfingstmontag (= 21. Mai) 								und am darauf folgenden Dienstag (= 22. Mai) schließen sich an das 								Mahl jeweils große Turniere ohne den Einsatz von Waffen (Gislebert: 									<hi rend="italic">Gyrum autem sine armis fuit; in scutis etenim 									gerendis et hastis et baneriis et cursu equorum absque ictibus 									delectabantur milites.</hi>), an denen die Söhne des Kaisers und 								mehr als 20.000 Ritter teilnehmen. Auch der Kaiser selbst nimmt 								daran teil, wobei ihm Graf Balduin (V.) von Hennegau die Lanze 								tragen darf. An diesem Dienstag (= 22. Mai) erhebt sich dann 								gegen Abend (Gislebert: <hi rend="italic">ad vesperam</hi>; Otto von 								St. Blasien: in der Abenddämmerung) ein heftiger Westwind, der die 								Kapelle des Kaisers und einige der auf der Rheinebene für diesen 								Hoftag neu errichteten Gebäude, darunter die aus Holz errichtete 								Pfalz und auch viele Zelte, zerstört. Einige Menschen kommen dabei 								um (Arnold von Lübeck: 15 Männer kommen zu Schaden). Das (für die 								Woche darauf) nach Ingelheim ausgeschriebene Turnier (siehe dazu 								oben Reg. 2752) wird auf Rat der Fürsten vertagt. Der 								(abgesetzte und im englischen Exil lebende) Herzog Heinrich (der 								Löwe), der unter dem Schutz Erzbischof Konrads von Mainz auf dem 								Hoftag erscheint, kann beim Herrscher keine Gnade finden (Cron. s. 								Petri Erford. mod.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. III cap. 9 und 10, 								MG. SS XXI, 151–153 und 154; Gislebert von Mons, ed. Vanderkindere, 								155 ff.; Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. 								schol., 54 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 168; Otto von St. Blasien, Chronica, ed. Hofmeister, MG. SS 								rer. Germ. in us. schol., 37 f. = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 76 ff. (Abreise von Mainz am 								Mittwoch nach Pfingsten = 23. Mai, siehe aber Reg. 2766); Cron. s. 								Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 192 (irrig: Herzog Konrad, statt: Friedrich von Schwaben; zu 								Heinrich dem Löwen); Ann. Aquenses, MG. SS XXIV, 39 (zur Krönung des 								Petrus von Arborea); Ann. Augustani min., MG. SS X, 9; Ann. s. 								Disibodi, MG. SS XVII, 30; Ann. s. Georgii, MG. SS XVII, 297 = 								Hofmeister, Annalen von St. Georgen, ZGORh N.F. 33 (1918) 47 (ohne 								Datum: Schwertleite der Söhne des Kaisers, Krönung Heinrichs VI. mit 								Zustimmung der geistlichen und weltlichen Fürsten); Ann. s. Pauli 								Virdunensis, MG. SS XVI, 501; Ann. Pegav., MG. SS XVI, 265; Ann. 								Ratisponenses, MG. SS XVII, 589; Ann. s. Rudberti Salisburg., MG. SS 								IX, 777; Ann. Spirenses, MG. SS XVII, 83; Ann. Stadenses, MG. SS 								XVI, 350; Ann. Welfici Weingart., ed. König (Schwäb. Chroniken d. 								Stauferzeit 1,<hi rend="sup">2</hi>1978) 92; Burchard von Ursberg, 								ed. Holder-Egger – Simson, MG. SS rer. Germ. in us. schol., 57 (zu 								1181); Chounradi Schirensis Annales, MG. SS XVII, 630; Chron. Montis 								Sereni, MG. SS XXIII, 159 (nennt nur König Heinrich als Empfänger 								der Schwertleite); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in 								us. schol., 133; Cont. Admunt., MG. SS IX, 555; Cont. 								Claustroneoburg. III., MG. SS IX, 633; Cont. Cremifanensis, MG. SS 								IX, 546; Cont. Garstensis, MG. SS IX, 594 (Schwertleite und Krönung 								Heinrichs VI.); Cont. Zwetlensis altera, MG. SS IX, 542 								(Schwertleite am Pfingstsonntag; Sturmunglück am Pfingstmontag); 								Cron. Reinhardsbrunn., MG. SS XXX/1, 541; Ex gestis sanctorum 								Villariensium, MG. SS XXV, 220 f. (Erzbischof Philipp von Köln 								fürchtet während des Mainzer Hoftags um sein Leben und erwählt 								deshalb den Ritter Karl, den späteren Abt von Villers-en-Brabant, 								als seinen <hi rend="italic">specialis custos</hi>); Hermanni Altah. 								Ann., MG. SS XVII, 384 (irrig: Herzog Konrad, statt: Friedrich von 								Schwaben); Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS 								XXVII, 261 (zu 1183) und 274 (zu 1184); Wattenbach, Aus dem zwölften 								Jahrhundert, NA 1 (1876) 186 ff.; vgl. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz 								II/2, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/bd813839-0a46-4847-9e79-3f8f1c4e6dd0.html" type="internal" n="regesten">102</ref>, Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 1224, n<hi rend="sup">o</hi> 1226 und 1227, 								sowie B.-Baaken Reg.2c, 2d und 2e.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Mainzer Pfingstfest, wohl dem herausragendsten 								„Ritterfest“ der Epoche, vgl. Giesebrecht – Simson, Kaiserzeit VI, 								63 ff., Fleckenstein, Barbarossa und das Rittertum, in: FS. Hermann 								Heimpel 2 (Veröff. des Max-Planck-Instituts für Geschichte 36/2, 								1972) 1023 ff., Wolter, Mainzer Hoftag, in: Feste und Feiern im 								Mittelalter, hg. von Altenburg – Jarnut – Steinhoff (1991) 193 ff., 								sowie zuletzt Keupp, Ökonomie und Logistik der Hoffeste, in: Die 								Staufer und Italien, Bd. 1 (2010), 277, und Lubich, Mainzer Hoffest, 								in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, 								Metz, Schneidmüller und Weinfurter (2010) 277–293, insbesondere 286 								(mit Hinweisen auf die maßgebliche Literatur), mit dem freilich 								wenig passenden Referenzpunkt im Woodstock-Festival von 1969. – Das 								Pfingstfest wurde von den Dichtern der Zeit, darunter vor allem 								durch Heinrich von Veldeke in seiner „Eneid“ und durch den großen 								Troubadour Guiot de Provins, die beide an diesem Hoftag teilnahmen, 								gerühmt, vgl. dazu Wentzlaff-Eggebert, Hoftag Jesu Christi (Inst. f. 								europäische Gesch. Mainz, Vorträge 32, 1962) 6 f., Störmer, Königtum 								und Kaisertum in der mittelhochdeutschen Literatur, in: Friedrich 								Barbarossa (VuF 40, 1992) 581 ff., sowie Ganz, Hof und Kultur, in: 								Friedrich Barbarossa (VuF 40, 1992) 641 f. – Während dieses Hoftages 								stellten Erzbischof Konrad von Mainz und auch Äbtissin Sophia von 								Altmünster Urkunden aus (Acht, Mainzer UB. II/2, 749 no 460, 751 no 								461 und 752 no 462), deren Zeugenlisten im Hinblick auf den Kreis 								der damals in Mainz versammelten Persönlichkeiten von Interesse 								sind; vgl. des Weiteren auch die im Mai 1184 in Mainz ausgestellte 								Urkunde des Pfalzgrafen Konrad bei Rhein für Schönau, ed. Gudenus, 								Sylloge, 32 no 13 (Christ, Schönauer und Lobenfelder Urkunden, 								Mannheimer Geschichtsblätter 5, 1904, 132 no 20) sowie die Datierung 								einer Urkunde Bischof Martins von Meißen von 1185 (vor September 6), 								ed. Posse. CD. Sax. reg. I/2, 353 ff. no 512 (Regest bei Dobenecker, 								Reg. Thur. II, no 717). – Zur Finanzierung des glänzenden Festes 								siehe oben Regg. 2732 und 2736. Zu den Rangstreitigkeiten 								zwischen dem Kölner Erzbischof und dem Abt von Fulda, die am 								Pfingstsonntag nur mit Mühe beigelegt werden konnten, vgl. Spiess, 								Rangdenken und Rangstreit im Mittelalter, in: Zeremoniell und Raum 								(Residenzenforschung 6, 1997) 53 f. mit Anm. 70; zu dem durch den 								Kölner Erzbischof als <hi rend="italic">specialis custos</hi> 								erwählten Ritter Karl „von der Salzgasse“, dem späteren Prior der 								Zisterze Heisterbach und Abt von Villers-en-Brabant, vgl. die 								weiterführenden Hinweise bei Zotz, Rittertum und Bürgertum, in: 								Institutionen, Kultur und Gesellschaft im Mittelalter. FS. für Josef 								Fleckenstein (1984) 610 ff., und Oberweis, Himmerod, in: 								Grundherrschaft – Kirche – Stadt zwischen Maas und Rhein während des 								hohen Mittelalters, hg. von A. Haverkamp und F. G. Hirschmann 								(Trierer Historische Forschungen 37, 1997) 339 ff. Zur 								Anwesenheit Heinrichs des Löwen vgl. Engels, Entmachtung, in: Ders., 								Stauferstudien (1988) 121 f. Zu Sardinien siehe schon oben Reg. 								1338 (Krönung von Petrus’ Bruder Bareso im Jahre 1164). Mit 								einiger Gewissheit wird man auch die im Lippflorium des Justinus von 								Lippstadt überlieferten Ereignisse, die hoch interessante 								kulturgeschichtliche Einblicke zulassen, auf das Mainzer Pfingstfest 								von 1184 beziehen dürfen, siehe dazu unten Reg. 3308.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

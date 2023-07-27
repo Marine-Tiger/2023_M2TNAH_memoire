@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 494</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_4_0_4_2_1_496_494"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_4_0_4_2_1_496_494"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-00_4_0_4_2_1_496_494</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239977" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 494</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-01" to="1157-10-31">(1157 Oktober)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Besançon)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Arles</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich dankt dem Erzbischof (<hi rend="italic">Silvius</hi>) von <span sameAs="recipient"><hi rend="spaced">Arles</hi> </span>  (<hi rend="italic">archiepiscopo Arelatensi</hi>) dafür, daß er ihm bis nach Lyon entgegengezogen sei, um den Hoftag zu Besançon zu besuchen, und teilt ihm mit, er habe den von den Einwohnern von Marseille (<hi rend="italic">Marsilienses</hi>) mit dem Bruder des Königs von Aragon (<hi rend="italic">cum fratre regis Arragonum</hi>) vollzogenen Tausch kraft kaiserlicher Autorität kassiert (Reg. 493). - Wohl vom gleichen Diktator wie DF. I. 187 (Reg. 493). <span n="incipit"><hi rend="italic">Sicut ab amicis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut ab amicis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Livre noir des Erzbistums Arles aus dem 12. Jh. f. 3', Departementalarchiv Marseille (B); Livre vert aus dem 13. Jh. f. 1' ebenda (C); Livre rouge aus dem 13. Jh. f. 1' ebenda (D). Druck e: Stumpf, Acta ined. 490 n<hi rend="sup">o</hi>  344; Gallia Christ. noviss. 3, 230 n<hi rend="sup">o</hi>  592; MG. DF. I. 188. Reg.: Stumpf 3782 b.</p></div>
+				
+				
+					<div type="commentary"><p>Der eigentliche Grund dafür, daß Erzbischof Silvius nur bis Lyon dem Kaiser entgegenzog, dürfte nicht in der Zeitknappheit (so Rahewini Gesta Frid. l. III cap. 12, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 180: <hi rend="italic">Arelatensis autem archiepiscopus et alii omnes archiepiscopi, episcopi, primates et nobiles venissent idemque fecissent, nisi mora principem adeundi compendio suae brevitatis prestitisset inpedimentum</hi>), sondern in den politischen Verhältnissen zu suchen sein.
+</p>
+<p></p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Nach der Nennung des Königs von Aragon und dessen über die Provence herrschenden Bruders in den beiden kaiserlichen Schreiben sind diese nicht zu 1157, sondern spater, höchstwahrscheinlich zu einem bisher nicht bekannten Hoftag Barbarossas in Besançon im Jahre 1170 einzurei­hen, vgl. dazu Fried, Barbarossas Krönung in Arles, HJb. 103 (1983) 359 mit Anm. 69. Der in den beiden Schreiben erwähnte Erzbischof von Arles war daher Raimund und nicht Silvius.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1331126001" value="2012-03-07"></date><p n="author">Stefan Weiß</p><p>Der zeitgenössische Erzbischof von Arles hieß nicht Silvius, sondern Raimund. Er amtierte von 1142-1160, worüber man in Chevalier, Gallia christiana novissima III, Sp. 212 ff. nachlesen kann. </p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0167" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_188" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

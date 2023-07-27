@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 488</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-24_1_0_4_2_1_490_488"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-24_1_0_4_2_1_490_488"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-24_1_0_4_2_1_490_488</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239872" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 488</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-24" to="1157-10-24">1157 Oktober 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(nono kal. novembris, Bisuncii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Saint Dié-en-Vosges</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reginnaldus (!) canc. vice Stephani Uigenensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>erweiterte Wiederholung von DH. V. Stumpf 3099 (VU. I), von Rainald D geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Stift <span sameAs="recipient"><hi rend="spaced">Saint Dié-en-Vosges</hi> </span>  (<hi rend="italic">ęcclesiam beati Deodati in valle Galilea sitam</hi>) in seinen Schutz und bestätigt ihm den durch seine Vorgänger sowie die Päpste Leo (IX.) und Paschal (II.) konfirmierten, genannten Besitzstand, die Befreiung von den Ansprüchen der Herzoge von Lothringen auf gewisse Gerichtsbarkeitsrechte sowie auf die taille (<hi rend="italic">Fortunam, incendium, raptum et quandam exactionem, quę vulgo tallia dicitur</hi>) und auf besondere Vermittlung der Erzbischöfe Humbert von Besançon, Stephan von Vienne (<hi rend="italic">Uigennensi</hi>) sowie der Herzoge Berthold von Zähringen und Matthäus (von Lothringen) die Geltung des Touler und Metzer Rechtes bei Verdacht von Betrug bei Tauschgeschäften (<hi rend="italic">de suspicione concambii impetitus</hi>). - <span n="chancellor"><hi rend="italic">Reginnaldus (!) canc. vice Stephani Uigenensis archiep. et archicanc.</hi> </span>; <span n="clerk">erweiterte Wiederholung von DH. V. Stumpf 3099 (VU. I), von Rainald D geschrieben</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si loca divinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si loca divinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarehiv Épinal (A). Drucke: Musée des archives départementales 78 n<hi rend="sup">o</hi>  42 ; MG. DF. I. 183. Faks.: Musée des archives départementales Tafel 26. Reg.: Stumpf 3779.</p></div>
+				
+				
+					<div type="commentary"><p>Bei den im Text erwähnten Papsturkunden Leos IX. und Paschals II. handelt es sich um JL. 4197 (von 1049 November.16) und JL. 6232 (1109 April 10). Zu Rainald D, der hier erstmals auftritt, vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 341 ff. Schon in diesem Diplom wird Erzbischof Stephan von Vienne in der Rekognition als Erzkanzler für Burgund bezeichnet, obwohl ihm diese Würde erst in DF. I. 184 verliehen wurde. Zur <hi rend="italic">tallia</hi>  vgl. Fichtenau, Arelat, MÖIG Erg.Bd. 14 (1939) 163 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0165" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_183" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1799</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-07-10_1_0_4_2_3_24_1799"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-07-10_1_0_4_2_3_24_1799"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-07-10_1_0_4_2_3_24_1799</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595779" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1799</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-07-10" to="1168-07-10">1168 Juli 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI<hi rend="sup">o</hi>  idus iulii, Wirzebvrg).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2. (A), B.2. (A<hi rend="sup">1</hi>).</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Magontinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung mehrerer Teile des im Cod. Udalrici enthaltenen Formulargutes (ed. Eccard n<hi rend="sup">o</hi>  44, 77 und 88) in der Arenga verfaßt von Wortwin, der auch die Signumzeile in A und A<hi rend="sup">1</hi>  zur Gänze mundierte, während A ansonsten von der H</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Christian von Mainz, die Bischöfe Udo von Zeitz, Gerung von Meißen, Hugo von Verden, Rudolf von Lüttich, Alberich von Lodi, Tercius von Piacenza und Raimund von Ivrea, Abt Burkhard von Fulda, Bischof Kuno von Regensburg, die Äbte Hildebold von Hersfeld, Nikolaus von Siegburg, Engelhard von St. Burkhard (zu Würzburg) und Heinrich von St. Stephan (zu Würzburg), Dompropst Richolf (von Würzburg), Dekan Perseus (von Würzburg), Propst Reinhard vom Neumünsterstift (zu Würzburg), Propst Wernher von St. Johann (zu Würzburg), Kantor Gottfried (von Würzburg), Scholaster Johannes (von Würzburg), Kustos Albert (von Würzburg), Pförtner Wezel (von Würzburg), Propst Heinrich von Ansbach (<hi rend="italic">Onoldesbach</hi>), Propst und Archidiakon Berthold (von Würzburg), Kellermeister Konrad (von Würzburg), Heinrich von Heßberg, Heinrich von <hi rend="italic">Beierbach</hi>  (Beerbach?), Heinrich, der Protonotar des Hofes, die Pröpste Adelhog von Goslar, Dietrich von Kaiserswerth, Arnold von St. Andreas in Köln und Burkhard von St. Peter in Mainz, Pfalzgraf Konrad bei Rhein, die Markgrafen Otto von Meißen und sein Bruder Dietrich (der Lausitz), deren Bruder Graf Heinrich von Wettin, die Pfalzgrafen Otto und Friedrich von Wittelsbach, Markgraf Berthold von Vohburg, die Grafen Berthold von Andechs, Rudolf von Pfullendorf, Ludwig von Looz/Borgloon (<hi rend="italic">Lon</hi>) sowie Rapoto von Abenberg und sein Sohn Graf Friedrich, Burggraf Boppo von Würzburg, Markward von Grumbach und seine Söhne Albert und Otto, Burggraf Burkhard von Magdeburg, Ulrich, der Sohn des Herzogs von Böhmen, Albert, der Sohn des Herzogs von Polen, die Grafen Albert von Dillingen, Otto von (Ober-)Kirchberg, Manegold von Veringen, Berthold von Berg, Gerhard von Bergtheim und sein Bruder Hermann sowie Graf Boppo von Wertheim, Burggraf Konrad von Nürnberg, Rupert von Castell, Konrad von Boxberg, Friedrich von Bilrieth (<hi rend="italic">Bilred</hi>), Boppo und Godebold von Lichtenburg, Heinrich und Boppo von Trimberg, Graf Hermann von Wohlbach, Walter und Crafto von Lobenhausen, Manegold von Thundorf, Albert von Hildenburg, Konrad von Oberscheinfeld (<hi rend="italic">Scheideueld</hi>), Konrad von Neuenburg, Konrad von Pfitzingen (<hi rend="italic">Phuzecha</hi>), Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno von Münzenberg, Truchseß Walter, Mundschenk Konrad Colbo (von Oberschüpf) und seine Brüder Ludwig und Berenger, Hugo von Warthe, Thiemo von Colditz, Bodo von Würzburg, Mundschenk Iring (von Würzburg), Truchseß Engelhard (von Würzburg), Vitztum Billung (von Würzburg), die Schultheißen Billung und Heinrich (von Würzburg), Richolf von Riedhof, Wolfram und Konrad von Prosselsheim (<hi rend="italic">Brozoldesheim</hi>), Gottfried und Engelbert vom Markt (aus Würzburg)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Bischof Herold</hi>  und der <hi rend="spaced">Kirche von Würzburg</hi>  auf die von diesem, dem Konvent sowie den Edelfreien und Ministerialen vorgebrachten Bitten auf dem allgemeinen <hi rend="spaced">Hoftag</hi>  zu Würzburg, auf dem die endgültige Aussöhnung zwischen den miteinander streitenden Fürsten Sachsens gelungen ist (vgl. Reg. 1792), die seit Karl dem Großen von all seinen Vorgängern verliehene hohe Gerichtsbarkeit (... <hi rend="italic">confirmamus omnem iurisdictionem seu plenam potestatem faciendi iusticiam per totum ępiscopatum et ducatum Wirzebvrgensem et per omnes cometias in eodem ępiscopatu vel ducatu sitas de rapinis et incendiis, de allodiis et beneficiis, de hominibus et de vindicta sanguinis</hi>.) im Bistum und Herzogtum Würzburg, wovon nur die den Grafen vorbehaltene Einhebung der Gerechtsame von den <hi rend="italic">bargildi</hi>  genannten freien Leuten ausgenommen wird, verbietet die Errichtung von Hundertschaften (<hi rend="italic">centurias</hi>) und die Einsetzung von Zentgrafen ohne Zustimmung des Bischofs und untersagt den Wiederaufbau der Burgen Bramberg und Frankenberg, die er wegen der Gefährdung des Friedens der ganzen Provinz, insbesondere aber der Abtei Amorbach, zerstört und deren Bauplätze er an die Kirche von Würzburg übertragen hat. <span n="witnesses">Z.: Erzbischof Christian von Mainz, die Bischöfe Udo von Zeitz, Gerung von Meißen, Hugo von Verden, Rudolf von Lüttich, Alberich von Lodi, Tercius von Piacenza und Raimund von Ivrea, Abt Burkhard von Fulda, Bischof Kuno von Regensburg, die Äbte Hildebold von Hersfeld, Nikolaus von Siegburg, Engelhard von St. Burkhard (zu Würzburg) und Heinrich von St. Stephan (zu Würzburg), Dompropst Richolf (von Würzburg), Dekan Perseus (von Würzburg), Propst Reinhard vom Neumünsterstift (zu Würzburg), Propst Wernher von St. Johann (zu Würzburg), Kantor Gottfried (von Würzburg), Scholaster Johannes (von Würzburg), Kustos Albert (von Würzburg), Pförtner Wezel (von Würzburg), Propst Heinrich von Ansbach (<hi rend="italic">Onoldesbach</hi>), Propst und Archidiakon Berthold (von Würzburg), Kellermeister Konrad (von Würzburg), Heinrich von Heßberg, Heinrich von <hi rend="italic">Beierbach</hi>  (Beerbach?), Heinrich, der Protonotar des Hofes, die Pröpste Adelhog von Goslar, Dietrich von Kaiserswerth, Arnold von St. Andreas in Köln und Burkhard von St. Peter in Mainz, Pfalzgraf Konrad bei Rhein, die Markgrafen Otto von Meißen und sein Bruder Dietrich (der Lausitz), deren Bruder Graf Heinrich von Wettin, die Pfalzgrafen Otto und Friedrich von Wittelsbach, Markgraf Berthold von Vohburg, die Grafen Berthold von Andechs, Rudolf von Pfullendorf, Ludwig von Looz/Borgloon (<hi rend="italic">Lon</hi>) sowie Rapoto von Abenberg und sein Sohn Graf Friedrich, Burggraf Boppo von Würzburg, Markward von Grumbach und seine Söhne Albert und Otto, Burggraf Burkhard von Magdeburg, Ulrich, der Sohn des Herzogs von Böhmen, Albert, der Sohn des Herzogs von Polen, die Grafen Albert von Dillingen, Otto von (Ober-)Kirchberg, Manegold von Veringen, Berthold von Berg, Gerhard von Bergtheim und sein Bruder Hermann sowie Graf Boppo von Wertheim, Burggraf Konrad von Nürnberg, Rupert von Castell, Konrad von Boxberg, Friedrich von Bilrieth (<hi rend="italic">Bilred</hi>), Boppo und Godebold von Lichtenburg, Heinrich und Boppo von Trimberg, Graf Hermann von Wohlbach, Walter und Crafto von Lobenhausen, Manegold von Thundorf, Albert von Hildenburg, Konrad von Oberscheinfeld (<hi rend="italic">Scheideueld</hi>), Konrad von Neuenburg, Konrad von Pfitzingen (<hi rend="italic">Phuzecha</hi>), Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno von Münzenberg, Truchseß Walter, Mundschenk Konrad Colbo (von Oberschüpf) und seine Brüder Ludwig und Berenger, Hugo von Warthe, Thiemo von Colditz, Bodo von Würzburg, Mundschenk Iring (von Würzburg), Truchseß Engelhard (von Würzburg), Vitztum Billung (von Würzburg), die Schultheißen Billung und Heinrich (von Würzburg), Richolf von Riedhof, Wolfram und Konrad von Prosselsheim (<hi rend="italic">Brozoldesheim</hi>), Gottfried und Engelbert vom Markt (aus Würzburg)</span>. — <span n="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Magontinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung mehrerer Teile des im Cod. Udalrici enthaltenen Formulargutes (ed. Eccard n<hi rend="sup">o</hi>  44, 77 und 88) in der Arenga verfaßt von Wortwin, der auch die Signumzeile in A und A<hi rend="sup">1</hi>  zur Gänze mundierte, während A ansonsten von der Hand des Kanzleinotars HA stammt</span>; <span n="seal">SI.2. (A), B.2. (A<hi rend="sup">1</hi>).</span>  <span n="incipit"><hi rend="italic">Imperialem celsitudinem decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem celsitudinem decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Zwei Origg.: Hauptstaatsarchiv München, Kaiserselekt n<hi rend="sup">o</hi>  515 (mit Wachssiegel, A) und n<hi rend="sup">o</hi>  516 (mit Goldbulle, A<hi rend="sup">1</hi>), jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1290/I. Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 385 n<hi rend="sup">o</hi>  515 aus A und 390 n<hi rend="sup">o</hi>  516 aus A<hi rend="sup">1</hi>; Weinrich, Quellen zur deutschen Verfassungs-, Wirtschafts- und Sozialgeschichte bis 1250,278 n<hi rend="sup">o</hi>  71; MG.DF.I.546. Faks.: Kaiserurk.in Abb. X, 12 (A); Koch, Schrift der Reichskanzlei Abb.74 Teilfaks. (A); Aus 1200 Jahren. Ausstellung des Bayerischen Hauptstaatsarchiv 75 n<hi rend="sup">o</hi>  35 (A); Hausmann, Wortwin, Aschaffenburger Jb. 4 (1957) Abb. 60 Teilfaks. (A<hi rend="sup">1</hi>). Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  363; Stumpf 4095.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Ein Faksimile findet sich jetzt bei Koch – Friedl (Hgg.), Kaiser- und Königsurkunden der Staufer (Digitale Urkundenbilder, 4, 2010) Tafel 9.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verhältnis zwischen den beiden Originalen, von denen das mit Goldbulle besiegelte Exemplar als Expeditio duplicata, somit als Zweitschrift anzusehen ist, zur diplomatischen Kritik wie zur inhaltlichen Beurteilung, bei der — im Gegensatz zu einer Reihe von gefälschten älteren Herrscherurkunden, aber auch zum echten DH. V Stumpf 3164 — vor allem das Scheitern der von Würzburg erhobenen Ansprüche auf die herzogliche Würde in Ostfranken zu unterstreichen ist, vgl. die ausführlichen Hinweise in der Vorbemerkung zum D. sowie jetzt auch Lubich, Auf dem Weg zur &amp;quot;Güldenen Freiheit&amp;quot; (Historische Studien, Bd. 449,1996), passim. — Zu Friedrich von Bilrieth vgl. neben MG.DDF.I. Band 5, S. 283 (Nachträge und Berichtigungen zur Gesamtausgabe) jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20,1988) 250; zu dem gleichfalls unter den Zeugen genannten Mundschenken Iring (von Würzburg) als &amp;quot;von Zabelstein&amp;quot; vgl. Plassmann, a.a.O., 269; zur Identität des Burggrafen Konrad von Nürnberg mit Konrad von Raabs (Niederösterreich) vgl. gleichfalls Plassmann, a.a.O., 281 f. — Auf der Rückseite von A findet sich ein Dorsualvermerk von einer Hand des 12./13.Jh. <hi rend="italic">(de iurisditione epicopi et ducis Wirzeburgensis, de castro Bramberc, de castro Frankenberc</hi>), auf der von A<hi rend="sup">1</hi>  stammt der Dorsualvermerk (<hi rend="italic">privilegium Wirzeburgensis ęcclesię de confirmatione ducatus et comitiarum</hi>) von der Hand Wortwins, worin sich seine Doppelstellung als Notar der Reichskanzlei wie des Bischofs von Würzburg spiegelt, vgl. dazu Fichtenau, Bamberg, MIÖG 53 (1939) und Hausmann, a.a.O., 341. — Aus der Art der Erwähnung des kaiserlichen Vorgehens gegen die beiden Burgen Bramberg und Frankenberg läßt sich vielleicht auf einen Aufenthalt des Herrschers daselbst in den quellenmäßig nicht gut belegten Monaten April/Mai — Juni 1168 schließen. — Bei den in der Zeugenreihe genannten Bischöfen von Lodi, Piacenza und Ivrea handelte es sich um Mitglieder des italienischen Episkopats, die — wohl gemeinsam mit dem Kaiser — Italien verlassen hatten; Alberich von Lodi ist auch im März 1174 bei Hofe nachzuweisen (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-03-00_1_0_4_2_3_294_2067.html" type="internal" n="regesten">2067</ref>), über Raimund von Ivrea berichten die Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 181f, daß er 1173 zahlreiche Kirchen in Ost- und Westfriesland, darunter die Kapelle der hll. Michael und Nikolaus zu Egmond und gemeinsam mit anderen Bischöfen St. Martin in Utrecht (am 22. Juli) und St. Marien und St. Stephan in Oudwijk (gleichfalls in Utrecht, am 25. Juli) weihte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1358238967" value="2013-01-15"></date><p n="author">Dieter Rübsamen</p><p>Lit. (mit Faksimile der Urkunde): P. Herde, Friedrich Barbarossa, die Katastrophe vor Rom von August 1167 und die Würzburger &amp;quot;güldene Freiheit&amp;quot; von 10. Juli 1168, in: Jahrbuch für fränkische Landesforschung 56 (1996), S. 149-180.
+</p>
+<p></p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0024" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00197" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_546" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

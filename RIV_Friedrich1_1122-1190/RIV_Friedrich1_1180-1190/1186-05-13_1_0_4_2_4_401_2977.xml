@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2977</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-05-13_1_0_4_2_4_401_2977"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-05-13_1_0_4_2_4_401_2977"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-05-13_1_0_4_2_4_401_2977</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846201" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2977</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-05-13" to="1186-05-13">(1159
+									oder 1186) Mai 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Burg Salerano am Lambro  (<hi rend="italic">III idus maii, apud castrum Saliranum super ripam Lambri</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt die <hi rend="spaced">Söhne des 									Cremoxanus und ihr ganzes Haus (Cremosani</hi>) gemäß der von 								ihnen geschlossenen <hi rend="italic">conventio</hi> mit den für den 								Viehtrieb von Bergamo über die Weiden von Cremona zu leistenden 								Abgaben, mit denen sie gleichzeitig vom Bischof von Bergamo in 								Gegenwart des Hofes zu rechtem Lehen investiert werden. – Das Diktat 								lässt sich nicht bestimmen. <hi rend="italic">Notum sit 									omnibus.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1254 des 								Transsumptes Kaiser Friedrichs II. von 1237 Dezember (B.-Ficker Reg. 								2300) im Staatsarchiv zu Pisa, Archivio Roncioni 324 								(C). Drucke: Stumpf, Acta ined., 550 n<hi rend="sup">o</hi> 								389; MG.DF.I.939. Reg.: Astegiano, CD. Cremonae 1, 162 n<hi rend="sup">o</hi> 422; Stumpf 4454a.</p></div>
+				
+				
+					<div type="commentary"><p>Zur möglichen zeitlichen Einreihung zu 1159 vgl. 								Reg. 708, allerdings dürfte sich die im Text erwähnte <hi rend="italic">conventio</hi> auf den im Februar 1168 zwischen 								Bergamo und den Cremosani abgeschlossenen Vertrag, der gleichfalls 								in dem hier angeführten Transsumpt Kaiser Friedrichs II. überliefert 								ist, beziehen; somit hat das Stück wohl als Beleg für die damals im 								Gebiet von Cremona stattfindenden Auseinandersetzungen zu gelten, 								vgl. dazu Haverkamp, Herrschaftsformen, 539. – Im Regest bei 								Astegiano, a.a.O., heißt es, Bischof Guala von Bergamo habe den 								Empfängern eine gleich lautende Urkunde ausgestellt, vgl. dazu Sala, 								Bergamo, Bergomum (1987) 34.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_939" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

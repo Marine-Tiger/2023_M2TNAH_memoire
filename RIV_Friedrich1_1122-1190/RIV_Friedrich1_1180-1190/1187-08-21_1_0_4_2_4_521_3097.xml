@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3097</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-21_1_0_4_2_4_521_3097"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-21_1_0_4_2_4_521_3097"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-08-21_1_0_4_2_4_521_3097</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3097</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-08-21" to="1187-08-21">(1187
+									um August 15–21)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">(Worms)</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ermahnt gemeinsam mit Erzbischof Konrad 								von Mainz Bischof (Balduin) von Utrecht freundschaftlich wegen 								dessen Fehde mit den Freunden des Erzbischofs (Graf Otto von 								Geldern). Dieser geht jedoch auf die Vermittlung nicht ein und 								verlässt den Hoftag.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Schreiben Erzbischof Konrads von 								Mainz an Bischof Hermann von Münster von (1187 Mitte August – 1188 								Anfang Februar), ed. Acht, Mainzer UB. 2/2, 828 n<hi rend="sup">o</hi> 508, wo auch darauf hingewiesen wird, dass der Utrechter 								Bischof <hi rend="italic">novissime a curia domini imperatoris</hi> 								(= der Wormser Hoftag vom 15. August 1187, siehe dazu Reg. 3096) 								weggezogen sei; Regest bei Diestelkamp – Rotter, Urkundenregesten 1, 								389 n<hi rend="sup">o</hi> 496.</p></div>
+				
+				
+					<div type="commentary"><p>In der Chron. reg. Col., ed. Waitz, MG. SS rer. 								Germ. in us. schol., 136 heißt es, der Kaiser habe diese Fehde 								geschürt, um damit Köln zu schaden (vgl. auch Knipping, Reg. Köln 2, 								no 1295). Die Anwesenheit des Utrechter Bischofs bei Hofe ist zum 								21. August 1187 (Reg. 3098) bezeugt. – Die Fehde – siehe zu ihr auch 								oben die Bemerkungen bei Reg. 3096 – wurde schließlich auf dem 								Mainzer Hoftag am 27. März 1188 beigelegt, vgl. dazu Reg. 3145.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

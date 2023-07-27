@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3449</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-14_1_0_4_2_4_879_3449"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-14_1_0_4_2_4_879_3449"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-14_1_0_4_2_4_879_3449</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3449</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-14" to="1190-04-14">1190
+									April 13 oder 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg <hi rend="italic">Calamos</hi> (heute: Gelembe)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer erreicht die verlassene Burg <hi rend="italic">Calamos</hi>. Die Hoffnung auf sicheren Weg und 								gute Versorgung zerschlägt sich, obwohl man byzantinische Geiseln 								mit sich führt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513 (zu 								April 14); Hist. de expeditione Friderici (Ansbert), ed. Chroust, 								MG. SS rer. Germ. N.S. 5, 73 (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 128) (zu April 13); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 153; Tageno, 								ed. Struve, Rerum Germanicarum Scriptores I (1717) 411 (zu April 14; 									<hi rend="italic">Coloniora</hi>); Arnoldi Chron. Slavorum l. IV 								cap. 11, MG. SS XXI, 173 f.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Eickhoff, Barbarossa im Orient, 91 f., und 								Opll, Itinerar, 105, sowie den bei Bühler, a.a.O., 267 gebotenen 								Hinweis auf die Lage dieses Aufenthaltsortes ca. 60 km südl. von 								Balıkesir. – Zu den unterschiedlichen Daten siehe die Bemerkungen 								oben bei den Regg. 3367, 3370, 3437 und 3445.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

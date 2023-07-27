@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3056</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-23_1_0_4_2_4_480_3056"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-23_1_0_4_2_4_480_3056"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-02-23_1_0_4_2_4_480_3056</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3056</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-02-23" to="1187-02-23">1188
+									(recte: 1187) Februar 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Hoftag des Kaisers (in Regensburg)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, 									die Bischöfe Otto von Bamberg, Diepold von Passau und Otto von 									Freising; aus dem Stand der Herzöge (<hi rend="italic">de ordine 										ducum</hi>): die Herzöge Friedrich von Schwaben, Friedrich 									von Böhmen und Berthold von Meranien; aus dem Stand der 									Edelfreien (<hi rend="italic">de ordine liberorum</hi>): die 									Grafen Konrad von Peilstein, Siegfried von Mörle (<hi rend="italic">Moren</hi>), Liupold von Hardegg und sein 									Bruder Graf Heinrich von Plain (<hi rend="italic">Plagen</hi>) 									sowie Otto von Neulengbach (<hi rend="italic">Lengenbach</hi>); 									aus dem Stand der Ministerialen (<hi rend="italic">de ordine 										ministerialium</hi>): Hademar von Kuenring, Wichard von 									Seefeld, Ulrich von Staatz (<hi rend="italic">Stozzen</hi>), 									Gundakar von Steyr und Irinfried von Gnadendorf (<hi rend="italic">Gnannendorf</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog Leopold (V.) von Österreich nimmt auf Befehl 								und Bitten Kaiser Friedrichs (<hi rend="italic">ex mandato simul et 									petitione domini nostri Friderici Romanorum imperatoris</hi>) 								das Zisterzienserkloster Wilhering mit allen seinen Besitzungen in 								seinen Schutz. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, 									die Bischöfe Otto von Bamberg, Diepold von Passau und Otto von 									Freising; aus dem Stand der Herzöge (<hi rend="italic">de ordine 										ducum</hi>): die Herzöge Friedrich von Schwaben, Friedrich 									von Böhmen und Berthold von Meranien; aus dem Stand der 									Edelfreien (<hi rend="italic">de ordine liberorum</hi>): die 									Grafen Konrad von Peilstein, Siegfried von Mörle (<hi rend="italic">Moren</hi>), Liupold von Hardegg und sein 									Bruder Graf Heinrich von Plain (<hi rend="italic">Plagen</hi>) 									sowie Otto von Neulengbach (<hi rend="italic">Lengenbach</hi>); 									aus dem Stand der Ministerialen (<hi rend="italic">de ordine 										ministerialium</hi>): Hademar von Kuenring, Wichard von 									Seefeld, Ulrich von Staatz (<hi rend="italic">Stozzen</hi>), 									Gundakar von Steyr und Irinfried von Gnadendorf (<hi rend="italic">Gnannendorf</hi>)</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fichtenau – Zöllner, UB. z. Gesch. d. 								Babenberger 1, 91 n<hi rend="sup">o</hi> 67; Scheffer-Boichorst, 								Streit mit der Kurie, 244 Reg. 100 (zu Passau oder Regensburg); 								Stumpf 4474.</p></div>
+				
+				
+					<div type="commentary"><p>Dobenecker, Reg. Thur. 2, no 785 nennt irrig einen 								Grafen Wicker (richtig: Konrad) von Peilstein unter den Zeugen. – 								Vgl. dazu Zauner, Anfänge der Zisterze Wilhering, Mitt. d. 								Oberösterr. Landesarchivs 13 (1981) 114.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

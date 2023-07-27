@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1700</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-06_1_0_4_2_2_1145_1700"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-06_1_0_4_2_2_1145_1700"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-08-06_1_0_4_2_2_1145_1700</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1387195291" value="2013-12-16"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1700</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-08-06" to="1167-08-06">1167 August 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Monte Mario bei Rom</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII<hi rend="sup">vo</hi>  idus augusti, iuxta Romam in monte Gaudii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D. B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Tiberinsel</hi>  <hi rend="spaced">Bartholomäuskirche</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Phylippus canc. vice Rainaldi Coloniensis archiep. et Ithalię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter wörtlicher Inserierung der genannten Stellen aus der Chronik Ottos von Freising verfaßt und geschrieben von Wortwin</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Christian von Mainz, Erzkanzler für ganz Deutschland, Erzbischof Rainald von Köln, Erzkanzler für Italien, die Bischöfe Alexander von Lüttich, Gottfried von Speyer, Daniel von Prag, Udo von Zeitz und Gero von Halberstadt, Abt Hermann von Fulda, Heinrich, Protonotar des kaiserlichen Hofes und Propst von St. Stephan in Mainz, Propst Gottfried von Frankfurt, die Herzoge Friedrich (von Schwaben), der Sohn König Konrads (III.), Berthold von Zähringen und Welf (VII.) der Jüngere</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet nach Einsichtnahme in das 6. Buch der Annalen seiner Vorgänger, deren Bericht (Otto von Freising, Chronicon VI 24-26) wörtlich inseriert wird, daß Kaiser Otto II. die Gebeine des heiligen Bartholomäus von Benevent auf die <span sameAs="recipient"><hi rend="spaced">Tiberinsel</hi> </span>  in Rom übertragen habe, und bestätigt der dortigen <span sameAs="recipient"><hi rend="spaced">Bartholomäuskirche</hi> </span>, die dem Reich gehört, die ihr von Otto II. übertragenen Güter und Besitzungen. <span n="witnesses">Z.: Erzbischof Christian von Mainz, Erzkanzler für ganz Deutschland, Erzbischof Rainald von Köln, Erzkanzler für Italien, die Bischöfe Alexander von Lüttich, Gottfried von Speyer, Daniel von Prag, Udo von Zeitz und Gero von Halberstadt, Abt Hermann von Fulda, Heinrich, Protonotar des kaiserlichen Hofes und Propst von St. Stephan in Mainz, Propst Gottfried von Frankfurt, die Herzoge Friedrich (von Schwaben), der Sohn König Konrads (III.), Berthold von Zähringen und Welf (VII.) der Jüngere</span>. - <span n="chancellor"><hi rend="italic">Phylippus canc. vice Rainaldi Coloniensis archiep. et Ithalię archicanc.</hi> </span>; <span n="clerk">unter wörtlicher Inserierung der genannten Stellen aus der Chronik Ottos von Freising verfaßt und geschrieben von Wortwin</span>; <span n="seal">SI. D. B. D.</span>  <span n="incipit"><hi rend="italic">Dignitas imperii Romani</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignitas imperii Romani</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Vatikanisches Archiv zu Rom (A). Drucke: Böhmer, Acta imp. 117 n<hi rend="sup">o</hi>  125; MG. DF. I. 534. Faks.: Kaiserurk. in Abb. X, 11. Reg.: Stumpf 4088.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der auffälligen Doppelbesiegelung vgl. die Beschreibung des D. durch Kehr, Kaiserurkunden, NA 14 (1889) 353 n<hi rend="sup">o</hi>  6. - Das D. stellt eine Meisterleistung auf dem Gebiet der Insertionstechnik durch Wortwin dar, der dabei einige recht charakteristische Umdeutungen des Wortlautes seiner Vorlage erzielte, vgl. dazu Koch, Reichskanzlei 63 ff. und besonders 102 ff. sowie die Vorbemerkung zum D. - Otto von Freising hatte seinem kaiserlichen Neffen schon 1157 ein Exemplar seiner Chronik übermittelt, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-03-24_1_0_4_2_1_452_450.html" type="internal" n="regesten">450</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0299" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00196" type="external" n="unkown">Abbildung in KUA</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

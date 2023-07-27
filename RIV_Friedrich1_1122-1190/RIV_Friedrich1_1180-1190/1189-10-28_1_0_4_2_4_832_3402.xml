@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3402</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-10-28_1_0_4_2_4_832_3402"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-10-28_1_0_4_2_4_832_3402"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-10-28_1_0_4_2_4_832_3402</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3402</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-10-28" to="1189-10-28">1189
+									(vor Oktober
+									28)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Philippopel/Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ist wegen der Gefangennahme seiner Boten 								(siehe dazu Regg. 3392, 3396 und 3397) sehr besorgt. Er entsendet 								den Kanoniker Werner von St. Viktor in Mainz und den Ritter 								Gottfried (von Wiesenbach), für die er zuvor das Geleit von Seiten 								einiger byzantinischer Fürsten erwirkt hat, als seine Boten nach 								Konstantinopel. Die Gesandten sollen den Basileus hinsichtlich der 								von diesem vermuteten, gegen Byzanz gerichteten Pläne des Staufers, 								darunter solcher im Hinblick auf eine Belehnung des Großžupans 								(Stephan Nemanja) von Serbien mit Bulgarien oder anderem 								griechischem Gebiet, beruhigen, den Basileus freilich auch an dessen 								in Nürnberg gegebene Zusagen (siehe dazu oben Reg. 3214) erinnern. 								Die beiden Boten werden gleichfalls lange Zeit in Konstantinopel 								zurückgehalten, und man beginnt schon an ihrer Rückkehr zu zweifeln, 								da lenkt der byzantinische Kaiser endlich ein und lässt die 								kaiserlichen Legaten frei (siehe Reg. 3403).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 46 f. (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 102); Niketas 								Choniates II/5, ed. Bekker, 536 bzw. ed. van Dieten, 409 f. 								(deutsche Übersetzung bei Grabler, Abenteurer auf dem Kaiserthron, 								213).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus Reg. 								3403. – Niketas führt das (zunächst nur vorübergehende) Einlenken 								des Basileus auf seine (des Niketas Choniates) eigenen Bemühungen 								bei diesem zurück. – Vgl. Zimmert, Der deutsch-byzantinische 								Konflikt, Byzantin. Zs. 12 (1903) 56, sowie Giesebrecht – Simson, 								Kaiserzeit VI, 235 f. – Etwa um diese Zeit (Mitte Oktober) 								erreichten den Hof Sultan Saladins Nachrichten über den Aufbruch des 								Kaisers nach Konstantinopel mit einem riesigen Heer (zu den Zahlen 								siehe schon oben bei Reg. 3367). Das Eintreffen der Nachrichten am 								aiyubidischen Hof wird bei Bahā’ al-Dīn, History of Saladin, transl. 								by D. S. Richards (2002) 106, mit „zu Anfang des Monats Ramadan“ (= 								14. Oktober), bei Petermann, Imâd el Ispahani, Wochenblatt der 								Johanniter-Ordensballey Brandenburg Nr. 44 (1872) 265) mit „dem 								Monat Ramadan“ (dieser fiel im Jahr 1189 in die Zeit vom 12. Oktober 								bis zum 10. November) datiert. Saladin entsandte daraufhin am 11. 								des Ramadan (= 24. Oktober) den Bahā’ al-Dīn mit Briefen an den 								Kalifen und die Gouverneure der Provinzen (zu den Auflösungen der 								Datierungsangaben vgl. Petermann, a.a.O., 265 mit Anm. 2–3, sowie 								die Übersetzung des Bahā’ al-Dīn durch Richards).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

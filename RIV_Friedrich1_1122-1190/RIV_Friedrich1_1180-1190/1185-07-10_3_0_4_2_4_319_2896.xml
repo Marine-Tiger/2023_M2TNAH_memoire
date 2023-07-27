@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2896</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-10_3_0_4_2_4_319_2896"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-10_3_0_4_2_4_319_2896"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-07-10_3_0_4_2_4_319_2896</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844998" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2896</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-07-10" to="1185-07-10">(1185
+									Januar 21 – um Juli 10)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Aufzeichnung über eine Anklage, die vor dem kaiserlichen 									Hofgericht erhoben wurde, um die Verhängung der Reichsacht über 									Cremona (vgl. Reg. 2897) zu erwirken</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich führt in einem eingehenden Bericht <hi rend="spaced">Klage über das treulose Verhalten der 									Cremonesen</hi>. Dabei führt er als Klagepunkte im Einzelnen 								sein im Cremoneser Interesse unternommenes Vorgehen gegen Crema 								(vgl. Regg. 740 ff.) ebenso an wie den auf dem feierlichen Hoftag zu 								Würzburg gewährten Nachlass des festgesetzten Regalienzinses (vgl. 								Reg. 1474), die erlittenen Widrigkeiten während seines (4.) 								Italienzuges (1167/68), darunter die Cremoneser Mithilfe bei der 								Wiedererrichtung von Mailand und beim Abfall der Stadt Lodi vom 								Reich sowie die Absperrung des Monte Bardone auf seinem Rückzug von 								Rom (vgl. Regg. 1643, 1663 und 1718), deren Mitwirken bei der 								Gründung der nunmehr Caesarea (= Alessandria) genannten Stadt (vgl. 								Reg. 1785), den Anschlag des Wazo von Crema auf sein Leben während 								der Belagerung von Alessandria (vgl. Reg. 2128), deren 								Erpressungsversuch anlässlich seines Aufenthalts zu Sant’Agata zu 								Cremona vor dem Frieden von Venedig (vgl. Reg. 2212) und deren (erst 								kürzlich geschehenes) Vorgehen gegen die Cremasken während seiner 								Aufenthalte in Lodi (Reg. 2851) und in Piacenza (Reg. 2854). Er 								erklärt, sich nicht mehr an die ihnen früher gegebenen Zusagen 								gebunden zu fühlen, und schätzt den Schaden, für den er Ersatz zu 								fordern berechtigt ist, auf 300.000 Mark. –<span n="clerk"> 									Aufzeichnung über eine Anklage, die vor dem kaiserlichen 									Hofgericht erhoben wurde, um die Verhängung der Reichsacht über 									Cremona (vgl. Reg. 2897) zu erwirken</span>.<span n="incipit"> 									<hi rend="italic">Post gestatam Rome.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Post gestatam Rome.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Formlose Niederschrift im Staatsarchiv 								zu Cremona, Arch. segr. dipl. perg. n<hi rend="sup">o</hi> 1918 								(B). Drucke: Böhmer, Acta imp., 756 n<hi rend="sup">o</hi> 								1062 (zu 1185 Februar); MG. Const. I, 426 n<hi rend="sup">o</hi> 								302 (zu 1185 Februar); Falconi, Carte Cremonesi III, 434 n<hi rend="sup">o</hi> 625 (zu 1185 März – 1186 Juni 8); MG.DF.I.895 								(zu 1185 Januar 17 – Juli). Regg.: Astegiano, CD. Cremonae 1, 								160 n<hi rend="sup">o</hi> 411 (zu 1185 Juli); Stumpf 4408 (zu 1185 								Februar).</p></div>
+				
+				
+					<div type="commentary"><p>Hinsichtlich der Datierung muss – entgegen den 								Angaben in der Diplomata-Ausgabe – der im Text erwähnte Aufenthalt 								in Piacenza am 21. Januar 1185 (Regg. 2852, 2853 und 2854), nicht 								der zum 17. Januar 1185 bezeugte Aufenthalt in Lodi (Reg. 2851), als 									<hi rend="italic">terminus post quem</hi> gelten, als <hi rend="italic">terminus ante quem</hi> die Verhängung der 								Reichsacht über Cremona (Reg. 2897); die Verschlechterung des 								Verhältnisses des Staufers zu Cremona wird auch in den Ann. 								Cremonenses, MG. SS XXXI, 6, erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_895" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

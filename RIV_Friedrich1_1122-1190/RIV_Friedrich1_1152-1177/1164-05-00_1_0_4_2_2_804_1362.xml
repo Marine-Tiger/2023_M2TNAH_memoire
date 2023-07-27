@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1362</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-05-00_1_0_4_2_2_804_1362"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-05-00_1_0_4_2_2_804_1362"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-05-00_1_0_4_2_2_804_1362</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1362</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-05-01" to="1164-05-31">(1164 Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">(Pavia)</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. laut B.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Treviso</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schreibt den Konsuln und dem Volk von <span sameAs="recipient"><hi rend="spaced">Treviso</hi> </span>, er bedauere die Bedrückungen, die ihnen seine Boten ohne seinen Auftrag zugefügt haben, bestätigt die derzeitigen Konsuln und das Recht der freien Wahl dieser Amtsträger, gewährt ihnen das Befestigungsrecht, stellt ihre Geiseln zurück, befreit sie von der Verpflichtung zur Teilnahme am Feldzug gegen Sizilien sowie derzeit von der Leistung des Fodrums, erteilt ihnen bestimmte Baurechte an Reichsstraßen (<hi rend="italic">Porticus in viis regalibus edificare et perpetuo possidere, ita tamen, ut non sint solaria, vobis omnibus concedimus</hi>.), enthebt die Kaufleute von Zinszahlungen an das Reich und übergibt ihnen die durch seine Boten entfremdeten Regalien. - Vermutlich in der Kanzlei entstanden; <span n="seal">SI. laut B.</span>  <span n="incipit"><hi rend="italic">Cupientes civitatem vestram</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cupientes civitatem vestram</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1178, Archiv des Domkapitels zu Treviso (B). Drucke: Ficker, Forschungen 4, 182 n<hi rend="sup">o</hi>  139; MG. DF. I. 444. Faks.: Giovanni Netto in der von der Cassa di Risparmio della Marca Trivigiana herausgegebenen Zeitschrift &amp;quot;Ca' Spineda&amp;quot; n<hi rend="sup">o</hi>  1, 1972, 15. Reg.: Stumpf 4540 zu 1164 Mai.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus den inhaltlichen Bezügen auf die Zeit des Aufblühens der Lega Veronese; vgl. zum D. Opll, Stadt und Reich 446 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0214" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

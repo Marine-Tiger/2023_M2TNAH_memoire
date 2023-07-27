@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 267</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-00-00_1_0_4_2_1_267_267"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-00-00_1_0_4_2_1_267_267"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-00-00_1_0_4_2_1_267_267</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237591" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 267</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-01-01" to="1155-12-31">(1155)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Anfang oder erste Monate)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Farfa</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt von Wibald</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt den Leuten (<hi rend="italic">tam monachis quam laicis atque baronibus seu militibus</hi>) der Abtei <span sameAs="recipient"><hi rend="spaced">Farfa</hi> </span>  besonders im Sabinerland und in der Mark, dem von ihm investierten Abt Rusticus den Treueid zu leisten, erklärt alle Veräußerungen des Klostergutes durch die rechtmäßig abgesetzten Äbte Rainald, Roland und Berard seit der Zeit des Abtes Adenulf für nichtig und gebietet, den Anordnungen seines gemeinsam mit dem neuen Abt abgesandten Kapellans Heribert, der mit der Einsammlung des Fodrums und der anderen Abgaben für den Romzug beauftragt ist, Folge zu leisten. - <span n="clerk">Verfaßt von Wibald</span>. <span n="incipit"><hi rend="italic">Universitati vestre notum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Universitati vestre notum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. auf einem der dem Cod. 124 des Eton College beiliegenden Blätter (B). Drucke: Kehr, Farfa, QFIAB 9 (1906) 180 n<hi rend="sup">o</hi>  4; MG. DF. I. 95. Reg.: Deibel, Einkünfte, Neue Heidelberger Jbb. N. F. (1932) 23 n<hi rend="sup">o</hi>  6.</p></div>
+				
+				
+					<div type="commentary"><p>Gegen die hier geltendgemachten Reichsrechte betont Hadrian IV. in seinem Schreiben an Erzbischof Arnold II. von Köln, Bischof Eberhard von Bamberg und Abt Wibald von Stablo, von 1155 Juni 1 (JL. 10071, Italia pont. 2, 69 n<hi rend="sup">o</hi>  *53 und 54; Druck: Epp. Wibaldi, ed. Jaffé, Mon. Corb. 573 n<hi rend="sup">o</hi>  440), daß Farfa unter dem Abt Rusticus <hi rend="italic">ad ordinationem et dispositionem sedis apostolicae specialiter</hi>  gehöre; vgl. Haverkamp, Herrschaftsformen 1, 236 und Hausmann, Reichskanzlei 244 und 266. Zum ausstehenden Treueid der Aftervasallen und der klösterlichen Untertanen an den König vgl. Haverkamp, Herrschaftsformen 2, 335 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0092" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_95" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

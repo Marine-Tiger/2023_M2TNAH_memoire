@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 677</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-00_1_0_4_2_2_119_677"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-00_1_0_4_2_2_119_677"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-02-00_1_0_4_2_2_119_677</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 677</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-02-01" to="1159-02-28">(1159 Ende Februar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Verrua - Serralunga - Lu (Monferrato)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich trifft Kriegsvorbereitungen, hebt Truppen aus und setzt die Festungen Verrua, Serralunga und Lu (Monferrato) sowie die übrigen, die ausbaufähig sind, instand.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 29, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 272.</p></div>
+				
+				
+					<div type="commentary"><p>Hauptproblem ist hier die Frage der Lokalisierung der genannten Festungen, wobei uns gegen Giesebrecht - Simson, Kaiserzeit VI, 374 doch der piemontesische Raum richtiger zu sein scheint, vgl. Opll, Itinerar, 185. - Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol., 32 nennt für ähnliche Aktivitäten des Herrschers die Mailand benachbarten Gebiete des Seprio und der Martesana, wobei es sich entweder um einen Irrtum oder um einen Zusammenhang mit den Maßnahmen im Gebiet von Como (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-03-00_1_0_4_2_2_121_679.html" type="internal" n="regesten">679</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-03-00_2_0_4_2_2_122_680.html" type="internal" n="regesten">680</ref>) handelt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0049" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

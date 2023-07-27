@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †194</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-23_2_0_4_2_1_194_F194"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-23_2_0_4_2_1_194_F194"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-09-23_2_0_4_2_1_194_F194</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415625033" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †194</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-09-23" to="1153-09-23">1153 September 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Überlingen">Überlingen</placeName>
+												<location><geo decls="#WGS">47.7667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IX kalendas octobris, Vberlingen)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Weingarten</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imperialis aule canc. vice Cunradi Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung einer verlorenen echten Urkunde für Weingarten aus dem Jahre 1187 und des Privilegs Paschals II. für Altdorf-Weingarten (JL. 6017, vgl. Hirsch, Privilegien süddeutscher Klöster, MIÖG Erg.Bd. 7, 1907, 498), in der Fassung B unter Verwend</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die Bischöfe Otto von Bamberg und Gottfried von Würzburg, Domdekan Adolf von Köln, Abt Diethelm von der Reichenau, Herzog Leopold von Österreich, die Grafen Gerhard von Dollnstein und Gerhard von Vienne (?, <hi rend="italic">Vienna</hi>), Heinrich von Markdorf, Konrad von Schussenried, Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem von seinem Vorfahren (<hi rend="italic">nostre nobilitatis proavus</hi>) Herzog Welf gegründeten Kloster <span sameAs="recipient"><hi rend="spaced">Weingarten</hi> </span>  die Rechte, darunter die Freiheit vom Reichsdienst und die Verfügungsgewalt über seine Hintersassen, und nimmt es mit den genannten Besitzungen in seinen Schutz. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die Bischöfe Otto von Bamberg und Gottfried von Würzburg, Domdekan Adolf von Köln, Abt Diethelm von der Reichenau, Herzog Leopold von Österreich, die Grafen Gerhard von Dollnstein und Gerhard von Vienne (?, <hi rend="italic">Vienna</hi>), Heinrich von Markdorf, Konrad von Schussenried, Werner von Bolanden</span>. - <span n="chancellor"><hi rend="italic">Iohannes imperialis aule canc. vice Cunradi Maguntine sedis archiep. et Germanie archicanc.</hi> </span>; <span n="clerk">unter Heranziehung einer verlorenen echten Urkunde für Weingarten aus dem Jahre 1187 und des Privilegs Paschals II. für Altdorf-Weingarten (JL. 6017, vgl. Hirsch, Privilegien süddeutscher Klöster, MIÖG Erg.Bd. 7, 1907, 498), in der Fassung B unter Verwendung der echten Urkunde Rudolfs von Habsburg von 1274 April 12 (B.-Redlich Reg. 144) und der Fälschung auf den Namen Philipps von Schwaben von 1197 August 16 (B.-Ficker Reg. 19, Wirtemberg. UB. 2, 327 n<hi rend="sup">o</hi>  508) und in der Fassung C unter Benützung der unechten DDH. VI. B.-Baaken Reg. 287 und F. II. B.-Ficker Reg. 806 abgefaßt</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Ex credito nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex credito nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung</hi>; <hi rend="spaced">Angebl</hi>. Orig.: Haidsche Urkundensammlung n<hi rend="sup">o</hi>  370 des Erzbischöflichen Ordinariatsarchivs Freiburg im Breisgau, seit 1950 verschollen (A). Kop.: Insert in der Fälschung auf Rudolf I. von 1274 April 6 (B.-Redlich Reg. 139), Staatsarchiv Stuttgart, Kaiserselekt n<hi rend="sup">o</hi>  93 (B), die im Original Adolfs von 1293 Februar 1 (B.-Samanek Reg. 194) ebenda (B<hi rend="sup">1</hi>) vidimiert ist; Insert in dem unechten DF. II. von 1218 Mai 17 (B.-Ficker Reg. 806), das als Insert in dem angeblichen Original auf Rudolf I. von 1274 April 12 (B.-Redlich Reg. 145), Staatsarchiv Stuttgart, Kaiserselekt n<hi rend="sup">o</hi>  95 (C) überliefert ist; die Fälschung auf Rudolf I. ist im Original Friedrichs des Schönen von 1321 Januar 6 (Böhmer Reg. Friedrichs 178) vidimiert. Druck e: Wirtemberg. UB. 2, 83 n<hi rend="sup">o</hi>  350; vgl. dazu ebenda 426 ff. und 5, 461 (Varianten von A). Reg.: Stumpf 3679.</p></div>
+				
+				
+					<div type="commentary"><p>Über diese Weingartener Fälschungsgruppe des 13. und 14. Jh. - A wurde am 6. April 1274 (B.-Redlich Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-10-17_1_0_4_2_1_138_138.html" type="internal" n="regesten">138</ref>) Rudolf I. zur Bestätigung vorgelegt - hat eingehend Krallert, Urkundenfälschungen des Klosters Weingarten, AUF 15 (1938) 235 ff., besonders 275 ff., gearbeitet. Das Hängesiegel war, wenn auch zerbrochen, 1795 noch vorhanden (vgl. Wirtemberg. UB. 5, 461) und dürfte wohl von dem Deperditum des Jahres 1187 stammen. Auf dieses weisen auch die Zeugen und verschiedene stilistische Eigenheiten, wie etwa in der Arenga, im Perturbationsverbot und der Pönformel sowie auch die Rekognition. Über dieses verlorene Diplom und den Aufenthalt des Kaisers in Überlingen im Jahre 1187 vgl. Stumpf, Kritik deutscher Städte-Privilegien, SB. Wien 32 (1860) 624; es dürfte sich dabei um eine im wesentlichen mit dem Privileg Innozenz' II. von 1143 April 9 (JL. 8355; Germ. pont. 2, 228 n<hi rend="sup">o</hi>  5) übereinstimmende Besitzbestätigung gehandelt haben, vgl. Krallert, a. a. O. 277 f. - Unter den Zeugen ist die Identifizierung des Grafen Gerhard <hi rend="italic">de Vienna</hi>  nicht ganz sicher. Graf Gerhard von Vienne starb jedenfalls schon 1184, hatte allerdings auch einen gleichnamigen Sohn, vgl. den Stammbaum bei Mariotte, Bourgogne (Cahiers d'études comtoises 4, 1963).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0070" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1033" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=559" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

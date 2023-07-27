@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 160</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-02-15_1_0_4_2_1_160_160"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-02-15_1_0_4_2_1_160_160"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-02-15_1_0_4_2_1_160_160</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236624" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 160</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-02-15" to="1153-02-15">1153 Februar 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. marcii, Bisůntii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Peterlingen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Humbert von Besançon, die Bischöfe Amadeus von Lausanne, Ortlieb von Basel, Hermann von Konstanz, Herzog Heinrich von Sachsen, Markgraf Hermann von Sachsen, die Grafen Amadeus von Genf, Wilhelm von Mâcon (<hi rend="italic">Matisconensis</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich spricht dem Ovdelhardus von Vivers auf Grund eines Fürstenspruches die Vogtei über den Hof des Klosters <span sameAs="recipient"><hi rend="spaced">Peterlingen</hi> </span>  zu Kerzers (Chiètres; <hi rend="italic">Kerters</hi>) ab, befreit es von allen vogteirechtlichen Ansprüchen (<hi rend="italic">aliquis aliquod ius advocatię sibi usurpare presumat</hi>), bestätigt dem Kloster das von seinen Vorgängern verliehene Vorrecht, daß der Abt von Cluny und seine Nachfolger den von den Mönchen erwählten Vogt einzusetzen haben, und verbrieft den zum Teil namentlich angeführten Besitzstand. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Humbert von Besançon, die Bischöfe Amadeus von Lausanne, Ortlieb von Basel, Hermann von Konstanz, Herzog Heinrich von Sachsen, Markgraf Hermann von Sachsen, die Grafen Amadeus von Genf, Wilhelm von Mâcon (<hi rend="italic">Matisconensis</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von A II. D</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Cum ęcclesiis dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum ęcclesiis dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Fribourg (A). Drucke: Font. rer. Bern. 1, 431 n<hi rend="sup">o</hi>  32; MG. DF. I. 48. Reg.: Trouillat, Mon. de Bâle 1, 270; Hidber 2, n<hi rend="sup">o</hi>  1955; Kocher, Solothurner UB. 1, 73 n<hi rend="sup">o</hi>  131; Stumpf 3661.</p></div>
+				
+				
+					<div type="commentary"><p>Büttner, Peterlingen, Zs. f. Schweiz. KG 58 (1964) konnte, besonders 288 ff., in Weiterführung der Untersuchungen von H. E. Mayer, Peterlinger Urkundenfälschungen, DA 19 (1963) 115 ff. den Nachweis erbringen, daß die vier in Peterlingen im 12. Jh. gefälschten Exemplare von Privilegien der Päpste Kalixt II. und Eugen III. (Germ. pont. 2/2, 188 n<hi rend="sup">o</hi>  †3, 189 n<hi rend="sup">o</hi>  †4 und n<hi rend="sup">o</hi>  †5 in zwei Ausfertigungen) erst nach 1153 entstanden sein können und somit die Anklänge des D. an das päpstliche Formular wohl mit einer Überarbeitung des von Kehr, Exkurs I, 4. Papsturkunden für Peterlingen, Göttinger Nachrichten (1904) 470 ff. rekonstruierten Privilegs Papst Eugens III. zusammenhängen. Zum Inhalt vgl. Büttner a. a. O. 285 ff. DF. I. 48 wird (1236) von Friedrich II. bestätigt (B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-08-27_1_0_4_2_3_379_F2152.html" type="internal" n="regesten">2152</ref>). In einer Urkunde des Priors von Payerne, Jakob de Montemaiori, von 1411 Juni 5 wird offenbar unser Diplom erwähnt, dabei aber eine <hi rend="italic">curia de Helstein</hi>  genannt, die in DF. I. 48 nicht vorkommt (Boos, UB. der Landschaft Basel 1, 659 n<hi rend="sup">o</hi>  571).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0057" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2213600%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_48" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

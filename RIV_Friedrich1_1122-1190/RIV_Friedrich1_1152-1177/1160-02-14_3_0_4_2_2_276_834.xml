@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 834</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_3_0_4_2_2_276_834"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_3_0_4_2_2_276_834"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-02-14_3_0_4_2_2_276_834</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242992" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 834</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-02-14" to="1160-02-14">1160 Februar 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. mart., Papie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi>  <hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus Coloniensis ęcclesię electus et Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben vom Bamberger Archidiakon Gotebold</scribe>
+				
+				
+					<testis function="witnesses">Z. der Exkanzler und jetzt schon Erzkanzler für Italien sowie Elekt der Kölner Kirche Rainald, die Pfalzgrafen Otto und Friedrich von Wittelsbach, Graf Berthold von Andechs und Graf Rudolf von Bregenz</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet einen bereits auf dem Hoftag zu Bamberg gefällten Spruch des kaiserlichen Hofgerichtes (vgl. Reg. 468 von 1157 Juli), nach dem die bambergischen Grafschaften entgegen den Anmaßungen Bischof Gebhards von Würzburg ausschließlich Bischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  und dessen Nachfolgern unterstellt werden. <span n="witnesses">Z. der Exkanzler und jetzt schon Erzkanzler für Italien sowie Elekt der Kölner Kirche Rainald, die Pfalzgrafen Otto und Friedrich von Wittelsbach, Graf Berthold von Andechs und Graf Rudolf von Bregenz</span>. - <span n="chancellor"><hi rend="italic">Reinaldus Coloniensis ęcclesię electus et Italię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben vom Bamberger Archidiakon Gotebold</span>; <span n="seal">B. 2. D.</span> <span n="incipit"><hi rend="italic">Imperatorię maiestatis officium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis officium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Heute verschollen, zur Zeit Heybergers im Bamberger Archiv (A). Kop.: Gleichzeitige Einzelkopie, Hauptstaatsarchiv München (B). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 351 n<hi rend="sup">o</hi>  500; MG. DF. I. 305. Faks.: Heyberger, Landeshoheit Bambergs über Fürth, Codex prob. n<hi rend="sup">o</hi>  60; Kopp, Faks.-Sammlung des Inst f. öst. Geschichtsforsch., n<hi rend="sup">o</hi>  28. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 286 n<hi rend="sup">o</hi>  372; Stumpf 3888.</p></div>
+				
+				
+					<div type="commentary"><p>Die gleichzeitige Kopie stammt von der Hand jenes Bamberger Schreibers A, den Föhl, Eberhard II. von Bamberg, MÖIG 50 (1936) 75 ff. wohl zu Unrecht mit Bischof Eberhard selbst gleichsetzen wollte, vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0087" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210248%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_305" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

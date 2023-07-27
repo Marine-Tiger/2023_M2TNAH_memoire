@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2904</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-01_1_0_4_2_4_327_2904"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-01_1_0_4_2_4_327_2904"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-08-01_1_0_4_2_4_327_2904</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845369" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2904</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-08-01" to="1185-08-01">1185
+									August 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Florenz (<hi rend="italic">kal. augusti, Florentie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Kanzleidiktat, geschrieben von 									GG</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof 									Konrad von Mainz, die Bischöfe Wilhelm von Asti, Bonifaz von 									Novara und Bernard von Florenz, Graf Guido Guerra, Guido von 									Sannazzaro de’ Burgondi (<hi rend="italic">Burgundionis</hi>), 									Renucius von <hi rend="italic">Graniano</hi> (Gragnano?), 									Rulandinus von Fighine, Propst Friedrich (von St. Thomas in 									Straßburg), die Hofrichter Ottobellus (aus Mailand), Otto 									Nouellus (aus Piacenza), Albertus Aldigheri aus Ferrara, Ido aus 									Tortona und Grossus aus Brescia sowie Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Nonnenkloster Montecellese</hi> (<hi rend="italic">Montecelso</hi>) mit den namentlich angeführten Besitzungen in 								seinen Schutz und gewährt der jetzigen Äbtissin und ihren 								Nachfolgern das Recht, den Kalumnieneid durch ihren Vogt oder 								Prokurator leisten zu dürfen. <span n="witnesses">Z.: Erzbischof 									Konrad von Mainz, die Bischöfe Wilhelm von Asti, Bonifaz von 									Novara und Bernard von Florenz, Graf Guido Guerra, Guido von 									Sannazzaro de’ Burgondi (<hi rend="italic">Burgundionis</hi>), 									Renucius von <hi rend="italic">Graniano</hi> (Gragnano?), 									Rulandinus von Fighine, Propst Friedrich (von St. Thomas in 									Straßburg), die Hofrichter Ottobellus (aus Mailand), Otto 									Nouellus (aus Piacenza), Albertus Aldigheri aus Ferrara, Ido aus 									Tortona und Grossus aus Brescia sowie Kämmerer Rudolf</span>. 									–<span n="clerk"> Kanzleidiktat, geschrieben von 									GG</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Ad eterni regni.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterni regni.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Siena (A). Drucke: 								Stumpf, Acta ined., 230 n<hi rend="sup">o</hi> 169 aus Abschrift 								des 16. Jh. der Bestätigung Kaiser Friedrichs II. von 1244 März 								(B.-Ficker Reg. 3418) im Haus-, Hof- und Staatsarchiv zu Wien; Carte 								dell’Archivio di Stato di Siena. Abbazia di Montecelso, a cura di 								Antonella Ghignoli (Fonti di Storia Senese, 1992) n<hi rend="sup">o</hi> 							 44; MG.DF.I.912. Regg.: Schneider, Reg. 								Senense 1, 121 n<hi rend="sup">o</hi> 314; Stumpf 4429.</p></div>
+				
+				
+					<div type="commentary"><p>Die gegenüber der DD.-Ausgabe nachzutragende 								Edition von Ghignoli bietet eine bisher unbekannte Nachricht über 								die Besiegelung, vgl. dazu die Rezension durch Gawlik, DA 52 (1996) 								218 f. – An dieser Stelle sei auch darauf verwiesen, dass im DH.VI. 								von 1187 Juni 24, bei Otricoli, für die Bürger von Florenz 								(B.-Baaken Reg. 50) die treuen Dienste der Florentiner seinem Vater 								und ihm gegenüber Erwähnung finden; Barbarossa ging damals freilich 								gegen die Interessen der Stadt Florenz vor, vgl. Reg. 2905. – 								Vielleicht während dieses Aufenthalts in Florenz nahm der unter den 								Zeugen genannte Graf Guido Guerra Verleihungen an die Kommune 								Ventimiglia vor, siehe dazu unten Reg. 2918.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_912" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

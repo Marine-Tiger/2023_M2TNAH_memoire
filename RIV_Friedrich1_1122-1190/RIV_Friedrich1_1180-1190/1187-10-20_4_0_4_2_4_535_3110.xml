@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3110</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-20_4_0_4_2_4_535_3110"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-20_4_0_4_2_4_535_3110"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-10-20_4_0_4_2_4_535_3110</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3110</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-10-20" to="1187-10-20">(1187
+									vor Oktober 20)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Papst Urban (III.) schickt wegen des Falles von 								Jerusalem Boten an Kaiser Friedrich und fordert diesen zu raschem 								Eingreifen ab, stirbt aber wenig später.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ioannis Długossii Annales lib. VI, ed. 								Budkowa et al. (1973) 144 (zu 1188); vgl. Hist. peregrinorum, ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 122 (ohne Namensnennung des 								Papstes).</p></div>
+				
+				
+					<div type="commentary"><p>Jerusalem war nach der Niederlage von Hattin (4. 								Juli 1187) am 2. Oktober 1187 gefallen; von den einschlägigen 								arabischen Quellen – siehe dazu: Die Kreuzzüge aus arabischer Sicht, 								ausgewählt und übersetzt von F. Gabrieli (1973) 159 ff. – sei hier 								auch auf das erst vor kurzem in deutscher Übersetzung edierte 								Sendschreiben Saladins an seinen Bruder Saif al-Islam vom Januar 								1188 mit Berichten über seine Erfolge im Vorjahr verwiesen, vgl. 								dazu den Ausstellungskatalog: Saladin und die Kreuzfahrer, hg. von 								Wieczorek – Fansa – Meller (Darmstadt 2005) 490 f.; zur Situation 								vgl. des Weiteren auch das Schreiben des Patriarchen Aimerich von 								Antiochia an das gesamte christliche Volk und dessen geistliche und 								weltliche Führer von (1187 Oktober ca. 1–12, Antiochia), ed. Mayer, 								Zwei unedierte Texte, AfD 47/48 (2001/02) 100 no II. – Die hier 								vorgenommene zeitliche Einreihung ergibt sich aus dem Tod des 								Papstes am 20. Oktober 1187 als <hi rend="italic">terminus ante 									quem</hi>. Nicht völlig auszuschließen ist es, dass die 								Nachricht Urban III. nicht mehr persönlich erreichte; so war etwa 								die Nachricht über die Niederlage bei Hattin noch am 3. September 								1187 in Verona nicht bekannt, vgl. dazu die Hageneder, Rezension 								von: Rudolf Hiestand, Papsturkunden für Kirchen im Heiligen Land, 								MIÖG 96 (1988) 175. In dem Schreiben, das Gregor VIII. schon am 24. 								Oktober 1187 an alle Christgläubigen aussenden ließ (JL. 16013), ist 								jedenfalls bereits die Rede davon, dass <hi rend="italic">crucem 									domini captam</hi> und die <hi rend="italic">urbs regia</hi> (= 								Jerusalem) gefallen sei (freundliche Hinweise von Herrn Prof. 								Hageneder).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

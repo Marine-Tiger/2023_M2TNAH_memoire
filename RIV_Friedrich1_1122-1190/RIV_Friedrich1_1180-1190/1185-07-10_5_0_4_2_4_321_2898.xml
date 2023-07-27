@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2898</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-10_5_0_4_2_4_321_2898"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-10_5_0_4_2_4_321_2898"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-07-10_5_0_4_2_4_321_2898</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2898</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-07-10" to="1185-07-10">1185
+									Juli 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Borgo S. Donnino</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Hofrichter Ido von Tortona entscheidet mit Rat der 								Hofrichter Syrus Salimbene (von Pavia) und Otto Cendadarius (von 								Mailand) sowie anderer seiner <hi rend="italic">socii</hi> die 								Streitigkeiten der Leute von Criviasca (<hi rend="italic">homines 									plebis de Griviasca</hi>) mit den Konsuln von Como wegen der 								Einhebung des Fodrums und anderer öffentlicher Abgaben zu Gunsten 								der Stadt Como. Damit wird ein früheres Urteil, das infolge der 								Missachtung einer schriftlichen Vorladung der Konsuln von Como durch 								den Kaiser (Reg. 2894) zu Gunsten der Leute von Criviasca gelautet 								hatte, nach Erscheinen der Konsuln Gualdricus Seneschalcus und 								Johannes Caza und geleisteter Genugtuung widerrufen. Nennung lokaler 								Zeugen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Scheffer-Boichorst, Zur Gesch. des 12. und 								13. Jh., 390 f.; Stumpf 4426 zu Juli 10 (13) sowie Stumpf 4425a.</p></div>
+				
+				
+					<div type="commentary"><p>Stumpf möchte das Tagesdatum <hi rend="italic">VI 									id. Julii</hi> zu <hi rend="italic">III id. Julii</hi> 								emendieren. Das kaiserliche Itinerar lässt allerdings durchaus 								Aufenthalte sowohl in Piacenza als auch in Borgo S. Donnino an ein- 								und demselben Tag zu (vgl. Reg. 2895, 2897 und 2899), oder die 								Hofrichter bzw. Hofvikare agierten, ohne dass der Kaiser selbst 								anwesend war; Stumpf 4425a verweist darauf, dass hierher 								wahrscheinlich Stumpf 4753 (= DH.VI. von 1192 Juni) gehöre; 								B.-Baaken Reg. 228 stellt dagegen klar, dass sich Stumpf 4425a 								tatsächlich auf die bei Scheffer-Boichorst, ebd., edierte 								Entscheidung des Reichsgerichts von 1185 Juli 10 bezieht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

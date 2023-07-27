@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3002</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-22_1_0_4_2_4_426_3002"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-22_1_0_4_2_4_426_3002"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-22_1_0_4_2_4_426_3002</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846548" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3002</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-22" to="1186-06-22">1186
+									Juni 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Varese (<hi rend="italic">X cal. iulii, apud Varisium</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italiae archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des erwähnten DH.III. 283a 									(VU., ed. Piattoli, Miscellanea Diplomatica II, Bull. dell’Ist. 									stor. ital. 51, 1936, 84 ff.) verfasst von GG, später, wohl im 									späten Mittelalter, interpoliert</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Wilhelm von 									Asti und Bonifaz von Novara, Elekt Konrad von Regensburg, Propst 									Friedrich von St. Thomas in Straßburg, Rudolf von Rapperswil 										(<hi rend="italic">Raprehtiswilare</hi>), Kämmerer (<hi rend="italic">camerlengus</hi>) Rudolf, Truchsess Hugo (von 									Sulz), Mundschenk Konrad (von Oberschüpf), Johannes Dianus und 									Hugo von <hi rend="italic">Barbatia</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster S. 									Paolo zu Mezzano</hi> (<hi rend="italic">beati Pauli in loco et 									fundo Mediana</hi>) nach dem Vorbild seines Vorgängers, Kaiser 								Heinrichs II. (= III.), in seinen Schutz und bestätigt ihm alle 								Rechte und Besitzungen, &amp;lt;insbesondere die Gerichtsbarkeit, das 									<hi rend="italic">merum imperium</hi> und die Grafschaft in 								seinem Gebiet&amp;gt;. <span n="witnesses">Z.: die Bischöfe Wilhelm von 									Asti und Bonifaz von Novara, Elekt Konrad von Regensburg, Propst 									Friedrich von St. Thomas in Straßburg, Rudolf von Rapperswil 										(<hi rend="italic">Raprehtiswilare</hi>), Kämmerer (<hi rend="italic">camerlengus</hi>) Rudolf, Truchsess Hugo (von 									Sulz), Mundschenk Konrad (von Oberschüpf), Johannes Dianus und 									Hugo von <hi rend="italic">Barbatia</hi></span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italiae archicanc.</hi></span>;<span n="clerk"> unter Verwendung des erwähnten DH.III. 283a 									(VU., ed. Piattoli, Miscellanea Diplomatica II, Bull. dell’Ist. 									stor. ital. 51, 1936, 84 ff.) verfasst von GG, später, wohl im 									späten Mittelalter, interpoliert</span>.<span n="incipit"> 									<hi rend="italic">Ad aeternam salutem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad aeternam salutem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem ausgehenden 15. Jh. 								im Istituto di Paleografia der Universität Florenz (C); Abschrift 								des 17. Jh., ebenda (C<hi rend="sup">1</hi>). Drucke: Campi, 								Dell’historia di Piacenza 2, 368 n<hi rend="sup">o</hi> 36 mit der 								Quellenangabe „penes illos de Scotis” (c); MG.DF.I.945. Reg.: 								Stumpf 4460.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Interpolation, zur Überlieferung – das Archiv 								der Conti Anguissola-Scotti, auf das der Druck von Campi verweist, 								befindet sich heute im Stadtarchiv Piacenza, doch ist das angebliche 								Original dort nicht auffindbar – und zur diplomatischen Kritik vgl. 								die Vorbemerkung zum D. sowie MG.DDF.I. Band 4, 777 (Nachträge und 								Berichtigungen); die echte Grundlage ist durch die Zeugenreihe wie 								auch die Datierung zu erweisen. – Zur Identifizierung des 								Mundschenken Konrad von Oberschüpf siehe schon oben Reg. 2648, zu 								der des Truchsessen Hugo von Sulz (Kr. Schwäbisch-Hall) vgl. – 								entgegen den Ausführungen in der Vorbemerkung zum D. – Plassmann, 								Struktur des Hofes, 287.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_945" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

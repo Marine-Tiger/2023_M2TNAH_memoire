@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 181</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-14_2_0_4_2_1_181_181"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-14_2_0_4_2_1_181_181"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-14_2_0_4_2_1_181_181</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236904" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 181</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-14" to="1153-06-14">1153 Juni 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVIII kal. iulii, in urbe Wormatia)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Dompropst Walter</hi>  <hi rend="spaced">Köln</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>gleiches Empfängerdiktat wie DF. I. 59, Reg. 180. Von jenem Kölner Schreiber, der in DF. I. 59 die Korrekturen vornahm und die Niederschrift zum Abschluß brachte, mundiert;</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Konrad von Worms, Gunther von Speyer, Burchard von Straßburg, Konrad von Augsburg, die Herzoge Heinrich von Bayern Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Hermann bei Rhein, Heinrich von Limburg (<hi rend="italic">Lemburc</hi>), die Grafen Heinrich von Namur (<hi rend="italic">Namuco</hi>) und Ludwig von Looz (<hi rend="italic">Lon</hi>), Hermann von Kuik (<hi rend="italic">Quich</hi>), die Grafen Gottfried von Arnsberg (<hi rend="italic">Arnisperge</hi>), Theoderich von Holland, Dompropst Walter von Köln, Domdekan Albert von Köhl, Propst Diepold von Xanten, Abt Nikolaus von Siegburg, die Pröpste Arnold vom Andreasstift (in Köln), Ulrich von Soest (<hi rend="italic">S얏saz</hi>), von den Kölner Hintersassen (<hi rend="italic">de familia beati Petri</hi>): Vogt Hermann (von Eppendorf), Heinrich von Volmarstein (<hi rend="italic">Volmůdestein</hi>), Truchseß Adolf, Amalrich (von Wormersdorf), Schenk Randolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <span sameAs="recipient"><hi rend="spaced">Dompropst Walter</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>  und dessen Nachfolgern auf Bitten Erzbischof Arnolds II. gemäß einer Urkunde König Konrads (III.) die Vogtei der Ortschaft Worringen (<hi rend="italic">de villa Worunch</hi>), die Arnold II. noch als Kölner Dompropst von Erzbischof Arnold I., der sie nach dem Tod des erbenlosen Grafen Gerhard des Jüngeren von Jülich in Händen hatte, um 100 Mark Silber unter der Bedingung erworben hatte, daß nur der jeweilige Dompropst Vogt sein soll. <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Konrad von Worms, Gunther von Speyer, Burchard von Straßburg, Konrad von Augsburg, die Herzoge Heinrich von Bayern Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Hermann bei Rhein, Heinrich von Limburg (<hi rend="italic">Lemburc</hi>), die Grafen Heinrich von Namur (<hi rend="italic">Namuco</hi>) und Ludwig von Looz (<hi rend="italic">Lon</hi>), Hermann von Kuik (<hi rend="italic">Quich</hi>), die Grafen Gottfried von Arnsberg (<hi rend="italic">Arnisperge</hi>), Theoderich von Holland, Dompropst Walter von Köln, Domdekan Albert von Köhl, Propst Diepold von Xanten, Abt Nikolaus von Siegburg, die Pröpste Arnold vom Andreasstift (in Köln), Ulrich von Soest (<hi rend="italic">S얏saz</hi>), von den Kölner Hintersassen (<hi rend="italic">de familia beati Petri</hi>): Vogt Hermann (von Eppendorf), Heinrich von Volmarstein (<hi rend="italic">Volmůdestein</hi>), Truchseß Adolf, Amalrich (von Wormersdorf), Schenk Randolf</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">gleiches Empfängerdiktat wie DF. I. 59, Reg. 180. Von jenem Kölner Schreiber, der in DF. I. 59 die Korrekturen vornahm und die Niederschrift zum Abschluß brachte, mundiert;</span> <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Quoniam humanus animus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam humanus animus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Historisches Archiv der Stadt Köln (A). Drucke: Lacomblet, Niederrhein. UB. 1, 259 n<hi rend="sup">o</hi>  376; MG. DF. I. 60. Reg.: Knipping, Reg. 2, n<hi rend="sup">o</hi>  560; Stumpf 3673.</p></div>
+				
+				
+					<div type="commentary"><p>Das in diesem Diplom erwähnte Deperditum Konrads III. könnte als Vorurkunde gedient haben. Zu den Kölner Hintersassen, die als Zeugen auftreten, vgl. Pötter, Ministerialität (Stud, zur Kölner KG 9, 1967) besonders 79, 64, 91, 67 und 94.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0066" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228403%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_60" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

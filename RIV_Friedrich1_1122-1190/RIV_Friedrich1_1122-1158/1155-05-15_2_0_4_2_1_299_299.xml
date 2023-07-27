@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 299</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-15_2_0_4_2_1_299_299"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-15_2_0_4_2_1_299_299"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-15_2_0_4_2_1_299_299</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238436" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 299</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-15" to="1155-05-15">1155 Mai 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Bologna</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus maii, in territorio Bononiensi)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Giorgio</hi>  <hi rend="spaced">Braida</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von A II. D, (ob dabei DF. I. 87 oder ein dem DH. IV. 364 gleichlautendes Deperditum eines älteren Herrschers für S. Giorgio in Braida als VU. gedient hat, läßt sich nicht mit Sicherheit festellen)</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, Eberhard von Bamberg, die Äbte Wibald von Corvey und Stablo, Markward von Fulda ( <hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Zähringen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Patriarchen Pilgrim von Aquileia und des Markgrafen Hermann von Verona den Kanonikern von <span sameAs="recipient"><hi rend="spaced">S. Giorgio</hi> </span>  in <span sameAs="recipient"><hi rend="spaced">Braida</hi> </span>  zu Verona (<hi rend="italic">ęcclesię sancti Georgii in Brayda site in suburbio civitatis Verone iuxta flumen Athesis</hi>) die namentlich angeführten Besitzungen sowie die Freiheit von Abgaben, die vielmehr ihnen zugesprochen werden (<hi rend="italic">ut fodrum et albergarias atque publicas functiones seu prestationes aut exactionum exhibitiones nulli solvant, sed hec et omnia huiusmodi in potestate canonicorum permaneant</hi>). <span n="witnesses">Z.: Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, Eberhard von Bamberg, die Äbte Wibald von Corvey und Stablo, Markward von Fulda ( <hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Zähringen </span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von A II. D, (ob dabei DF. I. 87 oder ein dem DH. IV. 364 gleichlautendes Deperditum eines älteren Herrschers für S. Giorgio in Braida als VU. gedient hat, läßt sich nicht mit Sicherheit festellen)</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si dignis nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si dignis nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archivio della Cancellaria della Nunziatura Veneta n<hi rend="sup">o</hi>  7001, Vatikanisches Archiv (A). Drucke: Cipolla, Kaiserurkunden, MIÖG 4 (1883) 224 n<hi rend="sup">o</hi>  2; MG. DF. I. 107. Reg.: Schneider, Braida (Papsttum und Kaisertum im MA = FS. Kehr, 1926) 203 n<hi rend="sup">o</hi>  6 (Regest und Druck); Stumpf 3709 a.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0101" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_107" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

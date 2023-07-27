@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 493</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_3_0_4_2_1_495_493"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_3_0_4_2_1_495_493"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-00_3_0_4_2_1_495_493</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239963" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 493</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-01" to="1157-10-31">(1157 Oktober)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Besançon)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Arles</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erklärt das von den Bewohnern von Marseille (<hi rend="italic">Massilienses</hi>) mit dem Grafen von der Provence (<hi rend="italic">comiti Prouincie</hi>) ohne seine und des Erzbischofs (<hi rend="italic">Silvius</hi>) von <span sameAs="recipient"><hi rend="spaced">Arles</hi> </span>  Einwilligung vorgenommene Tauschgeschäft über ein Lehen, das sie vom Erzbischof innehatten, für ungültig, weil alle Güter, die vom Reich herrühren, nach dem Lehenrecht besessen werden und nicht ohne Zustimmung des Herrn in die Herrschaft eines anderen übertragen werden dürfen. - Wohl vom gleichen Diktator wie DF. I. 188 (Reg. 494). <span n="incipit"><hi rend="italic">Novit vestre discretionis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Novit vestre discretionis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Livre noir des Erzbistums Arles aus dem 12. Jh. f. 4. Departementalarchiv Marseille (B) ; Livre autographe aus dem 13. Jh. f. 3' ebenda (C) ; Livre vert aus dem 13. Jh. f. 1' ebenda (D); Livre rouge aus dem 13. Jh. f. 2 ebenda (E). Drucke: MG. Const. 1, 235 n<hi rend="sup">o</hi>  169; Gallia Christ, noviss. 3, 229 n<hi rend="sup">o</hi>  591; MG. DF. I. 187. Reg.: Stumpf 3782 a.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Nach der Nennung des Königs von Aragon und dessen über die Provence herrschenden Bruders in den beiden kaiserlichen Schreiben sind diese nicht zu 1157, sondern spater, höchstwahrscheinlich zu einem bisher nicht bekannten Hoftag Barbarossas in Besançon im Jahre 1170 einzurei­hen, vgl. dazu Fried, Barbarossas Krönung in Arles, HJb. 103 (1983) 359 mit Anm. 69. Der in den beiden Schreiben erwähnte Erzbischof von Arles war daher Raimund und nicht Silvius.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1331129178" value="2012-03-07"></date><p n="author">Stefan Weiß</p><p>Der zeitgenössische Erzbischof von Arles hieß nicht Silvius, sondern Raimund. Er amtierte von 1142-1160, worüber man in Chevalier, Gallia christiana novissima III, Sp. 212 ff. nachlesen kann. </p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0168" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_187" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

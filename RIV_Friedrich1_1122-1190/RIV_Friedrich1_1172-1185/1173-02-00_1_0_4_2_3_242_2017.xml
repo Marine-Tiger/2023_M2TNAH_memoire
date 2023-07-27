@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2017</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-02-00_1_0_4_2_3_242_2017"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-02-00_1_0_4_2_3_242_2017"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-02-00_1_0_4_2_3_242_2017</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453291570" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2017</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-02-01" to="1173-02-28">1173  Februar — März</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Mark Ancona — Assisi — Spoleto</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Christian von Mainz, Reichslegat für Italien, geht im Herzogtum Spoleto und in der Mark (Ancona) gegen viele Burgen vor, nimmt etliche ein und unterwirft die Städte Assisi und Spoleto seiner Herrschaft.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 265; <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/db4252c7-a42a-4316-8c69-585085891bbb.html" type="internal" n="regesten">112</ref> (zu 1173 Februar bis April).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Schubring, Herzoge von Urslingen, 28. — Die zeitliche Einordnung ergibt sich aus Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-04-01_1_0_4_2_3_246_2021.html" type="internal" n="regesten">2021</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Im Zusammenhang mit der Unterwerfung Spoletos unter die Reichsherrschaft im Frühjahr 1173 ist auf die überaus aufschlussreiche Datierung einer Urkunde des Bischofs Viteclinus von Spoleto vom Mai 1173 hinzuweisen, in der nicht nur der Gegepapst Calixt III. erwähnt, sondern auch der Kaiser mit dem aufschlussreichen <hi rend="italic">Epitheton pissimus</hi> (… <hi rend="italic">sub piissimo inperatore Frederico, Calixto in sede romana residente</hi>) bezeichnet wird, vgl. dazu Sprenger, Heiligkeit von Kaiser und Reich, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 193 f., mit dem Hinweis darauf, dass Viteclinus noch 30 Jahre nach dem Frieden von Venedig als Schismatiker genannt wird. Die Urkunde des Jahres 1173 findet sich bei Celli, Le Pergamene del Capitolo della Chiesa Cattedrale di S. Maria di Spoleto (Archivio Storico Ecclesiastico Spoletino Nursino 2, 1984) 65–67 no 18.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0090" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

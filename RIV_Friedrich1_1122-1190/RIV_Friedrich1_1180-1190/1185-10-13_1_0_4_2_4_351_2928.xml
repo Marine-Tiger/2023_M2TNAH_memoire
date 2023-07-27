@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2928</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-10-13_1_0_4_2_4_351_2928"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-10-13_1_0_4_2_4_351_2928"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-10-13_1_0_4_2_4_351_2928</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2928</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-10-13" to="1185-10-13">1185
+									Oktober 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Imola">Imola</placeName>
+												<location><geo decls="#WGS">44.3667, 11.7167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Berthold von Hohkönigsburg (<hi rend="italic">Cunigisberc</hi>), Reichslegat für Italien, verleiht Bischof 								Heinrich von Imola (<hi rend="italic">ecclesie S. Cassiani</hi>) die 								Herrschaftsrechte und die Gerichtsbarkeit (<hi rend="italic">regimen 									populi ac loci … ad iustitiam tenendam et faciendam …</hi>) über 								S. Cassiano und weitere namentlich angeführte Besitzungen seiner 								Kirche vorbehaltlich der Rechte des Kaisers und dessen Boten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Böhmer, Acta imp. sel., 603 n<hi rend="sup">o</hi> 892; Gaddoni – Zaccherini, Chart. Imolense II, 354 n<hi rend="sup">o</hi> 764.</p></div>
+				
+				
+					<div type="commentary"><p>Bertholds Funktion als Reichslegat wird in der 								Angabe des Notars (<hi rend="italic">… ego Pizolus Imolensis 									notarius mandato domini Bretuldi de Cunigisberc legati domini 									Federici imperatoris in Italia)</hi> erwähnt. Er war in diesem 								Jahr sowohl während des Aufenthalts des Kaisers in der 								Emilia-Romagna im Februar und März als auch dann während dessen 								Zuges nach Mittelitalien im Sommer mehrfach bei Hofe gewesen, vgl. 								dazu Regg. 2859, 2862 und 2863 sowie 2914, 2919 und 2911. – Vgl. 								Ficker, Forschungen 2, 144, Kauffmann, Die italienische Politik 								Kaiser Friedrichs I. (Greifswalder Abhandlungen zur Gesch. d. 								Mittelalters 3, 1933) 87 (zu Oktober 15), und Haverkamp, 								Herrschaftsformen, 256 Anm. 364. – Zum politischen Umfeld vgl. Opll, 								Stadt und Reich, 294; hier sei auch darauf hingewiesen, dass die 								Imolesen ihrem Podestà Burchard (dem Bruder Bertholds von 								Hohkönigsburg) im Jahre 1185 200 Pfund als Heerfahrtsablöse 								entrichteten, vgl. Ficker, Forschungen 2, 219 mit Anm. 11. – Vgl. 								dazu auch Reg. 3023.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

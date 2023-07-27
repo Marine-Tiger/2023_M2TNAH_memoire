@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2402</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-14_1_0_4_2_3_630_2402"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-14_1_0_4_2_3_630_2402"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-14_1_0_4_2_3_630_2402</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604699" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2402</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-14" to="1178-07-14">1178 Juli 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Burg Briançon im Gebiet von Embrun</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(pridie idus iulii mensis, in territorio Ebredunensi apud castrum Brienzun)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Von unbekannter Hand in kanzleigemäßer äußerer Form nach dem Diktat Burkhards geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Markgrafen Wilhelm von Montferrat</hi>  die Privilegien Kaiser Heinrichs (IV. oder V.?) und König Konrads (III.) über die Besitzungen der Söhne des (Markgrafen?) Ardicio. — <span n="clerk">Von unbekannter Hand in kanzleigemäßer äußerer Form nach dem Diktat Burkhards geschrieben</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Dignum et rationi</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignum et rationi</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Turin (A). Drucke: Gasparolo, Cartario Alessandrino, BSSS 117 (1930) 76 n<hi rend="sup">o</hi>  472; MG.DF.I.739. Faks.: Popolo e Stato in Italia nell'età di Federico Barbarossa, 244. Regg.: Chevalier, Reg.dauphinois 1, 779 n<hi rend="sup">o</hi>  4683; Stumpf 4254.</p></div>
+				
+				
+					<div type="commentary"><p>Über die erwähnten Vorurkunden ist nichts bekannt, vgl. DK.III. *272.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0223" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_739" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 482</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-09-00_1_0_4_2_1_484_482"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-09-00_1_0_4_2_1_484_482"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-09-00_1_0_4_2_1_484_482</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 482</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-09-01" to="1157-09-30">1157 (September)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Krzyszkowo im Bistum Posen</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Boleslav (IV.)</hi>  <hi rend="spaced">Polen</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog <span sameAs="recipient"><hi rend="spaced">Boleslav (IV.)</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Polen</hi> </span>  unterwirft sich nach Intervention der Fürsten, besonders des Herzogs Vladislav von Böhmen, dem Kaiser und wird unter folgenden Bedingungen wieder in Gnade aufgenommen: Er schwört für sich und alle Polen, daß sein im Exil lebender Bruder, (Wladislaw II.), nicht zur Schande des römischen Reiches vertrieben worden sei, er gelobt, wegen des Versäumnisses, bei Hofe zu erscheinen und den Treueid zu leisten, dem Kaiser 2000, den Fürsten 1000 und der Gemahlin des Kaisers 20 Mark Gold und dem Hof 200 Mark Silber zu geben, er schwört, am Italienzug des Kaisers mit 300 Mann teilzunehmen und wird am Hoftag in Magdeburg zu Weihnachten (Reg. 510) erscheinen, um sich dort gegenüber der Klage seines vertriebenen Bruders ausführlich zu verantworten. Nach Leistung des Treueides muß Boleslav noch Geiseln, darunter seinen Bruder Kasimir und andere Edelleute, stellen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Bericht Friedrichs an Wibald von Stablo in DF. I. 181 (Reg. 483), Rahewini Gesta Frid. l. III cap. 4 und 5, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 169 f.; die Zahl der Mannschaft für den Italienzug bei Can. Prag. Cont. Cosmae II, MG. SS IX, 164; Vinzenz von Prag, MG. SS XVII, 667 nennt unter den polnischen Geiseln den <hi rend="italic">filius unicus principis Laske</hi>. Zum polnischen Feldzug Barbarossas vgl. auch Carmen de gestis V. 1589 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 52 f., sowie weiters Ann. Campolil., ed. Haider, MIÖG 82 (1974) 115, Ann. cap. Cracov., MG. SS XIX, 591, Ann. Fossenses, MG. SS IV, 31, Ann. Lubinenses, MG. SS XIX, 579, Ann. Magdeburg., MG. SS XVI, 191, Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol. 49, Ann. Palid., MG. SS XVI, 90, Ann. Prag., MG. SS III, 120, Ann. Ratispon., MG. SS XVII, 587, Ann. s. Rudberti Salisburg., MG. SS IX, 776, Ann. Scheftlar. mai., MG. SS XVII, 336, Ann. Seldental., ed. Böhmer, Font. rer. Germ. 3, 526, Auct. Zwetl., MG. SS IX, 540, Chron. Montis Sereni, MG. SS XXIII, 151, Cont. Admunt., MG. SS IX, 582, Cron. s. Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 179, Mon. Sazav. Cont. Cosmae, MG. SS IX, 160, Otto von St. Blasien cap. 7, ed. Hofmeister, MG. SS rer. Germ. in us. schol. 7, Vinzenz von Prag, MG. SS XVII, 666 f. und die späten Quellen Dlugosz, Hist. Polon. 1 (1711) Sp. 491 ff. und Vincentii Chron. Polon., MG. SS XXIX, 493.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Polenfeldzug vgl. Simonsfeld, Jahrbücher 544 ff. und Holtzmann, Polenfeldzug, Zs. d. Ver. f. Gesch. Schlesiens 56 (1922) 42 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0162" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

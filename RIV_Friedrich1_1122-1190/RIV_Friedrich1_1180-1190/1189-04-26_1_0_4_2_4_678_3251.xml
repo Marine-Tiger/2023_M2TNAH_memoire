@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3251</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-26_1_0_4_2_4_678_3251"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-26_1_0_4_2_4_678_3251"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-04-26_1_0_4_2_4_678_3251</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3251</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-04-26" to="1189-04-26">1189
+									April 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Giengen (<hi rend="italic">VI kal. maii, Giengin</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Empfängerausfertigung unter weitgehender 									Heranziehung von D.71 (Reg. 209; VU.)</scribe>
+				
+				
+					<testis function="witnesses">die Söhne des 									Kaisers, Herzog Friedrich von Schwaben, Otto (Pfalzgraf von 									Burgund), Konrad (von Rothenburg) und Propst Philipp von Aachen 										(<hi rend="italic">Achie</hi>), Graf Ulrich von Berg, Graf 									Berthold von Hohenzollern und Wittigo von Albeck</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster</hi> 								<hi rend="spaced">Allerheiligen zu Schaffhausen</hi> (<hi rend="italic">cęnobium apud villam Scaphusam</hi>) die ihm von 								den Kaisern Heinrich IV. und Heinrich V. sowie seinem Oheim, König 								Konrad II. (III.), wie auch von Päpsten verliehene Immunität und 								eine Reihe namentlich angeführter Besitzungen, darunter auch die dem 								Kloster in Gegenwart des Kaisers zu Brescia zugesicherte Kirche zu 								Büßlingen (vgl. Reg. 2839). <span n="witnesses">Z.: die Söhne des 									Kaisers, Herzog Friedrich von Schwaben, Otto (Pfalzgraf von 									Burgund), Konrad (von Rothenburg) und Propst Philipp von Aachen 										(<hi rend="italic">Achie</hi>), Graf Ulrich von Berg, Graf 									Berthold von Hohenzollern und Wittigo von Albeck</span>. –<span n="clerk"> Empfängerausfertigung unter weitgehender 									Heranziehung von D.71 (Reg. 209; VU.)</span>; <span n="seal">SI.2. </span><span n="incipit"><hi rend="italic">Regia pietate 										commonitus</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regia pietate 										commonitus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Schaffhausen 								(A). Kop.: Vidimus des Bischofs Rudolf III. von Konstanz von 								1331 März 21 (Reg. episc. Constant. 2, n<hi rend="sup">o</hi> 								4259), ebenda (B). Drucke: Escher – Schweizer, Zürcher UB. 1, 								230 n<hi rend="sup">o</hi> 350; MG.DF.I.996. Regg.: Hidber 2, 									n<hi rend="sup">o</hi> 2603; Urkundenregister für Schaffhausen 								1, 12 n<hi rend="sup">o</hi> 88; Diestelkamp – Rotter, 								Urkundenregesten 1, 405 n<hi rend="sup">o</hi> 515; Stumpf 4518.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik, vor allem zu den 								äußeren Merkmalen des Stückes vgl. die Vorbemerkung zum D. – Im 								DH.VI. für Abt und Konvent sowie die Bürger von Schaffhausen von 								(1191–1194) erwähnt Heinrich VI., dass ihm sein verstorbener Vater 								aufgetragen habe, weder das Kloster noch die Stadt Schaffhausen 								jemals dem Reich zu entfremden, vgl. B.-Baaken Reg. 619.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

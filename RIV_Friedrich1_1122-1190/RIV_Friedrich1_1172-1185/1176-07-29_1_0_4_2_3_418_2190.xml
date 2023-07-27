@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2190</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-07-29_1_0_4_2_3_418_2190"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-07-29_1_0_4_2_3_418_2190"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-07-29_1_0_4_2_3_418_2190</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599544" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2190</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-07-29" to="1176-07-29">1176 Juli 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII<hi rend="sup">o</hi>  kalend. augusti mensis, Papię apud sanctum Saluatorem)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Phylippi Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Einfluß der Cremonesen auf die Formulierung der dispositiven Sätze (Anklänge an DF.I.660 = Reg. 2213) verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Z. (<hi rend="italic">tam de Teutonicis quam de Lombardis</hi>): die Erzbischöfe Wichmann von Magdeburg und Philipp von Köln, Erzkanzler für Italien, die Bischöfe Hermann von Münster, Adelog (<hi rend="italic">Adilo</hi>) von Hildesheim, Hugo von Verden, Arnold von Osnabrück (<hi rend="italic">Osemburgensis</hi>) und Siegfried von Brandenburg, die Äbte (Wolfram) von Werden und Konrad von Murbach, Landgraf Ludwig von Thüringen, die Grafen Florentius von Holland und sein Bruder Otto sowie Heinrich von Diez, Marschall Heinrich, Kämmerer Kuno von Münzenberg, Mundschenk Konrad und Truchseß Walter; von den Lombarden die Markgrafen Wilhelm von Montferrat und Murmel, der Sohn des Markgrafen Obizo Malaspina, Graf Rainer von Biandrate, Cavalcasella und sein Bruder Martin von Castello d'Agogna; aus Pavia Carbo und Syrus, Billonus de Curte, Burgundio, Assalitus und Businardus; die Cremonesen Konsul Wizhardus Dodonis, Pontius <hi rend="italic">de Geroldis</hi>, Gerardus von Dovera, Homobonus von Trezzo und Ribaldus <hi rend="italic">de Pescarola</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der <hi rend="spaced">Stadt Cremona</hi>  und ihren Konsuln alle Nutzungs- und Gewohnheitsrechte in ihrem Hoheitsbereich in der Stadt, den Vorstädten und der Diözese samt dem Recht der Wahl der Konsuln, ein Drittel von Luzzara und Guastalla, ihre Rechte am Po innerhalb der Diözese und darüber hinaus hinsichtlich des Handels, des Brückenbaus und der Einhebung von Abgaben, den freien und gegen Dritte mit dem kaiserlichen Bann geschützten Verkehr auf dem Po und anderen Verkehrswegen, alle Reichsrechte in der Burg Crema und zwischen Adda und Oglio innerhalb ihrer Diözese und ihres Distrikts, wo weder er noch andere künftig Befestigungen anlegen werden, und verbrieft alle seine früheren Privilegien. <span n="witnesses">Z. (<hi rend="italic">tam de Teutonicis quam de Lombardis</hi>): die Erzbischöfe Wichmann von Magdeburg und Philipp von Köln, Erzkanzler für Italien, die Bischöfe Hermann von Münster, Adelog (<hi rend="italic">Adilo</hi>) von Hildesheim, Hugo von Verden, Arnold von Osnabrück (<hi rend="italic">Osemburgensis</hi>) und Siegfried von Brandenburg, die Äbte (Wolfram) von Werden und Konrad von Murbach, Landgraf Ludwig von Thüringen, die Grafen Florentius von Holland und sein Bruder Otto sowie Heinrich von Diez, Marschall Heinrich, Kämmerer Kuno von Münzenberg, Mundschenk Konrad und Truchseß Walter; von den Lombarden die Markgrafen Wilhelm von Montferrat und Murmel, der Sohn des Markgrafen Obizo Malaspina, Graf Rainer von Biandrate, Cavalcasella und sein Bruder Martin von Castello d'Agogna; aus Pavia Carbo und Syrus, Billonus de Curte, Burgundio, Assalitus und Businardus; die Cremonesen Konsul Wizhardus Dodonis, Pontius <hi rend="italic">de Geroldis</hi>, Gerardus von Dovera, Homobonus von Trezzo und Ribaldus <hi rend="italic">de Pescarola</hi> </span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Phylippi Coloniensis archiep. et Ytalie archicanc.</hi> </span>; <span n="clerk">unter Einfluß der Cremonesen auf die Formulierung der dispositiven Sätze (Anklänge an DF.I.660 = Reg. 2213) verfaßt und geschrieben von Burkhard</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Imperatorię benignitas clementię</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię benignitas clementię</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Cremona(A). Drucke: Stumpf, Acta ined. 209 n<hi rend="sup">o</hi>  156; Falconi, Carte Cremonesi III, 217 n<hi rend="sup">o</hi>  529; MG.DF.I.653. Faks.: Koch, Schrift der Reichskanzlei Abb. 78 Teilfaks. Regg.: Astegiano, CD.Cremonae 1, 147 n<hi rend="sup">o</hi>  323; Torelli, Reg.Mantovano 1, 251 n<hi rend="sup">o</hi>  378; Stumpf 4181.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Riedmann, Reichskanzlei 98 Anm. 64, und Opll, Stadt und Reich, 258. — Zur Aussöhnung mit Cremona, die sich schon seit längerem abgezeichnet hatte, vgl. auch die Hinweise bei Gottfried von Viterbo, Gesta Friderici, MG. SS XXII, 329 V. 976 ff., und in der Hist. ducum Venet., MG. SS XIV, 82.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0148" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_653" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

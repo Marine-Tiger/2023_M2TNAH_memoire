@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1454</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-02-26_1_0_4_2_2_896_1454"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-02-26_1_0_4_2_2_896_1454"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-02-26_1_0_4_2_2_896_1454</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246839" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1454</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-02-26" to="1165-02-26">1165 Februar 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  kal. marcii, apud Altenburg)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Meißen</hi></recipient>
+				
+				
+				
+					<scribe>Unter Einfluß von RG verfaßt und geschrieben von UB, das Monogramm stammt von der Hand des RG</scribe>
+				
+				
+					<testis function="witnesses">König Vladislav (von Böhmen) und seine Brüder Theobald und Heinrich, Erzbischof Wichmann von Magdeburg, die Bischöfe Eberhard von Bamberg, Hermann von Verden, Daniel von Prag, Gerung von Meißen und Johannes von Merseburg, Markgraf Albrecht (der Bär), Markgraf Otto (von Meißen), Markgraf Dietrich (von der Lausitz), Landgraf Ludwig (von Thüringen), die Grafen Dedo (von Groitzsch), Heinrich (von Wettin) und Friedrich (von Brehna), Präfekt (Burggraf) Hermann von Meißen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht der bischöflichen Kirche zu <span sameAs="recipient"><hi rend="spaced">Meißen</hi> </span>  (<hi rend="italic">ęcclesie Misinensi, que in honore beati Iohannis apostoli et ęvangelistę et beati Donati consecrata est</hi>) das Dorf Prischwitz im Gau Milzana (um Bautzen), das König Vladislav von Böhmen als Reichslehen innegehabt und ihm zur Wiedergutmachung des der genannten Kirche durch ihn zugefügten Schadens aufgelassen hat. <span n="witnesses">Z.: König Vladislav (von Böhmen) und seine Brüder Theobald und Heinrich, Erzbischof Wichmann von Magdeburg, die Bischöfe Eberhard von Bamberg, Hermann von Verden, Daniel von Prag, Gerung von Meißen und Johannes von Merseburg, Markgraf Albrecht (der Bär), Markgraf Otto (von Meißen), Markgraf Dietrich (von der Lausitz), Landgraf Ludwig (von Thüringen), die Grafen Dedo (von Groitzsch), Heinrich (von Wettin) und Friedrich (von Brehna), Präfekt (Burggraf) Hermann von Meißen</span>. - <span n="clerk">Unter Einfluß von RG verfaßt und geschrieben von UB, das Monogramm stammt von der Hand des RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Divinis et salutaribus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Divinis et salutaribus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Dresden (A). Drucke: Friedrich, CD. Bohemiae 1, 202 n<hi rend="sup">o</hi>  223; MG. DF. I. 473. Faks.: Beck -Unger, ... mit Brief und Siegel (Leipzig 1979) 32. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  288; Stumpf 4040.</p></div>
+				
+				
+					<div type="commentary"><p>Die Auflösung des Ortsnamens ergibt sich aus einem Dorsualvermerk des 15. Jh.: <hi rend="italic">villa Prisser seu Prezez</hi>  (vgl. die Vorbemerkung zum D.). - Zum Inhalt vgl. auch die Urkunde König Vladislavs von 1160, Friedrich, a. a. O. 197 n<hi rend="sup">o</hi>  210.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1413555496" value="2014-10-17"></date><p n="author">Eckhart Leisering</p><p>Bei dem in der Urkunde genannten Ort handelt es sich nicht um Prischwitz bei Bautzen, sondern um Prietitz bei Kamenz. Dies wird durch den Vergleich mit anderen frühen Belegen für beide Orte im Historischen Ortsnamenbuch von Sachsen, hrsg. v. Ernst Eichler und Hans Walther (Quellen und Forschungen zu Sächsischen Geschichte, Bd. 21), Bd. 2, Berlin 2001, S. 222f. und im Digitalen historischen Ortsverzeichnis von Sachsen unter
+</p>
+<p><ref target="http://hov.isgv.de/Prietitz" type="external" n="unkown">hov.isgv.de/Prietitz</ref>
+</p>
+<p>und
+</p>
+<p><ref target="http://hov.isgv.de/Prischwitz" type="external" n="unkown">hov.isgv.de/Prischwitz</ref>
+</p>
+<p>sehr deutlich. Beide genannte Publikationen ordnen die Belegstelle von 1165 daher Prietitz zu.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0236" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%222024%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_473" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

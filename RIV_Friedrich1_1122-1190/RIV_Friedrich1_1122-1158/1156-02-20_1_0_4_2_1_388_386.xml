@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 386</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-20_1_0_4_2_1_388_386"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-20_1_0_4_2_1_388_386"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-02-20_1_0_4_2_1_388_386</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238934" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 386</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-02-20" to="1156-02-20">1156 Februar 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. marcii, Frankenfort)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Guido</hi>  <hi rend="spaced">Biandrate</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben von Rainald C, am Diktat waren wohl Heribert und AH (Albert) beteiligt, der auch das Monogramm eintrug</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Mainz, Arnold von Köln, Hartwig von Bremen, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Gebhard von Würzburg, Gunther von Speyer, Burchard von Straßburg, Konrad von Worms, die Herzoge Heinrich von Sachsen, Berthold von Burgund, Konrad, der Bruder des Kaisers, Friedrich von Schwaben, Landgraf Ludwig von Thüringen, die Pfalzgrafen Otto und Friedrich von Wittelsbach, die Grafen Friedrich von Beichlingen, Berthold von Andechs und Emicho von Leiningen, Markward von Grumbach und Ulrich von Herrlingen, weiters die Grafen Goswin von Heinsberg und Hugo von Dagsburg. Zusätzlich wird dem Grafen von Biandrate die Gerichtsbarkeit in seiner Grafschaft bestätigt</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt den Grafen <span sameAs="recipient"><hi rend="spaced">Guido</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Biandrate</hi> </span>  in seinen Schutz, bestätigt ihm alle Besitzungen und Rechte (<hi rend="italic">terras seu honores</hi>), die er durch Privilegien seiner Vorgänger besitzt, insbesondere den alleinigen Gerichtsstand vor dem König und das Geleitrecht in der Grafschaft des Bistums Novara(<hi rend="italic">conductum per totum comitatum episcopatus Nouarie</hi>), und billigt den Leuten des Grafen in den Diözesen Novara, Vercelli und Ivrea die gleichen Handelsrechte wie den Kaufleuten dieser Städte zu (<hi rend="italic">homines eiusdem comitis vendendi et emendi talem iusticiam habeant per totum episcopatum Nouarię, Vercellis et Eporeie, qualem earundem civitatum mercatores habere noscuntur</hi>). <span n="witnesses">Z.: die Erzbischöfe Arnold von Mainz, Arnold von Köln, Hartwig von Bremen, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Gebhard von Würzburg, Gunther von Speyer, Burchard von Straßburg, Konrad von Worms, die Herzoge Heinrich von Sachsen, Berthold von Burgund, Konrad, der Bruder des Kaisers, Friedrich von Schwaben, Landgraf Ludwig von Thüringen, die Pfalzgrafen Otto und Friedrich von Wittelsbach, die Grafen Friedrich von Beichlingen, Berthold von Andechs und Emicho von Leiningen, Markward von Grumbach und Ulrich von Herrlingen, weiters die Grafen Goswin von Heinsberg und Hugo von Dagsburg. Zusätzlich wird dem Grafen von Biandrate die Gerichtsbarkeit in seiner Grafschaft bestätigt</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi> </span>; <span n="clerk">geschrieben von Rainald C, am Diktat waren wohl Heribert und AH (Albert) beteiligt, der auch das Monogramm eintrug</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Imperialis excellentia fideles</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis excellentia fideles</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv der Grafen von Biandrate zu Turin (A). Drucke: Böhmer, Acta imp. 90 n<hi rend="sup">o</hi>  97; Faccio-Ranno, I Biscioni, BSSS 145 (1934) 97 n<hi rend="sup">o</hi>  27 zu Februar 21; MG. DF. I. 134. Reg.: Stumpf 3736.</p></div>
+				
+				
+					<div type="commentary"><p>Die von Simonsfeld in den SB. München 1911, 14. Abh., 21 vorgebrachten Bedenken gegen die Echtheit sind vor allem durch die Feststellung der Entstehung in der Reichskanzlei erledigt. - Nachurk.: B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-09-00_1_0_4_2_3_569_2341.html" type="internal" n="regesten">2341</ref>. - Die Hinzufügung zweier Zeugen und des Gerichtsbarkeitspassus stammt von der Hand des Mundators und könnte von AH (Albert) veranlaßt worden sein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0127" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_134" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

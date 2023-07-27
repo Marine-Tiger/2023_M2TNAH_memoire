@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2789</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-09_1_0_4_2_4_210_2789"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-09_1_0_4_2_4_210_2789"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-10-09_1_0_4_2_4_210_2789</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844293" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2789</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-10-09" to="1184-10-09">1184
+									Oktober 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pavia (<hi rend="italic">VII idus octobris, Papie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>In der Kanzlei verfasst und sicherlich auch – möglicherweise von 									GG – geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Eberhard von Merseburg, 									Heinrich von Verdun und Lanfrancus von Pavia, die Äbte Siegfried 									von Hersfeld und Gregor von Prüm, Rudolf, Propst (von St. 									Johannes in Mainz) und Protonotar des kaiserlichen Hofes, 									Landgraf Ludwig von Thüringen, die Grafen Gerhard von 									Looz/Borgloon und Simon von Sponheim, die Burggrafen Konrad von 									Nürnberg und Heinrich von Regensburg, Marschall Heinrich von 									(Kaisers-)Lautern, Mundschenk Konrad (von Oberschüpf), Kämmerer 									Rudolf und Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt den <hi rend="spaced">Söhnen des 									Bertrand von Baux, Wilhelm, Bertrand und Hugo,</hi> in 								Anerkennung der Verdienste ihres Vaters und dessen Brüder das 								Münzrecht in der Stadt Orange und bestätigt ihnen das ihrem 								Großvater (Raimund) von Konrad (III.) verliehene Banneramt (<hi rend="italic">vexilliferatum</hi>) im Gebiet von den Alpen bis 								zur Rhône und von der Isère bis zum Meer. Rechte, die jemand im 								Hinblick auf dieses Lehen haben sollte, sollen jedoch gewahrt 								bleiben. Weiters bestätigt er die ihnen durch (den Seigneur de 								Grignan) Géraud Adhémar gemachte Schenkung, überträgt ihnen auf ihre 								Bitten Villeneuve-lès-Avignon, dessen Einwohner unter Vorbehalt der 								Reichsrechte von Abgaben (<hi rend="italic">physcum dare non 									cogantur aut pulmentacionem</hi>) frei sein sollen, verbietet 								ihnen, von ihren Leuten weder zu Lande noch zu Wasser neue, sondern 								nur die üblichen <hi rend="italic">pedagia</hi> einzuheben, und legt 								fest, dass sie ihre Lehen stets direkt vom Reichsoberhaupt empfangen 								müssen. <span n="witnesses">Z.: die Bischöfe Eberhard von Merseburg, 									Heinrich von Verdun und Lanfrancus von Pavia, die Äbte Siegfried 									von Hersfeld und Gregor von Prüm, Rudolf, Propst (von St. 									Johannes in Mainz) und Protonotar des kaiserlichen Hofes, 									Landgraf Ludwig von Thüringen, die Grafen Gerhard von 									Looz/Borgloon und Simon von Sponheim, die Burggrafen Konrad von 									Nürnberg und Heinrich von Regensburg, Marschall Heinrich von 									(Kaisers-)Lautern, Mundschenk Konrad (von Oberschüpf), Kämmerer 									Rudolf und Werner von Bolanden</span>. –<span n="clerk"> 									In der Kanzlei verfasst und sicherlich auch – möglicherweise von 									GG – geschrieben</span>.<span n="incipit"> 									<hi rend="italic">Familiare habet et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Familiare habet et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im 								Departementalarchiv zu Marseille B 1069 f. 229 (B). Drucke: 								Barthélemy, Inventaire des chartes de la maison de Baux, 22 n<hi rend="sup">o</hi> 84; MG.DF.I.869. Regg.: Chevalier, Rég. 								dauphinios 1, 820 n<hi rend="sup">o</hi> 4923; De Font-Réaulx, Le 								Trésor des Chartes des Baux, Provence historique 4 (1954) 148; Dolch 								– Münch, UB. der Stadt Kaiserslautern 1, 56 n<hi rend="sup">o</hi> 								30.</p></div>
+				
+				
+					<div type="commentary"><p>Wiewohl eine urkundliche Verleihung des 								Banneramtes durch Konrad III. an Raimund von Baux nicht bekannt ist 								(vgl. Hirsch, Urkundenfälschungen, 109), ist eine solche angesichts 								der bedeutenden Rolle des Geschlechtes durchaus glaubhaft, vgl. dazu 								die Vorbemerkung zum D. – Zur Stadtherrschaft des Hauses Baux in 								Orange vgl. auch Reg. 2790 und Opll, Stadt und Reich, 488 f. – 								Protonotar Rudolf, der in D. 853 als Wormser Domkanoniker bezeichnet 								wird, war nach diesem in der vorliegenden Literatur übersehenen 								Beleg schon am 9. Oktober 1184 Propst von St. Johannes zu Mainz, 								vgl. dazu Appelt, in: MG.DDF.I., Bd. 5, 24 mit Anm. 34.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_869" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

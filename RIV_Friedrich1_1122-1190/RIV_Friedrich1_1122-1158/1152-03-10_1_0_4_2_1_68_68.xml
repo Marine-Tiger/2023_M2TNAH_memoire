@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 68</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-10_1_0_4_2_1_68_68"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-10_1_0_4_2_1_68_68"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-03-10_1_0_4_2_1_68_68</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235297" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 68</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-03-10" to="1152-03-10">1152 März 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Aachen  (in palatio Aquisgrani)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Remi</hi>  <hi rend="spaced">Reims</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldvs canc. vice Heinrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und möglicherweise auch geschrieben von Wibald</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Hillin von Trier, die Bischöfe Heinrich von Lüttich, Friedrich von Münster, Otto von Freising, Ortlieb (<hi rend="italic">Orthleuus</hi>) von Basel, Hermann (irrig: <hi rend="italic">Heinricus</hi>) von Konstanz, Markgraf Albrecht von Brandenburg, die Herzoge Heinrich von Sachsen, Matthäus von Oberlothringen, Gottfried von Löwen, die Grafen Heinrich von Namur, Heinrich von Limburg (<hi rend="italic">Lemburch</hi>) und sein Bruder Gerard, Konrad von Dalhem</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Remi</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Reims</hi> </span>  (<hi rend="italic">cenobii sancti Remigii confessoris et Francorum apostoli, quod est in regno Francorum Remis</hi>) auf Bitten von dessen Abt Hugo, der am zweiten Tag nach seiner Krönung in der Aachener Pfalz vor ihm erschienen ist, alle in seinem Reich gelegenen Besitzungen, besonders das zu Meerssen gehörige Gut Leuth (<hi rend="italic">Littam, que ad Marsnam pertinet</hi>), das Herzog Gottfried von Löwen erst nach Ermahnung durch König Konrad (III.) zurückgestellt hat, trifft eingehende Bestimmungen über die Vogtei, verbietet zusätzlich die Einsetzung von Untervögten und verordnet, daß die Meerssener Pfründen nach dem Tod ihrer Inhaber ohne Einspruch zur weiteren Verfügung der Mönche stehen sollen. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Hillin von Trier, die Bischöfe Heinrich von Lüttich, Friedrich von Münster, Otto von Freising, Ortlieb (<hi rend="italic">Orthleuus</hi>) von Basel, Hermann (irrig: <hi rend="italic">Heinricus</hi>) von Konstanz, Markgraf Albrecht von Brandenburg, die Herzoge Heinrich von Sachsen, Matthäus von Oberlothringen, Gottfried von Löwen, die Grafen Heinrich von Namur, Heinrich von Limburg (<hi rend="italic">Lemburch</hi>) und sein Bruder Gerard, Konrad von Dalhem</span>. - <span n="chancellor"><hi rend="italic">Arnoldvs canc. vice Heinrici Moguntini archiep. et archicanc.</hi> </span>; VUU.: DD. K. III. 6 und 140; <span n="clerk">verfaßt und möglicherweise auch geschrieben von Wibald</span>. <span n="incipit"><hi rend="italic">Si venerabilium ac religiosorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si venerabilium ac religiosorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Cartulaire B von S. Remi Anf. 13. Jh. p. 104, Departementalarchiv Reims (B); drei Abschriften des 18. Jh. eines Transsumptes Herzog Antons von Lothringen von 1412 April 6: bei Charter n<hi rend="sup">o</hi>  14 (E<hi rend="sup">1</hi>), Cart. 17380 p. 1 (E<hi rend="sup">2</hi>) und Cart. 17387 n<hi rend="sup">o</hi>  7 (E<hi rend="sup">3</hi>), Reichsarchiv Maastricht. Drucke: MG. DF. I. 2. Reg.: Wauters, Table chronol. 2, 357; Stumpf 3617.</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierung dieses Diploms ergibt sich aus der Narratio, in der es heißt, daß Abt Hugo von S. Remi den König <hi rend="italic">in palatio Aquisgrani secunda die, postquam unctionem sacram in Romanorum regem accepimus</hi>  aufgesucht habe; dazu vgl. schon Simonsfeld, Jahrbücher 46 Anm. 115. - Vgl. dazu auch DF. I. 8 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-04-00_3_0_4_2_1_81_81.html" type="internal" n="regesten">81</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0026" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_2" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

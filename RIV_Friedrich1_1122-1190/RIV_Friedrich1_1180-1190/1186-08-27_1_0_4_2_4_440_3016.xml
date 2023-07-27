@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3016</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-08-27_1_0_4_2_4_440_3016"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-08-27_1_0_4_2_4_440_3016"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-08-27_1_0_4_2_4_440_3016</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426847590" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3016</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-08-27" to="1186-08-27">1186
+									August 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Mülhausen (<hi rend="italic">VI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. septembris, apud Mulenhusen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Geschrieben und wohl auch verfasst von 									GK</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Nantelm von Genf</hi> mit, er erlaube ihm, die 								Lehen, die der durch Spruch des Hofgerichtes geächtete Graf Wilhelm 								von Genf (vgl. Regg. 2964 und 2965) von seiner Kirche innehatte, zum 								Teil neu an treue Leute zu verleihen, die in der Lage sind, die 								Genfer Kirche zu verteidigen und gegen den Grafen Krieg zu führen. 									–<span n="clerk"> Geschrieben und wohl auch verfasst von 									GK</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Attendentes desperatam 									rebellionem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Attendentes desperatam 									rebellionem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Genf (A). Drucke: 								Spon, Hist. de Genève 2, 44 n<hi rend="sup">o</hi> 16; 								MG.DF.I.949. Regg.: Rég. Genevois, 122 n<hi rend="sup">o</hi> 								442; Hidber 2, n<hi rend="sup">o</hi> 2556; Diestelkamp – Rotter, 								Urkundenregesten 1, 383 n<hi rend="sup">o</hi> 487 (irriger Hinweis 								auf D. 948 = Reg. 3014); Stumpf 4466.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch Reg. 3017.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_949" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

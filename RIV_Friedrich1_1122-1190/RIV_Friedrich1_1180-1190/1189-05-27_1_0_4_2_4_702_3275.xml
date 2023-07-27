@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3275</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-27_1_0_4_2_4_702_3275"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-27_1_0_4_2_4_702_3275"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-27_1_0_4_2_4_702_3275</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3275</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-27" to="1189-05-27">1189
+									Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Vierfeld bei Pressburg beim Eintritt nach Ungarn  (<hi rend="italic">VI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iunii, apud Brezburc in cam[po Firfelt] in introitu Vngarie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst und mundiert von 									GK</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt <hi rend="spaced">Graf</hi> 								<hi rend="spaced">Engelbert von Berg</hi>, dass ihm Erzbischof 								Philipp von Köln vor den Kölner Prioren, Lehnsträgern und 								Ministerialen die Kölner Stiftshöfe Hilden, Schwelm und Elberfeld 								unter Vorbehalt der Wiedereinlösung um 576 Mark zu erblichem Lehen 								verliehen habe. –<span n="clerk"> Verfasst und mundiert von 									GK</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Cautum esse fidelibus</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cautum esse fidelibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (jetzt: 								Landesarchiv Nordrhein-Westfalen Abteilung Rheinland, Standort 								Düsseldorf) (A). Teilfaks.: Herkenrath, Reichskanzlei 1181 bis 1190, 								Abb. 15. Drucke: Lacomblet, Niederrhein. UB. 1, 362 n<hi rend="sup">o</hi> 517; MG.DF.I.1006. Regg.: Wagner, UB. 								des Burgenlandes 1, 28 n<hi rend="sup">o</hi> 54; Knipping, Reg. 								Köln 2, n<hi rend="sup">o</hi> 1334; Stumpf 4527.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekonstruktion des Wortlautes des beschädigten 								Originals – eine kopiale Überlieferung liegt nicht vor – vgl. die 								Vorbemerkung zum D. – Die Verpfändung von Hilden und Elberfeld war 								schon 1176 im Zusammenhang mit den Kämpfen gegen die Lega Lombarda 								erfolgt (Knipping, a.a.O. no 1043) und war vom Kaiser auch durch 								D.649 (Reg. 2186) bestätigt worden. – Graf Engelbert verstarb kurze 								Zeit später auf dem Kreuzzug in Kubin (am linken Donauufer unterhalb 								von Belgrad), siehe dazu die Bemerkungen bei Reg. 3274.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

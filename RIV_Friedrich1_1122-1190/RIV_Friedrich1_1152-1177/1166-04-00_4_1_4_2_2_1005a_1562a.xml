@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1562a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-04-00_4_1_4_2_2_1005a_1562a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-04-00_4_1_4_2_2_1005a_1562a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-04-00_4_1_4_2_2_1005a_1562a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358507535" value="2013-01-18"></date>
+				<date type="lastmod" n="1426607259" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1562a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-04-01" to="1166-04-30">(wohl 1166 April)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Herzog Heinrich (der Löwe) von Bayern und Sachsen, Burggraf Heinrich von Regensburg, Vogt Adalgoz von Augsburg, Ulrich von Stein und sein Sohn Burchard, Rupert Wolf (<hi rend="kursiv">Uuolf</hi>) von <hi rend="kursiv">Gekkelbach</hi> (wohl: Gögglbach), Eberwin von Lobsing (<hi rend="kursiv">Lobesingen</hi>), Dietmar von Tettenager (<hi rend="kursiv">Totenaker</hi>), Berthold von Thammbrunn (<hi rend="kursiv">Toumbrunne</hi>), Wernher von Laaber (<hi rend="kursiv">Labere</hi>), dies alles Edelfreie; Heinrich von Weida (<hi rend="kursiv">Wida</hi>), Luipolt von <hi rend="kursiv">Churlibach</hi> (Oberhörlbach oder Hierlbach) und sein Bruder Heinrich, Otto von Hagenhill (<hi rend="kursiv">Hagenhule</hi>), Giselbrecht von Eining (<hi rend="kursiv">Ounningen</hi>) und sein Bruder Wicpot, Baltwin von Regensburg und sein Schwiegersohn Mahto, der <hi rend="kursiv">causidicus</hi> Rüdiger und sein Sohn Karl, Luitwin von Graß<hi rend="kursiv"> </hi>(<hi rend="kursiv">Grazze</hi>), Friedrich <hi rend="kursiv">Brevis</hi>, Luitpolt an der Donau (<hi rend="kursiv">ad Danubium</hi>), Otnant von Laufenthal (<hi rend="kursiv">Loufentale</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt das zwischen <hi rend="gesperrt">Burggraf Heinrich von Regensburg</hi> und dem <hi rend="gesperrt">Kloster Prüfening</hi> abgeschlossene Tauschgeschäft, bei dem ein Reichslehen, mit dem der Burggraf von Herzog Heinrich (dem Löwen) von Bayern und Sachsen belehnt war, an das Kloster gekommen ist. Z. (der Traditionsnotiz): Herzog Heinrich (der Löwe) von Bayern und Sachsen, Burggraf Heinrich von Regensburg, Vogt Adalgoz von Augsburg, Ulrich von Stein und sein Sohn Burchard, Rupert Wolf (<hi rend="kursiv">Uuolf</hi>) von <hi rend="kursiv">Gekkelbach</hi> (wohl: Gögglbach), Eberwin von Lobsing (<hi rend="kursiv">Lobesingen</hi>), Dietmar von Tettenager (<hi rend="kursiv">Totenaker</hi>), Berthold von Thammbrunn (<hi rend="kursiv">Toumbrunne</hi>), Wernher von Laaber (<hi rend="kursiv">Labere</hi>), dies alles Edelfreie; Heinrich von Weida (<hi rend="kursiv">Wida</hi>), Luipolt von <hi rend="kursiv">Churlibach</hi> (Oberhörlbach oder Hierlbach) und sein Bruder Heinrich, Otto von Hagenhill (<hi rend="kursiv">Hagenhule</hi>), Giselbrecht von Eining (<hi rend="kursiv">Ounningen</hi>) und sein Bruder Wicpot, Baltwin von Regensburg und sein Schwiegersohn Mahto, der <hi rend="kursiv">causidicus</hi> Rüdiger und sein Sohn Karl, Luitwin von Graß<hi rend="kursiv"> </hi>(<hi rend="kursiv">Grazze</hi>), Friedrich <hi rend="kursiv">Brevis</hi>, Luitpolt an der Donau (<hi rend="kursiv">ad Danubium</hi>), Otnant von Laufenthal (<hi rend="kursiv">Loufentale</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p><ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=" type="external">Deperditum</ref>; erwähnt im Prüfeninger Traditionsbuch des 12. Jh., ed. Mon. Boica XIII, 132 n<hi rend="hoch">o</hi> 93; Jordan, Urkunden Heinrichs des Löwen 147 n<hi rend="hoch">o</hi> 97; Die Traditionen des Klosters Prüfening, bearb. von A. Schwarz. (Qu. u. Erörterungen zur Bayerischen Gesch. N.F. 39/1, 1991), 147 n<hi rend="hoch">o</hi> 187 (zu 1166 April). &amp;#x2012; MG. DF.I. * 1162 (zu 1166 April oder 1174 Juni &amp;#x2012; Juli, Regensburg?).</p></div>
+				
+				
+					<div type="commentary"><p>Entgegen der bisherigen Auffassung, daß sich nach den in der Traditionsnotiz angeführten Zeugen die Frage, ob diese Rechtshandlung im April 1166 oder im Juni/Juli 1174 erfolgte, nicht entscheiden läßt (vgl. dazu Jordan, a.a.O., Vorbemerkung sowie die in der Vorbemerkung zum D. gebotenen Hinweise), bietet die Nennung des Vogtes Adalgoz von Augsburg wohl doch einen entscheidenden Beleg dafür, daß die zeitliche Einreihung zum Aufenthalt des Kaisers und Heinrichs des Löwen im April 1166 zu erfolgen hat; der Kaiser erwarb nämlich nach seiner Rückkehr aus Italien im Frühjahr 1168 die bisher in Händen des Adalgoz (Adelgoz) von Schwabegg gelegene Augsburger Vogtei, siehe dazu unten Reg. 1781.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330162" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtrag von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. XIV.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1162" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

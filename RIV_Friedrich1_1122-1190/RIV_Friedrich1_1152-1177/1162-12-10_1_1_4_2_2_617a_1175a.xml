@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1175a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-12-10_1_1_4_2_2_617a_1175a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-12-10_1_1_4_2_2_617a_1175a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-12-10_1_1_4_2_2_617a_1175a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358500322" value="2013-01-18"></date>
+				<date type="lastmod" n="1358500322" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1175a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-12-10" to="1162-12-10">1162 Dezember 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im bischöflichen Palast zu Cremona</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Cremoneser Podestà und Konsuln Gilius, genannt de Dovaria, Anselm de Dovaria, Otto de Persico, Marchese Marilianus, Diaconus de Persico und Pizo de Burgo (<hi rend="italic">qui tunc erant potestates civitatis Cremone atque consules</hi>) investieren die namentlich angeführten Konsuln von S. Bassano mit allen Regalien, die den Cremonesen von Seiten Kaiser Friedrichs im Hinblick auf die Brücke und die Gewässer von S. Bassano übertragen worden waren. Dafür sollen die Bewohner von S. Bassano jährlich 40 <hi rend="italic">solidi bonorum denariorum Mediolanensium</hi> zu dem (seitens der Cremonesen) an den Kaiser zu zahlenden Regalienzins in der Höhe von 200 (Pfund) beitragen. Darüber hinaus erhalten die erwähnten Cremoneser Podestà von den Konsuln von S. Bassano 10 Pfund guter Mailänder Pfennige sowie kaiserlicher Münze (<hi rend="italic">bonorum denariorum Mediolanensium et imperiales libras decem</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Falconi, Carte Cremonesi II, 343 n<hi rend="sup">o</hi> 402.</p></div>
+				
+				
+					<div type="commentary"><p>Dieser Beleg zeigt, in welcher Form die Stadt Cremona bemüht war, den für sie im Vertrag mit Kaiser Friedrich I. vom 13. Juni 1162 (Reg. 1095 = MG.DF.I.369) fixierten Regalienzins in der Höhe von 200 Mark Silber mittels einer Umlegung auf ihr unterstellte Orte und deren Abgabeverpflichtungen aufzubringen. – Hinzuweisen ist darauf, dass man in Cremona trotz der vom Kaiser im Frühjahr den Cremonesen, den Lodesen und den Pavesen erteilten Erlaubnis, von eigenen Konsuln regiert zu werden (vgl. Reg. 1076), jedenfalls zur Bezeichnung ihrer Amtsträger weiterhin die Titulatur des potestas verwendete; im Übrigen gilt dies auch für Lodi, wo die Angehörigen des städtischen Regiments noch 1165 den potestas-Titel führten, vgl. dazu Caretta, “Consules”, “Potestates” e “Potestas”, Archivio storico Lodigiano ser. II, anno 26, 1978 (1979) 5–72, insbesondere 68.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330835" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXXI.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

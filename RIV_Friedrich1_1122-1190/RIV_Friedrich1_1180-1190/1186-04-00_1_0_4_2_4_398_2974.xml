@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2974</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-04-00_1_0_4_2_4_398_2974"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-04-00_1_0_4_2_4_398_2974"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-04-00_1_0_4_2_4_398_2974</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2974</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-01-01" to="1187-09-12">(vor
+								1187 September 13, vielleicht 1186
+								April)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belegt die <hi rend="spaced">Stadt 									Ferrara</hi> gemeinsam mit seinem Sohn, König Heinrich (VI.), 								mit dem Bann.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in den DDH.VI. von 1187 September 13, 								Pavia, für SS. Marino und Leo zu Pavia (B.-Baaken Reg. 58) sowie von 								1191 Februar 12, Bologna, für die Ferraresen (B.-Baaken Reg. 125).</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung – <hi rend="italic">terminus ante quem</hi> ist die Nennung des (damals bereits 								aufgehobenen) Banns im DH.VI. aus dem September 1187 – vgl. die 								Überlegungen bei Haverkamp, Herrschaftsformen, 544 mit Anm. 67 (zu 								etwa 1186), sowie bei Opll, Stadt und Reich, 273 f. (zu vor 1187); 								vielleicht darf man davon ausgehen, dass diese vom Kaiser gemeinsam 								mit dem Thronfolger gesetzte Maßnahme noch während deren 								Beisammenseins im Frühjahr 1186 getroffen wurde (Heinrich VI. 								urkundet am 30. April 1186 in Borgo S. Donnino auf Rat seines 								Vaters, der damals allerdings wohl nicht mehr beim König weilte, 								vgl. dazu Regg. 2972 und 2975, sowie Opll, Itinerar, 88 mit Anm. 								58).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

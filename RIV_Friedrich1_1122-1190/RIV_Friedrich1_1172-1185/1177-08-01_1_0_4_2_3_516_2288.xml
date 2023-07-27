@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2288</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-01_1_0_4_2_3_516_2288"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-01_1_0_4_2_3_516_2288"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-01_1_0_4_2_3_516_2288</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306477" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2288</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-01" to="1177-08-01">1177 vor August 1</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und seine Anhänger aus dem Kreise der italienischen Städte und Adeligen, nämlich Cremona, Pavia, Genua, Tortona, Asti, Alba, Acqui, Turin, Ivrea, Ventimiglia, Savona, Albenga, Casale Monferrato, Monteveglio, Imola, Faenza, Ravenna, Forlì, Forlimpopoli, Cesena, Rimini, Castrocaro, Markgraf (Wilhelm) von Montferrat und seine Söhne, die Grafen von Biandrate, die Markgrafen von Vasto, die Markgrafen von Bosco und der Graf von Lomello, schließen mit der <hi rend="spaced">Lega Lombarda</hi>, nämlich Venedig, Treviso, Padua, Vicenza, Verona, Brescia, Ferrara, Mantua, Bergamo, Lodi, Mailand, Como, Novara, Vercelli, Alessandria, Cassine und Belmonte, Piacenza, Bobbio, Obizo Malaspina, Parma, Reggio (Emilia), Modena, Bologna, den Leuten von S. Cassiano und Dozza sowie den anderen Angehörigen der Lega in der Lombardei, der Mark (Verona) und der Romagna, vom 1. August an auf sechs Jahre unter folgenden Bedingungen einen Waffenstillstand: Der Kaiser, sein Sohn, König Heinrich (VI.), und die anwesenden deutschen Fürsten sowie (Bischof) Garsidonius (von Mantua), Markgraf (Wilhelm) von Montferrat, die Markgrafen von Vasto und Bosco, die Grafen von Biandrate und Lomello, die Konsuln und die <hi rend="italic">credentia</hi>  von Cremona und Pavia und die übrigen Städte der kaiserlichen Partei werden sich eidlich dazu verpflichten, die Mitglieder der Lega Lombarda für die Dauer des Waffenstillstands nicht anzugreifen und zu schädigen, was auch umgekehrt von den Konsuln, den <hi rend="italic">credentie</hi>, den Podestà, Obizo Malaspina und seinem Sohn dem Kaiser und seinen Parteigängern unter Eid zugesagt werden wird; zur Überwachung der Einhaltung des Waffenstillstands werden von jeder Stadt beider Seiten und aus dem Herrschaftsgebiet des Markgrafen (Wilhelm) von Montferrat je zwei Männer bestimmt werden; der Waffenstillstand soll auch durch vereinzelte Übergriffe nicht beendet werden; der Eingriff in interne Streitigkeiten der beiden Seiten wird der jeweils anderen untersagt; während der Dauer des Waffenstillstands wird der Kaiser weder Kleriker noch Laien der Lega Lombarda zum Treueid zwingen oder über sie richten. — <span n="incipit"><hi rend="italic">Inter dominum imperatorem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter dominum imperatorem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im Registrum grossum f. 39 (33) der Stadt Bologna, Staatsarchiv Bologna (B). Drucke: MG.Const.1, 360 n<hi rend="sup">o</hi>  259; Manaresi, Atti del comune di Milano 151 n<hi rend="sup">o</hi>  110; MG.DF.I.689. Regg.: Astegiano, CD.Cremonae 1, 149 n<hi rend="sup">o</hi>  338; Stumpf 4201.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch die Erwähnung in einem Brief Erzbischof Philipps von Köln an Bischof R(udolf) von Lüttich, ed. Röhricht, Ein Brief über die Geschichte des Friedens von Venedig, NA 17 (1892) 621 ff. (Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1080), der darauf hinweist, daß alle Gefangenen entlassen worden sind. — Die zeitliche Einordnung ergibt sich aus dem hier festgelegten Beginn des sechsjährigen Waffenstillstands. — Die <hi rend="italic">treuga</hi>  wurde mit dieser formlosen Niederschrift und der Aufzeichnung der Eidesleistung der Fürsten (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-01_3_0_4_2_3_518_2290.html" type="internal" n="regesten">2290</ref>) fixiert, ohne daß es offensichtlich zur Ausfertigung eines kaiserlichen Privilegs gekommen wäre, vgl. Riedmann, Verträge, 108 ff. und die Vorbemerkung zum D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zur Entwicklung der Verhandlungen mit dem Lombardenbund bis hin zum Abschluss des Waffenstillstands vgl. zuletzt Raccagni, The Lombard League, 99–101.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0182" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_689" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._360" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2628</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-16_1_0_4_2_4_49_2628"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-16_1_0_4_2_4_49_2628"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-11-16_1_0_4_2_4_49_2628</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426842733" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2628</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-11-16" to="1181-11-16">1180
+									(recte: 1181) November 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Erfurt  (<hi rend="italic">XVI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. Decenbris [!], apud Herbsfordiam in solempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aule canc. invice Christiani 										Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst von Gottfried I, 									geschrieben von Gottfried G</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und 									Wichmann von Magdeburg, die Bischöfe Otto von Bamberg, Dietrich 									von Halberstadt, Udo von Zeitz, Adelhog von Hildesheim, Eberhard 									von Merseburg, Martin von Meißen und Arnold von Osnabrück, Abt 									Siegfried von Hersfeld, die Markgrafen Otto von Meißen, Otto von 									Brandenburg und Dietrich von Landsberg (= der Lausitz), Graf 									Dedo von Groitzsch, Herzog Bernhard von Sachsen, Graf Siegfried 									von Orlamünde, Burggraf Konrad von Nürnberg, die Grafen Adolf 									von Schauenburg, Bernhard von Ratzeburg, Burchard von 									Wöltingerode und sein Bruder Graf Hoger, die Grafen Albert von 									Veltheim, Widekind von <hi rend="italic">Stumphene</hi> (ob 									Stumpenhusen/Bremen?) und Ludwig von Sinstorf, die beiden Brüder 									(Ludolf und Willibrand?) von Hallermund, Burggraf Burchard von 									Magdeburg und sein Bruder, Konrad von Boxberg und sein Bruder 									Crafto, Albert von Hildenburg, Albert von Grumbach, Werner von 									Bolanden, Kuno von Münzenberg, Hugo von Warthe und Thiemo von 									Colditz; aus der Stadt Bremen Dompropst Otto, Jakob, Dietrich, 									(Domherr) Hartwig und Propst Rudolf (von Reepsholt); die 									Ministerialen (des Erzbischofs von Bremen) Gerung (von Bremen) 									und sein Sohn Hermann, Erich (von Bederkesa), Engelbert, 									Friedrich, Thietward, Adelhard (Vogt von Bremen), Arnold, 									A(da)lbert (von Bexhövede), Heinrich, Friedrich, Heinrich, 									Konstantin (von Bremen) und Dietrich (von Bremen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt, dass er auf Bitten Erzbischof 								Siegfrieds von Bremen und dessen Brüder (Domkanoniker) wie auch mit 								Rat und Bitten der anderen auf dem feierlichen <hi rend="spaced">Hoftag</hi> in Erfurt versammelten Fürsten und Großen der <hi rend="spaced">Bremer Kirche</hi> die Burg und den Ort Stade 								mit allen Ministerialen, Zugehörungen und Rechten geschenkt hat. 									<span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und 									Wichmann von Magdeburg, die Bischöfe Otto von Bamberg, Dietrich 									von Halberstadt, Udo von Zeitz, Adelhog von Hildesheim, Eberhard 									von Merseburg, Martin von Meißen und Arnold von Osnabrück, Abt 									Siegfried von Hersfeld, die Markgrafen Otto von Meißen, Otto von 									Brandenburg und Dietrich von Landsberg (= der Lausitz), Graf 									Dedo von Groitzsch, Herzog Bernhard von Sachsen, Graf Siegfried 									von Orlamünde, Burggraf Konrad von Nürnberg, die Grafen Adolf 									von Schauenburg, Bernhard von Ratzeburg, Burchard von 									Wöltingerode und sein Bruder Graf Hoger, die Grafen Albert von 									Veltheim, Widekind von <hi rend="italic">Stumphene</hi> (ob 									Stumpenhusen/Bremen?) und Ludwig von Sinstorf, die beiden Brüder 									(Ludolf und Willibrand?) von Hallermund, Burggraf Burchard von 									Magdeburg und sein Bruder, Konrad von Boxberg und sein Bruder 									Crafto, Albert von Hildenburg, Albert von Grumbach, Werner von 									Bolanden, Kuno von Münzenberg, Hugo von Warthe und Thiemo von 									Colditz; aus der Stadt Bremen Dompropst Otto, Jakob, Dietrich, 									(Domherr) Hartwig und Propst Rudolf (von Reepsholt); die 									Ministerialen (des Erzbischofs von Bremen) Gerung (von Bremen) 									und sein Sohn Hermann, Erich (von Bederkesa), Engelbert, 									Friedrich, Thietward, Adelhard (Vogt von Bremen), Arnold, 									A(da)lbert (von Bexhövede), Heinrich, Friedrich, Heinrich, 									Konstantin (von Bremen) und Dietrich (von Bremen)</span>. – 									<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aule canc. invice Christiani 										Maguntini archiep. Germanie archicanc.</hi> 								</span>; <span n="clerk">verfasst von Gottfried I, 									geschrieben von Gottfried G</span>; <span n="seal">SP.D.</span> 								<span n="incipit"><hi rend="italic">Digna animi 										consideratione.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Digna animi 										consideratione.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (jetzt: 								Niedersächsisches Landesarchiv, Hauptstaatsarchiv Hannover), 1943 								durch Kriegseinwirkung vernichtet (A). Faks.: Kaiserurk. in Abb. X, 								15; Koch, Schrift der Reichskanzlei, Abb. 82 (Teilfaks.); 								Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 24 								(Teilfaks.). Drucke: Lappenberg, Hamburg. UB. 1, 225 n<hi rend="sup">o</hi> 247; Heinemann, CD. Anhalt. 1, 447 n<hi rend="sup">o</hi> 606; MG.DF.I.814. Regg.: Hasse, 								Schles.-Holst.-Lauenburg. Reg. 1, 73 n<hi rend="sup">o</hi> 141; 								Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 601 (zu 1181); 								Stumpf 4312 (zu 1180).</p></div>
+				
+				
+					<div type="commentary"><p>Nach der durch die Zeugenliste belegten 								feierlichen Fürstenversammlung muss die Schenkung (Rechtshandlung) 								auf dem großen Reichstag in Erfurt geschehen sein. Da sowohl der 								Verfasser als auch der Mundator ihre Tätigkeit erst später 								aufnahmen, ist eine nachträgliche Beurkundung in der kurzen Periode 								der Tätigkeit des Notars Gottfried I in der Kanzlei Barbarossa im 								Jahre 1188 wahrscheinlich, vgl. zu all dem die Vorbemerkung zum D. – 								Zu den diversen Bremer Zeugen vgl. Plassmann, Struktur des Hofes, 								278, 282, 284 und 290; zur Identität des hier nach Wöltingerode 								genannten Grafen Burchard mit Graf Burchard von Harzburg bzw. von 								Wohldenberg vgl. Plassmann, a.a.O., 280; der unter den Zeugen 								genannte Domherr Hartwig von Bremen ist mit dem späteren Erzbischof 								gleichen Namens identisch, vgl. Plassmann, a.a.O., 286; zur 								möglichen Identifizierung des Grafen Widekind von <hi rend="italic">Stumphene</hi> Plassmann, a.a.O., 292. – Stade war in den 								letzten Wochen der Auseinandersetzungen mit Heinrich dem Löwen 								dessen Zufluchtsort gewesen (siehe dazu oben Reg. 2623), war aber 								etwa im September 1181 endgültig in die Hände des Kaisers gefallen, 								vgl. dazu Arnoldi Chron. Slavorum l. II cap. 22, MG. SS XXI, 141 f., 								und Knipping, Reg. Köln 2, no 1169; zum Stader Erbe vgl. auch 								Althoff, Heinrich der Löwe und das Stader Erbe, DA 41 (1985) 66 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00202" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_814" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

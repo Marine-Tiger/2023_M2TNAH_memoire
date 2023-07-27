@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2278</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-22_1_0_4_2_3_506_2278"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-22_1_0_4_2_3_506_2278"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-07-22_1_0_4_2_3_506_2278</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306396" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2278</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-07-22" to="1177-07-22">1177 Juli 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Chioggia)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und <hi rend="spaced">Papst Alexander (III.)</hi>  fixieren durch bevollmächtigte Vertreter — als Subskribenten werden die Erzbischöfe Wichmann von Magdeburg, Philipp von Köln, Christian von Mainz und Arnold von Trier sowie Protonotar Wortwin genannt — (im Anschluß an den Vorvertrag von Anagni, Reg. 2202) endgültig die Bedingungen für die Beendigung des Schismas und die Wiederherstellung des Friedens, wobei (im Vergleich mit Reg. 2202) die gegenseitige Anerkennung auch auf die Nachfolger ausgedehnt und vereinbart wird, daß die Rückstellung der gegenseitig entfremdeten Besitzungen und Rechte jeweils unter dem Vorbehalt der Gerechtsame von Reich und römischer Kirche erfolgen solle, ferner König (Wilhelm II.) von Sizilien gemäß den von den Unterhändlern schriftlich niedergelegten Verhandlungsergebnissen gemeinsam mit König Heinrich (VI.) ein fünfzehnjähriger Friede zugesichert und den Lombarden vom nächsten 1. August an ein sechsjähriger Waffenstillstand versprochen wird, zu dem auch die kaiserlichen Parteigänger unter den Lombarden und König Heinrich (VI.) verpflichtet werden müssen. — <span n="incipit"><hi rend="italic">Dominus imperator F(redericus)</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dominus imperator F(redericus)</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige Kopie im Vatikanischen Archiv zu Rom, AA. Arm. I-XVIII 35, früher Arm. I. caps. IV n<hi rend="sup">o</hi>  10 (B); Abschrift aus dem Ende des 12. Jh. im Cod. 643<hi rend="sup">a</hi>  f. 3, Stiftsbibliothek Klosterneuburg (C). Drucke: MG.Const. 1, 362 n<hi rend="sup">o</hi>  260; MG.DF.I.687. Faks.: Das Geheimarchiv des Vatikan. (Zürich 1992), 80 f. Tafel XVII. Reg.: Stumpf 4198.</p></div>
+				
+				
+					<div type="commentary"><p>In unser Regest wurden nur die Teile aufgenommen, die vom Vorvertrag von Anagni (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-11-00_1_0_4_2_3_430_2202.html" type="internal" n="regesten">2202</ref>) abweichen. Diese Abweichungen (etwa das Fehlen der Bestimmung über die Rückstellung der Mathildischen Güter), welche einige Erfolge der kaiserlichen Politik erkennen lassen, ergeben sich aus dem Verlauf der Verhandlungen; dazu und zur Überlieferung, die Ähnlichkeiten mit der von Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-11-00_1_0_4_2_3_430_2202.html" type="internal" n="regesten">2202</ref>  aufweist, sowie zur Herstellung des Textes vgl. die Vorbemerkung zum D. sowie Kehr, Anagni, NA 13 (1888) 107 f. — Während die Willenserklärung Alexanders III. und die Zusage zur Einhaltung der Verpflichtungen von Seiten der Kardinale verloren gegangen sind, haben sich diejenige des Kaisers und die von zwölf Großen des Reiches erhalten, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-09-17_1_0_4_2_3_565_2337.html" type="internal" n="regesten">2337</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-14_1_0_4_2_3_558_2330.html" type="internal" n="regesten">2330</ref>. — Zur Datierung des D. vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-07-21_4_0_4_2_3_504_2276.html" type="internal" n="regesten">2276</ref>. — Vgl. auch die Eidesleistungen am 1. August in Venedig (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-01_3_0_4_2_3_518_2290.html" type="internal" n="regesten">2290</ref>). — Zur Zusicherung eines Friedens gegenüber den sizilischen Gesandten vgl. auch Stumpf 4204 (wohl irrig zu 1177 August 1, Venedig) und dazu unten Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-14_1_0_4_2_3_526_2298.html" type="internal" n="regesten">2298</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0178" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_687" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._362" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

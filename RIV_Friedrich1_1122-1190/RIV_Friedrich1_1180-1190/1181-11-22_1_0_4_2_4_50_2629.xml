@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2629</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-22_1_0_4_2_4_50_2629"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-22_1_0_4_2_4_50_2629"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-11-22_1_0_4_2_4_50_2629</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843113" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2629</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-11-22" to="1181-11-22">1181
+									November 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Erfurt im Mainzer Gebiet (<hi rend="italic">X</hi><hi rend="sup">o</hi><hi rend="italic"> kal. decembris, </hi> <hi rend="italic">in territorio Moguntino Erphurdię</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Christiani 										Moguntini archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der Urkunde Bischof Ulrichs 									von Halberstadt von 1178 Mai 28 (Schmidt, UB. Hochstift 									Halberstadt 1, 243 n<hi rend="sup">o</hi> 282; VU.), die 									ihrerseits wieder ein Deperditum Bischof Reinhards benützt hat, 									verf</scribe>
+				
+				
+					<testis function="witnesses">die 									Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und 									Siegfried von Bremen, die Bischöfe Eberhard von Merseburg, 									Hermann von Münster, Adelhog von Hildesheim, Konrad von Worms 									und Anno von Minden, die Äbte Konrad von Corvey und Siegfried 									von Hersfeld, Herzog Bernhard von Sachsen, die Markgrafen Otto 									von Brandenburg, Otto von Meißen und Dietrich von Landsberg (= 									der Lausitz) sowie Graf Siegfried von Orlamünde</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt nach Einsicht in die Urkunden 								der Bischöfe Reinhard und Ulrich von Halberstadt die ursprünglich in 								einer Initiative des genannten Bischofs Reinhard (<hi rend="italic">primo fundatore</hi>) wurzelnde Gründung des 								Augustiner-Chorherrenstiftes Hamersleben (<hi rend="italic">ecclesię 									incliti martiris beati Pancratii, quę est in Hamersleue</hi>), 								das auf eine Stiftung der edlen Frau Thietburgis und ihrer Tochter 								Mathilde seligen Angedenkens zurückgeht, und alle jetzigen und 								künftigen Besitzungen des Stiftes, verleiht die weltliche Herrschaft 									(<hi rend="italic">seculare … dominium</hi>) daselbst 								ausschließlich dem Propst bzw. dem von diesem damit Betrauten und 								verbietet jedwede Verlehnung von Kirchengütern durch den Propst. Er 								gewährt dem Propst und seinen Brüdern die freie Vogtwahl, gesteht 								dem Vogt ein Drittel <hi rend="italic">de legitimis 									compositionibus</hi> zu, während die anderen beiden Teile an den 								Propst oder seinen <hi rend="italic">nuntius</hi> fallen sollen, und 								erlaubt dem Propst und seinen Brüdern im Falle der Unzufriedenheit 								mit dem Vogt, diesen abzulösen und ihn durch einen anderen oder auch 								durch gar keinen zu ersetzen. <span n="witnesses">Z.: die 									Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und 									Siegfried von Bremen, die Bischöfe Eberhard von Merseburg, 									Hermann von Münster, Adelhog von Hildesheim, Konrad von Worms 									und Anno von Minden, die Äbte Konrad von Corvey und Siegfried 									von Hersfeld, Herzog Bernhard von Sachsen, die Markgrafen Otto 									von Brandenburg, Otto von Meißen und Dietrich von Landsberg (= 									der Lausitz) sowie Graf Siegfried von Orlamünde</span>. – <span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Christiani 										Moguntini archiep. et Germanię archicanc.</hi></span>;<span n="clerk"> unter Heranziehung der Urkunde Bischof Ulrichs 									von Halberstadt von 1178 Mai 28 (Schmidt, UB. Hochstift 									Halberstadt 1, 243 n<hi rend="sup">o</hi> 282; VU.), die 									ihrerseits wieder ein Deperditum Bischof Reinhards benützt hat, 									verfasst und geschrieben von Robert, der auch am Diktat der 									Urkunde Erzbischof Christians von Mainz für Hamersleben von 1178 									Mai 30 (Acht, Mainzer UB. 2/2, 661 n<hi rend="sup">o</hi> 408) 									beteiligt war</span>;<span n="seal"> SP.2.</span> 								<span n="incipit"><hi rend="italic">Ad imperialis iusticię.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad imperialis iusticię.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Magdeburg (jetzt: 								Landeshauptarchiv Sachsen-Anhalt, Abteilung Magdeburg) 								(A). Drucke: Zöllner, Urkunden des Stifts Hamersleben, 133 n<hi rend="sup">o</hi> 24; MG.DF.I.815. Regg.: Dobenecker, Reg. 								Thur. 2, n<hi rend="sup">o</hi> 603; Stumpf 4327.</p></div>
+				
+				
+					<div type="commentary"><p>Die Ortsangabe in der Datierung bezieht sich auf 								die Zugehörigkeit Erfurts zur Diözese Mainz. – Zur diplomatischen 								Kritik vgl. die in der Vorbemerkung zum D. genannte Arbeit von 								Beumann, Beiträge zum Urkundenwesen, Archiv für Urkundenforschung 16 								(1939) 17.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_815" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

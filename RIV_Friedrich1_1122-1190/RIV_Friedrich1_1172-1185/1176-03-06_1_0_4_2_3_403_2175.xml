@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2175</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-03-06_1_0_4_2_3_403_2175"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-03-06_1_0_4_2_3_403_2175"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-03-06_1_0_4_2_3_403_2175</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456305819" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2175</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-03-06" to="1176-03-06">1176 März  6?</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei entstanden.</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit der <hi rend="spaced">Stadt Tortona</hi>  einen Vertrag (<hi rend="italic">forma reconciliationis</hi>), in dem er die folgenden Zusagen hinsichtlich der Aussöhnung festlegt: Er verpflichtet sich mit einem stellvertretend für ihn durch Konrad von Ballhausen geleisteten Eid, Tortona künftig weder zu zerstören noch jemandem zu unterstellen, erlaubt seinen Kastellanen, sich der Stadt unterzuordnen, wird von ihr und ihren <hi rend="italic">oppidani</hi>  keine größeren Leistungen als von den Pavesen und deren Kastellanen einfordern, die hinsichtlich Tortonas und seiner Burgen, Dörfer und Besitzungen im Bereich der Diözese ausgestellten Privilegien, insbesondere im Hinblick auf Serravalle Scrivia, widerrufen, garantiert die Besitzungen der Tortoneser Kirche, wird den Markgrafen (Wilhelm) von Montferrat veranlassen, bezüglich des <hi rend="italic">oppidum</hi>  Stazzano keine Forderungen zu erheben, und die Pavesen eidlich zum Frieden mit Tortona und zur Rückstellung der angeführten Kastellane verpflichten. Des weiteren wird er ihnen und den Bewohnern von Serravalle Scrivia den dem Reich zugefügten Schaden nachsehen, der Stadt die entrichteten Gelder zurückstellen und keine weiteren fordern, und er gesteht ihnen — wie den Pavesen — das Konsulat, die Fleischbänke, die Mühlen und die öffentlichen Wege sowie die Wegzölle zu und bestätigt über Intervention der Kaiserin Beatrix die angeführten Kastellane und deren Besitzungen. — <span n="clerk">Außerhalb der Kanzlei entstanden.</span> <span n="incipit"><hi rend="italic">Hec est forma</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Hec est forma</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des Albertus de Abbate aus dem Ende des 12. oder dem Anfang des 13. Jh. eines Transsumptes Kaiser Heinrichs VI. von 1193 Februar 4 (B.-Baaken Reg. 279), Biblioteca Trivulziana zu Mailand (B<hi rend="sup">1</hi>); notarielle Abschrift von 1310 Dezember 16 desselben Transsumptes Kaiser Heinrichs VI., bischöfliches Archiv Tortona, nicht auffindbar (B<hi rend="sup">2</hi>); notarielle Abschrift von 1269 Juni 11, Archivio Comunale zu Voghera (C); Einzeldruckblätter mit Beglaubigung durch Joseph Carbonus von 1618 Februar 16 aus notarieller Abschrift in mailändischen Prozeßakten (E<hi rend="sup">1</hi>). Drucke: MG. Const. 1, 390 n<hi rend="sup">o</hi>  284 vermengt mit der jüngeren Fassung (DF.I.665 = Reg. 2234) zu 1183 Februar 4; Güterbock, Tortona, NA 45 (1924) 351; MG.DF.I.648. Reg.: Stumpf 4353 zu 1183 Februar 4 vermengt mit der jüngeren Fassung (DF.I.665 = Reg. 2234).</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik — insbesondere zur Verwendung des Monogramms aus der Königszeit und der Bezeichnung Friedrichs als König in C — und zur Datierung — das Datum März 6 steht nur in einem späteren Regest in italienischer Sprache — dieses Vertrages vgl. die ausführliche Vorbemerkung zum D. mit den dort angeführten Arbeiten von Güterbock, Tortona, NA 45 (1924) 306 ff, und Riedmann, Verträge, 78 ff. — Da es sich bei der Anführung der für den Kaiser den Eid leistenden Persönlichkeiten (MG.DF.I.648 in spitzen Klammem) um eine Zufügung zum Text handelt, die in der Überlieferung aus der jüngeren Fassung (DF.I.665 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-01-00_3_0_4_2_3_462_2234.html" type="internal" n="regesten">2234</ref>) übernommen wurde, haben wir diese Liste in unserem Regest nicht angeführt. — Mit diesem Vertrag korrespondiert ein Eid der mehrfach angesprochenen Pavesen hinsichtlich einer Schutzzusage für die Tortonesen (Güterbock, a.a.O., 354; MG.Const. 1, 394 n<hi rend="sup">o</hi>  286 zu 1183). — Zum Inhalt vgl. neben der bereits genannten Studie von Güterbock auch Opll, Stadt und Reich, 442 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Der Abschluss des Vertrages mit Tortona wird im Schreiben des Propstes O(tto) von Raitenbuch an Abt R(upert) von Tegernsee
+</p>
+<p>erwähnt, wo es auch heißt, dass sich Friedrich wieder gegen Alessandria gewandt habe (<hi rend="italic">De imperatore hoc audivimus, quod capta Terdona civibus eiusdem civitatis in gratiam receptis et secum federe confirmatis rursus Alexandriam oppugnare aggressus sit et quod Terdonensibus sibi nunc adiunctis Alexandria rebellare non sufficiat.</hi>), ed. Plechl – Bergmann, Tegernseer Briefsammlung MG. Briefe VIII, 310 no 280 (Raitenbuch?, 1176 etwa Mitte April – Anfang Oktober). Zu Kampfhandlungen gegen Alessandria dürfte es jedenfalls spätestens nach der Niederlage bei Legnano am 29. Mai 1176 (siehe Reg. 2182) nicht mehr gekommen sein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0143" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_648" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._390" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

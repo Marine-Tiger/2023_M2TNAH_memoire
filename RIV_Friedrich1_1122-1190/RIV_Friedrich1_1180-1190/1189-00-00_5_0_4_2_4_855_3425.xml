@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3425</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-00-00_5_0_4_2_4_855_3425"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-00-00_5_0_4_2_4_855_3425"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-00-00_5_0_4_2_4_855_3425</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3425</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-01-01" to="1189-12-31">1189
+									Ende oder 1190 Anfang</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Adrianopel (Edirne) sowie näheres  und weiteres Umfeld dieser Stadt</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog Friedrich von Schwaben zieht von Adrianopel 								aus durch Mazedonien, besetzt die Stadt <hi rend="italic">Culos</hi> 								(Çelebi) und zwei weitere Orte. Er rückt bis zum Meer vor und zieht 								in die Stadt <hi rend="italic">Menas</hi> (Enez) ein, wo er große 								Beute macht. Nach seiner Rückkehr nach Adrianopel zieht er kurz 								darauf in die ringsum gelegenen Berge und übt dort Vergeltung wegen 								mannigfacher Überfälle auf die Kreuzfahrer. Die Bewohner dieser 								Gebiete stellen darauf dem Kaiser 18 geraubte Pferde zurück und 								sagen Versorgung zu. Der Kaiser sendet sodann von Adrianopel aus zur 								Sicherstellung des Marktes einen griechischen Abt sowie einen 								kaiserlichen Schweinehirten zu ihnen, doch werden beide ergriffen 								und auf grausame Weise getötet. Friedrich ist über den Verfall der 								Moral des Kreuzheeres – genannt werden Raub, Mord, Habgier und 								Hurerei –, eine Entwicklung, die es auch schon in Philippopel 								gegeben hat (Reg. 3396), bestürzt und übt heftige Kritik. Manche 								bestrafen die Übeltäter, die zum Teil öffentlich gemeinsam mit den 								Huren nackt vorgeführt, zum Teil auch in einem eisigen Fluss 								mehrmals untergetaucht werden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 58 ff. (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 113 ff.) (ohne 								Datum).</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

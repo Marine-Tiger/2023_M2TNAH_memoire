@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3358</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_89_0_4_2_4_788_3358"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_89_0_4_2_4_788_3358"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_89_0_4_2_4_788_3358</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3358</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1188
+									August – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Friedrich?) klagt <hi rend="spaced">Herzog 									H(einrich den Löwen)</hi> des Bruchs des auf seinen Befehl hin 								vereinbarten Friedens mit Herzog B(ernhard von Sachsen) an. Heinrich 								nehme in seinen Befestigungen (Braunschweig und Lüneburg) Gegner des 								Sachsenherzogs auf, darunter vor allem B. von W. mit seinen 								Komplizen, die bereits eine Burg Herzog B(ernhards) zerstört und ihm 								großen Schaden bereitet haben. Er befiehlt ihm, den Frieden zu 								halten und die Friedensbrecher aus seiner Umgebung zu entfernen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fingiertes Schreiben, Jüngere Hildesheimer 								Briefsammlung, ed. de Kegel, MG. Briefe VII, 173 n<hi rend="sup">o</hi> 116.</p></div>
+				
+				
+					<div type="commentary"><p>Nach dem Inhalt dieses Stückes muss es sich bei 								seinem Absender – entgegen der Angabe in der Rubrik (<hi rend="italic">Episcopus incusat ducem H. pacem violasse cum duce 									B.</hi>) – entweder um Kaiser Friedrich oder dessen Sohn 								Heinrich handeln; im letzteren Falle wäre das Schreiben wohl zu 								„1189 nach Oktober“ zu datieren. Die Erwähnung eines zwischen 								Heinrich dem Löwen und Bernhard von Sachsen geschlossenen Friedens 								bezieht sich wohl auf die Maßnahmen des Kaiser im Sommer 1188 zu 								Goslar, vgl. Reg. 3177. – Bei B. von W. handelt es sich entweder um 								Graf Bernhard von Wölpe oder um Graf Bernhard von Ratzeburg; zur 								zeitlichen Einordnung sowie zum historischen Gehalt vgl. die 								ausführlichen Hinweise bei de Kegel, a.a.O., 174 Anmm. 1–7.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

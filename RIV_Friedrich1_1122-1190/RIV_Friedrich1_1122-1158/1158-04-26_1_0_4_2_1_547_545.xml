@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 545</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-26_1_0_4_2_1_547_545"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-26_1_0_4_2_1_547_545"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-04-26_1_0_4_2_1_547_545</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240547" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 545</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-04-26" to="1158-04-27">1158 (April 26-27)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Sinzig  (in regia villa Sinzeche)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rolandswerth</hi></recipient>
+				
+				
+				
+					<scribe>Nach DF. I. 116 (Reg. 330, VU.) für Knechtsteden außerhalb der Kanzlei verfaßt und geschrieben, wohl von einem Schreiber im Umkreis der Kölner Kirche</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Friedrich von Köln (<hi rend="italic">ipse domnus Fridericus Coloniensis archiepiscopus</hi>), Abt Nikolaus von Siegburg, die Pröpste Albert von Aachen, Arnold von St. Andreas (zu Köln), Gerard von Soest (<hi rend="italic">Susatiensis</hi>); die Laienfürsten und Edelfreien, Pfalzgraf Konrad (<hi rend="italic">domnus Cůnradus</hi> /bei Rhein), Markward von Grumbach, die Grafen Albert von Maubach (<hi rend="italic">Molbach</hi>), Heinrich von Sayn und Walter von Kessel; die Ministerialen Konrad von Boppard, Gottfried von Breitscheid, Rudolf von Sinzig und Lambert von Mehlem (<hi rend="italic">Milenheim</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Nonnenkloster <span sameAs="recipient"><hi rend="spaced">Rolandswerth</hi> </span>  (<hi rend="italic">ecclesiam beate Marie, que sita est in insula Rheni Růlecheswerde</hi>) in seinen Schutz, bestätigt ihm die Besitzungen, darunter den ihm von Graf Konrad von Bonn verkauften Hof zu Ober- und Niederwöllstadt (<hi rend="italic">Wllenstede</hi>), dessen Vogtei von niemandem zu Erbrecht erworben werden darf, den Hof zu Kessel und den zu Auenheim (<hi rend="italic">Ouuenheim</hi>), den Gräfin Uda von Deutz (<hi rend="italic">Tuiciensis</hi>) für ihre in dem Kloster als Nonne lebende Tochter und als Seelgerät für sich und die ihren gestiftet hat, und beauftragt den jeweiligen Kölner Erzbischof, den Schutz über die in der Erzdiözese Köln gelegenen Güter in seiner Vertretung auszuüben. <span n="witnesses">Z.: Erzbischof Friedrich von Köln (<hi rend="italic">ipse domnus Fridericus Coloniensis archiepiscopus</hi>), Abt Nikolaus von Siegburg, die Pröpste Albert von Aachen, Arnold von St. Andreas (zu Köln), Gerard von Soest (<hi rend="italic">Susatiensis</hi>); die Laienfürsten und Edelfreien, Pfalzgraf Konrad (<hi rend="italic">domnus Cůnradus</hi> /bei Rhein), Markward von Grumbach, die Grafen Albert von Maubach (<hi rend="italic">Molbach</hi>), Heinrich von Sayn und Walter von Kessel; die Ministerialen Konrad von Boppard, Gottfried von Breitscheid, Rudolf von Sinzig und Lambert von Mehlem (<hi rend="italic">Milenheim</hi>)</span>. - <span n="clerk">Nach DF. I. 116 (Reg. 330, VU.) für Knechtsteden außerhalb der Kanzlei verfaßt und geschrieben, wohl von einem Schreiber im Umkreis der Kölner Kirche</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Imperialis excellentia de</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis excellentia de</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: CD. Rheno-Mosellanus 1, 362 n<hi rend="sup">o</hi>  168; MG. DF. I. 217. Faks.: Oppermann, Urkunden aus Rolandswerth, Jb. d. Köln. Gesch. ver. 17 (1935) nach 184 Tafel 5, Schriftprobe. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  141; Stumpf 3810.</p></div>
+				
+				
+					<div type="commentary"><p>Die von Oppermann, a. a. O. 171 ff. geäußerten Bedenken gegen die Echtheit des Originals sind durch die Feststellung der Entstehung außerhalb der Kanzlei hinfällig, vgl. dazu und zur Frage der Vogtei jetzt auch Wisplinghoff, Siegburg, AfD 9/10 (1963/64) 103 f. mit Anm. 182.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0185" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227340%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_217" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

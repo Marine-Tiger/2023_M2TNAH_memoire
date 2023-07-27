@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2817</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_4_0_4_2_4_238_2817"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_4_0_4_2_4_238_2817"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-15_4_0_4_2_4_238_2817</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2817</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-15" to="1184-11-15">(1182–1184 November 15)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich kauft auf Bitten der Kaiserin Beatrix vom 								Domkapitel von Vercelli mit Zustimmung Bischof Alberts (von 								Vercelli), des Vercelleser Klerus und der <hi rend="italic">consorziali</hi> Doda und Bonaver um 268 Pfund und 4 <hi rend="italic">solidi</hi> ein Stück Land im Ausmaß von 32 <hi rend="italic">modia</hi> am Cervo im Gebiet von Vercelli, 								genannt <hi rend="italic">Braida</hi>, und überantwortet es seinem 								mit dem Abschluss dieses Rechtsgeschäftes betrauten <hi rend="italic">missus</hi> Nicolaus Borgua zur Übertragung an das 								Brückenhospital (Ospedale S. Maria del Ponte del Cervo).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einem kopial überlieferten 								Notariatsinstrument von 1185 November 11, Vercelli, in den Libri 								Biscioni II, fol. 249 (Stadtarchiv Vercelli, heute: Biblioteca 								Civica zu Vercelli), teilweise ed. Mandelli, Il Comune di Vercelli 								nel Medio Evo, Tom. II (1857) 341 f., sowie auch im Nekrolog der 								Domkirche S. Eusebio zu Vercelli bei Mandelli, a.a.O., 337 Anm. 1 								(zu 1184 November 14).</p></div>
+				
+				
+					<div type="commentary"><p>Der bei Mandelli gebotene Hinweis auf die 								Überlieferung im „archivio civico“ ist nach den heutigen 								Gegebenheiten (Bd. I der Libri Biscioni befindet sich in der 								Biblioteca Civica, vgl. dazu MG.DDF.I. Bd. 5, 194) auf die 								Stadtbibliothek zu Vercelli zu korrigieren. – Ein Aufenthalt des 								Kaisers in Vercelli im November 1185 lässt sich aus dieser Urkunde 								nicht ableiten, vgl. dazu schon Scheffer-Boichorst, Streit mit der 								Kurie, 233 Anm. 1, sowie Opll, Itinerar, 87 Anm. 43 (siehe auch 								unten Reg. 2933a). – Die zeitliche Einordnung der Nachricht ergibt 								sich aus der Nennung der Kaiserin, deren Tod (15. November 1184, 								vgl. dazu Reg. 2818) den <hi rend="italic">terminus ante quem</hi> 								darstellt, und der des Bischofs Albert von Vercelli (1182 hatte 								Bischof Wala abgedankt, vgl. Mandelli, a.a.O., 341). – Bereits 1178 								hatte Friedrich gemeinsam mit seinem Sohn, König Heinrich VI., 								Bischof Wala von Vercelli um 2.580 Pfund Silber guter Paveser 								Pfennige Hafen-, Ufer- und Zollrechte am Cervo und an der Sesia 								abgekauft und sie an seine Gemahlin übertragen (DF.I.735 = Reg. 								2391). Nach der Abdankung Bischof Walas im Jahre 1182 war es dann zu 								einem nicht näher bestimmbaren Zeitpunkt, jedenfalls aber vor dem 								Tod der Kaiserin, mit Zustimmung von dessen Nachfolger Albert zu 								weiteren Erwerbungen am Cervo gekommen, und der Staufer hatte damit 								die Errichtung einer Brücke über diesen Fluss sowie eines damit 								verbundenen Hospitals (daneben existierte in Vercelli ein 1173 								bezeugtes, weiteres Hospital S. Paolo, das Bischof Wala in diesem 								Jahr unter Vorbehalt der Rechte der Mutterkirche von Vercelli den 								Kanonikern von S. Orso in Aosta übertragen hatte, vgl. dazu 								Mandelli, a.a.O., 332 ff.) gefördert. – Zu weiteren Förderungen des 								Kaisers für Hospitäler bzw. sogar regelrechten staufischen 								Gründungen derartiger Institutionen vgl. auch Regg. 2637 								(Altenburg), 2683 (Reichardsroth), 3246 (Hagenau), 3278 (Altopascio) 								und 3286 (Kaiserslautern).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

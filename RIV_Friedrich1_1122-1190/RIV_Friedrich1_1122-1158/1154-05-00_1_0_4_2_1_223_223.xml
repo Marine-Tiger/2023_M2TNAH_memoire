@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 223</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-00_1_0_4_2_1_223_223"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-00_1_0_4_2_1_223_223"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-05-00_1_0_4_2_1_223_223</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237317" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 223</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-05-20" to="1154-06-10">(1154 Ende Mai-Anfang Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">(Goslar)</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Sachsen</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Z. (<hi rend="italic">annuentibus regni principibus his</hi>): Erzbischof Wichmann von Magdeburg, die Bischöfe Bruno von Hildesheim, Hermann von Verden (<hi rend="italic">Fardense</hi>), Wicher von Brandenburg, Elekt Berthold von Zeitz, Abt Wibald (<hi rend="italic">Wicbaldo</hi>) von Corvey, die Markgrafen Konrad (von Wettin), Albrecht (der Bär), Pfalzgraf Friedrich (von Sommerschenburg), Landgraf Ludwig (von Thüringen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem Herzog <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Sachsen</hi> </span>  das königliche Recht der Investitur der Bischöfe von Oldenburg (<hi rend="italic">Aldenburc</hi>), Mecklenburg (<hi rend="italic">Michelmburc</hi>) und Ratzeburg (<hi rend="italic">Racezburc</hi>) und aller anderen Bistümer, die er im Heidenland jenseits der Elbe (<hi rend="italic">in provincia ultra Albim, quam a nostra munificentia tenet</hi>) errichten kann. <span n="witnesses">Z. (<hi rend="italic">annuentibus regni principibus his</hi>): Erzbischof Wichmann von Magdeburg, die Bischöfe Bruno von Hildesheim, Hermann von Verden (<hi rend="italic">Fardense</hi>), Wicher von Brandenburg, Elekt Berthold von Zeitz, Abt Wibald (<hi rend="italic">Wicbaldo</hi>) von Corvey, die Markgrafen Konrad (von Wettin), Albrecht (der Bär), Pfalzgraf Friedrich (von Sommerschenburg), Landgraf Ludwig (von Thüringen)</span>. - Von unbekannter Hand geschrieben, Monogramm von AII. D eingesetzt; <span n="seal">B. 1.</span> <span n="incipit"><hi rend="italic">Quia ad regię</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia ad regię</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Wolfenbüttel (A). Drucke: Meklenburg. UB. 1, 46 n<hi rend="sup">o</hi>  56; MG. Const. 1, 206 n<hi rend="sup">o</hi>  147; MG. DF. I. 80. Faks.: Orig. Guelf. 4, praef. 6 Tafel 1; Posse, Privaturkunden Tafel 28. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  71; Stumpf 3692.</p></div>
+				
+				
+					<div type="commentary"><p>Die Echtheit ist durch die einwandfreie Besiegelung und durch die Einsetzung des Monogramms von der Hand des Kanzleinotars A II. D gesichert; Abb. der Goldbulle Goetting, Herrschersiegel des Mittelalters, Westermanns Monatshefte 85/7, 23 und Deér, Siegel (FS. Hahnloser, 1961) 65 Abb. 21 und 22, jetzt: VuF 21 (1977) Tafel 41 Abb. 21 und 22; vgl. die Vorbemerkung zu unserem D. - Die Übertragung dieser Rechte an den Welfen ist auch in den Ann. s. Aegid. Brunsvic. exc., MG. SS XXX/1, 15, der Braunschweig. Reimchronik, MG. Dt. Chroniken II, 495 V. 2786 ff. und der Chron. princ. Sax. ampl., MG. SS XXX/1, 30 erwähnt. Zum gesamten Fragenkomplex vgl. Jordan, Bistumsgründungen 6 ff. - Um diese Zeit urkundet Herzog Heinrich für das Stift Riechenberg (Urk. Heinrichs des Löwen n<hi rend="sup">o</hi>  27 von 1154 Juni 3, Goslar); in diesem Dokument sind zahlreiche auf dem damaligen Hoftag (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-05-00_2_0_4_2_1_224_224.html" type="internal" n="regesten">224</ref>) Anwesende genannt, vgl. Simonsfeld, Jahrbücher 226 mit Anm. 42. - Zum Verhältnis Friedrichs zur Goslarer Kirche vgl. die Urkunde Markgraf Albrechts des Bären von 1155, ed. Heinemann, CD. Anhalt. 1, 302 n<hi rend="sup">o</hi>  413, in der sich der Askanier als <hi rend="italic">Goslariensis ecclesie post regem advocatus bezeichnet</hi>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zur Interpretation des DF.I. 80 vgl. nun insbesondere Petersohn, Kirchenorganisation in Transalbingien, in: Heinrich der Löwe, hg. von Fried und Oexle (VuF 57, 2003) 239 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1449663031" value="2015-12-09"></date><p n="author">Dieter Rübsamen</p><p>Faksimile: M. Mager, Urkunde mit Goldbulle Friedrichs I. Barbarossa, in: Krönungen. Könige in Aachen, Geschichte und Mythos. Katalog der Ausstellung, hg. v. M. Kramp, Bd. 1, Mainz 2000, S. 380-381 n. 4, 3.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0079" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227888%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_80" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2534</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-01-00_1_0_4_2_3_763_2534"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-01-00_1_0_4_2_3_763_2534"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-01-00_1_0_4_2_3_763_2534</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606152" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2534</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-01-01" to="1180-01-31">1180  Ende Januar</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Würzburg im Gau Heidingsfeld <hi rend="italic">(Wirceburc in pago Heitingesfelt)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Christiani Maguntini archiep. et totius Germanię archicanc. recognovi et subscripsi</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfaßt, von unbekannter Hand geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Domdekan Perseus (von Würzburg), Kustos Albert (von Würzburg), Kantor Gottfried (von Würzburg); die Edelfreien: Graf Ludwig von Öttingen, die Grafen Gerhard und Berthold von Urach, Albert (von Grumbach), Vogt (von Kitzingen), Konrad von Boxberg, Rupert von Castell, Albert von Arnstein und Konrad von Weikersheim; die Ministerialen: Eckhart Graf (<hi rend="italic">Eggehart Comes</hi>; aus Würzburg), Botho (aus Würzburg), Herolt am Markt (<hi rend="italic">in Foro</hi>; aus Würzburg), die <hi rend="italic">tribuni</hi>  Heinrich und Heinrich (aus Würzburg), Arnold von Rothenburg, Kadeloch (von Würzburg, auch von Gutenbiegen), Billung (von Würzburg), Siegfried und Siegbert von Heidingsfeld (der Würzburger Kirche)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entscheidet nach Klagen der Äbtissin Bertha III. (<hi rend="italic">abbatissa vocabulo Bertha eiusdem nominis tercid</hi>) des Reichsklosters Kitzingen (<hi rend="italic">Bertha ... se obtutibus pręsentavit et sub nostrę immunitatis tuitione cenobium, cui pręsidet, constitutum esse commemorans</hi>), die während des allgemeinen <hi rend="spaced">Hoftages</hi>  zu Würzburg, der wegen der neulich ausgebrochenen Differenzen mit seinem <hi rend="italic">nepos</hi>  Heinrich (dem Löwen), damals Herzog von Sachsen (<hi rend="italic">Heinricum tunc ducem Saxonię</hi>), tagte, bei einem Aufenthalt im Gau Heidingsfeld vorgebracht wurden, einen Rechtsstreit um entfremdete Weinzinse des <hi rend="spaced">Klosters Kitzingen</hi>  im Sinne eines schon früher von Bischof Reinhard von Würzburg verkündeten, dann aber von anderer Seite widerrufenen Urteils zugunsten des Klosters. <span n="witnesses">Z.: Domdekan Perseus (von Würzburg), Kustos Albert (von Würzburg), Kantor Gottfried (von Würzburg); die Edelfreien: Graf Ludwig von Öttingen, die Grafen Gerhard und Berthold von Urach, Albert (von Grumbach), Vogt (von Kitzingen), Konrad von Boxberg, Rupert von Castell, Albert von Arnstein und Konrad von Weikersheim; die Ministerialen: Eckhart Graf (<hi rend="italic">Eggehart Comes</hi>; aus Würzburg), Botho (aus Würzburg), Herolt am Markt (<hi rend="italic">in Foro</hi>; aus Würzburg), die <hi rend="italic">tribuni</hi>  Heinrich und Heinrich (aus Würzburg), Arnold von Rothenburg, Kadeloch (von Würzburg, auch von Gutenbiegen), Billung (von Würzburg), Siegfried und Siegbert von Heidingsfeld (der Würzburger Kirche)</span>. — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Christiani Maguntini archiep. et totius Germanię archicanc. recognovi et subscripsi</hi> </span>; <span n="clerk">außerhalb der Kanzlei verfaßt, von unbekannter Hand geschrieben</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Si rationabiles fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si rationabiles fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1300 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>  434 n<hi rend="sup">o</hi>  534 zu ca. Januar 31; Weller, Hohenlohisches UB. 1, 8 n<hi rend="sup">o</hi>  15; MG.DF.I.793. Regg.: Diestelkamp — Rotter, Urkundenregesten 1, 350 n<hi rend="sup">o</hi>  448; Stumpf 4299.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Beurteilung vgl. die Vorbemerkung zum D. — Zu einem früheren Aufenthalt des Kaisers in Kitzingen vgl. oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-08-18_1_0_4_2_2_944_1502.html" type="internal" n="regesten">1502</ref>. — Zu dem unter den Zeugen genannten Ministerialen Kadeloch von Gutenbiegen vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 261, zu Siegbert von Heidingsfeld Plassmann, a.a.O., 274.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0267" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_793" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

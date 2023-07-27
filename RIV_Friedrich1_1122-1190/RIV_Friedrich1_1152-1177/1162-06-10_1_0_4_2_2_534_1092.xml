@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1092</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-10_1_0_4_2_2_534_1092"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-10_1_0_4_2_2_534_1092"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-06-10_1_0_4_2_2_534_1092</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244582" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1092</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-06-10" to="1162-06-10">1162 Juni 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(quarto idus iunii, Papie apud sanctam Saluatorem post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heinrich Guercio von Savona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vodalricus canc. vice Reinaldi Coloniensis electi et archicanc.</hi></notarius>
+				
+				
+					<scribe>wahrscheinlich verfaßt und geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">Elekt Rainald von Köln, die Bischöfe Heinrich von Lüttich, Ortlieb (<hi rend="italic">Ordicus</hi>) von Basel, Hermann von Konstanz, Udo von Naumburg, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Hermann von Hildesheim und Garsendonius von Mantua, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, die Bischöfe Anselm von Asti, Aicard von Parma, Sirus von Pavia, (Wilhelm) von Acqui und (Obert) von Tortona, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Oheim des Kaisers, Pfalzgraf Otto von Wittelsbach, Markgraf Dietrich (von der Lausitz), Graf Dedo (von Groitzsch), die Grafen Albert von Sachsen, Rudolf von Pfullendorf, Ulrich von Lenzburg und Emicho (von Leiningen), Burggraf Burchard von Magdeburg, die Markgrafen Wilhelm von Montferrat und Obizo Malaspina, Graf Guido von Biandrate, Gebhard von Leuchtenberg und sein Bruder Markward, Marschall Heinrich, Wido von Sannazzaro de' Burgondi, Gilius von Dovera</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt den verdienstvollen Markgrafen <span sameAs="recipient"><hi rend="spaced">Heinrich Guercio von Savona</hi> </span>  mit allen Besitzungen und Rechten seines Vaters, des Markgrafen Bonifatius, sowie allen Regalien in der Stadt Savona und der Markgrafschaft, erteilt ihm das Recht, Burgen anzulegen bzw. ihm unliebsame Festungen zu zerstören, und bestätigt ihm alle Einkünfte (<hi rend="italic">pedagios et bonos usus</hi>) vorbehaltlich der Dienste, die er dem Reiche schuldet. <span n="witnesses">Z.: Elekt Rainald von Köln, die Bischöfe Heinrich von Lüttich, Ortlieb (<hi rend="italic">Ordicus</hi>) von Basel, Hermann von Konstanz, Udo von Naumburg, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Hermann von Hildesheim und Garsendonius von Mantua, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, die Bischöfe Anselm von Asti, Aicard von Parma, Sirus von Pavia, (Wilhelm) von Acqui und (Obert) von Tortona, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Oheim des Kaisers, Pfalzgraf Otto von Wittelsbach, Markgraf Dietrich (von der Lausitz), Graf Dedo (von Groitzsch), die Grafen Albert von Sachsen, Rudolf von Pfullendorf, Ulrich von Lenzburg und Emicho (von Leiningen), Burggraf Burchard von Magdeburg, die Markgrafen Wilhelm von Montferrat und Obizo Malaspina, Graf Guido von Biandrate, Gebhard von Leuchtenberg und sein Bruder Markward, Marschall Heinrich, Wido von Sannazzaro de' Burgondi, Gilius von Dovera</span>. - <span n="chancellor"><hi rend="italic">Vodalricus canc. vice Reinaldi Coloniensis electi et archicanc.</hi> </span>; <span n="clerk">wahrscheinlich verfaßt und geschrieben von RC</span>. <span n="incipit"><hi rend="italic">Apud nostram maiestatem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Apud nostram maiestatem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Bestätigung König Maximilians I. von 1496 Dezember 8 (als Insert in Urkunde Kaiser Friedrichs II. von 1226 Juli, B. Ficker Reg. 1651), in Urkunde König Karls IV. von 1355 Februar 2, B.-Huber Reg. 1979, in Urkunde Kaiser Sigismunds von 1426 April 1, B.-Altmann Reg. 6601), Staatsarchiv Mailand (E); Abschrift des Transsumptes Sigismunds von 1560, Haus-, Hofund Staatsarchiv Wien (G). Drucke: Prutz, Friedrich I. 1, 443 n<hi rend="sup">o</hi>  15; MG. DF. I. 368. Reg.: Stumpf 3950.</p></div>
+				
+				
+					<div type="commentary"><p>Der Empfänger war einer der Machtträger, deren Rechte im tags zuvor ausgestellten D. für Genua (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-06-09_1_0_4_2_2_532_1090.html" type="internal" n="regesten">1090</ref>) ausdrücklich gewahrt worden waren. - Zur Identifizierung der Bischöfe von Acqui und Tortona vgl. Savio, Gli antichi vescovi d'Italia. Piemonte (1896) 39 und 395 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0149" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_368" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

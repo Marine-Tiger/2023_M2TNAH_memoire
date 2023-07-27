@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3462</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-05-01_1_0_4_2_4_892_3462"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-05-01_1_0_4_2_4_892_3462"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-05-01_1_0_4_2_4_892_3462</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3462</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-05-01" to="1190-05-01">1190
+									Mai 26 – Juni 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Ikonium (heute: Konya) – <hi rend="italic">quadraginta fontes </hi> (bei Çumra = heute: Içeriçumra) – (wohl: Kodylessos/Gödelisin bei Kızılkuyu) –  <hi rend="italic">Pyrgus</hi> (heute: Kazımkarabekir) – <hi rend="italic">Laranda</hi> (heute: Karaman)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht mit dem Kreuzheer aus dem 								königlichen Garten vor Ikonium auf und erreicht – noch am selben Tag 								(?) – die <hi rend="italic">quadraginta fontes</hi>. – Tags darauf 								(Mai 27) wird ein großer Fluss mit trinkbarem Wasser (heute: 								Çarşambasuyu) überquert. Wegen der die Kreuzritter unablässig 								verfolgenden Seldschuken droht der Kaiser den seldschukischen 								Geiseln (zu diesen vgl. Reg. 3461) mit der Todesstrafe. – In der 								Folge bessert sich die Lage, und man gelangt über ein großes Dorf 								(wohl: Kodylessos/Gödelisin bei Kızılkuyu) auf mühsamer Route nach 									<hi rend="italic">Pyrgus</hi> (heute: Kazımkarabekir), wo ein 								guter Markt angetroffen und einen Tag (wohl Mai 28/29) gerastet 								wird. – Am 30. Mai zieht man weiter und trifft in der Grenzstadt <hi rend="italic">Laranda</hi> (heute: Karaman) ein, die Armenien 								vom seldschukischen Gebiet<hi rend="italic"> </hi>(<hi rend="italic">Ciliciam, id est Armeniam, a Lycaonia</hi>) trennt. – Am 1. 								Juni wird hier eine Rast eingelegt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 515; 								Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 88 f. (deutsche Übersetzung von Bühler, Der Kreuzzug 								Friedrich Barbarossas, 144 f.); Epistola de morte, ed. Chroust, MG. 								SS rer. Germ. N.S. 5, 177; Hist. peregrinorum, ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 171; Niketas Choniates II/7, ed. Bekker, 544 bzw. 								ed. van Dieten, 415 f. (deutsche Übersetzung bei Grabler, Abenteurer 								auf dem Kaiserthron, 220); Tageno, ed. Struve, Rerum Germanicarum 								Scriptores I (1717) 414 f.; vgl. Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 300 englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 63 f. c. 23–24); Arnoldi Chron. 								Slavorum l. IV cap. 12, MG. SS XXI, 175; Chron. Montis Sereni, MG. 								SS XXIII, 162; Gesta Fed. I. imp. in expeditione sacra, ed. 								Holder-Egger, MG. SS rer. Germ. in us. schol., 94 f.; Iohannes de 								Piscina de transfretatione Friderici I., MG. SS XXII, 340; Otto von 								St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. 								schol., 51 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 98 f.; vgl. Salimbene de Adamo von Parma, Chronica, MG. SS 								XXXII, 12; Sicardi ep. Cremon. Cronica, MG. SS XXXI, 171; Alberti 								Milioli Cron. imp., MG. SS XXXI, 649; L’estoire de Eracles (Recueil 								des Historiens des Croisades, Sér. II: Historiens occidentaux, Tom. 								2, 1859) 134 ff. lib. XXIV cap. XXIV–XXV = Continuation de Guillaume 								de Tyr, ed. Morgan (Doc. relatifs à l’histoire des Croisades 14, 								1982) 95 f. cap. 91–92 = The Old French Continuation of William of 								Tyre, 1184–1197, ed. Edbury, The conquest of Jerusalem and the Third 								Crusade. Sources in Translation (1996) 86 cap. 91–92 (seldschukische 								Angriffe während des Weges nach Armenien; erwähnt Hinrichtungen von 								Geiseln); Bericht des Bahā’ al-Dīn, History of Saladin, transl. by 								D. S. Richards (2002) 113; Chronicle of Ibn al-Athīr, Part 2, 								transl. by D. S. Richards (Crusade Texts in Translation, 2007) 375 								(auszugweise deutsche Übersetzung bei Gabrieli, Die Kreuzzüge aus 								arabischer Sicht, 1973, 263).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 								278, Eickhoff, Barbarossa im Orient, 137 ff., und Opll, Itinerar, 								107 f.; Eickhoff, ebda., sowie Bühler, a.a.O., 165 Anm. 315 								identifzieren das vor dem Erreichen von <hi rend="italic">Pyrgus</hi> passierte große Dorf mit Kodylessos/Gödelisin bei 								Kızılkuyu.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

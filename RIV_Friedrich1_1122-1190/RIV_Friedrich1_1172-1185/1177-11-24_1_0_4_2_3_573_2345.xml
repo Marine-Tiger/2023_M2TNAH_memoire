@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2345</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-11-24_1_0_4_2_3_573_2345"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-11-24_1_0_4_2_3_573_2345"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-11-24_1_0_4_2_3_573_2345</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604145" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2345</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-11-24" to="1177-11-24">1177 November 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>San Vitale</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII<hi rend="sup">o</hi>  kal. decenbris mensis, apud castrum sancti Vitalis)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befreit den Ort <hi rend="spaced">Monte San Vito im Bistum Senigallia</hi>  (<hi rend="italic">Montem sancti Viti, qui et appellari solet Mons sancti Petri, situm in episcopatu Senogalliensi</hi>) samt der dortigen Burg, der Kirche und allen namentlich genannten Besitzungen von der Gewalt des Markgrafen Konrad (von Lützelhardt) von Ancona und seiner Nachfolger, unterstellt den Ort unmittelbar dem Reich, nimmt ihn samt seinem Zugehör in seinen Schutz, erklärt seinen Vizegrafen als zuständig für die Gerichtsbarkeit und die Einsammlung der Abgaben, insbesondere des Fodrums, gewährt dem Ort einen Wochenmarkt jeweils am Donnerstag und einen Jahrmarkt, der im August vier Tage vor und vier Tage nach Maria Himmelfahrt (= 15. August) abgehalten werden soll, bestätigt den Burgbewohnern die Gewohnheitsrechte aus der Zeit der früheren Markgrafen Friedrich und Werner (von Ancona), erlaubt die freie Zuwanderung, nimmt die Neubürger in seinen Schutz und gewährt ihnen für die ersten drei Jahre Abgabenfreiheit sowie danach die Rechte ihrer Mitbürger und dehnt das örtliche Friedensrecht auf das gesamte Gebiet aus (<hi rend="italic">ut tanta securitas pacis per terminos et stratas eiusdem loci habeatur</hi>). — Anklänge an das Diktat Burkhards reichen nicht aus, um dessen Verfasserschaft eindeutig nachzuweisen. <span n="incipit"><hi rend="italic">Noverit imperii nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverit imperii nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1270 im Libro Rosso n<hi rend="sup">o</hi>  1 (Cartularium civitatis Aesinensis) p. 88, Stadtarchiv Jesi (B). Druck: MG.DF.I.716. Reg.: Stumpf 4231.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0206" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_716" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

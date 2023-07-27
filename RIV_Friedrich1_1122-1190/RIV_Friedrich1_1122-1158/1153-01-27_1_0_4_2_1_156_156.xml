@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 156</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-01-27_1_0_4_2_1_156_156"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-01-27_1_0_4_2_1_156_156"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-01-27_1_0_4_2_1_156_156</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236546" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 156</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-01-27" to="1153-01-27">1153 Januar 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Hohenburg</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI kalendas februarii, Hoenburch)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Fides</hi>  <hi rend="spaced">Schlettstadt</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung der Gründungsurkunde der Hildegard, Gemahlin Friedrichs von Büren, vom Jahre 1094 (Würdtwein, Nova Subsidia 6, 256 n<hi rend="sup">o</hi>  109; VU. I) und des Privilegs Paschals II. von 1106 (JL. 6072, Germ. pont. 3/3, 54 n<hi rend="sup">o</hi>  1; VU. II)</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, Bischof Burchard von Straßburg, Abt Wibald von Corvey (<hi rend="italic">Corbeigeinsis</hi>), Herzog Heinrich von Sachsen, Markgraf Hermann von Sachsen, Pfalzgraf Otto von Wittelsbach, die Grafen Werner von Baden und Emicho von Leiningen, Kuno von Biederthal (<hi rend="italic">Biberdan</hi>), Heinrich von Eichstetten (<hi rend="italic">Eistey</hi>), Hartmann von Siebeneich (<hi rend="italic">Siwenheich</hi>), der Kämmerer des Königs</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem von seinen Vorfahren, Bischof Otto von Straßburg, Herzog Friedrich (I.) von Schwaben, Ludwig, Konrad und Walter, gestifteten Kloster <span sameAs="recipient"><hi rend="spaced">St. Fides</hi> </span>  in <span sameAs="recipient"><hi rend="spaced">Schlettstadt</hi> </span>  (<hi rend="italic">ecclesiam Slezstat</hi>), das nach dem Vorbilde des Grabes des Herrn errichtet wurde, gemäß den von seinen Ahnen getroffenen Bestimmungen die Unterstellung unter den Abt von Conques (<hi rend="italic">sancte Fidei in Concha</hi>), der auch das Recht hat, den Vogt zu wählen, die Freiheit von feindlichen Einfällen und von Bedrückungen der Bischöfe sowie ihrer Diener, das Begräbnisrecht und die Besitzungen, frei von aller weltlichen Herrschaft. <span n="witnesses">Z.: Erzbischof Arnold von Köln, Bischof Burchard von Straßburg, Abt Wibald von Corvey (<hi rend="italic">Corbeigeinsis</hi>), Herzog Heinrich von Sachsen, Markgraf Hermann von Sachsen, Pfalzgraf Otto von Wittelsbach, die Grafen Werner von Baden und Emicho von Leiningen, Kuno von Biederthal (<hi rend="italic">Biberdan</hi>), Heinrich von Eichstetten (<hi rend="italic">Eistey</hi>), Hartmann von Siebeneich (<hi rend="italic">Siwenheich</hi>), der Kämmerer des Königs</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung der Gründungsurkunde der Hildegard, Gemahlin Friedrichs von Büren, vom Jahre 1094 (Würdtwein, Nova Subsidia 6, 256 n<hi rend="sup">o</hi>  109; VU. I) und des Privilegs Paschals II. von 1106 (JL. 6072, Germ. pont. 3/3, 54 n<hi rend="sup">o</hi>  1; VU. II), wahrscheinlich verfaßt und geschrieben von A II. D</span>. <span n="incipit"><hi rend="italic">Felicius agi res</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Felicius agi res</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift Grandidiers (18. Jh.) aus einer damals im bischöflichen Archiv Straßburg befindlichen Kopie des 13. Jh. im Generallandesarchiv Karlsruhe (G). Drucke: Würdtwein, Nova Subsidia 7, 160 n<hi rend="sup">o</hi>  62; MG. DF. I. 45. Reg.: Stumpf 3658.</p></div>
+				
+				
+					<div type="commentary"><p>Die Bestimmung über die freie Vogtwahl wurde von JL. 6072 (VU. II) übernommen, obwohl Herzog Friedrich von Schwaben im Jahre 1105 festgestellt hatte, daß die Vogtei dem jeweiligen Inhaber des Hohenstaufen und des Herzogtums Schwaben zustehen solle (Würdtwein, Nova Subsidia 6, 290). - Es ist durchaus möglich, daß sich Friedrich damals auch in Oberehnheim aufgehalten hat. Zum Itinerar dieser Zeit vgl. Simonsfeld, Jahrbücher 150 Anm. 2 und Opll, Itinerar 10. - Zu den Vorfahren Friedrichs vgl. Maschke, Staufer, 17 ff. und Klebel, Hohenstaufen, ZGORh 102 = N. F. 63 (1954) 139 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0055" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_45" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

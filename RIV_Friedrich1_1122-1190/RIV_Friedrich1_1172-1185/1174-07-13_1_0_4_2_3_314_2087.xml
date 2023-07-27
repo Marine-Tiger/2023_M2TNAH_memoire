@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2087</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-07-13_1_0_4_2_3_314_2087"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-07-13_1_0_4_2_3_314_2087"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-07-13_1_0_4_2_3_314_2087</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598590" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2087</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-07-13" to="1174-07-13">1174 Juli 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Donauwörth">Donauwörth</placeName>
+												<location><geo decls="#WGS">48.7333, 10.8</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in die sancte Margarete apud Werdam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Rudolf von Pfullendorf, Burggraf Konrad von Nürnberg, Graf Diepold von Lechsgemünd, Heinrich von Altendorf, Konrad von Boxberg, Degenhard von Hellenstein, Ulrich von Waischenfeld, Friedrich von Hohentrüdingen, Truchseß Arnold, dessen Bruder Konrad, Bernold von Druisheim und Herdegnus von Großgründlach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich trifft mit <hi rend="spaced">Bischof Hermann von Bamberg und dessen Domkapitel</hi>  unter Propst Otto eine Vereinbarung über die Belehnung seiner Söhne Herzog Friedrich von Schwaben und Otto mit den bambergischen Lehen Graf Gebhards von Sulzbach nach dessen Ableben, was der Bischof ihm und seiner Gemahlin, Kaiserin (Beatrix) in die Hand verspricht, wobei er in Abänderung einiger Punkte der schon zuvor getroffenen Abmachung (DF.I.624 = Reg. 2086) dem Bischof 1200 Mark und dem Domkapitel ein Allod mit einem jährlichen Ertrag von zehn Pfund übergeben wird. Auch die Burg Hilgartsberg, die Güter im Lungau, das Lehen Ottos von Rechberg und die Vogtei in Winzer werden entgegen den in Reg. 2086 enthaltenen Bestimmungen und gegen Zahlung von 122 Mark an den Bischof in die Abmachungen einbezogen, die am Tag der hl. Margarete (= Juli 13) 1174 zu Donauwörth eingegangen worden sind. Für den Fall seines (des Kaisers) Todes wird die Kaiserin die zusätzlich eingegangenen Zahlungsverpflichtungen erfüllen; der Nießbrauch der Güter von Regensburg über den Regen und Nittenau bis nach Bamberg bleibt bis zur erfolgten Zahlung dem Bischof vorbehalten, während die Güter diesseits der Donau, nämlich (Bad) Aibling, die Burg Ebbs und Hilgartsberg, mit dem Nießbrauch an den Kaiser und seine Söhne, von denen bei Ableben des einen der andere die Lehen erhält, kommen. <span n="witnesses">Z.: Graf Rudolf von Pfullendorf, Burggraf Konrad von Nürnberg, Graf Diepold von Lechsgemünd, Heinrich von Altendorf, Konrad von Boxberg, Degenhard von Hellenstein, Ulrich von Waischenfeld, Friedrich von Hohentrüdingen, Truchseß Arnold, dessen Bruder Konrad, Bernold von Druisheim und Herdegnus von Großgründlach</span>. Diese Zeugen verbürgen sich dafür, daß weder der Kaiser noch seine Söhne vor der Bezahlung der genannten Summe die dem Bischof einstweilen verpfändeten Güter in Besitz nehmen; sollte dies dennoch geschehen, so verpflichten sich die Zeugen, sich <hi rend="italic">in potestatem episcopi</hi>  zu geben. — Wohl nach Bamberger Diktat in starker Abweichung von der Diplomform geschrieben von HE; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Universis imperii nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Universis imperii nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Bamberg, Bamberger Urkunden 321 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>  419 n<hi rend="sup">o</hi>  528; MG.DF.I.625. Reg.: Stumpf 4167.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Beurteilung vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur. — Zu dem unter den Zeugen genannten Bernold von Druisheim vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 259. — Zum Inhalt vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1167-08-13_1_0_4_2_3_313_2086.html" type="internal" n="regesten">2086</ref>  mit der dort genannten Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0115" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_625" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

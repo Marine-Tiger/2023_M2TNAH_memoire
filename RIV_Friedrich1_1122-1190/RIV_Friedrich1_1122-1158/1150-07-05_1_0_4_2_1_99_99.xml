@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 99</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-07-05_1_0_4_2_1_99_99"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-07-05_1_0_4_2_1_99_99"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1150-07-05_1_0_4_2_1_99_99</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235495" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 99</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1150-07-05" to="1150-07-05">1150 (!) Juli 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(tercio nonas iulii, Ratispone)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Moggio</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. archicanc.</hi></notarius>
+				
+				
+					<scribe>VU.: DK. III. 198, außerhalb der Kanzlei verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Eberhard von Salzburg, die Bischöfe Heinrich von Regensburg, Eberhard von Bamberg, Konrad von Passau, Erzbischof Wichmann von Magdeburg (<hi rend="italic">Maideburgensis</hi>), Bischof Gebhard von Würzburg, die Herzoge Heinrich von Bayern und Welf, Markgraf Otakar von Steier, Pfalzgraf Otto (von Wittelsbach) und seine Söhne Otto und Friedrich, Markgraf Engelbert von Istrien und sein Bruder, Graf Rapoto, die Grafen Siegfried (<hi rend="italic">Siuridus</hi>  von Lebenau/Hohenburg), Liutold von Plain (<hi rend="italic">Plágin</hi>), Berthold von Andechs und Berthold von Bogen, Burggraf Otto von Regensburg und Graf Konrad von Oberroning (<hi rend="italic">Ronigen</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Abtes Ulrich dessen Kloster <span sameAs="recipient"><hi rend="spaced">Moggio</hi> </span>  (<hi rend="italic">Mosacensis</hi>) nach dem Beispiel seiner Vorgänger den Besitzstand und das Recht, Schenkungen von Allodialgütern anzunehmen. <span n="witnesses">Z.: Erzbischof Eberhard von Salzburg, die Bischöfe Heinrich von Regensburg, Eberhard von Bamberg, Konrad von Passau, Erzbischof Wichmann von Magdeburg (<hi rend="italic">Maideburgensis</hi>), Bischof Gebhard von Würzburg, die Herzoge Heinrich von Bayern und Welf, Markgraf Otakar von Steier, Pfalzgraf Otto (von Wittelsbach) und seine Söhne Otto und Friedrich, Markgraf Engelbert von Istrien und sein Bruder, Graf Rapoto, die Grafen Siegfried (<hi rend="italic">Siuridus</hi>  von Lebenau/Hohenburg), Liutold von Plain (<hi rend="italic">Plágin</hi>), Berthold von Andechs und Berthold von Bogen, Burggraf Otto von Regensburg und Graf Konrad von Oberroning (<hi rend="italic">Ronigen</hi> </span>). - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. archicanc.</hi> </span>; <span n="clerk">VU.: DK. III. 198, außerhalb der Kanzlei verfaßt</span>. <span n="incipit"><hi rend="italic">Decet imperativam clementiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet imperativam clementiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Originaltranssumpt Kaiser Friedrichs II. von 1227 Dezember (B.-Ficker Reg. 1717) im Cod. class. V 58/59 fol. 11, Biblioteca Marciana Venedig (B). Drucke: Cappelletti, Le chiese d'Italia 8, 209 n<hi rend="sup">o</hi>  7; MG. DF. I. 13. Reg.: Jaksch, Mon. Duc. Car. 3, 353 n<hi rend="sup">o</hi>  915; Stumpf 3632.</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierungsangaben - Inkarnationsjahr 1150 und die vierte Indiktion - und die Bezeichnung Friedrichs als Kaiser bereiten gewisse Schwierigkeiten. Inhaltlich ist das D., dessen Existenz auch durch die Erwähnung im Privileg Papst Lucius III. von 1184 September 19 (JL. 15082; It. Pont. 7, 67 n<hi rend="sup">o</hi>  1) bezeugt ist, aber nicht verdächtig. Entweder sind die Unregelmäßigkeiten als Überlieferungsfehler zu sehen oder sie lassen sich durch die Herstellung durch den Empfänger erklären. Eine dritte Möglichkeit, für die Herkenrath, Regnum und Imperium, SB. Wien 264/5 (1969) 43 f. Anm. 229, jetzt in: Friedrich Barbarossa (WdF 390, 1975) 345 Anm. 111 eintritt, wäre die Annahme uneinheitlicher Datierung - Handlung 1152 Juli 5, Regensburg/Beurkundung 1156 -, Regensburg (zu diesem Jahr würde die Indiktion 4 passen). - Der Text weist in allen Partien weitestgehende Übereinstimmung mit Alberich von Montecassino, Breviarium de dictamine, ed. Rockinger, Briefsteller (Qu. u. Erört. zur Bayer. Gesch. 9/1, 1863) 39 auf, vgl. DD. H. IV. S. 686 n<hi rend="sup">o</hi>  XXIV und dazu die Nachträge, ed. Gawlik, 752.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Vgl. zum D. jetzt Herkenrath, Miszellen, AfD 28 (1982) 223 ff. mit Neuedition 236 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0037" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_13" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2492</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-27_2_0_4_2_3_720_2492"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-27_2_0_4_2_3_720_2492"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-05-27_2_0_4_2_3_720_2492</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430900770" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2492</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-05-27" to="1179-05-27">1179  etwa Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Konstanz <hi rend="italic">(in civitate Constanciensi)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei von einem örtlichen Schreiber aus dem Umkreis der Konstanzer Bischofskanzlei verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Z. (<hi rend="italic">qui viderunt et audiverunt</hi>): Erzbischof Arnold von Trier, Bischof Berthold von Konstanz, die Herzoge Welf (VI.) sowie Berthold von Zähringen und sein Sohn (Berthold), Markgraf Hermann von Baden, die Grafen Rudolf von Pfullendorf, Hartmann von (Ober-)Kirchberg und dessen Bruder, Graf Otto, die Grafen Manegold von Veringen, dessen Bruder, Graf Heinrich, und seine (= des Heinrich) Söhne, die Grafen Hartmann von Kiburg, Burchard von Höhenberg und sein Bruder, Graf Friedrich, die Grafen Berthold und Friedrich von Hohenzollern sowie die Grafen Berthold und Ulrich von Berg, Vogt Konrad von Konstanz und Diethelm von Toggenburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt auf dem allgemeinen <hi rend="spaced">Hoftag</hi>  zu Konstanz (<hi rend="italic">cum Constancie curiam universalem cum principibus imperii celebraremus</hi>) die alte Freiheit der Überfuhr in <hi rend="spaced">Überlingen</hi>  (Überlieferung C: <hi rend="italic">Vberlingen</hi>; Überlieferung BD sowie in den Überschriften der Eintragungen in allen drei Überlieferungen: <hi rend="kursiv">V<hi rend="sup">o</hi> ldingen</hi>  = <hi rend="spaced">Uhldingen</hi>) wieder her, die er zuvor dem <hi rend="spaced">Grafen Rudolf von Pfullendorf</hi>  zu Lehen gegeben hatte, und legt fest, daß die Schiffer bei Androhung des kaiserlichen Bannes den geltenden Frachtlohn nicht überschreiten dürfen. <span n="witnesses">Z. (<hi rend="italic">qui viderunt et audiverunt</hi>): Erzbischof Arnold von Trier, Bischof Berthold von Konstanz, die Herzoge Welf (VI.) sowie Berthold von Zähringen und sein Sohn (Berthold), Markgraf Hermann von Baden, die Grafen Rudolf von Pfullendorf, Hartmann von (Ober-)Kirchberg und dessen Bruder, Graf Otto, die Grafen Manegold von Veringen, dessen Bruder, Graf Heinrich, und seine (= des Heinrich) Söhne, die Grafen Hartmann von Kiburg, Burchard von Höhenberg und sein Bruder, Graf Friedrich, die Grafen Berthold und Friedrich von Hohenzollern sowie die Grafen Berthold und Ulrich von Berg, Vogt Konrad von Konstanz und Diethelm von Toggenburg</span>. — <span n="clerk">Außerhalb der Kanzlei von einem örtlichen Schreiber aus dem Umkreis der Konstanzer Bischofskanzlei verfaßt.</span> <span n="incipit"><hi rend="italic">Si rebus debitam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si rebus debitam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Kopialbuch des Konstanzer Domkapitels von 1346 n<hi rend="sup">o</hi>  506 f. 60', Generallandesarchiv Karlsruhe (B); Kopialbuch vom Ende des 14. Jh. (Rotes Buch) n<hi rend="sup">o</hi>  509 f. 64, ebenda (C); Kopialbuch des Bistums Konstanz II von ca. 1510 n<hi rend="sup">o</hi>  501 f. 115, ebenda (D). Drucke: Fürstenberg. UB. 5, 67 n<hi rend="sup">o</hi>  107; MG.DF.I.779. Regg.: Schmid, Rudolf von Pfullendorf 291 n<hi rend="sup">o</hi>  100; Diestelkamp — Rotter, Urkundenregesten 1, 346 n<hi rend="sup">o</hi>  443; Stumpf 4281.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1179-05-27_1_0_4_2_3_719_2491.html" type="internal" n="regesten">2491</ref>, zur diplomatischen Kritik vgl. die Vorbemerkung zum D. — Zur Lokalisierung der Fähre über den Bodensee — nicht Uhldingen, sondern Überlingen — vgl. ebenfalls die Vorbemerkung mit dem Hinweis auf Schmid, a.a.O., 100 ff. — Zu dem unter den Zeugen genannten Grafen Burchard von (Hohen)Zollern bzw. Hohenburg (Kr. Tuttlingen) vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 260 f. und 280; daß sich unter den Söhnen des Grafen Heinrich von Veringen Eberhard von Veringen befand, macht Plassmann, a.a.O., 263 wahrscheinlich.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0251" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_779" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

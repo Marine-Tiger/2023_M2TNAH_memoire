@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †2990</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-01_2_0_4_2_4_414_2990"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-01_2_0_4_2_4_414_2990"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-01_2_0_4_2_4_414_2990</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †2990</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-01" to="1186-06-01">(1186
+									nach Juni 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Papst Urban (III.) teilt Kaiser F(riedrich) mit, 								dass er von der von ihm zum Nachteil des freien Verkehrs mit der 								Kurie verordneten Sperre der Alpen(pässe) erfahren habe, und fordert 								die Aufhebung dieser Maßnahme.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fingiertes päpstliches Schreiben, Jüngere 								Hildesheimer Briefsammlung, ed. de Kegel, MG. Briefe VII, 88 n<hi rend="sup">o</hi> 41; Jaffé-L. †15.757.</p></div>
+				
+				
+					<div type="commentary"><p>Zum historischen Gehalt dieser Briefsammlung vgl. 								allgemein Opll, Auswertung, DA 33 (1977) 473 ff.; eine englische 								historiographische Quelle berichtet gleichfalls von Behinderungen, 								mittels derer der Staufer den Verkehr mit der Kurie eindämmte, wobei 								man vor allem in Ivrea und Turin an die Kurie reisende Leute in den 								Kerker geworfen und gefoltert haben soll (E Gervasii Cantuariensis 								Chronica, MG. SS XXVII, 304: <hi rend="italic">… imperator … in 									ipsum quoque dominum papam edictum statuit, totius imperii 									appellationes inhibuit aliarumque regionum appellationes 									impedivit, et quos apprehendere poterat ad papam euntes vel ab 									eo redeuntes incarceravit, …</hi>). – Zur zeitlichen Einordnung 								vgl. auch Reg. 3011, wonach die Sperre der Alpenpässe wohl erst nach 								der Rückkehr des Kaisers aus Italien erfolgte. – Vgl. dazu die – 								gleichfalls fingierte – Antwort des Kaisers, Reg. †2991.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

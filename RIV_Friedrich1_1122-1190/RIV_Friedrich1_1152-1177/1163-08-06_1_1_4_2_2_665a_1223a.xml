@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1223a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-06_1_1_4_2_2_665a_1223a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-08-06_1_1_4_2_2_665a_1223a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-08-06_1_1_4_2_2_665a_1223a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358500946" value="2013-01-18"></date>
+				<date type="lastmod" n="1358500946" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1223a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-08-06" to="1163-08-06">1163 August 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Castell’Arquato</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Im Auftrag des Richters Ranglerius, Vikar Kaiser Friedrichs und Podestà von Castell’Arquato, entscheidet Gandulfus de Sigezone einen Güterstreit zugunsten des Dompropstes Fredenzone von Piacenza.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ungedruckte Urkunde im Diözesanarchiv Piacenza, Archivio capitolare, Cassetta Nr. 14, Pergamena Nr. 4; erwähnt bei Sprenger, Heiligkeit von Kaiser und Reich, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 196 Anm. 58.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Nachricht ergänzt unser Wissen um das Netz der staufischen Amtsträger, die in diesen Jahren eingesetzt wurden, vgl. Sprenger, a.a.O., 196 f., der auch auf die Nennung des Ranglerius, allerdings ohne den Titel Podestà, als letzter Zeuge (Reinger von Castell’Arquato) in dem am 28. Januar 1167 in Parma ausgestellten DF.I.523 (Reg. 1620) hinweist. – Propst Fredenzone von Piacenza wurde ein Jahr später vom Kaiser zum Bischof von Piacenza erhoben, vgl. Reg. 1366; Gandulfus de Sigezone könnte mit dem zwischen 1155 und 1184 nachweisbaren, aus S. Marzano stammenden „Piacentiner“ Sucio de Sigizo verwandt gewesen sein, vgl. zu diesem zuletzt Opll, Zwang und Willkür, 239.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360331026" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXXII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

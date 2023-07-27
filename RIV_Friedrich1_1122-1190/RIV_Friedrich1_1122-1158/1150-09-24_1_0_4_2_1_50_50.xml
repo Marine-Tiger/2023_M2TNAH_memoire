@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 50</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-09-24_1_0_4_2_1_50_50"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-09-24_1_0_4_2_1_50_50"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1150-09-24_1_0_4_2_1_50_50</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358152635" value="2013-01-14"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 50</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1150-09-24" to="1150-09-24">1150 September 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Langenau (bei Ulm)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Zeuge</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich, Herzog (von Schwaben), wird als <span sameAs="recipient"><hi rend="spaced">Zeuge</hi> </span>  in einer bei einer Besprechung König Konrads (III.) mit den Reichsfürsten (<hi rend="italic">rege Conrado in praefata villa colloquium cum principibus regni habente</hi>) ausgestellten Urkunde über ein Tauschgeschäft zwischen den Klöstern St. Blasien und Elchingen genannt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Tauschurkunde, ed. Gerbert, Hist. Silvae Nigrae 3 (1788) 76 n<hi rend="sup">o</hi>  51; Schmid, Pfullendorf (Forsch. zur oberrhein. LG 1, 1954) 261 n<hi rend="sup">o</hi>  29; Stumpf 3574.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch die Urkunde Bischof Hermanns von Konstanz von 1156 April 4, Wirtemberg. UB. 2, 122 n<hi rend="sup">o</hi>  366; vgl. Bernhardi, Konrad III. 850 mit Anm. 32 und 33.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>B.-Niederkorn-Hruza, Reg. 698 möchten den von Friedrich vermittelten Frieden zwischen König Konrad III. und Herzog
+</p>
+<p>Welf VI. schon zu der Zusammenkunft in Langenau (siehe unser Reg. 50) datieren.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0021" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

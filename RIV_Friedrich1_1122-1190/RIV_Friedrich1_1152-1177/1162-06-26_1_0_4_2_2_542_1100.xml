@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1100</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-26_1_0_4_2_2_542_1100"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-26_1_0_4_2_2_542_1100"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-06-26_1_0_4_2_2_542_1100</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244687" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1100</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-06-26" to="1162-06-26">1162 Juni 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei Savignano im Gebiet von Modena</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI<hi rend="sup">o</hi>  kal. iulii, in territorio Mutinensi in plano castri Sauignani post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ravenna</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vdalricus canc. vice Rainaldi Coloniensis archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von RC, geschrieben von Christian E</scribe>
+				
+				
+					<testis function="witnesses">Rainald, Erzbischof von Köln und Erzkanzler für Italien, Elekt Konrad von Mainz, Patriarch Ulrich von Aquileia, Elekt Guido von Ravenna, die Bischöfe Heinrich von Lüttich, Hermann von Verden, Elekt Hermann von Hildesheim, Abt Hermann von Hersfeld, Bischof Aicard von Parma, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Stiefvater (irrig statt: Oheim) des Kaisers, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), Herzog Hermann von Kärnten, Markgraf Albert (von Sachsen), Pfalzgraf Otto von Wittelsbach, Graf Emicho von Leiningen, die Herzoge Ulrich (von Böhmen) und Boleslaus (von Polen), Burggraf Burchard von Magdeburg, Graf Konrad von Albech (Abenberg oder Amöneburg?), die Grafen Diepold von Lechsgemünd, Gebhard von Leuchtenberg und sein Bruder Markward, (der Edelfreie) Ulrich von Herrlingen, Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno von Münzenberg, Kämmerer Hermann, Kämmerer Rüdiger, Kämmerer Sigibodo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verpflichtet die Repräsentanten und Bewohner der Stadt <span sameAs="recipient"><hi rend="spaced">Ravenna</hi> </span>  im Alter zwischen 15 und 70 Jahren zur Leistung des Treueides, regelt die Wahl der Konsuln, deren Investitur nur im Falle seines Aufenthaltes nördlich der Alpen nicht persönlich zu erfolgen hat, und den Regalienbesitz der Stadt, gewährt ihnen die Hälfte der <hi rend="italic">maltollettum</hi>  genannten königlichen Steuer, sagt ihnen und ihren Kirchen Unterstützung in Rechtsstreitigkeiten mit umliegenden Städten zu, unterstreicht sein uneingeschränktes Recht auf die Benützung der Postraße bis Ravenna, versichert sich der Möglichkeit, in der Stadt mit der Kaiserin und den Fürsten wie im eigenen Hause Aufenthalt nehmen zu können, und sagt zu, das Heer von den Gütern zwischen der Straße und der Stadt fernzuhalten. <span n="witnesses">Z.: Rainald, Erzbischof von Köln und Erzkanzler für Italien, Elekt Konrad von Mainz, Patriarch Ulrich von Aquileia, Elekt Guido von Ravenna, die Bischöfe Heinrich von Lüttich, Hermann von Verden, Elekt Hermann von Hildesheim, Abt Hermann von Hersfeld, Bischof Aicard von Parma, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Stiefvater (irrig statt: Oheim) des Kaisers, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), Herzog Hermann von Kärnten, Markgraf Albert (von Sachsen), Pfalzgraf Otto von Wittelsbach, Graf Emicho von Leiningen, die Herzoge Ulrich (von Böhmen) und Boleslaus (von Polen), Burggraf Burchard von Magdeburg, Graf Konrad von Albech (Abenberg oder Amöneburg?), die Grafen Diepold von Lechsgemünd, Gebhard von Leuchtenberg und sein Bruder Markward, (der Edelfreie) Ulrich von Herrlingen, Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno von Münzenberg, Kämmerer Hermann, Kämmerer Rüdiger, Kämmerer Sigibodo</span>. - <span n="chancellor"><hi rend="italic">Vdalricus canc. vice Rainaldi Coloniensis archicanc.</hi> </span>; <span n="clerk">verfaßt von RC, geschrieben von Christian E</span>. <span n="incipit"><hi rend="italic">Dignitas et excellencia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignitas et excellencia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Kopie des 12. Jh., Staatsarchiv Ravenna (B). Drucke: MG. Const 1, 299 n<hi rend="sup">o</hi>  213; MG. DF. I. 372. Reg.: Stumpf 3955.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. Koch, Reichskanzlei, 79 ff. und die Vorbemerkung zum D. - Dem Inhalt dürfte eine verlorene, objektiv gefaßte Vereinbarung mit der Stadt zugrunde liegen, vgl. Riedmann, Verträge, 46 ff., des weiteren auch Opll, Stadt und Reich, 408 f. - Zum <hi rend="italic">maltollettum</hi>  vgl. Deibel, Bedeutung, ZRG g. A. 54 (1934) 157.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0151" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_372" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

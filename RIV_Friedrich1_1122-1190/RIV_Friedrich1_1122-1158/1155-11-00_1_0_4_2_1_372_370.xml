@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 370</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-11-00_1_0_4_2_1_372_370"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-11-00_1_0_4_2_1_372_370"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-11-00_1_0_4_2_1_372_370</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415627350" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 370</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-11-01" to="1155-11-30">1155 (Ende November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Konstanz  (Constantie)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Salem</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter sehr weitgehender Benützung des Privilegs Eugens III., JL. 8862 (Germ. pont. 2/1, 161 f. n<hi rend="sup">o</hi>  2; Weech, CD. Salemitanus 1, 7 n<hi rend="sup">o</hi>  4; VU.) von AH (Albert) verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Konrad von Augsburg, Konrad von Worms, die Äbte Fridelo von der Reichenau (<hi rend="italic">Augiensis</hi>), Werner von St. Gallen, Albert von Kempten (<hi rend="italic">Campidonensis</hi>), die Herzoge Welf, Konrad, der Bruder des Kaisers, Berthold von Burgund, Markgraf Hermann von Verona, Graf Rudolf von Pfullendorf, Ulrich von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Salem</hi> </span>  unter seinem Abt Frowin in seinen Schutz, bestätigt die namentlich angeführten Besitzungen, die aus dem Erbe des Guntram von Adelsreute (<hi rend="italic">Adelsruti</hi>) zuerst in die Hand des Abtes Christian von Lützel (<hi rend="italic">Christiani abbatis de Lucela</hi>) und später durch König Konrad (III.) in Anwesenheit der Herzoge Friedrich (II. von Schwaben), Konrad (von Zähringen), Welf (VI., von Ravensburg), Matthäus (von Lothringen), des Abtes Frowin und anderer auf dem Hoftag zu Konstanz (1142 März 19, DK. III. 72) dem Kloster übergeben wurden, und unterstellt es auf Grund seiner Zugehörigkeit zum Zisterzienserorden der ausschließlichen kaiserlichen Vogtei (<hi rend="italic">Quia vero fratres eiusdem ordinis spetiali obedientię subiectione ad Romanam spectant ecclesiam, cuius nos spetiales advocati ac defensores sumus, aliquam personam ibi officium advocatię gerere vel usurpare omnino sub obtentu gratię nostre interdicimus solis nobis nostrisque successoribus hoc defensionis officium in perpetuum conservantes</hi>). <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Konrad von Augsburg, Konrad von Worms, die Äbte Fridelo von der Reichenau (<hi rend="italic">Augiensis</hi>), Werner von St. Gallen, Albert von Kempten (<hi rend="italic">Campidonensis</hi>), die Herzoge Welf, Konrad, der Bruder des Kaisers, Berthold von Burgund, Markgraf Hermann von Verona, Graf Rudolf von Pfullendorf, Ulrich von Lenzburg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter sehr weitgehender Benützung des Privilegs Eugens III., JL. 8862 (Germ. pont. 2/1, 161 f. n<hi rend="sup">o</hi>  2; Weech, CD. Salemitanus 1, 7 n<hi rend="sup">o</hi>  4; VU.) von AH (Albert) verfaßt und geschrieben</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Desiderium, quod ad</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderium, quod ad</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe (A). Drucke: Weech, CD. Salemitanus 1, 11 n<hi rend="sup">o</hi>  6; MG. DF. I. 129. Reg.: Stumpf 3731 zu November 27.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung ergibt sich aus dem Itinerar und den Zeugen. Die Anwesenheit Welfs VI. am Hofe Konrads III. ist nur durch das vorliegende Diplom belegt, vgl. Feldmann, Welf VI., Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1143-09-04_1_0_4_2_1_11_11.html" type="internal" n="regesten">11</ref>. Zu seinem Aufenthalt in Konstanz 1155 vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-11-27_1_0_4_2_1_373_371.html" type="internal" n="regesten">371</ref>. Zur Rechtsstellung des Klosters vgl. Rösener, Reichsabtei Salem (VuF Sbd. 13, 1974) 35 und 37 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0122" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%223924%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_129" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=558" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

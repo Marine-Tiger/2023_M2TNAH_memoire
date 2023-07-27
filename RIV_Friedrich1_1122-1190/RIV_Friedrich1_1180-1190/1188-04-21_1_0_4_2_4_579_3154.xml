@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3154</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-21_1_0_4_2_4_579_3154"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-21_1_0_4_2_4_579_3154"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-21_1_0_4_2_4_579_3154</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848345" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3154</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-21" to="1188-04-21">1188
+									April 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Seligenstadt (<hi rend="italic">XI kal. maii, apud Selingestat</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Geschrieben und 									sicherlich auch verfasst von dem unter Friedrich I. sonst nicht 									nachweisbaren Schreiber Heinrichs VI. (Heinrich 5), der später 									in die Dienste Ottos IV. (Otto D) übertrat</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt für sein und seines Sohnes, König 								Heinrichs (VI.), Seelenheil <hi rend="spaced">Propst Arnold von 									Hilwartshausen</hi> samt dem Konvent seines Stiftes wie auch den 								Ministerialen und Hintersassen (<hi rend="italic">ministeriales, 									litones sive censuales et alios quoscumque homines eidem 									monasterio pertinentes</hi>) sowie allen Besitzungen und Rechten 								in seinen Schutz. –<span n="clerk"> Geschrieben und 									sicherlich auch verfasst von dem unter Friedrich I. sonst nicht 									nachweisbaren Schreiber Heinrichs VI. (Heinrich 5), der später 									in die Dienste Ottos IV. (Otto D) übertrat</span>; <span n="seal"> SP.D.</span>.<span n="incipit"> 									<hi rend="italic">Imperatorię maiestatis a</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis a</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (jetzt: 								Niedersächsisches Landesarchiv, Hauptstaatsarchiv Hannover) 								(A). Druck: MG.DF.I.969. Reg.: Stumpf 4489.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Schreiber vgl. die in der Vorbemerkung zum D. 								angeführte Literatur. Sein Auftreten dürfte mit dem Umstand 								zusammenhängen, dass dieses D. auch für das Seelenheil Heinrichs 								VI., der sich damals am Hofe seines Vaters befand (vgl. Reg. 3155), 								ausgestellt wurde. – Zum D. vgl. Goetting, Hilwartshausen und 								Fredelsloh, AfD 34 (1988) 322. – Zum Aufenthaltsort vgl. auch den 								Hinweis im DF.II. von 1237 August für das Erzbistum Mainz (B.-Ficker 								Reg. 2273), aus dem hervorgeht, dass Friedrich I. Seligenstadt als 								Lehen von der Kirche von Mainz besaß; zum „Kaiserhaus“ Seligenstadt 								vgl. zuletzt Forster, Seligenstadt, in: Die Staufer und Italien, Bd. 								2 (siehe dort) 101, gegen den allerdings zu betonen ist, dass eine 								Errichtung des Gebäudes „für den Hoftag zu Ostern 1188“ deshalb als 								Argument ausscheidet, weil der Kaiser das Osterfest 1188 in 								Gelnhausen verbrachte (Reg. 3153).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_969" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

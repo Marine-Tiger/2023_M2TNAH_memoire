@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2768</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-06-20_1_0_4_2_4_189_2768"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-06-20_1_0_4_2_4_189_2768"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-06-20_1_0_4_2_4_189_2768</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844102" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2768</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-06-20" to="1184-06-20">1184
+									Juni 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gelnhausen (<hi rend="italic">XII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iulii, apud Geilenhusen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Goldbulle (vgl. 									DF.I.858, Anm. g’)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Conradi 										Maguntini archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>nach der Nachzeichnung der Elongata in B und 									dem Diktat in der Kanzlei unter Übernahme eines Großteils der 									Bestimmungen aus dem Privileg des Grafen Philipp von Flandern 									für Saint-Omer von 1168 (Giry, Études sur les institutions</scribe>
+				
+				
+					<testis function="witnesses">									Erzbischof Konrad von Mainz, die Bischöfe Hermann von Münster 									und Roger von Cambrai, Rudolf, Protonotar des Hofes, Propst 									Johannes von St. German in Speyer, Domdekan Hugo von Cambrai, 									Domkanoniker Walcher (Walter) von Cambrai, Herzog Friedrich von 									Schwaben, Landgraf Ludwig von Thüringen, die Grafen Heinrich von 									Diez, Albert von Eberstein, Poppo von Wertheim, Heinrich von 									Sayn und Gerhard von Looz/Borgloon, Werner von Bolanden, Vogt 									Wilhelm von Aachen sowie (die Bürger von Cambrai) Johannes <hi rend="italic">Tassun</hi>, Johannes <hi rend="italic">Gerlant</hi>, Balduinus <hi rend="italic">Caluus</hi>, 									Michael <hi rend="italic">Plantefuil </hi>und Johannes <hi rend="italic">Pilepos</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt auf Bitten Bischof Rogers und der 								Bürgerschaft von Cambrai nach dem Spruch der Fürsten und der 								Rechtskundigen die Rechte der <hi rend="spaced">Stadt</hi> 								<hi rend="spaced">Cambrai</hi>, um die Bischof Roger und die 								Bürger lange gestritten haben, fest. Dabei wird im Einzelnen 								Folgendes festgelegt: (1) das Vorgehen bei in der Stadt und 								innerhalb der Bannmeile begangenem Totschlag und dort begangenen 								Verwundungen, ebenso bei Schmähungen und Duellen, wobei, je nach 								Delikt verschieden, Hauszerstörungen, Verbannungen, Körper- und 								Geldstrafen – letztere gehen teils an den Bischof, teils an die 								Stadt, die Geschworenen bzw. finden Verwendung zum Ausbau der 								Befestigung der Stadt – zu verhängen sind – (2) die Zusicherung des 								Friedens für zum Markt kommende Kaufleute – (3) die Rechte der 								Geschworenen (<hi rend="italic">iurati pacis</hi>) und solche der 								bischöflichen Gerichtsbarkeit – (4) das Verbot für Bürger, jemanden, 								der die Heimat mit Krieg überzieht, zu unterstützen – (5) die 								Einsetzung von sechs Geschworenen im Rathaus (<hi rend="italic">in 									domo pacis</hi>), die gemeinsam mit einem Schöffen Zeugnis 								ablegen können (<hi rend="italic">qui possunt testimonium portare 									cum aliquo scabinorum in eis causis, in quibus solent cum eis 									testificari</hi>) – (6) die Verpflichtung, vom Propst unter 								Strafe von 5 <hi rend="italic">solidi</hi> mit Glockengeläut 								angekündigte Versammlungen aufzusuchen, wobei eingenommene 								Strafgelder zwischen Bischof und Stadt geteilt werden – (7) die 								Verpflichtung zur Aufrechterhaltung des städtischen Friedens – (8) 								das Asylrecht für Mörder und Verbrecher (<hi rend="italic">si 									homicida civitatem intraverit, persona eius in civitate salva 									erit, nisi quantum iustitia dictaverit</hi>; und nochmals weiter 								unten: <hi rend="italic">Item quicumque reus vel forisfactor 									civitatem intraverit, salvus erit et civitas eum retinere debet, 									quamdiu paratus est stare iusticie secundum legem 								civitatis</hi>) – (9) das Vorgehen gegen Räuber von Tieren im Besitz 								von Städtern sowie gegen Diebe – (10) die ausschließlich 								bischöfliche Verfügung über den (Gerichts-)Bann in der Stadt – (11) 								die Zuständigkeit der Justiziare des Bischofs bzw. des bischöflichen 								Boten für die Eintreibung der Gerichtsgefälle, wobei Geschworene 								gegebenenfalls auch stellvertretend tätig werden können – (12) die 								den Bürgern gewährte Erlaubnis, im Falle, dass der Bischof gegen 								einen außerhalb der Bannmeile der Stadt zugefügten Schaden nicht 								vorgehen sollte, selbst tätig zu werden. <span n="witnesses">Z.: 									Erzbischof Konrad von Mainz, die Bischöfe Hermann von Münster 									und Roger von Cambrai, Rudolf, Protonotar des Hofes, Propst 									Johannes von St. German in Speyer, Domdekan Hugo von Cambrai, 									Domkanoniker Walcher (Walter) von Cambrai, Herzog Friedrich von 									Schwaben, Landgraf Ludwig von Thüringen, die Grafen Heinrich von 									Diez, Albert von Eberstein, Poppo von Wertheim, Heinrich von 									Sayn und Gerhard von Looz/Borgloon, Werner von Bolanden, Vogt 									Wilhelm von Aachen sowie (die Bürger von Cambrai) Johannes <hi rend="italic">Tassun</hi>, Johannes <hi rend="italic">Gerlant</hi>, Balduinus <hi rend="italic">Caluus</hi>, 									Michael <hi rend="italic">Plantefuil </hi>und Johannes <hi rend="italic">Pilepos</hi> 								</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Conradi 										Maguntini archiep. et Germanie archicanc.</hi></span>;<span n="clerk"> nach der Nachzeichnung der Elongata in B und 									dem Diktat in der Kanzlei unter Übernahme eines Großteils der 									Bestimmungen aus dem Privileg des Grafen Philipp von Flandern 									für Saint-Omer von 1168 (Giry, Études sur les institutions 									municipales: Hist. de la ville de Saint-Omer, 387 n<hi rend="sup">o</hi> XIV) wohl von Gottfried L 									ausgefertigt</span>;<span n="seal"> Goldbulle (vgl. 									DF.I.858, Anm. g’)</span>.<span n="incipit"> 									<hi rend="italic">Equitas imperatorie maiestatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equitas imperatorie maiestatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Transsumpt des Bischofs Walter von 								Tournai von 1225 März 25, Departementalarchiv Lille, 3 G 8/84 (B); 								Abschrift des 13. Jh. im Cartulaire de l’église de Cambrai ms. 1152 								f. 89, Stadtbibliothek Cambrai (C); Abschrift des 15. Jh. im 								Cartulaire de la cathédrale de Cambrai, Departementalarchiv Lille, 3 								G 539 f. 1 (D); Abschrift des 17./18. Jh., ebenda, 3 G 8/84 A (E); 								Abschrift des 18. Jh. mit dem Original kollationiert von Canonicus 								Mutte, ebenda, 3 G 548 f. 81 (M); Abschrift des 18. Jh., ebenda, 3 G 								545 f. 42 (R). Drucke: (Mutte), Mém. de Cambrai, 24 n<hi rend="sup">o</hi> 16 aus dem durch Einschnitt kassierten 								Original; Böhmer, Acta imp., 137 n<hi rend="sup">o</hi> 146; 								MG.DF.I.858, vgl. Nachträge und Berichtigungen, a.a.O., 								777. Regg.: Wauters, Table chronol. 2, 634; Diestelkamp – 								Rotter, Urkundenregesten 1, 371 n<hi rend="sup">o</hi> 472; Stumpf 								4377.</p></div>
+				
+				
+					<div type="commentary"><p>Heinrich VI. (B.-Baaken Reg. 660, Deperditum) und 								Philipp von Schwaben (B.-Ficker Reg. 112) bestätigten dieses 								Stadtrecht zwar, Otto IV. (B.-Ficker Reg. 252) widerrief es aber 								dann im Interesse des Bischofs, und Heinrich (VII.) (B.-Ficker Reg. 								4025) kassierte es, woraus sich die Einschnitte im verlorenen 								Original (siehe die Edition durch Mutte) und in B erklären. – An 								diesem Tag im Juni 1184 stellte der Kaiser eine ganze Serie von 								Diplomen für Stadt und Bistum sowie Kirchen zu Cambrai aus (vgl. 								neben diesem auch Regg. 2769–2772), vgl. dazu Opll, Stadt und Reich, 								61 ff., und Schwind, Städte, in: Friedrich Barbarossa (VuF 40, 1992) 								476 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_858" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

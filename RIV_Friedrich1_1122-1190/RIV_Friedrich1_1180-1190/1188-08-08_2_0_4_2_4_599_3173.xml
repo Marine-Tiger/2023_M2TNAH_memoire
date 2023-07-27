@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3173</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-08_2_0_4_2_4_599_3173"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-08_2_0_4_2_4_599_3173"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-08-08_2_0_4_2_4_599_3173</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848452" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3173</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-08-08" to="1188-08-08">1188
+									August 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Goslar (<hi rend="italic">VI. idus augusti, Goslarie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. (plumpe Fälschung, 									kanzleiwidrig am linken unteren Rand aufgedrückt)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes canc. vice Conradi Moguntini archiep. 										et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter 									Heranziehung der DD. 976 (Reg. 3174; VU. I), 977 (Reg. 3175; VU. 									II), 975 (Reg. 3172; VU. III) und 397 (Reg. 1198; VU. IV) sowie 									eines Deperditums Heinrichs IV. aus dessen Königszeit (DH.IV. 									*225) sowie unter Nach</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Adelhog von 									Hildesheim, Dietrich von Halberstadt und Dietrich von Lübeck, 									Albert von Grumbach, Albert von Hildenburg, Burchard von 									Wohldenberg (<hi rend="italic">Waldenberch</hi>), Ludolf von 									Peine, Eckbert von Wolfenbüttel (<hi rend="italic">Wulferbutele</hi>) und Vogt Folkmar von Goslar</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem <hi rend="spaced">Stift</hi> 								<hi rend="spaced">(St. Simon und Judas) in Goslar</hi> eine 								umfassende Bestätigung seiner Rechte und Privilegien, darunter die 								Freiheit von Einquartierungen bei Hoftagen, wovon nur 								Einquartierungen von Fürsten im Stiftshof in eingeschränktem Maße 								ausgenommen sind, die Beschränkung des Rechtes der Vögte auf die 								gerichtliche Behandlung von Diebstahl, gewaltsamen 								Auseinandersetzungen und Raub (<hi rend="italic">nisi tantum in 									tribus casibus, in furto videlicet, in pugna et in raptu</hi>), 								wobei sämtliche anderen Streitigkeiten in die Kompetenz des Ökonomen 								oder Verwalters (<hi rend="italic">ad yconomum seu villicum</hi>) 								fallen, das Verbot für Bischöfe zur Exkommunizierung der Kanoniker 								ohne kaiserliche Zustimmung und gleichfalls das Verbot, ohne 								kaiserliche Erlaubnis das Interdikt über das Stift zu verhängen, was 								ein päpstlicher Legat getan hat. Auf Klagen, die von Vertretern des 								Stiftes auf dem feierlichen Hoftag (zu Goslar, vgl. Regg. 3177 und 								3178) unter Vorweisung einer Urkunde Kaiser Heinrichs IV. 								vorgebracht worden waren, bestätigt er schließlich die 								Rechtmäßigkeit der Besitzungen zu Barnstorf (<hi rend="italic">Bernesdorp</hi>), die zu Unrecht von den Mönchen von 								Königslutter (<hi rend="italic">Lutere</hi>) gewaltsam beansprucht 								worden waren. <span n="witnesses">Z.: die Bischöfe Adelhog von 									Hildesheim, Dietrich von Halberstadt und Dietrich von Lübeck, 									Albert von Grumbach, Albert von Hildenburg, Burchard von 									Wohldenberg (<hi rend="italic">Waldenberch</hi>), Ludolf von 									Peine, Eckbert von Wolfenbüttel (<hi rend="italic">Wulferbutele</hi>) und Vogt Folkmar von Goslar</span>. 									–<span n="chancellor"> 									<hi rend="italic">Iohannes canc. vice Conradi Moguntini archiep. 										et archicanc.</hi></span>;<span n="clerk"> unter 									Heranziehung der DD. 976 (Reg. 3174; VU. I), 977 (Reg. 3175; VU. 									II), 975 (Reg. 3172; VU. III) und 397 (Reg. 1198; VU. IV) sowie 									eines Deperditums Heinrichs IV. aus dessen Königszeit (DH.IV. 									*225) sowie unter Nachahmung der graphischen Eigenheiten des D. 									397 (Reg. 1198) etwa um die Mitte des 13. Jh. angefertigte 									Fälschung</span>;<span n="seal"> SI. (plumpe Fälschung, 									kanzleiwidrig am linken unteren Rand aufgedrückt)</span>. <span n="incipit"><hi rend="italic">Cum ad omnium.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum ad omnium.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebl. Orig.: Stadtarchiv Goslar 								(A). Drucke: Bode, UB. Stadt Goslar 1, 348 n<hi rend="sup">o</hi> 315; MG. Const. 1, 457 n<hi rend="sup">o</hi> 320; 								MG.DF.I.1077. Regg.: Diestelkamp – Rotter, Urkundenregesten 1, 								396 n<hi rend="sup">o</hi> 503 (mit irrigem Hinweis auf D.1061); 								Stumpf 4495.</p></div>
+				
+				
+					<div type="commentary"><p>In unserem Regest finden vor allem die über die 								herangezogenen Vorlagen hinaus gehenden Bestimmungen 								Berücksichtigung, da hierin auch die Beweggründe für die Anfertigung 								dieser Fälschung gut zu erkennen sind (vgl. dazu auch den 								Dorsualvermerk des 13. Jh.: <hi rend="italic">Advocati nullam habent 									potestatem in mansis et bonis nostris nisi in raptu et furto et 									sanguine.</hi>); zur diplomatischen Bewertung dieser zwischen 								1234 und 1277 angefertigten Fälschung vgl. die Vorbemerkung zum D. 								sowie Hausmann, Diplom für das Domstift Goslar, Anzeiger der Wiener 								Akademie, phil.-hist. Kl. 88 (= Mitteil. der Wiener 								Diplomata-Abteilung der MGH 2, 1951) 47 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1077" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

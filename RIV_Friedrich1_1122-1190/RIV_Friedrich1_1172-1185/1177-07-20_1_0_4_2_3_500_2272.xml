@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2272</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-20_1_0_4_2_3_500_2272"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-20_1_0_4_2_3_500_2272"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-07-20_1_0_4_2_3_500_2272</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453293146" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2272</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-07-20" to="1177-07-20">1177 Juli 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Kloster S. Trinità (zu Brondolo) im Gebiet von Venedig</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIII<hi rend="sup">o</hi>  kal. augusti mensis, in territorio Venetiano apud monasterium sancte Trinitatis)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Udalrich von Aquileia, die Erzbischöfe Wichmann von Magdeburg, Christian von Mainz, Arnold von Trier, Philipp von Köln und Eberhard von Besançon, die Bischöfe Eberhard von Merseburg, Rudolf von Straßburg, Elekt Konrad von Worms, Arnold von Osnabrück, Anno von Minden, Gerard von Concordia und Siegfried von Ceneda, Protonotar Wortwin, die Grafen Florentius von Holland, Heinrich von Diez und Boppo von Wertheim, Jacobus, der Sohn des Dogen (Sebastianus Ziani) von Venedig, Marcus Maurocenus (von Venedig), Petrus Trauersarius (von Ravenna), der Ferrarese Laurellus, der Veronese Garzapan, Martin von Castello d'Agogna und Ulrich <hi rend="italic">de Bisotio</hi>  (Besozzo bei Varese?)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Domkapitel von Aquileia</hi>  auf Bitten des Propstes Udalrich und der Domkanoniker in seinen Schutz, bestätigt ihm die namentlich angeführten Besitzungen und nach dem Verzicht der Vögte auch die Gerichts- und Herrschaftsrechte (<hi rend="italic">placitum, districtum et cetera huiusmodi iura</hi>) unter Vorbehalt der kaiserlichen Gerechtsame und der des Patriarchen. <span n="witnesses">Z.: Patriarch Udalrich von Aquileia, die Erzbischöfe Wichmann von Magdeburg, Christian von Mainz, Arnold von Trier, Philipp von Köln und Eberhard von Besançon, die Bischöfe Eberhard von Merseburg, Rudolf von Straßburg, Elekt Konrad von Worms, Arnold von Osnabrück, Anno von Minden, Gerard von Concordia und Siegfried von Ceneda, Protonotar Wortwin, die Grafen Florentius von Holland, Heinrich von Diez und Boppo von Wertheim, Jacobus, der Sohn des Dogen (Sebastianus Ziani) von Venedig, Marcus Maurocenus (von Venedig), Petrus Trauersarius (von Ravenna), der Ferrarese Laurellus, der Veronese Garzapan, Martin von Castello d'Agogna und Ulrich <hi rend="italic">de Bisotio</hi>  (Besozzo bei Varese?)</span>. — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi> </span>; unter Heranziehung des Privilegs Papst Alexanders III. von 1176 Juli 7 (Jaffé-L. 12.722; Italia pont.7/1, 48 n<hi rend="sup">o</hi>  7; VU.) <span n="clerk">verfaßt von Burkhard</span>. <span n="incipit"><hi rend="italic">Ad eterne beatitudinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterne beatitudinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1457 aus einem Transsumpt im Registrum transsumptum per Johannem de Belgrado, Cod. 42 f. 6, Archiv des Domkapitels zu Udine (C); Abschrift des 15. Jh. Consultori in iure R 366 IV CC f. 10, Staatsarchiv Venedig (D); Abschrift des 18. Jh., Fondo Bini, Documenta varia p. 302, Archiv des Domkapitels zu Udine (E). Drucke: Simonsfeld, Urkunden, Münchner Sitzungsber.1906, 407; MG.DF.I.685. Regg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, 44 n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/a59f982e-bb2b-4a61-bb6f-c897d365bbd0.html" type="internal" n="regesten">152</ref>; Stumpf 4197.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Überlieferung E vgl. MG.DDF.I. Band 5, S. 283 (Nachträge und Berichtigungen zur Gesamtausgabe). — Der Ausstellungsort, das Kloster S. Trinità (zu Brondolo) im Gebiet von Venedig, stand unter der Vogtei des Sebastianus Ziani, des damaligen Dogen von Venedig, dessen Sohn im D. unter den Zeugen angeführt ist, vgl. dazu Fees, Ziani, 15 und 21.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0175" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_685" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

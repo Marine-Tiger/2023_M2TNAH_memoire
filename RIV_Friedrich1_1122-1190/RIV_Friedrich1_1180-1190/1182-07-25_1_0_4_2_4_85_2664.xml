@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2664</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-07-25_1_0_4_2_4_85_2664"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-07-25_1_0_4_2_4_85_2664"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-07-25_1_0_4_2_4_85_2664</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2664</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-07-25" to="1182-07-25">1182
+									(vor Juli 25)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt den Anhängern (des abgesetzten 								Herzogs) Heinrichs (des Löwen), die mit dem herzoglichen Paar ins 								Exil zu gehen beabsichtigen, das Recht der ungehinderten Rückkehr in 								die Heimat (<hi rend="italic">licentiam … repatriandi</hi>). Der 								Herzogin (Mathilde) erlaubt er aus Zuneigung zu ihrem Vater, König 								(Heinrich II.) von England, im Reichsgebiet zu verbleiben und ihre 								Besitzungen ungehindert innezuhaben; falls sie es vorzieht, mit 								ihrem Gemahl das Exil anzutreten, gesteht er ihr zu, ihre 								Besitzungen durch eigene <hi rend="italic">custodes</hi> 								beaufsichtigen zu lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ex gestis Henrici II. et Ricardi I., MG. SS 								XXVII, 104; Ex Rogeri de Hoveden Chronica, MG. SS XXVII, 147.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								Antritt des Exils durch das welfische Herzogspaar am 25. Juli 1182, 								siehe dazu schon oben Regg. 2610, 2633 und 2653.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

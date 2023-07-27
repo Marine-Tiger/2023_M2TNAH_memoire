@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †1936</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-08-22_1_0_4_2_3_161_F1936"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-08-22_1_0_4_2_3_161_F1936"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-08-22_1_0_4_2_3_161_F1936</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597314" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †1936</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-08-22" to="1171-08-22">1171 August 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Augsburg">Augsburg</placeName>
+												<location><geo decls="#WGS">48.35, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XI<hi rend="sup">o</hi>  kal. septembris, Auguste)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imperialis aule canc. vice Christiani Moguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Bischof Hartwig von Augsburg, Dompropst Giselher (von Augsburg), Dekan Rüdiger (von Augsburg), die Pröpste Otto von St. Moritz (zu Augsburg), Adilbert von Heiligenkreuz (zu Augsburg) und Heinrich von St. Georg (zu Augsburg), Pfalzgraf Otto (von Wittelsbach) und sein Bruder Friedrich, die Markgrafen Berthold von Istrien und Heinrich von Ronsberg, die Grafen Otto von (Ober-)Kirchberg und Diepold von Lechsgemünd, Degenhart von Hellenstein (<hi rend="italic">Teginhart de Hallunstain</hi>), Diemo von Gundelfingen, Heinrich von Donaustauf, Markward und Adilbert von Grunertshofen, Eberhard von Maisach, Balduin von Burgstall, Engilmar, Gerwart von Bachen, Burkhard von Rohrbach (<hi rend="italic">Rotpach</hi>), Eberhard von <hi rend="italic">Diepolshusen</hi>  (ob Diepoldshofen?), Konrad von Odelzhausen, Heinrich, Meingoz, Ainwic, Goswin, Reinboto von Pfaffenhofen, Burggraf Konrad von Augsburg, Siegfried von Donnsberg, Siegfried von Algertshausen, Ebo <hi rend="italic">de Porta</hi>  und sein Sohn Rudolf, Diepold von Hausen, Otto von Bobingen und Manegold von Siebnach (<hi rend="italic">Sibenhaiche</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Benediktinerkloster St. Ulrich und Afra in Augsburg</hi>, dessen Brüder ihn als Mitbruder aufgenommen haben (<hi rend="italic">in sue plenarie fraternitatis receperunt consorcium</hi>), das Gut Pfaffenhofen mit allen Zugehörungen, darunter der Eigenkirche und dem Besetzungsrecht derselben. Dieses Gut hatte der bayerische Edle Adilbert gemeinsam mit seiner Gemahlin Gisela dem Kloster vor Herzog Heinrich (dem Löwen) von Bayern und Sachsen seinen <hi rend="italic">propinqui</hi>  Markward und Adilbert von Grunertshofen geschenkt; nach deren Tod hätte es an das Kloster fallen sollen, wurde aber dann in seiner (= des Kaisers) Gegenwart zu Augsburg sowie in Anwesenheit des Markgrafen Berthold von Istrien, zugleich Grafen von Andechs, in dessen Grafschaft dieses Gut liegt, gegen einen Jahreszins vom Kloster zu Lehen genommen. <span n="witnesses">Z.: Bischof Hartwig von Augsburg, Dompropst Giselher (von Augsburg), Dekan Rüdiger (von Augsburg), die Pröpste Otto von St. Moritz (zu Augsburg), Adilbert von Heiligenkreuz (zu Augsburg) und Heinrich von St. Georg (zu Augsburg), Pfalzgraf Otto (von Wittelsbach) und sein Bruder Friedrich, die Markgrafen Berthold von Istrien und Heinrich von Ronsberg, die Grafen Otto von (Ober-)Kirchberg und Diepold von Lechsgemünd, Degenhart von Hellenstein (<hi rend="italic">Teginhart de Hallunstain</hi>), Diemo von Gundelfingen, Heinrich von Donaustauf, Markward und Adilbert von Grunertshofen, Eberhard von Maisach, Balduin von Burgstall, Engilmar, Gerwart von Bachen, Burkhard von Rohrbach (<hi rend="italic">Rotpach</hi>), Eberhard von <hi rend="italic">Diepolshusen</hi>  (ob Diepoldshofen?), Konrad von Odelzhausen, Heinrich, Meingoz, Ainwic, Goswin, Reinboto von Pfaffenhofen, Burggraf Konrad von Augsburg, Siegfried von Donnsberg, Siegfried von Algertshausen, Ebo <hi rend="italic">de Porta</hi>  und sein Sohn Rudolf, Diepold von Hausen, Otto von Bobingen und Manegold von Siebnach (<hi rend="italic">Sibenhaiche</hi>)</span>. — <span n="chancellor"><hi rend="italic">Gotefridus imperialis aule canc. vice Christiani Moguntine sedis archiep. et Germanie archicanc.</hi> </span>; von einem dem Kloster angehörenden Schreiber des frühen 13. Jh. unter geschickter Verwendung des Wortlautes einer Traditionsnotiz über diese Schenkungen (Müntefering, Die Traditionen des Klosters St. Ulrich und Afra in Augsburg 108 n<hi rend="sup">o</hi>  116 a und b) sowie der DDF.I.834 (war auch Vorbild für die graphische Gestaltung) und 957 verfertigte Fälschung; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Quoniam a rege</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam a rege</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebl. Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Augsburg, Kloster Augsburg-St. Ulrich und Afra Urkunden 2 (A). Drucke: Hipper, Urk. d. Reichsstiftes St. Ulrich und Afra in Augsburg 5 n<hi rend="sup">o</hi>  8; MG.DF.I.1063. Reg.: Stumpf 4126.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Fälschung mit frei erfundenem Datum und Ausstellungsort diente offensichtlich der Absicherung der Verfügung über das Besetzungsrecht der Kirche von Pfaffenhofen. Der Besitz der Kirche samt den Schenkungen des Adilbert war dem Kloster schon 1177 von Papst Alexander III. (Jaffé-L. 12.909, Germ.Pont 2/1, 59 n<hi rend="sup">o</hi>  9) bestätigt worden, vgl. dazu die Vorbemerkung zum D. — Zu den Beziehungen des Kaisers zu St. Ulrich und Afra vgl. auch Opll, Winterquatember, MIÖG 85 (1977), 332 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0064" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1063" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

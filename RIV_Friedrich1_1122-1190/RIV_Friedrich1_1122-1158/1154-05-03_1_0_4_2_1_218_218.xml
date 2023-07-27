@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 218</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-03_1_0_4_2_1_218_218"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-03_1_0_4_2_1_218_218"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-05-03_1_0_4_2_1_218_218</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415625249" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 218</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-05-03" to="1154-05-17">(1154 Mai 3-17?)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Maulbronn</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Außerhalb der Kanzlei verfaßt und mit Ausnahme der Signumzeile und des Monogramms (A II. D) geschrieben</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Kanzler Zeizolf , Notar Heinrich, Graf Emicho von Leiningen, die Edelfreien Ulrich von Herrlingen (<hi rend="italic">Horninge</hi>) und Berenger von Ravenstein, die Edelfreien Werner <hi rend="italic">Krich</hi>, Ulrich <hi rend="italic">Wayse</hi>, Erlefrid von Eutingen (<hi rend="italic">Vdingen</hi>) und sein Bruder, Walter von Derdingen (<hi rend="italic">Tardingen</hi>) und Kuno von Plochingen (<hi rend="italic">Bluchingen</hi>), weiters die Reichsministerialen Walter <hi rend="italic">Cudo</hi>, Konrad <hi rend="italic">Colecnop</hi>, Wezel von Trifels, Walter von Oberschüpf (<hi rend="italic">Schipph</hi>), Burchard von Kästenburg, Berthold von Scharfenberg, der Truchseß Rudolf, Berthold von Neuhausen und Konrad, Ministeriale des genannten Ludwig (Grafen von Württemberg)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt einen als Gedächtnisstiftung für sich, Bischof Gunther von Speyer und Graf Ludwig von Württemberg auf Veranlassung des Bischofs durch den Grafen zugunsten des Klosters <span sameAs="recipient"><hi rend="spaced">Maulbronn</hi> </span>  (<hi rend="italic">Mulenburne</hi>) vorgenommenen Gütertausch: Der Graf soll sein bisheriges Eigengut Brach künftig als Reichslehen besitzen, wofür das Lehen Eilfinger Hof (<hi rend="italic">Eluingen</hi>) in sein Eigentum übergeht; diesen Hof überträgt er dem Kloster. <span n="witnesses">Z.: Kanzler Zeizolf , Notar Heinrich, Graf Emicho von Leiningen, die Edelfreien Ulrich von Herrlingen (<hi rend="italic">Horninge</hi>) und Berenger von Ravenstein, die Edelfreien Werner <hi rend="italic">Krich</hi>, Ulrich <hi rend="italic">Wayse</hi>, Erlefrid von Eutingen (<hi rend="italic">Vdingen</hi>) und sein Bruder, Walter von Derdingen (<hi rend="italic">Tardingen</hi>) und Kuno von Plochingen (<hi rend="italic">Bluchingen</hi>), weiters die Reichsministerialen Walter <hi rend="italic">Cudo</hi>, Konrad <hi rend="italic">Colecnop</hi>, Wezel von Trifels, Walter von Oberschüpf (<hi rend="italic">Schipph</hi>), Burchard von Kästenburg, Berthold von Scharfenberg, der Truchseß Rudolf, Berthold von Neuhausen und Konrad, Ministeriale des genannten Ludwig (Grafen von Württemberg)</span>. - <span n="chancellor"><hi rend="italic">Außerhalb der Kanzlei verfaßt und mit Ausnahme der Signumzeile und des Monogramms (A II. D) geschrieben</hi> </span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Quamquam pro imperiali</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamquam pro imperiali</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Stuttgart (A). Drucke: Wirtemberg. UB. 2, 74 n<hi rend="sup">o</hi>  344 zu 1153; Schneider, Ausgew. Urkunden zur Württemberg. Gesch. 1 n<hi rend="sup">o</hi>  2; MG. DF. I. 76. Reg.: Stumpf 3687.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ist durch die Amtszeit des Kanzlers Zeizolf, deren Beginn und Dauer wir allerdings nicht genau kennen, gegeben; nach dem Itinerar scheint die vorgenommene Reihung am wahrscheinlichsten, obwohl andere Zeitansätze nicht auszuschließen sind. - Pfalzgraf Konrad bei Rhein, der Bruder Friedrichs, bestätigte diesen Tausch als Lehensherr des Württemberger Grafen über den Eilfinger Hof in einer eigenen Urkunde im Jahre 1157, Wirtemberg. UB. 2, 110 n<hi rend="sup">o</hi>  359, Stumpf 3687a.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0078" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%222209%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_76" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=550" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

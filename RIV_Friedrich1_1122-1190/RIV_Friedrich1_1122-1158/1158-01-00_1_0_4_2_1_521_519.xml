@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 519</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-00_1_0_4_2_1_521_519"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-00_1_0_4_2_1_521_519"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-01-00_1_0_4_2_1_521_519</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240220" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 519</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-01-01" to="1158-01-31">1158 (Januar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Regensburg  (Ratisponę)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Seckau</hi></recipient>
+				
+				
+				
+					<scribe>Von zwei kanzleifremden Händen, deren eine wohl dem Empfänger bzw. dem Salzburger Bereich zuzuordnen ist, nach Vorlage des Empfängerentwurfs eines Diploms Konrads III. für Seckau (DK. III. 273) mundiert; S. nur ein rundes Wachsstück ohne Stempelauflage er</scribe>
+				
+				
+					<testis function="witnesses">Bischof Daniel von Prag, Archikapellan und Notar Heinrich, Pfalzgraf Otto (von Wittelsbach) und sein Bruder Friedrich, Burggraf Heinrich von Regensburg, Graf Ernst von Hohenburg, Markward von Grumbach, Eberhard von Frickendorf, Heinrich von Weichberg (<hi rend="italic">Wikperch</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Stift <span sameAs="recipient"><hi rend="spaced">Seckau</hi> </span>  (<hi rend="italic">Sec잒ensi ecclesie</hi>) auf Intervention Erzbischof Eberhards von Salzburg die genannten Schenkungen des Stifters Adalram (von Waldeck) einschließlich des Heiratsgutes von dessen Gattin Richenza, das ihm anläßlich eines Aufenthalts Konrads III. in Friesach (<hi rend="italic">Frisacum</hi>) über Klage der Richenza aberkannt, aber sogleich von beiden Eheleuten gemeinsam wieder übereignet worden war, was aber wegen des Todes des Königs nicht mehr hatte beurkundet werden können. <span n="witnesses">Z.: Bischof Daniel von Prag, Archikapellan und Notar Heinrich, Pfalzgraf Otto (von Wittelsbach) und sein Bruder Friedrich, Burggraf Heinrich von Regensburg, Graf Ernst von Hohenburg, Markward von Grumbach, Eberhard von Frickendorf, Heinrich von Weichberg (<hi rend="italic">Wikperch</hi>)</span>. - <span n="clerk">Von zwei kanzleifremden Händen, deren eine wohl dem Empfänger bzw. dem Salzburger Bereich zuzuordnen ist, nach Vorlage des Empfängerentwurfs eines Diploms Konrads III. für Seckau (DK. III. 273) mundiert; S. nur ein rundes Wachsstück ohne Stempelauflage erhalten.</span> <span n="incipit"><hi rend="italic"> Quoniam quidem ius</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic"> Quoniam quidem ius</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Landesarchiv Graz (A). Drucke: Zahn, UB. des Herzogthums Steiermark 1, 375 n<hi rend="sup">o</hi> 395 ; MG. DF. I. 202. Reg.: Stumpf 3796.</p></div>
+				
+				
+					<div type="commentary"><p>Die Echtheit dieses D., das einige grobe Unregelmäßigkeiten, wie etwa den Titel <hi rend="italic">patricius</hi>  in der Signumzeile oder auch die Bezeichnung des Protonotars Heinrich in der Zeugenreihe als <hi rend="italic">archicapellanus</hi>, aufweist, wurde von Appelt, Seckau, MIÖG 67 (1959) 92 ff. erwiesen. - Die kanzleiwidrige Art der Befestigung des Siegels, das mittels eines Pergamentstreifens rückwärts eingehängt war, weist ebenfalls auf den Empfänger, da dies um die Mitte des 12. Jh. feststehender Brauch bei Urkunden der Salzburger Erzbischöfe war, vgl. Martin, Urkundenwesen, MIÖG Erg.Bd. 9 (1915) 661. - Vgl. zu den Schenkungen auch die ebenfalls von Empfängerseite ausgefertigte Notitia, Zahn a. a. O. 291 n <hi rend="sup">o</hi>  280 und Vorbemerkung zu DK. III. 273. - Friedrich wird als <hi rend="italic">confrater</hi>  von Seckau bezeichnet, Liber confraternitatum Seccoviensis, MG. Necrologia II, 363 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0176" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2280297%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_202" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

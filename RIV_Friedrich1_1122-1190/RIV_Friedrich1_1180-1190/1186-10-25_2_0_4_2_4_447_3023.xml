@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3023</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-10-25_2_0_4_2_4_447_3023"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-10-25_2_0_4_2_4_447_3023"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-10-25_2_0_4_2_4_447_3023</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3023</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-10-25" to="1186-10-25">1186
+									Oktober 25 ()</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der kaiserlichen Pfalz  zu S. Maria in Regula in Imola</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Gerhard von Ravenna, der schon seit 								längerem von Kaiser Friedrich und mündlich auch von dessen Sohn, 								König Heinrich (VI.), mit diesem Fall betraut ist (<hi rend="italic">ex delegatione domini Federici imperatoris diu in me facta et 									viva vocis visione filii eius domini Henrici regis</hi>), fällt 								hinsichtlich der Streitigkeiten um die Grafschaft Imola zwischen 								Bischof Heinrich von Imola (<hi rend="italic">Corneliensem</hi>) und 								dem kaiserlichen Legaten für ganz Italien, Berthold von 								Hohkönigsburg (<hi rend="italic">Bretoldum de Gonisberg totius 									Italię legatum</hi>), eine Entscheidung zu Gunsten des Bischofs, 								ohne diesem die Grafschaft ausdrücklich zu unterstellen. Nennung 								lokaler Zeugen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fantuzzi, Monumenti Ravennati 6, 54 (im 								Kopfregest irrig zu Oktober 17); Gaddoni – Zaccherini, Chart. 								Imolense II, 300 n<hi rend="sup">o</hi> 729, vgl. auch a.a.O., 377 									n<hi rend="sup">o</hi> 777; erwähnt in der Bestätigung durch 								Otto IV. von 1210 April 12, B.-Ficker Reg. 376 (mit irrigem Verweis 								auf das Datum 1186 Oktober 24), sowie im DF.II. von 1226 für Bischof 								Mainardin von Imola, B.-Ficker Reg. 1653 (mit irrigem Verweis auf 								das Datum 1186 September 24).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Reg. 2928, Kauffmann, Die italienische 								Politik Kaiser Friedrichs I. (Greifswalder Abhandlungen zur Gesch. 								d. Mittelalters 3, 1933) 123 f. (auch zur Textrekonstruktion), sowie 								Haverkamp, Herrschaftsformen, 441 mit Anm. 254. – Am 17. Oktober 								1186 hatte König Heinrich VI. in Ravenna in Gegenwart Erzbischof 								Gerhards für S. Maria in Portu geurkundet, B.-Baaken Reg. 22. – 								Kauffmann, Politik, a.a.O., 124 f. mit Anm. 8, weist darüber hinaus 								auf ein weiteres, etwa um diese Zeit zu datierendes Eingreifen des 								Reichslegaten Berthold in die Streitigkeiten zwischen dem Imoleser 								Bischof einerseits, den Bürgern wie dem Adel seines 								Herrschaftsbereichs andererseits hin. – Zur kaiserlichen Pfalz in 								Imola vgl. Opll, Itinerar, 114.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

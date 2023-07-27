@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 440</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-00_1_0_4_2_1_443_440"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-00_1_0_4_2_1_443_440"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-03-00_1_0_4_2_1_443_440</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239309" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 440</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-03-01" to="1157-03-31">1157 (März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Würzburg  (Herbipoli)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bildhausen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter sehr weitgehender Benützung des Privilegs Innozenz' II. für Ebrach von 1142 März 16 (JL. 8213, Germ. pont. 3/3, 213 n<hi rend="sup">o</hi>  1; VU. I) und des DK. III. 260 (VU. II) von einem Empfängerschreiber verfaßt, der auch als Mundator anzusehen sein wir</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Gebhard von Würzburg (<hi rend="italic">Wurtzburgensis</hi>), Konrad von Augsburg, Konrad von Eichstätt, Herzog Friedrich von Schwaben (<hi rend="italic">dux Almanie</hi>), Markgraf Albrecht (der Bär) und sein Sohn (Hermann), Pfalzgraf Otto von Wittelsbach und seine Brüder, der Graf von <hi rend="italic">Hunlant</hi>  und Graf B(erthold) von Blassenberg, Burggraf Berthold (von Würzburg), Hermann von Bramberg, Graf Gebhard von Bilstein, Giso von Hildenburg (<hi rend="italic">Hildimberg</hi>), Mangold von Thundorf, Markward von Grumbach und sein Sohn, Gottfried von Lauda (<hi rend="italic">Luten</hi>) und seine Brüder, H(einrich) von Trimberg und seine Brüder</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Bildhausen</hi> </span>  (<hi rend="italic">Bildhawsen</hi>) unter seinem Abt Heinrich auf Bitten des Abtes Adam von Ebrach, der es gemeinsam mit dem inzwischen verstorbenen Pfalzgrafen Hermann (bei Rhein) nach dessen Rückzug aus dem öffentlichen Leben gegründet hat, in seinen Schutz und bestätigt die angeführten Besitzungen in Bildhausen (<hi rend="italic">locum ipsum</hi>), Hollstadt (<hi rend="italic">Holnstat</hi>), Reinfeldshof (<hi rend="italic">Ranfeltshusen</hi>), Uttenhausen (<hi rend="italic">Ludenhausen</hi>), Rappershausen (<hi rend="italic">Raperthusen</hi>), Löhriet (<hi rend="italic">Luherith</hi>), Klein-Wenkheim (<hi rend="italic">in Wenghem dominicale et septem mansos</hi>) und Junkershausen (<hi rend="italic">Iunckershusen</hi>). <span n="witnesses">Z.: die Bischöfe Gebhard von Würzburg (<hi rend="italic">Wurtzburgensis</hi>), Konrad von Augsburg, Konrad von Eichstätt, Herzog Friedrich von Schwaben (<hi rend="italic">dux Almanie</hi>), Markgraf Albrecht (der Bär) und sein Sohn (Hermann), Pfalzgraf Otto von Wittelsbach und seine Brüder, der Graf von <hi rend="italic">Hunlant</hi>  und Graf B(erthold) von Blassenberg, Burggraf Berthold (von Würzburg), Hermann von Bramberg, Graf Gebhard von Bilstein, Giso von Hildenburg (<hi rend="italic">Hildimberg</hi>), Mangold von Thundorf, Markward von Grumbach und sein Sohn, Gottfried von Lauda (<hi rend="italic">Luten</hi>) und seine Brüder, H(einrich) von Trimberg und seine Brüder</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter sehr weitgehender Benützung des Privilegs Innozenz' II. für Ebrach von 1142 März 16 (JL. 8213, Germ. pont. 3/3, 213 n<hi rend="sup">o</hi>  1; VU. I) und des DK. III. 260 (VU. II) von einem Empfängerschreiber verfaßt, der auch als Mundator anzusehen sein wird</span>. <span n="incipit"><hi rend="italic">Ad hoc nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der zweiten Hälfte des 15. Jh., Standbuch n<hi rend="sup">o</hi>  354 f. 2, Staatsarchiv Würzburg (B); Abschrift aus dem 17. Jh., Standbuch n<hi rend="sup">o</hi>  366 p. 3 ebenda (C). Drucke: Mon. Boica 31<hi rend="sup">a</hi>, 409; MG. DF. I. 161. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  139; Stumpf 3765.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. trägt irrig die Inkarnationszahl 1158. Mit Rücksicht auf Ausstellungsort, Indiktion und Zeugenreihe ist DF. I. 161 zum Würzburger Hoftag des Jahres 1157 einzureihen. Die Zisterze Bildhausen war eine Tochtergründung von Ebrach; vgl. Johanek, Siegelurkunde im Bistum Würzburg (Qu. u. Forsch. zur Gesch. des Bistums u. Hochstifts Würzburg 20, 1969) 132 f. - Zu Pfalzgraf Hermann vgl. Brinken, Politik Konrads von Staufen (Rhein. A. 92, 1974) 38 ff. und Gerstner, Pfalzgrafschaft (Rhein. A. 40, 1941) 83 f. Der von Simonsfeld, Jahrbücher 400 Anm. 382 und 502 Anm. 274 genannte Todestag des Pfalzgrafen Hermann (III.) von Stahleck, 20. September 1156 (so Necrologium ecclesie metropolitanae Maguntinae, ed. Cornelius Will, Corresp. bl. d. Ges.vereins d. dt. Gesch.- u. Alterthumsvereine 26, 1878, 63) dürfte sich nicht auf Hermann III., sondern auf Hermann II. beziehen, vgl. Schenk zu Schweinsberg, Necrologien, Corresp. bl. d. Ges.vereins d. dt. Gesch.- u. Alterthumsvereine 26 (1878) 68. Hermann III. von Stahleck starb nach dem Necrologium Bambergense S. Michaelis, ed. Schweitzer, Bericht des hist. Vereins zu Bamberg 7 (1844) 263, am 2. Oktober. Die Ann. s. Disibodi (MG. SS XVII) 29; Ann. Herbipol. (MG. SS XVI) 9; Ann. S. Petri Erph. antiqui, ed. 0. Holder-Egger, MG. SS rer. Germ. in us. schol. 19; Ann. s. Petri Erph. maiores, ed. 0. Holder-Egger, a. a. O. 57 und Chron. Montis Sereni (MG. SS XXIII) 151, das auch seinen Klostereintritt erwähnt, berichten über Hermanns Tod zum Jahr 1156. Vgl. dazu auch Wagner, Bildhausen (Mainfränk. Stud. 15, 1976) 9 f., 12, 61 und 63, der das Diplom allerdings zu 1158 setzen möchte. - Zu Hermanns Nachfolger Konrad vgl. Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol. 24.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0149" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_161" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

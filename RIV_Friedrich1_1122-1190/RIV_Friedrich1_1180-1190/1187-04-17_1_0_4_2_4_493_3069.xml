@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3069</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-17_1_0_4_2_4_493_3069"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-17_1_0_4_2_4_493_3069"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-04-17_1_0_4_2_4_493_3069</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848163" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3069</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-04-17" to="1187-04-17">1187
+									April 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Donauwörth (<hi rend="italic">XV</hi><hi rend="sup">o</hi><hi rend="italic"> kal. maii, apud Werdam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster 									St. Ulrich und Afra in Augsburg</hi> (<hi rend="italic">ecclesię 									sancti Vdalrici in Augusta</hi>) zu Ehren Gottvaters, der 								heiligen Jungfrau Maria und des heiligen Ulrich (<hi rend="italic">in honorem dei patris et gloriosę ipsius genitricis semper 									virginis Marię et ipsius beatissimi confessoris </hi><hi rend="italic">V</hi><hi rend="italic">°</hi><hi rend="italic">dalrici, cuius patrociniis iuvari desideramus</hi>) seine 								neulich durchgeführte Schenkung (vgl. Reg. 3068) von drei Höfen in 								Hirblingen (<hi rend="italic">Hurweling</hi>), wofür der Abt und 								seine Brüder zu seinen (des Kaisers) Lebzeiten zur Fastenzeit der 								Weihnachtsquatember (<hi rend="italic">in ieiunio quatuor temporum 									ante natale domini</hi>) einen Jahrtag mit Vigilien, Messen und 								Gebeten und nach seinem Ableben auf ewig an seinem Todestag und dem 								seiner verewigten Gemahlin (Beatrix = 15. November) einen Jahrtag 								mit Gebeten halten sollen, und er bezeugt und bestätigt dem Kloster 								den Besitz eines Hauses, das Gertrud von Druisheim (<hi rend="italic">Trůwensheim</hi>) am Tag der Weihe der Kirche und 								der <hi rend="italic">depositio</hi> des heiligen Ulrich in seiner 								Gegenwart dem Kloster geschenkt hat (vgl. Reg. 3067). – Geschrieben 								von dem hier neu auftretenden Kanzleinotar Johannes C, wobei das 								Diktat wohl von GK beeinflusst ist; <span n="seal"> SP.D.</span>. 									<hi rend="italic">Ab eo, per quem.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: früher Hauptstaatsarchiv München, 								jetzt Staatsarchiv Augsburg, Kloster Augsburg – St. Ulrich und Afra 								Urkunden 5/1a (A). Teilfaks.: Koch, Schrift der Reichskanzlei, Abb. 								93. Drucke: Mon. Boica 22, 196 n<hi rend="sup">o</hi> 13; 								MG.DF.I.957. Regg.: Hipper, Urk. d. Reichsstiftes St. Ulrich 								und Afra in Augsburg, 11 n<hi rend="sup">o</hi> 14; Stumpf 4476.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Todestag der Kaiserin, dem 15. November 								(1184), vgl. Reg. 2818. – Zu der hier erwähnten Kirchweihe der 								Klosterkirche von St. Ulrich und Afra (nicht der Heilig-Kreuz-Kirche 								in Donauwörth, wie Ziegler, War Barbarossa 1188 in Adelberg?, in: 								Barbarossa und die Prämonstratenser [= Schriften zur staufischen 								Geschichte und Kunst, Bd. 10, 1989], 14, irrig meint) in Gegenwart 								des Kaisers vgl. Reg. 3067. – Das D. ist nicht nur ein äußerst 								interessantes Zeugnis für die Religiosität des Kaisers und seine 								engen Beziehungen zu St. Ulrich und Afra, sondern gibt auch durch 								die Stiftung des Jahrtages an den Weihnachtsquatembern, der zu 								Lebzeiten des Kaisers gefeiert werden sollte, einen wichtigen 								Hinweis zur Frage des Geburtsdatums Friedrich Barbarossas (siehe 								dazu oben Reg. 1), vgl. Opll, Winterquatember, MIÖG 85 (1977) 332 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_957" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

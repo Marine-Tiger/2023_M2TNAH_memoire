@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2213</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-12-12_1_0_4_2_3_441_2213"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-12-12_1_0_4_2_3_441_2213"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-12-12_1_0_4_2_3_441_2213</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306080" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2213</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-12-12" to="1176-12-12">1176 Dezember 12 — 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Kloster Sant' Agata in der Vorstadt zu Cremona</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die quodam dominico, qui fuit duodecimus intrante mense decembr., et in quodam casamento de ecclesia beate Agathe de burgo Cremone)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">die Cremonesen Pontius de Ghiroldis, Homobonus von Trezzo, Bellottus de Bonseris, Osbertus Talamatius, Dodhus und Domafollis, Graf Gerard (von Crema), Warinzo de Michara (aus Cremona) und Ambroxius Scandolarie</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich sichert der <hi rend="spaced">Stadt Cremona</hi>  wegen ihrer großen Verdienste zunächst durch einen Eid Konrads von Ballhausen, der tags darauf durch Hermann von Oeyen stellvertretend für Erzbischof (Philipp) von Köln und den Kanzler Gottfried, sowie durch Burggraf Konrad von Nürnberg, Graf Heinrich von Diez, Konrad von Oberschüpf (<hi rend="italic">de la Maze</hi>), Graf Florentius von Holland und Konrad von Ballhausen im eigenen Namen geleistet wird, den Schutz ihres Besitzstandes (..., <hi rend="italic">quod non erit in consilio nec in facto, quod civitas Cremone vel episscopatus [!] vel loca, que per Cremonam distringuntur, destruantur vel Cremone auferantur.</hi>), die Unterstützung bei städtischen Waffengängen in Abstimmung mit deren Konsuln zu, verspricht, Italien erst dann zu verlassen, wenn Cremona mit den Lombarden Frieden geschlossen hat bzw. alles zum Schutz der Stadt getan ist, und sagt zu, binnen sechs Monaten auf Ansuchen der Stadt zeitlich und nach der Anzahl der zu stellenden Truppen genau festgelegte Hilfe gegen mögliche künftige Angriffe der lombardischen Städte zu leisten; des weiteren wird er — falls erforderlich — 1000 Ritter von nördlich der Alpen nach Cremona schicken, falls der Friede mit den Lombarden nicht bis zum nächsten 1. Juni (1177) geschlossen ist, seinen Sohn, König Heinrich (VI.), auf Ersuchen der Konsuln bei Erreichen von 14 Lebensjahren zur Beeidung dieser Vereinbarung anhalten und sie auch von 20 Fürsten nach Wahl der Cremoneser Konsuln beschwören lassen. <span n="witnesses">Z.: die Cremonesen Pontius de Ghiroldis, Homobonus von Trezzo, Bellottus de Bonseris, Osbertus Talamatius, Dodhus und Domafollis, Graf Gerard (von Crema), Warinzo de Michara (aus Cremona) und Ambroxius Scandolarie</span>. — Protokollarische Niederschrift der kaiserlichen Zusicherungen im Auftrag der Cremonesen von der Hand des Notars Frogerius (<hi rend="italic">Frogerius notarius interfui et rogatus hanc cartam scripsi</hi>.). <span n="incipit"><hi rend="italic">Cum Fredericus dei gratia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum Fredericus dei gratia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Protokollarische Niederschrift des Notars Frogerius, Staatsarchiv Cremona, Perg. n<hi rend="sup">o</hi>  1928 (K 30) (A). Drucke: MG.Const. 1, 354 n<hi rend="sup">o</hi>  251; Falconi, Carte Cremonesi III, 226 n<hi rend="sup">o</hi>  533; MG.DF.I.660. Regg.: Astegiano, CD.Cremonae 1, 148 n<hi rend="sup">o</hi>  327; Knipping, Reg.2, n<hi rend="sup">o</hi>  1066; Stumpf 4185.</p></div>
+				
+				
+					<div type="commentary"><p>Das eigentliche Vertragswerk kam nicht zustande, wie sich aus der die kaiserliche Sicht der Ereignisse dokumentierenden Klageschrift aus dem Jahre 1185 (DF.I. 895) ergibt. — Zum Nachweis des Originalcharakters der Überlieferung vgl. die Vorbemerkung zum D., zur formalen, rechtlichen und politischen Bewertung vgl. Riedmann, Verträge, 97 ff., und Opll, Stadt und Reich, 258. — Boso, ed. Duchesne, 436, und Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 269 berichten von der Aussöhnung Cremonas und Tortonas (dazu siehe unten Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-01-00_3_0_4_2_3_462_2234.html" type="internal" n="regesten">2234</ref>) mit dem Kaiser.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zur Rolle Cremonas in der Epoche vom Frühjahr 1175 bis zum Ende 1178 vgl. jetzt Raccagni, The Lombard League, 95–98.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0156" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_660" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._354" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

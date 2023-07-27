@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1416</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-00-00_1_0_4_2_2_858_1416"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-00-00_1_0_4_2_2_858_1416"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-00-00_1_0_4_2_2_858_1416</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246727" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1416</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-01-01" to="1165-12-31">1165 (recte: 1164 Herbst)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(noch in Italien)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Raitenhaslach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi archicanc. Italię</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem hier als Gelegenheitsschreiber für die Reichskanzlei tätigen Notar des Erzbischofs Konrad I. von Mainz, Propst Robert von Obermockstadt, das Monogramm stammt von der Hand des Kanzleinotars CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Raitenhaslach</hi> </span>  auf Bitten Herzog Heinrichs von Bayern und Sachsen das von dessen Ministerialen Rafold geschenkte Allod in Schönburg und Waltendorf und nimmt das Kloster mit seinen sonstigen, namentlich angeführten Besitzungen in seinen Schutz. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi archicanc. Italię</hi> </span>; <span n="clerk">verfaßt und geschrieben von dem hier als Gelegenheitsschreiber für die Reichskanzlei tätigen Notar des Erzbischofs Konrad I. von Mainz, Propst Robert von Obermockstadt, das Monogramm stammt von der Hand des Kanzleinotars CE</span>; <span n="seal">SP. 2.</span>  <span n="incipit"><hi rend="italic">Si circa loca deo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si circa loca deo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Krausen, Urkunden des Klosters Raitenhaslach 22 n<hi rend="sup">o</hi>  20 zu 1165 (vor September 19-24); MG. DF. I. 468. Reg.: Stumpf 4033.</p></div>
+				
+				
+					<div type="commentary"><p>Die richtige zeitliche Einordnung ergibt sich aus der Verwendung von südlichem Pergament und der Rekognition, vgl. dazu und zum Diktat Herkenrath, Zwei Notare, MIÖG 73 (1965) 253 und die Vorbemerkung zum D. - Zwei verschiedene Hände veränderten die Besitzliste am Ende des 12. oder zu Anfang des 13. Jh. an zwei Stellen. - Zu der Schenkung Rafolds vgl. auch DK. III. 202 und Jordan, Urk. Heinrichs des Löwen 105 n<hi rend="sup">o</hi>  72. - Zum Kloster vgl. weiters Krausen, Germ. sacra N. F. 11/1 (1977).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0227" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210265%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_468" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

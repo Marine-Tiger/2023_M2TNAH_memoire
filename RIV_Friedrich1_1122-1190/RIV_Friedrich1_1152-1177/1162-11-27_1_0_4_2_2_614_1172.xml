@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1172</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-11-27_1_0_4_2_2_614_1172"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-11-27_1_0_4_2_2_614_1172"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-11-27_1_0_4_2_2_614_1172</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245035" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1172</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-11-27" to="1162-11-27">1162 November 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V<hi rend="sup">to</hi>  kal. decembris, Constantie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pforta</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Cunradi Moguntini electi et archicanc.</hi></notarius>
+				
+				
+					<scribe>Datierung und Zeugenankündigung entsprechen dem Diktat des UB, die sonstigen Teile sind dem Diktat nach nicht zu bestimmen; als Mundator scheidet UB mit großer Wahrscheinlichkeit aus</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Konrad von Augsburg und Hermann von Verden (<hi rend="italic">Fardensis</hi>), die Herzoge Heinrich von Bayern und Sachsen und Welf (VI.), Pfalzgraf Hugo von Tübingen und Graf Ulrich von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt auf Bitten des Markgrafen Otto von Meißen seine Zustimmung zu einem Gütertausch zwischen diesem und dem Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Pforta</hi> </span>, wobei das Kloster ein Wäldchen westlich von Heckendorf, das als Reichslehen in der Hand des Markgrafen war, erhält und dafür dem Reich zwei Hufen in Schkorlopp mit einem Ertrag von zehn solidi überläßt, die an Otto ausgetan werden. <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Konrad von Augsburg und Hermann von Verden (<hi rend="italic">Fardensis</hi>), die Herzoge Heinrich von Bayern und Sachsen und Welf (VI.), Pfalzgraf Hugo von Tübingen und Graf Ulrich von Lenzburg</span>. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Cunradi Moguntini electi et archicanc.</hi> </span>; <span n="clerk">Datierung und Zeugenankündigung entsprechen dem Diktat des UB, die sonstigen Teile sind dem Diktat nach nicht zu bestimmen; als Mundator scheidet UB mit großer Wahrscheinlichkeit aus</span>. <span n="incipit"><hi rend="italic">Sicut pium est</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut pium est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatar des Klosters Pforta aus dem 13. Jh. f. 10, Bibliothek zu Schulpforta (B); Transsumptbuch von 1536 f. 294, ebenda (D). Drucke: Böhme, UB. des Klosters Pforte 1, 27 n<hi rend="sup">o</hi>  15; MG. DF. I. 392. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  244; Stumpf 3972.</p></div>
+				
+				
+					<div type="commentary"><p>Erstes von Kanzler Christian von Buch rekognosziertes D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Kunde, Das Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte Sachsen-Anhalts 4, 2003) 268 Nr. 13, wiederholt und bestätigt die diplomatische Bewertung des DF.I.392.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0169" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_392" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

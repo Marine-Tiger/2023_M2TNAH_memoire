@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3205</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_3_0_4_2_4_632_3205"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_3_0_4_2_4_632_3205"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-11-00_3_0_4_2_4_632_3205</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3205</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-11-01" to="1188-11-30">1188
+									(November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gernrode</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">die Bischöfe (Eberhard) von Merseburg 									und (Berthold) von Naumburg, Herzog Bernhard von Sachsen, Graf 									Siegfried von Dornburg, Vogt der genannten Güter, Graf Sibodo 									von Scharzfeld, Burggraf Burchard von Magdeburg und die 									Gernroder Ministerialen Friedrich und Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich (<hi rend="italic">dum imperator esset 									Gerenrod pro disponendis imperii negotiis</hi>) beschließt auf 								die seitens der Nonnen des Klosters Frose in Gegenwart des gesamten 								Hofes vorgebrachten Klagen wegen der zu geringen Zinserträgnisse von 								ihren elf Hufen in Balberge gemeinsam mit den sächsischen Fürsten 								und mit Zustimmung des gesamten Hofes, dass von der Hufe, von der 								bisher sechs Schilling bezahlt wurden, zur Unterstützung des 								Lebensunterhaltes der Nonnen fortan zehn mehr bezahlt werden sollen. 									<span n="witnesses">Z.: die Bischöfe (Eberhard) von Merseburg 									und (Berthold) von Naumburg, Herzog Bernhard von Sachsen, Graf 									Siegfried von Dornburg, Vogt der genannten Güter, Graf Sibodo 									von Scharzfeld, Burggraf Burchard von Magdeburg und die 									Gernroder Ministerialen Friedrich und Rudolf</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Druck: Heinemann, CD. Anhalt. I, n<hi rend="sup">o</hi> 663. Regg.: Rosenfeld, UB. Hochstift 								Naumburg 1, 323 n<hi rend="sup">o</hi> 351; Diestelkamp – Rotter, 								Urkundenregesten 1, 399 n<hi rend="sup">o</hi> 506; Stumpf 4507.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								kaiserlichen Itinerar sowie aus den angeführten Zeugen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2396</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-14_1_0_4_2_3_624_2396"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-14_1_0_4_2_3_624_2396"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-06-14_1_0_4_2_3_624_2396</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2396</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-06-14" to="1178-06-14">1178  Juni 14 — Juli 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Turin">Turin</placeName>
+												<location><geo decls="#WGS">45.0667, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich weilt längere Zeit in Turin und im Gebiet dieser Stadt. Als er mit den Lombarden dort keinen Frieden nach seinen Vorstellungen zu erlangen vermag, kehrt er mit den Seinen nach Deutschland zurück.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 295; Ex Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 270.</p></div>
+				
+				
+					<div type="commentary"><p>Romuald spricht vom Aufenthalt im Gebiet von Turin, doch sind die damals ausgestellten Diplome (DD. 732 — 737 = Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-14_2_0_4_2_3_614_2386.html" type="internal" n="regesten">2386</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-14_3_0_4_2_3_615_2387.html" type="internal" n="regesten">2387</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-15_1_0_4_2_3_617_2389.html" type="internal" n="regesten">2389</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-23_1_0_4_2_3_619_2391.html" type="internal" n="regesten">2391</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-07_1_0_4_2_3_620_2392.html" type="internal" n="regesten">2392</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-11_1_0_4_2_3_622_2394.html" type="internal" n="regesten">2394</ref>) stets in der Pfalz zu Turin ausgestellt. — Radulf von Diceto berichtet sogar, daß der Kaiser angesichts des erneut rebellischen Italien über die Alpen zurückkehrte, um sich gegen die Lombarden neuer Truppen zu versichern. — Zur damaligen politischen Situation vgl. Opll, Friedrich Barbarossa, 122 f. (mit weiteren Literaturhinweisen).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0221" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1283</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-27_2_0_4_2_2_725_1283"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-27_2_0_4_2_2_725_1283"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-27_2_0_4_2_2_725_1283</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1415629971" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1283</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-27" to="1163-11-27">1163 November 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V<hi rend="sup">to</hi>  kal. decembris, Papię)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich kauft vom Domkapitel zu <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>, dessen Kanoniker er als seine Brüder bezeichnet (<hi rend="italic">fratres nostri</hi>), um 70 Mark Silber dessen Besitz zu Waldmannshofen mit Ausnahme eines Berges, der nicht befestigt werden darf; er behält sich dort das Befestigungsrecht im Fall der Veräußerung durch das Domkapitel vor. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quęecumque in contractibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quęecumque in contractibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 371 n<hi rend="sup">o</hi>  508; Wirtemberg. UB. 5, 382 n<hi rend="sup">o</hi>  13; MG. DF. I. 420. Reg.: Stumpf 3997.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. ist eines der seltenen Zeugnisse für die Gütererwerbungen des Kaisers.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0195" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210264%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_420" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=596" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

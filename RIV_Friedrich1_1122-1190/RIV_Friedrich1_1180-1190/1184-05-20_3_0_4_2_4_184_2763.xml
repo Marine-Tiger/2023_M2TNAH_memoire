@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2763</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-20_3_0_4_2_4_184_2763"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-05-20_3_0_4_2_4_184_2763"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-05-20_3_0_4_2_4_184_2763</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844078" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2763</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-05-20" to="1184-05-20">1184
+									(ca. Mai 20)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Mainz (<hi rend="italic">apud Maguntiam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Cůnradi 										Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>in der Kanzlei unter Verwendung der 									überarbeiteten Güterbestätigung des Privilegs Papst Alexanders 									III. von 1171 Februar 10 (Jaffé-L. 11.878; Germ. pont. 1, 92 										n<hi rend="sup">o</hi> 11, VU.I) und hinsichtlich der 									Vogteibestimm</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Konrad von Mainz und Philipp 									von Köln, die Bischöfe Hermann von Münster und Martin von 									Meißen, Elekt Konrad von Lübeck, die Herzöge Leopold von 									Österreich und Friedrich von Schwaben, die Grafen Ludwig von 									Spitzenberg, Engelbert von Görz und Heinrich von Diez, Otto von 									Neulengbach (<hi rend="italic">Leggimbah</hi>), Erkimbert von 									Hagenau, Krafto von Anzenbach (<hi rend="italic">Emizinispah</hi>), Engelschalk von <hi rend="italic">Urá</hi> (wohl Aurach), Lutwin von Sonnberg, Ulrich von 									Staatz (<hi rend="italic">Stowiz</hi>) und Heinrich von 									Dunkelstein (<hi rend="italic">Dunkinstein</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster 									Admont</hi> (<hi rend="italic">Agymundensem ecclesiam</hi>) mit 								allen ihm von seinem Gründer, Erzbischof Gebhard von Salzburg, 								dessen Nachfolgern und anderen Getreuen übertragenen, namentlich 								angeführten Besitzungen, die in den Privilegien Erzbischof Konrads 								des Älteren (I. von Salzburg) und seiner Nachfolger genannt werden, 								in seinen Schutz, bestätigt, was der Abtei an Regalien der 								Salzburger Kirche übertragen wurde, untersagt den Vögten, das 								Kloster und dessen Leute mit Abgaben zu bedrücken oder die 								Vogteirechte als Lehen weiter zu geben, wie es bereits unter dem 								ehemaligen Klostervogt Graf Gebhard von Burghausen und dessen 								Nachfolger, Herzog Heinrich (II.) von Österreich, dem Oheim des 								Kaisers, üblich war und wie es dieser Herzog und dessen Sohn Herzog 								Leopold (V.) dem Kloster durch Privilegien bestätigt haben, dehnt 								diese Verfügung auch auf das Land seines Verwandten, des Herzogs 								(Otakar) von Steier(mark), und auf Kärnten aus und bestätigt gemäß 								der Verleihung des Herzogs Otakar und seines Vaters (Markgraf 								Otakars III.) die Freiheit von Transit- und Zollabgaben. <span n="witnesses">Z.: die Erzbischöfe Konrad von Mainz und Philipp 									von Köln, die Bischöfe Hermann von Münster und Martin von 									Meißen, Elekt Konrad von Lübeck, die Herzöge Leopold von 									Österreich und Friedrich von Schwaben, die Grafen Ludwig von 									Spitzenberg, Engelbert von Görz und Heinrich von Diez, Otto von 									Neulengbach (<hi rend="italic">Leggimbah</hi>), Erkimbert von 									Hagenau, Krafto von Anzenbach (<hi rend="italic">Emizinispah</hi>), Engelschalk von <hi rend="italic">Urá</hi> (wohl Aurach), Lutwin von Sonnberg, Ulrich von 									Staatz (<hi rend="italic">Stowiz</hi>) und Heinrich von 									Dunkelstein (<hi rend="italic">Dunkinstein</hi>) </span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Cůnradi 										Maguntine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">in der Kanzlei unter Verwendung der 									überarbeiteten Güterbestätigung des Privilegs Papst Alexanders 									III. von 1171 Februar 10 (Jaffé-L. 11.878; Germ. pont. 1, 92 										n<hi rend="sup">o</hi> 11, VU.I) und hinsichtlich der 									Vogteibestimmungen unter Heranziehung der Urkunde Erzbischof 									Eberhards von Salzburg von 1160, an die auch die Bestätigung der 									Regalien anklingt (Hauthaler – Martin, Salzburger UB. 2, 489 										n<hi rend="sup">o</hi> 350, VU.II; vgl. Hausmann, Vogtei 									des Klosters Admont, Jb. f. Landeskunde von Niederösterreich 									N.F. 42, 1976, 115 und 117), wahrscheinlich von GG verfasst und 									geschrieben</span>; <span n="seal"> SP.D.</span>. (vgl. Anm. 								c). <span n="incipit"><hi rend="italic">Equitas rationis 									et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equitas rationis 									et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Klosters Admont (alte 								Signatur A 74), 1865 durch Brand vernichtet (A); Abschrift im alten 								Apparat der Wiener Diplomata-Abteilung (A<hi rend="sup">1</hi>). Kop.: Abschrift von etwa 1240 im Admonter Kopialbuch 								Cod. 475 f. 105, Stiftsbibliothek Admont (D). Drucke: Zahn, UB. 								d. Herzogthums Steiermark 1, 594 n<hi rend="sup">o</hi> 625; 								MG.DF.I.856. Regg.: Wiesflecker, Reg. der Grafen von Görz 1, 76 									n<hi rend="sup">o</hi> 280; Fichtenau – Dienst, UB. z. Gesch. 								der Babenberger 4/1, 196 n<hi rend="sup">o</hi> 876; Stumpf 4374.</p></div>
+				
+				
+					<div type="commentary"><p>Abschriften des D. enthielten auch das schon 1812 								verschollene Admonter Salbuch III und das 1865 verbrannte Salbuch 								IV. – Die zeitliche Einreihung ergibt sich aus der Feier des 								Pfingstfestes 1184 in Mainz, vgl. Opll, Itinerar, 222. – Zu den 								Urkunden der babenbergischen Herzöge Heinrich und Leopold für Admont 								von 1169 bzw. 1179 vgl. Fichtenau – Zöllner, UB. z. Gesch. der 								Babenberger I, 51 no 37 und 76 no 56. – Papst Lucius III. und auch 								Papst Urban III. nahmen in ihren Privilegien für Admont von 1185 								Juli 22, Verona bzw. 1187 Mai 26, Verona direkt auf das kaiserliche 								D. Bezug (Zahn, a.a.O., 611 no 641 und 659 no 684; zum Privileg 								Lucius’ III.: Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 								2: 1184–1185, no 1694). – An dieser Stelle sei auch auf die Nennung 								eines <hi rend="italic">Otto nuncius imperatoris</hi> unter den 								Zeugen einer Urkunde Herzog Otakars von Steier für Admont von 1184 								(ed. Zahn, a.a.O., 601 no 631) und die eines <hi rend="italic">Chunradus seruus imperatoris F.</hi> unter den Zeugen einer 								Admonter Traditionsnotiz über die Stiftung von Gütern zu Kraubat an 								das Kloster durch Wieland, den Hörigen Herzog Otakars von Steier, 								und dessen Gattin Judita, ebenfalls aus dem Jahr 1184 (Zahn, a.a.O., 								600 no 630), hingewiesen; sie könnten mit der Ausstellung der 								Kaiserurkunde für Admont bzw. deren Überbringung zu tun gehabt 								haben. – Der unter den Zeugen genannte Graf Ludwig von Spitzenberg 								nannte sich auch nach Helfenstein (Kr. Göppingen) und Sigmaringen, 								vgl. Plassmann, Struktur des Hofes, 269; Otto von Neulengbach war 								Vogt von Regensburg, vgl. Plassmann, a.a.O., 289.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_856" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

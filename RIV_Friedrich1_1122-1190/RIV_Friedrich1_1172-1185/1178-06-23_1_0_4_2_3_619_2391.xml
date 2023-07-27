@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2391</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-23_1_0_4_2_3_619_2391"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-06-23_1_0_4_2_3_619_2391"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-06-23_1_0_4_2_3_619_2391</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604612" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2391</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-06-23" to="1178-06-23">1178 Juni 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz des Kaisers zu Turin</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die Ueneris, nono kal. iulii, super palatium imperatoris de Taurino)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Rainer von Biandrate, Markgraf Arditio von Romagnano, Arditio von Piosasco, Heinrich (<hi rend="italic">Anricus</hi>) von Bagnolo (Piemonte), Drocus von Testona, Olricus Pulliolus, Richter Petrus, Archidiakon Petrus von Turin, Mercator Guifredus, Bischof (Milo) von Turin, Richter Vido von Castelnovetto, Herr Rainer von Sannazzaro de' Burgondi, Ugo Butigella, Deustesalvet von Monaca, Jacobus von Garbagna, Garzapanis von Verona und sein Sohn Albert, Albert von Savignano (sul Panaro), Vogt Wilhelm von Aachen, Bischof (<hi rend="italic">dominus</hi>) Hugo von Verden, der Hofvikar Magister Metellus, der kaiserliche Hofrichter Guibertus de Bornado, Mundschenk Konrad (Colbo von Oberschüpf), Hermann von Oeyen und sein Sohn Hermann, Kämmerer Hartmann (<hi rend="italic">Artemannus</hi>), Marschall Heinrich Calbus (von Pappenheim), Guiscardus de Donna Adelaxia von Vercelli, Bubulcus von Cremona, Afurlatus von Castelnuovo (di Scrivia), Hermann von Annone, Petracius von Besozzo und Otto von Brescia</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und sein Sohn, König Heinrich (VI.), kaufen dem <hi rend="spaced">Bischof Wala von Vercelli</hi>  die Hafen-, Ufer- und Zollrechte am Cervo und an der Sesia (<hi rend="italic">de portu Sarui et de portu Sicide et de omni pedagio, quod ibi accipiebatur, et de omni iure, quod ipse habebat ab una ripa et ab alia predictorum fluviorum superius et inferius predictorum portuum</hi>) um 2580 Pfand Silber guter Paveser Pfennige ab und übertragen sie der Kaiserin Beatrix, die für ihr Seelenheil, das des Kaisers und ihrer Eltern und zu Ehren der hl. Jungfrau Maria auf die Erhebung jeglicher Abgaben daselbst verzichtet. <span n="witnesses">Z.: Graf Rainer von Biandrate, Markgraf Arditio von Romagnano, Arditio von Piosasco, Heinrich (<hi rend="italic">Anricus</hi>) von Bagnolo (Piemonte), Drocus von Testona, Olricus Pulliolus, Richter Petrus, Archidiakon Petrus von Turin, Mercator Guifredus, Bischof (Milo) von Turin, Richter Vido von Castelnovetto, Herr Rainer von Sannazzaro de' Burgondi, Ugo Butigella, Deustesalvet von Monaca, Jacobus von Garbagna, Garzapanis von Verona und sein Sohn Albert, Albert von Savignano (sul Panaro), Vogt Wilhelm von Aachen, Bischof (<hi rend="italic">dominus</hi>) Hugo von Verden, der Hofvikar Magister Metellus, der kaiserliche Hofrichter Guibertus de Bornado, Mundschenk Konrad (Colbo von Oberschüpf), Hermann von Oeyen und sein Sohn Hermann, Kämmerer Hartmann (<hi rend="italic">Artemannus</hi>), Marschall Heinrich Calbus (von Pappenheim), Guiscardus de Donna Adelaxia von Vercelli, Bubulcus von Cremona, Afurlatus von Castelnuovo (di Scrivia), Hermann von Annone, Petracius von Besozzo und Otto von Brescia</span>. — Notariatsinstrument, das auf Befehl des Kaisers, König Heinrichs (VI.), der Kaiserin sowie des Bischofs Wala von Vercelli von <hi rend="italic">Martinus Papiensis et imperialis aule notarius</hi>  ausgestellt wurde. <span n="incipit"><hi rend="italic">Anno dominice incarnationis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno dominice incarnationis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des 12. Jh., Archiv des Domkapitels von Vercelli (B). Drucke: Stumpf, Acta ined. 730 n<hi rend="sup">o</hi>  524; MG.DF.I.735. Reg.: Stumpf 4250.</p></div>
+				
+				
+					<div type="commentary"><p>Zwei Tage zuvor, am 21. Juni 1178, hatte eine Gruppe von Vercelleser Bürgern (Angehörige der Familien Vialardi und Guitachino) in Vercelli in Anwesenheit des — im D. 735 unter den Zeugen genannten — Hofvikars Magister Metellus (<hi rend="italic">presente magistro Metello uicario curie</hi>) ihre Hafenrechte zum Preis von 2580 Pfund guter Paveser Pfennige an Bischof Guala von Vercelli übertragen, vgl. dazu das vom Paveser Hofnotar Martinus ausgestellte Notariatsinstrument (<hi rend="italic">Ego Martinus imperialis aule et Papie notarius interfui et hoc instrumentum tradidi et scripsi.</hi>), ed. Arnoldi — Gabotto, Le Carte dello Archivio capitolare di Vercelli 2, BSSS 71 (1914) 65 n<hi rend="sup">o</hi>  369; Mandelli, Il Comune di Vercelli nel Medio Evo, Tom. II (1857), 336 ff. spricht in diesem Zusammenhang von einem Aufenthalt der kaiserlichen Familie in Vercelli, was angesichts des Umstands, dass sich der Kaiser bereits ab dem 14. Juni in Turin nachweisen lässt (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-06-14_2_0_4_2_3_614_2386.html" type="internal" n="regesten">2386</ref>) nur wenig wahrscheinlich ist. — Vgl. zu diesem Rechtsgeschäft Haverkamp, Herrschaftsformen 2, 668, sowie auch Ambrosioni, Le città italiane, in: La pace di Costanza (Studi e testi di storia medioevale 8, 1984) 41 f. mit Anm. 27.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0219" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_735" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

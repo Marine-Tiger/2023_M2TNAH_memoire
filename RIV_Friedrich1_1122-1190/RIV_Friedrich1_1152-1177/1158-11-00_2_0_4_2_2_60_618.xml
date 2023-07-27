@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 618</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-00_2_0_4_2_2_60_618"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-00_2_0_4_2_2_60_618"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-00_2_0_4_2_2_60_618</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241101" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 618</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-01" to="1158-11-30">(1158 November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Roncaglia)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pfalzen</hi>  <hi rend="spaced">Amtssitze</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich läßt durch ein Gesetz feststellen, daß der Kaiser <span sameAs="recipient"><hi rend="spaced">Pfalzen</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Amtssitze</hi> </span>  (<hi rend="italic">pretoria</hi>) überall dort errichten kann, wo es ihm beliebt. - Wahrscheinlich von den in Bologna anwesenden Bologneser Rechtsgelehrten verfaßt (vgl. Reg. 606). <span n="incipit"><hi rend="italic">Palacia et pretoria</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Palacia et pretoria</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Ms. lat. 4677 f. 55, Nationalbibliothek Paris (D). Drucke: Colorni (wie Reg. 617); MG. DF. I. 239. Faks.: Colorni (wie Reg. 617).</p></div>
+				
+				
+					<div type="commentary"><p>Zur Bedeutung dieses kaiserlichen Rechtsanspruches, der bewußt gegen das Bestreben der Städte gerichtet ist, in ihren Mauern keine Pfalzen aufnehmen zu müssen (vgl. auch die einschlägige Bestimmung in der Kapitulation der Mailänder, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-09-01_1_0_4_2_2_23_581.html" type="internal" n="regesten">581</ref>), vgl. Colorni, Die drei verschollenen Gesetze, 33 ff. Die sachliche Abweichung vom Wortlaut der Regaliendefinition (<hi rend="italic">palatia in civitatibus consuetis</hi>, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-22_1_0_4_2_2_53_611.html" type="internal" n="regesten">611</ref>) ergibt sich wohl aus dem unterschiedlichen Charakter der beiden Dokumente, dort ein Weistum, hier die Fixierung eines prinzipiellen kaiserlichen Rechtsanspruches.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0034" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_239" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

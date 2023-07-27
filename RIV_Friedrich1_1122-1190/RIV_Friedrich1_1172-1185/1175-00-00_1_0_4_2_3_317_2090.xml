@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2090</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-00-00_1_0_4_2_3_317_2090"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-00-00_1_0_4_2_3_317_2090"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-00-00_1_0_4_2_3_317_2090</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598824" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2090</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-01-01" to="1175-12-31">1175  wohl irrig statt: 1174</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Rülzheim <hi rend="italic">(apud Rulichesheim)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Grafen Konrad von Calw und Rudolf von Pfullendorf, Ebmar von Leimersheim, Wezel von Berg/Trifels (<hi rend="italic">Bergen</hi>), Marschall Heinrich von Germersheim und Otto von Rülzheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Augustiner-Chorherrenstift Hördt</hi>  einige von dem Ritter Konrad von Rülzheim geschenkte Weingärten, die ihm dieser zunächst aufgelassen hat und die er sodann an Propst Konrad übergeben hat. <span n="witnesses">Z.: die Grafen Konrad von Calw und Rudolf von Pfullendorf, Ebmar von Leimersheim, Wezel von Berg/Trifels (<hi rend="italic">Bergen</hi>), Marschall Heinrich von Germersheim und Otto von Rülzheim</span>. — <span n="clerk">Außerhalb der Kanzlei verfaßt und geschrieben</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Quia imperatorie beatitudinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia imperatorie beatitudinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe (A). Druck: MG.DF.I.627. Regg.: Biundo, Reg.von Hördt 4 n<hi rend="sup">o</hi>  13; Stumpf 4169 zu 1174.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem kaiserlichen Itinerar. Zum Ausstellungsort vgl. Koch, Reichskanzlei 182 Anm. 187. — Wohl um diese Zeit zogen Brabanzonen (= Söldner, die der Kaiser für seinen Zug nach Italien benötigte) durch das Elsaß, vgl. dazu Ann. Maurimonasterienses, ed. Bloch, MG. SS rer.Germ.in us.schol., 106. — Zu dem unter den Zeugen genannten Wezel von Berg vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 246 und 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0116" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_627" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

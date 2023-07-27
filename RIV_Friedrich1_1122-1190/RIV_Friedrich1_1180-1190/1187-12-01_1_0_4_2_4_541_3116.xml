@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3116</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-01_1_0_4_2_4_541_3116"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-01_1_0_4_2_4_541_3116"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-12-01_1_0_4_2_4_541_3116</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3116</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-12-01" to="1187-12-01">1187
+									um Dezember 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Strassburg">Straßburg</placeName>
+												<location><geo decls="#WGS">48.5833, 7.75</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich hält 								einen Hoftag, auf dem zwei Boten des von Papst Gregor (VIII.) als 								Kreuzzugslegaten entsandten Kardinals Heinrich von Albano über die 								Entwicklungen im Heiligen Land berichten und sowohl den Kaiser wie 								auch die anderen auffordern, das Kreuz zu nehmen. Als dieser 								Aufforderung niemand Folge leistet, schließt sich Bischof Heinrich 								von Straßburg dem Flehen der Boten des Kardinallegaten an. 								Schließlich nimmt Siegfried, ein Ministeriale des Grafen Albert von 								Dagsburg, als Erster das Kreuz aus der Hand des Bischofs, und 								zahlreiche andere, darunter viele Fürsten und etwa 500 Ritter, 								schließen sich ihm an. Bischof Gottfried von Würzburg begeistert 								sich gleichfalls für das Unternehmen; sein Eintreten für den Weg 								über das Meer statt des beschwerlicheren Landwegs wird jedoch vom 								Herrscher zurückgewiesen. Groß ist die allgemeine Bewegung, und auch 								der Kaiser erklärt, er würde sofort das Kreuz nehmen, könne dies 								aber wegen der Auseinandersetzungen zwischen ihm und Erzbischof 								(Philipp) von Köln (zunächst noch) nicht tun. An König (Philipp II. 								August) von Frankreich entsendet er (in der Folge?) Legaten, um ihn 								zur Teilnahme am Kreuzzug zu bewegen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 57 ff. = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 176 (nennen irrig den 								Kardinalbischof von Palestrina, den späteren Papst Clemens III., als 								Legaten); Scheffer-Boichorst, Ann. Patherbrunnenses, 178 (Heinrich 								von Albano als Kreuzzugsprediger, ohne Ort); Cont. Claustroneoburg. 								II., MG. SS IX, 618 (Entsendung von päpstlichen Legaten an den 								Kaiser); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 138 (nennt einen aus Jerusalem bzw. dem Heiligen Land 								stammenden, vom Papst gemeinsam mit Heinrich von Albano entsandten 								Legaten); Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. 								SS rer. Germ. N.S. 5, 13 f. (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 73 ff.); Hist. peregrinorum, 								ed. Chroust, MG. SS rer. Germ. N.S. 5, 122 ff.; vgl. Knipping, Reg. 								Köln 2, n<hi rend="sup">o</hi> 1309; vgl. auch Willelmi Chron. 								Andrensis, MG. SS XXIV, 719 (zu 1187).</p></div>
+				
+				
+					<div type="commentary"><p>Zur Frage des päpstlichen Legaten sowie zum 								Informationsstand des Kaisers, der damals vom tatsächlichen 								Geschehen im Heiligen Land noch nichts wusste, vgl. Giesebrecht – 								Simson, Kaiserzeit VI, 672, sowie Hiestand, ”precipua tocius 								christianismi columpna”, in: Friedrich Barbarossa (VuF 40, 1992) 58 								f. – Der Kaiser wie auch der Würzburger Bischof nahmen das Kreuz 								erst auf dem Hoftag Jesu Christi in Mainz, siehe dazu unten Reg. 								3145. – Wentzcke, Reg. Straßburg, no 633, hält unter Verweis auf 								a.a.O., no 640 (= hier: Reg. 3145) die Angabe Ansberts, Bischof 								Heinrich von Straßburg habe bereits auf dem Straßburger Tag das 								Kreuz genommen, für ein Versehen, doch weist die Überlieferung auch 								nicht direkt darauf hin. – Ansbert, a.a.O., berichtet davon, dass 								Bischof Gottfried von Würzburg von seiner Entscheidung, den Seeweg 								für das Unternehmen zu wählen, nicht nur durch den Kaiser, sondern 								auch durch Ermahnungen Papst Clemens’ III. abgebracht worden sei. Da 								Clemens sein Pontifikat erst am 19. Dezember 1187 antrat, dürfte der 								Sinneswandel des Würzburger Bischofs also erst später erfolgt 								sein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

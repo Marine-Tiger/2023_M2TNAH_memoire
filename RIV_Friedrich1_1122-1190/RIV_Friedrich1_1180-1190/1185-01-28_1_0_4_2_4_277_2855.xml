@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2855</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-28_1_0_4_2_4_277_2855"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-28_1_0_4_2_4_277_2855"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-28_1_0_4_2_4_277_2855</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844962" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2855</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-28" to="1185-01-28">1185
+									Januar 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Borgo San Donnino (<hi rend="italic">V kal. februarii, aput Burgum sancti Donini</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erklärt auf Klagen des <hi rend="spaced">Reichsklosters San Sisto zu Piacenza</hi> die Veräußerungen des 								früheren Abtes Berard für ungültig, weil sie ohne kaiserliche 								Genehmigung erfolgt sind und daher keine Rechtskraft besitzen. – 								Ohne individuelle Diktatelemente. <hi rend="italic">Audivimus 									querimoniam monasterii.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Staatsarchiv 								zu Parma, Dipl. Docc. not. busta 4, fasc. 173 (B); Abschrift des 13. 								Jh. im Staatsarchiv zu Cremona, Arch. segr. dipl. perg. n<hi rend="sup">o</hi> 2106 (C); Abschrift des 14. Jh. im 								Staatsarchiv zu Parma, Dipl. regi e imperiali (D). Drucke: 								Drei, Le carte degli archivi Parmensi 3, 453 n<hi rend="sup">o</hi> 								586; Falconi, Carte Cremonesi III, 430 n<hi rend="sup">o</hi> 622 								zu Januar 29; MG.DF.I.893. Reg.: Stumpf 4406 zu Januar 29.</p></div>
+				
+				
+					<div type="commentary"><p>Eine parallele Verfügung erließ Papst Lucius III. 								am 6. Februar 1185 in Verona (Jaffé-L. 15.361; Italia pont. 5, 497 								no 36; Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 								1184–1185, no 1463). – Vgl. dazu auch D. 894 (Reg. 2856). – Der 								Aufenthalt in Borgo S. Donnino wird auch in Ann. Plac. Gib., MG. SS 								XVIII, 465, und Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. 								in us. schol., 12, erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_893" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

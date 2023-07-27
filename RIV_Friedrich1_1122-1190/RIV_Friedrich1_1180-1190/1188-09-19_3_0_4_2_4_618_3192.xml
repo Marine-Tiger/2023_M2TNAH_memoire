@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3192</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-19_3_0_4_2_4_618_3192"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-19_3_0_4_2_4_618_3192"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-09-19_3_0_4_2_4_618_3192</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848556" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3192</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-09-19" to="1188-09-19">1188
+									September 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg Leisnig (<hi rend="italic">XIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. octobris, apud castrum Liznich</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. (gefälscht in Nachbildung des S.2, vgl. Anm. d)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice Conradi Maguntine sedis archiep. Germaniae archicanc.</hi></notarius>
+				
+				
+					<scribe>das verlorene echte D. für Lübeck war eine Kanzleiausfertigung, an der nach dem in der vorliegenden, 									interpolierten Fassung sorgfältig nachgezeichneten Monogramm jedenfalls Gottfried I beteiligt war</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Konrad von Mainz, Wichmann von Magdeburg und Hartwig von Bremen, die Bischöfe Adelhog von Hildesheim, Berthold von Naumburg und Martin von Meißen, Herzog Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dedo (der Lausitz), Propst Konrad von Goslar, Burggraf Burchard von Magdeburg und sein Bruder Gebhard, die Grafen Sigbodo von Scharzfeld und Buchard von Wöltingerode, Hugo von Warthe, Tiemo von Colditz, die Vögte Hermann von Lübeck und Gottfried von Stade, Giselbert von Warendorf, Walderich aus Soest, Bernher von Artlenburg, Wizo, Eyko, Egenolf, Gottfried von Suttorf, Siegfried <hi rend="italic">Struue</hi>, Lubert, Bernger und Esico von Bardowick</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt nach Beilegung der Streitigkeiten zwischen seinen <hi rend="spaced">Bürgern von Lübeck</hi> und den Grafen Adolf von Schauenburg und Bernhard von Ratzeburg in seiner Gegenwart die namentlich angeführten Grenzen des Gebietes der Stadt fest, wobei beide Gafen ihre Rechte in die Hand des Kaisers zurückstellen und er sie den Bürgern übergibt. Er bestätigt den 	Lübeckern den Umfang der bürgerlichen Fischereirechte, die freie Nutzung der Wälder Dassow (<hi rend="italic">Dartzchowe</hi>), Klütz (<hi rend="italic">Cliuz</hi>) und <hi rend="italic">Brotne</hi> (Groß-Brütz?) zum Zweck der Gewinnung von Bauholz für Schiffe und Häuser, die Weiderechte im Gebiet des Grafen Adolf, weiters die vom ersten Gründer ihrer Stadt, Heinrich (dem Löwen), dem früheren Herzog von Sachsen, in einem eigenen Privileg bekräftigten Rechte, nämlich das Patronatsrecht über die Pfarrkirche St. Marien samt dem 								Recht, den Pfarrer zu wählen und ihn dem Bischof zu präsentieren, 								die freien Handelsrechte im Herzogtum Sachsen ohne Hanse und Zoll 								außer zu Artlenburg (<hi rend="italic">Ertheneburch</hi>) und die 								Zuständigkeit ihres Stadtrichters für alle ihre sich innerhalb des 								Reiches und im Herzogtum ergebenden Gerichtsfälle. Dabei hat man 								sich frei von Gefangennahme gemäß den Rechten der Stadt zu 								verantworten. Des Weiteren bestätigt er 〈die Befugnis der Konsuln hinsichtlich der Gerichtsbarkeit und aller städtischen Verordnungen 	(<hi rend="italic">omnia civitatis decreta, id est kore</hi>)〉, wobei die Anteile an den diversen Gefällen genau geregelt werden, die Vorgangsweise bei der Sicherung erbenloser Güter, die Zoll- und Hansefreiheit östlicher Völker (<hi rend="italic">Rutheni, Gothi, Normanni et cetere gentes orientales</hi>), wobei für die übrigen Kaufleute die Zoll- und Transitabgaben festgelegt werden, den freien Wechsel von Silber mit Ausnahme des Bereiches vor dem Münzhaus 〈und das Recht der 								Konsuln, die Münze zu prüfen, so oft sie wollen〉. Er sichert 								ihnen seinen besonderen Schutz gegenüber den Herrschaftsträgern der 								Umgebung zu, die im Falle des Zuwiderhandelns (<hi rend="italic">Quicumque autem spacia civitatis per occupationem edificiorum 									usurpaverit</hi>) 60 <hi rend="italic">solidi</hi> zu bezahlen 								haben, gewährt ihnen die Freiheit von jeglicher Heerfahrt, wobei sie 								allerdings zur Verteidigung ihrer Stadt verpflichtet sind, und 								erlaubt ihnen, sich überall hinsichtlich ihrer Freiheit <hi rend="italic">sola manu</hi> auf diese zu berufen. Im Falle, 								dass sie von einem Auswärtigen in ihrer Stadt deswegen belangt 								werden sollten, kann der Bürger seine Freiheit ohne Eideshelfer (<hi rend="italic">civis vicinior est ad obtinendum suam libertatem 									sola manu</hi>) bewahren, wobei in jedem Falle der Nachweis, 								dass jemand über Jahr und Tag in der Stadt gelebt hat, ausreicht, um 								seine Freiheit zu beweisen. Zuletzt legt er die Ausdehnung ihrer 								Stadtrechte von der Stelle, die der Fluss Trave bei Hochwasser 								erreicht, über die Stadt bis zur Grenze der Brücke fest. <span n="witnesses">Z.: die Erzbischöfe Konrad von Mainz, Wichmann von 									Magdeburg und Hartwig von Bremen, die Bischöfe Adelhog von 									Hildesheim, Berthold von Naumburg und Martin von Meißen, Herzog 									Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dedo 									(der Lausitz), Propst Konrad von Goslar, Burggraf Burchard von 									Magdeburg und sein Bruder Gebhard, die Grafen Sigbodo von 									Scharzfeld und Buchard von Wöltingerode, Hugo von Warthe, Tiemo 									von Colditz, die Vögte Hermann von Lübeck und Gottfried von 									Stade, Giselbert von Warendorf, Walderich aus Soest, Bernher von 									Artlenburg, Wizo, Eyko, Egenolf, Gottfried von Suttorf, 									Siegfried <hi rend="italic">Struue</hi>, Lubert, Bernger und 									Esico von Bardowick</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntine sedis archiep. Germaniae archicanc.</hi></span>; 									<span n="clerk">das verlorene echte D. für Lübeck war 									eine Kanzleiausfertigung, an der nach dem in der vorliegenden, 									interpolierten Fassung sorgfältig nachgezeichneten Monogramm 									jedenfalls Gottfried I beteiligt war</span>; <span n="seal">SP. (gefälscht in Nachbildung des S.2, vgl. Anm. d)</span>. <span n="incipit"><hi rend="italic">Dignitatis nostre ratio</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignitatis nostre ratio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebliches Orig.: Archiv der Hansestadt 								Lübeck, Caesarea 2 (A). Faks.: Hasse, Kaiser Friedrich I. Freibrief 								für Lübeck, 17; Heinrich der Löwe und seine Zeit. Bd. 1 (Katalog der 								Ausstellung Braunschweig 1995) 429 *F 21. Drucke: UB. der Stadt 								Lübeck 1, 9 n<hi rend="sup">o</hi> 7; Hasse, a.a.O., 17; 								MG.DF.I.981. Regg.: Diestelkamp – Rotter, Urkundenregesten 1, 								398 n<hi rend="sup">o</hi> 505; Stumpf 4502.</p></div>
+				
+				
+					<div type="commentary"><p>Dass ein echtes D. für Lübeck existierte, ergibt sich nicht nur aus der diplomatischen Untersuchung, der Zeugenliste und der sich nahtlos in das kaiserliche Itinerar fügenden Datierung, sondern auch aus dem Bericht Arnolds von Lübeck. Diesem Bericht ist im Übrigen auch zu entnehmen, dass die Beilegung der Streitigkeiten zwischen den Bürgern und ihren gräflichen Widersachern von Zahlungen der Bürger begleitet waren (siehe dazu Reg. 3191). Im Übrigen werden sowohl ein kaiserliches wie auch ein herzogliches Privileg für die Stadt Lübeck in der Urkunde König Waldemars II. von Dänemark von (1203) genannt, UB. der Stadt Lübeck 1, 16 no 11 (dazu vgl. gleichfalls Heinrich der Löwe und seine Zeit. Bd. 1 [Katalog der Ausstellung Braunschweig 1995], 430 f. F 22). – Die vorliegende Fassung geht aller Wahrscheinlichkeit nach auf dieselbe Hand zurück wie die Fälschung auf den Namen König Waldemars II. von Dänemark von 1204 Dezember 7 (UB. der Stadt Lübeck 1, 16 no 12) sowie die Urkunde Graf Alberts von Orlamünde-Holstein für das Bistum Lübeck von 1222 (UB. des Bistums Lübeck 1, 45 no 40) und der Vertrag Bischof Bertholds mit der Stadt von 1225 (zwei Ausfertigungen: UB. der Stadt 								Lübeck 1, 36 no 30). Nach Heinrich der Löwe und seine Zeit. Bd. 1 (Katalog der Ausstellung Braunschweig 1995) 428 ff. *F 21 (mit irrigem Hinweis auf die Datierung 1188 September 12) handelt es sich dabei um die Hand des Lübecker Domherrn Marold. – Das an der überlieferten Fassung angebrachte Siegel ist kein Abdruck des üblichen Typars Friedrichs I., sondern eine ungeschickte Nachahmung desselben. – Was im verlorenen, echten D. tatsächlich enthalten war, ergibt sich wohl aus dem Bericht Arnolds von Lübeck (Reg. 3191), aber auch aus der Verleihung lübischen Rechts an die Stadt Gadebusch durch Fürst Heinrich Borwin I. von Mecklenburg aus dem Jahre 1225 (Meklenburg. UB. 1, 302 no 315), da man wohl annehmen kann, dass – trotz der beachtenswerten Bedenken, die Bärmann, Städtegründungen Heinrichs des Löwen, 162, gegen die Authentizität dieses Stückes erhoben hat – alles, was sowohl in der Urkunde für Gadebusch wie 								auch in der vorliegenden, verunechteten Fassung des D. enthalten 								ist, auf die Originalfassung zurückgeht, vgl. dazu Unger, 								Barbarossaprivileg für Lübeck, Wiss. Zs. d. Karl-Marx-Universität 								Leipzig. Gesellschafts- und Sprachwiss. Reihe 1/3 (1953/54) 439 ff. 								Die äußerst schwierige Kennzeichnung der im Einzelnen verfälschten 								Passagen wurde in der DD.-Ausgabe nach dem Vorbild der Beweisführung 								durch Bloch, Freibrief Friedrichs I. für Lübeck, Zs. f. lübeck. 								Geschichte und Altertumskunde 16 (1916) 3 ff., vorgenommen. – Zur 								diplomatischen wie zur inhaltlichen Kritik der Urkunde vgl. neben 								der Vorbemerkung zum D. auch Heinrich der Löwe und seine Zeit. Bd. 1 								(Katalog der Ausstellung Braunschweig 1995) 428 ff. *F 21 mit der 								dort angeführten Literatur, dabei vor allem Walther, Barbarossas 								Urkunde für Lübeck, Zs. des Vereins f. Lübeck. Geschichte und 								Altertumskunde 69 (1989) 11 ff. – Nach Plassmann, Struktur des 								Hofes, 286, stammte der unter den Zeugen genannte Giselbert von 								Warendorf wohl nicht aus Lübeck. – Das Diplom ist auf auch einem 								historisierenden Wandbild, nämlich einem von Max Koch 1892 								ausgeführten Fresko im Treppenhaus des Lübecker Rathauses 								abgebildet, vgl. dazu Ulferts, Szenen aus dem Leben Heinrichs des 								Löwen, in: Heinrich der Löwe und seine Zeit. Bd. 3 (Katalog der 								Ausstellung Braunschweig 1995) 68 Abb. 51 (freundlicher Hinweis von 								Herrn Kollegen Christoph Friedrich Weber, der in seinem Vortrag 								„Urkunden auf Bildquellen des Mittelalters“ auf der Studientagung 								„Urkunden und ihre Erforschung“, die am 25. Juni 2010 zum 100. 								Geburtstag von Heinrich Appelt an der Universität Wien abgehalten 								wurde, darauf aufmerksam machte). – Zum Ausstellungsort Leisnig vgl. 								Kobuch, Leisnig, Neues Archiv für sächsische Geschichte 64 (1993) 29 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_981" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

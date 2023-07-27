@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 504</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-23_1_0_4_2_1_506_504"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-23_1_0_4_2_1_506_504"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-23_1_0_4_2_1_506_504</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240112" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 504</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-23" to="1157-11-23">1157 November 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIIII kal. decemb., Bisuntii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gaufred</hi>  <hi rend="spaced">Avignon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung eines Privilegs Hadrians IV. von 1155 April 24 (Wiederhold, Papsturkunden in Frankreich 4, 106 n<hi rend="sup">o</hi>  28 ; VU. I), eines Diploms Ludwigs des Blinden von 907 Oktober 19 (Poupardin, Actes des rois de Provence 89 n<hi rend="sup">o</hi>  49 ;</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Humbert von Besançon, Bischof Odo von Valence (<hi rend="italic">Valentinus</hi>), Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg und Stephan (von Mâcon), Walcher von Salins und (Graf) Odo von der Champagne (<hi rend="italic">Campaniensis</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den an den Hof gekommenen Bischof <span sameAs="recipient"><hi rend="spaced">Gaufred</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Avignon</hi> </span>  (<hi rend="italic">Gaufredum ... Auennicę civitatis episcopum</hi>) nach der Leistung von Treu- und Lehenseid (<hi rend="italic">accepta ab eo debita fidelitate et hominio</hi>) mit den Regalien, bestätigt ihm die genannten Besitzungen seiner Kirche und untersagt jedwede Veräußerung von verlehntem Kirchengut (<hi rend="italic">interdicimus, ... aliquid vendere vel alienare vel in alienum dominum transfundere seu etiam relinquere vel in feudum constituere</hi>) ohne Zustimmung des Bischofs und seiner Nachfolger. <span n="witnesses">Z.: Erzbischof Humbert von Besançon, Bischof Odo von Valence (<hi rend="italic">Valentinus</hi>), Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg und Stephan (von Mâcon), Walcher von Salins und (Graf) Odo von der Champagne (<hi rend="italic">Campaniensis</hi>)</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung eines Privilegs Hadrians IV. von 1155 April 24 (Wiederhold, Papsturkunden in Frankreich 4, 106 n<hi rend="sup">o</hi>  28 ; VU. I), eines Diploms Ludwigs des Blinden von 907 Oktober 19 (Poupardin, Actes des rois de Provence 89 n<hi rend="sup">o</hi>  49 ; VU. II) und des DH. III. 3 (VU. III) nach Kanzleidiktat von RD. geschrieben</span>; <span n="seal"> B. D.</span> <span n="incipit"><hi rend="italic">Quandocumque nostrę imperialis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quandocumque nostrę imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Avignon (A). Drucke: Gallia Christ. ed. II. 1, Instr. 142 n<hi rend="sup">o</hi>  16; MG. DF. I. 195. Reg.: Chevalier, Reg. Dauphinois 1, 675 n<hi rend="sup">o</hi>  4035; Stumpf 3789.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Eudes de Champagne, Sire de Champlitte vgl. Mariotte, Bourgogne (Cahiers d'études comtoises 4, 1963) 167 f. und a. a. O. tableau généalogique. Das Veräußerungsverbot von Lehen der Kirche ohne Genehmigung des Bischofs entspricht der in DF. I. 187 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-10-00_3_0_4_2_1_495_493.html" type="internal" n="regesten">493</ref>) zugunsten des Erzbischofs Silvius von Arles getroffenen grundsätzlichen Entscheidung. Friedrich II. bestätigt 1238 dieses Privileg; vgl. B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  2390.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0170" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_195" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

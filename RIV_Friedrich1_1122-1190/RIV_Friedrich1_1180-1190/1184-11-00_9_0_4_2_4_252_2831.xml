@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2831</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-00_9_0_4_2_4_252_2831"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-00_9_0_4_2_4_252_2831"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-00_9_0_4_2_4_252_2831</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2831</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-01" to="1184-11-30">(wohl
+									1184 November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Verona, Vicenza oder Treviso)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>In Gegenwart Patriarch Gottfrieds von Aquileia, 								Erzbischof Konrads von Mainz, Bischof Bonifaz’ von Novara, Elekt 								Konrads von Lübeck, Protonotar Rudolfs, Landgraf Ludwigs von 								Thüringen, Markgraf Bertholds von Andechs (Istrien), Graf Diepolds 								(von Lechsgemünd), Wezels von Camino, Marschall Heinrichs von 								(Kaisers-)Lautern und Kämmerer Rudolfs findet die Rechtshandlung von 								DF.I.923 (Reg. 2937) für die <hi rend="spaced">Johanniter</hi> 								statt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rechtshandlung des D. 923 (Reg. 2937), das am 								28. November 1185 in Pavia ausgestellt wurde.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Vorbemerkung zu D.923, wobei 								allerdings zu ergänzen ist, dass die Rechtshandlung nach der Nennung 								des Bischofs Bonifaz von Novara, der in Verona nicht, sehr wohl aber 								in Vicenza (Reg. 2826) und Treviso (Reg. 2829) am kaiserlichen Hof 								bezeugt ist, auch in Vicenza oder Treviso erfolgt sein könnte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

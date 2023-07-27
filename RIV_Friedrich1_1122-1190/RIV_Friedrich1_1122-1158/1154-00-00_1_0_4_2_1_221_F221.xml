@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †221</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-00-00_1_0_4_2_1_221_F221"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-00-00_1_0_4_2_1_221_F221"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-00-00_1_0_4_2_1_221_F221</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1366726537" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †221</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-01-01" to="1154-12-31">1154</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Konstanz  (Constantie)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>S. Herzog Welfs VI.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kreuzlingen</hi>  <hi rend="spaced">Bürgern</hi>  <hi rend="spaced">Konstanz</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">die Bischöfe Konrad von Worms und Wido von Ivrea (<hi rend="italic">Ypoliensis</hi>), Abt Werner von St. Gallen, Herzog Welf von Spoleto, Pfalzgraf Friedrich von Tübingen und sein Bruder Graf Hugo und die Grafen Rudolf (von Pfullendorf), Werner (von Baden), Hartmann (von Dillingen-Kiburg), Eberhard (von Nellenburg) und Markward (von Veringen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt einen Streit zwischen dem Stift St. Ulrich zu <span sameAs="recipient"><hi rend="spaced">Kreuzlingen</hi> </span>  (<hi rend="italic">Cr잒celin</hi>) und den <span sameAs="recipient"><hi rend="spaced">Bürgern</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Konstanz</hi> </span>  um die öffentliche Straße auf Stiftsgrund und die Nutzung der Stiftsweide durch die Gemeinde gemäß einem von Bischof Hermann von Konstanz gefällten Fürstenspruch bei, wobei sich die Chorherrn zur Lieferung der Hostien zu den wöchentlichen Totenmessen verpflichten. Etwas später unterstützt das Stift die Stadt bei der Sanierung der einsturzgefährdeten Stadtmauern unter der Bedingung, daß es künftig in seinem Besitz nicht mehr gestört werde. <span n="witnesses">Z.: die Bischöfe Konrad von Worms und Wido von Ivrea (<hi rend="italic">Ypoliensis</hi>), Abt Werner von St. Gallen, Herzog Welf von Spoleto, Pfalzgraf Friedrich von Tübingen und sein Bruder Graf Hugo und die Grafen Rudolf (von Pfullendorf), Werner (von Baden), Hartmann (von Dillingen-Kiburg), Eberhard (von Nellenburg) und Markward (von Veringen)</span>. - <span n="seal">S. Herzog Welfs VI.</span> <span n="incipit"><hi rend="italic">Quoniam longinquitate sepe</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam longinquitate sepe</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung</hi>; <hi rend="spaced">Angebliches Original</hi> : Staatsarchiv Frauenfeld (A). Drucke: Böhmer, Acta imp. 89 n<hi rend="sup">o</hi>  96; Meyer-Schaltegger, Thurgauisches UB. 2, 127 n<hi rend="sup">o</hi>  38; Marthaler, Kreuzlingen, Thurgauische Beiträge z. vaterländ. Gesch. 77 (1941) 31 n<hi rend="sup">o</hi>  2 mit Faks. nach 16. Faks.: Scriptoria medii aevi Helvetica 10, Tafel VIc. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2006; Feldmann, Welf VI. Reg. 68; Stumpf 3690.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Irrtümlich fehlt hier der Verweis auf die Edition in der Diplomata-Ausgabe: MG.DF.I.1037.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser Fälschung aus der zweiten Hälfte des 12. Jh. vgl. Marthaler, a. a. O. 10 ff. und zu ihrer Schrift Zinsmaier, Kreuzlingen, ZGORh 93 = N. F. 54 (1941) 586 f. Obwohl der Ausstellungsort ins Itinerar paßt (vgl. Opll, Itinerar 12 mit Anm. 31), ist die Existenz eines echten D. nicht anzunehmen. Die Zeugen stammen aus DF. I. 78 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-05-17_1_0_4_2_1_220_220.html" type="internal" n="regesten">220</ref>), die Urkunde Bischof Hermanns von Konstanz von 1152 Juni 17, die auch einen Streit zugunsten von Kreuzlingen entschied (Meyer-Schaltegger, a. a. O. 115 n<hi rend="sup">o</hi>  34), wurde nicht als Vorlage verwendet.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0079" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2212000%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

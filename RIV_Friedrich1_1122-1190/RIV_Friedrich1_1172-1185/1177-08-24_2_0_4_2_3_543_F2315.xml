@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †2315</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-24_2_0_4_2_3_543_F2315"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-24_2_0_4_2_3_543_F2315"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-24_2_0_4_2_3_543_F2315</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426603154" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †2315</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-24" to="1177-08-24">1177 August 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(non. kal. septembris, apud Venecias)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Phylipus Coloniensis archiep. imperialis aulae canc. et totius Ytaliae legatus</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Graf Florentius von Holland, die Brüder Rudolf und Hartmann, Kämmerer des Kaisers, Boto von Massing (<hi rend="italic">Maxing</hi>), Garzapan (von Verona) und sein Sohn Udalrich, Arald von <hi rend="italic">Monticello</hi>  (Montecchio Maggiore oder Montecchio Precalcino), Crena und Liutarellus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem <hi rend="spaced">Bischof Gerhard von Padua</hi>  und seinem Bistum die volle Gerichtsbarkeit über die Burg Pendice und all ihre Zugehörungen, insbesondere die zum dortigen Hof gehörenden Ortschaften <hi rend="italic">Villa</hi>  (wohl: Villa Albarella), <hi rend="italic">Titulum</hi>  und Luvigliano (<hi rend="italic">Luuianum sive Lupillanum</hi>). <span n="witnesses">Z.: Graf Florentius von Holland, die Brüder Rudolf und Hartmann, Kämmerer des Kaisers, Boto von Massing (<hi rend="italic">Maxing</hi>), Garzapan (von Verona) und sein Sohn Udalrich, Arald von <hi rend="italic">Monticello</hi>  (Montecchio Maggiore oder Montecchio Precalcino), Crena und Liutarellus</span>. — <span n="chancellor"><hi rend="italic">Phylipus Coloniensis archiep. imperialis aulae canc. et totius Ytaliae legatus</hi> </span>; Fälschung, die vor 1239 auf der Grundlage einer Vorlage, deren Echtheit durch die Zeugenliste und mehrere Anklänge in der Arenga an Diplome des Jahres 1177 erwiesen ist, entstanden ist; sie gehört gemeinsam mit den DD. 1060, 1068 und 1071 (= Regg. 11447, †2314 und †2374) ein- und derselben Fälschungsgruppe an. <span n="incipit"><hi rend="italic">Decet imperialem clemenciam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet imperialem clemenciam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Beglaubigung von 1239 im Archivio Dondi Orologio, Pergamene diverse tomo 450 n<hi rend="sup">o</hi>  39, Stadtbibliothek (Museo civico) Padua, laut freundlicher Auskunft der Direktion derzeit nicht auffindbar (B); Abschrift des 18. Jh., Gennari, Appendice al Cod.dipl. del Brunacci tom. 2, Bibliothek des Seminars zu Padua (G); Abschrift des 18. Jh., Papafava, Stadtbibliothek Padua BP. 928 V p. 16 (P). Drucke: Gloria, Cod. Padovano 2, 356 n<hi rend="sup">o</hi>  1267; Lazzarini, Pendice, Nuovo Arch. Veneto. Nuova Serie Anno 17, Tom. 33 (1917) 375 n<hi rend="sup">o</hi>  1; MG.DF.I.1069, vgl. Nachträge und Berichtigungen, a.a.O., 777. Reg.: Stumpf 4217a.</p></div>
+				
+				
+					<div type="commentary"><p>Die Fälschung verfolgte den Zweck, den Anspruch des Bischofs auf die 1161 unter Zwang an den Kaiser gefallene Burg Pendice (vgl. D.343 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-10-07_1_0_4_2_2_435_993.html" type="internal" n="regesten">993</ref>) zu sichern, vgl. dazu Herkenrath, Reichskanzlei 1174 bis 1180, 127 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0196" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1069" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1289</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-12-06_1_0_4_2_2_731_1289"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-12-06_1_0_4_2_2_731_1289"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-12-06_1_0_4_2_2_731_1289</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245888" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1289</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-12-06" to="1163-12-06">1163 Dezember 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Monza">Monza</placeName>
+												<location><geo decls="#WGS">45.5833, 9.2667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus decembr., apud Modoyciam sedem regalem)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Zeno</hi>  <hi rend="spaced">Verona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Colloniensis (!) archiep. et Ytatie archicanz.</hi></notarius>
+				
+				
+					<scribe>geschrieben und wahrscheinlich auch verfaßt von RC</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Verden und Heinrich von Como, Abt Hermann von Hersfeld, Heinrich, Protonotar des Hofes, Graf Wido von Biandrate, Markgraf Wilhelm von Montferrat, Graf Gebhard von Leuchtenberg, Marschall Heinrich, Mundschenk Konrad, Arnold Barbavaria (Podestà von Piacenza)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Erzbischofs Rainald von Köln und des Bischofs Hermann von Verden das Kloster <span sameAs="recipient"><hi rend="spaced">S. Zeno</hi> </span>  außerhalb der Mauern der Stadt <span sameAs="recipient"><hi rend="spaced">Verona</hi> </span>  unter dem verdienstvollen Abt Gerard in seinen Schutz, bestätigt ihm die namentlich angeführten Besitzungen unter Vorbehalt der kaiserlichen Gerechtsame, trifft Bestimmungen über die Rechtsstellung der Hintersassen des Klosters, beschränkt die Rechte des Bischofs auf die schon von Karl (dem Großen) festgelegte jährliche Zahlung (<hi rend="kursiv">aut mancussos XX<hi rend="sup">ti</hi>  aut L<hi rend="sup">ta</hi>  solidos Veronensium</hi>) und bestimmt, daß Rückerwerbungen des Klosters nur eine hundertjährige Verjährungsfrist entgegenstehen soll. <span n="witnesses">Z.: die Bischöfe Hermann von Verden und Heinrich von Como, Abt Hermann von Hersfeld, Heinrich, Protonotar des Hofes, Graf Wido von Biandrate, Markgraf Wilhelm von Montferrat, Graf Gebhard von Leuchtenberg, Marschall Heinrich, Mundschenk Konrad, Arnold Barbavaria (Podestà von Piacenza)</span>. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Colloniensis (!) archiep. et Ytatie archicanz.</hi> </span>; <span n="clerk">geschrieben und wahrscheinlich auch verfaßt von RC</span>. <span n="incipit"><hi rend="italic">Habemus in exemplis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Habemus in exemplis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1320, Antichi Archivi Comunali, Orfanotrofio feminile n<hi rend="sup">o</hi>  26, Staatsarchiv Verona (B). Drucke: Gloria, CD. Padovano 2, 112 n<hi rend="sup">o</hi>  834; MG. DF. I. 422. Reg.: Cipolla, Kaiserurkunden, MIÖG 4 (1883) 218 n<hi rend="sup">o</hi>  101; Stumpf 4000.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Möglichkeit einer Beteiligung des CE am Diktat vgl. die Vorbemerkung zum D. - Die erwähnte Verfügung Karls des Großen (B.-Mühlbacher Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-10-21_1_0_4_2_2_39_597.html" type="internal" n="regesten">597</ref>) wurde nicht als VU. verwendet; die Besitzliste zeigt zahlreiche Anklänge an ältere Kaiserurkunden für S. Zeno, insbesondere an DH. II. 309.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0197" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_422" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

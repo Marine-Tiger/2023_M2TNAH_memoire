@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3000</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-00-00_3_0_4_2_4_424_3000"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-00-00_3_0_4_2_4_424_3000"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-00-00_3_0_4_2_4_424_3000</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3000</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-01-01" to="1186-12-31">(1159–1186, am ehesten 1167/68)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lässt den <hi rend="spaced">Konsuln</hi> 								und dem <hi rend="spaced">Volk von Asti</hi> in Anerkennung ihrer 								Treue gegenüber dem Reich für das laufende Jahr 100 Mark von dem zu 								entrichtenden Regalienzins nach und gewährt ihnen das Recht der 								Münzprägung. – <hi rend="italic">Noverit universitatis vestre</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Cod. Astensis 								f. 11, Stadtarchiv Asti (C). Drucke: Böhmer, Acta imp., 153 									n<hi rend="sup">o</hi> 164; Sella, Cod. Astensis 2, 97 n<hi rend="sup">o</hi> 26; MG.DF.I.1022. Reg.: Stumpf 4571.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich zum einen aus 								der Festlegung eines jährlichen Regalienzinses für Asti in der Höhe 								von 150 Mark im Jahre 1159 (DF.I.259 = Reg. 669), zum anderen aus 								dem letzten Italienzug des Kaisers. Denkbar wäre es, dass diese 								Reduktion des Regalienzinses kurz vor dem Abfall der Stadt vom Reich 								und dem Übertritt auf die Seite der Lega Lobarda, also etwa um 								1167–1168 gewährt wurde (so Haverkamp, Herrschaftsformen, 578 Anm. 								89, vgl. dazu auch oben Reg. 1765), doch ist auch eine spätere 								Einreihung nicht völlig auszuschließen. – Asti erhielt im Juni 1186 								ein weiteres Privileg (D.944 = Reg. 2999), weshalb wir uns für die 								hier vorgenommene Einreihung entschieden haben; vgl. zu all diesen 								Überlegungen die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

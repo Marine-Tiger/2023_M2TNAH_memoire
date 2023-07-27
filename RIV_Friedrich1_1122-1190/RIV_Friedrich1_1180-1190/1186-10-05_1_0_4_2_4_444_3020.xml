@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3020</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-10-05_1_0_4_2_4_444_3020"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-10-05_1_0_4_2_4_444_3020"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-10-05_1_0_4_2_4_444_3020</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426847614" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3020</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-10-05" to="1186-10-05">1185
+									(recte: 1186) Oktober 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Colmar (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> non. octob., Columbarie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes canc.</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfasst und wohl von 									einem Romanen geschrieben, wobei das D.48 (Reg. 160) für 									Peterlingen, dem St. Peter als Priorat unterstand, als äußeres 									Vorbild herangezogen wurde</scribe>
+				
+				
+					<testis function="witnesses">									die Grafen Ludwig von Pfirt (Ferrette) und Berthold von 									Neuenburg (<hi rend="italic">Nuwenburc</hi>), die Herren Kuno 									von Horburg (<hi rend="italic">Horenburc</hi>) und Egelolf von 									Irslingen (<hi rend="italic">Urselinge</hi>) sowie dessen Sohn 									Ulrich, Dietrich von Girsberg und seine Brüder, Karl von 									Egesheim, Algot von Türkheim (<hi rend="italic">Turencheim</hi>), die Ritter Rudolf, Nordwin, Immo und Burchard 									von Colmar sowie weitere Kleriker und Amtleute (<hi rend="italic">officiales</hi>) des Hofes des Priorates St. 									Peter zu Colmar</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entscheidet auf Bitten Alberts von 								Dagsburg (<hi rend="italic">Tagesburc</hi>), Vogt des Hofes des 								Priorates (des Klosters Peterlingen) St. Peter zu Colmar, und der 								dortigen Brüder einen Rechtsstreit zwischen diesem Priorat (<hi rend="italic">ecclesiam sancti Petri superioris curię 									Columbariensis</hi>) und Ritter Ulrich von Erstein (<hi rend="italic">Heristeim</hi>) um Eigenleute, nämlich Gertrud und 								ihre Töchter. Ulrich von Erstein hat darauf gedrängt, den 								Zeugenbeweis zu führen, und hat den völlig unvermutet damit 								konfrontierten Hof um eine Entscheidung gebeten, worauf Friedrich 								persönlich unter Zustimmung des Hofes (<hi rend="italic">ore 									imperiali universa curia assentiente iudicatum est</hi>) ein 								Urteil zu Gunsten des Priorates fällt. Damit ist auch das früher 								seitens Heinrichs und Ulrichs, des Vaters und Oheims des genannten 								Ulrich, angestrengte Verfahren hinfällig. <span n="witnesses">Z.: 									die Grafen Ludwig von Pfirt (Ferrette) und Berthold von 									Neuenburg (<hi rend="italic">Nuwenburc</hi>), die Herren Kuno 									von Horburg (<hi rend="italic">Horenburc</hi>) und Egelolf von 									Irslingen (<hi rend="italic">Urselinge</hi>) sowie dessen Sohn 									Ulrich, Dietrich von Girsberg und seine Brüder, Karl von 									Egesheim, Algot von Türkheim (<hi rend="italic">Turencheim</hi>), die Ritter Rudolf, Nordwin, Immo und Burchard 									von Colmar sowie weitere Kleriker und Amtleute (<hi rend="italic">officiales</hi>) des Hofes des Priorates St. 									Peter zu Colmar</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes canc.</hi></span>; <span n="clerk">außerhalb der Kanzlei verfasst und wohl von 									einem Romanen geschrieben, wobei das D.48 (Reg. 160) für 									Peterlingen, dem St. Peter als Priorat unterstand, als äußeres 									Vorbild herangezogen wurde</span>; <span n="seal">SI.2.</span> 								<span n="incipit"><hi rend="italic">Imperialis maiestatis 										interest.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis maiestatis 										interest.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Colmar 								(A). Teilfaks.: Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 								17. Drucke: Albrecht, Rappoltstein. UB. 1, 56 n<hi rend="sup">o</hi> 43; Finsterwalder, Oberrhein. Stadtrechte 3. Abt. III 1, 								18 n<hi rend="sup">o</hi> 17; MG.DF.I.952. Regg.: Diestelkamp 								– Rotter, Urkundenregesten 1, 384 n<hi rend="sup">o</hi> 489; 								Stumpf 4468 zu 1186.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Bewertung des entgegen der 								Auffassung von Stumpf zweifellos echten Stückes, bei dem vor allem 								die Verwendung des für diese Zeit bereits unüblichen <hi rend="italic">sigillum impressum</hi> und die Nennung Heinrichs 								VI. am Ende der Datierung, die keine Herrscherjahre angibt, 								auffallen und das angeführte Inkarnationsjahr 1185 nach dem Itinerar 								sicher zu 1186 zu emendieren ist, vgl. die Vorbemerkung zum D. mit 								Hinweisen auf weiterführende Literatur. – Zu dem unter den Zeugen 								genannten Grafen Berthold von Neuenburg (Kr. 								Breisgau-Hochschwarzwald), der bereits in Reg. 188 bei Hofe bezeugt 								ist, vgl. in Korrektur zu älteren Identifizierungen (etwa 								Diestelkamp – Rotter, Urkundenregesten 1, Register sub voce 								„Nimburg“) Plassmann, Struktur des Hofes, 280; dieser Graf 								begleitete den Kaiser wenige Jahre später auf den Kreuzzug, siehe 								dazu unten Regg. 3245, 3274 und 3385; zur Identifizierung von <hi rend="italic">Turencheim</hi> mit Türkheim (Dép. Haut-Rhin) vgl. 								Plassmann, a.a.O., 279.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_952" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 179</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-11_1_0_4_2_1_179_179"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-11_1_0_4_2_1_179_179"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-11_1_0_4_2_1_179_179</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236874" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 179</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-11" to="1153-06-11">1153 Juni 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  idus iunii, Wormatie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cluny</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von A II. D, vgl. die Nachzeichnung des Monogramms in B</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Gunther von Speyer, Konrad von Worms, Anselm von Havelberg, Konrad von Augsburg, Abt Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Heinrich von Bayern, Berthold von Kärnten, Graf Theoderich von Holland, Pfalzgraf Hermann (bei Rhein), Graf Hugo von Dagsburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">Cluny</hi> </span>  auf Bitten des Abtes Peter die durch Papst Eugen III., Erzbischof Humbert von Besançon und Graf Wilhelm von Burgund vollzogene Schenkung der Abtei Baume-les-Messieurs (<hi rend="italic">Balmensis cenobii</hi>) mit Ausnahme der königlichen Rechte (<hi rend="italic">salvo tamen iure, quo regno eadem Balmensis ęcclesia subiecta esse cognoscitur</hi>), bestimmt, daß die Vasallen der Abtei nunmehr dem Abt von Cluny die Mannschaft leisten sollen und verbrieft die freie Vogtwahl durch den Abt von Cluny, den königlichen Schutz sowie die teilweise einzeln angeführten Besitzungen von Baume-les-Messieurs. <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Gunther von Speyer, Konrad von Worms, Anselm von Havelberg, Konrad von Augsburg, Abt Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Heinrich von Bayern, Berthold von Kärnten, Graf Theoderich von Holland, Pfalzgraf Hermann (bei Rhein), Graf Hugo von Dagsburg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von A II. D, vgl. die Nachzeichnung des Monogramms in B</span>. <span n="incipit"><hi rend="italic">Si religiosorum vota</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si religiosorum vota</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Einzelabschrift aus dem 12. Jh. in Band 80 der Collection de Bourgogne n<hi rend="sup">o</hi>  249, Nationalbibliothek Paris (B); Chartular aus dem letzten Viertel des 13. Jh., jetzt verschollen (D), überliefert in zwei Kopien des 18. Jh., Ms. lat 5459 p. 69 (D<hi rend="sup">1</hi>) und Ms. lat. 17.087 p. 237 (D<hi rend="sup">2</hi>) ebenda; Chartular des Guido Fureti von Cluny aus dem Ende des 13. Jh., Ms. lat. 5458 f. 161 ebenda (E). Drucke: Bernard-Bruel, Chartes de Cluny 5, 521 n<hi rend="sup">o</hi>  4167; MG. DF. I. 58. Reg.: Stumpf 3671.</p></div>
+				
+				
+					<div type="commentary"><p>Die Übergabe des Klosters an Cluny (vgl. Bernard-Bruel, Chartes de Cluny 5, 465 n<hi rend="sup">o</hi>  4122, 466 n<hi rend="sup">o</hi>  4125, 468 n<hi rend="sup">o</hi>  4126, 486 n<hi rend="sup">o</hi>  4141) wurde 1157 durch DF. I. 193, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-18_2_0_4_2_1_503_501.html" type="internal" n="regesten">501</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-10-06_1_0_4_2_2_604_F1162.html" type="internal" n="regesten">1162</ref>  durch Gegenpapst Viktor IV., JL. 14474 (Bernard-Bruel, Chartes de Cluny 5, 554 n<hi rend="sup">o</hi>  4210) widerrufen. Zu den übrigen Nachurkunden vgl. Baaken, Ungedruckte Urkunden Heinrichs VI., DA 31 (1975) 455 ff. Der als Zenge angeführte Herzog Berthold von Kärnten kann nur Berthold von Zähringen sein, der damals in Worms bei Hofe anwesend war, vgl. DF. I. 60 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-06-14_2_0_4_2_1_181_181.html" type="internal" n="regesten">181</ref>) und die Vorbemerkung zu DF. I. 58. Dorsualvermerk (s. XIV) von B: <hi rend="italic">Originale est in Lurduno</hi>. - Zu den Prioraten von Baume-les-Messieurs vgl. sub voce Besançon: Prieurés, Dict. d'Hist. et de Géogr. eccl. 8, 1157 ff. Die Wertschätzung Friedrichs für den Abt von Cluny findet in dem Schreiben des Bischofs Anselm von Havelberg ed. Bernard-Bruel, Chartes de Cluny 5, 526 n<hi rend="sup">o</hi>  4176 (vgl. Peter the Venerable, ed. Constable, Harvard Hist. Studies 78/2, 1967, 267) ihren Niederschlag. Daraus wissen wir auch, daß Abt Peter in Worms anwesend war.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Die Überlieferung D ist doch erhalten: Nationalbibliothek Paris, Nouv. acquis. lat. 766 f. 38.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0065" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_58" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

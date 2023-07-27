@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 510</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-12-25_1_0_4_2_1_512_510"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-12-25_1_0_4_2_1_512_510"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-12-25_1_0_4_2_1_512_510</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 510</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-12-25" to="1157-12-25">1157 Dezember 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Magdeburg">Magdeburg</placeName>
+												<location><geo decls="#WGS">52.1333, 11.6167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>, auf dem sich die Polen entgegen seinen Befehlen (s. Reg. 482) nicht einfinden. Nach Beendigung der Festlichkeiten, bei denen er die Krone getragen hat (Can. Prag. Cont. Cosmae II: <hi rend="italic">portatis regalibus</hi>), fordert er die Fürsten erneut zum Kampf gegen die Mailänder auf, was diese und namentlich Herzog Vladislav von Böhmen einstimmig versprechen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. III cap. 13, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 181, Can. Prag. Cont. Cosmae II, MG. SS IX, 164 (zu 1159); vgl. auch Ann. Magdeburg., MG. SS XVI, 191 und Ann. Palid., MG. SS XVI, 90.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Simonsfeld, Jahrbücher 596; die Worte <hi rend="italic">portatis regalibus</hi>  weisen wohl auf eine Festkrönung des Kaisers hin, wie sie uns ja mehrfach für das Weihnachtsfest überliefert ist, vgl. Klewitz, Festkrönungen (Libelli 133, 1966) 15 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0173" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

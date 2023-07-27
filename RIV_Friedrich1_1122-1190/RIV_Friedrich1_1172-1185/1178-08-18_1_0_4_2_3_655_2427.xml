@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2427</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-18_1_0_4_2_3_655_2427"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-18_1_0_4_2_3_655_2427"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-08-18_1_0_4_2_3_655_2427</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605092" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2427</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-08-18" to="1178-08-18">1178 August 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Wien">Vienne</placeName>
+												<location><geo decls="#WGS">48.2167, 16.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XV<hi rend="sup">o</hi>  kal. septemb., apud Viennam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2. laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rotbertus Viennensis archiep. regni Burgundiae archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und mundiert von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Bischof Hugo von Verden, Propst Eckhard von Goslar, Rudolf, Notar der kaiserlichen Pfalz, Propst Wibert, Kapellan (des Kaisers) Nikolaus, Bischof Odo von Valence, der <hi rend="italic">hospitalarius</hi>  (Johanniter?) Wilhelm, Bruder Theoderich (von Silve-Bénite), Burggraf Burchard von Magdeburg, Rupert von Walldürn, die Kämmerer Rudolf (<hi rend="italic">Radulfus</hi>) und Hartmann (<hi rend="italic">Artimanus</hi>) (von Siebeneich)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Karl dem Großen zu Lebzeiten Bischof Waldos von Valence gestiftete <hi rend="spaced">Kirchlein Saint-Apollinaire in Laus im Gebiet von Riez</hi>  (<hi rend="italic">ecclesiolam sancti Apollinaris in Regensium partibus sitam in loco, qui dicitur Lacunus</hi>), wo der Heilige (Karl der Große) einst mit dem heiligen Bischof Maximus von Riez zusammenzutreffen pflegte, in seinen Schutz und bestätigt ihm die Gründungsausstattung innerhalb der genau angeführten Grenzen. <span n="witnesses">Z.: Bischof Hugo von Verden, Propst Eckhard von Goslar, Rudolf, Notar der kaiserlichen Pfalz, Propst Wibert, Kapellan (des Kaisers) Nikolaus, Bischof Odo von Valence, der <hi rend="italic">hospitalarius</hi>  (Johanniter?) Wilhelm, Bruder Theoderich (von Silve-Bénite), Burggraf Burchard von Magdeburg, Rupert von Walldürn, die Kämmerer Rudolf (<hi rend="italic">Radulfus</hi>) und Hartmann (<hi rend="italic">Artimanus</hi>) (von Siebeneich)</span>. — <span n="chancellor"><hi rend="italic">Rotbertus Viennensis archiep. regni Burgundiae archicanc.</hi> </span>; <span n="clerk">verfaßt und mundiert von Burkhard</span>; <span n="seal">SP.2. laut D.</span>  <span n="incipit"><hi rend="italic">In examine superni</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In examine superni</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Ms. 514 f. 122, Bibliothèque Inguimbertine zu Carpentras (D). Drucke: Stumpf, Acta ined. 533 n<hi rend="sup">o</hi>  378; MG.DF.I.754. Regg.: Chevalier, Reg.dauphinois 1, 782 n<hi rend="sup">o</hi>  4696; Stumpf 4263.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Schriftbestimmung und zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. — Die Erweiterung der Rekognitionsformel auf die Worte <hi rend="italic">interfui et recognovi</hi>  findet sich auch in den DD.752 und 755 (= Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-14_2_0_4_2_3_652_2424.html" type="internal" n="regesten">2424</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-19_1_0_4_2_3_656_2428.html" type="internal" n="regesten">2428</ref>). — Von besonderem Interesse ist der Umstand, daß sich im Rahmen der Grenzbeschreibung der Besitzungen des Kirchleins neben dem Hinweis auf ein bestimmtes Grenzzeichen (<hi rend="italic">ad viam publicam, iuxta quam duo lapides in hunc modum fixi tria territoria dividunt</hi>) in der Handschrift eine Nachzeichnung dieser Grenzmarkierung findet.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0231" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_754" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

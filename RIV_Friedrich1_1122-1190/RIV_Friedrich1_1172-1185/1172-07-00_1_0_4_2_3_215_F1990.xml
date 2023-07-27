@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †1990</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-07-00_1_0_4_2_3_215_F1990"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-07-00_1_0_4_2_3_215_F1990"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-07-00_1_0_4_2_3_215_F1990</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597729" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †1990</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-07-01" to="1172-07-31">1172  Juli</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Altenburg)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Siegel Friedrichs II.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter Verwendung der Urkunden Graf Dedos von Groitzsch von 1174 und Bischof Gerungs von Meißen von 1168 November 13 über die Gründung des Augustiner-Chorherrenstiftes Zschillen (Posse, CD.Sax. regiae I/2, 280 n<hi rend="sup">o</hi>  404, Vorlage I und Posse, a.a.O</scribe>
+				
+				
+					<testis function="witnesses">Bischof Udo von Naumburg (<hi rend="italic">sancte Nuwenburgensis ecclesie venerabilis antistes</hi>), Markgraf Otto von Meißen, Graf Dedo von Groitzsch, Burggraf Burkhard von Magdeburg, Graf Otto von (Ober-) Kirchberg, Otto und Hartmann von Lobdeburg, die Burggrafen Heinrich von Leisnig und Heinrich von Altenburg, Erkenbert von Tegkwitz, Timo von Colditz, Heinrich von Rasephas (<hi rend="italic">Rosewaz</hi>), Albert von Greifenhain, Gerhard von Nobitz (<hi rend="italic">Nubediz</hi>), Sigeboto und Friedrich von Groitzsch sowie Siegfried von Ehrenhain (<hi rend="italic">Hagen</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt die von ihm unter Mitwirkung des Richters des Pleißenlandes, Hugo von Warthe, und des Marschalls Rudolf von Altenburg durchgeführte Errichtung des <hi rend="spaced">Augustiner-Chorherrenstiftes auf dem Berge</hi>  bei der Reichsstadt Altenburg, das er durch Bischof Udo von Naumburg hat weihen lassen und wo er den aus diesem Stift stammenden Hermann als Propst eingesetzt hat, gewählt dem Stift die freie Propstwahl, überträgt ihm vier benachbarte Hufen, das aus sieben Hufen bestehende Allod Krebitzschen (<hi rend="italic">Crebeschowe</hi>) und alle künftigen Erwerbungen, behält sich die Vogtei vor und gibt ihm auf all seinen Besitzungen die Gerichtshoheit über Leben und Tod, unbehelligt von den lokalen Amtsträgern des Pleißenlandes (<hi rend="italic">iudex, scultetus, forestarius, bedellus vel quisquam officialium terre Plisnensis</hi>). <span n="witnesses">Z.: Bischof Udo von Naumburg (<hi rend="italic">sancte Nuwenburgensis ecclesie venerabilis antistes</hi>), Markgraf Otto von Meißen, Graf Dedo von Groitzsch, Burggraf Burkhard von Magdeburg, Graf Otto von (Ober-) Kirchberg, Otto und Hartmann von Lobdeburg, die Burggrafen Heinrich von Leisnig und Heinrich von Altenburg, Erkenbert von Tegkwitz, Timo von Colditz, Heinrich von Rasephas (<hi rend="italic">Rosewaz</hi>), Albert von Greifenhain, Gerhard von Nobitz (<hi rend="italic">Nubediz</hi>), Sigeboto und Friedrich von Groitzsch sowie Siegfried von Ehrenhain (<hi rend="italic">Hagen</hi>)</span>. — <span n="clerk">Unter Verwendung der Urkunden Graf Dedos von Groitzsch von 1174 und Bischof Gerungs von Meißen von 1168 November 13 über die Gründung des Augustiner-Chorherrenstiftes Zschillen (Posse, CD.Sax. regiae I/2, 280 n<hi rend="sup">o</hi>  404, Vorlage I und Posse, a.a.O., 245 n<hi rend="sup">o</hi>  355, Vorlage II), die dem Fälscher als Inserte in einem Transsumpt von 1279 (Patze, Altenburger UB. n<hi rend="sup">o</hi>  251) bekannt waren, und in weitestgehender Übereinstimmung mit der Parallelfälschung auf den Namen Bischof Udos von Naumburg (bei Rosenfeld, UB. Hochstift Naumburg I, 276 n<hi rend="sup">o</hi>  287 noch als echt bezeichnet, vgl. aber Patze, a.a.O., n<hi rend="sup">o</hi>  18) von derselben Hand wie die Fälschung von angeblich 1297 Juni 8 auf den Namen des Burggrafen Dietrich (II.) von Altenburg (Patze, a.a.O., n<hi rend="sup">o</hi>  408) hergestellte Fälschung</span>;<span n="seal"> Siegel Friedrichs II.</span> <span n="incipit"><hi rend="italic">Cum apostolum dixisse</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum apostolum dixisse</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem verlorenen angeblichen Original (A), um 1700, Stadtarchiv Altenburg C II 51 f. 2 (G); Abschriften aus dem ebenfalls verlorenen gefälschten Transsumpt des Burggrafen Albrecht (III.) von Altenburg von angeblich 1279 (Patze, Altenburger UB. 195 n<hi rend="sup">o</hi>  252): Kopialbuch F 6 f. 26 von 1490 — 1492, Staatsarchiv Weimar (B<hi rend="sup">1</hi>); Staatsarchiv Weimar, Außenstelle Altenburg, Schönbergische Sammlung 93 f. 182', vor 1682 (B<hi rend="sup">2</hi>); Abschrift von Chr.Schlegel, 1699/1700, Landesbibliothek Gotha, Cod. Gothanus chart. A 374 f. 121 (B<hi rend="sup">3</hi>). Drucke: Estor, Kleine Schriften 3, 10.Stück. (Gießen 1737) 367 mit Wiedergabe des Eingangsprotokolls und des Siegels in Kupferstich vor S. 3; Rosenfeld, UB. Hochstift Naumburg I, 273 n<hi rend="sup">o</hi>  286; Patze, Altenburger UB. 13 n<hi rend="sup">o</hi>  17; MG.DF.I.1065. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi> 450; Stumpf 4139.</p></div>
+				
+				
+					<div type="commentary"><p>Die mindestens ein Jahrhundert jüngere Schrift wie auch die Bezeichnung des Herrschers als <hi rend="italic">rex Sicilie</hi>  in der Intitulatio lassen den Charakter der Fälschung (Zweck war die Sicherung der Blutgerichtsbarkeit) sofort deutlich werden, doch finden sich auch keinerlei Diktatanklänge an das zeitgenössische Formular. Allerdings sprechen allgemeinhistorische Indizien wie auch das Auftreten der doch zum Teil in die Zeit passenden Zeugen (vgl. dazu DF.I.594 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-07-21_1_0_4_2_3_214_1989.html" type="internal" n="regesten">1989</ref>) für ein verlorenes echtes DF.I., über dessen Inhalt sich freilich nichts sagen läßt, vgl. dazu ausführlich die Vorbemerkung zum D. sowie insbesondere die Untersuchungen von Patze, Altenburger UB. 92* ff. — Friedrich wird im übrigen in der in Altenburg ausgestellten Urkunde Bischof Udos von Naumburg von (1172 Juli) über die Einweihung des in diesem Spurium privilegierten Stiftes — dieser Akt findet ja auch im Spurium selbst Erwähnung — als Zeuge genannt, vgl. dazu Stumpf 4138.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0082" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1065" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

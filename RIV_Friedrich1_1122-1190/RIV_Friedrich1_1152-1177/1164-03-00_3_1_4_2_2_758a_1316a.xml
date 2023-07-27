@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1316a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-03-00_3_1_4_2_2_758a_1316a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-03-00_3_1_4_2_2_758a_1316a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-03-00_3_1_4_2_2_758a_1316a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358501925" value="2013-01-18"></date>
+				<date type="lastmod" n="1358501925" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1316a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-04-01" to="1164-12-31">(nach 1164 März)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Rudolf von Imola wird aus Gründen des päpstlichen Schismas (<hi rend="italic">propter erisiam</hi>) vom Kaiser aus seiner Bischofsstadt vertrieben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einem Zeugenverhör von 1197, ed. Gaddoni – Zaccherini, Chart. Imolense 2, 568 n<hi rend="sup">o</hi> 452: <hi rend="italic">quod illo tempore [episcopus] erat expulsus de civitate ab imperatore propter erisiam</hi>.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der letzten Nennung Bischof Rudolfs von Imola am kaiserlichen Hof in Reg. 1316; vgl. dazu Goez, Geschichte des Alexander-Schismas, in: Von Sacerdotium und Regnum. FS. Boshof zum 65. Geburtstag (2002) 521 mit Anm. 10 und 12 (dort auch die Korrektur einer vom Bearbeiter [Opll, Stadt und Reich, 292 mit Anm. 30] stammenden, irrigen Interpretation betreffs einer früheren Absetzung des Imoleser Bischofs).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360329919" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXXIII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

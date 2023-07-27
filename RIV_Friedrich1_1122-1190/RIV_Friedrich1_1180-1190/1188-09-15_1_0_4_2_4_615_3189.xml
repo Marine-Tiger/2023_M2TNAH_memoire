@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3189</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-15_1_0_4_2_4_615_3189"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-15_1_0_4_2_4_615_3189"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-09-15_1_0_4_2_4_615_3189</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848545" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3189</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-09-15" to="1188-09-15">1188
+									September 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(wohl) Dahlen in der Mark Meißen (<hi rend="italic">XVII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. octub., </hi> <hi rend="italic">in territorio marchie Misenensis apud villam, quam Tolanum vocant</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung eines nur aus dieser 									Erwähnung bekannten DO.II. (VU.), wohl von 983 Juni – , Verona, 									wahrscheinlich auf Grund einer seitens der Mitglieder der an den 									Kaiserhof gereisten Gesandtschaft eingereichten Eingabe von</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann von Magdeburg, Abt 									Siegfried von Hersfeld, Rudolf, Protonotar des kaiserlichen 									Hofes, Burggraf Burchard von Magdeburg, Graf Burchard von 									Wöltingerode; aus Italien: Wido von Sannazzaro de’ Burgondi und 									sein <hi rend="italic">nepos</hi> Wido von <hi rend="italic">Sauio</hi>, der <hi rend="italic">mansionarius</hi> Basta 									der Kommune von Corneliano, Gabaldianus von Annone wie auch von 									Corneliano (<hi rend="italic">de Nona etiam de Cornaliano</hi>) 									sowie zahlreiche andere aus dem Kreis des kaiserlichen 									Hofes</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <hi rend="spaced">Leuten 									von Corneliano</hi> (<hi rend="italic">de Cornaliano</hi>) auf 								deren Bitten das Privileg Kaiser Ottos (II.), das sie in allen Orten 								des Reiches vom Zoll und von anderen Abgaben befreit (<hi rend="italic">in omni loco imperii a teloneo et rivatico 									persolvendo liberi haberentur neque angariam aut vetigaliam 									facere compellantur aut aliquam omnino impositionem 									sustinere</hi>), ihnen jedoch dafür eine Reihe bestimmter 								Leistungen, nämlich jährlich zu Mitte Mai die Zahlung von 44 								Pfennigen für jedes Gehöft (<hi rend="italic">de casali 									quolibet</hi>) sowie Naturalabgaben von ihren 								landwirtschaftlichen Erzeugnissen, auferlegt. Er verleiht ihnen das 								Recht, innerhalb ihrer Gemeinschaft frei über ihre Weiden (<hi rend="italic">in pasculis</hi>), das Holz (<hi rend="italic">in 									lignis succidendis</hi>) und ihre Immobilien (<hi rend="italic">mansione, ortos, areas, clausuras</hi>) zu verfügen (<hi rend="italic">inter se mutuo donandi, vendendi, commutandi ac 									pro anima iudicandi aut aliud quodlibet pro voluntate sua inter 									se faciendi</hi>) und gewährt ihnen das Vorrecht, niemandem das 									<hi rend="italic">esaticum</hi> leisten zu müssen. <span n="witnesses">Z.: Erzbischof Wichmann von Magdeburg, Abt 									Siegfried von Hersfeld, Rudolf, Protonotar des kaiserlichen 									Hofes, Burggraf Burchard von Magdeburg, Graf Burchard von 									Wöltingerode; aus Italien: Wido von Sannazzaro de’ Burgondi und 									sein <hi rend="italic">nepos</hi> Wido von <hi rend="italic">Sauio</hi>, der <hi rend="italic">mansionarius</hi> Basta 									der Kommune von Corneliano, Gabaldianus von Annone wie auch von 									Corneliano (<hi rend="italic">de Nona etiam de Cornaliano</hi>) 									sowie zahlreiche andere aus dem Kreis des kaiserlichen 									Hofes</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></span>;<span n="clerk"> unter Heranziehung eines nur aus dieser 									Erwähnung bekannten DO.II. (VU.), wohl von 983 Juni – , Verona, 									wahrscheinlich auf Grund einer seitens der Mitglieder der an den 									Kaiserhof gereisten Gesandtschaft eingereichten Eingabe von 									einem Angehörigen der Reichskanzlei, am ehesten von GI, 									ausgefertigt</span>. <span n="incipit"><hi rend="italic">Imperialis officii providencie</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis officii providencie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: etwa gleichzeitige Einzelkopie, Fondo 								SS. Nazaro e Celso busta 11 n<hi rend="sup">o</hi> 445, 								Staatsarchiv Verona (B). Drucke: Böhmer, Acta imp., 149 n<hi rend="sup">o</hi> 158; MG.DF.I.980. Regg.: B.-Mikoletzky 								Reg. 951; Stumpf 4501.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Bewertung vgl. die Vorbemerkung 								zum D. – Fünf Jahre zuvor war 1183 im Rahmen des Ausgleichs mit 								Alessandria (Caesarea) und mit den italienischen Kommunen die 								Verpflichtung festgelegt worden, binnen fünf Jahren um die 								Investitur mit den Regalien beim Kaiser nachzusuchen (vgl. dazu 								Regg. 2690, 2695 und 2716). Offensichtlich ist in dieser 								Verpflichtung der Grund dafür zu sehen, dass Vertreter von 								Corneliano im Jahr 1188 dem kaiserlichen Hof bis ins weit entfernte 								Sachsen folgten. – Zur Nennung des Wido von Sannazzaro de’ Burgondi 								unter den Zeugen vgl. Opll, Ytalica expeditio, in: Deutschland und 								Italien zur Stauferzeit (Schriften zur staufischen Geschichte und 								Kunst 22, 2002) 112 f. – Bei dem Ausstellungsort dürfte es sich eher 								um Dahlen gehandelt haben, obwohl eine Identifizierung mit dem 								gleichfalls unweit von Leisnig gelegenen Döbeln ebenfalls denkbar 								wäre, vgl. dazu Opll, Itinerar, 95 mit Anm. 51, sowie Herkenrath, 								Reichskanzlei 1181 bis 1190, 266 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_980" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

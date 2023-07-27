@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2234</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-01-00_3_0_4_2_3_462_2234"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-01-00_3_0_4_2_3_462_2234"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-01-00_3_0_4_2_3_462_2234</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306315" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2234</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-01-01" to="1177-01-31">wohl 1177 Januar oder Februar</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei unter weitgehender Übernahme aus D.648 (= Reg. 2175) entstanden.</scribe>
+				
+				
+					<testis function="witnesses">Die Abmachungen werden von Konrad von Ballhausen für den Kaiser und für sich selbst und von folgenden Fürsten und Edelfreien im eigenen Namen beschworen: Markgraf Dietrich von Landsberg, die Grafen Florentius von Holland und Bernhard von Sachsen, Konrad von Montferrat, Graf Reiner von Biandrate, Konrad von Boxberg, Konstantin von Berg, Kuno von Münzenberg, Marschall Heinrich, Truchseß Walter, Mundschenk Konrad (von Oberschüpf) sowie des weiteren Erzbischof (Philipp) von Köln, Kanzler Gottfried und Graf Heinrich von Diez</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit der <hi rend="spaced">Stadt Tortona</hi>  (abermals, vgl. Reg. 2175) einen Vertrag über die Rückkehr der Stadt in die kaiserliche Gnade, in dem insbesondere bestimmt wird, daß Tortona keine Leute aus den acht Orten aufnehmen darf, aus denen Alessandria (<hi rend="italic">Palea</hi>) gebildet ist, nämlich Marengo, Gamondio (heute: Castellazzo Bormida), Oviglio, Foro, Bergoglio, Solero, <hi rend="italic">Wargent</hi>  und Roboreto, und auf Aufforderung durch ihn (den Kaiser), den Markgrafen (Wilhelm) von Montferrat und den König (Heinrich VI.) bzw. deren Boten derartige Aufnahmen wieder rückgängig zu machen sind. <span n="witnesses">Die Abmachungen werden von Konrad von Ballhausen für den Kaiser und für sich selbst und von folgenden Fürsten und Edelfreien im eigenen Namen beschworen: Markgraf Dietrich von Landsberg, die Grafen Florentius von Holland und Bernhard von Sachsen, Konrad von Montferrat, Graf Reiner von Biandrate, Konrad von Boxberg, Konstantin von Berg, Kuno von Münzenberg, Marschall Heinrich, Truchseß Walter, Mundschenk Konrad (von Oberschüpf) sowie des weiteren Erzbischof (Philipp) von Köln, Kanzler Gottfried und Graf Heinrich von Diez</span>. — <span n="clerk">Außerhalb der Kanzlei unter weitgehender Übernahme aus D.648 (= Reg. 2175) entstanden.</span> <span n="incipit"><hi rend="italic">Hec est forma</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Hec est forma</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 13. Jh. im Chartarium Dertonense f. 1, Cod. lat. Supplemento del Pasini K. V 26, Nationalbibliothek Turin, 1904 durch Brand aufs schwerste beschädigt (B), kritische Ausgabe in MG.Const. 1, 390 n<hi rend="sup">o</hi>  284 aufgrund des Druckes von Costa und einer Abschrift Holder-Eggers (c). Drucke: MG.Const. 1, 390 n<hi rend="sup">o</hi>  284 zu 1183 Februar 4; Güterbock, Tortona, NA 45 (1924) 356 zu 1177 Januar/Februar; MG.DF.I.665. Regg.: Wauters, Table chronol.2, 624; Knipping, Reg. 2, n<hi rend="sup">o</hi>  1067 zu 1177 Februar 4; Stumpf 4353 zu 1183 Februar 4.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch Boso, ed. Duchesne, 436 (berichtet, daß Alexander III. über den Frontwechsel der Cremonesen und Tortonesen in Vieste erfuhr, wo er sich im Februar 1177 aufhielt, vgl. Giesebrecht, Kaiserzeit V, 816 f.) und Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 269. — Zur Überlieferung und zur zeitlichen Einordnung vgl. die Vorbemerkung zum D. sowie die zu DF.I.648. — Mit diesem Vertrag korrespondiert ein Eid der Tortonesen (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-01-00_4_0_4_2_3_463_2235.html" type="internal" n="regesten">2235</ref>). — Zur politisch-historischen Bewertung vgl. Opll, Stadt und Reich, 442 f. — Der unter den Zeugen genannte Konstantin von Berg gehörte nicht dem rheinischen Grafenhaus Berg an, sondern nannte sich nach ('s-Heeren-)Berg unweit Emmerich in den Niederlanden, vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 108.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0163" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_665" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._390" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

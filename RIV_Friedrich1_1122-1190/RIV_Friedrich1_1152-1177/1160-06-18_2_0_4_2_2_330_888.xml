@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 888</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-06-18_2_0_4_2_2_330_888"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-06-18_2_0_4_2_2_330_888"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-06-18_2_0_4_2_2_330_888</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243210" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 888</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-06-18" to="1160-06-18">1160 (nach Juni 18)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lendinara</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Herren von <span sameAs="recipient"><hi rend="spaced">Lendinara</hi> </span>  (<hi rend="italic">Vbertus de Lendenale et Isnardinus et Alardinus et Al[.....]inus et frater eius et Petrus et Folcuinus et Vbertinus</hi>) unter dem Rechtstitel eines Lehens die ihren Vorfahren gemäß Verfügungen Berengars und Kaiser Ottos von Kaiser Konrad (II.) für ihre Güter in Verona, Zevio und Bonavigo eingeräumte Freiheit vom Fodrum und anderen öffentlichen Abgaben für ihre Allodien und verleiht ihnen Weideund Holznutzungsrechte im königlichen Forst. - Das Diktat baut nach den altertümlichen Formulierungen sicher auf den erwähnten, verlorenen älteren Kaiserurkunden auf, die Datierungsformel entspricht der Manier des RG, die Schrift stammt von UB; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Omnium fidelium imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Omnium fidelium imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Domkapitels Verona, im Jahre 1882 durch die Etschüberschwemmung beschädigt, perg. II, 7, 5<hi rend="sup">v</hi>  (A). Druck: MG. DF. I. 316a.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>DF.I.888 für die Herren von Lendinara ist nunmehr auch gedruckt bei: Lanza, Carte del Capitolo di Verona (Fonti per la Storia della Terraferma Veneta 22, 2006) 232 no III. – Hier wird auch eine in der Diplomata-Ausgabe nicht berücksichtigte Überlieferung in der Biblioteca Civica di Verona (Carteggio Cipolla, busta 1186, p. 31r) angeführt.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. wurde erst durch Castagnetti, Primi aspetti di politica annonaria, Studi medievali ser. 3, 15 (1974) 371 bekannt gemacht und stellt das älteste Zeugnis für die Tätigkeit des Kanzleinotars Ulrich B dar. Die Datierung ergibt sich aus der Nennung des sechsten Kaiserjahres. Zur Familie vgl. auch Opll, Verona, in: Verona dalla caduta dei Carolingi al libero Comune. (Atti dell'Accademia di agricoltura, scienze e lettere di Verona, 1987) 53 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0099" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_316a" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

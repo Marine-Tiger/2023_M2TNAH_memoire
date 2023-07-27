@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3444</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-02_1_0_4_2_4_874_3444"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-02_1_0_4_2_4_874_3444"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-02_1_0_4_2_4_874_3444</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3444</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-02" to="1190-04-02">1190
+									März 29 – April 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Aufbruch von den Dardanellen (Hellespont) – an Alt-Troia (Parion, nahe dem heutigen Kemer) vorbei – Biga Çayı (<hi rend="italic">Spigast</hi>)  am Granikos (Çan-Çay)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht mit dem Kreuzheer nach der 								Überquerung des Meeres (siehe Reg. 3442) unter Zurücklassung der 								Gespanne mit Saumtieren auf mühevollen Wegen zum Weitermarsch auf, 								wobei der Weg an Alt-Troia vorbei zwei (Hist. de expeditione: drei) 								Tage lang durch gebirgiges Gebiet führt. Am Sonntag nach Ostern 								(April 1) wird bei dem von Lateinern bewohnten Pegai (heute: Biga 								Çay) am Fluss Granikos (<hi rend="italic">Diga</hi>; heute: Çan-Çay) 								aus Gründen der Versorgung einen Tag lang Rast gemacht. Tags darauf 								(April 2) wird der Fluss Çan-Çay problemlos überschritten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513; 								Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 72 (deutsche Übersetzung von Bühler, Der Kreuzzug 								Friedrich Barbarossas, 2002, 126 f.); Hist. peregrinorum, ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 153; Tageno, ed. Struve, Rerum 								Germanicarum Scriptores I (1717) 411; Bericht des `Imâd ad-Dîn 								al-Isfahânî, Conquête de la Syrie et de la Palestine par Saladin 								(al-Fath al-qussî fî l-fath al-qudsî), trad. par H. Massé (Documents 								relatifs a l’Histoire des Croisades. Académie des inscriptions et 								belles-lettres X, 1972) 226 f. = in deutscher Übersetzung bei 								Petermann, Imâd el Ispahani, Wochenblatt der Johanniter-Ordensballey 								Brandenburg Nr. 30 (1873) 175 (allgemein über die Fährnisse des 								Weitermarsches auf kleinasiatischem Boden ohne die Nennung von 								Orten); vgl. auch den Brief des Katholikos (Patriarchen) von 								Armenien Gregor (IV.) an Sultan Saladin, der im Bericht des `Imâd 								ad-Dîn al-Isfahânî, Conquête de la Syrie et de la Palestine par 								Saladin (al-Fath al-qussî fî l-fath al-qudsî), trad. par H. Massé 								(Documents relatifs a l’Histoire des Croisades. Académie des 								inscriptions et belles-lettres X, 1972) 229 f. (eine alte deutsche 								Übersetzung bei Wilken, Geschichte der Kreuzzüge 4, 3 ff.) 								überliefert und auch in englischer Übersetzung bei Bahā’ al-Dīn, 								History of Saladin, transl. by D. S. Richards (2002) 114 ff., 								verfügbar ist (siehe zu dieser Quelle die Hinweise in den 								Quellenangaben bei Reg. 3367).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Eickhoff, Barbarossa im Orient, 83 f., 								sowie Bühler, a.a.O., 163 Anm. 262. – Das Itinerarium peregrinorum, 								ed. Mayer (Schriften der MGH 18, 1962) 295 (englische Übersetzung 								bei: Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 60 c. 22) bietet zum Antritt des 								Marsches durch Kleinasien Angaben über die Teilnehmerzahlen des 								Kreuzheeres, siehe dazu schon oben Regg. 3259, 3274, 3367 und 3378); 								L’estoire de Eracles (Recueil des Historiens des Croisades, Sér. II: 								Historiens occidentaux, Tom. 2, 1859) 132 f. lib. XXIV cap. XXII = 								Continuation de Guillaume de Tyr, ed. Morgan (Doc. relatifs à 								l’histoire des Croisades 14, 1982) 93 f. cap. 89 = The Old French 								Continuation of William of Tyre, 1184–1197, ed. Edbury, The conquest 								of Jerusalem and the Third Crusade. Sources in Translation (1996) 84 								f. cap. 89 bietet interessante Zusatzinformationen allgemeiner Art 								über den Weg durch Kleinasien.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

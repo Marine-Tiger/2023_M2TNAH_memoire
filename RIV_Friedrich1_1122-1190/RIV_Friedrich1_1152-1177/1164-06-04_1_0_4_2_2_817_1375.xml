@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1375</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-04_1_0_4_2_2_817_1375"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-04_1_0_4_2_2_817_1375"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-06-04_1_0_4_2_2_817_1375</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246443" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1375</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-06-04" to="1164-06-04">(1164) Juni 4 (!)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Monte Malo</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II<hi rend="sup">e</hi>  nonas iunii, in castro Montis Mali)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">A(icard)</hi>  <hi rend="spaced">Parma</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Propst Berthold, Konrad von Ballhausen, Maledabatus, Gerard von Enzola, Lombardus aus Parma</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt dem Bischof <span sameAs="recipient"><hi rend="spaced">A(icard)</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Parma</hi> </span>  nach dem Bericht des Propstes Berthold den Hof Campolongo, den einst Graf Ubert von der Kirche von Parma zu Lehen trug, zurück. <span n="witnesses">Z.: Propst Berthold, Konrad von Ballhausen, Maledabatus, Gerard von Enzola, Lombardus aus Parma</span>. - <span n="clerk">Verfaßt und geschrieben von RG</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Divina iura et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Divina iura et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Bischöfliches Archiv zu Parma (A). Drucke: Drei, Carte Parmensi 3, 260 n<hi rend="sup">o</hi>  318; MG. DF. I. 450. Reg.: Stumpf 4020 zu 1164 Juni.</p></div>
+				
+				
+					<div type="commentary"><p>Bei der Tagesangabe dürfte ein Fehler passiert sein, da Friedrich zu Anfang Juni noch in Pavia weilte; eine Verschreibung (<hi rend="italic">iunii</hi>  statt richtig: <hi rend="italic">iulii</hi>) - so in der Vorbemerkung zum D. - ist nach dem Itinerar des Kaisers Ende Juni/Anfang Juli 1164 nur wenig wahrscheinlich, vgl. Opll, Itinerar 196. - Zum Ausstellungsort vgl. bereits Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-06-15_1_0_4_2_2_814_1372.html" type="internal" n="regesten">1372</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0217" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_450" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

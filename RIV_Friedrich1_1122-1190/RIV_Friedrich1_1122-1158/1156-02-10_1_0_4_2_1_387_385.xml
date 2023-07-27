@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 385</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-10_1_0_4_2_1_387_385"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-02-10_1_0_4_2_1_387_385"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-02-10_1_0_4_2_1_387_385</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415627397" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 385</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-02-10" to="1156-02-10">(Vor 1156 Februar 10)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Michaelskirche</hi>  <hi rend="spaced">(Schwäbisch-)Hall</hi>  <hi rend="spaced">Gebhard</hi>  <hi rend="spaced">Würzburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erteilt seine Zustimmung zur Verleihung eines Jahrmarktes an die <span sameAs="recipient"><hi rend="spaced">Michaelskirche</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">(Schwäbisch-)Hall</hi> </span>  durch Bischof <span sameAs="recipient"><hi rend="spaced">Gebhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Würzburg</hi></span> kraft bischöflicher und herzoglicher Autorität, der jeweils durch sieben Tage vor und nach dem Fest des hl. Michael (September 29) abgehalten werden soll und zu dem 14 Tage vor und nach dem Markttermin sicheres Geleit gewährt wird.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnung in einer Urkunde Bischof Gebhards von Würzburg von 1156 Februar 10, ed. Wirtemberg. UB. 2, 102 n<hi rend="sup">o</hi>  354.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Simonsfeld, Jahrbücher 538 f. Anm. 77. - Decker-Hauff, Haller Kirchweih-Urkunde, Schwäb. Heimat 3/4 (1956) 81 f. glaubte nachweisen zu können, daß die Urkunde nur in überarbeiteter Form aus dem 13. Jahrhundert vorliegt, aber auf einer echten Grundlage von 1156 basiert. Dagegen zeigt jetzt Johanek, Markt von Schwäbisch Hall, künftig: Württembergisch Franken 64 (1980) auf, daß es sich bloß um eine formale Fälschung aus der Zeit bald nach 1156 handelt. An der Authentizität des Inhalts ist jedenfalls nicht zu zweifeln.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0126" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.wubonline.de/?wub=565" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

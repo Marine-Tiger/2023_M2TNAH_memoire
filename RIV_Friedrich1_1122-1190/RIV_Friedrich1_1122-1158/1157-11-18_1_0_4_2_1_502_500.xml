@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 500</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-18_1_0_4_2_1_502_500"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-18_1_0_4_2_1_502_500"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-18_1_0_4_2_1_502_500</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240073" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 500</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-18" to="1157-11-18">1157 November 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Arbois</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XIIII kal. decemb., Arbosii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heraclius</hi>  <hi rend="spaced">Lyon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Kanzleidiktat von RD mundiert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Humbert von Besançon, Abt Ado von Saint-Oyen-de-Joux (<hi rend="italic">sancti Eugendi</hi>), Protonotar Heinrich, Archidiakon Eberhard von Besançon, die Herzoge Matthäus von Lothringen und Berthold von Zähringen, Theobald (<hi rend="italic">Depoldus</hi>), der Bruder des Herzogs von Böhmen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg, Stephan (von Mâcon)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den an den Hof gekommenen Erzbischof und Primas <span sameAs="recipient"><hi rend="spaced">Heraclius</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Lyon</hi> </span>  mit der Stadt Lyon (<hi rend="italic">totum corpus civitatis Lugduni</hi>) und allen Regalien im Erzbistum (<hi rend="italic">et omnia iura regalia per omnem archiepiscopatum eius citra Ararim infra vel extra civitatem</hi>), bestätigt ihm die <hi rend="italic">casamenta</hi>  des Grafen von Savoyen und anderer (<hi rend="italic">casamenta tam comitis Sauoge quam alia omnia de antiquo et novo iure ad ęcclesiam Lugdunensem pertinentia</hi>) sowie die Gerichtsbarkeit, gewährt die Immunität unter Vorbehalt der kaiserlichen Gerechtsame und ernennt ihn zum Exarchen der burgundischen Pfalz sowie obersten Fürsten seines Rates (<hi rend="italic">sacri palacii nostri Burgundię gloriosissimus exarchon et summus princeps consilii nostri et in omnibus faciendis agendisque nostris precipuus</hi>). <span n="witnesses">Z.: Erzbischof Humbert von Besançon, Abt Ado von Saint-Oyen-de-Joux (<hi rend="italic">sancti Eugendi</hi>), Protonotar Heinrich, Archidiakon Eberhard von Besançon, die Herzoge Matthäus von Lothringen und Berthold von Zähringen, Theobald (<hi rend="italic">Depoldus</hi>), der Bruder des Herzogs von Böhmen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg, Stephan (von Mâcon)</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi> </span>; <span n="clerk">nach Kanzleidiktat von RD mundiert</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">In examine cuncta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In examine cuncta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Lyon (A). Drucke: Guigue, Les bulles d'or de Frédéric Barberousse, Bulletin philologíque et historique 1917 (1918) 58 n<hi rend="sup">o</hi>  1; MG. DF. I. 192. Reg.: Stumpf 3787.</p></div>
+				
+				
+					<div type="commentary"><p>Zum besonders feierlichen Stil in diesem Diplom sowie den DDF. I. 195 und 196 (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-23_1_0_4_2_1_506_504.html" type="internal" n="regesten">504</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-23_2_0_4_2_1_507_505.html" type="internal" n="regesten">505</ref>) vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 346 f. Zur erstmaligen Verwendung des Titels Protonotar in der Zeugenreihe eines Diploms vgl. Hausmann, Reichskanzlei 150 f. und 155 ff. Mit der Verleihung der &amp;quot;Goldenen Bulle&amp;quot; an den Erzbischof beschäftigt sich Bitsch, Lyon (Gött. Bausteine zur Geschichtswiss. 42, 1971) 54 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Der hier an Erzbischof Heraclius von Lyon verliehene Titel eines Exarchen der burgundischen Pfalz ist wohl in Verbindung mit dem Titel des Ravennater Erzbischofs in Verbindung zu sehen, der von Erzbischof Anselm von Ravenna sowie von dessen beiden Nachfolgern Guido (1158–1167) und Gerard (1167–1190) mehrfach geführt wurde und auf das vom staufischen Hof ausgehende Bemühen um Hervorhebung der kaiserlichen Autorität in Italien zurückgehen dürfte, vgl. dazu künftig Raccagni, A Byzantine title in a post-Byzantine world, in: Mediterranean Historical Review.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0169" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_192" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

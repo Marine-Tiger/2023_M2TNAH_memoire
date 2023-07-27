@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 430</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-01-25_1_0_4_2_1_433_430"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-01-25_1_0_4_2_1_433_430"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-01-25_1_0_4_2_1_433_430</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239251" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 430</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-12-25" to="1157-01-23">(1156 Dezember 25-1157 Januar 23)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">W(ichmann)</hi>  <hi rend="spaced">Magdeburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>F(riedrich) befiehlt dem Erzbischof <span sameAs="recipient"><hi rend="spaced">W(ichmann)</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Magdeburg</hi> </span>  (<hi rend="italic">Magdebruggensi</hi>), als delegierter päpstlicher Richter (<hi rend="italic">quoniam á pontifice almę nostrę urbis Romę iudicem te ordinatum esse cognovimus</hi>) in dem Zehentstreit zwischen Abt (Wibald) von Corvey (<hi rend="italic">abbatem Corbeiensem</hi>) und Bischof (Philipp) von Osnabrück (<hi rend="italic">episcopum Osembrugensem</hi>) eine Entscheidung zu fällen, die die Privilegien der Corveyer Kirche sorgfältig in Betracht zieht. - <span n="incipit"><hi rend="italic">Serenissimi imperatores nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Serenissimi imperatores nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 12. Jh. im Cod. Wibaldi f. 150, Staatsarchiv Lüttich (B). Drucke: Jaffé, Mon. Corb. 579 n<hi rend="sup">o</hi>  447; Israël-Möllenberg, UB. Erzstift Magdeburg 1, 355 n<hi rend="sup">o</hi>  286; MG. DF. I. 155. Reg.: Stumpf 3760a.</p></div>
+				
+				
+					<div type="commentary"><p>Zur für den 23. Januar anberaumten Vorladung der beiden Parteien durch Wichmann vgl. die Vorbemerkung zu DF. I. 155 sowie Israël-Möllenberg, UB. Erzstift Magdeburg 1, 350 n<hi rend="sup">o</hi>  281 (JL. 10082), 353 n<hi rend="sup">o</hi>  284, 354 n<hi rend="sup">o</hi>  285, 357 n<hi rend="sup">o</hi>  288, 358 n<hi rend="sup">o</hi>  289, 358 n<hi rend="sup">o</hi>  290, 359 n<hi rend="sup">o</hi>  291 und 360 n<hi rend="sup">o</hi>  292. Zur Sache vgl. Jäschke, Osnabrücker Zehntstreit (2. Teil), AfD 11/12 (1965/66) 391 ff. und Appelt, Kaiseridee (WdF 390, 1975) 226 f. - Zur Verfasserfrage jetzt Herkenrath, MIÖG 88 (1980) 33.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0145" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_155" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

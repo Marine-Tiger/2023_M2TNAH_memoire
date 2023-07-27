@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1407</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-29_1_0_4_2_2_849_1407"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-29_1_0_4_2_2_849_1407"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-29_1_0_4_2_2_849_1407</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246674" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1407</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-09-29" to="1164-09-29">1164 September 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  kal. octobris, Papie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2 laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Obizo Malaspina</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus curie canc. vice domini Rainaldi Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Markgrafen <span sameAs="recipient"><hi rend="spaced">Obizo Malaspina</hi> </span>  und dessen Erben die genannten Besitzungen, belehnt ihn mit den Regalien und wiederholt die schon früher zu Pavia urkundlich fixierte Schenkung in der Stadt und Grafschaft Tortona (vgl. Reg. 1096) mit Ausnahme dessen, worauf der Markgraf in der Grafschaft zugunsten des Kaisers verzichtet hat. - <span n="chancellor"><hi rend="italic">Christianus curie canc. vice domini Rainaldi Coloniensis archiep. et Italie archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von CE</span>; <span n="seal">SI. 2 laut D.</span>  <span n="incipit"><hi rend="italic">Apud fontem imperialis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Apud fontem imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1478, Archiv der Marchesi Malaspina zu Bobbio (C); Abschrift von 1569 FF Filza VI vol. I p. 6, Staatsarchiv Parma (D); Reichsregister Leopolds I. Bd. 28 f. 170', Haus-, Hof- und Staatsarchiv Wien (E). Drucke: Drei, Carte Parmensi 3, 262 n<hi rend="sup">o</hi>  322; MG. DF. I. 463. Reg.: Stumpf 4029.</p></div>
+				
+				
+					<div type="commentary"><p>Zum D. vgl. Artocchini, Cariseto in Val d'Aveto, Boll. stor. Piacentino 49 (1954) 117 und Haverkamp, Herrschaftsformen 410.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0225" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_463" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

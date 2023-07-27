@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2241</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-16_1_0_4_2_3_469_2241"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-16_1_0_4_2_3_469_2241"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-03-16_1_0_4_2_3_469_2241</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601402" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2241</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-03-16" to="1177-03-16">1177 März 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Cuccurano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVII<hi rend="sup">o</hi>  kal. mensis aprilis, in Italia apud castellum Cucurani)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philipi Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Patriarch Udalrich von Aquileia, die Erzbischöfe Wichmann von Magdeburg, Philipp von Köln und Arnold von Trier, Bischof Hermann von Bamberg, Herzog Leopold von Österreich, Markgraf Dietrich von Sachsen, Konrad, der Sohn des Markgrafen (Wilhelm) von Montferrat, Markgraf Heinrich Guercio, die Grafen Florentius von Holland und Heinrich von Diez, Konrad von Boxberg, Marschall Heinrich, Mundschenk Konrad (von Oberschüpf) und Truchseß Walter</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert dem <hi rend="spaced">Bischof Nikolaus von Viviers</hi>  auf dessen durch an den Hof entsandte Legaten vorgebrachte Bitten das seinem Vorgänger Raimund gewährte Privileg (vgl. Reg. 1905), unterstellt die Stadt und die bischöfliche Kirche unter Ausschluß jeglicher anderer Laiengewalt ihrem Bischof und dem Reich, bestätigt die Regalien, die Münze und den Straßenzoll sowie den Zoll an der Rhône (<hi rend="italic">monetam, pedaticum, utramque stratam telluris videlicet et Rodani</hi>), unter Vorbehalt der kaiserlichen Gerechtsame, und nimmt den Bischof, dessen Klerus und Bürger in seinen Schutz. <span n="witnesses">Z.: Patriarch Udalrich von Aquileia, die Erzbischöfe Wichmann von Magdeburg, Philipp von Köln und Arnold von Trier, Bischof Hermann von Bamberg, Herzog Leopold von Österreich, Markgraf Dietrich von Sachsen, Konrad, der Sohn des Markgrafen (Wilhelm) von Montferrat, Markgraf Heinrich Guercio, die Grafen Florentius von Holland und Heinrich von Diez, Konrad von Boxberg, Marschall Heinrich, Mundschenk Konrad (von Oberschüpf) und Truchseß Walter</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philipi Coloniensis archiep. et Italie archicanc.</hi> </span>; von Burkhard wohl unter Heranziehung des Deperditums Reg. 1905, in dem Wendungen aus den DDK.III.165, 184 und 514 Eingang gefunden haben dürften, verfaßt und sicherlich auch geschrieben; in der Corroboratio wird Goldbulle angekündigt. <span n="incipit"><hi rend="italic">Ad gloriam temporalis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad gloriam temporalis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Beglaubigte Abschrift des frühen 17. Jh., Stadtarchiv zu Bourg-Saint-Andéol, A A 1 f. 1' (C); Abschrift des 18. Jh. in der Collection Baluze Bd. 19 f. 66, Nationalbibliothek Paris (E). Druck: MG.DF.I.668. Reg.: Stumpf 4190.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung sowie zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. sowie MG.DF.I. *1155 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1157-06-00_1_0_4_2_3_130_D1905.html" type="internal" n="regesten">1905</ref>) und auch MG.DDF.I. Band 5, S. 283 (Nachträge und Berichtigungen zur Gesamtausgabe).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0165" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_668" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

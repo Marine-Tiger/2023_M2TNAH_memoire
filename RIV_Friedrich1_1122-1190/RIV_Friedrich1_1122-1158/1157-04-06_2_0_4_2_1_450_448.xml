@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 448</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-06_2_0_4_2_1_450_448"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-06_2_0_4_2_1_450_448"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-04-06_2_0_4_2_1_450_448</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239381" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 448</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-04-06" to="1157-04-06">1157 April 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus aprilis, Wormacie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Juden</hi>  <hi rend="spaced">Worms</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Renaldus canc. vice Maguntini archiep.</hi></notarius>
+				
+				
+					<scribe>Wiederholung des verlorenen DH. IV. *412, wohl von RC mundiert.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Gunther von Speyer, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, der Sohn König Konrads, Graf Emicho von Leiningen, Ulrich von Herrlingen (<hi rend="italic">Horningen</hi>), Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <span sameAs="recipient"><hi rend="spaced">Juden</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Worms</hi> </span>  die ihnen von Kaiser Heinrich (IV.) zur Zeit ihres Vorstehers Salman (<hi rend="italic">tempore Salmanni eorundem Iudeorum episcopi</hi>) verbrieften Rechte: 1) Alleinige Unterstellung unter die königliche Gerichtsbarkeit als Kammerknechte (<hi rend="italic">presertim cum ad cameram nostram attineant</hi>). 2) Schutz des erblichen Besitzes. 3) Recht des Geldwechselns in der Stadt, außer vor der Münzstätte oder bei Wechselstellen (<hi rend="italic">excepto tantum ante domum monetaream vel sicubi alibi monetarii ad cambiendum consederint</hi>). 4) Freier Handel innerhalb des Reiches und Befreiung von allen Abgaben. 5) Befreiung von Einquartierungen und Leistungen zur königlichen oder bischöflichen Heerfahrt. 6) Diebsgut, das sie eidlich als gekauft bezeugen, kann vom Eigentümer nur zurückgekauft werden. 7) Verbot der zwangsweisen Taufe bei Strafe und Festlegung der rechtlichen Erfordernisse und Folgen für Taufwerber. 8) Verbot der Entfremdung ihrer heidnischen Eigenleute durch Taufe bei Strafe und Festlegung der Rechte ihrer christlichen Diener. 9) Verbot des Kaufes christlicher Diener. 10) Festlegung des Personalitätsprinzips bei Rechtsstreitigkeiten zwischen Juden und Christen; Verbot der Feuer- und Wasserprobe, der Geißelung und Einkerkerung von Juden (<hi rend="italic">nemo Iudeum ad ignitum ferrum vel ad calidam aquam vel frigidam cogat nec flagellis cedat nec in carcerem mittat</hi>). Sie sollen vielmehr ihrem Gesetz gemäß nach 40 Tagen schwören. Die Überführung von Verdächtigen ist nur bei jüdischem und christlichem Zeugnis zugleich möglich. Bei Appellation an den König möge Aufschub gewährt werden; detaillierte Festsetzung der Strafen für Körperverletzung oder Totschlag an Juden. Streitigkeiten unter ihnen werden von ihresgleichen (<hi rend="italic">a suis paribus et non ab aliis iudicentur</hi>), bei Verdunkelungsgefahr von ihrem Vorsteher (<hi rend="italic">ab eo, qui est episcopus eorum</hi>), der sie zum Zeugnis zwingen kann, behandelt. 11) Erlaubnis zum Verkauf von Wein, Salben und Gegengiften (<hi rend="italic">vinum suum, pigmenta et antidota</hi>) an Christen und nochmalige Betonung ihrer Freiheit von allen öffentlichen und privaten Leistungen. <span n="witnesses">Z.: Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Gunther von Speyer, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, der Sohn König Konrads, Graf Emicho von Leiningen, Ulrich von Herrlingen (<hi rend="italic">Horningen</hi>), Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Renaldus canc. vice Maguntini archiep.</hi> </span>; <span n="clerk">Wiederholung des verlorenen DH. IV. *412, wohl von RC mundiert.</span> <span n="incipit"><hi rend="italic">Omnibus episcopis, abbatibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Omnibus episcopis, abbatibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Transsumpt Erzbischof Wilhelms von Köln von 1360 Januar 2 eines von Bischof Eberhard von Worms 1260 März 11 ausgestellten Transsumptes eines erweiterten Vidimus Kaiser Friedrichs II. von 1236 Juli (B.-Ficker-Winkelmann, Reg. 5/4, n<hi rend="sup">o</hi>  14.727) im Historischen Archiv der Stadt Köln (D). Drucke: MG. Const. 1, 226 n<hi rend="sup">o</hi>  163; MG. DF. I. 166. Reg.: Aronius, Reg. z. Gesch. d. Juden 123 n<hi rend="sup">o</hi>  280.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verhältnis zwischen dem vorliegenden Diplom und DH. IV. *412 vgl. die Vorbemerkung zum D. - Zum Inhalt vgl. Pfaff, Die soziale Stellung des Judentums, VjSSWG 52 (1965) 197 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0152" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_166" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

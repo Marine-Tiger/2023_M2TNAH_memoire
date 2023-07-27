@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 667</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-11_1_0_4_2_2_109_667"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-02-11_1_0_4_2_2_109_667"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-02-11_1_0_4_2_2_109_667</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241835" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 667</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-02-11" to="1159-02-11">1159 Februar 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  idus febr., in Papia civitate imperiali)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Pietro in Cield' Oro zu Pavia</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus canc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung der Fälschung auf den Namen Heinrichs V. Stumpf 3042 (vgl. Stumpf, Acta ined. 457 n<hi rend="sup">o</hi>  326 Fassung A) verfaßt und geschrieben von RH</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Pietro in Cield' Oro zu Pavia</hi> </span>  auf Bitten des Abtes Benedikt die in einer umfangreichen Liste angeführten Besitzungen und Rechte, nimmt es in seinen Schutz und gewährt ihm eine Verjährungsfrist von 100 Jahren, die freie Wahl des Abtes sowie die ungehinderte Schiffahrt sowie das Anlegerecht hinsichtlich des Ticino, des Po und anderer Flüsse. - <span n="chancellor"><hi rend="italic">Rainaldus canc.</hi> </span>; <span n="clerk">in Wiederholung der Fälschung auf den Namen Heinrichs V. Stumpf 3042 (vgl. Stumpf, Acta ined. 457 n<hi rend="sup">o</hi>  326 Fassung A) verfaßt und geschrieben von RH</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si circa deo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si circa deo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mailand (A). Kop.: Notarielle Abschrift von 1395 September 4 ebenda (B). Drucke: Stumpf, Acta ined. 172 n<hi rend="sup">o</hi>  135; Schroth-Köhler, Fälscherwerkstatt von S. Pietro in Ciel d' Oro, 156 n<hi rend="sup">o</hi>  XII; Falconi - Peveri, II &amp;quot;Registrum Magnum&amp;quot; del comune di Piacenza 2 (1985) 240 n<hi rend="sup">o</hi>  406; MG. DF. I. 258. Reg.: Stumpf 3843.</p></div>
+				
+				
+					<div type="commentary"><p>Gegen Schroth-Köhler, a. a. O., 57 ff. ist an der Echtheit der Urkunde nach den minutiösen Schriftuntersuchungen von W. Koch (vgl. jetzt Koch, Die Schrift der Reichskanzlei im 12. Jahrhundert, Exkurs 2, 347 ff.) festzuhalten, vgl. auch die Vorbemerkung zum D. sowie Herkenrath, Rezension der Arbeit von Schroth-Köhler, DA 41 (1985) 231 f. - Zu den Fälschungen für die Abtei vgl. auch B. Pagnin, Falsi diplomi per S. Pietro in Ciel d' Oro di Pavia, Boll. soc. Pav. stor. patr. 56, NS. 8 (1956) 15 ff. sowie Schroth-Köhler, passim. - Der &amp;quot;Blitzbesuch&amp;quot; des Kaisers in Pavia (Opll, Itinerar, 25) findet auch durch die beunruhigenden Nachrichten über die Tätigkeit der kaiserlichen Legaten in Mailand (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-01-00_1_0_4_2_2_102_660.html" type="internal" n="regesten">660</ref>) eine ausreichende Erklärung.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0046" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_258" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

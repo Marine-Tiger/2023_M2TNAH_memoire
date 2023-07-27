@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 518</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-18_1_0_4_2_1_520_518"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-18_1_0_4_2_1_520_518"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-01-18_1_0_4_2_1_520_518</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240197" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 518</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-01-18" to="1158-01-18">1158 Januar 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. febr., Ratisbone)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Vladislav</hi>  <hi rend="spaced">Böhmen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnaldi Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Erzbischöfe Eberhard von Salzburg, Wichmann von Magdeburg, die Bischöfe Hartwig von Regensburg, Eberhard von Bamberg, Konrad von Passau, Otto von Freising (<hi rend="italic">Frisigensis</hi>), Daniel von Prag, die Herzoge Heinrich von Österreich, Friedrich von Schwaben, Landgraf Ludwig von Thüringen, die Markgrafen Albrecht (der Bär) von Sachsen, Otto von Meißen, die Pfalzgrafen Otto und Friedrich (von Wittelsbach)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem Herzog <span sameAs="recipient"><hi rend="spaced">Vladislav</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Böhmen</hi> </span>  (<hi rend="italic">Wadizlao ... duci Boemorum</hi>) und dessen Nachfolgern wegen dessen und aller Böhmen Verdienste das Recht, an den Tagen, an denen er die Krone (<hi rend="italic">coronam et diadema glorię</hi>) zu tragen pflegt, nämlich an Weihnachten, Ostern und Pfingsten, und darüber hinaus am Fest des hl. Wenzel und des hl. Adalbert, die in Böhmen als Landespatrone verehrt werden, einen Kronreif (<hi rend="italic">circulum</hi>) zu tragen, spricht den Bischöfen Daniel von Prag und Johann von Olmütz (<hi rend="italic">Olumucense</hi>) und ihren Nachfolgern bei Möglichkeit gegenseitiger Vertretung ebenfalls nach dem Vorbild seiner eigenen Krönungen [<hi rend="italic">Sicut itaque cebratio (!) et impositio coronę nostrę non debet fieri nisi per manus archiepiscoporum et episcoporum</hi>...] das Recht der Krönung zu und bestätigt dem Herzog den von dessen Vorgängern seit altersher erhobenen Zins aus Polen. <span n="witnesses">Z.: die Erzbischöfe Eberhard von Salzburg, Wichmann von Magdeburg, die Bischöfe Hartwig von Regensburg, Eberhard von Bamberg, Konrad von Passau, Otto von Freising (<hi rend="italic">Frisigensis</hi>), Daniel von Prag, die Herzoge Heinrich von Österreich, Friedrich von Schwaben, Landgraf Ludwig von Thüringen, die Markgrafen Albrecht (der Bär) von Sachsen, Otto von Meißen, die Pfalzgrafen Otto und Friedrich (von Wittelsbach)</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnaldi Magontini archiep. et archicanc.</hi> </span>; nach Kanzleidiktat geschrieben von RD; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Cum tam lege</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum tam lege</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatliches Zentralarchiv Prag, Kronarchiv (A). Drucke: MG. Const. 1, 236 n<hi rend="sup">o</hi>  170; Hrubý, Archivum coronae regni Bohemiae 1, 4 n<hi rend="sup">o</hi>  2; MG. DF. I. 201. Reg.: Erben, Reg. Bohem. et Morav. 1, 131 n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-05-05_1_0_4_2_1_295_295.html" type="internal" n="regesten">295</ref>; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  170; Koss, Archiv Koruny 쒌eské 2, 5 n<hi rend="sup">o</hi>  1; Stumpf 3795.</p></div>
+				
+				
+					<div type="commentary"><p>Zur offenbar selbständig formulierten Arenga vgl. Fichtenau, Arenga, MIÖG Erg.Bd. 18 (1957) 88 n<hi rend="sup">o</hi>  166. - Das D. wurde eine Woche nach der tatsächlichen Königserhebung ausgestellt (s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-01-11_1_0_4_2_1_519_517.html" type="internal" n="regesten">517</ref>), im D. wird Vladislav stets als Herzog bezeichnet, und die Verleihung des Kronreifs erscheint ausschließlich als kaiserliche Gnade, obwohl die Reichsfürsten mitgewirkt hatten (s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-01-11_1_0_4_2_1_519_517.html" type="internal" n="regesten">517</ref>), vgl. Hilsch, Bischöfe von Prag (Veröff. d. Coll. Carolinum 22, 1969) 88 f., besonders Fiala, Urkunde Friedrichs I. MIÖG 78 (1970) 167 ff. und Appelt, Böhmische Königswürde (Aus Reichsgeschichte und nordischer Geschichte. = Kieler Histor. Studien 16, 1972) 161 ff. - Die Zinszahlung aus Polen beanspruchten die P얙emysliden seit der Zeit Herzog Bretislavs I. (1054), Cosmas, MG. SS rer. Germ. in us. schol. N. S. II, 101, vgl. Fiala a. a. O. 179 mit Anm. 49. - Die Verleihungen der Königswürde an die Herzöge von Böhmen während des Hochmittelalters untersucht im Zusammenhang Schramm, Böhmen und das Regnum (Adel und Kirche. = FS. G. Tellenbach, 1968) 346 ff. - Zum Dorsualvermerk des 14. Jh. und archivgeschichtlichen Angaben s. die Vorbemerkung zum D. und die Edition von Hrubý.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Neuerdings widmet Begert, Böhmen, die böhmische Kur und das Reich (Hist. Studien, 475, 2003) 83 ff., der Frage der Erhebung des Böhmenherzogs zum König eingehendere Überlegungen; allerdings bleibt der Versuch, die Datierung durch Vinzenz von Prag zum 11. Januar als Fehler dieses Historiographen zu deuten und nicht nur die Ausstellung des D. 201 (= Reg. 518), sondern auch die durch Vinzenz überlieferte Königserhebung auf den 18. Januar, den Tag der hl. Prisca, zu datieren, angesichts des Fehlens weiterer Hinweise auf eine herausragende Bedeutung dieses Heiligentages zur Zeit Friedrich Barbarossas nur wenig überzeugend.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0175" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_201" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

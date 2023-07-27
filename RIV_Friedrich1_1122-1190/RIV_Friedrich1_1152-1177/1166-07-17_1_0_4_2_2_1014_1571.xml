@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1571</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-07-17_1_0_4_2_2_1014_1571"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-07-17_1_0_4_2_2_1014_1571"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-07-17_1_0_4_2_2_1014_1571</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1571</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-07-17" to="1166-07-17">1166 Juli 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI<hi rend="sup">o</hi>  kal. augusti, apud Bisuntium)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D. laut D<hi rend="sup">2</hi></p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Vienne</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Henricus sacri palacii prothonotarius vice Willelmi Viennensis archiep. et tocius Burgundie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DF. I. 184 (= Reg. 489, VU. I) und - geringfügig - von DF. I. 62 (= Reg. 184, VU. II) von einem Kanzleiangehörigen, vielleicht von Wortwin, verfaßt</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Her(i)bert von Besançon und Drogo von Lyon, die Bischöfe Petrus von Toul und Arducius von Genf, Abt Hugo von Cluny, Thesaurar Eberhard von Besançon, Herzog Matthäus von Lothringen, die Grafen Albert von Dillingen, Folmar von Saarwerden, Gerard (von Mâcon) und Stephan (von Mâcon), Ulrich von Herrlingen, Burchard von Asuel</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den Elekten <span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Vienne</hi> </span>  nach der Leistung von Mannschaft und Treueid mit den althergebrachten und neuen Regalien und Gerechtsamen seiner Kirche und bestätigt ihm den Inhalt von D. 184 (= Reg. 489). <span n="witnesses">Z.: die Erzbischöfe Her(i)bert von Besançon und Drogo von Lyon, die Bischöfe Petrus von Toul und Arducius von Genf, Abt Hugo von Cluny, Thesaurar Eberhard von Besançon, Herzog Matthäus von Lothringen, die Grafen Albert von Dillingen, Folmar von Saarwerden, Gerard (von Mâcon) und Stephan (von Mâcon), Ulrich von Herrlingen, Burchard von Asuel</span>. - <span n="chancellor"><hi rend="italic">Henricus sacri palacii prothonotarius vice Willelmi Viennensis archiep. et tocius Burgundie archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DF. I. 184 (= Reg. 489, VU. I) und - geringfügig - von DF. I. 62 (= Reg. 184, VU. II) von einem Kanzleiangehörigen, vielleicht von Wortwin, verfaßt</span>; <span n="seal">B. D. laut D<hi rend="sup">2</hi></span>. <span n="incipit"><hi rend="italic">Viennensis ecclesia sicut</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Viennensis ecclesia sicut</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 15. Jh. aus notarieller Kopie von 1281 im Cod. B 3015 f. 88', Departementalarchiv Grenoble (C); unvollständige Abschrift von 1614 im Ms. lat 5662 p. 186, Nationalbibliothek Paris (D<hi rend="sup">1</hi>); unvollständige Abschrift aus der Mitte des 18. Jh. im Ms. lat. 10.950 p. 309, ebenda (D<hi rend="sup">2</hi>). Drucke: Hirsch, Urkundenfälschungen 167 n<hi rend="sup">o</hi>  4; MG. DF. I. 514. Reg.: Chevalier, Rég. dauphinois 1, 714 n<hi rend="sup">o</hi>  4267; Stumpf 4073.</p></div>
+				
+				
+					<div type="commentary"><p>Die Investitur wird auch in den Series epp. Vienn., MG. SS XXIV, 815 erwähnt, wobei zum dort genannten Datum - dem 1. August - wohl vor <hi rend="italic">kalend</hi>. die entsprechende Zahl (XVI) zu ergänzen wäre. - Zu Geschichte der diplomatischen Kritik dieser Urkunde, deren Echtheit von Hirsch, a. a. O. 91 ff. zu Unrecht in Zweifel gezogen worden ist, vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0267" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 522</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-00_2_0_4_2_1_524_522"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-00_2_0_4_2_1_524_522"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-01-00_2_0_4_2_1_524_522</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 522</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-01-01" to="1158-01-31">(1158 Januar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">(Regensburg)</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erklärt auf die Ermahnungen des Episkopats hin, zu denen dieser von Papst Hadrian IV. in einem Schreiben mit bittersten Klagen über die Vorfälle von Besançon aufgefordert worden ist, seine prinzipiellen Ansichten über das Reich und dessen Regierung, indem er die Königswahl in erster Linie dem Erzbischof von Mainz und dann den anderen Fürsten, die Salbung dem Kölner Erzbischof und die Kaiserkrönung dem Papst zuschreibt, Vorwürfe, er habe den Verkehr mit Rom unterbunden, entschieden zurückweist und die Zerstörung der Bildwerke im Lateran fordert, die dem Ansehen des Kaisertums widersprechen. Daneben mißbilligt er auch die Übereinkunft des Papstes mit den Römern und Wilhelm von Sizilien sowie andere in Italien getroffene Abmachungen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Antwortschreiben der deutschen Bischöfe an Papst Hadrian IV. von (1158 Anfang), MG. Const. 1, 233 n<hi rend="sup">o</hi>  167.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Simonsfeld, Jahrbücher 614 ff., zur Datierung 615 Anm. 53, sowie Heinemeyer, beneficium, AfD 15 (1969) 204 ff.; das vorhergehende Schreiben des Papstes in den MG. Const. 1, 232 n<hi rend="sup">o</hi>  166 (JL. 10321). - Zu den Bildwerken im Lateran vgl. schon Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-06-08_1_0_4_2_1_314_314.html" type="internal" n="regesten">314</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-10-00_1_0_4_2_1_493_491.html" type="internal" n="regesten">491</ref>. - Das Schreiben der Bischöfe, als dessen Verfasser Föhl, Eberhard II., MÖIG 50 (1936) 119 ff. den Bamberger Bischof namhaft macht (vgl. zustimmend Zeillinger, Eberhard, MIÖG 78, 1970, 215 f.), wurde von diesem Kirchenfürsten auch überbracht, vgl. Otto von St. Blasien cap. 9, ed. Hofmeister, MG. SS rer. Germ. in us. schol. 10. - Zum Wortlaut der Erklärung des Kaisers vgl. Ullmann, Über eine kanonistische Vorlage (The Church and the Law in the Earlier Middle Ages. Selected Essays, 1975) 430 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0177" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

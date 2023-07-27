@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2443</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-09-14_1_0_4_2_3_671_2443"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-09-14_1_0_4_2_3_671_2443"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-09-14_1_0_4_2_3_671_2443</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430901121" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2443</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-09-14" to="1168-09-14">1168  recte: 1178  September 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVIII kal. octobris, Bisuntii)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl außerhalb der Kanzlei entstanden.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Eberhard von Besançon, Bischof Arducius von Genf, die Elekten Dietrich von Metz und Balduin von Utrecht, Herzog Hugo von Dijon, die Grafen Heinrich von Barle-duc und Ludwig von Pfirt (Ferrètes), Odo der Champagne, Burggraf Burchard (<hi rend="italic">Brocardi</hi>) von Magdeburg und Vizegraf Gislebert von Vesoul (irrig: <hi rend="italic">Uesuntini</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt dem <hi rend="spaced">Bischof Peter von Toul</hi>  auf dessen Bitten das Recht der Münzprägung in der mit kaiserlicher Zustimmung wiedererbauten Burg Liverdun. <span n="witnesses">Z.: Erzbischof Eberhard von Besançon, Bischof Arducius von Genf, die Elekten Dietrich von Metz und Balduin von Utrecht, Herzog Hugo von Dijon, die Grafen Heinrich von Barle-duc und Ludwig von Pfirt (Ferrètes), Odo der Champagne, Burggraf Burchard (<hi rend="italic">Brocardi</hi>) von Magdeburg und Vizegraf Gislebert von Vesoul (irrig: <hi rend="italic">Uesuntini</hi>)</span>. — <span n="clerk">Wohl außerhalb der Kanzlei entstanden.</span> <span n="incipit"><hi rend="italic">Cum ad nostram</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum ad nostram</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Chartular 2 F 5 f. 27, Departementalarchiv Nancy (B). Druck: MG.DF.I.763. Reg.: Stumpf 4267.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Nachweis der Echtheit vgl. die in der Vorbemerkung erwähnte Arbeit von Scheffer-Boichorst, Zur Gesch. d. 12. und 13. Jh., 124 ff. — Die zeitliche Einreihung ergibt sich aus dem kaiserlichen Itinerar. — Balduin von Utrecht, der Nachfolger des am 27. Mai 1178 verstorbenen Bischofs Gottfried, dürfte damals zur Investitur an den Hof gekommen sein (freundlicher Hinweis von Rainer-Maria Herkenrath).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0236" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_763" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

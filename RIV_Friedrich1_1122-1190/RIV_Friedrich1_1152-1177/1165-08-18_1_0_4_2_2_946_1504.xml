@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1504</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-08-18_1_0_4_2_2_946_1504"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-08-18_1_0_4_2_2_946_1504"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-08-18_1_0_4_2_2_946_1504</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247038" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1504</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-08-18" to="1165-08-18">1165 August 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Tauberbischofsheim</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV<hi rend="sup">o</hi>  kal. septembris, apud Biscopsheim)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kitzingen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus sacri palatii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>geschrieben von UB, trotz einiger Elemente des Kanzleistils wohl verfaßt unter Einfluß von seiten Würzburgs oder Bambergs</scribe>
+				
+				
+					<testis function="witnesses">die Äbte Hermann von Hersfeld und Albert von Ellwangen, Propst Reinhard vom Neumünsterstift in Würzburg, Domkantor Gottfried, Scholaster Johannes, Propst Berthold, Kustos Albert, Heinrich, Protonotar des kaiserlichen Hofes, Friedrich Colbo, Albert, Kaplan von Stift Haug, Albert von Stift Haug, Reinhard und Wortwin vom Neumünsterstift (alle aus Würzburg), Bruder Wolfer, Archidiakon Godebold von Bamberg, Herzog Ulrich von Böhmen, Vogt Markward von Grumbach (des Klosters Kitzingen), Burggraf Konrad von Nürnberg, Friedrich, der Sohn des Grafen Rapodo (von Abenberg), Robert von Castell, Manegold von Thundorf, Konrad von Endsee, Konrad von Weikersheim, Ludwig Colbo, Friedrich <hi rend="italic">de Schefelt</hi>, Crato <hi rend="italic">de Nuenburg</hi>  und sein Bruder Konrad, Eberhard <hi rend="italic">de Hofelt</hi>, der Würzburger Ministeriale Bodo, der Bamberger Ministeriale Gundelaus, Vitztum Billung, die Schultheißen Heinrich und Billung, Gottfried vom Markt (<hi rend="italic">de Foro</hi> /in Würzburg)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hebt die Unterstellung des Nonnenklosters <span sameAs="recipient"><hi rend="spaced">Kitzingen</hi> </span>  unter den Bischof von Bamberg im Einvernehmen mit den Bischöfen Herold von Würzburg und Eberhard von Bamberg nach einem Besuch dieses Klosters (Reg. 1502) auf und setzt fest, daß die mit Klöstergütern belehnten Personen diese Güter weiterhin behalten und auch vererben können, verpflichtet aber die Äbtissin, freie, an sie zurückfallende Lehen künftig nicht mehr auszutun. <span n="witnesses">Z.: die Äbte Hermann von Hersfeld und Albert von Ellwangen, Propst Reinhard vom Neumünsterstift in Würzburg, Domkantor Gottfried, Scholaster Johannes, Propst Berthold, Kustos Albert, Heinrich, Protonotar des kaiserlichen Hofes, Friedrich Colbo, Albert, Kaplan von Stift Haug, Albert von Stift Haug, Reinhard und Wortwin vom Neumünsterstift (alle aus Würzburg), Bruder Wolfer, Archidiakon Godebold von Bamberg, Herzog Ulrich von Böhmen, Vogt Markward von Grumbach (des Klosters Kitzingen), Burggraf Konrad von Nürnberg, Friedrich, der Sohn des Grafen Rapodo (von Abenberg), Robert von Castell, Manegold von Thundorf, Konrad von Endsee, Konrad von Weikersheim, Ludwig Colbo, Friedrich <hi rend="italic">de Schefelt</hi>, Crato <hi rend="italic">de Nuenburg</hi>  und sein Bruder Konrad, Eberhard <hi rend="italic">de Hofelt</hi>, der Würzburger Ministeriale Bodo, der Bamberger Ministeriale Gundelaus, Vitztum Billung, die Schultheißen Heinrich und Billung, Gottfried vom Markt (<hi rend="italic">de Foro</hi> /in Würzburg)</span>. - <span n="chancellor"><hi rend="italic">Christianus sacri palatii imperialis canc.</hi> </span>; <span n="clerk">geschrieben von UB, trotz einiger Elemente des Kanzleistils wohl verfaßt unter Einfluß von seiten Würzburgs oder Bambergs</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Divinę ordinationis providentia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Divinę ordinationis providentia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 378 n<hi rend="sup">o</hi>  512; MG. DF. I. 489. Faks.: Koch, Reichskanzlei Abb. 13 Teilfaks. Reg.: Stumpf 4050.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Petzolt, Kitzingen, Jb. f. fränk. LF 15 (1955) 82 und 16 (1956) 10 f. - In der Aufstellung Konrads von Mainz über die Entfremdungen Mainzer Besitzes in der Zeit seines Exils von (1189/90) wird auch die Verpfändung von <hi rend="italic">Biscofish(eim)</hi>  an den Kaiser um 300 Mark erwähnt; zur möglichen Identifizierung dieses Ortes mit dem Ausstellungsort des vorliegenden D. vgl. Acht, Mainzer UB. 2/2, n<hi rend="sup">o</hi>  531 (S. 880 mit Anm. 47).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0249" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210268%22" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210269%22" type="external" n="unkown">Kopie, 14. Jhd.</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_489" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

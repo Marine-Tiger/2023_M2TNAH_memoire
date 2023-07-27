@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2879</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-04_1_0_4_2_4_302_2879"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-04_1_0_4_2_4_302_2879"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-05-04_1_0_4_2_4_302_2879</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845178" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2879</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-05-04" to="1185-05-04">1185
+									Mai 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Ambrogio zu Mailand (<hi rend="italic">quarto nonas maii, Mediolani </hi> <hi rend="italic">apud idem monasterium</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter geringfügiger Heranziehung des DKa.III.21 									(VU.I) wie – in etwas größerem Umfang – des DH.II.95 (VU.II) und 									auch unter Anklang an das Diplom Hugos und Lothars von 942 									August 15 (Schiaparelli n<hi rend="sup">o</hi> 64) in 									Zu</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Martin von Meißen, Wilhelm von 									Asti, Alberich (<hi rend="italic">Albrigunus</hi>) von Reggio 									(Emilia) und Hildebrand von Volterra, Archipresbyter Ubert von 									Monza, Herzog Leopold von Österreich, die Grafen Gerhard von 									Looz/Borgloon und Simon von Sponheim, die Äbte Albert von S. 									Benedetto Po (Polirone) und Umfred von San Salvatore (zu Pavia), 									Martin von Castello d’Agogna und Graf Diepold von 									Lechsgemünd</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Reichskloster</hi> 								<hi rend="spaced">S. Ambrogio</hi> (<hi rend="italic">cenobii 									beati confessoris et doctoris Ambrosii beatorumque martirum 									Geruasii et Protasii</hi>), gelegen an der Mauer zu Mailand (<hi rend="italic">monasterium Mediolanense iuxta murum situm</hi>), 								für sein Seelenheil und gemäß dem Vorbild seiner Vorgänger unter 								Einschluss der innerstädtischen Besitzungen (<hi rend="italic">cum 									claustro, palatiis, domibus, officinis et cum omnibus casis et 									terris usque ad murum civitatis</hi>) und der Kirche S. Michele 								mit der Pfarre und dem Hospital in seinen Schutz und bestätigt ihm 								die namentlich angeführten Besitzungen und die Freiheiten von allen 								Leistungen außer an den Kaiser oder an den kaiserlichen Boten. <span n="witnesses">Z.: die Bischöfe Martin von Meißen, Wilhelm von 									Asti, Alberich (<hi rend="italic">Albrigunus</hi>) von Reggio 									(Emilia) und Hildebrand von Volterra, Archipresbyter Ubert von 									Monza, Herzog Leopold von Österreich, die Grafen Gerhard von 									Looz/Borgloon und Simon von Sponheim, die Äbte Albert von S. 									Benedetto Po (Polirone) und Umfred von San Salvatore (zu Pavia), 									Martin von Castello d’Agogna und Graf Diepold von 									Lechsgemünd</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></span>; <span n="clerk">unter geringfügiger Heranziehung des DKa.III.21 									(VU.I) wie – in etwas größerem Umfang – des DH.II.95 (VU.II) und 									auch unter Anklang an das Diplom Hugos und Lothars von 942 									August 15 (Schiaparelli n<hi rend="sup">o</hi> 64) in 									Zusammenarbeit zwischen Kanzlei und Empfänger verfasst</span>; 									<span n="seal"> SP.2</span> (vgl. Anm. o‘). <span n="incipit"><hi rend="italic">Circumspectio sane 										deliberationis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Circumspectio sane 										deliberationis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1311 Januar 								28, Staatsarchiv Mailand (B); notarielle Abschrift von 1319 Februar 								23, ebenda (C). Druck: Puricelli, Mon. Ambrosiana ed. I., 1038 								(p); Grossi, Le carte del monastero di S. Ambrogio III/2, n<hi rend="sup">o</hi> 26 = 								<ref target="http://cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-2/carte/sam1185-05-04B" type="external" n="unkown">cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-2/carte/sam1185-05-04B</ref> 								(Status: 27. Mai 2009); MG.DF.I.903. Reg.: Stumpf 4417.</p></div>
+				
+				
+					<div type="commentary"><p>Die Zeugenreihe ist in Unordnung geraten (Abfolge 								geistlicher und weltlicher Zeugen). – Merkwürdigerweise nehmen weder 								das DH.VI. (B.-Baaken Reg. 540) noch das DO.IV. (B.-Ficker Reg. 384) 								auf diese Privilegierung durch Friedrich Barbarossa Bezug. – Der 								Aufenthalt in Mailand wird auch in Ann. Plac. Gib., MG. SS XVIII, 								465, und Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. in us. 								schol., 12 erwähnt; hinzuweisen ist darauf, dass der Kaiser damals 								zum ersten Mal nach dem Bündnis mit den Mailändern die lombardische 								Metropole aufsuchte und dabei im altehrwürdigen Kloster S. Ambrogio 								abstieg, das im Januar 1186 Schauplatz der Hochzeit zwischen 								Heinrich VI. und Konstanze von Sizilien werden sollte (unten Reg. 								2953).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_903" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

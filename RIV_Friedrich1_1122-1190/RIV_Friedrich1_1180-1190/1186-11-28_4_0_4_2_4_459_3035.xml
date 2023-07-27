@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3035</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_4_0_4_2_4_459_3035"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-28_4_0_4_2_4_459_3035"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-28_4_0_4_2_4_459_3035</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426847750" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3035</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-28" to="1186-11-28">1186
+									November 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gelnhausen (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. decembris, apud Geylinhusin</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aulę canc. vice C</hi><hi rend="italic">v</hi><hi rend="hoch"><hi rend="italic">o</hi></hi><hi rend="italic">nradi Maguntini archiep. et 										Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung einer Privilegierung der Stadt Stade durch 									Heinrich den Löwen (Jordan, Urkunden Heinrichs des Löwen 180 										n<hi rend="sup">o</hi> *124), deren Bestimmungen aus einer 									Bestätigung durch Otto IV. von 1209 Mai 2 (B.-Ficker Reg</scribe>
+				
+				
+					<testis function="witnesses">die 									Erzbischöfe Konrad von Mainz, Hartwig von Bremen, Wichmann von 									Magdeburg und Adalbert von Salzburg, die Bischöfe Adelhog von 									Hildesheim, Gottfried von Würzburg und Tammo von Verden, Herzog 									Bernhard von Sachsen, Landgraf Ludwig von Thüringen, Elekt 									Dietrich von Lübeck, Abt Elver von Stade, Propst Hermann von 									Hamburg, Domdekan Dietrich von Bremen, Hermann Hode, Graf 									Christian von Oldenburg (<hi rend="italic">Altimburc</hi>), die 									Vögte Gottfried von Stade und A(de)lard von Bremen, Kämmerer 									Erich (von Bederkesa; des Erzbischofs von Bremen), Marschall 									Gerung (des Erzbischofs von Bremen), Truchsess Konstantin (des 									Erzbischofs von Bremen), Mundschenk Dietrich (des Erzbischofs 									von Bremen), Albert (von Bexhövede), Aldo (von Bremen), Hugo und 									Otto</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Bürgern der <hi rend="spaced">Stadt Bremen</hi> die ihnen einst von Karl dem 								Großen auf Bitten ihres ersten Bischofs, des heiligen Willehad, 								gewährten Rechte, nämlich das Weichbildrecht (<hi rend="italic">wicpilethe</hi>) für alle Männer und Frauen, die über Jahr und 								Tag in Bremen verweilen, was allerdings nicht für die Hintersassen 								der bischöflichen Kirche und der zu ihr gehörigen Kirchen gelten 								soll, des Weiteren das Verfahren bei Gerichtsfällen sowie 								erbrechtliche Bestimmungen, ebenfalls unter ausdrücklicher Wahrung 								der kirchlichen Rechte der bischöflichen und der zu ihr gehörigen 								Kirchen an allen Hofstätten, behält sich jedoch in allem die 								kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: die 									Erzbischöfe Konrad von Mainz, Hartwig von Bremen, Wichmann von 									Magdeburg und Adalbert von Salzburg, die Bischöfe Adelhog von 									Hildesheim, Gottfried von Würzburg und Tammo von Verden, Herzog 									Bernhard von Sachsen, Landgraf Ludwig von Thüringen, Elekt 									Dietrich von Lübeck, Abt Elver von Stade, Propst Hermann von 									Hamburg, Domdekan Dietrich von Bremen, Hermann Hode, Graf 									Christian von Oldenburg (<hi rend="italic">Altimburc</hi>), die 									Vögte Gottfried von Stade und A(de)lard von Bremen, Kämmerer 									Erich (von Bederkesa; des Erzbischofs von Bremen), Marschall 									Gerung (des Erzbischofs von Bremen), Truchsess Konstantin (des 									Erzbischofs von Bremen), Mundschenk Dietrich (des Erzbischofs 									von Bremen), Albert (von Bexhövede), Aldo (von Bremen), Hugo und 									Otto</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aulę canc. vice C</hi><hi rend="italic">v</hi><hi rend="hoch"><hi rend="italic">o</hi></hi><hi rend="italic">nradi Maguntini archiep. et 										Germanię archicanc.</hi></span>; <span n="clerk">unter Verwendung einer Privilegierung der Stadt Stade durch 									Heinrich den Löwen (Jordan, Urkunden Heinrichs des Löwen 180 										n<hi rend="sup">o</hi> *124), deren Bestimmungen aus einer 									Bestätigung durch Otto IV. von 1209 Mai 2 (B.-Ficker Reg. 276) 									bekannt sind, verfasst und geschrieben von GG</span>; <span n="seal"> SP.2</span>. <span n="incipit"><hi rend="italic">Imperatoriam maiestatem nostram.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam maiestatem nostram.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Bremen, seit dem Ende des 								Zweiten Weltkrieges verschollen (A). Drucke: Ehmck – Bippen, 								Bremisches UB. 1, 71 n<hi rend="sup">o</hi> 65; Elenchus font. 								hist. urb. 1, 162 n<hi rend="sup">o</hi> 92; 								MG.DF.I.955. Reg.: Stumpf 4472.</p></div>
+				
+				
+					<div type="commentary"><p>Die Edition erfolgte nach einem Foto im Besitz der 								Wiener Diplomata-Abteilung. – Die hier Karl dem Großen 								zugeschriebenen Satzungen entsprechen tatsächlich erst den 								Rechtsverhältnissen des 12. Jh.; aus der Heranziehung des oben 								erwähnten Deperditums Heinrichs des Löwen ergibt sich somit, dass 								die angebliche Rechtsverleihung Karls des Großen entweder unter 								Benützung dieses Deperditums gefälscht wurde, oder es gab eine 								gleich lautende Privilegierung des Welfen für Bremen, vgl. dazu 								Jordan, Städtepolitik Heinrichs des Löwen, Hansische 								Geschichtsblätter 78 (1960) 23 ff. (= Ders., Ausgewählte Aufsätze, 								266 ff.). – Zu den Zeugen Adalbert von Bexhövede, Vogt Adelhard von 								Bremen, Aldo von Bremen und Kämmerer Erich von Bederkesa (Kr. 								Cuxhaven) vgl. Plassmann, Struktur des Hofes, 278 f. und 284. – Die 								Vorbehalte zu Gunsten der Bremer Kirchen gehen sicher auf Betreiben 								Erzbischof Hartwigs zurück, der kaiserliche Vorbehalt – sonst in 								Privilegien für deutsche Städte nicht üblich – weist auf das 								Bestreben hin, die Interessen des Kaisers zu wahren, vgl. dazu auch 								Opll, Stadt und Reich, 50 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_955" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3308</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_37_0_4_2_4_735_3308"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_37_0_4_2_4_735_3308"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_37_0_4_2_4_735_3308</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3308</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1152
+									März 9/1155 Juni 18 bzw. etwa 1167/68 – 1189 Ende
+									Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Graf (Bernhard II.) zur Lippe nimmt an einem Hoftag 								teil, der unter freiem Himmel abgehalten wird. Auf seine Bitten hin 								erteilt der Kaiser seine Zustimmung zur Gründung einer Stadt des 								Grafen auf dessen eigenem Grund und dies wird schriftlich bestätigt. 								Der Graf weilt zweimal zu Beratungen mit Kaiser Friedrich bei Hofe.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Justinus von Lippstadt. Das Lippiflorium, hg. 								v. H. Althof (Leipzig 1900) 40 ff., V. 343 ff.</p></div>
+				
+				
+					<div type="commentary"><p>Das um 1260 entstandene, als westfälisches 								Heldengedicht geltende Werk des Justinus von Lippstadt überliefert 								im Rahmen eines regelrechten Fürstenlobs Nachrichten über Kontakte 								des Grafen zur Lippe zum Kaiser. Wiewohl die Absicht des Werks, das 								Lipper Grafenhaus zu ehren, eindeutig im Vordergrund steht und 								Kontakte zum Reichsoberhaupt natürlich auch den Rang des Grafen 								unterstreichen, wird man von einer tatsächlichen Zustimmung des 								Kaisers zur Stadtgründung ausgehen dürfen. Insbesondere die Narratio 								der Verleihung des Soester Rechts an Lippstadt aus der Zeit um 1220, 								in der Bernhard II. zur Lippe darauf hinweist, dass er seine 								Neugründung mit Gunst des Kaisers durchgeführt habe (Diestelkamp, 								Quellensammlung, Elenchus fontium historiae urbanae I, 1967, 198 no 								125: <hi rend="italic">… cum ego Bernardus de Lippia, imperatoria 									majestate favente, in bonis proprietate michi cedentibus 									civitatem novellam plantarem, …</hi>), spricht dafür, dass der 								Kaiser in die Anfänge der Stadt Lippstadt involviert war; vgl. dazu 								neben Althoff, Gloria et nomen perpetuum, in: Person und 								Gemeinschaft im Mittelalter. Karl Schmid zum fünfundsechzigsten 								Geburtstag, hg. von G. Althoff, D. Geuenich, O. G. Oexle und J. 								Wollasch (1988) 310 f., ausführlich Ehbrecht, Stadtentwicklung bis 								1324, in: Lippstadt. Beiträge zur Stadtgeschichte, hg. von W. 								Ehbrecht, Teil 1, 26 ff. – Im Hinblick auf die Datierung des 								Geschehens richten wir uns – den Gepflogenheiten der Regesta Imperii 								zufolge – nach den <hi rend="italic">termini post</hi> und <hi rend="italic">ante quem</hi>, wobei für ersteren unter Beachtung 								des Todes Hermanns von Lippe 1167 vor Rom (siehe Reg. 1697) und des 								erst danach denkbaren Herrschaftsantritts Bernhards wohl an 1167/68 								zu denken ist. In der älteren Forschung (vgl. die oben angeführte 								Edition des Lippiflorium, 100 zu Vers 343) dachte man eher an 1168 								und den Hoftag zu Würzburg (siehe Regg. 1791–1792) als an 1184 								(Mainzer Pfingstfest, vgl. Regg. 2762–2766). Ehbrecht, ebda., ließ 								die Entscheidung zwischen diesen beiden Möglichkeiten offen, hat 								aber in einer weiteren Studie (Ehbrecht, Gestalt, Verfassung und 								Recht lippischer Städte, in: Lippe und Livland. Mittelalterliche 								Herrschaftsbildung im Zeichen der Rose, hg. von Jutta Prieur [2008] 								66–73) auch an eine Datierung zum Hoftag in Worms im August 1187 								(Regg. 3098–3098a) als Möglichkeit gedacht; Irsigler, Was machte 								eine mittelalterliche Siedlung zur Stadt? (Universitätsreden der 								Universität des Saarlandes 51, 2003) 34, dagegen spricht sich doch 								wieder für eine Datierung zu 1184 (Mainzer Hoftag) aus; zuletzt 								folgt Laudage, Friedrich Barbarossa, 157 f., der älteren Auffassung 								und datiert das Geschehen zum Würzburger Hoftag von 1168. Da uns 								sonst freilich kein Hinweis darauf vorliegt, dass ein Hoftag zu 								Würzburg (1168) oder auch zur Worms (1187) jemals im Freien 								abgehalten worden wäre, ist der Einreihung zum Mainzer Pfingstfest, 								für das dies dezidiert bezeugt ist, wahrscheinlich doch der Vorzug 								zu geben. Endgültige Gewissheit ist wohl kaum zu erlangen. – 								Ehbrecht, ebd., und Laudage, ebd., sowie zuletzt Keupp, Ökonomie und 								Logistik der Hoffeste, in: Die Staufer und Italien, Bd. 1 (2010) 281 								f. (mit überzeugender Interpretation), gehen darüber hinaus auch auf 								kulturgeschichtlich interessante Einzelheiten der Überlieferung 								genauer ein: Die Lipper Vertreter hätten beim Hoftag zunächst im 								Freien auf ihren eigenen Mänteln sitzend am Boden Platz genommen, 								dann diese Mäntel liegen gelassen, da es bei ihnen nicht Sitte sei, 								die „Stühle“ mitzunehmen; tags darauf ließ der Kaiser sie sodann auf 								einen besseren Platz unter den Großen des Reiches führen. – Zur 								Datierung der Entstehungszeit des Werkes ist darauf hinzuweisen, 								dass jüngst Großevollmer, Lippiflorium, in: Lippische Mitteilungen 								zur Geschichte und Landeskunde 78 (2009), 181 – 208, den Versuch 								einer Datierung des Werks in das beginnende 16. Jh. vorgeschlagen 								hat, was aber Johanek, Stadtgründung und Stadtwerdung, in: Opll – 								Pils – Sonnlechner (Hgg.), Stadtgründung und Stadtwerdung (Beiträge 								zur Geschichte der Städte Mitteleuropas, 22, Linz 2011) Anm. 98, für 								nicht zwingend ansieht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

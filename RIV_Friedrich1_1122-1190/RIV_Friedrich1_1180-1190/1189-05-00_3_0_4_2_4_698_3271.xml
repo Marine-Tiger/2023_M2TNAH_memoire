@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3271</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_3_0_4_2_4_698_3271"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_3_0_4_2_4_698_3271"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_3_0_4_2_4_698_3271</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3271</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1189
+									Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. (vgl. Anm. d).</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>In der Kanzlei, vermutlich von GK, verfasst</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt den <hi rend="spaced">Herzogen</hi> 								<hi rend="spaced">Leopold von Österreich</hi> und <hi rend="spaced">Otakar von Steier</hi> sowie den Richtern und 								Untervögten des <hi rend="spaced">Klosters Admont</hi> mit, dass 								er dieses Kloster, dessen Abt (Isenrich) das Kreuz genommen hat und 								mit ihm gemeinsam auf den Kreuzzug zieht (<hi rend="italic">iter 									transmarine peregrinatonis nobiscum arripuit</hi>), für die 								Dauer des Kreuzzuges in seinen besonderen Schutz genommen hat. Sie 								mögen dem Abt erlauben, aus den Gütern seiner Kirche die 								erforderlichen Aufwendungen zu bestreiten. –<span n="clerk"> 									In der Kanzlei, vermutlich von GK, verfasst</span>; <span n="seal">SP. (vgl. Anm. d).</span> 								<span n="incipit"><hi rend="italic">Licet universas 									imperii</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Licet universas 									imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv Admont, 1865 verbrannt 								(A). Kop.: Abschrift des 19. Jh. im alten Apparat der Wiener 								Diplomata-Abteilung (A<hi rend="sup">1</hi>); Abschrift Muchars von 								1817, fehlerhaft, in dessen „Archivum Admontense“ 1, 55, 								Stiftsbibliothek Admont (B). Drucke: Stumpf, Acta ined., 241 									n<hi rend="sup">o</hi> 176; Zahn, UB. d. Herzogthums Steiermark 								1, 683 n<hi rend="sup">o</hi> 697; Fichtenau – Dienst, UB. z. 								Gesch. der Babenberger 4/1, 203 n<hi rend="sup">o</hi> 889; 								MG.DF.I.1005. Reg.: Stumpf 4526.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung dieses Mandats richtet 								sich nach der Nennung Abt Isenrichs von Admont in D.998 (Reg. 3253) 								und dem wahrscheinlichen Zusammenhang mit dem Aufenthalt des Kaisers 								in Wien. Isenrich nahm am Kreuzzug teil, starb am 10. August 1189 								und wurde im Bulgarenwald begraben, vgl. Cont. Admunt., MG. SS IX, 								586, Cont. Cremifanensis, MG. SS IX, 547 sowie Hist. de expeditione 								Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 36 f. 								(deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 92), siehe dazu auch unten die Bemerkungen bei 								Reg. 3388.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

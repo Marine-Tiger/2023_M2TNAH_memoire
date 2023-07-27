@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 930</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-01-29_1_0_4_2_2_372_930"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-01-29_1_0_4_2_2_372_930"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-01-29_1_0_4_2_2_372_930</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243377" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 930</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-01-29" to="1161-01-29">1161 Januar 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Como">Como</placeName>
+												<location><geo decls="#WGS">45.8, 9.0833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  kal. februarii, Cumas)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Passau</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von Diktatelementen des RG geschrieben von Ulrich B</scribe>
+				
+				
+					<testis function="witnesses">Bischof Ardicio von Como, Herzog Heinrich von Bayern und Sachsen, die Pfalzgrafen Otto und Friedrich von Wittelsbach, die Grafen Berthold von Andechs und Rudolf von Pfullendorf, Burggraf Burchard von Magdeburg, die Grafen Goswin (von Heinsberg), Wido von Biandrate, Konrad von Abenberg und Konrad von Ballhausen, Vogt Adelgoz (<hi rend="italic">Alegoz</hi>) von Augsburg, Markward von Grumbach und Abt Johannes von Göttweig</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich unterstellt auf Bitten seines Oheims, des Bischofs Konrad von <span sameAs="recipient"><hi rend="spaced">Passau</hi> </span>, die Abtei Niedernburg (<hi rend="italic">abbatiam sancte Marię in Patauia</hi>) mit allen Reichsrechten mit Ausnahme der Vogtei dem Bistum Passau, wofür dem königlichen Fiskus jährlich zu Epiphanie (Januar 6) 40 Pfund Regensburger Münze zu leisten sind. <span n="witnesses">Z.: Bischof Ardicio von Como, Herzog Heinrich von Bayern und Sachsen, die Pfalzgrafen Otto und Friedrich von Wittelsbach, die Grafen Berthold von Andechs und Rudolf von Pfullendorf, Burggraf Burchard von Magdeburg, die Grafen Goswin (von Heinsberg), Wido von Biandrate, Konrad von Abenberg und Konrad von Ballhausen, Vogt Adelgoz (<hi rend="italic">Alegoz</hi>) von Augsburg, Markward von Grumbach und Abt Johannes von Göttweig</span>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep.</hi> </span>; <span n="clerk">unter Verwendung von Diktatelementen des RG geschrieben von Ulrich B</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si iustis fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si iustis fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 356 n<hi rend="sup">o</hi>  502; MG. DF. I. 322. Faks.: Koch, Reichskanzlei, Abb. 1 Teilfaks. Reg.: Heider, Reg. des Passauer Abteilandes, 12 n<hi rend="sup">o</hi>  2; Stumpf 3901.</p></div>
+				
+				
+					<div type="commentary"><p>Ulrich B tritt hier nach D. 316a (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-06-18_2_0_4_2_2_330_888.html" type="internal" n="regesten">888</ref>) zum erstenmal in der Reichskanzlei auf, vgl. Koch, Reichskanzlei, 23 ff. - Zum D. vgl. Tellenbach, Die bischöflich passauischen Eigenklöster, 25 f. und 122 f. sowie die Neuausfertigung D. 326 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-06-03_1_0_4_2_2_391_949.html" type="internal" n="regesten">949</ref>). - Die Zeugennennung Heinrichs des Löwen weist auf den damaligen Zuzug von Truppen zum Kaiser hin, vgl. auch Sigeb. Auct. Affligem., MG. SS VI, 404 und Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-04-00_1_0_4_2_2_383_941.html" type="internal" n="regesten">941</ref>. - Nach der Nennung Goswins von Heinsberg unter den Zeugen ist anzunehmen, daß wenigstens eine der in einem Comasker Zeugenverhör überlieferten Volksversammlungen bei S. Giacomo zu Como in Anwesenheit des Kaisers und des Grafen Goswin während des hier bezeugten Aufenthalts abgehalten wurde, vgl. dazu Fasola, Il monastero di S. Abbondio, in: S. Abbondio, lo spazio e il tempo. Tradizione storica e recupero architettonico. (Ministero per i Beni Culturali e Ambientali. Ufficio Centrale Beni Archivistici, Como 1984) 87.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0107" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210250%22" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210251%22" type="external" n="unkown">Kopie</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_322" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

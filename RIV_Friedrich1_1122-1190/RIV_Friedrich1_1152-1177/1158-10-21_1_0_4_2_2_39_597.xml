@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 597</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-10-21_1_0_4_2_2_39_597"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-10-21_1_0_4_2_2_39_597"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-10-21_1_0_4_2_2_39_597</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240958" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 597</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-10-21" to="1158-10-21">1158 Oktober 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg Rivoli</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(die Martis, qui est duodecimus kal. novembris, in arce Rivole)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Mazaperlinus, Bürger von Brescia</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Markgraf Dietrich von Sachsen, Rudolf von Pfullendorf (? <hi rend="italic">Fonumberg</hi>), der Bruder des Pfalzgrafen (einer der Wittelsbacher?), Herembot Falostem, Graf Friedrich von Rivoli, Garzaban, Oprandus, Bruxadus und Fulcemarus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den <span sameAs="recipient"><hi rend="spaced">Mazaperlinus, Bürger von Brescia</hi> </span>, der sich als Angehöriger und Getreuer des königlichen Hofes bekannt hat, mit seinem Valvassorenlehen und mit bestimmten, damit verbundenen Vorrechten (<hi rend="italic">de honore vavasorie et de mensuris vini et lignorum et de querimonia fori et quod de cetero non ponatur in datiis larium neque ad aliquod turpe munus vocetur nomine feudi</hi>) und befreit ihn und seine Erben von gewissen Abgaben und bäuerlichen Lasten (<hi rend="italic">liberans eum ab omnibus angariis et parangariis et suos heredos perpetuo et ab omnibus honeribus rusticanis</hi>). <span n="witnesses">Z.: Markgraf Dietrich von Sachsen, Rudolf von Pfullendorf (? <hi rend="italic">Fonumberg</hi>), der Bruder des Pfalzgrafen (einer der Wittelsbacher?), Herembot Falostem, Graf Friedrich von Rivoli, Garzaban, Oprandus, Bruxadus und Fulcemarus</span>. - Ausgefertigt von einem italienischen Notar (<hi rend="italic">Ego Ioanes notarius domini imperatoris Frederici rogatus interfui et iussu domini imperatoris hoc breve subscripsi</hi>.). <span n="incipit"><hi rend="italic">Die Martis, qui est</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Die Martis, qui est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1257, Bischöfliches Archiv Brescia (B). Drucke: Güterbock, Rivoli, NA 45 (1924) 368; MG. DF. I. 227.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. zum D. Haverkamp, Herrschaftsformen, 536. - Zu den Zeugen vgl. auch die beiden Fälschungen Regg. <ref type="unmatched">† 231</ref>  und <ref type="unmatched">† 599</ref>. - Möglicherweise handelt es sich bei dem unter den Zeugen genannten Grafen Friedrich von Rivoli um den 1150 erwähnten Grafen Friedrich von Garda, vgl. Castagnetti, Le comunità della regione gardense, in: Un lago, una civiltà: il Garda, I, a cura di G. Borelli. (Verona 1983) 99 n<hi rend="sup">o</hi>  1 und dazu Opll, Verona e l'Impero, in: Verona dalla caduta dei Carolingi al libero comune. (Accademia di agricoltura scienze e lettere di Verona, Atti 1987) 33.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0028" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_227" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 384</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-01-25_1_0_4_2_1_386_384"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-01-25_1_0_4_2_1_386_384"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-01-25_1_0_4_2_1_386_384</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238916" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 384</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-01-25" to="1156-01-25">1156 Januar 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Strassburg">Straßburg</placeName>
+												<location><geo decls="#WGS">48.5833, 7.75</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(octavo kal. februarii, Argentine)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Straßburger Domstiftes</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Maguntinus archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DH. V. Stumpf 3180 (VU.) wahrscheinlich von AH (Albert) verfaßt und von A II. E mundiert</scribe>
+				
+				
+					<testis function="witnesses">Bischof Burchard von Straßburg, Erzbischof Humbert von Besan?on, die Bischöfe Ortlieb von Basel, Hermann von Konstanz, Stephan von Metz, <hi rend="italic">dominus</hi>  Welf, Herzog Berthold von Burgund, Konrad, der Bruder des Kaisers, Pfalzgraf Friedrich von Wittelsbach, Markgraf Hermann von Baden, Herzog Matthäus von Lothringen, die Grafen Rudolf von Pfullendorf, Berthold von Andechs, Hugo von Dagsburg und Sigebert (von Frankenburg/Werd), Walter von Horburg, Vogt Anselm von Straßburg, Heinrich und sein Verwandter Egelolf, der einstige Schultheiß Walter, Dietrich, Simund, Erbo, Rudolf und Nibelung, Propst Reinhard, Dekan Petrus, Kustos Berthold, Kämmerer Heinrich und weitere Straßburger Kanoniker</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Dienstmannen des <span sameAs="recipient"><hi rend="spaced">Straßburger Domstiftes</hi> </span>  auf Bitten des Bischofs Burchard nach dem Vorbild Kaiser Heinrichs V. die Exemtion vom öffentlichen Stadtrecht und die Befreiung von allen fiskalischen Abgaben (<hi rend="italic">de publico autem civitatis iure omnino alieni existant, sed sicut episcopi servientes ita isti solis dominorum suorum utilitatibus insistentes ab omni iure fiscali deinceps nostre auctoritatis instituto sint absoluti</hi>) und dehnt dieses Vorrecht auf die Dienstmannen der Stifte St. Thomas und St. Peter in der Vorstadt von Straßburg aus. <span n="witnesses">Z.: Bischof Burchard von Straßburg, Erzbischof Humbert von Besan?on, die Bischöfe Ortlieb von Basel, Hermann von Konstanz, Stephan von Metz, <hi rend="italic">dominus</hi>  Welf, Herzog Berthold von Burgund, Konrad, der Bruder des Kaisers, Pfalzgraf Friedrich von Wittelsbach, Markgraf Hermann von Baden, Herzog Matthäus von Lothringen, die Grafen Rudolf von Pfullendorf, Berthold von Andechs, Hugo von Dagsburg und Sigebert (von Frankenburg/Werd), Walter von Horburg, Vogt Anselm von Straßburg, Heinrich und sein Verwandter Egelolf, der einstige Schultheiß Walter, Dietrich, Simund, Erbo, Rudolf und Nibelung, Propst Reinhard, Dekan Petrus, Kustos Berthold, Kämmerer Heinrich und weitere Straßburger Kanoniker</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Maguntinus archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DH. V. Stumpf 3180 (VU.) wahrscheinlich von AH (Albert) verfaßt und von A II. E mundiert</span>. <span n="incipit"><hi rend="italic">Quamvis imperialium cura</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamvis imperialium cura</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Nachlaß Grandidier Karton 2 fasc. 2 n<hi rend="sup">o</hi>  142 ex libro salico summi capituli Argentinensis f. 15 (von 1347), Generallandesarchiv Karlsruhe (G). Druck e: Würdtwein, Nova Subsidia 7, 182 n<hi rend="sup">o</hi>  70; Albrecht, Rappoltstein. UB. 1, 12 n<hi rend="sup">o</hi>  18; MG. DF. I. 133. Reg.: Wentzcke, Reg. der Bischöfe von Straßburg 1, 336 n<hi rend="sup">o</hi>  550; Stumpf 3735.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Vogtei Friedrichs über St. Thomas in Straßburg vgl. Wiegand, UB. der Stadt Straßburg 1, 89 n<hi rend="sup">o</hi>  109.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0126" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_133" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 147</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-02-12_1_0_4_2_1_147_147"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-02-12_1_0_4_2_1_147_147"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-02-12_1_0_4_2_1_147_147</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1453219335" value="2016-01-19"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 147</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-02-12" to="1152-12-12">(1152 Februar)-1152 Dezember 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mainz">Mainz</placeName>
+												<location><geo decls="#WGS">47.8333, 11.9667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II ydus decembris, Maguntię</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Alteburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach der Urkunde Erzbischof Heinrichs I. von Mainz von 1151, Acht, Mainzer UB. 2/1, 292 n<hi rend="sup">o</hi>  159, Exemplar A verfaßt von einem Siegburger Empfängerschreiber, der den Kontext mundierte, während A II. C im Protokoll die Worte <hi rend="italic">Fridericus</hi></scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Heinrich von Mainz, Arnold von Köln, die Bischöfe Gebhard von Würzburg, Gunther von Speyer, die Herzoge Friedrich (von Schwaben, der König), Heinrich (von Sachsen), Pfalzgraf Hermann (bei Rhein), die Grafen Gerhard von Nürings (<hi rend="italic">Nuringis</hi>) und Bertholf von Nied (<hi rend="italic">Nitha</hi>), Gottfried von Höchst (<hi rend="italic">Hoste</hi>), Graf Heinrich von Hessen (<hi rend="italic">Hassię</hi>), Propst Arnold (von St. Peter zu Mainz), (Dom)propst Hartmann (oder: Propst von St. Moritz zu Mainz), Propst Giselbert (wohl von Frankfurt) und die Ministerialen Salicho, Hartmud, Eckehard, Getto, Berthold, Werner, Konrad, Lutfrid und Wigand</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt die Gründung des Klosters <span sameAs="recipient"><hi rend="spaced">Alteburg</hi> </span>  (<hi rend="italic">Aldenburg</hi>) bei der Burg Arnsburg durch den Reichsministerialen Konrad von Dreieichenhain (<hi rend="italic">Hagen</hi>) und seine Gattin Luitgard mit Rat und Hilfe des Abtes Nikolaus von Siegburg als Tochterniederlassung dieser Abtei mit ihren einzeln angeführten Besitzungen, trifft Verfügungen über die Rechte des Vogtes, der stets der Gründersippe entnommen werden soll, und erklärt sich als zuständig für Klagen des Klosters gegen den Vogt. <span n="witnesses">Z.: die Erzbischöfe Heinrich von Mainz, Arnold von Köln, die Bischöfe Gebhard von Würzburg, Gunther von Speyer, die Herzoge Friedrich (von Schwaben, der König), Heinrich (von Sachsen), Pfalzgraf Hermann (bei Rhein), die Grafen Gerhard von Nürings (<hi rend="italic">Nuringis</hi>) und Bertholf von Nied (<hi rend="italic">Nitha</hi>), Gottfried von Höchst (<hi rend="italic">Hoste</hi>), Graf Heinrich von Hessen (<hi rend="italic">Hassię</hi>), Propst Arnold (von St. Peter zu Mainz), (Dom)propst Hartmann (oder: Propst von St. Moritz zu Mainz), Propst Giselbert (wohl von Frankfurt) und die Ministerialen Salicho, Hartmud, Eckehard, Getto, Berthold, Werner, Konrad, Lutfrid und Wigand</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach der Urkunde Erzbischof Heinrichs I. von Mainz von 1151, Acht, Mainzer UB. 2/1, 292 n<hi rend="sup">o</hi>  159, Exemplar A verfaßt von einem Siegburger Empfängerschreiber, der den Kontext mundierte, während A II. C im Protokoll die Worte <hi rend="italic">Fridericus</hi>  und <hi rend="italic">rex</hi>  in dem dafür frei gelassenen Raum einsetzte und das gesamte Eschatokoll hinzufügte</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Ad hoc nutu</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc nutu</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fürst zu Solms-Hohensolms-Lich'sches Archiv zu Lich (A). Druck e: Th. Mayer, Diplom Friedrichs I., MÖIG Erg.Bd. 14 (1939) 247; Acht, Mainzer UB. 2/1, 332 n<hi rend="sup">o</hi>  179; Küther, Kloster Arnsburg, Artikelserie des heimatkundlichen Arbeitskreises Lich: Lich in Vergangenheit und Gegenwart (1970) 206; MG. DF. I. 38. Faks.: Teilfaks. bei Th. Mayer a. a. O.; Teilfaks. bei Gawlik, Ziele, Mittelalterliche Textüberlieferungen und ihre kritische Aufarbeitung. Beiträge der MGH zum Dt. Historikertag (1976) 54. Reg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Reg. archiep. Magunt. 1, 348 n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/20-11-1-mainz/nr/b6833038-b264-4fbd-8604-e8ef61845ad8.html" type="internal" n="regesten">158</ref>; Stumpf 3654.</p></div>
+				
+				
+					<div type="commentary"><p>Der Kontext des vorliegenden D. wurde in der Zeit der Vakanz des Thrones im Februar/März 1152 niedergeschrieben, wie sich aus der Freilassung des Namens und des Titels des Herrschers ergibt; die Zeugen sind ebenfalls auf diese Zeit zu beziehen (s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-02-00_2_0_4_2_1_63_63.html" type="internal" n="regesten">63</ref>). Vollendet und beglaubigt wurde das D. dann im Dezember 1152, vgl. dazu Küther a. a. O. 231 ff., Appelt, Wahl (FS. Wiesflecker, 1973) 39 ff. und die Vorbemerkung zu DF. I. 38. - Zur wörtlichen Übernahme des Passus der VU., der dem Kloster das Recht der Klage gegen den Vogt vor dem Erzbischof, d. h. nun nach Übernahme ins Diplom vor dem Konig einräumt, vgl. Falck, Klosterfreiheit, A. f. mittelrh. KG 8 (1956) 64 f. - Erzbischof Heinrich von Mainz ist ebenso wie die anderen genannten Zeugen (der König selbst wird als Herzog von Schwaben genannt) als Handlungszeuge aufzufassen, weshalb diese Urkunde nicht als Zeichen einer Annäherung zwischen dem König und dem Mainzer Metropoliten - so Simonsfeld, Jahrbücher 141 f. - gewertet werden darf, vgl. dazu Büttner, Heinrich von Mainz, ZKG 69 (1958) 265 f. und die Vorbemerkung zu DF. I. 38. - Das vorligende D. wird auch in einer Urkunde des Abtes Gerhard I. von Eberbach von 1174 Juli 16 erwähnt, ed. Acht, Mainzer UB. 2/2, 602 n<hi rend="sup">o</hi>  362.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1442904647" value="2015-09-22"></date><p n="author">Dieter Rübsamen</p><p>Lit.: W. Küther, Die Urkunde Friedrich Barbarossas für Arnsburg, in: Lich. Vergangenheit und Gegenwart, 2. Aufl., Lich 1986, S. 206-252.
+</p>
+<p></p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0052" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221408%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_38" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

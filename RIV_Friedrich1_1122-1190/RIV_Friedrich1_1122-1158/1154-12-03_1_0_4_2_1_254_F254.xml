@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †254</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-12-03_1_0_4_2_1_254_F254"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-12-03_1_0_4_2_1_254_F254"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-12-03_1_0_4_2_1_254_F254</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237530" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †254</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-12-03" to="1154-12-03">1154 Dezember 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Roncaglia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">a</hi>  nonas decenb., Roncalię)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Camaldoli</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DL. III. 108 (VU. I) und dem Privileg Hadrians IV. von 1155 März 14 (JL. 10015, Italia pont. 3, 180 n<hi rend="sup">o</hi>  25; VU. II) in Camaldoli entstandene sorgfältige Nachzeichnung eines von A II. D geschriebenen und in den selbständigen echten Partien</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Ortlieb (<hi rend="italic">Ordibus</hi>) von Basel, Hermann von Konstanz, Konrad von Worms, die Äbte Markward von Fulda, Wibald von Corvey und Stablo, Herzog Heinrich von Sachsen, (Herzog) Berthold von Zähringen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Kloster <span sameAs="recipient"><hi rend="spaced">Camaldoli</hi> </span>  (<hi rend="italic">Camaldulensium monasterium et heremum sancti Saluatoris et sancti Donati</hi>) mit den genannten Besitzungen in seinen Schutz, gewährt ihm den alleinigen Gerichtsstand vor dem Papst oder dem König 〈und bestätigt ihm besonders das Recht, das Fodrum selbst einzusammeln und Wasserleitungen für Mühlen zu bauen〉. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Ortlieb (<hi rend="italic">Ordibus</hi>) von Basel, Hermann von Konstanz, Konrad von Worms, die Äbte Markward von Fulda, Wibald von Corvey und Stablo, Herzog Heinrich von Sachsen, (Herzog) Berthold von Zähringen</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">nach DL. III. 108 (VU. I) und dem Privileg Hadrians IV. von 1155 März 14 (JL. 10015, Italia pont. 3, 180 n<hi rend="sup">o</hi>  25; VU. II) in Camaldoli entstandene sorgfältige Nachzeichnung eines von A II. D geschriebenen und in den selbständigen echten Partien verfaßten D.</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Regię maiestatis dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regię maiestatis dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Angebl</hi>. Orig.: Staatsarchiv Florenz (A). Druck e: Mittarelli, Ann. Camald. 3<hi rend="sup">b</hi>, 473 n<hi rend="sup">o</hi>  307; Schiaparelli-Baldasseroni, Reg. di Camaldoli 2, Reg. chart. Ital. 5 (1909) 211 n<hi rend="sup">o</hi>  1112 unvollst.; MG. DF. I. 90. Reg.: Stumpf 3699.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Entstehung und zum Grad der Verfälschung vgl. die Vorbemerkung zum D. - Beim verlorenen Siegel handelte es sich nach einer Beschreibung in einer notariellen Abschrift von 1312 September 18 im Staatsarchiv Florenz (vgl. Anm. r) um ein SI. 1. - Die im Text erwähnten, früheren Schenkungsurkunden sind zum Teil erhalten, vgl. Schiaparelli-Baldasseroni a. a. O. 14 n<hi rend="sup">o</hi>  666, 161 n<hi rend="sup">o</hi>  996 und 162 n<hi rend="sup">o</hi>  999. - Repetti, Dizionario geografico fisico storico della Toscana 1 (1833) 26, vgl. Scheffer-Boichorst, Regesten, NA 27 (1902) 105, erwähnt zu 1154 ein Diplom für das Camaldulenserkloster S. Savino zu Montione (bei Pisa, vgl. Ital. pont. 3, 373), in dem ihm das Recht verliehen wird, in Montione Wasserleitungen und Kanäle anzulegen. Vielleicht handelt es sich dabei um ein Mißverständnis Repettis, da in dem vorliegenden D. 90 u. a. die Erlaubnis erteilt wird, für die Mühle(n) in Montione Wasserleitungen anzulegen. Heinrich VI. urkundete jedenfalls 1191 für S. Savino, ohne dabei auf eine frühere Urkunde seines Vaters hinzuweisen, B.-Baaken Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-05-29_1_0_4_2_1_176_176.html" type="internal" n="regesten">176</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0089" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_90" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3228</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-02-02_1_0_4_2_4_655_3228"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-02-02_1_0_4_2_4_655_3228"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-02-02_1_0_4_2_4_655_3228</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3228</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-02-02" to="1189-02-02">1189
+									nach Februar 2</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erfährt von Unruhen in der Mark Meißen, wo 								Markgraf Otto wegen seiner Absicht, die Nachfolge seinem jüngeren 								Sohn Dietrich zuzuwenden, von seinem älteren Sohn Albrecht auf der 								Burg <hi rend="italic">Dewin</hi> (Döbeln oder Döben bei Grimma) 								gefangen genommen worden ist. Da der Herrscher wegen des Kreuzzuges 								nicht persönlich eingreifen kann, entsendet er eine Legation an 								Albrecht und befiehlt ihm, seinen Vater freizulassen. Markgraf Otto 								von Meißen ermahnt er, sich mit seinem Sohn wieder auszusöhnen. 								Seinem eigenen Sohn, König Heinrich (VI.), trägt er auf, falls 								nötig, mit Gewalt einzuschreiten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pegav., MG. SS XVI, 266 (nach 1189 								Februar 2); Chron. Montis Sereni, MG. SS XXIII, 161 und 164 (zu 								1188); Ann. Vetero-Cellenses, ed. Opel, Mittheil. der Deutschen 								Gesellsch. zur Erforsch. vaterländ. Sprache und Alterthümer in 								Leipzig 1/2 (1874) 184 f. (zu 1188); vgl. auch Ann. Aquenses, MG. SS 								XXIV, 39 (zu 1189), und Ann. Veterocell., MG. SS XVI, 43.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 214 								f., und Hauser, Staufische Lehnspolitik, 281 f. – In den Ann. 								Pegav., ebda. (etwas weiter unten) heißt es, dass die Freilassung 								Ottos von Meißen erst nach dem Aufbruch des Kaisers und des 								Kreuzheeres von Regensburg (siehe dazu unten Regg. 3259 und 3265) 								erfolgt sei. – Nach dem Wortlaut der Überlieferung im Chron. Montis 								Sereni (<hi rend="italic">… ei sub obtentu gracie sue precepit, ut 									patrem a </hi><hi rend="italic">capitivitate relaxaret, …</hi>) 								wäre es durchaus denkbar, dass in diesem Zusammenhang ein heute 								verlorenes kaiserliches Mandat an Albrecht von Meißen ausgestellt 								wurde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

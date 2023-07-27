@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3426</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-01-15_1_0_4_2_4_856_3426"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-01-15_1_0_4_2_4_856_3426"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-01-15_1_0_4_2_4_856_3426</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3426</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-01-15" to="1190-01-15">1190
+									Januar 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Philippopel (Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Auf Befehl Kaiser Friedrichs verlassen die nach 								Philippopel abgeordneten Teile des Kreuzheeres (siehe dazu oben 								Regg. 3405, 3406, 3407 und 3420) diese Stadt, die beim Abzug in 								Brand gesteckt wird.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 512 (zu 								Januar 15); Hist. de expeditione Friderici (Ansbert), ed. Chroust, 								MG. SS rer. Germ. N.S. 5, 62 (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 117) (ohne Datum); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 149; Tageno, 								ed. Struve, Rerum Germanicarum Scriptores I (1717) 410.</p></div>
+				
+				
+					<div type="commentary"><p>Bei Tageno, ebda., wie auch bei Ansbert erfahren 								wir, dass diese Kreuzritter am Sonntag, dem 21. Januar, nach <hi rend="italic">Constantina/Constantia</hi> (Harmanli an der 								Marica) gelangten und damit den selben Weg nahmen wie ihre Gefährten 								im November des Vorjahres, siehe dazu oben Reg. 3410. – Beim Kaiser 								in Adrianopel trafen diese Teile des Kreuzheeres am 5./6. Februar 								ein, siehe dazu unten Reg. 3430.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

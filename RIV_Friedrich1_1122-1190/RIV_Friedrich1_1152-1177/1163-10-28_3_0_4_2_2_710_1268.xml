@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1268</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_3_0_4_2_2_710_1268"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_3_0_4_2_2_710_1268"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-10-28_3_0_4_2_2_710_1268</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245609" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1268</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-10-28" to="1163-11-13">(1163 Oktober 28-November 13)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Lodi ?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pistoia</hi>  <hi rend="spaced">S. Antimo</hi></recipient>
+				
+				
+				
+					<scribe>Wohl von RH (vgl. Reg. 1266) verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beauftragt den Podestà G(erard) und das Volk von <span sameAs="recipient"><hi rend="spaced">Pistoia</hi> </span>, die von Leuten dieser Stadt dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Antimo</hi> </span>  unter Abt Guido entfremdeten Güter wieder zurückzustellen und befiehlt im besonderen M., den Sohn Rainalds, und dessen Brüder von dem Einfall in die Güter des Klosters und von der Bedrückung der Leute von Marcignana abzuhalten sowie allen Klagen des Abtes und Priors Gerechtigkeit wiederfahren zu lassen. - <span n="clerk">Wohl von RH (vgl. Reg. 1266) verfaßt</span>. <span n="incipit"><hi rend="italic">Perlatum est ad nostre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Perlatum est ad nostre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. im Cod. Conv. Soppr. J. X. 38 f. 62', Nationalbibliothek Florenz (B). Drucke: Schmid, Mitteilungen, Röm. Quartalschrift 19 (1905) 119 n<hi rend="sup"></hi>  1; MG. DF. I. 416. Reg.: Schneider, Reg. Senense 1, 135 n<hi rend="sup"></hi>  346.</p></div>
+				
+				
+					<div type="commentary"><p>Das Kloster S. Antimo hatte im Sommer dieses Jahres eine Urkunde des Reichslegaten Rainald von Dassel (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-01_2_0_4_2_2_664_1222.html" type="internal" n="regesten">1222</ref>) erhalten; schon 1155 hatte sich Hadrian IV. bei mehreren Reichsfürsten für die Abtei eingesetzt (zitiert bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-03-19_1_0_4_2_1_283_283.html" type="internal" n="regesten">283</ref>), vgl. Kehr, Aus Sant'Antimo, QFIAB 10 (1907) 218. - Die zeitliche Einordnung wurde nach dem wahrscheinlichen Zusammenhang mit der Legatentätigkeit Rainalds vorgenommen (vgl. dazu auch dessen vermutlichen Aufenthalt in Pistoia im September 1163, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-09-00_1_0_4_2_2_678_1236.html" type="internal" n="regesten">1236</ref>). Ein Podestà Gerard ist in Pistoia allerdings zu 1158 bezeugt (vgl. schon Simonsfeld, Jahrbücher 325 Anm. 145), weshalb Chiappelli, Gerardo Visconte, Bull. stor. Pistoiese 28 (1926) 41 das Mandat zu diesem Jahr einreiht, vgl. auch von der Nahmer, Reichsverwaltung in Toscana 114 und Ludwig, Podestaten 201 f. sowie Opll, Stadt und Reich 400.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0193" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_416" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

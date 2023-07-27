@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2510</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-07-29_1_0_4_2_3_739_2510"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-07-29_1_0_4_2_3_739_2510"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-07-29_1_0_4_2_3_739_2510</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605818" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2510</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-07-29" to="1179-07-29">1179 Juli 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII. kal. aug., Erphesfordię)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aulę canc. vice Cristiani Mogontinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung von DF.I.567 (= Reg. 1885) und des im Text erwähnten DK.III. 188 wohl verfaßt, mit Sicherheit aber geschrieben von dem aus dem Umkreis des Klosters stammenden Schreiber, der auch DF.I.567 (= Reg. 1885) mundiert hat und von Acht, Mainzer</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Ulrich von Halberstadt, Udo von Naumburg, Siegfried von Brandenburg, Adelhog von Hildesheim, Eberhard von Merseburg, Martin von Meißen, Arnold von Osnabrück, Hermann von Münster und Hugo von Verden, Abt Konrad von Corvey, die Markgrafen Dietrich (der Lausitz) und Otto (von Brandenburg oder Meißen?), Pfalzgraf Otto (von Wittelsbach), Landgraf Ludwig (von Thüringen) und sein Bruder Graf Heinrich Raspo, die Grafen Siegfried von Orlamünde, Rudolf von Pfullendorf, Hermann von Ravensberg, Heinrich von Schwarzburg und sein Bruder, Graf Günther von Käfernburg, des weiteren die Grafen Erwin von Gleichen, Rudolf und Gozmar von Ziegenhain sowie Friedrich von Beichlingen, Albert von Grumbach, Berthold von Wildberg (<hi rend="italic">Wiltberc</hi>), Albert von Hildenburg, Albert von <hi rend="italic">Holnstain</hi>, Folrad von Kranichfeld und viele andere Grafen und Edelfreie</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem von der Matrone Frideruna und deren Sohn Markward von Grumbach zur Zeit seines Oheims, König Konrads II. (= III.), gegründeten <hi rend="spaced">Zisterzienserinnenkloster Ichtershausen</hi>  in Thüringen die Rechte und Freiheiten, darunter die kanonische Wahl des Propstes, den der Erzbischof (von Mainz) investieren soll, die freie Wahl der Äbtissin durch den Propst und die Schwestern, die Erblichkeit der innerhalb der Gründerfamilie unentgeltlich ausgeübten Vogtei und das Verbot der Einsetzung von Untervögten und nimmt die Zisterze unter Propst Ludeger und Äbtissin Hochburg sowie der Priorin Agnes, der Schwester Alberts von Grumbach, im Gefolge der Verfügungen seines Vorgängers und Oheims, König Konrads III., und auf Bitten seines Getreuen Albert von Grumbach, des Nachkommen (Enkels bzw. Sohnes; <hi rend="italic">nepos</hi>) der Frideruna und des Markward, in seinen Schutz. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln, Wichmann von Magdeburg und Konrad von Salzburg, die Bischöfe Ulrich von Halberstadt, Udo von Naumburg, Siegfried von Brandenburg, Adelhog von Hildesheim, Eberhard von Merseburg, Martin von Meißen, Arnold von Osnabrück, Hermann von Münster und Hugo von Verden, Abt Konrad von Corvey, die Markgrafen Dietrich (der Lausitz) und Otto (von Brandenburg oder Meißen?), Pfalzgraf Otto (von Wittelsbach), Landgraf Ludwig (von Thüringen) und sein Bruder Graf Heinrich Raspo, die Grafen Siegfried von Orlamünde, Rudolf von Pfullendorf, Hermann von Ravensberg, Heinrich von Schwarzburg und sein Bruder, Graf Günther von Käfernburg, des weiteren die Grafen Erwin von Gleichen, Rudolf und Gozmar von Ziegenhain sowie Friedrich von Beichlingen, Albert von Grumbach, Berthold von Wildberg (<hi rend="italic">Wiltberc</hi>), Albert von Hildenburg, Albert von <hi rend="italic">Holnstain</hi>, Folrad von Kranichfeld und viele andere Grafen und Edelfreie</span>. — <span n="chancellor"><hi rend="italic">Godefridus imperialis aulę canc. vice Cristiani Mogontinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Heranziehung von DF.I.567 (= Reg. 1885) und des im Text erwähnten DK.III. 188 wohl verfaßt, mit Sicherheit aber geschrieben von dem aus dem Umkreis des Klosters stammenden Schreiber, der auch DF.I.567 (= Reg. 1885) mundiert hat und von Acht, Mainzer UB. 2/2, 756 mit der Sigle 14 bezeichnet worden ist</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Quoniam antecessores nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam antecessores nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Thüringisches Staatsarchiv Gotha (A). Drucke: Stumpf, Acta Maguntina 90 n<hi rend="sup">o</hi>  87; MG.DF.I.785. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  553; Stumpf 4288.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D. — Zu dem unter den Zeugen genannten Albert von <hi rend="italic">Holnstain</hi>, einem fränkischen Edlen, vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 258; zu dem gleichfalls als Zeugen erwähnten Berthold von Wildberg (bei Radebeul, Kr. Meißen-Radebeul) vgl. Plassmann, a.a.O., 260.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0257" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_785" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

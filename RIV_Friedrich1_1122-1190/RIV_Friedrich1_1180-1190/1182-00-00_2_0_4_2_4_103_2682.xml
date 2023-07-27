@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2682</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-00-00_2_0_4_2_4_103_2682"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-00-00_2_0_4_2_4_103_2682"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-00-00_2_0_4_2_4_103_2682</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2682</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-01-01" to="1182-12-31">1182 –
+									–</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>–</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Auf Befehl Kaiser Friedrichs sucht der abgesetzte 								Erzbischof Adalbert von Salzburg, der nach seiner Absetzung als 								Propst von Mělník lebt, dreimal kaiserliche Hoftage auf und erhält 								schließlich sein Erzbistum zurück, wobei der bisherige Inhaber, 								Konrad (von Wittelsbach), verzichten muss und eine Anwartschaft auf 								das erste frei werdende Bistum zugesprochen erhält.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont. Gerlaci abbatis Milovicensis, MG. SS 								XVII, 694.</p></div>
+				
+				
+					<div type="commentary"><p>Die Reinthronisation Adalberts erfolgte 								tatsächlich erst im Herbst 1183, siehe dazu Reg. 2736. – Die 								Aufnahme dieser im Hinblick auf die Nötigung des Wittelsbachers 								Konrad wohl tendenziell entstellten Nachricht erfolgte wegen der 								Hinweise auf die mehrfachen Besuche Adalberts von kaiserlichen 								Hoftagen im Jahr 1182. Diese Besuche lassen sich zwar nicht belegen, 								sind aber angesichts mehrerer bezeugter kaiserlicher Hoftage in 								diesem Jahr (Ostern und Pfingsten in Mainz, August in Nürnberg, 								September in Regensburg, Dezember in Merseburg) durchaus 								denkbar.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1978</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-22_1_0_4_2_3_203_1978"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-22_1_0_4_2_3_203_1978"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-04-22_1_0_4_2_3_203_1978</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597618" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1978</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-04-22" to="1172-04-22">1172 April 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(X kal. maii, Wirceburg)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und — bis auf Signumzeile und Monogramm, die UB eintrug — geschrieben von dem Würzburger Schreiber NM A , der auch D.345 (Reg. 1003) mundierte</scribe>
+				
+				
+					<testis function="witnesses">die Kleriker Dompropst Richolf, Dekan Perseus, Propst Berthold, Kustos Albert, Propst Werner von St. Johannes (Stift Haug), Scholaster Johannes, Kantor Gottfried und Protonotar Wortwin, Siegfried von Mühlberg, Hermann von Katzenelnbogen, Gottfried von Krautheim (alle von Würzburg); die Edelfreien (<hi rend="italic">liberi</hi>) Markgraf Berthold von Vohburg, Graf Albert von Eberstein, Rupert von Castell, Friedrich von Hohentrüdingen, Konrad von Boxberg und sein Bruder Kraft und Rupert von Walldürn; die Ministerialen Konrad von Oberschüpf, Arnold von Rothenburg und seine Söhne Arnold und Walter, die Schultheißen Heinrich und Billung (von Würzburg), Bodo, Hartmut von Bischwind <hi rend="italic">(Bisgoffeswineden</hi>), Dietrich <hi rend="italic">Lohcatere</hi>  (von Würzburg), Folker von Burglauer (<hi rend="italic">Lure</hi>) und Heinrich von Bütthart (<hi rend="italic">Buteriet</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Elekten Reinhard von Würzburg und dessen Nachfolgern</hi>  auf dessen Bitten und zu Ehren der hl. Jungfau Maria, des hl. Kilian und dessen Gefährten (Patrone des Bistums Würzburg) einen Wildbann (<hi rend="italic">bannum ferarum, qui vulgó wiltban dicitur</hi>) innerhalb der namentlich angegebenen Grenzen. <span n="witnesses">Z.: die Kleriker Dompropst Richolf, Dekan Perseus, Propst Berthold, Kustos Albert, Propst Werner von St. Johannes (Stift Haug), Scholaster Johannes, Kantor Gottfried und Protonotar Wortwin, Siegfried von Mühlberg, Hermann von Katzenelnbogen, Gottfried von Krautheim (alle von Würzburg); die Edelfreien (<hi rend="italic">liberi</hi>) Markgraf Berthold von Vohburg, Graf Albert von Eberstein, Rupert von Castell, Friedrich von Hohentrüdingen, Konrad von Boxberg und sein Bruder Kraft und Rupert von Walldürn; die Ministerialen Konrad von Oberschüpf, Arnold von Rothenburg und seine Söhne Arnold und Walter, die Schultheißen Heinrich und Billung (von Würzburg), Bodo, Hartmut von Bischwind <hi rend="italic">(Bisgoffeswineden</hi>), Dietrich <hi rend="italic">Lohcatere</hi>  (von Würzburg), Folker von Burglauer (<hi rend="italic">Lure</hi>) und Heinrich von Bütthart (<hi rend="italic">Buteriet</hi>)</span>. — <span n="clerk">Verfaßt und — bis auf Signumzeile und Monogramm, die UB eintrug — geschrieben von dem Würzburger Schreiber NM A , der auch D.345 (Reg. 1003) mundierte</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Quoniam labilis et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam labilis et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1293 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 406 n<hi rend="sup">o</hi>  523; MG.DF.I.590. Reg.: Stumpf 4134.</p></div>
+				
+				
+					<div type="commentary"><p>Die standesmäßige Gliederung der Zeugenliste entspricht den Würzburger Urkunden dieser Zeit. — Wortwin führt hier erstmals den Titel Protonotar; er gehörte — ebenso wie NM A, der Schreiber des D., dem Kollegiatstift Neumünster zu Würzburg an, hat jedoch an der Ausfertigung des D. keinen Anteil, vgl. dazu die Vorbemerkung zum D. mit weiterführenden Literaturhinweisen. — Zu dem Würzburger Ministerialen Dietrich <hi rend="italic">Lohcatere</hi>  vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 274 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0077" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_590" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

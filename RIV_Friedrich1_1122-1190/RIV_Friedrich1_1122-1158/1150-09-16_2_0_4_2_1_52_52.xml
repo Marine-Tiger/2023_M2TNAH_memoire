@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 52</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-09-16_2_0_4_2_1_52_52"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1150-09-16_2_0_4_2_1_52_52"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1150-09-16_2_0_4_2_1_52_52</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 52</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1150-09-16" to="1150-09-16">1150 (nach September 16)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Zeuge</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich, Herzog (von Schwaben), wird als <span sameAs="recipient"><hi rend="spaced">Zeuge</hi> </span>  der vor König Konrad vollzogenen Übergabe der Ausstattung von Eußerthal an das dortige Kloster durch Rapoto, den späteren Bischof von Speyer, und dessen Brüder, Graf Hartmann von Lobdeburg und Graf Otto (<hi rend="italic">Ordo</hi>) von Alerheim, genannt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einer Urkunde Rapotos von Speyer von (etwa 1170) Mai 28, ed. Remling, UB. Speyer 1, 115 n<hi rend="sup">o</hi>  101.</p></div>
+				
+				
+					<div type="commentary"><p>Die Urkunde ist in zwei Exemplaren erhalten; vgl. zum Verdacht der Fälschung und zu der Bedeutung für die Frühgeschichte von Eußerthal zuletzt Doll, Eußerthal, Mitt. HV Pfalz 68 (1970) 203 ff. - Die Datierung ergibt sich aus der Nennung Bischof Gebhards von Würzburg in der Zeugenreihe, der erst nach dem 16. September 1150 zum Bischof gewählt wurde, vgl. Bernhardi, Konrad III. 858 mit Anm. 49 und Wendehorst, Bistum Würzburg (Germ. sacra N. F. 1, 1962) 154 f. - Friedrich bestätigte diese Übergabe an Eußerthal im Jahre 1186, wobei Teile der Bischofsurkunde in dieses Diplom wörtlich übernommen wurden, Stumpf 4469 von 1186 November 11, vgl. Doll, a. a. O., 205 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0022" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

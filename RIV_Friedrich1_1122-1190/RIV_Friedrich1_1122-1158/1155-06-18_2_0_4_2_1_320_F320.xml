@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †320</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_2_0_4_2_1_320_F320"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_2_0_4_2_1_320_F320"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_2_0_4_2_1_320_F320</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238579" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †320</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1155-06-18">1155 (Juni 18/19)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Rom, St Peter  (Rome apud sanctum Petrum)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2 D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Maria</hi>  <hi rend="spaced">Portu</hi>  <hi rend="spaced">Ravenna</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>das der Nachzeichnung zugrundeliegende echte Diplom wurde unter Verwendung einer interpolierten Kopie des DL. III. 113 (VU. I), des Privilegs Hadrians IV. (JL. 10013 von 1155 März 14; Italia pont. 5, 99 n<hi rend="sup">o</hi>  10; VU. II), einer in der Biblioteca</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Anselm von Ravenna, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda (<hi rend="italic">Uuldensis</hi>), die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Bayern, die Markgrafen Otakar von Steier, Hermann von Verona, Graf Berthold von Andechs (<hi rend="italic">Ardens</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Kölner Erzbischofs und Erzkanzlers des <hi rend="italic">regnum Ytalicum</hi>, Arnold, sowie des Ravennater Erzbischofs und Exarchen, Anselm, in einem verunechteten Diplom das Stift <span sameAs="recipient"><hi rend="spaced">S. Maria</hi> </span>  in <span sameAs="recipient"><hi rend="spaced">Portu</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Ravenna</hi> </span>  in seinen Schutz, bestätigt die zum Teil namentlich angeführten Besitzungen, gewährt den Leuten des Klosters die Entnahme von Brennholz und Holz zur Wiederherstellung der Häuser aus den Wäldern von Medicina, den Kanonikern das freie Verfügungsrecht bei der Erwerbung und Wiederherstellung von Besitzungen und bestimmt, daß nur eine hundertjährige Verjährungsfrist geltend gemacht werden kann, befreit Kleriker und Laien von S. Maria in Portu von der Pflicht der Eidesleistung in Rechtsstreitigkeiten sowie das Stift von Abgaben und Dienstleistungen (<hi rend="italic">nec civitati nec alicui potestati collectam, fodrum, albergariam persolvat sive ad muniendam civitatem seu ad castrum edificandum, sed nec pro adventu imperiali vel regali vel etiam alicuius principis</hi>) und bestätigt die örtliche Immunität innerhalb bestimmter Grenzen (<hi rend="italic">in tota insula, in qua est ęcclesia, neque in toto portu ..., prout circumdatur a fluminibus Candiano scilicet Bidento, Badaleno et mari, nec in ipsorum litoribus nec infra mare seu litoribus fluminum ad unum miliarium</hi>). <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Anselm von Ravenna, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda (<hi rend="italic">Uuldensis</hi>), die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Bayern, die Markgrafen Otakar von Steier, Hermann von Verona, Graf Berthold von Andechs (<hi rend="italic">Ardens</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">das der Nachzeichnung zugrundeliegende echte Diplom wurde unter Verwendung einer interpolierten Kopie des DL. III. 113 (VU. I), des Privilegs Hadrians IV. (JL. 10013 von 1155 März 14; Italia pont. 5, 99 n<hi rend="sup">o</hi>  10; VU. II), einer in der Biblioteca Classense Ravenna im Original erhaltenen Bittschrift, die mit einer interpolierten Kopie des DL. III. 113 eingeleitet ist, (Vorlage III) sowie der DDH. III. 191 und 194 von A II. D verfaßt und geschrieben</span>;<span n="seal"> B. 2 D.</span> <span n="incipit"><hi rend="italic">Transitorii regni dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Transitorii regni dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Angebliches</hi>  Orig.: Domkapitelarchiv Ravenna, aus der zweiten Hälfte des 12. Jh. (A). Drucke: Stumpf, Acta ined. 486 n<hi rend="sup">o</hi>  341; MG. DF. I. 111. Reg.: Stumpf 3713.</p></div>
+				
+				
+					<div type="commentary"><p>Die Goldbulle wird in einer notariellen Abschrift von 1344 Februar 11 beschrieben (vgl. Anm. r). Zur Ausmerzung der &amp;quot;salva-Formel&amp;quot; vgl. die Vorbemerkung von DF. I. 111. Über das vermutliche Ausmaß der Verfälschung vgl. Herkenrath, Ravennater Diplome, RHM 12 (1970) 93 ff., der auch die VUU. und Vorlagen ausführlich behandelt, und Appelt, Vorbemerkung zu DF. I. 111. Zu den Nachurkunden Ottos IV. (B.-Ficker, Reg. <ref type="unmatched">5/1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-09-00_2_0_4_2_1_355_353.html" type="internal" n="regesten">353</ref>) und Friedrichs II. von 1223 (B.-Ficker, Reg. <ref type="unmatched">5/1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1152-00-00_1_0_4_2_2_882_D1440.html" type="internal" n="regesten">1440</ref>) vgl. Herkenrath, a. a. O. 106. Dieses Diplom erwähnt auch Rubeus, Hist. Ravennat. l. VI, 336. Zu einer im Namen Friedrichs erfolgten Stiftung vgl. Fantuzzi, Mon. Ravennati 2, 122 n <hi rend="sup">o</hi>  63, besonders 124.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Sprenger, Heiligkeit von Kaiser und Reich, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 190 Anm. 40, erwähnt, dass Friedrich I. nach einer lokalen Tradition dem Kanonikerstift S. Maria in Portu im Kontext der Bestellung Anselms von Havelberg zum Erzbischof von Ravenna (siehe dazu Reg. 305) eine silberne Marienstatue mit zwei Engeln geschenkt haben soll, nennt dabei aber leider keine Quelle. – Der hier für Erzbischof Anselm von Ravenna belegte Exarchentitel wurde von diesem sowie von seinen beiden Nachfolgern Guido (1158–1167) und Gerard (1167–1190) mehrfach geführt und dürfte auf das vom staufischen Hof ausgehende Bemühen um Hervorhebung der kaiserlichen Autorität in Italien, wo man in Konkurrenz zu Byzanz und dem Papsttum stand, zurückzuführen sein, vgl. dazu künftig Raccagni, A Byzantine title in a post-Byzantine world, in: Mediterranean Historical Review.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0108" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_111" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

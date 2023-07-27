@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2329</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-00_1_0_4_2_3_557_2329"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-00_1_0_4_2_3_557_2329"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-09-00_1_0_4_2_3_557_2329</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2329</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-09-01" to="1177-09-30">1177  September</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich begibt sich mit seinen Fürsten in den Palast des Patriarchen von Venedig zu Papst Alexander (III.), um dessen Erlaubnis zur Abreise aus Venedig zu erhalten. In Gesprächen, die dort zwischen dem Kaiser mit seinen Fürsten und dem Papst mit seinen Bischöfen und Kardinälen geführt werden, fordert Alexander III. gemäß dem Vertrag von Anagni (Reg. 2202) die Rückstellung der <hi rend="italic">regalia sancti Petri</hi>  an die Kirche, was Friedrich mit Ausnahme der Mathildischen Güter und von Bertinoro zugesteht. Zur Regelung der Ansprüche auf diese beiden Besitzkomplexe, die er als Reichsgüter beansprucht, schlägt er die Einrichtung eines Schiedsgerichtes aus je drei Reichsfürsten und drei Kardinälen, dessen Mitglieder er zur Gänze selbst bestimmen will, vor. Obwohl die Mathildischen Güter im Vertrag (von Anagni) ausdrücklich enthalten sind, willigt Alexander schließlich zähneknirschend ein, um den erreichten Frieden nicht zu gefährden. Nominiert werden einerseits Erzbischof Christian von Mainz, Elekt Konrad von Worms und Protonotar Wortwin, andererseits die Kardinalbischöfe H(ubald) von Ostia und W(ilhelm) von Porto sowie Kardinaldiakon Hyacinth (von S. Maria in Cosmedin). Christian von Mainz wird damit beauftragt, die Rückstellung der Regalien an die Kirche binnen drei Monaten durchzuführen. Darauf kniet Friedrich vor dem Papst nieder, küßt dessen Füße und erhält vom Papst und allen Kardinälen den Friedenskuß.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Boso, ed. Duchesne, 443.</p></div>
+				
+				
+					<div type="commentary"><p>Im Hinblick auf die Grafschaft Bertinoro vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-10-00_1_0_4_2_3_572_2344.html" type="internal" n="regesten">2344</ref>. — Friedrich hatte es allerdings schon in den im Juli zu Chioggia geführten Verhandlungen erreicht, daß bei der Bestätigung des Vorvertrags von Anagni (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-07-22_1_0_4_2_3_506_2278.html" type="internal" n="regesten">2278</ref>) die Rückstellung der Mathildischen Güter nicht mehr in den Vereinbarungen enthalten war (siehe dazu auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-06-00_1_0_4_2_3_487_2259.html" type="internal" n="regesten">2259</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0201" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

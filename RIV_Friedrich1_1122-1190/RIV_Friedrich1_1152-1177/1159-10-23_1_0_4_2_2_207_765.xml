@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 765</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-10-23_1_0_4_2_2_207_765"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-10-23_1_0_4_2_2_207_765"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-10-23_1_0_4_2_2_207_765</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242542" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 765</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-10-23" to="1159-10-23">(1159 vor Oktober 23)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>wohl B. 2 (vgl. Boso, ed. Duchesne, 400)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kanzler Roland</hi>  <hi rend="spaced">Kardinälen</hi></recipient>
+				
+				
+				
+					<scribe>Unter möglicher Beteiligung Bischof Eberhards von Bamberg wohl verfaßt von Magister Heribert, Propst von Aachen</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt dem <span sameAs="recipient"><hi rend="spaced">Kanzler Roland</hi> </span>  (Alexander III.) und den <span sameAs="recipient"><hi rend="spaced">Kardinälen</hi> </span>, die ihn zum Papst erwählt haben, zu der für die Oktav nach Epiphanie (= 1160 Januar 13) nach Pavia einberufenen Versammlung der Geistlichkeit, zu der nicht nur in das Reichsgebiet, sondern auch nach England, Frankreich, Ungarn und Dänemark Einladungen ergangen seien, zu kommen, um sich dort dem Schiedsgericht über die zwiespältige Papstwahl zu stellen, bei dem er nichts anderes als die Ehre Gottes und die Einheit der Kirche anstrebe, und bietet ihm sicheres Geleit durch seine an ihn entsandten Legaten, die Bischöfe Hermann von Verden und Daniel von Prag sowie Pfalzgraf (Otto von Wittelsbach). - <span n="clerk">Unter möglicher Beteiligung Bischof Eberhards von Bamberg wohl verfaßt von Magister Heribert, Propst von Aachen</span>; <span n="seal">wohl B. 2 (vgl. Boso, ed. Duchesne, 400)</span>. <span n="incipit"><hi rend="italic">Quoniam divina preordinante</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam divina preordinante</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Rahewini Gesta Frid. l. IV, cap. 65. Drucke: MG. Const. 1, 255 n<hi rend="sup">o</hi>  184; Freiherr vom Stein-Gedächtnisausgabe 17, ed. Schmale (<hi rend="sup">2</hi> 1974) 644; MG. DF. I. 285. Reg.: Stumpf 3869.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich daraus, daß das Schreiben in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-10-23_3_0_4_2_2_209_767.html" type="internal" n="regesten">767</ref>  bereits erwähnt wird. - Zu den nach Rom entsandten Legaten vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-10-23_4_0_4_2_2_210_768.html" type="internal" n="regesten">768</ref>. - Zur verlorenen Ladung an Viktor IV. vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-10-23_2_0_4_2_2_208_D766.html" type="internal" n="regesten">766</ref>. - Die Antwort Alexanders III. in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-11-00_2_0_4_2_2_222_780.html" type="internal" n="regesten">780</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0069" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_285" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

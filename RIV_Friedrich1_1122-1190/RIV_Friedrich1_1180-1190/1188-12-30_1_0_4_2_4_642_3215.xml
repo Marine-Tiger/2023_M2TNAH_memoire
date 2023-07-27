@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3215</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-30_1_0_4_2_4_642_3215"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-30_1_0_4_2_4_642_3215"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-12-30_1_0_4_2_4_642_3215</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848080" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3215</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-12-30" to="1188-12-30">1186
+									(eher 1188) Dezember 29 oder 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Nürnberg (<hi rend="italic">III</hi><hi rend="sup">o</hi> [Überlieferung B: <hi rend="italic">IIII</hi><hi rend="sup">o</hi>]  <hi rend="italic">kal. ianuarii, Nurnberc</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt das mit Rat und Zustimmung der 								Fürsten sowie der anderen Getreuen, sowohl der Edelfreien wie der 								Ministerialen, in der Reichsburg Nürnberg festgelegte <hi rend="spaced">Landfriedensgesetz gegen die Brandstifter</hi>: 								Im Einzelnen wird die Verhängung der Reichsacht für Brandstifter 								vorgeschrieben, wobei allerdings hinsichtlich gerechter Fehde oder 								auch der Verfolgung von Übeltätern durch Richter Ausnahmen gemacht 								werden. Weiters werden die Zuständigkeit von Herzögen, Mark-, Pfalz- 								und Landgrafen sowie Grafen festgelegt und die Strafen für die 								Aufnahme von Brandstiftern und die Gewährung von Schutz für diese 								bestimmt. Geregelt wird die Wiedergutmachung für die Geschädigten, 								wobei gegebenfalls auch der Diözesanbischof mit der Verhängung der 								Exkommunikation und nach erfolgter Absolution mittels der 								Festsetzung einer Sühne in Form einer Fahrt zum Heiligen Grab oder 								nach Santiago de Compostela (<hi rend="italic">visitandi videlicet 									sepulcrum domini aut limina Iacobi apostoli</hi>) einzugreifen 								hat. Geregelt werden das Vorgehen bei Brandstiftung im Gefolge eines 								Herrn, die Überführung von Brandstiftern, die ihre Tat leugnen, und 								der Schutz von Burgen vor Brandstiftung, deren Burgmannen in 								Abwesenheit ihres Herrn eine Brandstiftung begehen. Erlaubt wird die 								Gewährung von Asyl für mit einem Burgherrn verwandte oder durch 								Lehnsrecht verbundene Brandstifter, und es werden Regeln für das 								Vorgehen im Falle von Absagen (Fehdeerklärungen) und hinsichtlich 								der Einhaltung von Waffenstillständen aufgestellt. Abschließend 								werden Bestimmungen gegen die Erwerbung der Ritterwürde durch die 								Söhne von Priestern, Diakonen und Bauern getroffen (<hi rend="italic">ne cingulum militare aliquatenus assumant</hi>) 								und Geldstrafen für die Einsetzung von Unterrichtern (<hi rend="italic">postiudices</hi>) durch Grafen festgelegt. Für die 								Zerstörung von Wein- und Obstgärten wird ebenso die Acht und die 								Exkommunikation verhängt wie für Brandstifter. – <span n="incipit"><hi rend="italic">Decet felicitatis nostrę</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet felicitatis nostrę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des späten 12. Jh. im 								Freisinger Liber traditionum magnus, Hochstift Freising Lit. n<hi rend="sup">o</hi> 3c f. 119‘, Hauptstaatsarchiv München (B); 								Abschrift des späten 12. Jh. im Einband des Cod. lat. 17.161, 								Staatsbibliothek München (C); Abschrift des 13. Jh. im Cod. Vind. 								pal. 2126 (juris civilis 18) f. 196, Nationalbibliothek Wien (D); 								Abschrift des 15. Jh., Burchardi Urspergensis Chronicon, Cod. lat. 								4351 f. 180‘, Staatsbibliothek München (F); Abschrift desselben 								Werkes aus der Mitte des 15. Jh., Cod. n<hi rend="sup">o</hi> 1 								(früher 3) f. 37, Schlossarchiv Petronell (P). Drucke: MG. 								Const. 1, 449 n<hi rend="sup">o</hi> 318; Holder-Egger – Simson, 								Burchardi praepositi Urspergensis Chronicon, MG. SS rer. Germ. in 								us. schol., 65 ff.; Weinrich, Quellen, 308 n<hi rend="sup">o</hi> 								77; MG.DF.I.988. Regg.: Scheffer-Boichorst, Streit mit der 								Kurie, 240 Reg. 86 (zu 1186); Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 755; Nürnberger UB., 1, 65 n<hi rend="sup">o</hi> 91; Stumpf 4473.</p></div>
+				
+				
+					<div type="commentary"><p>In der Datierung findet sich in sämtlichen 								Überlieferungen das Inkarnationsjahr 1187, was auf eine Ausstellung 								zu Ende 1186 hinweisen würde. Sowohl die zum Jahr 1188 passende 								Indiktion wie auch der Hinweis bei Burchard von Ursberg, dass der 								Kaiser dieses Gesetz <hi rend="italic">iam cruce signatus</hi> – 								damit nach dem März 1188 (vgl. Reg. 3145) erlassen hat, nicht 								zuletzt die Überlegung, dass diese Maßnahme sich bestens in die 								Kreuzzugsvorbereitungen einfügt, sprechen aber für eine Ausstellung 								zu Ende des Jahres 1188, wiewohl eine völlig sichere Entscheidung 								letztlich nicht zu fällen ist. Hinsichtlich des Tagesdatums ist 								vielleicht doch dem 30. Dezember der Vorzug zu geben (alle 								Überlieferungen bis auf B sprechen dafür). – Satzungen gegen die 								Brandstifter hatten bereits Innocenz II. (1130 und 1139) sowie Eugen 								III. (1148) erlassen (Mansi, Conciliorum collectio 21, 440, 531 und 								717), woraus auch die Bestimmung übernommen wurde, die es dem 								Bischof freistellte, dem Friedensbrecher die Fahrt zum Heiligen 								Grabe oder nach Santiago de Compostela als Sühne aufzuerlegen. 								Friedrich selbst hatte schon 1177 in Venedig gemeinsam mit Papst 								Alexander III. Bestimmungen gegen Friedensbrecher, darunter auch 								gegen Brandstifter und Zerstörer von Weingärten und Bäumen, 								erlassen, vgl. dazu oben Reg. 2338. – Ebenso wie das 								Scholarenprivileg (D.243 = Reg. 300) sollte auch diese 								Friedensordnung unter die Kaisergesetze aufgenommen werden, 								allerdings ist nicht zu entscheiden, ob dies tatsächlich geschehen 								ist. – Vgl. zu all dem die Vorbemerkung zum D. mit der dort 								zitierten Literatur, darunter vor allem Küch, 								Landfriedensbestrebungen, 70 ff., Herkenrath, Reichskanzlei 1181 bis 								1190, 275 ff., Wadle, Friedebrief, in: Wege europäischer 								Rechtsgeschichte. FS. Karl Kroeschell zum 60. Geburtstag, hg. von 								Gerhard Köbler (Rechtshistor. Reihe, Bd. 60, 1987) 548 ff., und 								Leyser, Hof und Land, in: Friedrich Barbarossa (VuF 40, 1992) 527 								ff. sowie auch Hageneder, Constitutio contra incendiarios, in: FS. 								Peter Landau (2000) 367 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_988" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1192</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-03-13_1_0_4_2_2_634_1192"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-03-13_1_0_4_2_2_634_1192"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-03-13_1_0_4_2_2_634_1192</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245224" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1192</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-03-13" to="1163-03-13">1163 März 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  idus marcii, Nůrenberg)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bamberger</hi>  <hi rend="spaced">Amberger Kaufleuten</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Cunradi Moguntinensis electi et archicanc.</hi></notarius>
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht den <span sameAs="recipient"><hi rend="spaced">Bamberger</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Amberger Kaufleuten</hi> </span>  sowie allen übrigen Angehörigen der Bamberger Kirche auf Bitten Bischof Eberhards von Bamberg in Erneuerung älterer Verfügungen die gleichen Handelsvorteile, nämlich Freiheit von allen Zöllen und Abgaben im ganzen Reich, wie sie die Nürnberger besitzen. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Cunradi Moguntinensis electi et archicanc.</hi> </span>; Bamberger Empfängerausfertigung. <span n="incipit"><hi rend="italic">Cum divina et humana</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum divina et humana</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 14. Jh. Bamberger Kanzleibücher n<hi rend="sup">o</hi>  1 f. 136', Staatsarchiv Bamberg (B); Transsumpt des Domdekans Friedrich und des Domkapitels von Bamberg von 1355 Dezember 14, Stadtarchiv Amberg (C); Transsumpt Kaiser Karls IV. von 1355 Dezember 22 (B.-Huber Reg. 2353), ebenda (D). Drucke: Schenkl, Chronik der Stadt Amberg 13; Nürnberger UB. 50 n<hi rend="sup">o</hi>  72; MG. DF. I. 396. Reg.: Stumpf 3977.</p></div>
+				
+				
+					<div type="commentary"><p>Föhl, Eberhard II. von Bamberg, MÖIG 50 (1936) 102 f. wollte das Diktat Bischof Eberhard von Bamberg persönlich zuweisen. - Eberhard wußte den Amberger Kaufleuten durch seine guten Beziehungen zum Kaiser auch später weitere Handelsvorteile zu verschaffen, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-11-05_1_0_4_2_2_960_1518.html" type="internal" n="regesten">1518</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0174" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_396" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

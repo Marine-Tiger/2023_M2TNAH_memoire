@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1125</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-18_2_0_4_2_2_567_1125"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-18_2_0_4_2_2_567_1125"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-08-18_2_0_4_2_2_567_1125</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244823" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1125</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-08-18" to="1162-08-18">1162 August 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Turin">Turin</placeName>
+												<location><geo decls="#WGS">45.0667, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. septembr., apud Taurinum post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Raimund (von der Provence)</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus archicanc. et sancte Coloniensis ecclesie archiep.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung des Vertrages DF. I. 378 (= Reg. 1117) in besonders feierlichem Stil in der Kanzlei abgefaßt</scribe>
+				
+				
+					<testis function="witnesses">die Elekten Konrad von Mainz und Ulrich von Aquileia, die Bischöfe Hermann von Verden (<hi rend="italic">Fardensis</hi>), Heinrich von Lüttich, Udo von Zeitz, Hermann von Hildesheim und Uguccio von Vercelli, die Äbte Hermann von Hersfeld und Erlebold von Stablo, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), Pfalzgraf Konrad bei Rhein, der Halbbruder (<hi rend="italic">germanus</hi>) des Kaisers, die Herzoge Wladislaus von Polen und Ulrich von Böhmen, Markgraf Albert von Sachsen, Pfalzgraf Otto von Wittelsbach, Burggraf Burchard von Magdeburg, Ulrich von Herrlingen, die Markgrafen Wilhelm von Montferrat, Manfred von Vasto, Hugo der Große von Vasto und Heinrich Guercio von Vasto, Graf Humbert von Biandrate, Markward von Grumbach, Gebhard von Leuchtenberg, Konrad von Ballhausen, Truchseß Rudolf, Kämmerer Hartmann und <hi rend="italic">triscamerarius</hi>  Berthold</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt nach dem Tod seines Freundes, des Grafen Raimund (IV.) von Barcelona, dessen gleichnamigen Neffen, den Gemahl seiner Nichte Richildis, der verwitweten Königin von Spanien, Graf <span sameAs="recipient"><hi rend="spaced">Raimund (von der Provence)</hi> </span>, mit der Grafschaft Provence, der Stadt Arles mit Ausnahme der Gerechtsame von Erzbischof und Kirche von Arles sowie der Grafschaft Forcalquier, deren Graf bisher sein Lehen bei Hofe nicht gemutet hat, und kassiert gleichzeitig die mit Goldbullen besiegelten Belehnungsurkunden Konrads (III.) für Raimund von Baux (DK. III. 132) sowie deren Erneuerung für dessen Söhne (DF. I. 316 = Reg. 887), die Hugo von Baux zur Bestätigung vorgelegt hat, um die Mark bzw. Grafschaft Provence zu erwerben, was hiemit ausdrücklich zurückgewiesen wird. <span n="witnesses">Z.: die Elekten Konrad von Mainz und Ulrich von Aquileia, die Bischöfe Hermann von Verden (<hi rend="italic">Fardensis</hi>), Heinrich von Lüttich, Udo von Zeitz, Hermann von Hildesheim und Uguccio von Vercelli, die Äbte Hermann von Hersfeld und Erlebold von Stablo, Herzog Friedrich von Schwaben, der Sohn König Konrads (III.), Pfalzgraf Konrad bei Rhein, der Halbbruder (<hi rend="italic">germanus</hi>) des Kaisers, die Herzoge Wladislaus von Polen und Ulrich von Böhmen, Markgraf Albert von Sachsen, Pfalzgraf Otto von Wittelsbach, Burggraf Burchard von Magdeburg, Ulrich von Herrlingen, die Markgrafen Wilhelm von Montferrat, Manfred von Vasto, Hugo der Große von Vasto und Heinrich Guercio von Vasto, Graf Humbert von Biandrate, Markward von Grumbach, Gebhard von Leuchtenberg, Konrad von Ballhausen, Truchseß Rudolf, Kämmerer Hartmann und <hi rend="italic">triscamerarius</hi>  Berthold</span>. - <span n="chancellor"><hi rend="italic">Reinaldus archicanc. et sancte Coloniensis ecclesie archiep.</hi> </span>; <span n="clerk">unter Heranziehung des Vertrages DF. I. 378 (= Reg. 1117) in besonders feierlichem Stil in der Kanzlei abgefaßt</span>;<span n="seal"> B. D.</span> <span n="incipit"><hi rend="italic">Cum Romani imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum Romani imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Einzelabschrift des 13. Jh. G 113 f. 6, Departementalarchiv Avignon, am Rande beschädigt (B); Vidimus des 13. Jh. Ms. lat. 9236 n<hi rend="sup">o</hi>  2, Nationalbibliothek Paris (D); Vidimus von 1273 März 17 B 285 n<hi rend="sup">o</hi>  4, Departementalarchiv Marseille (E). Drucke: MG. Const. 1, 305 n<hi rend="sup">o</hi>  216; MG. DF. I. 382. Reg.: Chevalier, Rég. dauphinois 1, 693 n<hi rend="sup">o</hi>  4142; Gallia christ. noviss. 3, 235 n<hi rend="sup">o</hi>  602; Tallone, Regesto dei marchesi di Saluzzo, BSSS 16 (1906) 12 n<hi rend="sup">o</hi>  40; Stumpf 3963.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. die bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-01_1_0_4_2_2_559_1117.html" type="internal" n="regesten">1117</ref>  angeführte Literatur. - Zum Tod Raimunds (IV.) vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-06_3_0_4_2_2_562_1120.html" type="internal" n="regesten">1120</ref>. - Die Streitigkeiten zwischen den Baux und dem Haus Barcelona wurden unter Heranziehung gelehrter Juristen geführt, vgl. dazu Fried, Entstehung des Juristenstandes, 54 mit Anm. 37.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0157" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_382" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1566</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-05-31_1_0_4_2_2_1009_1566"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-05-31_1_0_4_2_2_1009_1566"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-05-31_1_0_4_2_2_1009_1566</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1366974338" value="2013-04-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1566</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-05-31" to="1166-05-31">1166 Mai 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II kal. iunii, apud Frankenefort)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rainald</hi>  <hi rend="spaced">Köln</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus imperialis curię can., et Maguntinę sedis electus</hi></notarius>
+				
+				
+					<scribe>geschrieben von UB, der Anteil am Diktat läßt sich nicht mit Sicherheit zwischen ihm, RG oder einem Kölner Kleriker festlegen</scribe>
+				
+				
+					<testis function="witnesses">Bischof Herold von Würzburg, die Äbte Hermann von Fulda, Burchard von Hersfeld und Albert von Ellwangen, Domdekan Philipp von Köln, Propst Arnold von St. Andreas (zu Köln), Herzog Heinrich von Bayern und Sachsen, Landgraf Ludwig (von Thüringen), Herzog Friedrich von Staufen, Pfalzgraf Otto der Ältere von Wittelsbach und sein Bruder Friedrich, die Grafen Ludwig von Looz und Heinrich von Diez</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Rainald</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>  wegen seiner einzigartigen Verdienste das Vorrecht, daß die bischöflichen Einkünfte und Dienstleistungen sowie der bewegliche Besitz des Hochstiftes, das Vieh, das zur Aussaat bestimmte Korn und das zum Unterhalt der bäuerlichen Hintersassen Erforderliche, künftig zur Zeit der Sedisvakanz nicht vom Fiskus eingefordert werden, sondern ungeschmälert seinem Nachfolger auf dem Bischofsthron verbleiben solle. <span n="witnesses">Z.: Bischof Herold von Würzburg, die Äbte Hermann von Fulda, Burchard von Hersfeld und Albert von Ellwangen, Domdekan Philipp von Köln, Propst Arnold von St. Andreas (zu Köln), Herzog Heinrich von Bayern und Sachsen, Landgraf Ludwig (von Thüringen), Herzog Friedrich von Staufen, Pfalzgraf Otto der Ältere von Wittelsbach und sein Bruder Friedrich, die Grafen Ludwig von Looz und Heinrich von Diez</span>. - <span n="chancellor"><hi rend="italic">Christianus imperialis curię can., et Maguntinę sedis electus</hi> </span>; <span n="clerk">geschrieben von UB, der Anteil am Diktat läßt sich nicht mit Sicherheit zwischen ihm, RG oder einem Kölner Kleriker festlegen</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Nichil potest esse decentius</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nichil potest esse decentius</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Historisches Archiv der Stadt Köln (A). Drucke: Lacomblet, Niederrhein. UB. 1, 288 n<hi rend="sup">o</hi>  417; MG. DF. I. 513. Reg.: Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  836; Stumpf 4072.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0266" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228405%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

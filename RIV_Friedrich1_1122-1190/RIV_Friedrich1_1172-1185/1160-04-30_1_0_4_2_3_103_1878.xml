@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1878</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1160-04-30_1_0_4_2_3_103_1878"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1160-04-30_1_0_4_2_3_103_1878"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-04-30_1_0_4_2_3_103_1878</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430901089" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1878</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-04-30" to="1160-04-30">1160 — 1170 April 30</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt.</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Bamberger Eigenkloster St. Jakob zu Ensdorf</hi>, gelegen im Bistum Regensburg in der Grafschaft Ottos von Stöffling, unter Abt Helmerich auf Bitten Bischof Eberhards von Bamberg und der mit ihm verwandten Fürsten, Pfalzgraf Ottos von Wittelsbach und dessen Bruders Friedrich, in seinen Schutz. Zugleich bestätigt er ihm alle Besitzungen, insbesondere die Gründungsausstattung durch Pfalzgraf Otto von Wittelsbach, den Vater des genannten Otto, dessen Gemahlin Heilica und Bischof Otto von Bamberg, weiters das von Kaiser Heinrich V. (<hi rend="italic">Heinrico quarto imperatore</hi>) an Otto den Älteren (von Wittelsbach) übertragene Gut Weilenbach und das Gut Diendorf. Letzteres hat Konrad von Wolfring nach Kauf vom Reichsministerialen Markward dem Kloster übertragen, was nunmehr im kaiserlichen Auftrag durch den Reichsministerialen Ehrenfried von Schwarzenfeld bekräftigt wird. Schließlich verfügt er, daß die Wahl des Vogtes unter Zustimmung des Bamberger Bischofs von Seiten des Klosters zu erfolgen hat und die Vogtei unentgeltlich auszuüben ist. — <span n="clerk">Außerhalb der Kanzlei verfaßt.</span> <span n="incipit"><hi rend="italic">Quoniam per eum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam per eum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschriften des 15. Jh. im Copiarium des Klosters Ensdorf lt. 10 p. 101 (B) und p. 272 (C), Hauptstaatsarchiv München, jetzt Staatsarchiv Amberg, Kloster Ensdorf 307 p. 101, p. 202 (!); Abschrift von ca. 1495 im Copiarium des Klosters Ensdorf lit. 9 p. 40, ebenda, jetzt Staatsarchiv Amberg, Kloster Ensdorf 306 p. 40 (D). Druck: MG.DF.I.565. Reg.: Stumpf 4547 zu 1156 — 1170 August.</p></div>
+				
+				
+					<div type="commentary"><p>Siehe dazu schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-06-18_1_0_4_2_1_414_412.html" type="internal" n="regesten">412</ref>. — Die zeitliche Einordnung ergibt sich daraus, daß die Schenkung des Gutes Diendorf nach dem Codex traditionum monasterii Ensdorf, ed. Moritz — Freyberg, Sammlung histor.Schriften und Urkunden 2, 215 n<hi rend="sup">o</hi>  89) im Jahre 1160 erfolgte und Abt Helmerich am 30. April 1170 starb (Zitzelsberger, Ensdorf, Verhandlungen des Histor. Vereins Oberpfalz 95, 1954, 28). — Zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. — Offen muß bleiben, ob eine von Moritz — Freyberg, a.a.O., 222 n<hi rend="sup">o</hi>  104 edierte Urkunde von ca. 1179, in der ein Friedrich die Übertragung eines Gutes in <hi rend="italic">Tanheim</hi>  an Ensdorf bestätigte, von Kaiser Friedrich oder Pfalzgraf Friedrich von Wittelsbach ausgestellt wurde. — Die Seitenangabe von Überlieferung C (p. 202; in der DD-Ausgabe: p. 272) wurde mir vom Bayerischen Hauptstaatsarchiv München übermittelt</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0048" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_565" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

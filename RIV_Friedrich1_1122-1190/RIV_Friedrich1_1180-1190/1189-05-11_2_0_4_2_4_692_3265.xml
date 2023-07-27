@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3265</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-11_2_0_4_2_4_692_3265"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-11_2_0_4_2_4_692_3265"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-11_2_0_4_2_4_692_3265</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3265</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-11" to="1189-05-11">1189
+									Mai 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht mit dem Kreuzheer – Teile desselben 								hat er auf dem Landweg vorausgeschickt – zu Schiff über die Donau 								von Regensburg aus nach Wien auf.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 17 (per Schiff, Aufbruch am 11. 								Mai) (deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 78); Hist. peregrinorum, ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 130; Chron. Magni presbiteri, MG. SS XVII, 509 								(Schiff; vor Mai 15); Tageno, ed. Struve, Rerum Germanicarum 								Scriptores I (1717) 407 (irrig zu 1189 nach Ostern = April 9); Ann. 								Benedictoburani, MG. SS XVII, 320 (zu 1191); Ann. Ottenburani 								Isingrimi, MG. SS XVII, 316 (ohne Ort und Datum); Ann. Moguntini, 								MG. SS XVII, 1 (<hi rend="italic">expedicio</hi>); Ann. 								Maurimonasterienses, MG. SS XVII, 181; Ann. Pegav., MG. SS XVI, 266 									(<hi rend="italic">per Danubium</hi>); Ann. Ratisponenses, MG. 								SS XVII, 590 (zu Mai 10); Ann. s. Georgii, MG. SS XVII, 297 (zu 								1191: <hi rend="italic">Iter ad Ierusalem sub imperatore 									Friderico</hi>); Ann. s. Stephani Frisingensis, MG. SS XIII, 54 								(zu Pfingsten = 28. Mai 1189; siehe dazu unten Reg. 3274); Ann. s. 								Trudperti, MG. SS XVII, 292 (zu 1189 ohne Ort und Datum); Ann. 								Scheftlar. maiores, MG. SS XVII, 337 (ohne Ort und Datum); Ann. 								Spirenses, MG. SS XVII, 83 (<hi rend="italic">expedicio</hi>); 								Arnoldi Chron. Slavorum l. IV cap. 7 und l. V cap. 1, MG. SS XXI, 								170 und 179 (nennt Anfang Mai 1189 als Zeitpunkt für den Antritt des 								Kreuzzugs, wobei er sich offensichtlich am Aufbruch von Regensburg 								orientiert); Catalogus abbatum Augiensium, MG. SS XIII, 332 (<hi rend="italic">imperator … transfretavit</hi>; ohne Datum); 								Chounradi Schirensis Ann., MG. SS XVII. 630 (ohne Datum); Hermanni 								Altah. Ann., MG. SS XVII, 385); Cont. Zwetlensis altera, MG. SS IX, 								543 (Schiff); Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 								9 (Schiff). – In den Quellen sind die Angaben zum Aufbruch des 								Kreuzheeres zu höchst unterschiedlichen Daten überliefert, weshalb 								die hier gebotene Zusammenstellung sämtlicher Überlieferungen zum 								Beginn des Kreuzzugs auch durch Verweise auf Regg. 3245 sowie 3274 								zu ergänzen ist.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Eickhoff, Barbarossa im Orient, 								44–53.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

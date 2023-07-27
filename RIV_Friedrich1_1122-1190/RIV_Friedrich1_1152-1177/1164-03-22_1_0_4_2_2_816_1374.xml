@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1374</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-03-22_1_0_4_2_2_816_1374"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-03-22_1_0_4_2_2_816_1374"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-03-22_1_0_4_2_2_816_1374</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242454" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1374</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-03-22" to="1164-06-22">(1164 März 22-Juni 22)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi>  <hi rend="spaced">Salzburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestellt den Erzbischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Salzburg</hi> </span>  auf Bitten der auf dem Hoftag zu Parma (Regg. 1320 ff.) versammelten Reichsfürsten zum Richter in dem Streit zwischen seinen beiden Oheimen, Bischof (Konrad) von Passau und Herzog (Heinrich) von Österreich, und befiehlt ihm, die Angelegenheit unter Beiziehung der Bischöfe (Hartmann) von Brixen und (Roman) von Gurk und wenn möglich auch des Markgrafen (Otakar III.) von Steier gütlich zu regeln oder einen vorläufigen Frieden aufzurichten, bis er entweder selbst zu ihnen kommen oder sie gemäß seinen Befehlen im Gebiet der Mark (Verona) treffen werde. - <span n="incipit"><hi rend="italic">Quanto tempore inextinguibilis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quanto tempore inextinguibilis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. XI 671 f. 521, Landesbibliothek Hannover (D). Drucke: MG. Const. 1, 310 n<hi rend="sup">o</hi>  219; Hödl - Classen, Salzburger Briefsammlung, MG. Briefe VI, 177 n<hi rend="sup">o</hi>  19; MG. DF. I. 449. Reg.: Jaksch, Mon. duc. Car. 1, 186 n<hi rend="sup">o</hi>  242; Fichtenau - Dienst, UB. zur Gesch. d. Babenberger 4/1, 167 n<hi rend="sup">o</hi>  822; Diestelkamp - Rotter, Urkundenregesten 1, 299 n<hi rend="sup">o</hi>  386; Stumpf 3863 zu 1159 August.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der Erwähnung des Hoftags in Parma (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-03-22_1_0_4_2_2_762_1320.html" type="internal" n="regesten">1320</ref>  ff.) und dem Tod Eberhards von Salzburg. Zu dessen Bemühungen um die Schlichtung dieses Bruderzwistes vgl. auch Gesta archiepp. Salisburg., MG. SS XI, 82. - Aus dem Hinweis auf eine möglicherweise vorzunehmende Ladung der beiden Streitenden in die Mark (Verona) könnte an verlorene Ladungsschreiben an die beiden auch im Hinblick auf den Feldzug gegen die Lega Veronese zu denken sein, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-04-00_1_0_4_2_2_796_1354.html" type="internal" n="regesten">1354</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0217" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_449" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

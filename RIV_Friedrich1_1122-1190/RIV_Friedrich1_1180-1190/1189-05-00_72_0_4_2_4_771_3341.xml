@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3341</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_72_0_4_2_4_771_3341"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_72_0_4_2_4_771_3341"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_72_0_4_2_4_771_3341</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3341</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1176–1189 Ende Mai, wohl 1176–78 oder
+								1184–86)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Kanzleigemäß abgefasstes 									Mandat</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich untersagt den <hi rend="spaced">Konsuln</hi>, <hi rend="italic">consiliarii</hi> und dem Volk 								von Tortona, von denen er gehört hat, dass sie von den Besitzungen 								des Domkapitels das kaiserliche Fodrum fordern, die Besitzungen und 								Zehenten der Kirche (von Tortona) mit dieser Abgabe zu belasten. 									–<span n="clerk"> Kanzleigemäß abgefasstes 									Mandat</span>.<span n="incipit"> 									<hi rend="italic">Auribus nostrę maiestatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Auribus nostrę maiestatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 17. Jh., 								Domkapitelarchiv Tortona (D). Druck: MG.DF.I.1028.</p></div>
+				
+				
+					<div type="commentary"><p>Das Mandat stammt jedenfalls aus der Zeit nach der 								Aussöhnung des Kaisers mit Tortona (vgl. Opll, Stadt und Reich, 								443), entweder aus den Jahren 1176–78 oder aus den Jahren des 								letzten Italienzuges (1184–86). Im ersteren Falle könnte es mit dem 								Deperditum für Bischof Obert (D.*1176 = Reg. 2395) 								zusammenhängen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

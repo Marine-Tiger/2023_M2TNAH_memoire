@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †495</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_5_0_4_2_1_497_F495"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-00_5_0_4_2_1_497_F495"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-00_5_0_4_2_1_497_F495</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †495</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-01" to="1157-10-31">(1157 Oktober/November)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hillin</hi>  <hi rend="spaced">Trier</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich führt bei Erzbischof <span sameAs="recipient"><hi rend="spaced">Hillin</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Trier</hi> </span>  Klage über das päpstliche Schreiben, das er in Besançon erhalten hat (vgl. Regg. 484 und 491), in dem die Übertragung des <hi rend="italic">regnum Romanorum</hi>  an ihn durch den Papst als Lehen dargestellt ist (<hi rend="italic">apostolicus scripto nobis mandavit, quod pre oculis mentis haberemus, quomodo ipse nos in tronum regni coronaverit et neque inde penituerit, si maiora beneficia nostra excellentia ab eo suscepisset.... Sed nec patres nostri annuntiaverunt nobis, quod umquam regnum alicui augustorum ab aliquo apostolicorum, regnum inquam Romanorum, beneficiatum sit, sicut iste vesane mentis scribit se nos inbeneficiasse pro eo solo, quod solam unctionem pro reverentia beati Petri ab eo accepimus</hi>.), betont, daß er die Krone durch die Wahl der Fürsten erhalten und vom Papst nur die Salbung empfangen habe, klagt darüber, daß der Papst ohne sein Wissen den Reichsbesitz Viterbo zu seinem Sitz gemacht habe (<hi rend="italic">sine consultu nostro et Bitervium cameram regni sibi fecit sedem</hi>) und überträgt dem Trierer Metropoliten wegen der unrechtmäßigen Handlungsweise des Papstes die Leitung der Kirche diesseits der Alpen. - <span n="incipit"><hi rend="italic">Cum imperatoria dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum imperatoria dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p><ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=" type="external">Stilübung</ref>, Höing, Trierer Stilübungen, AfD 1 (1955) 318 n<hi rend="sup">o</hi>  1.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl dazu auch den ebenfalls fingierten Briefwechsel Hillins mit Papst Hadrian IV., Höing, a. a. O. 322 n<hi rend="sup">o</hi>  2 und 323 n<hi rend="sup">o</hi>  3; vgl. Acht, Mainzer UB. 2/1, 410 n<hi rend="sup">o</hi>  227 und 411 n<hi rend="sup">o</hi>  228. Höing hat sich in der genannten Arbeit und deren 2. Teil, AfD 2 (1956) 125 ff. ausführlich mit diesen Stilübungen beschäftigt und kommt zu dem Ergebnis, daß höchstwahrscheinlich Bischof Eberhard von Bamberg als Verfasser anzusehen ist und die Briefe etwa im März/April 1158 entstanden sind (unsere Einreihung richtet sich dagegen aus praktischen Überlegungen nach dem historischen Zusammenhang mit dem Hoftag zu Besançon im Oktober 1157). Gegen die Interpretation und auch den Nachweis der Verfasserschaft des Bamberger Bischofs wendet sich Goez, Translatio Imperii, 142 ff., der für einen zeitlichen Ansatz in den frühen sechziger Jahren eintritt. Zuletzt hat Zeillinger, Eberhard, MIÖG 78 (1970) 215 ff. zu diesen Fragen Stellung genommen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0167" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1539</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-08_2_0_4_2_2_981_1539"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-08_2_0_4_2_2_981_1539"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-01-08_2_0_4_2_2_981_1539</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247204" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1539</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-01-08" to="1166-01-08">1166 Januar 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI idus ianuarii, Aquisgrani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. laut Corroboratio.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Aachen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus sacri palatii prothonotarius vice Christiani archicanc. et Maguntine sedis electi</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von Wortwin</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Stift und der Stadt <span sameAs="recipient"><hi rend="spaced">Aachen</hi> </span>  (<hi rend="italic">quę caput et sedes regni Theutonici est</hi>) anläßlich der feierlich vollzogenen Heiligsprechung Karls des Großen, über die eingehend berichtet wird (vgl. Reg. 1530), das wörtlich inserierte, (gefälschte) Privileg Karls des Großen (DKa. I. 295), nimmt sie in seinen Schutz und verbrieft ihnen alle Rechte und Freiheiten, im besonderen die Freiheit von allen Abgaben und Zöllen bei ihren im Reich betriebenen Geschäften, die persönliche Freiheit und die Zusage, niemanden irgendeiner Person nach Lehnsrecht zu unterstellen. - <span n="chancellor"><hi rend="italic">Heinricus sacri palatii prothonotarius vice Christiani archicanc. et Maguntine sedis electi</hi> </span>; <span n="clerk">verfaßt und geschrieben von Wortwin</span>; <span n="seal">B. laut Corroboratio.</span> <span n="incipit"><hi rend="italic">Ex quo primitus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex quo primitus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift vom Ende des 12. oder Anfang des 13. Jh. im Kopialbuch des Aachener Marienstiftes Cod. S 1559 f. 4', Universitätsbibliothek Bonn (B); Abschrift des 13. Jh. Add. Ms. 6335 f. 22, Britisches Museum zu London (C); Transsumpt Kaiser Friedrichs II. von 1244 August (B.-Ficker Reg. 3438), Original im Stadtarchiv Aachen (D). Drucke: Meuthen, Aachener Urkunden 81 und 116 n<hi rend="sup">o</hi>  1-2; MG. DF. I. 502. Reg.: Stumpf 4061.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur. - Im Zusammenhang mit dem eingehenden Bericht über die Heiligsprechung Karls des Großen findet sich hier die erste urkundliche Nennung des zweiten Sohnes des Kaisers, des späteren Kaisers Heinrich VI. - Zum D. vgl. Meuthen, Barbarossa und Aachen, Rhein. Vierteljahrsbll. 39 (1975) 34 ff. und Opll, Stadt und Reich 28. - Eine Inschrift rechts neben dem romanischen Westportal der Passauer Abtei Niedernburg nimmt offenbar auf das D. Bezug, vgl. Huyskens, Ein staufisches Denkmal, Ann. d. Hist. Ver. f. d. Niederrhein 155/156 (1954) 87 ff. (zu Huyskens Schluß auf ein DK. III. vgl. Meuthen, Aachener Urkunden 109 30). - Zur Besiegelung mit Goldbulle vgl. die Corroboratio. - Zur Datierung des gefälschten DKa. I. 295 vgl. zuletzt Groten, Studien, ZAGV 93 (1986) 15 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0259" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_502" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3103</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-09-23_1_0_4_2_4_528_3103"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-09-23_1_0_4_2_4_528_3103"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-09-23_1_0_4_2_4_528_3103</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848309" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3103</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-09-23" to="1187-09-23">(1187)
+									September 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Überlingen (<hi rend="italic">IX</hi><hi rend="sup">o</hi><hi rend="italic"> kal. octobris, Vberlingen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. vice Cunradi 										Moguntine sedis archiep. et Germanie 									achicanc.</hi></notarius>
+				
+				
+					<scribe>wohl von GG 									verfasst</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die 									Bischöfe Otto von Bamberg und Gottfried von Würzburg, Domdekan 									Adolf von Köln, Abt Diethelm von der Reichenau, Herzog Leopold 									von Österreich, die Grafen Gerhard von Dollnstein und Gerhard 									(II. Sire de Vadans) von Vienne, Heinrich von Markdorf, Konrad 									von Schussenried und Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster 									Weingarten</hi> Besitzungen, darunter das Gut in Lana, und 								Rechte. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die 									Bischöfe Otto von Bamberg und Gottfried von Würzburg, Domdekan 									Adolf von Köln, Abt Diethelm von der Reichenau, Herzog Leopold 									von Österreich, die Grafen Gerhard von Dollnstein und Gerhard 									(II. Sire de Vadans) von Vienne, Heinrich von Markdorf, Konrad 									von Schussenried und Werner von Bolanden</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. vice Cunradi 										Moguntine sedis archiep. et Germanie 									achicanc.</hi></span>;<span n="clerk"> wohl von GG 									verfasst</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erschließbar aus der Weingartener 								Fälschung D.1033 (= Reg. †194). Druck: MG.DF.I.*964. Reg.: 								Stumpf nach 4485.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekonstruktion dieses Deperditums vgl. die 								ausführlichen Hinweise in der Vorbemerkung zum D. – Die Bestätigung 								des Besitzes von Lana in Südtirol ergibt sich aus einer Urkunde 								Bischof Eberhards von Konstanz von 1265 (Wirtemberg. UB. 6, 186 no 								1796), in der bezeugt wird, dass damals zwei einwandfreie, mit 								Siegeln an Seidenfäden beglaubigte Originale Papst Innocenz’ II. 								(von 1143 April 9, Jaffé-L. 8.335, Germ. Pont. 2/1, 228 no 5) und 								Friedrichs I. vorlagen; das Siegel des Deperditums scheint an der 								Fälschung (D.1033) befestigt worden zu sein. – Bei dem unter den 								Zeugen genannten Grafen Gerhard von Dollnstein handelt es sich um 								den Vogt von Eichstätt, der sich auch nach Grögling (Kr. Neumarkt) 								nannte, vgl. dazu Plassmann, Struktur des Hofes, 285. – Die 								zeitliche Einreihung ergibt sich aus der Zeugenreihe und dem 								kaiserlichen Itinerar (Opll, Itinerar, 92 f.). – Der Aufenthalt in 								diesem Gebiet bezeugt, dass Friedrich damals den Machtbereich Herzog 								Welfs VI., der in Reg. 3117 letztmals als Zeuge am Hofe Barbarossas 								genannt wird, verstärkt in seine politischen Aktivitäten einbezog. – 								Aus der Nennung des Kölner Domdekans Adolf (zu diesem siehe auch 								oben die Bemerkungen bei Reg. 3098) bei Hofe kann wohl auf 								Verhandlungen Erzbischof Philipps von Köln mit dem Kaiser 								geschlossen werden, vgl. dazu Knipping, Reg. Köln 2, no 1304.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_964" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2669</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-00_2_0_4_2_4_90_2669"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-00_2_0_4_2_4_90_2669"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-09-00_2_0_4_2_4_90_2669</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843532" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2669</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-09-01" to="1182-09-30">(wohl
+									1182 Ende September)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">(Regensburg)</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl von Robert verfasst, dessen Diktat die Arenga 									entspricht</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <hi rend="spaced">Juden 									von Regensburg</hi> gemäß seiner Pflicht zur Obsorge für die zur 								kaiserlichen Kammer gehörenden Juden im Reich ihre althergebrachten 								Privilegien, darunter den Handel mit Gold, Silber und anderen 								Metallen sowie mit Handelsgütern aller Art. –<span n="clerk"> 									Wohl von Robert verfasst, dessen Diktat die Arenga 									entspricht</span>. <span n="incipit"><hi rend="italic">Offitium est imperatoriae.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Offitium est imperatoriae.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Unvollständiges Insert in dem in einer 								notariell beglaubigten Abschrift einer Bestätigung des Kardinals 								Campeggio von 1531 Juli 29 überlieferten DF.II. von 1216 Januar 3, 								Sammelband E 1406 f. 35’, Departementalarchiv Straßburg 								(D). Drucke: Scheffer-Boichorst, Juden-Privileg, MIÖG 10 (1889) 								459; Mon. Boica 53, 12 n<hi rend="sup">o</hi> 41; 								MG.DF.I.833. Reg.: Aronius, Reg. z. Gesch. d. Juden 139 n<hi rend="sup">o</hi> 314a.</p></div>
+				
+				
+					<div type="commentary"><p>Intitulatio, Zeugen und Datierung fehlen; die 								zeitliche Einordnung hat entweder (nach Scheffer-Boichorst, a.a.O., 								461) zum Aufenthalt des Kaisers in Regensburg zu Ende September 1182 								oder aber zu dem nächsten Regensburger Aufenthalt zu Pfingsten 1183 								(vgl. Opll, Itinerar, 221, sowie unten Reg. 2710) zu erfolgen; da 								König Heinrich (VII.) den Regensburger Juden 1230 noch weitere 								Rechte bestätigte (B.-Ficker Reg. 4160), könnte das DF.I. auch noch 								weitere Bestimmungen enthalten haben, vgl. Scheffer-Boichorst, 								a.a.O., 460 Anm. 2. – Zur Sache vgl. auch die Vorbemerkung zu 								DH.IV.*509. – Zur Entwicklung der Regensburger Judengemeinde im 								Mittelalter vgl. Schott, Geschichte der jüdischen Gemeinde, in: 								Regensburg im Mittelalter, hg. von M. Angerer und H. Wanderwitz 								unter Mitarbeit von E. Trapp (Regensburg 1995) 251 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_833" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

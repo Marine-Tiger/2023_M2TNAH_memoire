@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2038</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-09-00_1_0_4_2_3_263_2038"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-09-00_1_0_4_2_3_263_2038"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-09-00_1_0_4_2_3_263_2038</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2038</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-09-01" to="1173-09-30">1173  wohl September</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Hermsdorf oder Erbendorf?) <hi rend="italic">Ermindorf/Erndorf</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen <hi rend="spaced">Hoftag</hi>, auf dem König Vladislav von Böhmen und der auf Druck des Kaisers freigelassene Soběslav der Jüngere erscheinen. Der Sohn Vladislavs, Friedrich, der die Herrschaft über Böhmen nicht rechtmäßig aus der Hand des Kaisers, sondern durch Übergabe seines Vaters erhalten hat, wird — ebenso wie sein Vater — nach Fürstenspruch abgesetzt. Darauf wird das Herzogtum Böhmen — der königliche Titel wird nicht gewährt — durch Belehnung mit fünf Fahnen an (Herzog) Ulrich übergeben, der die Herrschaft aber seinem älteren Bruder, Soběslav dem Jüngeren, überläßt. Beide, sowohl Ulrich wie Soběslav, verpflichten sich dem Kaiser eidlich zur Waffenhilfe gegen die Lombarden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont Gerlaci abbatis Milovicensis, MG. SS XVII, 686 (zu 1174, <hi rend="italic">Erndorf</hi>); Arm. Pegav., MG. SS XVI, 260 (zu 1173, <hi rend="italic">Ermindorf</hi>); Ann. Pragenses, MG. SS III, 121 (zu 1174); Arm. s. Rudberti Salisburg., MG. SS IX, 777; Arm. Salisburgensium additamentum, MG. SS XIII, 238; Auctarium Lambacense, MG. SS IX, 555; Chron. Magni presbiteri, MG. SS XVII, 498; Cont. Admunt, MG. SS IX, 584; Cont. Claustroneoburg. III, MG. SS IX, 630 (Verweigerung des königlichen Titels); Hermanni Altahensis Ann., MG. SS XVII, 384; Ioannis Dlugossii Annales lib. VI, ed. Budkowa et al. (1973), 100 (zu 1174; erwähnt, daß Ulrich von Böhmen nach dem Tod seines Vaters Vladislav am Hof des Kaisers im Exil lebte).</p></div>
+				
+				
+					<div type="commentary"><p>Das Chron. Magni presb. weist daraufhin, daß diese kaiserliche Entscheidung in der Folge auch Erzbischof Adalbert von Salzburg, den Sohn Vladislavs, in größte Schwierigkeiten stürzte, da er nach dem Tode seines Vaters (1174 Januar 18) keine Zuflucht mehr fand (zu Adalberts endgültiger Absetzung vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-06-24_2_0_4_2_3_308_2081.html" type="internal" n="regesten">2081</ref>). — Zu den hier geschilderten Ereignissen (vgl. bereits Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-12-00_1_0_4_2_3_227_2002.html" type="internal" n="regesten">2002</ref>  sowie <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-12-00_2_0_4_2_3_228_2003.html" type="internal" n="regesten">2003</ref>) vgl. Giesebrecht, Kaiserzeit V, 714 ff. und Giesebrecht — Simson, Kaiserzeit VI, 506. — Zur Lokalisierung des Ortes des Hoftages vgl. Giesebrecht — Simson, Kaiserzeit VI, ebd., der sich für Hermsdorf unweit Gera ausspricht, während Opll, Itinerar, 58 im Anschluß an die Arbeit von Vollmer, Territorialpolitik, 292 f. mit Anm. 6 an das oberpfälzische Erbendorf im Landkreis Tirschenreuth denkt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0097" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

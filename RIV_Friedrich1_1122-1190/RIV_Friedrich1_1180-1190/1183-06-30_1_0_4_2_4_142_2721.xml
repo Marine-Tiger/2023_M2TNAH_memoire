@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2721</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-30_1_0_4_2_4_142_2721"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-30_1_0_4_2_4_142_2721"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-06-30_1_0_4_2_4_142_2721</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843827" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2721</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-06-30" to="1183-06-30">1183
+									Juni 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Konstanz (<hi rend="italic">II. kal. iulii, Constancie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>In der Kanzlei, wohl 									eher von Robert als von GG verfasst</scribe>
+				
+				
+					<testis function="witnesses">Johannes von Anagni, Kardinalpresbyter von S. 									Marco, die Bischöfe Hermann von Münster, Wilhelm von Asti und 									Anselm von Como, Gottfried, Kanzler des kaiserlichen Hofes, die 									Herzöge Otto von Bayern und Friedrich von Schwaben, sein (= des 									Kaisers) Sohn, Markgraf Berthold von Istrien, die Grafen 									Heinrich von Diez und Diepold von Lechsgemünd sowie Kämmerer 									Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht seinem <hi rend="italic">familiaris</hi> und Freund (<hi rend="italic">dilectum ac 									fidelem nostrum familiaremque amicum</hi>) Bischof Petrus von 								Luni die Grafschaft Luni mit dem Ufer des Hafens von Luni, dem Hafen 								Ameglia und dem Wegzoll (<hi rend="italic">pedagium</hi>). <span n="witnesses">Z.: Johannes von Anagni, Kardinalpresbyter von S. 									Marco, die Bischöfe Hermann von Münster, Wilhelm von Asti und 									Anselm von Como, Gottfried, Kanzler des kaiserlichen Hofes, die 									Herzöge Otto von Bayern und Friedrich von Schwaben, sein (= des 									Kaisers) Sohn, Markgraf Berthold von Istrien, die Grafen 									Heinrich von Diez und Diepold von Lechsgemünd sowie Kämmerer 									Rudolf </span>. –<span n="clerk"> In der Kanzlei, wohl 									eher von Robert als von GG verfasst</span>. <span n="incipit"><hi rend="italic">Cum ex officio.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum ex officio.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Liber jurium 								ecclesiae Lunensis (Codex Pallavicinus) f. 304, Archiv des 								Domkapitels zu Sarzana (B). Drucke: Gentile, Il regesto del 								Codice Pelavicino, Atti della soc. Ligure di stor. patria 44, 350 									n<hi rend="sup">o</hi> 369; MG.DF.I.851. Reg.: Stumpf 								4364.</p></div>
+				
+				
+					<div type="commentary"><p>Friedrich hatte bereits einen Vorgänger Bischof 								Petrus’, wahrscheinlich den Schismatiker Andreas II., mit den 								Regalien und der Grafschaft investiert, vgl. Reg. 1054 und dazu 								Opll, Stadt und Reich, 402 f. – Bischof Petrus, der hier als <hi rend="italic">familiaris amicus</hi> des Kaisers bezeichnet 								wird, gehörte gemeinsam mit dem als Spitzenzeugen genannten Johannes 								von Anagni, Kardinalpresbyter von S. Marco, der päpstlichen 								Gesandtschaft an, die den Herrscher damals in Konstanz aufsuchte, 								vgl. dazu Reg. 2722 sowie Weiß Die Urkunden der päpstlichen Legaten 								von Leo IX. bis Coelestin III., 282. – Beide Legaten, Petrus und 								Johannes, weilten in diesem Jahr am 29. April in Siegburg (nicht: 								Köln – so in der Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in 								us. schol., 133), wo sie die Erhebung der Gebeine des hl. Anno von 								Köln (vgl. dazu schon oben Reg. 2606) durchführten, vgl. dazu Opll, 								Amator ecclesiarum, MIÖG 88 (1980) 84.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_851" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1392</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-08-05_1_0_4_2_2_834_1392"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-08-05_1_0_4_2_2_834_1392"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-08-05_1_0_4_2_2_834_1392</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246363" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1392</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-08-05" to="1164-08-05">1164 August 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(non. augusti, Papie apud sanctum Saluatorem extra muros civitatis)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hautmont</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis electi et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Benützung der Urkunde der Äbtissin Oda von Nivelles von 1164 (Miraeus-Fop-pens, Opera 1, 702; Devillers, Description analytique de cartulaires et de chartiers de Hainaut 3, 156 n<hi rend="sup">o</hi>  58) verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Bischofs Heinrich von Lüttich dem Kloster <span sameAs="recipient"><hi rend="spaced">Hautmont</hi> </span>  eine vertragliche Abmachung mit dem Kloster Nivelles, nach der das Allod Louvroil (<hi rend="italic">Leuoroles</hi>) gegen einen jährlichen Zins von sechs Pfund Valencienner Münze von Nivelles an Hautmont übergeht. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice Reinaldi Coloniensis electi et Ytalie archicanc.</hi> </span>; <span n="clerk">unter Benützung der Urkunde der Äbtissin Oda von Nivelles von 1164 (Miraeus-Fop-pens, Opera 1, 702; Devillers, Description analytique de cartulaires et de chartiers de Hainaut 3, 156 n<hi rend="sup">o</hi>  58) verfaßt und geschrieben von RG</span>; wohl <span n="seal">SI. laut D.</span>  <span n="incipit"><hi rend="italic">Quecumque in contractionibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quecumque in contractionibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. (ohne Datierung) im Chartular des Klosters Hautmont Ms. lat. nouv. acquis. 1386 f. 58, Nationalbibliothek Paris (B); beglaubigte Abschrift von 1773 aus A mit genauer Beschreibung von A (Maße), Coll. Moreau 79 f. 10, ebenda (D). Drucke: Stumpf, Acta ined. 686 n<hi rend="sup">o</hi>  488 zu 1164 Mai oder August Anfang; MG. DF. I. 454. Reg.: Wauters, Table chronol. 2, 768 zu 1174; Devillers, Description analytique 3, 163 n<hi rend="sup">o</hi>  67 zu 1174 (?); Stumpf 4017a und 4539a.</p></div>
+				
+				
+					<div type="commentary"><p>Der Empfänger des D. war das Kloster Hautmont, wie auch aus der Aufteilung der Pön zwischen dem Reich und diesem ersichtlich ist.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0221" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_454" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3145</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-27_5_0_4_2_4_570_3145"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-27_5_0_4_2_4_570_3145"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-03-27_5_0_4_2_4_570_3145</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1453801682" value="2016-01-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3145</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-03-27" to="1188-03-27">1188
+									März 27 ()</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mainz">Mainz</placeName>
+												<location><geo decls="#WGS">47.8333, 11.9667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag Jesu Christi:</hi> 								Friedrich hält einen feierlichen Hoftag, bei dem gemäß päpstlichem 								Dekret und kaiserlichem Befehl (Ann. Egmund.: <hi rend="italic">decreto Romani pontificis et precepto Fritherici 									imperatoris</hi>) zahlreiche Teilnehmer, darunter auch der 								päpstliche Legat, Kardinalbischof Heinrich von Albano, anwesend 								sind. Als Vertreter des verhinderten Bischofs Heinrich von Prag 								nimmt Richolf von Strahov am Hoftag teil (Cont. Gerlaci abbatis 								Milovicensis). Der Kaiser fungiert auf diesem Hoftag nicht als 								Vorsitzender, sondern er ist zur Unterstützung des bevorstehenden 								Kreuzzuges gemeinsam mit seinen Söhnen, König Heinrich (VI.) und 								Herzog Friedrich von Schwaben, tätig (Cont. Zwetlensis altera: <hi rend="italic">non loco imperantis, sed ad subveniendum 									christianitati exhortantis, affuit, non prefuit</hi>). Nach der 								öffentlichen Verlesung eines Schreibens über das Schicksal des 								Heiligen Landes im Vorjahr (Chron. Magni presbiteri: <hi rend="italic">Recitata ibi in publico miserabili tragedia de 									vastatione et direptione populi christiani, quae facta fuit in 									orientali ecclesia, hoc est apud Ierosolimam, superiori anno 									…</hi>; vgl. dazu auch oben Regg. †3141 und †3142) und unter dem 								Eindruck einer Kreuzzugspredigt Bischof Gottfrieds von Würzburg 								nimmt der Kaiser, nachdem er öffentlich die Frage gestellt hat, ob 								er das Kreuz nehmen solle oder nicht, und darauf zum Antritt des 								Kreuzzugs aufgefordert worden ist, gemeinsam mit seinem Sohn, Herzog 								Friedrich von Schwaben (Chron. reg. Col.: dieser nimmt das Kreuz 								schon vor dem Vater), aus der Hand des päpstlichen Legaten, 								Kardinalbischof Heinrichs von Albano, das Kreuz. Ihnen schließen 								sich viele Bischöfe, Fürsten und Edle, darunter die Bischöfe 								Gottfried von Würzburg, Hermann von Münster, Martin von Meißen, 								Rudolf von Lüttich und Heinrich von Straßburg, die Herzöge 								(Friedrich) von Böhmen und (Leopold) von Österreich, Landgraf Ludwig 								von Thüringen, Graf Poppo von Henneberg, Adalbert von Grumbach und 								Adalbert von Hildenburg (bis hieher: Cron. s. Petri Erford. mod.), 								weiters die Grafen Florentius von Holland und Otto von Geldern (Ann. 								Egmund.) sowie eine ungeheure Menge an Rittern (Ann. Magdeburg.: <hi rend="italic">ad eam curiam quatuor milia virorum 								electorum</hi>) an. Der Kaiser sagt im Auftrag des Papstes und mit 								Rat aller Reichsfürsten allen Christen eine allgemeine Heerfahrt 								gegen die Heiden an (Chron. Magni presbiteri: <hi rend="italic">Generalem quoque expeditionem adversus paganos indixit … ex 									mandato papae et ex consilio omnium principum regni …</hi>). Die 								Vorbereitung des Unternehmens soll vom kommenden (17. April 1188) 								bis zum nächsten Osterfest (9. April 1189) erfolgen (Cont. 								Zwetlensis altera), wobei arme Teilnehmer mindestens drei Mark an 								Aufwendungen vorzusehen haben, reichere dagegen nach ihrem Vermögen 								beitragen müssen (Otto von St. Blasien). Zeit und Ort für das 								Zusammentreffen des Kreuzheeres werden mit dem Georgsfest des 								nächsten Jahres (23. April 1189) und Regensburg festgelegt. Den 								ganzen Monat März über kommt es in Mainz zu Übergriffen gegen die 								Juden, allerdings sind der Kaiser und sein königlicher Sohn den 								Juden gewogen (Bericht des Elasar bar Juda). Friedrich söhnt 								sich auf diesem Hoftag über Vermittlung des Kardinallegaten Heinrich 								von Albano mit Erzbischof Philipp von Köln aus: Der Metropolit muss 								einen dreifachen Reinigungseid, zwei wegen des Versäumnisses, die 								Hoftage (zu Worms = Reg. 3096, und Straßburg = Reg. 3116) 								aufzusuchen, einen wegen der <hi rend="italic">in contumeliam 									imperatoris</hi> (Chron. reg. Col.) vorgenommenen Beschwerung 								der Juden mit Geldforderungen, leisten. Die Bedingungen dieser 								Aussöhnung sehen die Zahlung von 2.000 Mark an den Kaiser und 260 an 								den Hof, des Weiteren die Zerstörung eines Stadttores (Chron. reg. 								Col.: <hi rend="italic">ad unam testitudinem</hi>) wie die 								Auffüllung des Stadtgrabens von Köln an vier Stellen auf einer Länge 								von 400 Fuß vor, doch wird erlaubt, die letzteren Maßnahmen bereits 								einen Tag später wieder rückgängig zu machen. Die Kölner müssen 								zudem an vier Stellen ihre neu errichtete, feste Mauer schleifen. 								Friedrich kann die Fehde zwischen Bischof Balduin von Utrecht 								und Graf Otto von Geldern um die Grafschaft Veluwe, an der sich auf 								Seiten des Bischofs Graf Florens von Holland, auf der des Grafen 								Erzbischof Philipp von Köln, Bischof Hermann von Münster, der Herzog 								von Brabant und Graf Adolf von Berg beteiligt haben, beilegen. 								Friedrich überträgt auf diesem Hoftag seinem Sohn, König 								Heinrich (VI.), gemeinsam mit der Regentschaft des Reiches auch die 								Beilegung des Trierer Bischofsstreites. Friedrich beruft noch 								in Mainz einen allgemeinen Hoftag nach Goslar ein, wohin er auch 								Heinrich den Löwen lädt (Arnoldi Chron. Slavorum).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Aquenses, MG. SS XXIV, 39; Ann. 								Augustani min., MG. SS X, 9 (zu 1187 März 27); Ann. Magdeburg., MG. 								SS XVI, 195 (zu März 27; Antritt des Kreuzzuges auf Georgsfest 1189 								festgelegt); Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. 								schol., 59 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 176 ff. (zu März 27; nach dem Ende des Hoftags beschließt 								der Kaiser Zeitpunkt und Weg des Kreuzzuges, verschiebt den Antritt 								des Unternehmens aber vom diesjährigen [1188 April 17] auf das 								nächste Osterfest [1189 April 9]); Scheffer-Boichorst, Ann. 								Patherbrunnenses, 178 (ohne genaues Datum; Bischof von Würzburg 								übergibt dem Kaiser und dessen Sohn das Kreuz); Ann. Stadenses, MG. 								SS XVI, 351 (nennt die Herzöge von Böhmen und Österreich); Arnoldi 								Chron. Slavorum l. IV cap. 7 und l. V cap. 1, MG. SS XXI, 170 und 								179 (nennt Anfang Mai 1189 als Zeitpunkt für den Antritt des 								Kreuzzugs, wobei er sich offensichtlich am Aufbruch von Regensburg 								orientiert, siehe dazu unten Reg. 3259; Einberufung des Goslarer 								Hoftages); Chron. Albrici monachi Trium Fontium, MG. SS XXIII, 861 								(ohne Datum; Heinrich von Albano vermittelt Aussöhnung mit Philipp 								von Köln; 68 große Fürsten nehmen gemeinsam mit dem Kaiser das 								Kreuz); Chron. Magni presbiteri, MG. SS XVII, 509; Chron. reg. Col., 								ed. Waitz, MG. SS rer. Germ. in us. schol., 139; Cont. Garstensis, 								MG. SS IX, 594; Cont. Gerlaci abbatis Milovicensis, MG. SS XVII, 706 									(<hi rend="italic">… episcopus Heinricus venire non posset, 									misit Ricolfum de Stragov, virum litteratum, qui reversus omnia 									que ibi vidit et audivit, prius episcopo, deinde omnibus nobis 									fideliter narravit</hi>); Cont. Zwetlensis altera, MG. SS IX, 								543; Cron. s. Petri Erford. mod., ed. Holder-Egger, MG. SS rer. 								Germ. in us. schol., 194 f. (Antritt des Kreuzzuges auf das 								Georgsfest 1189 festgelegt); Cron. Reinhardsbrunn., MG. SS XXX/1, 								543 (spricht von 13.000, die das Kreuz nehmen) und 545 (Landgraf 								Ludwig von Thüringen nimmt das Kreuz am selben Tag wie der Kaiser); 								Gesta epp. Traiectensium c. 5 und 10, MG. SS XXIII, 404 und 406 f.; 								Ex gestis Henrici II. et Ricardi I., MG. SS XXVII, 110 (ohne Ort und 								Datum; Aufbruch nach Regensburg auf die Zeit vor dem Georgsfest 								festgelegt); Gestorum Treverorum Cont. III., MG. SS XXIV, 388 f. 								(ohne Datum; erwähnt Aussöhnung mit Philipp von Köln und Übertragung 								der Beilegung der Trierer Frage an König Heinrich); Gislebert von 								Mons, ed. Vanderkindere, 206 (ohne Datum); Hist. de expeditione 								Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 14 f. 								(deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 2002, 75 f.) (zu 1188 März 27); Hist. peregrinorum, ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 125 f.; Hugonis Chron. Cont. 								Weingartensis, MG. SS XXI, 476; Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 278 f. (ohne Ort und Datum) sowie 289 								(irrig nach dem Antwortschreiben Saladins an den Staufer, siehe dazu 								unten Reg. †3211; englische Übersetzung bei: Nicholson, Chronicle of 								the Third Crusade. A Translation of the Itinerarium Peregrinorum, 								1997, 49 c. 18 und 54 c. 19 [irrig wird hier Metz genannt]); Otto 								von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. 								schol., 44 f. = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 88 ff. (zu März 27; nennt Anfang Mai 1189 als Zeitpunkt für 								den Antritt des Kreuzzugs, wobei er sich offensichtlich am Aufbruch 								von Regensburg orientiert, siehe dazu unten Reg. 3259; irrig gibt 								Schmale in seiner Edition – a.a.O., 89 Anm. 7 – den 20.–27.3.1188 								als Zeitraum des Mainzer Hoftages an); Ex Rogeri de Hoveden 								Chronica, MG. SS XXVII, 149 (ohne Ort und Datum: <hi rend="italic">accepta cruce de manu Henrici Albanensis episcopi 									cardinalis</hi>); Ex Rogeri de Wendover floribus historiarum, 								MG. SS XXVIII, 34 (ohne Ort und Datum: <hi rend="italic">… imperator 									ad predicationem Henrici Albanensis episcopi … crucem … 									suscepit.</hi>); Salloch, Die lateinische Fortsetzung Wilhelms 								von Tyrus (Greifswald 1934) 91 (zu 1188 ohne Ort: <hi rend="italic">Fredericus … una cum vote peregrinationis crucem suscepit per 									manum Henrici Albanensis episcopi et apostolice sedis 									legati.</hi>) und 99 (zu 1188, Mainz); vgl. des Weiteren Ex Ann. 								Gemmeticensibus, MG. SS XXVI, 509 (ohne Ort und Datum); Ann. s. 								Pauli Virdunensis, MG. SS XVI, 501; Ann. Stederburg., MG. SS XVI, 								221 (ohne Ort und Datum); Caesarii Catalogus archiepiscoporum 								Coloniensium Cont. II, MG. SS XXIV, 345 (ohne Datum); Chounradi 								Schirensis Ann., MG. SS XVII. 630 (ohne Datum; nennt irrig Würzburg 								als Ort des Hoftages); Ex Chron. univ. Anonymi Laudun., MG. SS XXVI, 								451 (teilweise irreführend verknüpft mit dem Mainzer Reichstag von 								1184); Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. 								genootschap Utrecht 3. Ser. 61 (1933) 185; Ann. Engelbergenses, MG. 								SS XVII, 279 (zu 1187 ohne Ort und Datum); Ann. Salisburgensium 								additamentum, MG. SS XIII, 238 (ohne Ort und Tag); Ann. s. Stephani 								Frisingensis, MG. SS XIII, 54 (ohne Ort und Tag); Chron. Montis 								Sereni, MG. SS XXIII, 161 (ohne Datum); Cont. Claustroneoburg. II., 								MG. SS IX, 618 (ohne Datum und Ort); Cont. Claustroneoburg. III., 								MG. SS IX, 633 (ohne Datum und Ort); Gesta epp. Halberstadensium, 								MG. SS XXIII, 110 (ohne Ort und Datum); E Giraldi Cambrensis 								Instructione principis, MG. SS XXVII, 404 (zu März 27); Lamberti 								Parvi Ann., MG. SS XVI, 649; Roberti canonici s. Mariani 								Autissiodorensis Chron., MG. SS XXVI, 253 (ohne Ort und Datum); 								Sigeb. Cont. Aquicinct., MG. SS VI, 425; Willelmi Chron. Andrensis, 								MG. SS XXIV, 719; Ex Willelmi Neuburgensis Historia Anglicana, MG. 								SS XXVII, 235 f. (ohne Ort und Datum); Bericht des Elasar bar Juda, 								in: Hebräische Berichte, hg. von A. Neubauer und M. Stern, ins 								Deutsche übersetzt von S. Baer (Quellen zur Geschichte der Juden in 								Deutschland II, 1892) 216 ff.; vgl. auch <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Mainzer 								Regg. II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/ce184db6-532f-490d-8a6c-439a35176341.html" type="internal" n="regesten">197</ref>; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 1317; Wentzcke, Reg. Straßburg n<hi rend="sup">o</hi> 640, vgl. n<hi rend="sup">o</hi> 633; 								B.-Baaken Reg. 66b.</p></div>
+				
+				
+					<div type="commentary"><p>Zu diesem Mainzer Hoftag vgl. Giesebrecht – 								Simson, Kaiserzeit VI, 183 ff., Fleckenstein, Barbarossa und das 								Rittertum, in: FS. Hermann Heimpel 2 (Veröff. des 								Max-Planck-Instituts für Geschichte 36/2, 1972) 1023 ff., und 								Eickhoff, Barbarossa im Orient, 35 ff.; zum Verhältnis zu Köln liegt 								umfassende Literatur vor, vgl. oben Reg. 2559 sowie zuletzt – im 								Überblick – Groten, Köln und das Reich, in: Stauferreich im Wandel. 								Ordnungsvorstellungen und Politik in der Zeit Friedrich Barbarossas, 								hg. von Stefan Weinfurter (Mittelalter-Forschungen 9, Stuttgart 								2002) 237 ff. – Zu den Ausschreitungen gegen die Juden vgl. die 								Hinweise bei Ziwes, Studien zur Geschichte der Juden im mittleren 								Rheingebiet (Forschungen zur Geschichte der Juden, A, 1, 1995) 223 								mit Anm. 8, sowie in größerem Zusammenhang auch Chazan, Frederick I, 								Viator 8 (1977) 93 ff.; vgl. weiters Germania Judaica I, 72, 181 f. 								und 200. Zu den Nachrichten der Kölner Königschronik betr. Juden 								vgl. Aronius, Regesten zur Geschichte der Juden, 147 no 325. – Im 								Rahmen der Aussöhnung mit dem Kölner Metropoliten könnte Friedrich 								Erzbischof Philipp von Köln auch die Reichshöfe Andernach und 								Eckenhagen wieder entzogen haben, siehe dazu die Erwähnung im DO.IV. 								von 1198 für Erzbischof Adolf von Köln, B.-Ficker Reg. 200, 								Knipping, Reg. Köln 2, no 1550 (und dazu bereits oben bei Reg. 								1691). – Zur Utrechter Fehde siehe oben Reg. 3097 (auch Giesebrecht 								– Simson, Kaiserzeit VI, 162 und 184). – Zum Trierer Bischofsstreit 								siehe die Literaturhinweise oben Reg. 2705.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

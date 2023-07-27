@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3149</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_2_0_4_2_4_574_3149"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_2_0_4_2_4_574_3149"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-01_2_0_4_2_4_574_3149</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3149</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-01" to="1188-04-01">(wohl
+									bald nach 1188 April 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich richtet in Vorbereitung des 								Kreuzzugsunternehmens ein Schreiben an <hi rend="spaced">Sultan</hi> 								<hi rend="spaced">(Kilidsch Arslan) von Ikonium</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Chron. reg. Col., 								ed. Waitz, MG. SS rer. Germ. in us. schol., 141; vgl. auch die 								Angaben über ein von einem Boten überbrachtes Schreiben des Kaisers 								an die Seldschuken im Brief des Katholikos (Patriarchen) von 								Armenien Gregor (IV.) (beim Absender könnte es sich auch um Bar 								Krikour Basil, einen Basilios, Sohn des Gregor, oder auch einen 								anderen Gregor, Enkel des Basilios von Rhom-gla handeln) an Sultan 								Saladin, überliefert in: Bahā’ al-Dīn, History of Saladin, transl. 								by D. S. Richards (2002) 115 (in einer alten deutschen Übersetzung 								auch bei Wilken, Geschichte der Kreuzzüge 4, 3 ff.).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich daraus, dass 								von diesem Schreiben im Anschluss an den Mainzer Hoftag des Jahres 								1188 berichtet wird. – Der Seldschukenfürst zeigte sich über das 								gemeinsam mit Geschenken durch Gottfried von Wiesenbach überbrachte 								Schreiben (siehe dazu Reg. 3151) sehr erfreut und versprach dem 								Herrscher jegliche Unterstützung, die dann allerdings ausbleiben 								sollte, vgl. dazu Chron. reg. Col., ebda., sowie die einschlägigen 								Regesten des Jahres 1190. – Von einer seldschukischen 								Gegengesandtschaft an den Kaiser in Beantwortung dieser Legation 								berichtet gleichfalls die Chron. reg. Col. (siehe unten Reg. 								3214).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

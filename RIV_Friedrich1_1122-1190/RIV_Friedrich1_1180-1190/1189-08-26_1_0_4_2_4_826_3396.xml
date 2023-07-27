@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3396</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-26_1_0_4_2_4_826_3396"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-26_1_0_4_2_4_826_3396"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-08-26_1_0_4_2_4_826_3396</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3396</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-08-26" to="1189-08-26">1189
+									August 26 und danach</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Philippopel (Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verlegt das Lager des Kreuzheeres hinein 								in die Stadt Philippopel, wo man bessere Unterkunftsbedingungen 								vorfindet und elf bzw. zwölf Wochen lang bleibt (elf Wochen: Hist. 								de expeditione; zwölf Wochen: siehe Reg. 3411). Wegen der Weigerung 								des Basileus, dem Kreuzheer den Durchzug zu gestatten, wie auch 								wegen der Gefangennahme der kaiserlichen Legaten (siehe dazu oben 								Reg. 3392) beginnt der Kaiser, byzantinisches Gebiet verwüsten zu 								lassen. Friedrich lässt eine fünfte Heeresgruppe (Treffen) 								aufstellen, die aus Fußtruppen und den Stärkeren der Knappen 								besteht. Von überall her kommende Armenier und einige Bulgaren 								bitten den Kaiser und das Heer um die Zusicherung des Friedens gegen 								die Gewährleistung entsprechender Versorgung zu Philippopel. Als 								einige ungestüme Jugendliche aus dem Kreuzheer den Markt plündern, 								werden diejenigen, die man ergreifen kann, auf Befehl des Kaisers 								enthauptet. Die Armenier versorgen daraufhin den Markt umso 								bereitwilliger. Im Laufe des Aufenthalts in Philippopel setzt im 								Kreuzheer ein Verfall der Moral ein – erwähnt werden Raub, Mord, 								Habgier und Hurerei –, worüber Friedrich sehr bestürzt ist und woran 								er heftige Kritik übt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. IV cap. 9 und 10, 								MG. SS XXI, 172 f. (ohne Datum; spricht irrig von einem 17 bzw. 18 								Wochen lang währenden Aufenthalt in Philippopel); Dietpoldi epistola 								(Chron. Magni presbiteri), MG. SS XVII, 510 (ohne Datum); Chron. 								reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 145 f. 								(Vorgehen gegen Plünderung des Marktes); Gesta Fed. I. imp. in 								expeditione sacra, ed.  Holder-Egger, MG. SS rer. Germ. in us. 								schol., 82 f. (drei Monate lang); Hist. de expeditione Friderici 								(Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 35 (Aufstellung 								des fünften Heerestreffens) und 38 ff. (zu August 24 und 26) sowie 								45, vgl. a.a.O., 58 ff. (Armenier und Bulgaren sichern Versorgung in 								Philippopel. Über den Verfall der Moral berichtet Ansbert im 								Zusammenhang mit ähnlichen Entwicklungen während des Aufenthalts in 								Adrianopel/Edirne, siehe dazu unten Reg. 3425, siehe dazu die 								deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 								2002, 90, 94 ff. und 115); Hist. peregrinorum, ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 140 ff.; Iohannes de Piscina de transfretatione 								Friderici I., MG. SS XXII, 339 f. (ohne Datum); Lamberti Parvi Ann., 								MG. SS XVI, 650; Niketas Choniates II/4, ed. Bekker, 527 bzw. ed. 								van Dieten, 403 (deutsche Übersetzung bei Grabler, Abenteurer auf 								dem Kaiserthron, 206 f.); Otto von St. Blasien, Chronica, ed. 								Hofmeister, MG. SS rer. Germ. in us. schol., 47 = ed. Schmale, 								Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 92 f. (ohne Datum; 								spricht von einer Eroberung der Stadt); Ann. Pegav., MG. SS XVI, 266 								(zu Oktober 1); vgl. Ex Willelmi Neuburgensis Historia Anglicana, 								MG. SS XXVII, 237 (berichtet als einzige Quelle von einer Einnahme 								von Thessalonike durch die von Philippopel aus das byzantinische 								Gebiet verwüstenden Kreuzfahrer, wobei unklar bleibt, ob dies 								zutrifft); L’estoire de Eracles (Recueil des Historiens des 								Croisades, Sér. II: Historiens occidentaux, Tom. 2, 1859) 131 f. 								lib. XXIV cap. XXI = Continuation de Guillaume de Tyr, ed. Morgan 								(Doc. relatifs à l’histoire des Croisades 14, 1982) 93 cap. 88 = The 								Old French Continuation of William of Tyre, 1184–1197, ed. Edbury, 								The conquest of Jerusalem and the Third Crusade. Sources in 								Translation (1996) 84 cap. 88 (militärisches Vorgehen gegen 								byzantinisches Gebiet).</p></div>
+				
+				
+					<div type="commentary"><p>Am 24. August (siehe oben Reg. 3392) war man bei 								Philippopel eingetroffen, nunmehr wurde das Lager in die Stadt 								selbst hinein verlegt. – Zu der bereits beim Aufbruch von Niš 								vorgenommenen Gliederung der Truppen in vier Heeresgruppen bzw. 								-treffen siehe oben Reg. 3385. – Vgl. zu den Geschehnissen 								Giesebrecht – Simson, Kaiserzeit VI, 229 ff., Zimmert, Der 								deutsch-byzantinische Konflikt, Byzantin. Zs. 12 (1903) 52, und 								Eickhoff, Barbarossa im Orient, 67 ff. – Zum Verhalten der Armenier 								vgl. die Hinweise bei Halfter, Staufer und Armenien, in: Von 								Schwaben bis Jerusalem (FS. G. Baaken), hg. von Lorenz – Schmidt 								(Veröff. des Alemann. Instituts, Nr. 61, 1995) 192.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

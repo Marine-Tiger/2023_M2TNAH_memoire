@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. D591</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-09-00_2_0_4_2_2_33_D591"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-09-00_2_0_4_2_2_33_D591"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-09-00_2_0_4_2_2_33_D591</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. D591</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-10-01" to="1158-12-31">(1158 nach September)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt den Mainzer Ministerialen Arnold den Roten, der gemeinsam mit den Erzbischof Arnold von Mainz in Opposition gegenüberstehenden Mainzern, namentlich Propst Burchard von Jechaburg, Abt (Gottfried) von St. Jakob, Embricho, Sohn des Meingot, und Werner von Bolanden, an den Hof gezogen ist, und gewährt ihm auf dessen Appellation gegen den Spruch über die Heersteuer (Reg. 584) hin ein Schreiben (<hi rend="italic">litteras dimissorias</hi>) (an den Erzbischof), das ihm - gegen Genugtuung - die Wiederaufnahme in die Stadt sichern soll.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Vita Arnoldi, ed. Jaffé, Bibl. rer. Germ. 3, 630f., vgl. auch Ann. s. Disibodi, MG. SS XVII, 29.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Giesebrecht, Kaiserzeit V, 363f. sowie Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-08-00_1_0_4_2_2_26_D584.html" type="internal" n="regesten">584</ref>. - Die zeitliche Einordnung ergibt sich daraus, daß Erzbischof Arnold Italien im September 1158 verließ, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-09-00_1_0_4_2_2_29_587.html" type="internal" n="regesten">587</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0027" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

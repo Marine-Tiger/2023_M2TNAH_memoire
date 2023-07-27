@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1402</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-24_1_0_4_2_2_844_1402"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-24_1_0_4_2_2_844_1402"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-24_1_0_4_2_2_844_1402</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246616" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1402</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-09-24" to="1164-09-24">1164 September 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(octavo kal. octubr., Papie in pallacio [!] sancti Saluatoris)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Alberich</hi>  <hi rend="spaced">Lodi</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canz. vice domini Rainaldi Coloniensis archiep. et Italie archicanz.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von CE</scribe>
+				
+				
+					<testis function="witnesses">Bischof Garsidonius von Mantua, Markgraf (Wilhelm) von Montferrat, die beiden Kapelläne Magister Stephan und Magister Paganus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt den Bischof <span sameAs="recipient"><hi rend="spaced">Alberich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Lodi</hi> </span>  und dessen Kirche mit all ihren namentlich genannten Besitzungen in seinen Schutz und belehnt ihn und seine Nachfolger mit den Regalien (<hi rend="italic">Ista enim sunt regalia, que ei in eisdem locis damus: districtum, fodrum, placitum, bannum, pedagium, toloneum, iurisdiccionem, arimannie, mercata, albergarie, molendina, aque aquarumque ductus, lacus, piscationes, venationes, auqaticum, ripaticum cum ripis, rupinis, pascuis, pratis, silvis, glareis, bona vacancia, cum viis et inviis, divisis et indivisis</hi>) in diesen Gütern, behält sich jedoch das kaiserliche Fodrum und die anderen kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: Bischof Garsidonius von Mantua, Markgraf (Wilhelm) von Montferrat, die beiden Kapelläne Magister Stephan und Magister Paganus</span>. - <span n="chancellor"><hi rend="italic">Cristianus canz. vice domini Rainaldi Coloniensis archiep. et Italie archicanz.</hi> </span>; <span n="clerk">verfaßt und geschrieben von CE</span>. <span n="incipit"><hi rend="italic">Inter cetera imperialium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter cetera imperialium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des 13. Jh., bischöfliches Archiv Lodi (B); Abschrift von 1311, König Heinrich VII. mit der Bitte um Bestätigung vorgelegt (Ughelli, Italia sacra ed. II. 4, 678), ebenda (C). Drucke: Vignati, CD. Laudense 2, 20 n<hi rend="sup">o</hi>  14; MG. DF. I. 459. Reg.: Stumpf 4028.</p></div>
+				
+				
+					<div type="commentary"><p>1181 wurde dieses D. als Beweismittel in einem Streit mit Uberto da Merlino verwendet; der Erfolg resultierte daraus, daß sich der Gegner der Lodeser Kirche dann dem Spruch des von von den Cremoneser Konsuln delegierten Richters, Ponzone degli Inghiroldi von Cremona, fügen mußte, Vignati, CD. Laudense 2, 117 n<hi rend="sup">o</hi>  95.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Das in DF.I.459 unter den Besitzungen der bischöflichen Kirche von Lodi angeführte Cavenago wurde Bischof Alberico von Lodi später entfremdet und musste ihm gemäß Urteilsspruch des Ponzone degli Inghiroldi von Cremona in dessen Funktion als Delegierter der Konsuln von Cremona vom August 1181 -, S. Pietro di Pirolo (ed. Vignati, CD. Laudense 2, 3 no 95) wieder zurückgestellt werden. – Bischof Alberico war nach dem Beitritt Lodis zur Lega Lombarda und der unter dem bestimmenden Einfluss des Mailänder Erzbischofs durchgeführten Wahl eines neuen Bischofs in seiner Stadt mit dem Kaiser nach Deutschland gezogen, wo er 1168 und 1174 erwähnt wird, vgl. dazu Regg. 1799 (MG.DF.I.546) und 2067 (MG.DF.I.616) sowie Opll, Barbarossa und die Stadt Lodi, in: Kommunale Bündnisse Oberitaliens und Oberdeutschlands im Vergleich, hg. von Helmut Maurer (VuF 33, 1987) 63 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0224" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_459" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

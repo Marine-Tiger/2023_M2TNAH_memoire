@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2794</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-19_3_0_4_2_4_215_2794"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-19_3_0_4_2_4_215_2794"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-10-19_3_0_4_2_4_215_2794</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844346" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2794</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-10-19" to="1184-10-19">1184
+									Oktober 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz San Zeno zu Verona (<hi rend="italic">die Ueneris, qui est </hi> <hi rend="italic">terciodecimo exeunte mense octubris, in Uerona in palacio sancti Zenonis</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der 									Kanzlei entstandenes Notariatsinstrument mit sehr nachlässiger 									Orthographie (<hi rend="italic">Ego Manfredinus sacri palacii 										atque domini Federrici </hi>[!]<hi rend="italic"> notarius 										interfui et scripsi et firmavi.</hi>)</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt in Gegenwart von Erzbischof Konrad 								von Mainz sowie des Kanzlers Gottfried, des Patriarchen Gottfried 								von Aquileia, der Bischöfe Pistor von Vicenza und Drudo von Feltre, 								des Wezel von Camino, des Wizeletus von Prata, des Tisolinus von 								Camposampiero, des Protonotars Rudolf, des Kämmerers Rudolf, des 								Richters Leonard von Verona, des Gerardus von Rocca und des 								Aldrigetus, Sohn des Arardus, und des Pfalznotars Manfredinus, der 								die Urkunde geschrieben hat, den <hi rend="spaced">Markgrafen</hi> 								<hi rend="spaced">Opizo von Este</hi> mit der Mark Genua, der Mark 								Mailand und mit allen Lehen, die Markgraf Azo vom Reich innehatte, 								sowie mit dem Reichslehen, das Opizo von Heinrich dem Löwen hatte 								und das ihm auch dann verbleiben soll, falls der letztere wieder in 								sein Land eingesetzt wird. –<span n="clerk"> Außerhalb der 									Kanzlei entstandenes Notariatsinstrument mit sehr nachlässiger 									Orthographie (<hi rend="italic">Ego Manfredinus sacri palacii 										atque domini Federrici </hi>[!]<hi rend="italic"> notarius 										interfui et scripsi et firmavi.</hi>)</span>.<span n="incipit"> 									<hi rend="italic">Anno dominice nativitatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno dominice nativitatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Modena (A). Drucke: 								MG. Const. 1, 426 n<hi rend="sup">o</hi> 301; 								MG.DF.I.872. Reg.: Stumpf 4388.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der hier angesprochenen Möglichkeit, dass 								Heinrich der Löwe wieder in seine Rechte eingesetzt werden könnte, 								siehe Reg. 2801 sowie Engels, Entmachtung, in: Ders., Stauferstudien 								(1988) 124 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_872" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

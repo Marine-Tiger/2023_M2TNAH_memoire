@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 487</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-06_1_0_4_2_1_489_487"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-06_1_0_4_2_1_489_487"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-06_1_0_4_2_1_489_487</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239647" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 487</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-06" to="1157-10-06">1157 Oktober 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II<hi rend="sup">o</hi>  non. octobr., Wirzeburch)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Obernburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Regenaldus canc. vice Arnoldi Maguntinensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Wiederholung des DK. III. 172, vielleicht außerhalb der Kanzlei mundiert.</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Daniel von Prag, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Herzog Friedrich von Schwaben, Markgraf Albrecht (der Bär), Pfalzgraf Otto (von Wittelsbach), Graf Hermann (von Orlamünde), der Sohn des Markgrafen Albrecht, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">Obernburg</hi> </span>  (<hi rend="italic">Obremburch</hi>) die aus den Schenkungen des Diebald von Kager (<hi rend="italic">Cagere</hi>) stammenden Besitzungen, nimmt das Kloster in seinen Schutz und bekräftigt auch die Schenkungen des erwähnten Edlen an die Kirche von Aquileia. <span n="witnesses">Z.: die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Daniel von Prag, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Herzog Friedrich von Schwaben, Markgraf Albrecht (der Bär), Pfalzgraf Otto (von Wittelsbach), Graf Hermann (von Orlamünde), der Sohn des Markgrafen Albrecht, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Regenaldus canc. vice Arnoldi Maguntinensis archiep. et archicanc.</hi> </span>; <span n="clerk">Wiederholung des DK. III. 172, vielleicht außerhalb der Kanzlei mundiert.</span> <span n="incipit"><hi rend="italic">Religiosis petitionibus assensum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Religiosis petitionibus assensum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 15. Jh. in Consultori in iure n<hi rend="sup">o</hi>  345 (Privilegi antichi d'Aquileja) f. 13, Staatsarchiv Venedig (C); Regest von ca. 1500 aus den Indices des Archivs von Aquileia, Fontanini Bd. 12 p. 166 ff., Biblioteca Comunale zu S. Daniele (F). Drucke: Stumpf, Acta ined. 726 n<hi rend="sup">o</hi>  522; MG. DF. I. 182. Reg.: Stumpf 3811 aus F zu 1158 Mai, 3778 a zu 1157 Oktober 6.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Gründung des Benediktinerklosters durch Diebald von Kager vgl. die Bestätigungsurkunde des Patriarchen Pilgrim von Aquileia von 1140 April 7, Aquileia (Zahn, UB. des Herzogthums Steiermark 1, 188 n<hi rend="sup">o</hi>  180).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0164" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_182" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

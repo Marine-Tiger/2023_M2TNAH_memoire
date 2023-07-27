@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedirch I. – RI IV,2,1 n. 335a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-00_2_1_4_2_1_336a_335a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-00_2_1_4_2_1_336a_335a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-00_2_1_4_2_1_336a_335a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358243464" value="2013-01-15"></date>
+				<date type="lastmod" n="1360327052" value="2013-02-08"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 335a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-01" to="1155-06-30">(1155 Juni/Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedirch I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich setzt sich abermals zugunsten Abt <hi rend="spaced">Johannes</hi>' von <hi rend="spaced">Sesto</hi> in Friaul für den Schutz der Güter dieses Klosters vor den Ubergriffen der Senigalliesen ein.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum?; erwähnt in einer urkundlichen Aufzeichnung von 1156, Senigaliia, ed. della Torre, L'abbazia di Sesto in Sylvis. (Trieste 1979) 123 n° 18 (im Kopfregest irrig: Friedrich II. und Hadrian III.).</p></div>
+				
+				
+					<div type="commentary"><p>Siehe dazu schon Reg. 266a. - Die Datierung dieser Nachricht richtet sich danach, daß Abt Johannes gleichzeitig auch eine entsprechende Verfügung Papst Hadrians IV. erhielt und das Beisammensein des Papstes mit dem neugekrönten Kaiser bis in den Juli 1155 dauerte, vgl. Regg. 319-335. - Ob der kaiserliche Befehl allerdings schriftlich erfolgte oder ob es sich um eine bloß mündliche Bekräftigung von Reg. 266a handelte, ist nicht sicher zu entscheiden.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360325690" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+2.+Lief.%3A+1158-1168&amp;amp;pk=116715" type="external" n="opac">RI IV,2,2</ref>, S. XII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

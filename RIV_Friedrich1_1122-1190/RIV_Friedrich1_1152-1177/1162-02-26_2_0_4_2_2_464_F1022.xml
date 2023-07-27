@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1022</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-26_2_0_4_2_2_464_F1022"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-02-26_2_0_4_2_2_464_F1022"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-02-26_2_0_4_2_2_464_F1022</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243840" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1022</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-02-26" to="1162-02-26">1162 Februar 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  kal. martii, Lauduni [!] tempore Mediolanensis expedicionis ipso anno dedicionis eiusdem urbis)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2. spurium.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lambach</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">die Erzbischöfe Hermann (recte: Hillin) von Trier und Rainald von Köln, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg und Mezelin (recte: Ortlieb) von Basel, Herzog Symon von <hi rend="italic">Louiensis</hi>  (wohl Lothringen), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Rothenburg, Markgraf Hermann von Sachsen, die Grafen Diepold <hi rend="italic">de Plovs</hi>, Diepold (recte: Herzog) von Böhmen, Adelbero und Boppo, Craft <hi rend="italic">de Nuwenburg</hi>, Ekehard, Godebold von Würzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">Lambach</hi> </span>  gemäß dem Vorbild König Heinrichs IV. den Marktbann in Wels, den Zoll in Lambach sowie Fischfang-, Forst- und Jagdbannrechte in dem genannten Gebiet und bekräftigt abermals die Verleihung der Zollrechte durch einen von Bischof Heinrich von Würzburg erwirkten Spruch des Hofgerichts. <span n="witnesses">Z.: die Erzbischöfe Hermann (recte: Hillin) von Trier und Rainald von Köln, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg und Mezelin (recte: Ortlieb) von Basel, Herzog Symon von <hi rend="italic">Louiensis</hi>  (wohl Lothringen), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Rothenburg, Markgraf Hermann von Sachsen, die Grafen Diepold <hi rend="italic">de Plovs</hi>, Diepold (recte: Herzog) von Böhmen, Adelbero und Boppo, Craft <hi rend="italic">de Nuwenburg</hi>, Ekehard, Godebold von Würzburg</span>. - Wiederholung des im 12. Jh. verunechteten DH. IV. 70 mit Hinzufügung einer abermaligen Bestätigung der Zollrechte von der Hand eines mehrfach nachweisbaren Schreibers aus dem Prämonstratenserstift Oberzell bei Würzburg (Johanek, Siegelurkunde im Bistum Würzburg, 148 ff.: OZ B); <span n="seal">SI. 2. spurium.</span>  <span n="incipit"><hi rend="italic">Notum esse volumus omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Angebl.Orig.: Stiftsarchiv Lambach (A). Drucke: UB. des Landes ob der Enns 2, 316 n<hi rend="sup">o</hi>  215; MG. DF. I. 1048. Reg.: Stumpf 3930.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser Fälschung vgl. die Vorbemerkung zu DH. IV. 70 sowie Gawlik, in: MG. DD. 6, XXIX Anm. 52 und S. 715. - Zum Schreiber vgl. auch MG. DF. I. 595. - Zum verfrühten Hinweis auf den Sieg über Mailand vgl. die Vorbemerkung zum DF. I.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0131" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1048" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

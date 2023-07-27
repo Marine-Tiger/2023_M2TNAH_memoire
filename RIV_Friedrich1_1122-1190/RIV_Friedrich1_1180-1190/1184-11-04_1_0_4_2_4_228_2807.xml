@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2807</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-04_1_0_4_2_4_228_2807"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-04_1_0_4_2_4_228_2807"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-04_1_0_4_2_4_228_2807</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844691" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2807</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-04" to="1184-11-04">1184
+									November 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>San Zeno bei Verona (<hi rend="italic">II non. novembr., </hi> <hi rend="italic">in villa sancti Zenonis iuxta Veronam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst und geschrieben von GG, wobei für die 									Dispositio offenbar ältere Rechtstitel des Stiftes herangezogen 									wurden</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von 									Mainz, die Bischöfe Eberhard von Merseburg, Bertram von Metz, 									Garsidonius von Mantua und Ognibene von Verona, Landgraf Ludwig 									von Thüringen, die Markgrafen Berthold von Andechs (Istrien) und 									Opizo von Este, Wezel von Camino und Marschall Heinrich von 									(Kaisers-)Lautern</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Stift 									San Donato a Torri</hi> (bei Florenz) die Freiheit von allen 								öffentlichen Leistungen und Abgaben und die namentlich angeführten 								Besitzungen, nimmt es in seinen Schutz und verbietet, das Stift 								hinsichtlich seiner Kirche und seiner Gebäude zu insultieren oder 								dort Getreide, Wein und Gefäße (<hi rend="italic">grana, vinum aut 									vasa</hi>) aufzubewahren. Er untersagt allen Laien, sich in die 								Wahl der Prälaten und Kanoniker <hi rend="italic">consiliis aut 									correctionibus</hi> einzumengen, an ihren Mahlzeiten 								teilzunehmen oder sie vor das <hi rend="italic">civile iudicium</hi> 								zu zwingen, und gewährt ihm für das Seelenheil seiner jüngst 								verstorbenen Tochter (Agnes) das Recht des Mühlenbaues und der 								Fischerei am Arno. <span n="witnesses">Z.: Erzbischof Konrad von 									Mainz, die Bischöfe Eberhard von Merseburg, Bertram von Metz, 									Garsidonius von Mantua und Ognibene von Verona, Landgraf Ludwig 									von Thüringen, die Markgrafen Berthold von Andechs (Istrien) und 									Opizo von Este, Wezel von Camino und Marschall Heinrich von 									(Kaisers-)Lautern</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Phylippi 										Coloniensis archiep. et Ytalie archicanc.</hi></span>;<span n="clerk"> verfasst und geschrieben von GG, wobei für die 									Dispositio offenbar ältere Rechtstitel des Stiftes herangezogen 									wurden</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Si ecclesiis et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ecclesiis et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Florenz (A). Druck: 								MG.DF.I.882. Regg.: Dolch – Münch, UB. der Stadt Kaiserslautern 								1, 58 n<hi rend="sup">o</hi> 36; Stumpf 4394.</p></div>
+				
+				
+					<div type="commentary"><p>Über die in der Arenga enthaltene Berufung auf die 								Befreiung der Priesterschaft von öffentlichen Leistungen durch den 								Pharao vgl. die Hinweise bei D. 861 (Reg. 2771). – Die Kaisertochter 								Agnes war am 8. Oktober dieses Jahres verstorben, vgl. dazu Reg. 								2788; dass der Kaiser in diesem D. eine Seelgerätsstiftung für seine 								Tochter errichtete, zeigt, dass er die traurige Nachricht in diesen 								Tagen erhalten haben muss.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_882" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

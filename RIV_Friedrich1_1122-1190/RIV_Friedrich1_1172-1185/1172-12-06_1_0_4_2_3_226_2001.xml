@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2001</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-12-06_1_0_4_2_3_226_2001"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-12-06_1_0_4_2_3_226_2001"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-12-06_1_0_4_2_3_226_2001</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597753" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2001</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-12-06" to="1172-12-06">1172 Dezember 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII<hi rend="sup">o</hi>  id. decemb., apud Wirzeburg)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Mogontin[i] archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>weitestgehend nach der Urkunde Bischof Udos II. von Naumburg vom November 1164 (Rosenfeld, UB.des Hochstifts Naumburg 231 n<hi rend="sup">o</hi>  251, VU.) von einem Schreiber aus dem Würzburger Stift Oberzell, den Johanek, Siegelurkunde, 150 ff. als OZ B bezeichn</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Rainald von Köln und Konrad von Salzburg, die Bischöfe Hermann von Konstanz und Eberhard von Bamberg, (Dom)propst Reinhard, später Bischof (von Würzburg), Kustos Adalbert (von Würzburg), Scholaster Johannes (von Würzburg), die Kapläne Adalbert und Buso (von Würzburg), Markgraf Albrecht (der Bär, von Sachsen) und seine Söhne Hermann (von Orlamünde) und Albrecht, Landgraf Ludwig (von Thüringen), Markgraf Otto von Wettin und seine Brüder Dedo (von Groitzsch), Dietrich (der Lausitz) und Friedrich (von Brehna), Pfalzgraf Otto (von Wittelsbach), Graf Rabodo von Abenberg (bis hierher Zeugen der Rechtshandlung vom November 1164, siehe dazu oben Reg. 1428), Vitztum Billung (von Würzburg), Hartmut von Bischwind, die Schultheißen Heinrich und Billung (von Würzburg), Liutold von Güntersleben, Walter von Stolberg, Adalbert von Thüngen und Rugger</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Prämonstratenserstift Oberzell</hi>  (bei Würzburg) den Tausch der genannten Güter mit der bischöflichen Kirche zu Naumburg, der bereits auf dem Hoftag zu Bamberg (im November 1164, vgl. Reg. 1428) in seiner Gegenwart rechtsförmlich vollzogen worden war; des weiteren legt er fest, daß das Stift von bestimmten, den Würzburger Domherren zum Nießbrauch übertragenen Gütern jährliche Zinszahlungen zu leisten sind, und es mit Erlaubnis Bischof Herolds (von Würzburg) und aller darüber Verfügungsberechtigten festgelegte Zehnten einheben dürfe. <span n="witnesses">Z.: die Erzbischöfe Rainald von Köln und Konrad von Salzburg, die Bischöfe Hermann von Konstanz und Eberhard von Bamberg, (Dom)propst Reinhard, später Bischof (von Würzburg), Kustos Adalbert (von Würzburg), Scholaster Johannes (von Würzburg), die Kapläne Adalbert und Buso (von Würzburg), Markgraf Albrecht (der Bär, von Sachsen) und seine Söhne Hermann (von Orlamünde) und Albrecht, Landgraf Ludwig (von Thüringen), Markgraf Otto von Wettin und seine Brüder Dedo (von Groitzsch), Dietrich (der Lausitz) und Friedrich (von Brehna), Pfalzgraf Otto (von Wittelsbach), Graf Rabodo von Abenberg (bis hierher Zeugen der Rechtshandlung vom November 1164, siehe dazu oben Reg. 1428), Vitztum Billung (von Würzburg), Hartmut von Bischwind, die Schultheißen Heinrich und Billung (von Würzburg), Liutold von Güntersleben, Walter von Stolberg, Adalbert von Thüngen und Rugger</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Mogontin[i] archiep. et archicanc.</hi> </span>; <span n="clerk">weitestgehend nach der Urkunde Bischof Udos II. von Naumburg vom November 1164 (Rosenfeld, UB.des Hochstifts Naumburg 231 n<hi rend="sup">o</hi>  251, VU.) von einem Schreiber aus dem Würzburger Stift Oberzell, den Johanek, Siegelurkunde, 150 ff. als OZ B bezeichnet, geschrieben</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Quoniam ad imperialis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam ad imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1295 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 411 n<hi rend="sup">o</hi>  525; MG.DF.I.595. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  454; Stumpf 4140.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Verhältnis zur Rechtshandlung des Jahres 1164 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-11-00_2_0_4_2_2_870_1428.html" type="internal" n="regesten">1428</ref>), worüber auch eine Urkunde Bischof Heinrichs von Würzburg (Rosenfeld, a.a.O., 229 n<hi rend="sup">o</hi>  250) erhalten ist, sowie zu einem den Gütertausch ergänzenden Rechtsgeschäft im Sinne einer urkundlichen Bestätigung durch Bischof Herold von Würzburg von 1165 (Mon.Boica 45, 26 n<hi rend="sup">o</hi>  14) vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0086" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_595" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

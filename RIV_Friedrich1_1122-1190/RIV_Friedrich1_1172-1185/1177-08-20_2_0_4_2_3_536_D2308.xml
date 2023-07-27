@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. D2308</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-20_2_0_4_2_3_536_D2308"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-20_2_0_4_2_3_536_D2308"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-20_2_0_4_2_3_536_D2308</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426607711" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. D2308</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-20" to="1177-08-20">vor 1177 August 20</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lädt den <hi rend="spaced">Abt Obizo von S. Maria in Organo zu Verona</hi>  in der Streitsache um eine Stallung mit <hi rend="spaced">Girardus de Meledo</hi>  nach dessen Appellation an ihn (den Kaiser, vgl. Reg. 2307) vor das kaiserliche Hofgericht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im Spruch des Hofrichters Carbo vom 21. August 1177, der zugunsten des Girardus de Meledo lautete (Orig. jetzt im Staatsarchiv zu Verona, ed. Cipolla, Un giudizio in appello pronunciato dalla curia di Federico I. nell'agosto 1177, Nozze-Schrift Fraccaroli-Rezzonico 1895, 21; Kalbfuß, Urkunden, QFIAB 15, 1913, 73 n<hi rend="sup">o</hi>  11). — MG.DF.I. *1173.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-20_1_0_4_2_3_535_2307.html" type="internal" n="regesten">2307</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-20_3_0_4_2_3_537_2309.html" type="internal" n="regesten">2309</ref>  sowie <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-21_1_0_4_2_3_538_2310.html" type="internal" n="regesten">2310</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0194" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1173" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

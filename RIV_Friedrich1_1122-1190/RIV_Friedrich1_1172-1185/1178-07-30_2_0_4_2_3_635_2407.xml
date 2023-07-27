@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2407</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_2_0_4_2_3_635_2407"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-30_2_0_4_2_3_635_2407"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-30_2_0_4_2_3_635_2407</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604780" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2407</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-30" to="1178-07-30">1178 Juli 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz zu Arles</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III<hi rend="sup">o</hi>  kalendas augusti mensis, in palatio Arelatensi ... die dominco, quo coronatus est in ecclesia Arelatensi imperator)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus ymperialis curie canc. vice Roperti Viennensis archiep. et Prouincie ac Burgundie archicanc.</hi></notarius>
+				
+				
+					<scribe>von einem romanischen Empfängerschreiber nach Kanzleidiktat — in der Hauptsache wohl dem Burkhards — mundiert</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Raimund von Arles und Bertrand von Aix-en-Provence, die Bischöfe Hugo (<hi rend="italic">Vguo</hi>) von Verden, Pontius von Avignon, Benedict von Cavaillon, Raimbald (<hi rend="italic">Raembaudus</hi>) von Carpentras, Bertrand von Vaison-la-Romaine und Wilhelm Hugo von Saint-Paul-Trois-Châteaux, Propst Aicard von Goslar und der kaiserliche Hofnotar Rudolf; die Laien Bertrand von Baux, Burggraf Burchard von Magdeburg, Rupert von Walldürn, Walter (<hi rend="italic">Gualterius</hi>), der Truchseß des Kaisers, Mundschenk Konrad (Colbo von Oberschüpf) und Kämmerer Rudolf (von Siebeneich)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die von altersher als <hi rend="italic">principalis sedes regni Burgundie</hi>  geltende <hi rend="spaced">erzbischöfliche Kirche von Arles</hi>  mit dem Domkapitel (<hi rend="italic">canonicis deo in ea famulantibus</hi>), Besitzungen und Hintersassen in seinen Schutz und verleiht ihr die Immunität, darunter im besonderen die Abgabenfreiheit im Zusammenhang mit der Errichtung und Bewachung städtischer Befestigungen. <span n="witnesses">Z.: die Erzbischöfe Raimund von Arles und Bertrand von Aix-en-Provence, die Bischöfe Hugo (<hi rend="italic">Vguo</hi>) von Verden, Pontius von Avignon, Benedict von Cavaillon, Raimbald (<hi rend="italic">Raembaudus</hi>) von Carpentras, Bertrand von Vaison-la-Romaine und Wilhelm Hugo von Saint-Paul-Trois-Châteaux, Propst Aicard von Goslar und der kaiserliche Hofnotar Rudolf; die Laien Bertrand von Baux, Burggraf Burchard von Magdeburg, Rupert von Walldürn, Walter (<hi rend="italic">Gualterius</hi>), der Truchseß des Kaisers, Mundschenk Konrad (Colbo von Oberschüpf) und Kämmerer Rudolf (von Siebeneich)</span>. — <span n="chancellor"><hi rend="italic">Godefridus ymperialis curie canc. vice Roperti Viennensis archiep. et Prouincie ac Burgundie archicanc.</hi> </span>; <span n="clerk">von einem romanischen Empfängerschreiber nach Kanzleidiktat — in der Hauptsache wohl dem Burkhards — mundiert</span>; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Ad eterni regni</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterni regni</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Marseille (A). Drucke: Gallia christ.novissima 3, 248 n<hi rend="sup">o</hi>  637; MG.DF.I.742. Faks.: Hirsch, Urkundenfälschungen Tafel IV. Regg.: Chevalier, Reg.dauphinois 1, 779 n<hi rend="sup">o</hi>  4686; Stumpf 4256.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen und rechtsgeschichtlichen Bewertung, insbesondere zu der heute nicht mehr aufrecht zu erhaltenden Meinung Hirschs im Hinblick auf die vermeintliche große burgundische Fälschungsaktion, vgl. die Vorbemerkung zum D. — Besonderes Interesse verdient der Hinweis auf die Krönung des Kaisers in der Datierung, vgl. dazu auch Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-26_1_0_4_2_3_633_2405.html" type="internal" n="regesten">2405</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-30_4_0_4_2_3_637_2409.html" type="internal" n="regesten">2409</ref>. — Zur Stellung der erzbischöflichen Kirche von Arles als <hi rend="italic">sedes imperii</hi>  vgl. Fried, Krönung in Arles, Hist. Jb. 103 (1978), 354.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0225" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_742" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

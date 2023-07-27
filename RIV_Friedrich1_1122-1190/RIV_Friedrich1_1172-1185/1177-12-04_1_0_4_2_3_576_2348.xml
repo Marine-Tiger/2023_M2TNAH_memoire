@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2348</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-12-04_1_0_4_2_3_576_2348"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-12-04_1_0_4_2_3_576_2348"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-12-04_1_0_4_2_3_576_2348</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306615" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2348</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-12-04" to="1177-12-04">1177 Dezember 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Osimo</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die dominica, IIII mensis decembris, apud Auximon)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erläßt ein <hi rend="spaced">Gesetz (Constitutio Auximana)</hi>  über die Höhe der Gerichtsgefälle und deren Aufteilung auf die Richter im Falle der Zivil- und der Kriminalgerichtsbarkeit (<hi rend="italic">Hoc autem in civilibus causis; item in criminalibus, si perventum fuerit ad pecunie estimationem.</hi>), weist hinsichtlich der Güter von Verurteilten auf neue Verordnungen und im Hinblick auf Besitzungen von kinderlos und ohne Testament Verstorbenen auf die Gesetze der römischen Imperatoren hin, legt betreffs der Bestrafung derjenigen, die Schiffbrüchige berauben, die in den alten Gesetzen vorgesehenen Strafen fest, setzt die Strafen für diejenigen Träger der Gerichtsgewalt fest, die gegen das hier verbriefte Gesetz verstoßen, und verbietet den Richtern, am Tag des Schlußtermins ein Urteil zu fällen. — Kein Produkt der Reichskanzlei, sondern eine Arbeit italienischer Rechtsgelehrter. <span n="incipit"><hi rend="italic">Hac edictali lege</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Hac edictali lege</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Cod. lat. 1435 f. 226, Vatikanische Bibliothek zu Rom (E); Abschrift des 13. — 14. Jh. im Cod. lat. V, 119 (= 2307) f. 28', Biblioteca Marciana zu Venedig (F); Abschrift des 14. Jh. im Cod. lat. 8006 f. 142', Bayerische Staatsbibliothek zu München (G); Abschrift des 14. Jh. im Ms. lat. 4567 f. 134', Nationalbibliothek Paris (H). Drucke: MG.Const.1, 378 n<hi rend="sup">o</hi>  275; MG.DF.I.719. Reg.: Stumpf 4234.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0207" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_719" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._378" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 534</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_3_0_4_2_1_536_534"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-03-16_3_0_4_2_1_536_534"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-03-16_3_0_4_2_1_536_534</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240416" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 534</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-03-16" to="1158-03-16">1158 März 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII kal. aprilis, Frankenevorth)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hartwig</hi>  <hi rend="spaced">Hamburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des D. Ludwigs des Frommen B.-Mühlbacher<hi rend="sup">2</hi>  Reg. 928 (VU.) und Heranziehung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  88) enthaltenen Formulargutes im Stil der Reichskanzlei, möglicherweise von AH (Albert), verfaßt und von</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig von Thüringen, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Erzbischofs <span sameAs="recipient"><hi rend="spaced">Hartwig</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Hamburg</hi> </span>  seiner Kirche die ihr durch ein vorgelegtes Diplom Kaiser Ludwigs (des Frommen) verliehenen Rechte, namentlich aus einer Schenkung Karls des Großen (<hi rend="italic">a sanctissimo imperatore Karolo magno</hi>) die Zelle Ronse (<hi rend="italic">Rodenach</hi>) und die von Ludwig (dem Frommen) geschenkte Zelle Torhout (<hi rend="italic">Turholt</hi>) in der Grafschaft Flandern, weiters die Metropolitangewalt über die Völker des Nordens, nämlich die Dänen, Schweden, Norweger, Bewohner der Faröer (<hi rend="italic">Farrię</hi>), Grönländer (<hi rend="italic">Grunlandonum</hi>), Bewohner von Helsingland (<hi rend="italic">Halsingolandonum</hi>), Isländer (<hi rend="italic">Islandonum</hi>) und Bewohner von Skridefinnen (<hi rend="italic">Scredeuindonum</hi>), sowie die von Ludwig gezogenen, dann wieder von Kaiser Otto (I.) auf Rat der Fürsten festgesetzten und genannten Grenzen seines Sprengels mit allem innerhalb derselben gelegenen Bruchland an der Elbe (<hi rend="italic">paludes infra sive iuxta Albiam positas</hi>). <span n="witnesses">Z.: Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, die Pröpste Albert von Aachen, Gerard von Magdeburg, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig von Thüringen, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung des D. Ludwigs des Frommen B.-Mühlbacher<hi rend="sup">2</hi>  Reg. 928 (VU.) und Heranziehung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  88) enthaltenen Formulargutes im Stil der Reichskanzlei, möglicherweise von AH (Albert), verfaßt und von ZB mundiert (vgl. Reg. 532)</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">In examine cuncta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In examine cuncta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (A). Drucke: Lappenberg, Hamburg. UB. 1, 190 n<hi rend="sup">o</hi>  208; Rydberg, Sverges Traktater 1, 75 n<hi rend="sup">o</hi>  41; Hasse, Schlesw.-Holst.-Lauenburg. Reg. 1, 47 n<hi rend="sup">o</hi>  100; MG. DF. I. 209. Reg.: Conrad, Pommersches UB. 1 ed. II., 49 n<hi rend="sup">o</hi>  46; May, Reg. d. Erzb. v. Bremen 1, 139 n<hi rend="sup">o</hi>  534; Stumpf 3802.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Fälschungsfrage vgl Dehio, Hartwich von Stade 120 und Glaeske, Erzbischöfe von Hamburg-Bremen (Qu. u. Darst. zur Gesch. Ndsachs. 60, 1962) 152 ff. - Die genannte Urkunde Ottos (I.) mit der genauen Grenzziehung ist nicht erhalten. - Vgl. zum Diplom auch Koudelka, Papsturkunden, RHM 3 (1958-60) 121, der darauf hinweist, daß sich die Bestätigung der Metropolitangewalt über den Norden gegen den Primat Eskils von Lund richtete.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0181" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_200" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

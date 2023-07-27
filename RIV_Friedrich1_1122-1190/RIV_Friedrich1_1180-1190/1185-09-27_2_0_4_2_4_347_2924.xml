@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2924</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-27_2_0_4_2_4_347_2924"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-27_2_0_4_2_4_347_2924"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-09-27_2_0_4_2_4_347_2924</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845534" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2924</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-09-27" to="1185-09-27">(wohl
+									1185 um September 27)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich restituiert den <hi rend="spaced">Grafen 									Monaldeschi</hi> (von Foligno) den Ort Coccorano (heute: 								Montefalco).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im DF.II. von 1200 								Dezember (MG.DF.II.29; B.-Ficker Reg. 556; Ficker, Forschungen 4, 								258 n<hi rend="sup">o</hi> 206). – MG.DF.I.*1197.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Restitution dürfte etwa um die Zeit der 								Aussöhnung des Kaisers mit Spoleto erfolgt sein, als Graf Rainald 								Monaldi von Foligno bei Hofe weilte (Regg. 2919 und 2923), vgl. dazu 								die Vorbemerkung zum D. – Im März 1180 hatten sich die Leute von 								Coccorano der Stadt Spoleto unterstellt, dabei aber den Kaiser, 								dessen Sohn, Heinrich (VI.), und Herzog Konrad (von Spoleto) aus 								ihrem Treueid ausgenommen, siehe dazu Sansi, Documenti storici 								inediti in sussedio allo Studio delle Memorie Umbre 2 (1879) 203 no 								4 (Regest bei Schubring, Herzoge von Urslingen, 269 no 14); zu den 								Monaldeschi siehe auch oben Reg. 2251.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1197" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

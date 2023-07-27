@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 627</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-30_1_0_4_2_2_69_627"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-30_1_0_4_2_2_69_627"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-30_1_0_4_2_2_69_627</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241628" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 627</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-30" to="1158-11-30">1158 November 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gragnano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(pridei kal. decembris, in prato Grainyano)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Vallombrosa</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Friderici Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in fast wörtlicher Wiederholung von DH. V. Stumpf 3200 (VU.) geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Intervention des Abtes Johann von Strumi und des (Abtes) Andreas von (S. Benedetto zu) Piacenza alle Klöster der Kongregation von <span sameAs="recipient"><hi rend="spaced">Vallombrosa</hi> </span>, die unter dem Vorsitz des Abtes Marinus steht, in seinen Schutz, bestätigt ihnen die Besitzungen und Rechte unter Vorbehalt der Reichsrechte und legt im besonderen die Freiheit von bestimmten Abgaben (<hi rend="italic">fodrum aliquod vel districtum vel aliquam exactionem á rusticis vel conversis prefatorum monasteriorum</hi>) an die Stadt Florenz fest. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Friderici Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">in fast wörtlicher Wiederholung von DH. V. Stumpf 3200 (VU.) geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Cum omnium fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnium fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Florenz (A). Druck: MG. DF. I. 245. Reg.: Stumpf 3831.</p></div>
+				
+				
+					<div type="commentary"><p>In einer etwa gleichzeitigen, aber unbesiegelten Nachzeichnung im Staatsarchiv Florenz, Fondo Ripoli, ist der Passus über die Befreiung von Leistungen an die Stadt Florenz weggelassen, vgl. die Vorbemerkung zum D. - Die Urkunde stellt das älteste Zeugnis für Kontakte des Kaisers zu Abt Johann von Strumi, dem späteren kaiserlichen Gegenpapst Calixt III. dar. - Zu dem Vallombrosanerkloster S. Benedetto zu Piacenza vgl. Kehr, Ital. pont. 5, 507. - Zu der Stellung des D. im Rahmen der Kirchenpolitik des Kaisers vgl. Haverkamp, Herrschaftsformen, 126 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0037" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_245" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

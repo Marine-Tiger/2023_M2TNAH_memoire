@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2135</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-16_3_0_4_2_3_362_2135"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-16_3_0_4_2_3_362_2135"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-04-16_3_0_4_2_3_362_2135</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430899771" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2135</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-04-16" to="1175-04-16">1175 April 16 und 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Pavia auf dem Felde bei Montebello</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die Mercurii, qui fuit quintus decimus exeunte aprilis — altera vero die Iouis, quifuit quartus decimus exeunte aprilis, in territorio Papie in campo subtus Montebellum)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt am 16. April durch bevollmächtigte Unterhändler eine <hi rend="italic">concordia</hi>  mit der Gemeinschaft der Lombarden, der Bewohner der Mark, der Venezianer und der Romagna (<hi rend="spaced">Lega Lombarda</hi>), bei der die Einsetzung eines paritätisch aus je drei Personen zusammengesetzten Schiedsgerichtes, das unter Beachtung eines kaiserlichen Schreibens an die Cremoneser Konsuln (Reg. 2133) und eines Schreibens der Konsuln der Lega Lombarda an ebendiese Konsuln unter Konsul Pontius (Reg. 2134) bis Mitte Mai sein Urteil zu fällen hat bzw. für das bei Uneinigkeit längstens 15 Tage später die Gesamtheit der Konsuln von Cremona zu entscheiden hat, und die sofortige Gewährung des Friedens seitens des Kaisers durch den Friedenskuß und der Austausch der Gefangenen festgelegt werden; seitens der Städte schwören je zehn vom Kaiser ausgewählte Männer pro Stadt (namentlich genannt werden Ubert von Landriano aus Mailand, Alberich von Cavriana aus Brescia, Vivian <hi rend="italic">Advocatorum</hi>  aus Verona, Wilhelm aus Piacenza, Gerard von Camposampiero aus Treviso, der Vicentiner Podestà <hi rend="italic">Wuazo de Guazonis</hi>, der Bergamasker Podestà Gibertinus <hi rend="italic">de Carcere</hi>, der Parmeser Podestà Niger Grassus, Lanfranc aus Lodi, Johannes Benedictus aus Vercelli, Cassianus aus Tortona, Petrus <hi rend="italic">Cauallacius</hi>  aus Novara, Albertus <hi rend="italic">de Bonizo</hi>  [Bonizzo?] aus Reggio, Guidottus aus Ferrara, Konsul Saccus <hi rend="italic">de Strata</hi>  aus Alessandria und die Rektoren der Lombardei Ecilinus und Anselmus de Dovera) und leisten ihm (dem Kaiser) und seinem Sohn, König Heinrich (VI.), den Treueid; seitens des Kaisers stimmen der <hi rend="italic">concordia</hi>  zu: Erzbischof (Philipp) von Köln, der Bruder des Kaisers (Pfalzgraf Konrad bei Rhein), Graf (Humbert) von Savoyen, Pfalzgraf Otto (von Wittelsbach), (Markgraf) Heinrich Guercio (von Vasto) und Kanzler (Gottfried). Tags darauf (am 17. April) sichern zunächst am kaiserlichen Hof Ubertus Clemente, Konsul von Pavia, für sich, für Rainer von Sannazzaro de' Burgondi und Carbonus <hi rend="italic">Trouamal</hi>  (aus Pavia?) sowie namens aller Konsuln von Pavia und der gesamten Kommune den Alessandrinern bis Mitte Juni eidlich einen Waffenstillstand zu, was auch Markgraf Wilhelm von Montferrat für sich und seine Söhne beschwört; bezeugt wird es von Pfalzgraf Otto von Wittelsbach, Markgraf Heinrich Guercio (von Vasto), Ubert von Incisa, Ecilinus <hi rend="italic">de Annara</hi>, Marcius <hi rend="italic">de Castello</hi>  und Vivian <hi rend="italic">Aduocati</hi>, Konsuln von Verona, Maleadobatus aus Parma, Richter Syrus von Pavia und den Notaren Adam, Fatolinus und Zeno. In Gegenwart der Erzbischöfe (Philipp) von Köln und (Arnold) von Trier, des Grafen Humbert von Savoyen, des Garzapan <hi rend="italic">Caputlupus</hi>  aus Treviso, des Kanzlers (Gottfried), des Grafen Schenella (von Treviso) und des Gerardinus von Camposampiero (aus Treviso) gewährt der Kaiser auf Eintreten Ecilins und Anselms von Dovera (der Rektoren der Lega Lombarda) der Lega Lombarda (<hi rend="italic">societas Lonbardie</hi>) durch den Friedenskuß den Frieden. Den Alessandrinern wird durch Handschlag und Friedenskuß seitens des (Markgrafen) Heinrich Guercio (von Vasto), des Grafen (Humbert) von Savoyen, des Pfalzgrafen Otto (von Wittelsbach) und des Kanzlers (Gottfried) bis Mitte Juni ein Waffenstillstand gewährt, bei dessen Bruch für Heinrich Guercio und Humbert, nicht aber für den Pfalzgrafen und den Kanzler, die Verpflichtung fixiert wird, sich in die Haft der Lombarden zu Vercelli zu begeben; die endgültige Regelung des Verhältnisses zu Alessandria wird dem am Vortag vereinbarten, sechsköpfigen Schiedsgericht bzw. — im Fall der Uneinigkeit — den Cremoneser Konsuln übertragen. —  <span n="clerk">Die Niederschrift dieses Übereinkommens wurde von dem als Zeugen genannten Notar Fatolinus (<hi rend="italic">notarius domini Guelfonis ducis et ab imperatore Frederico confirmatus postea</hi>) auf Befehl der Konsuln und Rektoren des Lombardenbundes vermutlich unter Verwendung eines unmittelbar aus den Verhandlungen erwachsenen schriftlichen Voraktes angelegt.</span> <span n="incipit"><hi rend="italic">Talis concordia facta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Talis concordia facta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Registrum civitatis Placentiae magnum f. 18, Stadtarchiv Piacenza (C); Abschrift vom Anfang des 13. Jh. im Registrum privilegiorum civitatis Mutinensis f. 11', Stadtarchiv Modena (D). Drucke: MG. Const. 1, 339 n<hi rend="sup">o</hi>  242; MG.DF.I.638. Regg.: Astegiano, CD.Cremonae 1, 145 n<hi rend="sup">o</hi>  314; Stumpf 4175.</p></div>
+				
+				
+					<div type="commentary"><p>Keine Erwähnung findet hier im Frieden von Montebello die vertraglich vereinbarte förmliche Unterwerfung der Lombarden unter den Kaiser (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-04-16_4_0_4_2_3_363_2136.html" type="internal" n="regesten">2136</ref>). — Zu der geplanten Tätigkeit des Schiedsgerichtes vgl. neben den oben erwähnten Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-04-16_1_0_4_2_3_360_D2133.html" type="internal" n="regesten">2133</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-04-16_2_0_4_2_3_361_2134.html" type="internal" n="regesten">2134</ref>  auch dessen Eid (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1175-04-00_1_0_4_2_3_364_2137.html" type="internal" n="regesten">2137</ref>). — Zum Frieden vgl. Ann. Plac. Gib., MG. SS XVIII, 463 und insbesondere die Vorbemerkung zum D. mit der dort angeführten Literatur, vor allem Heinemeyer, Friede von Montebello, DA 11 (1954/55) 101 ff., und Riedmann, Verträge, 105 ff.; jüngst auch Görich, Zur Ehre Friedrich Barbarossas, 266 ff. — Zum Notar Fatolinus vgl. auch seine Erwähnung zu 1164 Oktober 28 als <hi rend="italic">notarius domni Welfonis ducis et ab imperatore Federico confirmatus</hi>  bei Falce, Contributo alla diplomatica dei duchi e marchesi di Tuscia, Archivio storico Italiano Anno 83, Ser. 7, Vol. 3 (1925), 103 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu den beiden Rektoren des Lombardenbundes, Ecilinus (Ezzelino da Romano) und Anselm de Dovera (da Dovara), vgl. jetzt Raccagni, The Lombard League, 69–71.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0131" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_638" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

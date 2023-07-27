@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2798</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-28_1_0_4_2_4_219_2798"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-28_1_0_4_2_4_219_2798"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-10-28_1_0_4_2_4_219_2798</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844586" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2798</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-10-28" to="1184-10-28">1184
+									Oktober 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>San Zeno bei Verona (<hi rend="italic">V</hi><hi rend="sup">o</hi><hi rend="italic"> kal. novembr., in villa sancti </hi> <hi rend="italic">Zenonis iuxta Veronam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice C</hi><hi rend="italic">v</hi><hi rend="italic">°nradi Maguntine sedis 										archiep. et Germanie archicanc. recognovi, salva imperiali 										iustitia;</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des inhaltlich 									übereinstimmenden, dem Wortlaut nach aber stark überarbeiteten 									DH.IV. 287 verfasst und – nach der Nachzeichnung der ersten 									Zeile, der Signumzeile und des Monogramms wie auch der 									Schreibun</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, 									die Bischöfe Otto von Bamberg, Eberhard von Merseburg, Heinrich 									von Verdun, Arditius (irrig statt: Garsidonius) von Mantua und 									Albert von Trient, Abt Siegfried von Hersfeld, Protonotar 									Rudolf, Markgraf Berthold von Andechs (Istrien), die Grafen 									Diepold von Lechsgemünd, Gerhard von Looz/Borgloon und Simon von 									Sponheim, Werner von Bolanden, Marschall Heinrich von 									(Kaisers-)Lautern und Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befreit die <hi rend="spaced">Einwohner 									von Lazise</hi>, namentlich Pelegrinus von <hi rend="italic">Nigrobon</hi> (vielleicht Niga Bonomi [Niga Olmo]), Musius 								Martini von <hi rend="italic">Arnasto</hi>, Dascazatus, Rubeus von 									<hi rend="italic">Phytia</hi>, Warmibertus Lamfrancus und 								Rubertinus von <hi rend="italic">Rectirio</hi>, gemäß dem Vorbild 								seines Vorgängers König Heinrichs III. (recte: Heinrichs IV.) von 								allen öffentlichen Abgaben und Leistungen außer der Pflicht, dreimal 								im Jahr das Königsgericht zu besuchen, und gewährt ihnen das Recht 								der Fischerei und der Schifffahrt im Gardasee sowie die Nutzung des 								Waldes Lugana. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, 									die Bischöfe Otto von Bamberg, Eberhard von Merseburg, Heinrich 									von Verdun, Arditius (irrig statt: Garsidonius) von Mantua und 									Albert von Trient, Abt Siegfried von Hersfeld, Protonotar 									Rudolf, Markgraf Berthold von Andechs (Istrien), die Grafen 									Diepold von Lechsgemünd, Gerhard von Looz/Borgloon und Simon von 									Sponheim, Werner von Bolanden, Marschall Heinrich von 									(Kaisers-)Lautern und Kämmerer Rudolf</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice C</hi><hi rend="italic">v</hi><hi rend="italic">°nradi Maguntine sedis 										archiep. et Germanie archicanc. recognovi, salva imperiali 										iustitia;</hi></span> 								<span n="clerk">unter Verwendung des inhaltlich 									übereinstimmenden, dem Wortlaut nach aber stark überarbeiteten 									DH.IV. 287 verfasst und – nach der Nachzeichnung der ersten 									Zeile, der Signumzeile und des Monogramms wie auch der 									Schreibung der Eigennamen – auch geschrieben von GG</span>. <span n="incipit"><hi rend="italic">Offitium est 									imperialis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Offitium est 									imperialis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1197, 								Gemeindearchiv Lazise (B); Abschrift des 17. Jh., Staatsarchiv 								Verona, Processi B. 20** n<hi rend="sup">o</hi> 2360 f. 9 								(D). Drucke: Cipolla, Verzeichnis der Kaiserurkunden, MIÖG 4 								(1883) 226 n<hi rend="sup">o</hi> 3; MG.DF.I.876. Regg.: 								Cipolla, Verzeichnis der Kaiserurkunden, MIÖG 4 (1883) 219 n<hi rend="sup">o</hi> 110; Dolch – Münch, UB. der Stadt 								Kaiserslautern 1, 57 n<hi rend="sup">o</hi> 33; Stumpf 4391a.</p></div>
+				
+				
+					<div type="commentary"><p>Die irrige Nennung des für im deutschen Königreich 								ausgestellte Diplome zuständigen Mainzer Erzbischofs in der 								Rekognition (für im italischen Reichsteil ausgestellte DD. 								rekognoszierte der Erzbischof von Köln) wie auch der Irrtum bei der 								Angabe des Namens des Bischofs von Mantua gehen auf Fehler des 								Kanzleinotars zurück; auffällig ist die nachträgliche Hinzufügung 								der kaiserlichen Vorbehaltsklausel am Ende der Rekognition, die auch 								von Otto IV. (B.-Ficker Reg. 14.639; Cipolla, a.a.O., 230) 								übernommen wurde; vgl. zu all dem die Vorbemerkung zum D. – Zum 								Inhalt vgl. auch Kauffmann, Die italienische Politik Kaiser 								Friedrichs I. (Greifswalder Abhandlungen zur Gesch. d. Mittelalters 								3, 1933) 39.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_786" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

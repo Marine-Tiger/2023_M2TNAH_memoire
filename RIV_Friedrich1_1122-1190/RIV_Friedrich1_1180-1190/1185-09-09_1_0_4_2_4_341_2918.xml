@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2918</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-09_1_0_4_2_4_341_2918"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-09_1_0_4_2_4_341_2918"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-09-09_1_0_4_2_4_341_2918</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2918</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-09-09" to="1185-09-09">1185
+									September 8–9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Genua">Genua</placeName>
+												<location><geo decls="#WGS">44.4167, 8.95</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Graf Otto von Ventimiglia bestätigt Konsul Gandulfus 								Caxolus von Ventimiglia namens der Kommune Ventimiglia die von 								seinem verstorbenen Bruder Guido Guerra in Gegenwart Kaiser 								Friedrichs (wohl zu Anfang August 1185 in Florenz) gemachten 								Verleihungen (<hi rend="italic">quicquid quondam frater meus Guido 									Guerra dedit vel concessit, in presentia domini imperatoris 									Frederici</hi>) vorbehaltlich seiner Treue gegenüber dem Kaiser 								und den Konsuln von Genua (<hi rend="italic">salva fidelitate et 									mandatis domini Frederici Romanorum imperatoris et Ianuensium 									consulum de comuni, qui sunt et pro tempore fuerint</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Imperiale, CD. di Genova 2, 290 n<hi rend="sup">o</hi> 149.</p></div>
+				
+				
+					<div type="commentary"><p>Den Hinweis auf dieses Stück verdanke ich Herrn 								Kollegen Romeo Pavoni, vgl. dazu Pavoni, Ventimiglia dall’età 								bizantino-longobarda al Comune, Rivista Ingauna Intemelia XXIV–XXV, 								1969–70 (1995) 123. – Am 1. August 1185 weilte Graf Guido Guerra 								zuletzt bei Hofe, vgl. dessen Nennung in Reg. 2904; darauf könnte 								sich vielleicht der hier gebotene Hinweis auf die Verleihungen Guido 								Guerras in Gegenwart des Kaiser beziehen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2321</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-02_1_0_4_2_3_549_2321"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-02_1_0_4_2_3_549_2321"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-09-02_1_0_4_2_3_549_2321</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426603313" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2321</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-09-02" to="1177-09-02">1177 September 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII non. sept., in Venetiis)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Augustiner-Chorherrenstift Neustift bei Brixen</hi>  (<hi rend="italic">Ad Gratias sanctę Marię Brixinę</hi>) auf Bitten des Patriarchen Udalrich von Aquileia in seinen Schutz und bestätigt ihm die Besitzungen, die es vom verstorbenen Bischof Hartmann von Brixen, seinem Gründer Reginbert von Säben und anderen erhalten hat, namentlich den von Graf Arnold (von Greifenstein-Morit) und dem genannten Reginbert übertragenen Berg Villanders mit den Silbergruben und die Erzgruben bei Fursil. — Von demselben Empfängerschreiber wie DF.I.702 (= Reg. 2317) unter leichten Anklängen an das Privileg Papst Innozenz' II. von 1143 April 9 (Jaffé-L. 8354; Kugler, Urkunden von Neustift 29 n<hi rend="sup">o</hi>  1) verfaßt und geschrieben; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Notum esse volumus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv Neustift bei Brixen (A). Drucke: Kugler, Urkunden von Neustift 40 n<hi rend="sup">o</hi>  8; MG.DF.I.704. Reg.: Stumpf 4221.</p></div>
+				
+				
+					<div type="commentary"><p>Neustift hatte wenige Tage zuvor (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-28_1_0_4_2_3_545_2317.html" type="internal" n="regesten">2317</ref>) bereits ein Diplom erhalten. — Papst Alexander III. hatte bereits am 20. Mai 1177 in Venedig für Neustift geurkundet, ed. Kugler, Urkunden von Neustift, a.a.O., 36 n<hi rend="sup">o</hi>  6.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0198" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_704" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

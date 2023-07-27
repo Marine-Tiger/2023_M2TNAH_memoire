@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1506</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-09-19_1_0_4_2_2_948_1506"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-09-19_1_0_4_2_2_948_1506"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-09-19_1_0_4_2_2_948_1506</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247050" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1506</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-09-19" to="1165-09-19">1165 September 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(decimo tertio kalendas octobris, Wormatiae)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Château-Chalon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus imperialis curiae canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Wortwin</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Worms, Elekt Heribert (<hi rend="italic">Hebertus</hi>) von Besançon, Thesaurar Eberhard von St Johannes (Domstift zu Besançon), Archidiakon Friedrich (von Besançon), Magister und Domkanoniker Guido (von Besançon), Thesaurar Wibert von St. Stephan (zu Besançon), der Kanoniker Stephan von ebendieser Kirche, die Äbte Ado von Saint-Oyen-de-Joux, Ifrid (statt: Suffrid) von Luxueil, Guttard (statt: Guichard) von Faverney und Enselin (statt: Ticelin) von Corneux, die Grafen Stephan (von Mâcon) und Amadeus von Mömpelgard (Montbéliard), Gaucher (<hi rend="italic">Walcheus</hi>) von Salins, Burchard (<hi rend="italic">Bonardus</hi>) von Asuel, Markward (<hi rend="italic">Magnardus</hi>) von Grumbach, Thiebert <hi rend="italic">de Montemoreto</hi>; von den Klerikern der Kirche (wohl von Besançon) die Magister Umbert und Guido</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten der an den Hof gekommenen Äbtissin Petronilla deren Kloster <span sameAs="recipient"><hi rend="spaced">Château-Chalon</hi> </span>  (<hi rend="italic">Castrum Caroli ... in honorem beatissimae dei genitricis et semper virginis Mariae et Petri principis apostolorum</hi>...) in seinen Schutz und bestätigt ihm die namentlich angeführten Besitzungen sowie das Recht der freien Wahl der Äbtissin. <span n="witnesses">Z.: Bischof Konrad von Worms, Elekt Heribert (<hi rend="italic">Hebertus</hi>) von Besançon, Thesaurar Eberhard von St Johannes (Domstift zu Besançon), Archidiakon Friedrich (von Besançon), Magister und Domkanoniker Guido (von Besançon), Thesaurar Wibert von St. Stephan (zu Besançon), der Kanoniker Stephan von ebendieser Kirche, die Äbte Ado von Saint-Oyen-de-Joux, Ifrid (statt: Suffrid) von Luxueil, Guttard (statt: Guichard) von Faverney und Enselin (statt: Ticelin) von Corneux, die Grafen Stephan (von Mâcon) und Amadeus von Mömpelgard (Montbéliard), Gaucher (<hi rend="italic">Walcheus</hi>) von Salins, Burchard (<hi rend="italic">Bonardus</hi>) von Asuel, Markward (<hi rend="italic">Magnardus</hi>) von Grumbach, Thiebert <hi rend="italic">de Montemoreto</hi>; von den Klerikern der Kirche (wohl von Besançon) die Magister Umbert und Guido</span>. - <span n="chancellor"><hi rend="italic">Christianus imperialis curiae canc.</hi> </span>; <span n="clerk">verfaßt von Wortwin</span>. <span n="incipit"><hi rend="italic">Quandocumque nostrae imperialis</hi> </span>.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Der als Zeuge genannte Abt von Corneux hieß tatsächlich <hi rend="italic">Enselinus</hi> (= Anselm), und nicht: <hi rend="italic">Ticelinus</hi>; siehe dazu die Hinweise in den Bemerkungen zu dem hier in den Nachträgen angeführten Reg. 1505a.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quandocumque nostrae imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Transsumpt Kaiser Friedrichs II. von 1232 Juli (B.-Ficker Reg. 1991) in Abschrift des 18. Jh. Coll. Dunand ms. 5 p. 341, Stadtbibliothek Besançon (D). Drucke: Huillard-Bréholles 4<hi rend="sup">a</hi>, 371; MG. DF. I. 490. Reg.: Stumpf 4051.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Diktat vgl. die Vorbemerkung zum D. mit der dort angeführten Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0249" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_490" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

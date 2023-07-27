@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 541</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-22_1_0_4_2_1_543_541"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-22_1_0_4_2_1_543_541"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-04-22_1_0_4_2_1_543_541</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240492" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 541</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-04-22" to="1158-04-22">1158 April 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Kaiserswerth">Kaiserswerth</placeName>
+												<location><geo decls="#WGS">51.3, 6.7167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. maii, in Verda sancti Swiberti)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hamburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reynaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DO. II. 61 (VU. I) und DO. I. 307 (VU. II) außerhalb der Kanzlei verfaßt und wohl vom selben Schreiber mundiert wie DF. I. 214 (Reg. 542)</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Friedrich von Köln, die Bischöfe Gottfried von Utrecht (<hi rend="italic">Traiectensis</hi>), F(riedrich) von Münster, Philipp von Osnabrück (<hi rend="italic">Osenburgensis</hi>), die Pröpste Albert von Aachen, Gerhard von Magdeburg, Thibald von Xanten (<hi rend="italic">Sanctensis</hi>), Arnold von St. Andreas zu Köln, Bruno von St. Georg zu Köln, Dompropst (<hi rend="italic">summus prepositus</hi>) Otto von Bremen, (Dom)propst Hartwig von Hamburg, Propst Udo von Ramelsloh (<hi rend="italic">Ramaslensis</hi>), Notar H(einrich), Herzog H(einrich) von Sachsen, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), die Grafen D(ietrich) von Ahr, D(ietrich) von Kleve, H(ermann) von Kuik (<hi rend="italic">Cuke</hi>), Adolf von Berg, Simon von Tecklenburg sowie Otto von Ravensberg und sein Bruder H(einrich), Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt gemäß den Verfügungen seiner Vorgänger Otto (I.) und Otto (II.) den Klöstern der Erzdiözese <span sameAs="recipient"><hi rend="spaced">Hamburg</hi> </span>, nämlich Ramelsloh (<hi rend="italic">Ramesla</hi>), Bremen, Bassum (<hi rend="italic">Byrsen</hi>), Bücken (<hi rend="italic">Buckin</hi>), Zeven (<hi rend="italic">Cyuena</hi>), Rastede (<hi rend="italic">Rarstath</hi>), Reepsholt (<hi rend="italic">Ripisholth</hi>) und Neumünster (<hi rend="italic">Wippendorph</hi>), Königsschutz und Freiheit von jeglicher Gerichtsgewalt sowie die alleinige Zuständigkeit der vom Erzbischof bestellten Vögte über ihre Hintersassen gleich welchen Standes, der erzbischöflichen Kirche daselbst das Marktrecht zu Bremen (<hi rend="italic">licentiam construendi mercatum in loco Bremun</hi>), wie es Otto I. Erzbischof Adaldag verliehen, mit Bann, Zoll, Münze und allen finanziellen Nutzrechten des Königtums (<hi rend="italic">Bannum quoque et theloneum, monetam totumqe, quod inde regius rei publice fiscus obtinere poterit</hi>), Königschutz und Vorrechte der daselbst ansässigen Kaufleute und Immunität (<hi rend="italic">ut ex regie auctoritatis edicto in omnibus tali patrocinentur tutela et potiantur iure, quali ceterarum regalium institores urbium, nemoque inibi aliquam sibi vendicet potestatem nisi prefati pontificatus archiepiscopus et quem ipse ad hoc delegaverit</hi>.) sowie das Recht der freien Bischofswahl durch ihren Klerus. <span n="witnesses">Z.: Erzbischof Friedrich von Köln, die Bischöfe Gottfried von Utrecht (<hi rend="italic">Traiectensis</hi>), F(riedrich) von Münster, Philipp von Osnabrück (<hi rend="italic">Osenburgensis</hi>), die Pröpste Albert von Aachen, Gerhard von Magdeburg, Thibald von Xanten (<hi rend="italic">Sanctensis</hi>), Arnold von St. Andreas zu Köln, Bruno von St. Georg zu Köln, Dompropst (<hi rend="italic">summus prepositus</hi>) Otto von Bremen, (Dom)propst Hartwig von Hamburg, Propst Udo von Ramelsloh (<hi rend="italic">Ramaslensis</hi>), Notar H(einrich), Herzog H(einrich) von Sachsen, Pfalzgraf Konrad bei Rhein, Landgraf Ludwig (von Thüringen), die Grafen D(ietrich) von Ahr, D(ietrich) von Kleve, H(ermann) von Kuik (<hi rend="italic">Cuke</hi>), Adolf von Berg, Simon von Tecklenburg sowie Otto von Ravensberg und sein Bruder H(einrich), Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Reynaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach DO. II. 61 (VU. I) und DO. I. 307 (VU. II) außerhalb der Kanzlei verfaßt und wohl vom selben Schreiber mundiert wie DF. I. 214 (Reg. 542)</span>. <span n="incipit"><hi rend="italic">Qui mundiali potestate</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Qui mundiali potestate</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Bremer Kopiar aus dem Anfang des 14. Jh. n<hi rend="sup">o</hi>  90, Staatsarchiv Hannover, 1943 durch Kriegseinwirkung vernichtet (B); Abschrift daraus im alten Apparat der Monumenta Germaniae (B<hi rend="sup">1</hi>). Drucke: Lappenberg, Hamburg. UB. 1, 193 n<hi rend="sup">o</hi>  211 ; MG. DF. I. 213. Reg.: May, Reg. d. Erzb. v. Bremen 1, 140 n<hi rend="sup">o</hi>  537; Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  139; Wauters, Table chronol. 7/1, 270; Möhlmann, Ostfriesisches UB. 3, 3 n<hi rend="sup">o</hi>  9; Stumpf 3806.</p></div>
+				
+				
+					<div type="commentary"><p>Die Bezugnahme auf einen <hi rend="italic">rex Otto</hi>  im zweiten Teil der Dispositio legt die Vermutung nahe, daß ein Deperditum aus der Königszeit Ottos I. existierte; zu diesem vgl. jetzt abschließend Riedmann, Deperditum König Ottos I., MIÖG 78 (1970) 73 ff. mit einer Rekonstruktion des dispositiven Teils des verlorenen Diploms. - Das D. wurde durch Friedrich II. bestätigt (B.-Ficker 1474). - Zur Bautätigkeit Friedrichs in Kaiserswerth vgl. Kelleter, UB. Kaiserswerth, Einleitung XLVI ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0183" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_213" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

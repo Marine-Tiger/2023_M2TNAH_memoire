@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2392</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-07_1_0_4_2_3_620_2392"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-07-07_1_0_4_2_3_620_2392"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-07-07_1_0_4_2_3_620_2392</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306638" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2392</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-07-07" to="1178-07-07">1178 Juli 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Pfalz des Kaisers zu Turin</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die Veneris, septimo mensis iulii, super pallatium imperatoris de Taurino)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument, wie D.735 (= Reg. 2391) auf Befehl des Kaisers von <hi rend="italic">Martinus imperialis aule notarius et Papiensis</hi> ausgefertigt</scribe>
+				
+				
+					<testis function="witnesses">Bischof (<hi rend="italic">dominus</hi>) Wilhelm von Asti, Propst Gandulf von Asti, Markgraf (<hi rend="italic">dominus</hi>) Heinrich Guercio (von Vasto), Aicardus <hi rend="italic">de Vegianno</hi>  (Veggiano?), Grossus von Brescia, Valla <hi rend="italic">de Alferio</hi>, dessen <hi rend="italic">nepos</hi>  Ogerius, Ottolinus Grignola, Rubaldus Gardinus, (Vogt) Wilhelm von Aachen, Kämmerer Hartmann (<hi rend="italic">Arthemanus</hi>), dessen Bruder Rudolf, Rudolf, der Schreiber des Hofes, Lambert <hi rend="italic">de Niuimaga</hi>, Hermann <hi rend="italic">de Hore</hi>  (ob von Oeyen?) und Heinrich <hi rend="italic">de Vase</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit den Bewohnern der <hi rend="spaced">Stadt Asti</hi>  einen auf fünf Jahre befristeten Vertrag im Hinblick auf die Hut der Burg Annone, gemäß dem sich die Konsuln, die <hi rend="italic">credentia</hi>  und wohlbeleumundete Astenser eidlich verpflichten, die genannte Burg in der Verfügungsgewalt des Kaisers, seines Sohnes, König Heinrichs (VI.), und des von ihnen eingesetzten deutschen Kastellans zu belassen und ihr keinen Schaden zuzufügen sowie Streitigkeiten mit den Burgbewohnern binnen 40 Tagen gütlich oder durch ein Urteil, freilich ohne Schadensfolgen und Verhängung von Strafen (<hi rend="italic">vel per amicabilem compositionem vel secundum iusticiam sine aliqua pulsatione iniurie vel pene exactione</hi>), beizulegen, der Kaiser für den Fall des künftigen Verzichtes auf die Burg deren Rückstellung ausschließlich an Asti zusagt und die Bewohner von Asti und Annone sich gegenseitig Schutz und Sicherheiten versprechen werden. <span n="witnesses">Z.: Bischof (<hi rend="italic">dominus</hi>) Wilhelm von Asti, Propst Gandulf von Asti, Markgraf (<hi rend="italic">dominus</hi>) Heinrich Guercio (von Vasto), Aicardus <hi rend="italic">de Vegianno</hi>  (Veggiano?), Grossus von Brescia, Valla <hi rend="italic">de Alferio</hi>, dessen <hi rend="italic">nepos</hi>  Ogerius, Ottolinus Grignola, Rubaldus Gardinus, (Vogt) Wilhelm von Aachen, Kämmerer Hartmann (<hi rend="italic">Arthemanus</hi>), dessen Bruder Rudolf, Rudolf, der Schreiber des Hofes, Lambert <hi rend="italic">de Niuimaga</hi>, Hermann <hi rend="italic">de Hore</hi>  (ob von Oeyen?) und Heinrich <hi rend="italic">de Vase</hi> </span>. — <span n="clerk">Notariatsinstrument, wie D.735 (= Reg. 2391) auf Befehl des Kaisers von <hi rend="italic">Martinus imperialis aule notarius et Papiensis</hi> ausgefertigt.</span> <span n="incipit"><hi rend="italic">In nomine domini nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In nomine domini nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Cod. Astensis f. 207, Stadtarchiv Asti (C). Drucke: Sella, Cod. Astensis 3, 651 n<hi rend="sup">o</hi>  636; MG.Const.1, 379 n<hi rend="sup">o</hi>  276; MG.DF.I.736. Reg.: Stumpf 4251.</p></div>
+				
+				
+					<div type="commentary"><p>Der unter den Zeugen genannte Hofschreiber Rudolf ist der kaiserliche Kapellan und Notar dieses Namens. — Zum Inhalt vgl. Opll, Stadt und Reich, 202 f. — Der unter den Zeugen genannte Lambert <hi rend="italic">de Niuimaga</hi>, der in der DD.-Ausgabe auf Nimwegen bezogen wird, läßt sich nicht eindeutig identifizieren, vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 109.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0220" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_736" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._379" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

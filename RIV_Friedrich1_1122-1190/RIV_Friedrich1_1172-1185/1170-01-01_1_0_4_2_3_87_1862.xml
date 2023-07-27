@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1862</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-01-01_1_0_4_2_3_87_1862"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-01-01_1_0_4_2_3_87_1862"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-01-01_1_0_4_2_3_87_1862</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426596122" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1862</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-01-01" to="1170-01-01">1170 Januar 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(V<hi rend="sup">o</hi>  non. ianuarii, apud Frankenefort).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus imperialis aulę canc. vice Christiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Einfluß des UB verfaßt, mundiert von dem Hilwardshausener Empfängerschreiber, über den Acht, Mainzer UB.2/1, 244 n<hi rend="sup">o</hi>  131 näher informiert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Christian von Mainz, die Bischöfe Ludwig von Münster und Berno von Schwerin, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Landgraf Ludwig (von Thüringen), Graf Otto von Assel, Markward von Grumbach, die Grafen Heinrich von Diez und Emicho von Leiningen, Graf Rudolf von Ziegenhain und dessen Bruder Guzmar, Vogt Ludolf von Goslar, Graf Sigebodo von Scharzfeld, der Vogt dieser Kirche (von Hilwardshausen), Graf Albert von Eberstein, Berthold von Schauenburg, Kuno von Münzenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Propst Arnold</hi>  und dem <hi rend="spaced">Augustinerinnenstift Hilwardshausen</hi>  (<hi rend="italic">Hildewardeshusen</hi>) den Besitz der Güter <hi rend="italic">Hottenhusen</hi>  (abgegangen, bei Vaake an der Weser) und Wesefeld (<hi rend="italic">Weseuelde</hi>), die ihnen Abt Burchard von Fulda mit königlicher Zustimmung (<hi rend="italic">annuente regia dignitate nostra</hi>) und der seines Konventes verkauft hat, wofür er von Graf Albert von Eberstein das Gut <hi rend="italic">Westeim</hi>  (wohl Westerburg) erworben hat. <span n="witnesses">Z.: Erzbischof Christian von Mainz, die Bischöfe Ludwig von Münster und Berno von Schwerin, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Landgraf Ludwig (von Thüringen), Graf Otto von Assel, Markward von Grumbach, die Grafen Heinrich von Diez und Emicho von Leiningen, Graf Rudolf von Ziegenhain und dessen Bruder Guzmar, Vogt Ludolf von Goslar, Graf Sigebodo von Scharzfeld, der Vogt dieser Kirche (von Hilwardshausen), Graf Albert von Eberstein, Berthold von Schauenburg, Kuno von Münzenberg</span>. — <span n="chancellor"><hi rend="italic">Heinricus imperialis aulę canc. vice Christiani Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Einfluß des UB verfaßt, mundiert von dem Hilwardshausener Empfängerschreiber, über den Acht, Mainzer UB.2/1, 244 n<hi rend="sup">o</hi>  131 näher informiert</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Cum sit condignum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum sit condignum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (A). Drucke: Schannat, Hist.Fuldensis 2, 180 n<hi rend="sup">o</hi>  76; MG.DF.I.556. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  390; Stumpf 4105.</p></div>
+				
+				
+					<div type="commentary"><p>Die nach dem römischen Kalender unmögliche Datierung ist nach dem Vergleich mit der Urkunde des Abtes Burchard von Fulda über die gleiche Angelegenheit (Schannat, a.a.O. 2, 180 n<hi rend="sup">o</hi>  75 sowie Dobenecker, Reg. Thur. II, n<hi rend="sup">o</hi>  39) mit Sicherheit auf den 1. Januar zu beziehen; aus der Datierung dieser Fuldaer Urkunde (<hi rend="italic">in curia, quae in kalend. ianuarii solemniter est celebrata Frankenefurt</hi>) erfahren wir übrigens auch davon, daß der Kaiser damals am 1. Januar zu Frankfurt einen Hoftag abhielt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0042" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_556" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

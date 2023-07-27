@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2425</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-15_1_0_4_2_3_653_2425"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-15_1_0_4_2_3_653_2425"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-08-15_1_0_4_2_3_653_2425</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430900378" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2425</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-08-15" to="1178-08-15">1178 August 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Wien">Vienne</placeName>
+												<location><geo decls="#WGS">48.2167, 16.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVIII<hi rend="sup">o</hi>  kal. septembris, apud Uiennam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Nach Burkhards Diktat von einem einheimischen Schreiber mundiert</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Rechtshandlung): siehe oben bei Reg. 2404 {die Bischöfe Gregor von Gap und (Hugo) von Verden <hi rend="italic">(Uernensis [!])</hi>  sowie dessen Propst (Friedrich von Verden), Abt Nikolaus von Breme, Prior Bernardus von Romette, Archidiakon Quambonus von Gap, Propst Stephan (von Gap), Dekan Wilhelm (von Gap), Donarellus, Ugo von Bannes, Magister Petrus de La Font, Arnulfus, Petrus von Saint-Arey und sein <hi rend="italic">nepos</hi>  und Guiraudus <hi rend="italic">Caluarię</hi>, Latgerius, Wilhelm <hi rend="italic">Borrellus</hi>, Petrus <hi rend="italic">Gaucaudus</hi>, Lanbertus und Bertrandus, Durantus, Guiraudus <hi rend="italic">Terraci</hi>, Eschafinus, Wilhelm <hi rend="italic">de Luzerant</hi>, Reimund <hi rend="italic">Latgerius</hi>, Richaudus von Veynes (<hi rend="italic">Ueheni</hi>) und sein Bruder Petrus, Wilhelm von Villar und Petrus von Villar (beide aus Gap)}</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet, daß ihm und seiner Gemahlin (Beatrix) während ihres Aufenthaltes in der Pfalz zu Gap (<hi rend="italic">in Uapincensi palatio ... consistentes</hi>  — Reg. 2404) die vor ihn geladenen Adeligen Reimund von Montbrant, dessen Bruder Arnaldot und Ugo von Aix-en-Provence auf seine Bitten hin und mit Zustimmung Graf Wilhelms von Forcalquier und des Arnold Flota ihre Rechte an Gütern der <hi rend="spaced">Kartause Durbon</hi>  abgetreten haben und auch Graf Wilhelm von Forcalquier auf Rechte über Durbon verzichtet habe; er überträgt nunmehr all diese Rechte an die genannte Kartause, nimmt sie in seinen Schutz, behält sich jedoch die kaiserlichen Gerechtsame vor. <span n="witnesses">Z. (der Rechtshandlung): siehe oben bei Reg. 2404</span>. — <span n="clerk">Nach Burkhards Diktat von einem einheimischen Schreiber mundiert</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Imperatorię maiestatis celsitudinem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis celsitudinem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Gap (A). Drucke: Guillaume, Chartes de Durbon 109 n<hi rend="sup">o</hi>  135; MG.DF.I.753. Regg.: Chevalier, Reg.dauphinois 1, 782 n<hi rend="sup">o</hi>  4695 und 7,25 n<hi rend="sup">o</hi>  336; Stumpf 4262.</p></div>
+				
+				
+					<div type="commentary"><p>Bei den Zeugen handelt es sich mit größter Wahrscheinlichkeit um solche der Rechtshandlung (oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-18_2_0_4_2_3_632_2404.html" type="internal" n="regesten">2404</ref>), die nach Aussage der Narratio in der bischöflichen Pfalz zu Gap stattgefunden hat; zum Aufenthalt in Gap und dessen Datierung vgl. oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-07-18_1_0_4_2_3_631_2403.html" type="internal" n="regesten">2403</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0231" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_753" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

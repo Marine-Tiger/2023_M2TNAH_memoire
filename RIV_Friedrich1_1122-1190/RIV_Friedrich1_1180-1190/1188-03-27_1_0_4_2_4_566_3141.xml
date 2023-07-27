@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3141</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-27_1_0_4_2_4_566_3141"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-27_1_0_4_2_4_566_3141"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-03-27_1_0_4_2_4_566_3141</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3141</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-03-27" to="1188-03-27">(1188
+									vor März 27)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Ein Patriarch schildert Kaiser (Friedrich) die nach 								dem Fall vieler Städte äußerst schwierige Lage im Gebiet von 								Jerusalem und bittet ihn unter Hinweis auf seine besondere Pflicht 								als christlicher Herrscher dringend um seine Unterstützung.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fingiertes Schreiben, Jüngere Hildesheimer 								Briefsammlung, ed. de Kegel, MG. Briefe VII, 129 n<hi rend="sup">o</hi> 76.</p></div>
+				
+				
+					<div type="commentary"><p>Bei dem namentlich nicht angeführten Patriarchen 								könnte es sich entweder um Amalrich von Antiochia oder um Heraclius 								von Jerusalem handeln, vgl. dazu sowie zur zeitlichen Einordnung und 								zum historischen Gehalt die ausführlichen Erläuterungen bei de 								Kegel, a.a.O., 129 Anm. 1. – Dass damals tatsächlich Schreiben an 								den Kaiser gelangten, in denen um Unterstützung für das Heilige Land 								gefleht wurde, wird auch im Kontext des Mainzer Hoftages erwähnt, 								siehe dazu unten Reg. 3145.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

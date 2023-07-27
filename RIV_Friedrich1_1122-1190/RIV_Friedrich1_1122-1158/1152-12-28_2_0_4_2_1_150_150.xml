@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 150</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_2_0_4_2_1_150_150"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_2_0_4_2_1_150_150"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-12-28_2_0_4_2_1_150_150</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235932" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 150</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-12-28" to="1152-12-28">1152 Dezember 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Trier">Trier</placeName>
+												<location><geo decls="#WGS">50, 6.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V kal. ianuar., Treueris)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Floreffe</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus can. vice Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DK. III. 258 (VU. I) und der Urkunde Heinrichs des Blinden, des Grafen von Namur (Rousseau, Actes des comtes de Namur, 20 n<hi rend="sup">o</hi>  8; VU. II) offenbar mundiert von A II. D, dessen Gewohnheiten Zeugenankündigung und Eschatokoll entsprechen.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hillin von Trier, die Bischöfe Stephan von Metz, Ortlieb (<hi rend="italic">Ortilief</hi>) von Basel, Heinrich von Lüttich, Nikolaus von Cambrai, die Äbte Wibald von Corvey und Stablo, Rether von Prüm, die Herzoge Heinrich von Sachsen, Welf von Spoleto, Matthäus von Lothringen, Gottfried von Löwen, die Grafen Heinrich von Namur, Dietrich von Flandern, Pfalzgraf Hermann bei Rhein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt gemäß den Verfügungen König Konrads (III.) das Stift <span sameAs="recipient"><hi rend="spaced">Floreffe</hi> </span>  in seinen Schutz und bestätigt ihm den Besitzstand, das Recht der freien Abtwahl und darüber hinaus die Kirche von Leffe mit allem Zubehör (<hi rend="italic">ecclesiam scilicet sancte Marie, que Leffle dicitur, cum omnibus attinentiis suis, scilicet prepositura, templi custodia, oblationibus altaris et prebendarum redditibus</hi>), den Hof Fléchière (<hi rend="italic">Fechire</hi>), die Hälfte des Allods von Mornimont (<hi rend="italic">Mornigemont</hi>), die Höfe Marlange, Mariembourg (<hi rend="italic">Uerofle</hi>) mit dem halben Zehent, Villers (<hi rend="italic">Uileir</hi>), Coulonval (<hi rend="italic">Ualle Columbina</hi>) und Eksel (<hi rend="italic">Hecscele</hi>). <span n="witnesses">Z.: Erzbischof Hillin von Trier, die Bischöfe Stephan von Metz, Ortlieb (<hi rend="italic">Ortilief</hi>) von Basel, Heinrich von Lüttich, Nikolaus von Cambrai, die Äbte Wibald von Corvey und Stablo, Rether von Prüm, die Herzoge Heinrich von Sachsen, Welf von Spoleto, Matthäus von Lothringen, Gottfried von Löwen, die Grafen Heinrich von Namur, Dietrich von Flandern, Pfalzgraf Hermann bei Rhein</span>. - <span n="chancellor"><hi rend="italic">Arnoldus can. vice Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk"> nach DK. III. 258 (VU. I) und der Urkunde Heinrichs des Blinden, des Grafen von Namur (Rousseau, Actes des comtes de Namur, 20 n<hi rend="sup">o</hi>  8; VU. II) offenbar mundiert von A II. D, dessen Gewohnheiten Zeugenankündigung und Eschatokoll entsprechen.</span> <span n="incipit"><hi rend="italic">Pie postulatio voluntatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Pie postulatio voluntatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Unvollständige Abschrift im Chartular des Stiftes Floreffe von 1292 f. 185, Staatsarchiv Namur (B). Drucke: Hugo, Ann. Praemonstr. 1 prob. 56 und 2, prob. 10; MG. DF. I. 40. Reg.: Wauters, Table chronol. 2, 368 zu Dez. 26; Stumpf 3655.</p></div>
+				
+				
+					<div type="commentary"><p>Graf Heinrich von Namur besaß die Kirche von Leffe und den Hof von Obaix als Lehen des Königs und schenkte sie mit dem Zubehör dem Stift Floreffe (Rousseau a. a. O.: (<hi rend="italic">quicquid ad prepositum et custodem vel ad ceteros canonicos pertinebat, scilicet: oblationes altaris et prebendarum reditus</hi>, ...).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0053" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_40" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

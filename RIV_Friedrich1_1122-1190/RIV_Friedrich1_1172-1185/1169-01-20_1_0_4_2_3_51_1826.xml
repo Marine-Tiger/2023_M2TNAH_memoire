@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1826</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1169-01-20_1_0_4_2_3_51_1826"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1169-01-20_1_0_4_2_3_51_1826"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1169-01-20_1_0_4_2_3_51_1826</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595931" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1826</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1169-01-20" to="1169-01-20">1169 Januar 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Heiligenstadt">Heiligenstadt</placeName>
+												<location><geo decls="#WGS">51.3833, 10.15</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIII<hi rend="sup">o</hi>  kal.febr., apud Heligstat).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von Ulrich B</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Rechtshandlung, vgl. Reg. 1562): Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Otto der Ältere von Wittelsbach, Markgraf Berthold von Vohburg, Heinrich von Donaustauf (<hi rend="italic">Stoupha</hi>), Eberhard von Frickendorf, Konrad von Boxberg und Heinrich von Aubing</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt dem <hi rend="spaced">Augustinerchorherrenstift Polling</hi>  das Gut Forstenried (<hi rend="italic">Vorstetrieth</hi>) zu Erbrecht zurück, das dem Stift seit langem entfremdet gewesen war und von Heinrich von Aubing (<hi rend="italic">Vbingen</hi>) zunächst dessen Herrn, Ulrich von Altmannstein (<hi rend="italic">Lapide</hi>), von diesem an Pfalzgraf Otto von Wittelsbach, von diesem an Herzog Heinrich (den Löwen) von Sachsen und von diesem schließlich an ihn (den Kaiser) übergeben worden ist. <span n="witnesses">Z. (der Rechtshandlung, vgl. Reg. 1562): Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Otto der Ältere von Wittelsbach, Markgraf Berthold von Vohburg, Heinrich von Donaustauf (<hi rend="italic">Stoupha</hi>), Eberhard von Frickendorf, Konrad von Boxberg und Heinrich von Aubing</span>. — <span n="clerk">Verfaßt und geschrieben von Ulrich B</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Decet imperialem clementiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet imperialem clementiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Kloster Polling Urkunden 4 (A). Druck: MG.DF.I.549. Faks.: Koch, Reichskanzlei Abb. 10. Regg.: Dobenecker, Reg.Thur.2, n<hi rend="sup">o</hi>  376; Stumpf 4099.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-04-00_3_0_4_2_2_1005_1562.html" type="internal" n="regesten">1562</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1169-05-03_1_0_4_2_3_61_1836.html" type="internal" n="regesten">1836</ref>. — Zur Identifizierung des Heinrich von Donaustauf vgl. jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 268.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0032" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_549" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

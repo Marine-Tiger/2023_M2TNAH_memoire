@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2850</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-17_2_0_4_2_4_272_2850"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-17_2_0_4_2_4_272_2850"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-17_2_0_4_2_4_272_2850</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2850</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-17" to="1185-01-17">(1185
+									nach Januar 17)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ist über die peremptorische Vorladung des 								Elekten Rudolf von Trier an die Kurie erzürnt, lässt diesen dann 								aber dennoch unter Begleitung von zwei Dekretisten und zwei Legisten 								ziehen. Eine Entscheidung im Trierer Wahlstreit kommt jedoch nicht 								zu Stande. Rudolf kehrt abermals zum Kaiser zurück, Folmar verbleibt 								bei Papst Lucius (III.). In der Folge fasst der Papst wegen des 								gewaltsamen Eingreifens König Heinrichs (VI.) zu Gunsten Rudolfs den 								Beschluss, Folmar zu weihen, worauf der Kaiser durch Boten mit dem 								Abbruch der Beziehungen droht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. III cap. 11, MG. 								SS XXI, 155 f., vgl. dazu auch Baaken – Schmidt, Papstregesten 								1124–1198, Teil 4/Lfg. 2: 1184–1185, n<hi rend="sup">o</hi> 1565.</p></div>
+				
+				
+					<div type="commentary"><p>Einem Erscheinen Rudolfs an der Kurie hatte der 								Kaiser jedenfalls noch im Herbst 1184 zu Verona zugestimmt (Regg. 								2801, 2808 und 2848 [Nennungen als Zeuge]). – Die zeitliche 								Einordnung wurde nach der Nennung Rudolfs in DF.I. 892 (Reg. 2848) 								vorgenommen. Inwieweit die Weihe Folmars tatsächlich noch von Lucius 								III. ins Auge gefasst wurde – sie fand dann am 1. Juni 1186 durch 								Urban III. statt (vgl. unten Reg. 2992) –, muss offen bleiben; zur 								Eskalation der Situation vgl. Reg. 2849.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

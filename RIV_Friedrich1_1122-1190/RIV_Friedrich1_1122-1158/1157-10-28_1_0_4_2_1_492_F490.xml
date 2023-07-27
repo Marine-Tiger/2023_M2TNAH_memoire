@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †490</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-28_1_0_4_2_1_492_F490"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-28_1_0_4_2_1_492_F490"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-28_1_0_4_2_1_492_F490</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239935" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †490</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-28" to="1157-10-28">1157 Oktober 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(quinto calendas novembris, Bisuntii)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Meyriat</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">〈Recognitum per〉 Reinaldum canc. vice Stephani Viennensis archiep. et regni Burgundiae archicanc.</hi></notarius>
+				
+				
+					<scribe>echte Fassung wohl von RD mundiert und vielleicht auch verfaßt</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Humbert von Besançon, Heraclius von Lyon, Petrus von Tarentaise, Bischof Wilhelm (<hi rend="italic">Guilliermo</hi>) von Novara, Herzog Matthäus von Lothringen, die Grafen Volmar von Saarwerden (<hi rend="italic">Wolmaro de Salzuuerda</hi>), Stephan von Herrlingen (<hi rend="italic">Hurmungen</hi>), Albert von Dillingen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Kartause <span sameAs="recipient"><hi rend="spaced">Meyriat</hi> </span>  (<hi rend="italic">domum Maioraeui</hi>) in der Diözese Lyon unter ihrem Prior Nanthelm in seinen Schutz und bestätigt ihr die Besitzungen, 〈insbesondere die bei der Stiftung übereigneten Güter innerhalb angegebener Grenzen mit sämtlichen Herrschaftsrechten gemäß dem Privileg König Konrads II. (= III.) aus dem Jahre 1142〉. <span n="witnesses">Z.: die Erzbischöfe Humbert von Besançon, Heraclius von Lyon, Petrus von Tarentaise, Bischof Wilhelm (<hi rend="italic">Guilliermo</hi>) von Novara, Herzog Matthäus von Lothringen, die Grafen Volmar von Saarwerden (<hi rend="italic">Wolmaro de Salzuuerda</hi>), Stephan von Herrlingen (<hi rend="italic">Hurmungen</hi>), Albert von Dillingen</span>. - <span n="chancellor"><hi rend="italic">〈Recognitum per〉 Reinaldum canc. vice Stephani Viennensis archiep. et regni Burgundiae archicanc.</hi></span>; <span n="clerk">echte Fassung wohl von RD mundiert und vielleicht auch verfaßt</span>. <span n="incipit"><hi rend="italic">Ad imperialis digniatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad imperialis digniatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 17. Jh. eines Transsumptes des Herzogs Amadeus von Savoyen von 1433 November 26 im Ms. lat. 9869 p. 159, Nationalbibliothek Paris (C); zwei beglaubigte Abschriften des 17. Jh. desselben Transsumptes, Departementalarchiv Bourg-en-Bresse (D<hi rend="sup">1</hi>, D<hi rend="sup">2</hi>). Druck e: Perard, Recueil servant à l'hist. de Bourgogne 238 ; MG. DF. I. 185. Reg.: Chevalier, Reg. Dauphinois 1, 675 n<hi rend="sup">o</hi>  4034 ; Stumpf 3781.</p></div>
+				
+				
+					<div type="commentary"><p>Die spätmittelalterliche Interpolation eines echten Diploms mit Schutz und Besitzbestätigung samt Pertinenzformel, das 1157 zu Besançon ausgestellt wurde, entstand jedenfalls vor der Transsumierung durch Herzog Amadeus von Savoyen (1433). An der Existenz des Deperditums DK. III. *73 muß trotz seiner Erwähnung in der Interpolation nicht gezweifelt werden. Die Bestätigung der Grenzen des Klosterbezirkes ist dem Privileg Alexanders III. von 1169 Dezember 4 entnommen (Guigue, Cartulaire Lyonnais 1, 59 n<hi rend="sup">o</hi>  41, fehlt JL.). Die Zeugen nehmen, außer den drei zuletzt genannten, die sich in DF. I. 514 für Vienne finden (vgl. Jänichen, Herrschafts- und Territorialverhältnisse 1, Schrr. zur südwestdt. Landeskde. 2, 1964, 12 und 22), an dem Reichstag zu Besançon teil.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0165" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_185" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3063</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-00_4_0_4_2_4_487_3063"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-00_4_0_4_2_4_487_3063"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-03-00_4_0_4_2_4_487_3063</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3063</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-03-01" to="1187-03-31">(1187
+									Februar – März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>während des kaiserlichen Hoftags in der Alten Kapelle  zu Regensburg</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Markgraf 									Berthold von Andechs sowie eine Reihe von lokalen Zeugen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Prämonstratenserstift Schäftlarn tauscht mit 								Bischof Otto II. von Freising einen Hof in Deining gegen Besitz zu 								Warnberg (<hi rend="italic">Hec facta sunt Ratisponę in capella, quę 									dicitur Altenchapellen, dum cesar Fridericus celebraret curiam 									in eadem civitate.</hi>). <span n="witnesses">Z.: Markgraf 									Berthold von Andechs sowie eine Reihe von lokalen Zeugen</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Weißthanner, Traditionen Schäftlarn (Qu. u. 								Erörterungen zur Bayer. Gesch. N.F. 10/1, 1953) 269 n<hi rend="sup">o</hi> 268.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung sowie zum Inhalt vgl. 								Weißthanner, a.a.O., 269 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

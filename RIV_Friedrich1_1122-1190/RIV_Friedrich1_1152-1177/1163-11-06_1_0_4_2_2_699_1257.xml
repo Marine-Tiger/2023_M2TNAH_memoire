@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1257</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-06_1_0_4_2_2_699_1257"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-11-06_1_0_4_2_2_699_1257"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-11-06_1_0_4_2_2_699_1257</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245480" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1257</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-11-06" to="1163-11-06">1163 November 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII ydus novembr., Laudę)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Città di Castello</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Bistum <span sameAs="recipient"><hi rend="spaced">Città di Castello</hi> </span>  unter dem Elekten Corbellus und dem Prior Rainer auf Bitten des Elekten Rainald von Köln gemäß den von diesem getroffenen Verfügungen in seinen Schutz, bestätigt ihm die Besitzungen, wobei Ansprüche der Camaldulenser zurückgewiesen und die Errichtung und Erwerbung von Kirchen im Bistum durch diese und andere Klöster an die Zustimmung des Bischofs gebunden werden, und weist im besonderen die Markgrafen Guidi, die Söhne des Markgrafen Uguccio und die Konsuln von Città di Castello zur Unterstützung von Bischof und Domkapitel an. - <span n="chancellor"><hi rend="italic">Rainaldus sanctę Coloniensis ecclesię electus Italię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Desiderii nobis est</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderii nobis est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Domkapitels zu Città di Castello (A). Drucke: Magherini - Graziani, Storia di Città di Castello 2, 289; MG. DF. I. 407. Faks.: Magherini - Graziani, a. a. O., nach S. 70; Herkenrath, Reichskanzlei 1174 bis 1180, Abb. 7 Teilfaks. Reg.: Stumpf 3988.</p></div>
+				
+				
+					<div type="commentary"><p>Prior Rainer von Città di Castello ist Empfänger von DF. I. 408 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-06_2_0_4_2_2_700_1258.html" type="internal" n="regesten">1258</ref>). - Rainald von Dassel war im August 1163 in Città di Castello gewesen und war damals wohl nicht nur für die Stadt (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-00_2_0_4_2_2_669_D1227.html" type="internal" n="regesten">1227</ref>), sondern auch für deren Bischof und Domkapitel tätig gewesen. Zum D. vgl. von der Nahmer, Reichsverwaltung in Toscana, 169.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0189" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_407" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

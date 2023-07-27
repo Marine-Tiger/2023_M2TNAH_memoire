@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 506</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-25_1_0_4_2_1_508_506"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-25_1_0_4_2_1_508_506"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-25_1_0_4_2_1_508_506</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240138" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 506</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-25" to="1157-11-25">1157 November 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII kal. decembris, Bisuncii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. laut B.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Saint-Barnard</hi>  <hi rend="spaced">Romans</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Viennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach mit den übrigen Burgunderdiplomen dieser Zeit übereinstimmendem Kanzleidiktat von RD mundiert;</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Humbert von Besançon, die Bischöfe Odo von Valence, Gaufred von Avignon, Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg und Stephan (von Mâcon)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Stift <span sameAs="recipient"><hi rend="spaced">Saint-Barnard</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Romans</hi> </span>  (<hi rend="italic">Romanensem ecclesiam</hi>) auf Bitten von dessen Schatzmeister Wilhelm, des Sohnes Silvius' von Clérieux (<hi rend="italic">Cleriaco</hi>), dessen Verdienste besonders hervorgehoben werden, in seinen Schutz und bestätigt die Besitzungen, Märkte und den Hafen (<hi rend="italic">fora, nundinas et portum</hi>) unter Vorbehalt der kaiserlichen Gerechtsame und auch der Rechte des Erzbischofs und Erzkanzlers Stephan von Vienne, der auch Abt von Romans ist. <span n="witnesses">Z.: Erzbischof Humbert von Besançon, die Bischöfe Odo von Valence, Gaufred von Avignon, Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Hugo von Dagsburg und Stephan (von Mâcon)</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Viennensis archiep. et archicanc.</hi> </span>; <span n="clerk">nach mit den übrigen Burgunderdiplomen dieser Zeit übereinstimmendem Kanzleidiktat von RD mundiert;</span>  <span n="seal">B. 2. laut B.</span><span n="incipit"><hi rend="italic">In examine cuncta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In examine cuncta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1355 Oktober 5, Departementalarchiv Grenoble (B); Abschrift aus dem 15. Jh. im Cahier n<hi rend="sup">o</hi>  362.504 (Pont de l'Isère), Departementalarchiv Valence, derzeit nicht auffindbar (C). Drucke: Stumpf, Acta ined. 491 n<hi rend="sup">o</hi>  345; Chevalier, Collection de cartul. Dauphinois 6/2, 76 n<hi rend="sup">o</hi>  10; MG. DF. I. 197. Reg.: Chevalier, Reg. Dauphinois 1, <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-02-00_3_0_4_2_2_117_675.html" type="internal" n="regesten">675</ref>  n<hi rend="sup">o</hi>  <ref type="unmatched">4037</ref>; Stumpf 3790a.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0171" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_197" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2077</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-23_1_0_4_2_3_304_2077"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-23_1_0_4_2_3_304_2077"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-05-23_1_0_4_2_3_304_2077</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598423" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2077</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-05-23" to="1174-05-23">1174 Mai 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Kaiserslautern">Kaiserslautern</placeName>
+												<location><geo decls="#WGS">49.45, 7.7833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(X<hi rend="sup">o</hi>  kal. iunii, apud Lutram)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Mogvntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von HE</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Trier und Wichmann von Magdeburg, die Elekten Reinhard von Würzburg, Konrad von Worms und Theoderich von Metz, Bischof Peter von Toul, Abt Gregor von Prüm, Herzog Matthäus (von Lothringen), die Grafen Hugo von Dagsburg und Heinrich von Diez, Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schlichtet auf Intervention Erzbischof Arnolds von Trier, zugleich Kanonikers von Aachen, und auf Bitten des Dekans Stephan und der Brüder von Aachen die jährlich neu aufflammenden Streitigkeiten zwischen dem Kapitel des <hi rend="spaced">Marienstiftes zu Aachen</hi>  und dessen Propst um die Einsetzung von Schultheißen in Gütern dieser Kirche, indem er für das Seelenheil seiner Vorfahren und unter Vermittlung seiner Gemahlin, Kaiserin Beatrix, und seiner Kinder seinen Verwandten, Propst Otto von Aachen, dazu bewegt, dem Aachener Kapitel dieses Recht in den Stiftshöfen zu Traben und Kesselheim gegen eine jährliche Weinabgabe und eine Geldzahlung zu überlassen. Des weiteren legt er fest, daß der Aachener Propst von dem zu bestimmten Zeiten fälligen Dienst (<hi rend="italic">de obsequio</hi>) des Marienstiftes an den Erzbischof von Trier und den Trierer Archidiakon ein Drittel von den Kirchen in den vorgenannten Höfen zu leisten hat und diese Kirchen und Höfe gegen Gewalt und Untrecht zu schützen hat. <span n="witnesses">Z.: die Erzbischöfe Arnold von Trier und Wichmann von Magdeburg, die Elekten Reinhard von Würzburg, Konrad von Worms und Theoderich von Metz, Bischof Peter von Toul, Abt Gregor von Prüm, Herzog Matthäus (von Lothringen), die Grafen Hugo von Dagsburg und Heinrich von Diez, Werner von Bolanden</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Mogvntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von HE</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Nostrę serenitatis clemencia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nostrę serenitatis clemencia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Meuthen, Aachener Urkunden 211 n<hi rend="sup">o</hi>  36; MG.DF.I.621. Regg.: Goerz, Mittelrhein.Reg.2, 100 n<hi rend="sup">o</hi>  356; Wauters, Table chronol.2, 546; Diestelkamp — Rotter, Urkundenregesten 1, 329 n<hi rend="sup">o</hi>  421; Dolch — Münch, UB. der Stadt Kaiserslautern 1, 53 n<hi rend="sup">o</hi>  21; Stumpf 4161.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dem besonders pathetischen Stil, der an D.502 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-01-08_2_0_4_2_2_981_1539.html" type="internal" n="regesten">1539</ref>) erinnert, vgl.die Vorbemerkung zum D. — Gut denkbar wäre es, daß dieser Ausgleich bereits auf dem Aachener Hoftag vom März 1174 (vgl. Regg. <ref type="unmatched">2062 — 2066</ref>) zustande gekommen ist, wie Ficker, Beiträge zur Urkundenlehre 1, 245 vermutet.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0110" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_621" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

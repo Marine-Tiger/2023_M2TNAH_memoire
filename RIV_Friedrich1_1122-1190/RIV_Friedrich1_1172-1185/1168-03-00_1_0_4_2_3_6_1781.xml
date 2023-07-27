@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1781</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-03-00_1_0_4_2_3_6_1781"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-03-00_1_0_4_2_3_6_1781"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-03-00_1_0_4_2_3_6_1781</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1781</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-03-01" to="1168-03-31">ab 1168 März</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Nach seiner Rückkehr nach Deutschland beginnt Friedrich, durch Kauf, Schenkung, fiskalische und erbrechtliche Nachfolge die Güter zahlreicher erbenloser Herren an sich zu bringen, darunter die seines verstorbenen Vetters Herzog Friedrich von Rothenburg, des Adelgoz von Schwabegg, dessen Augsburger Vogtei er teils mit Einverständnis Bischof Hartwigs von Augsburg, teils infolge Erbrechts bzw. Fiskalrechts erwirbt, weiters der Herren von Warthausen, von <hi rend="italic">Bibra</hi>  (wohl eher Biberach an der Riß in Baden-Württemberg als Biberbach in Bayern), von Herrlingen, von Schweinhausen, von Biederthal (im Elsaß), von Lenzburg, von Donauwörth und vieler anderer, allerdings nur solcher im deutschen Gebiet. Graf Rudolf von Pfullendorf überträgt alle seine Güter dem Kaiser.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Burchard von Ursberg, ed. Holder-Egger — Simson, MG.SS rer.Germ.in us.schol., 49 f.; Otto von St. Blasien, ed. Hofmeister, MG.SS rer.Germ.in us.schol., 28 und 29 f. (ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 62 ff.).</p></div>
+				
+				
+					<div type="commentary"><p>Diese Maßnahmen, die wohl unmittelbar nach der Rückkehr nach Deutschland einsetzten, ergaben sich aus dem Tod zahlreicher Teilnehmer des 4. Italienzuges, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-08-02_1_0_4_2_2_1142_1697.html" type="internal" n="regesten">1697</ref>; sie zogen sich allerdings durch mehrere Jahre hin. — Vgl. dazu Zeller, Das Augsburger Burggrafenamt, Archiv für die Geschichte des Hochstifts Augsburg 5 (1916 — 1919) 352 f. mit Anm. 4, zu den Lenzburgern vgl. etwa die Bemerkungen bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-02-20_1_0_4_2_3_234_2009.html" type="internal" n="regesten">2009</ref>, zu Graf Rudolf von Prullendorf vgl. die Arbeit von Schmid, Pfullendorf.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0019" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3206</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-06_1_0_4_2_4_633_3206"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-06_1_0_4_2_4_633_3206"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-12-06_1_0_4_2_4_633_3206</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1415633535" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3206</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-12-06" to="1188-12-06">1188
+									Dezember 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Saalfeld (<hi rend="italic">Die martis, qui fuit sextus intrante mense decembris, </hi> <hi rend="italic">aput Saluelde</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument des Notars Albert (<hi rend="italic">Ego Albertus domini Fedrici imperatoris invictissimi notarius interfui et ex iussione prefati domini Fedrici imperatoris suaque auctoritate suprascripta omnia in hanc publicam formam redegi.</hi>)</scribe>
+				
+				
+					<testis function="witnesses">Graf Egino (von Hohen-Urach?), Magister Romanus (Domherr von Trient) und <hi rend="italic">dominus</hi> Engelerius</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt in Gegenwart Markgraf Ottos von 								Meißen (<hi rend="italic">Meis</hi>), der Grafen Siegfried von 								Orlamünde, Gunther von Käfernburg (<hi rend="italic">Keurenperg</hi>), Erwin von Gleichen und Heinrich von Eppan (<hi rend="italic">Piano</hi>), des Adelperius (auch: Albero) von 								Wangen, des Peregrin von Beseno, des Bozo von Stenico sowie des Muso 								und des Petarinus von Trient mehrere auf seine Frage gefällte 								Rechtssprüche: Herzog Bernhard von Sachsen sagt aus, dass der 								frühere Bischof Albert von Trient nicht berechtigt war, auf seinem Totenbett Güter des Bistums gleich unter welchem Rechtstitel zu veräußern. Markgraf Otto von Meißen sagt aus, dass alles, worüber Bischof Albert am Tage seines Todes verfügte, an seinen Nachfolger übergehen müsse. Graf Heinrich (von Eppan) sagt aus, dass alles, was entfremdet wurde, zurückzuerstatten ist (<hi rend="italic">secundum racionem curie Tridentine hoc emendare debet</hi>). <span n="witnesses">Z.: Graf Egino (von Hohen-Urach?), Magister Romanus (Domherr von Trient) und <hi rend="italic">dominus</hi> Engelerius</span>. –<span n="clerk">Notariatsinstrument des Notars Albert (<hi rend="italic">Ego Albertus domini Fedrici imperatoris invictissimi notarius interfui et ex iussione prefati domini Fedrici imperatoris suaque auctoritate 	suprascripta omnia in hanc publicam formam redegi.</hi>)</span>.<span n="incipit"> <hi rend="italic">Die martis, qui</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Die martis, qui</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Transsumpt des Notars Ercetus und anderer von 1218 im Cod. Wangianus minor f. 20, Staatsarchiv Trient (C). Drucke: Huter, Tiroler UB. I 1, 236 n<hi rend="sup">o</hi> 439; MG.DF.I.986. Regg.: Diestelkamp – Rotter, Urkundenregesten 1, 400 n<hi rend="sup">o</hi> 507; Stumpf 4508.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Inhalt vgl. auch D. 987 (Reg. 3207). – Zu dem unter den Zeugen genannten Albero von Wangen (auch: von Burgeis) vgl. Plassmann, Struktur des Hofes, 258 und 279.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3463</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-00_1_0_4_2_4_893_3463"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-00_1_0_4_2_4_893_3463"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-06-00_1_0_4_2_4_893_3463</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3463</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-01-01" to="1190-05-31">(vor
+									1190 Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entsendet (in Zusammenhang mit der 								Vorbereitung des Kreuzzuges) Gesandte an den Roupeniden Leon II. von 								Armenien.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Vartan der Große, Universalgeschichte 								(Recueil des Historiens des Croisades, Doc. arméniens 1, 1869) 440 								f.; Nerses von Lampron (Recueil des Historiens des Croisades, Doc. 								arméniens 1, 1869) 563 ff.; vgl. auch Petermann, Kreuzzüge aus 								armenischen Quellen, Abhh. d. Kgl. Preuß. Akad. d. Wiss. 1860 (1861) 								150. (aus späteren Quellen).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung wird hier nach dem 								spätest möglichen Zeitpunkt, dem Treffen des Staufers mit 								armenischen Boten am Göksu (siehe Reg. 3464) vorgenommen. Kontakte 								des Roupeniden mit dem Staufer dürfte es allerdings – vielleicht auf 								Initiative Leons – schon 1187 oder bald darauf gegeben haben, vgl. 								dazu Eickhoff, Barbarossa im Orient, 151 Anm. 6. – Halfter, Staufer 								und Armenien, in: Von Schwaben bis Jerusalem, hg. von Lorenz und 								Schmidt (Veröff. d. Alemann. Instituts, Nr. 61, 1995) 194 f., macht 								unter Hinweis auf das Geschichtswerk des Nerses von Lampron, des 								armenischen Erzbischofs von Tarsus, darauf aufmerksam, dass man sich 								auf armenischer Seite in jedem Fall schon zu Pfingsten 1189 (!) 								anschickte, Vorbereitungen für den Empfang des staufischen Kaisers 								zu treffen, und bietet gleichfalls gute Argumente dafür, dass der 								armenische Fürst bereits früher (1187?) Kontakte zum Staufer 								aufgenommen hatte, siehe dazu auch die Hinweise oben bei Reg. 3151. 								– Zu den armenischen Quellen vgl. Eickhoff, a.a.O., 151 f., sowie – 								im Überblick – die Hinweise bei Halfter, Staufer und Armenien, 								a.a.O., 192 mit Anm. 30.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

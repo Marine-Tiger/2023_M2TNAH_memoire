@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1175</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-11-00_2_0_4_2_2_617_1175"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-11-00_2_0_4_2_2_617_1175"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-11-00_2_0_4_2_2_617_1175</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1175</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-11-01" to="1162-11-30">1162 (November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Erzbischof (Konrad) von Mainz, die Bischöfe Konrad von Augsburg und Ortlieb von Basel, Abt Ulrich von der Reichenau, Herzog Heinrich (der Löwe) von Sachsen, Graf Rudolf von Pfullendorf, die Pfalzgrafen Friedrich und Otto von Wittelsbach, Pfalzgraf Hugo von Tübingen, Propst Berthold von Konstanz, Dekan Heinrich, Scholaster Ulrich, Propst Heinrich von St. Stephan, Kustos Ulrich und weitere Kanoniker (von Konstanz) sowie die Ministerialen dieser (der Konstanzer) Kirche: Rudolf von Arbon und sein Sohn Werner, Arnold von Grünenberg, Konrad von Homburg und Burchard</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Auf dem <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>  Kaiser Friedrichs in Konstanz beurkundet Bischof Hermann von Konstanz die von Herzog Welf (VI.) vorgenommene Übertragung des Kloster St. Laurentius zu Ittingen samt allen Besitzungen, besonders der Kirche zu Üßlingen, an das Kloster St. Gallen, das durch Abt Werner und seine Mitbrüder persönlich vertreten ist. <span n="witnesses">Z.: Erzbischof (Konrad) von Mainz, die Bischöfe Konrad von Augsburg und Ortlieb von Basel, Abt Ulrich von der Reichenau, Herzog Heinrich (der Löwe) von Sachsen, Graf Rudolf von Pfullendorf, die Pfalzgrafen Friedrich und Otto von Wittelsbach, Pfalzgraf Hugo von Tübingen, Propst Berthold von Konstanz, Dekan Heinrich, Scholaster Ulrich, Propst Heinrich von St. Stephan, Kustos Ulrich und weitere Kanoniker (von Konstanz) sowie die Ministerialen dieser (der Konstanzer) Kirche: Rudolf von Arbon und sein Sohn Werner, Arnold von Grünenberg, Konrad von Homburg und Burchard</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Urkunde Bischof Hermanns von Konstanz von 1162, ed. Wartmann, UB. der Abtei Sanct Gallen 3-4, 44 n<hi rend="sup">o</hi>  829.</p></div>
+				
+				
+					<div type="commentary"><p>Diese weder bei Stumpf noch bei Feldmann, Welf VI. erwähnte Urkunde stellt einen wertvollen Beleg für den Konstanzer Hoftag vom November 1162 dar; sie bietet Einblicke in den Kreis der daran teilnehmenden Persönlichkeiten. Zum Inhalt vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-25_2_0_4_2_1_111_D111.html" type="internal" n="regesten">111</ref>. - Damals erfolgte vielleicht auch die einer St. Gallener Traditionsnotiz von 1167 zugrundeliegende Übertragung eines kaiserlichen Ministerialen an die Abtei St. Gallen, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-07-06_1_0_4_2_2_1120_1675.html" type="internal" n="regesten">1675</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0170" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

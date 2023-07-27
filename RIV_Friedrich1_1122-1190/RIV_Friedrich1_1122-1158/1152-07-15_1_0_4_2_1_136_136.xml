@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 136</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-15_1_0_4_2_1_136_136"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-15_1_0_4_2_1_136_136"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-15_1_0_4_2_1_136_136</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235527" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 136</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-01" to="1152-10-15">(1152 Juli), Augsburg-1152 Oktober 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">(Würzburg)</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idibus octobris, Auguste)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Marbach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von AH (Albert)</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Otto von Freising, Hermann von Konstanz, Konrad von Augsburg, Herzog Welf, Pfalzgraf Otto (von Wittelsbach), Markgraf Otakar (von Steier)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Stift <span sameAs="recipient"><hi rend="spaced">Marbach</hi> </span>  (<hi rend="italic">Marchbach</hi>) auf Bitten seiner Kanoniker zum Seelenheil seiner Eltern in seinen Schutz, befreit es von jeder kirchlichen und weltlichen Herrschaft (<hi rend="italic">ab omni ecclesiastice secularisve persone dominio vel potestate liberum</hi>), nimmt es von der üblichen Gerichtsbarkeit aus (<hi rend="italic">ab omnium hominum iurisdictione separatus</hi>) und bestätigt ihm alle gegenwärtigen und künftigen Besitzungen. <span n="witnesses">Z.: die Bischöfe Otto von Freising, Hermann von Konstanz, Konrad von Augsburg, Herzog Welf, Pfalzgraf Otto (von Wittelsbach), Markgraf Otakar (von Steier)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt von AH (Albert)</span>. <span n="incipit"><hi rend="italic">Quoniam quidem divina</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam quidem divina</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschriften des Transsumptes Rudolfs I. von 1275 August 18 (B.-Redlich Reg. 420) im Marbacher Kopialbuch des 17. Jh. p. 8, Departementalarchiv Colmar (C) und von Grandidier Karton 2 Fasz. 2 n<hi rend="sup">o</hi>  118, Generallandesarchiv Karlsruhe (G). Drucke: Würdtwein, Nova Subsidia 7, 158 n<hi rend="sup">o</hi>  61; MG. DF. I. 29. Reg.: Stumpf 3634 zu Juli 15.</p></div>
+				
+				
+					<div type="commentary"><p>Die Widersprüchlichkeit in den Datierungsangaben erklärt sich daraus, daß einerseits nach der Handlung in Augsburg und andererseits nach der Beurkundung am 15. Oktober (in Würzburg) datiert wurde, vgl. Herkenrath, Albert von Sponheim, ZAGV 80 (1970) 82 ff. und Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-00_2_0_4_2_1_107_107.html" type="internal" n="regesten">107</ref>. - Aus einer Urkunde Friedrichs II. B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-10-02_1_0_4_2_2_955_1513.html" type="internal" n="regesten">1513</ref>) erfahren wir, daß Friedrich in Würzburg einen eigenen Hof besaß; vgl. dazu Schlesinger, Bischofssitze, Pfalzen und Städte (FS. E. Maschke. = Veröff. d. Komm. f. gesch. Landeskde. in Bad.-Württ. B 85, 1975) 9 und Opll, Itinerar 156 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0048" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_29" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

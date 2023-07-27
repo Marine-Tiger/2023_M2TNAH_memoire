@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 137</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-16_1_0_4_2_1_137_137"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-16_1_0_4_2_1_137_137"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-16_1_0_4_2_1_137_137</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235769" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 137</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-16" to="1152-10-16">1152 Oktober 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII kal. novembr., Wirzburch)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hugo</hi>  <hi rend="spaced">S. Remi</hi>  <hi rend="spaced">Reims</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>VUU.: DD. O. III. 122 (VU. I) und Karl III. 106 (VU. II), verfaßt und geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hartwig von Bremen, die Bischöfe Gebhard (<hi rend="italic">Gebahardus</hi>) von Würzburg, Gunther von Speyer, Anselm von Havelberg, Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Heinrich von Regensburg, Ardicio(!)von Vercelli, Abt Markward von Fulda, die Herzoge Heinrich von Sachsen, Welf von Spoleto, Markgraf von Tuszien, die Markgrafen Otakar von Steier, Albrecht von Sachsen, Konrad von Sachsen (Wettin)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Abt <span sameAs="recipient"><hi rend="spaced">Hugo</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">S. Remi</hi> </span> zu <span sameAs="recipient"><hi rend="spaced">Reims</hi> </span>  (<hi rend="italic">monasterii sancti Remigii in suburbio Remorum siti</hi>) nach Einsicht in die durch Abt Hugo vorgelegten Privilegien seiner Vorgänger Karl, Otto, Heinrich und seines Oheims Konrad, den in seinem Reich gelegenen Hof Kusel (<hi rend="italic">curtem quandam Cosla vocatam infra regni nostri terminos constitutam</hi>) mit seinen namentlich angeführten Zugehörungen (<hi rend="italic">Capellam, Glannam, Concham, Osterna, Querenbach et in comitatu de Kiriberch villam, que dicitur Brucca</hi>) und stellt ihm Güter in Thüringen (<hi rend="italic">in ducatu Turingorum</hi>), im Ripuariergau (<hi rend="italic">in pago Ribuariense</hi>), im Gau an der Rossel (<hi rend="italic">in pago Roslisse</hi>) und das vom früheren Vogt (von Kusel) und jetzigen Mönch des Klosters, Albert, geschenkte Eigengut in Boppard (<hi rend="italic">Buppura</hi>) zurück. <span n="witnesses">Z.: Erzbischof Hartwig von Bremen, die Bischöfe Gebhard (<hi rend="italic">Gebahardus</hi>) von Würzburg, Gunther von Speyer, Anselm von Havelberg, Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Heinrich von Regensburg, Ardicio(!)von Vercelli, Abt Markward von Fulda, die Herzoge Heinrich von Sachsen, Welf von Spoleto, Markgraf von Tuszien, die Markgrafen Otakar von Steier, Albrecht von Sachsen, Konrad von Sachsen (Wettin)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">VUU.: DD. O. III. 122 (VU. I) und Karl III. 106 (VU. II), verfaßt und geschrieben von A II. C</span>. <span n="incipit">Quoniam regię dignitatis</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p>Quoniam regię dignitatis</p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Chartular B von S. Remi aus dem 13. Jh. p. 106, Departementalarchiv Reims (B); Schott, Diplomatica Rheingravica 7 n<hi rend="sup">o</hi>  137 aus dem Ende des 18. Jh. unvollst. im Staatsarchiv Darmstadt Hs. 137 B (S). Drucke: Varin, Archives admin. de Reims 1, 326 n<hi rend="sup">o</hi>  110; MG. DF. I. 30. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  25; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  25; Stumpf 3645.</p></div>
+				
+				
+					<div type="commentary"><p>Der Hof Kusel war S. Remi schon mehrfach, auch von Friedrich, vgl. DF. I. 2 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-03-10_1_0_4_2_1_68_68.html" type="internal" n="regesten">68</ref>) mit abweichender Besitzliste, bestätigt worden; eine zusammenfassende Bestätigung aller Besitzungen von S. Remi im Deutschen Reich bietet das Privileg Hadrians IV. von 1154 Dezember 19 (JL. 9951). - Zur Person des Vogtes Albert von Kusel vgl. die Vorbemerkung zum D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Bei dem an das Kloster S. Remi zurückgestellten Eigengut in <hi rend="italic">Buppura</hi> muß die Auflösung des Ortsnamens richtig lauten: Bopporn, Hof bei Offenbach am Glan, vgl. dazu Remling, Geschichte der Benediktinerpropstei St. Remigiusberg bei Cusel i. d. Rheinpfalz, Abhh. d. bayer. Akad., Hist Cl. 8 (1860) 336 Anm. 40.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0048" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_30" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

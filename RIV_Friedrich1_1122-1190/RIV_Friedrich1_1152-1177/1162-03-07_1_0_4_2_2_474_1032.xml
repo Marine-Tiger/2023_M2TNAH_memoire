@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1032</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-07_1_0_4_2_2_474_1032"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-07_1_0_4_2_2_474_1032"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-03-07_1_0_4_2_2_474_1032</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243858" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1032</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-03-07" to="1162-03-07">1162 März 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(non. marcii, Laudę post dedicionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cremonesen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Udalricus canc. vice Coloniensis archiep. et archicanc. domini Reinaldi</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, die Bischöfe Eberhard von Bamberg, Heinrich von Würzburg, Heinrich von Lüttich, Ortlieb von Basel, Anselm von Asti und Alberich von Lodi, Pfalzgraf Konrad bei Rhein, Markgraf Dietrich (von der Lausitz) und sein Bruder, Markgraf Otto (von Meißen), Herzog Theobald von Böhmen, Graf Dedo (von Groitzsch), Herzog Ulrich (von Böhmen), die Grafen Ulrich von Lenzburg, Albert (von Sachsen) und Rudolf von Pfullendorf, Gilius und Anselm de Dovera, Graf Tinctus von Cremona, Pontius de Giroldis, Brinnolus, Bernhardus Picinus, Marchesius Marinianus, Marchisius Uetulus, Picius de Burgo, Iaginus de Persico, Otto de Persico, diese als Konsuln von Cremona</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt den <span sameAs="recipient"><hi rend="spaced">Cremonesen</hi> </span>  wegen ihrer großen Verdienste Burg und <hi rend="italic">burgus</hi>  Crema, verbietet deren Wiederaufbau sowie die Errichtung von Befestigungen zwischen Adda und Oglio und sagt zu, auch die Mailänder eidlich zur Einhaltung dieser Bestimmungen verhalten zu wollen, falls er sie wieder unter seine Gnade aufnimmt. <span n="witnesses">Z.: Erzbischof Rainald von Köln, die Bischöfe Eberhard von Bamberg, Heinrich von Würzburg, Heinrich von Lüttich, Ortlieb von Basel, Anselm von Asti und Alberich von Lodi, Pfalzgraf Konrad bei Rhein, Markgraf Dietrich (von der Lausitz) und sein Bruder, Markgraf Otto (von Meißen), Herzog Theobald von Böhmen, Graf Dedo (von Groitzsch), Herzog Ulrich (von Böhmen), die Grafen Ulrich von Lenzburg, Albert (von Sachsen) und Rudolf von Pfullendorf, Gilius und Anselm de Dovera, Graf Tinctus von Cremona, Pontius de Giroldis, Brinnolus, Bernhardus Picinus, Marchesius Marinianus, Marchisius Uetulus, Picius de Burgo, Iaginus de Persico, Otto de Persico, diese als Konsuln von Cremona</span>. - <span n="chancellor"><hi rend="italic">Udalricus canc. vice Coloniensis archiep. et archicanc. domini Reinaldi</hi> </span>; <span n="clerk">verfaßt und geschrieben von RC</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Inclinari precibus nostra</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inclinari precibus nostra</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Cremona (A). Drucke: Stumpf, Acta ined. 187 n<hi rend="sup">o</hi>  142; Falconi, Carte Cremonesi 2, 329 n<hi rend="sup">o</hi>  396; MG. DF. I. 353. Reg.: Wauters, Table chronol. 7/1, 281; Astegiano, CD. Cremonae 1, 127 n<hi rend="sup">o</hi>  199; Torelli, Reg. Mantovano 1, 217 n<hi rend="sup">o</hi>  320; Stumpf 3931.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Opll, Stadt und Reich, 255.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0133" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_353" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

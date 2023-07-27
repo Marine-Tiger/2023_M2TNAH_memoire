@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2139</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-23_1_0_4_2_3_366_2139"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-23_1_0_4_2_3_366_2139"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-04-23_1_0_4_2_3_366_2139</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599184" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2139</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-04-23" to="1175-04-23">1175 April 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIIII<hi rend="sup">o</hi>  kal. maii, apud Papiam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. laut B.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und sicherlich auch geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Hermann von Bamberg, Kuno von Regensburg, Hugo von Verden und Gero von Halberstadt, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, die Markgrafen Berthold von Istrien und Berthold von Vohburg, die Grafen Heinrich von Diez, Albert von Eberstein, Eberhard von Sayn, Simon von Tecklenburg und Friedrich von Altena, Burchard von Asuel, der Mundschenk Konrad, der Truchseß Konrad, der Marschall Heinrich und der Kämmerer Wilhelm, Vogt von Aachen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt Abt Ado von <hi rend="spaced">Saint-Oyen-de-Joux</hi>  (Saint-Claude) (<hi rend="italic">sancti Eugendi</hi>) mit seinem Kloster und all dessen gegenwärtigen und künftigen Besitzungen in seinen Schutz, bestätigt ihm die Verleihungen Karls des Großen und anderer Könige und Kaiser und gewährt ihm das Münzrecht. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Hermann von Bamberg, Kuno von Regensburg, Hugo von Verden und Gero von Halberstadt, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, die Markgrafen Berthold von Istrien und Berthold von Vohburg, die Grafen Heinrich von Diez, Albert von Eberstein, Eberhard von Sayn, Simon von Tecklenburg und Friedrich von Altena, Burchard von Asuel, der Mundschenk Konrad, der Truchseß Konrad, der Marschall Heinrich und der Kämmerer Wilhelm, Vogt von Aachen</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">verfaßt und sicherlich auch geschrieben von Burkhard</span>; <span n="seal">B. laut B.</span>  <span n="incipit"><hi rend="italic">Imperialem decet excellentiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem decet excellentiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1310 März 13, Fonds de l'abbaye de Saint-Claude, armoire 1 n<hi rend="sup">o</hi>  6 de l'inventaire de 1745, Departementalarchiv zu Lons-le-Saunier (B); Abschrift des 17. Jh., ebenda (D). Drucke: Gallia Christ. ed.II 4<hi rend="sup">b</hi>, 21 n<hi rend="sup">o</hi>  27 aus A; MG.DF.I.639. Reg.: Stumpf 4176.</p></div>
+				
+				
+					<div type="commentary"><p>Bei den erwähnten Verleihungen Karls des Großen handelt es sich um die im 11. Jh. entstandenen Fälschungen DD.Kar.301 und 302, die entgegen den Angaben im Catalogus Rhytmicus abbatum s. Eugendi Iurensis aus dem 12. Jh. (MG.SS XIII, 747) die Gewährung des Münzrechtes nicht enthalten. — Zu den älteren Diplomen für das Kloster vgl. die Vorbemerkung zu DL.I.135, zum gesamten Fragenkomplex die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0133" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_639" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 835</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_4_0_4_2_2_277_835"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_4_0_4_2_2_277_835"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-02-14_4_0_4_2_2_277_835</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243004" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 835</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-02-14" to="1160-02-14">1160 Februar 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. mart., Papie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi> von <hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldvs Coloniensis ęcclesię electus et Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Empfängerdiktat geschrieben vom Bamberger Archidiakon Gotebold</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt Bischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  wegen seiner steten und treuen Dienste die Schenkung der Reichsabtei Niederaltaich an seine Kirche mit den Rechten der Investitur des Abtes, der Bestellung des Vogtes und der jährlichen Einziehung der Abgaben an den Fiskus (<hi rend="italic">canonem antiquum fisco exinde debitum, quod servitium regale vulgo dicitur</hi>). - <span n="chancellor"><hi rend="italic">Reinaldvs Coloniensis ęcclesię electus et Italię archicanc.</hi> </span>; <span n="clerk">nach Empfängerdiktat geschrieben vom Bamberger Archidiakon Gotebold</span>; <span n="seal">B. 2. D.</span> <span n="incipit"><hi rend="italic">Cum omnes fideles</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnes fideles</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Durch Beschneiden des unteren Randes um die Datierung verkürzt und der Goldbulle beraubt, Hauptstaatsarchiv München (A). Kop.: Gleichzeitige Einzelkopie, ebenda (B); Bamberger Kanzleibücher n<hi rend="sup">o</hi> 1 aus dem Beginn des 14. Jh. f. 107, Staatsarchiv Bamberg (C). Drucke: Mon. Boica 11, 171 n<hi rend="sup">o</hi> 47; Heyberger, Landeshoheit Bambergs über Fürth, Codex prob. n<hi rend="sup">o</hi>  62; MG. DF. I. 306. Reg.: Mon. Boica 29<hi rend="sup">a</hi>, 350 n<hi rend="sup">o</hi>  499; Stumpf 3889.</p></div>
+				
+				
+					<div type="commentary"><p>B stammt von der Hand des Bamberger Schreibers A (zu diesem vgl. den Hinweis bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-02-14_3_0_4_2_2_276_834.html" type="internal" n="regesten">834</ref>). - Die Unterstellung von Niederaltaich unter die Bamberger Kirche war in den ersten Jahren der Regierung Barbarossas mehrfach Gegenstand von Beurkundungen der Reichskanzlei, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-03-12_1_0_4_2_1_69_69.html" type="internal" n="regesten">69</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-00_3_0_4_2_1_102_102.html" type="internal" n="regesten">102</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-10-00_1_0_4_2_1_146_146.html" type="internal" n="regesten">146</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-02-03_1_0_4_2_1_208_208.html" type="internal" n="regesten">208</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0087" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210246%22" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210247%22" type="external" n="unkown">gleichzeitige Einzelkopie</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_306" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

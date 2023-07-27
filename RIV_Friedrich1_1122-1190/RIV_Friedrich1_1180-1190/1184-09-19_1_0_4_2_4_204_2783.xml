@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2783</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-19_1_0_4_2_4_204_2783"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-19_1_0_4_2_4_204_2783"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-09-19_1_0_4_2_4_204_2783</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2783</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-09-19" to="1184-09-19">1184
+									September 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mailand">Mailand</placeName>
+												<location><geo decls="#WGS">45.4667, 9.2</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich kommt nach Mailand, wo er ehrenvoll 								aufgenommen wird und einen <hi rend="spaced">Hoftag</hi> feiert.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Mediolanenses minores, MG. SS XVIII, 396 								(irrig: zum Jahr 1183); Notae s. Georgii Mediol., MG. SS XVIII, 387 								(zu 1184 September 19); Ann. Plac. Gib., MG. SS XVIII, 465 (zu 1184 								September); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 134; Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. in 								us. schol., 12 (zu 1184 September); Lamberti Parvi Ann., MG. SS XVI, 								649 (irrig: nach dem Aufenthalt in Pavia); Ann. Welfici Weingart., 								ed. König (Schwäb. Chroniken d. Stauferzeit 1,<hi rend="sup">2</hi>1978) 92 (berichten von der ehrenvollen Aufnahme des 								Kaisers durch die Mailänder).</p></div>
+				
+				
+					<div type="commentary"><p>Mit gutem Grund nimmt Engels, Entmachtung, in: 								Ders., Stauferstudien (1988) 124, an, dass der Kaiser diesen Zug 								nach Mailand vor allem deshalb unternahm, um dort die englischen 								Gesandten auf dem Weg an die Kurie nach Verona zu treffen und von 								den Ergebnissen der Mission Erzbischof Philipps von Köln nach 								England (zu dieser siehe oben Reg. 2781) zu erfahren. – Dass in 								Mailand ein Hoftag gefeiert wurde, erfahren wir aus Reg. 2784.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

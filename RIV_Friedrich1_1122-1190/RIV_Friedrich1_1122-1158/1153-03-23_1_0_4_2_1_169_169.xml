@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 169</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-23_1_0_4_2_1_169_169"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-23_1_0_4_2_1_169_169"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-03-23_1_0_4_2_1_169_169</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236777" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 169</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-03-23" to="1153-03-23">1153 März 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. april., Constantie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Papst Eugen (III.)</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>möglicherweise von A II. C geschrieben und wohl unter seiner und Wibalds Beteiligung verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Anselm von Havelberg, Ardicio von Como, (Adelgoz) von Chur, Abt Wibald von Stablo, Dekan Albert von Köln, Magister Notar Heinrich, der königliche Kapellan Gottfried von Viterbo; von den Laien: Herzog Welf, Markgraf Hermann von Baden, die Grafen Ulrich und Werner von Lenzburg, der Kämmerer und Reichsministeriale Anselm</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verbrieft <span sameAs="recipient"><hi rend="spaced">Papst Eugen (III.)</hi> </span>  den Wortlaut des von den beiderseitigen Unterhändlern formulierten Vertrages (Reg. 164), nachdem die noch ausständigen Rechtshandlungen, nämlich die Eidesleistung eines Reichsministerialen <hi rend="italic">in anima regis</hi>  und die feierliche Zusage des Königs in die Hand des päpstlichen Legaten vollzogen worden sind. <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Anselm von Havelberg, Ardicio von Como, (Adelgoz) von Chur, Abt Wibald von Stablo, Dekan Albert von Köln, Magister Notar Heinrich, der königliche Kapellan Gottfried von Viterbo; von den Laien: Herzog Welf, Markgraf Hermann von Baden, die Grafen Ulrich und Werner von Lenzburg, der Kämmerer und Reichsministeriale Anselm</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">möglicherweise von A II. C geschrieben und wohl unter seiner und Wibalds Beteiligung verfaßt</span>. <span n="incipit"><hi rend="italic">Regie maiestatis dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regie maiestatis dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1188/89 in der Collectio Albini, Cod. Ottobonian. lat. 3057 f. 138 (B); Abschrift von 1192 im Liber Censuum des Cencius, Cod. Vat. lat. 8486 f. 105 (C); Transsumpt, angelegt auf dem Konzil von Lyon 1245 (Rouleaux de Cluny II), Cod. lat. 8989 der Nationalbibliothek Paris (D). Drucke: MG. Const. 1, 202 n<hi rend="sup">o</hi>  145; Maccarrone, Papato e impero 50; Rassow, Honor imperii 117; MG. DF. I. 52. Reg.: Batelli, I Transunti di Lione del 1245, MIÖG 62 (1954) 349; Stumpf 3664.</p></div>
+				
+				
+					<div type="commentary"><p>Das Fehlen des Namens des Bischofs von Chur muß nicht unbedingt auf den Kopisten zurückgehen, da wir solchen Fällen auch bei Originalen begegnen. Die irrige Zeitangabe könnte auf ein Versehen des Notars zurückgehen. Sie muß nicht auf eine uneinheitliche Datierung hinweisen; vgl. Rassow, a. a. O. 49. Gegen Zatschek, Beiträge, SB. Wien 210/3 (1930) 7 ff., der die geringfügigen Änderungen im Text gegenüber dem Vorvertrag (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-01-00_1_0_4_2_1_164_164.html" type="internal" n="regesten">164</ref>) für politisch besonders bedeutend hielt, vgl. Güterbock, Nachrichten, NA 49 (1932) 583. Gerade die Änderung des Königs- in den Kaisertitel deutet aber auf eine Mitwirkung Wibalds hin, vgl. Herkenrath, Regnum und Imperium, SB. Wien 264/5 (1969) 30 ff., jetzt: WdF 390 (1975) 331 ff. Zum Konstanzer Vertrag vgl. Rassow, Honor imperii 45 ff.; Grundmann, Rezension von: Peter Rassow, Honor imperii, WdF 390 (1975) 26 ff., Maccarrone, Papato e impero 41 ff.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Nach Herkenrath, Legastheniker, AfD 33 (1987) 281 ff. stammt die Schrift von A II. D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0061" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_52" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

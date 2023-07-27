@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2752</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-03-11_3_0_4_2_4_173_2752"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-03-11_3_0_4_2_4_173_2752"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-03-11_3_0_4_2_4_173_2752</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2752</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-03-11" to="1184-03-11">1184
+									März 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pfalz zu Hagenau</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und seine Söhne, König Heinrich (VI.) und 								Herzog Friedrich von Schwaben, empfangen in äußerst wohlwollender 								Weise den schon zuvor in Angelegenheit seiner Bemühungen um 								Erwerbung der Gebiete seines Oheims, des Grafen von Namur und 								Luxemburg, an den Hof geladenen Grafen Balduin (V.) von Hennegau, 								der mit umfassendem Gefolge – namentlich angeführt werden Rainer von 								Jauche (<hi rend="italic">Jacea</hi>), der allerdings auf der 								Anreise in Neu-Hornbach erkrankt und stirbt, Eustachius der Ältere 								von Rœulx (<hi rend="italic">Ruez</hi>) und dessen gleichnamiger 								Sohn, Otto von Trazegnies (<hi rend="italic">Osto de 								Trasiniis</hi>), Nikolaus von Barbençon (<hi rend="italic">Barbencione</hi>), Almannus von Prouvy (<hi rend="italic">Provi</hi>), Rainer von Trith, Hugo von Croix-les-Rouveroy (<hi rend="italic">Croiz</hi>), Goswin von Thulin, Walter von 								Steenkerque (<hi rend="italic">Stankirca</hi>), Johannes Cornu und 								Nikolaus le Moine (<hi rend="italic">Monachus</hi>) – und einem 								befürwortenden Schreiben des auf der Reise an den Hof aufgesuchten 								Grafen (Heinrich) von Namur (siehe dazu Reg. 2751) erscheint. Im 								Auftrag des Kaisers wird dem Hennegauer dabei von Trier nach Hagenau 								und danach wieder zurück nach Trier durch seinen Verwandten, (Graf) 								Simon von Sponheim, das Geleit gegeben. Die Bitte des Hennegauer 								Grafen wird gewährt, und der Kaiser legt als Termin für die 								endgültige Fixierung der Angelegenheit das Pfingstfest (Mai 20), und 								zwar den Hoftag zu Mainz fest, wo die Söhne des Kaisers die 								Ritterwürde erhalten sollen und am Tag nach der Oktav des 								Pfingstfestes (Mai 28) zu Ingelheim ein Turnier stattfinden soll. 								Der Graf sagt zu, sowohl zum Hoftag wie auch zum Turnier zu 								erscheinen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gislebert von Mons, ed. Vanderkindere, 151 f. 								(zu 1183); vgl. B.-Baaken Reg. 2b.</p></div>
+				
+				
+					<div type="commentary"><p>Siehe dazu oben Reg. 2743 und unten Reg. 2764. – 								Sowohl in der älteren Edition des Gislebert von Mons (MG. SS XXI) 								wie auch in der von Vanderkindere wird das Datum des Aufenthalts in 								Hagenau (<hi rend="italic">dominica Letare Jherusalem</hi>) irrig 								mit März 27 (dies trifft für das Jahr 1183, nicht aber für das Jahr 								1184 zu) aufgelöst. Wenn es sich in Gisleberts Ausführungen nicht um 								eine Art von Vorgriff auf den Ablauf des Mainzer Pfingstfestes 								handelt, müssen wir von monatelangen Vorbereitungen sowie Planungen 								für dieses Großereignis ausgehen, siehe dazu auch Reg. 2753.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

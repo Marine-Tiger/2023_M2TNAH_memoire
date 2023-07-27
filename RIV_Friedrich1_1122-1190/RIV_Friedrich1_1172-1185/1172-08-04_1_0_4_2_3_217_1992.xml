@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1992</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-08-04_1_0_4_2_3_217_1992"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-08-04_1_0_4_2_3_217_1992"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-08-04_1_0_4_2_3_217_1992</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453290448" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1992</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-08-04" to="1172-08-04">1172 August 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Borgo S. Genesio</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Erzbischof Christian von Mainz, Reichslegat für Italien, läßt bei weiteren Friedensverhandlungen mit den Vertretern der toskanischen Städte wegen des von den Städten Pisa und Florenz zustandegebrachten Bündnisses mit den Leuten von S. Miniato die Pisaner Konsuln und die Gesandten von Florenz gefangennehmen und in Borgo S. Genesio in den Kerker werfen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pisani, ed. Gentile, Rer. Ital. SS N.Ed. VI/2, 56; vgl. auch Ann. Ianuenses I, ed. Belgrano, Fonti per la storia d'Italia 11/1, 254 f.; <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/f6b9e68f-4126-4f33-9019-9ebca9a09aab.html" type="internal" n="regesten">103</ref>.</p></div>
+				
+				
+					<div type="commentary"><p>Schon während des Aufenthalts in Pisa zu Anfang Juli hatte Christian den Konsuln befohlen, gemeinsam mit ihm nach Borgo S. Genesio zu ziehen, und schon im Frühjahr war es auch zu dem hier erwähnten Bündnis mit den Leuten von S. Miniato gekommen, siehe dazu oben Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-03-28_1_0_4_2_3_198_1973.html" type="internal" n="regesten">1973</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-03-28_2_0_4_2_3_199_1974.html" type="internal" n="regesten">1974</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-07-01_1_0_4_2_3_210_1985.html" type="internal" n="regesten">1985</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0083" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

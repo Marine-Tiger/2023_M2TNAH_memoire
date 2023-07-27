@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1870</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1163-05-00_1_0_4_2_3_95_1870"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1163-05-00_1_0_4_2_3_95_1870"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-05-00_1_0_4_2_3_95_1870</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595430" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1870</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-05-01" to="1163-05-31">1163  Mai  —  1170 Februar</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Augsburg - <hi rend="italic">(Augustę)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinrcus (!) imperialis curię canc. vice Cristiani Moguntini archiep.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Rechtshandlung, vgl.auch Reg. 1205): die Herzoge Heinrich (der Löwe) von Bayern und Sachsen und Welf (VI.), die Pfalzgrafen Otto der Ältere von Wittelsbach und seine Brüder (Otto und Friedrich), Graf Ulrich von Berg und sein Bruder, Herzog Konrad von Dachau, Graf Otto von Valley und sein Bruder, Heinrich von Donaustauf (<hi rend="italic">Stoupha</hi>), Degenhard von Seefeld, Adalbert von Eurasburg und sein Bruder Konrad, Amalbert von Lochhausen, Waltcun von Steinebach; von den Ministerialen des Grafen Berthold (von Andechs): Heinrich von Schallenkam, Lazarius (von Wolfratshausen) und Goswin (von Kirchheim), Egelolf von Wolfratshausen, Berthold von Höhenrain, Ulrich von Kelheim, Gerwich von Bogenhausen (<hi rend="italic">Pubenhusen</hi>), Rupert von Reichersbeuern und Adalbert von Bartenhaus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich übergibt dem <hi rend="spaced">Kloster Tegernsee</hi>  (<hi rend="italic">beato martiri Quirino</hi>) durch die Hand des Grafen Berthold von Andechs die zu dessen <hi rend="italic">familia</hi>  gehörenden Frauen Christiana, Merigarda und Gerlinda samt deren Kindern, die zuvor der mit ihnen seitens Herzog Heinrichs (des Löwen) von Bayern und Sachsen belehnte Heinrich von Kaufbeuren (<hi rend="italic">Pueren</hi>) dem Herzog und dieser an ihn (den Kaiser) zurückgestellt hatte. <span n="witnesses">Z. (der Rechtshandlung, vgl.auch Reg. 1205): die Herzoge Heinrich (der Löwe) von Bayern und Sachsen und Welf (VI.), die Pfalzgrafen Otto der Ältere von Wittelsbach und seine Brüder (Otto und Friedrich), Graf Ulrich von Berg und sein Bruder, Herzog Konrad von Dachau, Graf Otto von Valley und sein Bruder, Heinrich von Donaustauf (<hi rend="italic">Stoupha</hi>), Degenhard von Seefeld, Adalbert von Eurasburg und sein Bruder Konrad, Amalbert von Lochhausen, Waltcun von Steinebach; von den Ministerialen des Grafen Berthold (von Andechs): Heinrich von Schallenkam, Lazarius (von Wolfratshausen) und Goswin (von Kirchheim), Egelolf von Wolfratshausen, Berthold von Höhenrain, Ulrich von Kelheim, Gerwich von Bogenhausen (<hi rend="italic">Pubenhusen</hi>), Rupert von Reichersbeuern und Adalbert von Bartenhaus</span>. — <span n="chancellor"><hi rend="italic">Heinrcus (!) imperialis curię canc. vice Cristiani Moguntini archiep.</hi> </span>; <span n="clerk">verfaßt und geschrieben von UB</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Imperialis clementię maiestatem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis clementię maiestatem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Kloster Tegernsee Urkunden 11 (A). Drucke: Acht, Traditionen des Klosters Tegernsee 236 n<hi rend="sup">o</hi>  315b; MG.DF.I.561. Faks.: Koch, Reichskanzlei Abb.17 Teilfaks. Reg.: Stumpf 3980.</p></div>
+				
+				
+					<div type="commentary"><p>Geringfügig veränderte Erneuerung eines Tauschvertrags aus der Zeit Heinrichs des Stolzen, Acht, Traditionen 154 n<hi rend="sup">o</hi>  193. — Die Rechtshandlung fand im Frühjahr 1163 zu Augsburg statt (vgl. neben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-05-00_1_0_4_2_2_647_1205.html" type="internal" n="regesten">1205</ref>  auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-05-00_2_0_4_2_2_648_F1206.html" type="internal" n="regesten">1206</ref>), die Beurkundung läßt sich nach den eingehenden Untersuchungen von Koch, Reichskanzlei, 44 f. und 132 f. am ehesten in das Frühjahr 1170 setzen. — Zu dem unter den Zeugen genannten Andechser Ministerialen Goswin von Kirchheim vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998), 266, zu Heinrich von Donaustauf Plassmann, a.a.O., 268, zum Andechser Ministerialen Lazarius (von Wolfratshausen) Plassmann, a.a.O., 269.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0044" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_561" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

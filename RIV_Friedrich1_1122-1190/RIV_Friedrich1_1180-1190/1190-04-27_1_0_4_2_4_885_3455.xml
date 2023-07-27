@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3455</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-27_1_0_4_2_4_885_3455"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-27_1_0_4_2_4_885_3455"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-27_1_0_4_2_4_885_3455</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3455</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-27" to="1190-04-27">1190
+									ab April 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Aufbruch von den <hi rend="italic">campi Laodicię </hi>(zwischen dem Menderes  und Denizli) entlang eines Salzsees (Acı Göl bzw. Anava-See)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer setzt seinen Weg am 27. April entlang 								eines Salzsees (Hist. de expeditione: <hi rend="italic">iuxta lacum 									salinarum</hi>) fort. In den darauf folgenden Tagen (bis zum 								17./18. Mai, siehe unten Regg. 3460 und 3461) legt man sehr 								schwierige Wegstrecken zurück, bei denen eine äußerst schlechte 								Versorgungslage und zahlreiche Übergriffe der Einheimischen größte 								Probleme bereiten. Zunächst vertraut man noch auf die seitens der 								Seldschuken zugesagte Unterstützung – in den letzten beiden Jahren 								waren insgesamt dreimal kaiserliche Legaten an den Sultan (Kilidsch 								Arslan) und dessen Sohn Kutbeddin (Hist. de expeditione: <hi rend="italic">Melikus</hi>) abgegangen und stets mit 								Versprechungen hinsichtlich der Versorgung des Kreuzheeres und des 								sicheren Durchzugs für die Kreuzritter zurückgekommen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zur Überlieferung siehe die unten Reg. 3459 								gesammelt angeführten Quellen.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Eickhoff, Kreuzzug, 106 ff., und Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 164 Anm. 278. – Zur arabischen 								Namensform <hi rend="italic">Melikus</hi> siehe die Bemerkungen oben 								bei Reg. 3432.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 961</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-00_5_0_4_2_2_403_961"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-00_5_0_4_2_2_403_961"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-00_5_0_4_2_2_403_961</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1415629204" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 961</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-01" to="1161-06-30">1161 (Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Lodi  (Laude in generali concilio ibidem in tercia Mediolanensi vastacione congregato)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Odenheim</hi>  <hi rend="spaced">Wigoldesberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vdalricus canc. vice domni Reinaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach kanzleifremdem, wohl vom Empfänger herrührenden Diktat unter Heranziehung von DH. V. Stumpf 3189 (VU.) geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Rainald von Köln, Hillin von Trier, Stephan von Vienne und Guido von Ravenna, Patriarch Pilgrim von Aquileia, die Bischöfe Ortlieb von Basel, Burchard von Straßburg, Gunther von Speyer, Konrad von Worms, Gottfried von Utrecht, Heinrich von Würzburg, Eberhard von Bamberg, Heinrich von Lüttich, Friedrich von Münster, Wernher von Minden und beinahe alle deutschen und italienischen, burgundischen und provençalischen Bischöfe, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Landgraf Ludwig von Thüringen, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, Herzog Heinrich von Kärnten, die Grafen Konrad von Baden, Hugo von Dagsburg, Konrad von Abenberg und Heinrich von Tübingen, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">Odenheim</hi> </span>  (<span sameAs="recipient"><hi rend="spaced">Wigoldesberg</hi> </span>; <hi rend="italic">sacrosanctum cenobium in nostro imperio in episcopatu Spirensi situm in pago Creihcgowe in comitatu Breteheim iuxta villam Otenheim, quod dicitur Wigoltdesberc</hi>) in einer umfangreichen Urkunde alle genannten Rechte und Besitzungen, trifft eingehende vogteirechtliche Regelungen und verleiht ihm das Recht, daß Übertragungen von Gütern nach Jahr und Tag nur mehr vor dem Reichsgericht oder auf einer Synode angefochten werden können. <span n="witnesses">Z.: die Erzbischöfe Rainald von Köln, Hillin von Trier, Stephan von Vienne und Guido von Ravenna, Patriarch Pilgrim von Aquileia, die Bischöfe Ortlieb von Basel, Burchard von Straßburg, Gunther von Speyer, Konrad von Worms, Gottfried von Utrecht, Heinrich von Würzburg, Eberhard von Bamberg, Heinrich von Lüttich, Friedrich von Münster, Wernher von Minden und beinahe alle deutschen und italienischen, burgundischen und provençalischen Bischöfe, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Landgraf Ludwig von Thüringen, die Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, Herzog Heinrich von Kärnten, die Grafen Konrad von Baden, Hugo von Dagsburg, Konrad von Abenberg und Heinrich von Tübingen, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Vdalricus canc. vice domni Reinaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">nach kanzleifremdem, wohl vom Empfänger herrührenden Diktat unter Heranziehung von DH. V. Stumpf 3189 (VU.) geschrieben von RC</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Imperialis benevolentię esse</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis benevolentię esse</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe (A). Kop.: Transsumpt Kaiser Karls V. von 1525 Januar 9 ebenda (B). Drucke: Wirtemberg. UB. 2, 134 n<hi rend="sup">o</hi>  375; MG. DF. I. 334. Reg.: Stumpf 3913.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem Hinweis auf das Lodeser Konzil in der Datierung.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0115" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%223926%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_334" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=587" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

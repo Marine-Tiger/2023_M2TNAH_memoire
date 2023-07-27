@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 502</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-00_1_0_4_2_1_504_502"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-00_1_0_4_2_1_504_502"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-00_1_0_4_2_1_504_502</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 502</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-01" to="1157-11-30">(1157 November)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hugo</hi>  <hi rend="spaced">Cluny</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Abt <span sameAs="recipient"><hi rend="spaced">Hugo</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Cluny</hi> </span>  schreibt Friedrich, er bedaure es, nicht zu ihm kommen zu können, da er wegen einiger Widersacher seines Klosters zum Papst reisen müsse, führt im Namen seiner Brüder, der Mitbrüder des Kaisers, die das Anniversar seines Oheims, König Konrads (III.), jährlich feiern, darüber Klage, daß sie aus der Abtei Baume-les-Messieurs, die ihnen schon Papst Eugen III. und auch er selbst (Reg. 179) als Priorat unterstellt hatte, vertrieben worden seien, und bittet um Restitution dieses Priorats samt seiner Besitzungen (<hi rend="italic">ipsum prioratum et possessiones eius et caldariam, quam Aymo maior de Ruviniaco ecclesie Balmensi aufert, qua etiam antecessorem nostrum investistis, nobis, si placet, restitui faciatis</hi>.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Bouquet, Recueil XVI, 685 n<hi rend="sup">o</hi>  4 zu 1158; Bernard-Bruel, Recueil de Cluny 5, 540 n<hi rend="sup">o</hi>  4193 zu etwa 1157.</p></div>
+				
+				
+					<div type="commentary"><p>Abt Hugo führt hier darüber Klage, daß Friedrich die Abtei Baume-les-Messieurs als selbständige Reichsabtei wiederhergestellt hat (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-18_2_0_4_2_1_503_501.html" type="internal" n="regesten">501</ref>), woraus sich auch die ungefähre Datierung ergibt. Vgl. Simonsfeld, Jahrbücher 582 f. Anm. 216 und Büttner, Burgund (VuF 12, 1968) 96. - Die hier erwähnte <hi rend="italic">caldaria</hi>  (eine Badestube) wird in den genannten DD. F. I. 58 und 193 für Baume-les-Messieurs nicht genannt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0170" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

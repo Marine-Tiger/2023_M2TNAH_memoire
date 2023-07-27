@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2418</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-04_1_0_4_2_3_646_2418"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-04_1_0_4_2_3_646_2418"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-08-04_1_0_4_2_3_646_2418</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604913" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2418</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-08-04" to="1178-08-04">1178  August 4  — 1178 August 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Orange, Montélimar</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(cum Aurasice pro tribunali sederemus — in nonis augusti mensis, apud castrum Montilium Adimari)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="kursiv">Godefridus canc. vice Ru<hi rend="sup">o</hi> tberti Viennensis archiep. et Provintię ac Burgundię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hugo von Verden und Bertrand von Vaison-la-Romaine, Draconetus, Raimund von Mévouillon, der <hi rend="italic">conestabulus</hi>  Wilhelm von Sabran und Iarintus von Caderousse</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Edlen Bertrand von Baux</hi>  auf Grund eines vor dem kaiserlichen Hofgericht zu Orange durch die Aussage der namentlich angeführten Zeugen erbrachten Beweises betreffend den letzten Willen des Raimbald von Orange unter Vorbehalt der kaiserlichen Gerechtsame den an ihn und seine Söhne übergegangenen Besitz dieses Mannes und verleiht ihm und seinen Nachfolgern die Reichsunmittelbarkeit. <span n="witnesses">Z.: die Bischöfe Hugo von Verden und Bertrand von Vaison-la-Romaine, Draconetus, Raimund von Mévouillon, der <hi rend="italic">conestabulus</hi>  Wilhelm von Sabran und Iarintus von Caderousse</span>. — <span n="chancellor"><hi rend="kursiv">Godefridus canc. vice Ru<hi rend="sup">o</hi> tberti Viennensis archiep. et Provintię ac Burgundię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von Burkhard</span>; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Si qua de negociis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si qua de negociis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Allgemeines Reichsarchiv zu Den Haag (A). Drucke: Stumpf, Acta ined. 732 n<hi rend="sup">o</hi>  526; MG.DF.I.748. Reg.: Stumpf 4260a</p></div>
+				
+				
+					<div type="commentary"><p>Mit der hier verbrieften Reichsunmittelbarkeit für die Herren von Baux wurde D.382 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-08-18_2_0_4_2_2_567_1125.html" type="internal" n="regesten">1125</ref>) widerrufen und das frühere Einvernehmen mit diesem Hause wiederhergestellt. Die Bedeutung der Urkunde für den Empfänger erhellt auch daraus, daß im Zusammenhang mit der Verleihung der Reichsunmittelbarkeit ausdrücklich alle dagegen sprechenden Urkunden für ungültig erklärt wurden (<hi rend="italic">si, quod absit, per subreptionem aliquid his contrarium a nobis fuerit impetratum, qui impetraverat, impetratis careat nullo contra hec rescripto valituro</hi>), vgl. dazu die Vorbemerkung zum D. — Die hier beurkundete Rechtshandlung hatte nach Ausweis der Datierung tags zuvor in Orange stattgefunden, siehe dazu oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-08-04_1_0_4_2_3_644_2416.html" type="internal" n="regesten">2416</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0228" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_748" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

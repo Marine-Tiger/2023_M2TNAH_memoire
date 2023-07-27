@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3155</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-23_1_0_4_2_4_580_3155"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-23_1_0_4_2_4_580_3155"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-23_1_0_4_2_4_580_3155</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848360" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3155</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-23" to="1188-04-23">1188
+									April 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Seligenstadt (<hi rend="italic">IX kal. maii, apud Saligestad</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>an A’ 									Bleibulle König Alfons’ VIII. von Kastilien</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor">Anstelle einer 									Rekognition findet sich eine in die Datierung integrierte <hi rend="italic">Data-per-manum</hi>-Formel, die den 									kaiserlichen Protonotar Rudolf, allerdings in Verbindung mit dem 									völlig kanzleiwidrigen Hinweis auf die Anwesenheit</notarius>
+				
+				
+					<scribe>wohl von einem Mitglied der kastilischen 									Gesandtschaft unter Verwendung der Liste der als Morgengabe in 									Aussicht genommenen Allodien seitens der Kanzlei verfasst, wobei 									im Eschatokoll spanische und deutsche Beurkundungsgewohnhei</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und <hi rend="spaced">König</hi> 								<hi rend="spaced">Alfons (VIII.) von Kastilien und Toledo</hi> 								schließen einen Vertrag über die Vermählung des Kaisersohnes Herzog 								Konrads von Rothenburg mit der Königstochter Berengaria: Friedrich 								verspricht mit Zustimmung Herzog Konrads, ihn bis zur nächsten <hi rend="italic">letania</hi> (= 1188 April 25) zur Vermählung nach 								Kastilien zu schicken und ihn mit Heiratsgut (<hi rend="italic">dabit ei donationem propter nuptias, que vulgo dicitur apud 									Romanos doaire, apud Hyspanos arras</hi>) in Form von 								Allodialgut im Bistum Würzburg und in Ostfranken in den Provinzen 								Sualfeldgau und Ries, des Weiteren in Schwaben sowie zwischen dem 								Rhein und Schwaben, das der Herzog vom Kaiser und dessen 								verstorbenem Vetter (<hi rend="italic">patruelis</hi>), Herzog 								Friedrich von Rothenburg, besitzt und das mit der Nennung einer 								Reihe namentlich angeführter Orte näher bestimmt wird, auszustatten. 								Dabei wird festgelegt, dass der Herzog im Königreich Kastilien 								verbleiben werde, nach seinem Willen aber auch jederzeit 								zurückkehren könne. König Alfons verspricht seinerseits mit 								Zustimmung seiner Tochter Berengaria, diese dem Kaisersohn Konrad 								zur Frau zu geben. Sie wird im Zeitraum ab dem nächsten 								Weihnachtsfest (= 1188 Dezember 25) auf zwei Jahre danach unter 								Mitnahme von 40.000 Goldstücken in das Reich des Kaisers ziehen, 								wobei der Kaiser den dafür festgelegten Termin und den Ort, wo die 								Tochter empfangen werden soll, neun Monate im Voraus bestimmen möge. 								Des Weiteren wird hinsichtlich der Thronfolge im Königreich 								Kastilien festgelegt, dass Berengaria und ihr Gemahl Konrad für den 								Fall, dass Alfons kein männlicher Erbe geboren wird oder dieser Erbe 								seinerseits ohne rechtmäßige Nachkommen sterben sollte, ihm unter 								Wahrung der namentlich aufgezählten Morgengabe Eleonores, der 								Gemahlin des kastilischen Königs (<hi rend="italic">salvo et 									reservato illeso iure suo domine regine Alienor uxori dicti 									regis Castelle in omnibus et per omnia in arris suis)</hi>, im 								Königreich nachfolgen sollen. Falls Berengaria ohne Nachkommen aus 								ihrer Ehe sterben sollte, soll das Königreich an die Nachkommen des 								Königs, gleich welchen Grades, zurückfallen. Falls Konrad ohne 								Nachkommen aus der Ehe mit Berengaria sterben sollte, soll 								Berengaria gemäß ihrem Wunsch sicher nach Kastilien zurückkehren 								können, dabei aber die genannten Allodialgüter ihres Mannes 								behalten. Die Ehe soll längstens binnen drei Monaten nach der 								Ankunft Konrads in Kastilien geschlossen werden. Danach werden ihm 								und seiner Frau die Leute des Königreichs Kastilien vorbehaltlich 								des Treueids auf den König den Sicherheitseid (<hi rend="italic">securitatem</hi>) leisten, und Konrad wird die Einhaltung aller 								Vereinbarungen beeiden. Sollte König Alfons ohne männlichen Erben 								sterben, solange dem Ehepaar noch keine Nachkommen geboren sind, 								wird Konrad nach dem Rat seiner Gemahlin das Land unter die Adeligen 								aufteilen, und diejenigen, denen die Herrschaft im Lande nach 								spanischer Sitte (<hi rend="italic">ut moris est apud Hyspanos</hi>) 								von Konrad übertragen wird, werden der Königin (Eleonore), seiner 								Tochter (Berengaria) und Konrad den Lehnseid (<hi rend="italic">hominium</hi>) leisten. Sollte der König ohne überlebenden 								männlichen Erben sterben, werden Konrad und seine Gemahlin 								Berengaria in das Königreich Kastilien kommen und gemeinsam die 								Herrschaft übernehmen. Sollte in solch einem Falle aber Berengaria 								durch Krankheit verhindert sein zu kommen, wird Konrad sich mit 								seinen Kindern nach Kastilien begeben, und sie werden gemeinsam das 								Königreich erhalten. Sollte Konrad keine Kinder haben, wird er 								alleine kommen und die Verteidigung des Königreiches mit 								Unterstützung der Untertanen übernehmen, dabei allerdings nicht das 								Recht haben, über Burgen oder Dörfer zu verfügen (<hi rend="italic">potestatem non habeat … mutandi vel alienandi</hi>), sie zu 								vertauschen oder zu entfremden. Sollte dann seine Gemahlin 								nachkommen können, wird ihnen das Königreich gemeinsam übergeben 								werden. Sollte Konrad sterben, soll Berengaria mit ihren Kindern das 								Königreich erhalten, im Falle des Todes beider soll es an die 								hinterbliebene Nachkommenschaft fallen. Zur Einhaltung dieses 								Abkommens verpflichten sich der Kaiser, sein Sohn Konrad und König 								Heinrich (VI.), König Alfons (VIII.) sowie Berengaria und Königin 								Eleonore, wobei der Kaisersohn Konrad dies vor den Boten des Königs 								von Kastilien beeidet. Sollte König Alfons vor dem Eintreffen 								sterben, sind die Barone und Fürsten des Königreiches, die <hi rend="italic">potestates</hi> und Städte, der Magister von 								Calatrava mit seinen Mitbrüdern sowie der <hi rend="italic">commendator</hi> von Uclés mit seinen Mitbrüdern durch Eid zur 								Einhaltung dieses Abkommens verpflichtet. Gegen Zuwiderhandelnde 								sind der Erzbischof und die Bischöfe gehalten, mit Interdikt und 								Exkommunikation vorzugehen, wobei Erzbischof Gundissalvus von 								Toledo, Primas von Spanien, dazu gemäß seiner dem Papst schuldigen 								Obödienz, seine Suffragane gemäß der dem Metropoliten schuldigen 								Obödienz verpflichtet sind; Bischof Marinus von Burgos gemäß dem 								Gehorsam gegenüber dem Papst, die Bischöfe Roderich von Calahorra 								und Dominicus von Ávila gemäß dem Gehorsam gegenüber ihrem 								Metropoliten. Den entsprechenden Eid haben die folgenden Fürsten und 								Edlen geleistet: die Grafen Petrus und Ferrandus, Didacus Xeminiz, 								Didacus, der Sohn des Grafen Lupus, Petrus Ferrandi, Roderich 								Guterii, der Seneschall des Königs, Ordonius Garsie, Alvaro Roderici 								von Matilla de los Caños del Rio (<hi rend="italic">Maxilla</hi>), 								Petrus Roderici von <hi rend="italic">Guzman</hi>, Lupus Didacus, 								der <hi rend="italic">merinus</hi> des Königs, Lupus Didaci von 								Mena, der <hi rend="italic">potestas</hi> Gundisalvus Ferrandi und 								Fernandus Martini. Von den folgenden Städten haben die größten den 								Eid geleistet: Toledo, Cuenca (<hi rend="italic">Concha</hi>), Huete 									(<hi rend="italic">Opta</hi>), Guadalajara (<hi rend="italic">Guadalfagara</hi>), Hita (Ita; <hi rend="italic">Fita</hi>), 								Talamanca, Uceda, Buitrago, Madrid, Escalona, Maqueda, Talavera la 								vieja, Plasencia und Trujillo (<hi rend="italic">Turgellum</hi>); 								von jenseits der <hi rend="italic">alpes</hi> (Gebirgszug der Sierra 								de Gredos und der Sierra de Guadarrama) Ávila, Segovia, Arévalo, 								Medina del Campo, Olmedo, Coca, Portillo, Cuéllar (<hi rend="italic">Collar</hi>), Pedraza de la Sierra, Fuentidueña (<hi rend="italic">Fontedonna</hi>), Sepúlveda (<hi rend="italic">Septempublica</hi>), Ayllón, Maderuelo (<hi rend="italic">Maderolo</hi>), San Esteban de Gormaz (<hi rend="italic">Sanctus Stephanus</hi>), <hi rend="italic">Oxoma</hi> (Osma 								oder El Burgo de Osma), Caracena, Attienza, Sigüenza (<hi rend="italic">Segontum</hi>), Medinaceli (<hi rend="italic">Medina Celebs</hi>), Berlanga de Duero (<hi rend="italic">Bellanga</hi>), Almazán, Soria, Ágreda (<hi rend="italic">Agripennis</hi>) und <hi rend="italic">Fariza</hi> (Ariza?); 								von jenseits des Duero Valladolid (<hi rend="italic">Uallisoletum</hi>), Palencia, Logroño (<hi rend="italic">Lucronium</hi>), Calahorra (<hi rend="italic">Calagurri</hi>), 								Arnedo, Tordesillas (<hi rend="italic">Oterium de Sellis</hi>), 								Simancas (<hi rend="italic">Septimanca</hi>), Torrelobaton, 								Montealegre del Castillo (<hi rend="italic">Monsletus</hi>), Fuente 								pura (<hi rend="italic">Fons Purus</hi>; ob Fuente-Álamo?), Sahagun 									(<hi rend="italic">Sanctus Facundus</hi>) und Cea (<hi rend="italic">Ceia</hi>). –<span n="chancellor"> Anstelle einer 									Rekognition findet sich eine in die Datierung integrierte <hi rend="italic">Data-per-manum</hi>-Formel, die den 									kaiserlichen Protonotar Rudolf, allerdings in Verbindung mit dem 									völlig kanzleiwidrigen Hinweis auf die Anwesenheit des Kanzlers 									Johannes nennt: <hi rend="italic">data apud Saligestad per manum 										Ruodulfi imperialis aule prothonotarii, presente Iohanne 										imperialis aule cancellario</hi></span>;<span n="clerk"> wohl von einem Mitglied der kastilischen 									Gesandtschaft unter Verwendung der Liste der als Morgengabe in 									Aussicht genommenen Allodien seitens der Kanzlei verfasst, wobei 									im Eschatokoll spanische und deutsche Beurkundungsgewohnheiten 									vermengt wurden, geschrieben von kanzleifremder Hand, wohl einem 									kastilischen Schreiber</span>;<span n="seal"> an A’ 									Bleibulle König Alfons’ VIII. von Kastilien</span>. <span n="incipit"><hi rend="italic">Divina procurante 										providentia</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Divina procurante 										providentia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Chirograph, untere Hälfte, besiegelt 								mit Bleibulle König Alfons’ VIII. von Kastilien, im Archiv der 								Kathedrale zu Cuenca, Cajon 1, legajo 2, n<hi rend="sup">o</hi> 17 								(A’); Chirograph, obere Hälfte, Siegel verloren, im Archiv der 								Kathedrale zu Burgos vol. 17, f. 434 (A’’). Faks.: Ballesteros, 								Evocaciòn, Archivo Hispalense, 2. epoca 9 (1948) 104 (von A’’); 								Rassow, Der Prinzgemahl, 1 ff. (von A’). Drucke: MG. Const. 1, 								452 n<hi rend="sup">o</hi> 319; Rassow, a.a.O., 1 ff. (aus A’ A’’, 								die er mit C beziehungweise mit B bezeichnet); González, Alfonso 								VIII. 2, 857 n<hi rend="sup">o</hi> 499 (aus A’ A’’); Garrido 								Garrido, Documentacion de la Catedral de Burgos (1184–1222) 50 n<hi rend="sup">o</hi> 277 (aus A’’); MG.DF.I.970. Regg.: 								B.-Baaken Reg. 66c; Stumpf 4490.</p></div>
+				
+				
+					<div type="commentary"><p>A’ und A’’ sind von derselben Hand geschrieben, 								Abecedarium und Schnittlinien passen jedoch nicht zusammen, was 								darauf hinweist, dass die jeweiligen Passstücke beim 								Vertragspartner, dem Kaiser, verblieben sind. Diese deutsche 								Überlieferung ist jedoch nicht erhalten. Da beide in Spanien 								überlieferten Stücke Abschreibefehler aufweisen, gehen sie entweder 								auf einen Entwurf oder einen Originaltext zurück, nach dem sie 								kopiert wurden. – Zur Form der Chirographierung, die bei spanischen 								Verträgen um diese Zeit durchaus üblich war (Riedmann, Verträge, 153 								ff.), vgl. auch den Vertrag mit dem Grafen von Hennegau (D.857 = 								Reg. 2764). – Die Eidesleistungen auf kastilischer Seite (vgl. 								Collección Diplomática de Sepúlveda 2, ed. Sáez-Sánchez 								[Publicaciones Historicas de la Excm. Diputácion Provincial de 								Segovia 5, 1991], no 15 [irrig zu 1288!]; vgl. dazu die Anzeige von 								Alfred Gawlik, DA 50 [1994], 657 f.) werden bereits vor dem Aufbruch 								der Gesandtschaft nach Deutschland erfolgt sein, vielleicht schon 								während des nachweisbaren Aufenthalts einer kaiserlichen 								Gesandtschaft am kastilischen Hof in San Esteban zu Gormaz im Mai 								1187, vgl. dazu Reg. 3077. – Im Hinblick auf das Amt des <hi rend="italic">merinus</hi> (genannt bei dem Zeugen Lupus Didacus 								in der Zeugenreihe des D.) teilte mir Karl Rudolf, der Leiter des 								Instituto histórico Austriaco in Madrid, Folgendes mit: „Ein <hi rend="italic">merino</hi> war im Mittelalter in den spanischen 								Königreichen mit administrativen Aufgaben befasst wie auch mit der 								Einnahme von Einkünften, sowohl in Herrschaftsgebieten als auch in 								denjenigen, die der königlichen Jurisdiktion unterstanden, wie am 								Ende des 10. Jahrhunderts in Kastilien-León als „maiorinus real“ 								oder als herrschaftlicher, der auch Streitigkeiten betreffend 								Einkünften entscheiden konnte. In den königlichen Gebieten 								entwickelte sich der <hi rend="italic">merino</hi> rasch dann zu 								einem Beamten, der die königliche Macht in mehr oder weniger genau 								definierten Gebieten, den „merináticos“ oder „merindades“, 								repräsentiert, der „merino del rey“. Die Befugnisse der „merinos“ 								nehmen im Lauf der Zeit zu. In Kastilien, Navarra und Aragón wird 								ihre Kompetenz im exekutiven, gerichtlichen und sogar militärischen 								Bereich erweitert, wobei sie über subalterne Beamte – sozmerinos, 								lugartenientes, bailes oder alguaciles – verfügen. In Aragón gibt es 								am Ende des 12. Jahrhunderts „merinos“ in Zaragoza, Ejea, Huesca und 								Jaca, die die Steuern einnehmen und sich um die Einkünfte kümmern, 								Strafgelder kassieren. Hervorzuheben ist, dass der „merino de 								Zaragoza“ zeitweise der drittwichtigste Mann unter den königlichen 								Beamten war. In Kastilien entsteht das Amt des „merino mayor de 								Castilla“, der über seinen Kollegen steht, und diese auf Grund 								königlicher Ermächtigung ernennt; dies lässt sich knapp vor 1180 zum 								ersten Mal nachweisen. Im 12. und 13. Jahrhundert existieren ferner 								in Asturien, León und Kastilien zwei königliche Beamte als „merinos“ 								bezeichnet, die in den Städten tätig waren, wie die städtischen 								Ratsversammlungen auch „merinos“ ernannten, die sozusagen als 								Friedensüberwacher tätig waren. Ab 1230 erscheinen „merinos mayores“ 								an der Spitze der Regierung in den Königreichen León und Galizien.“ 								– Zur Bewertung wie zur historischen Interpretation vgl. die 								Vorbemerkung zum D. und Rassow, Prinzgemahl, passim. – Zur Bedeutung 								dieser Ehevereinbarung im Rahmen der Entwicklung der spanischen 								Diplomatie vgl. Ochoa Brun, Historia de la diplomacia Española 1, 								136 f., Meyer, Dynastische Verbindungen, in: España y el „Sacro 								Imperio“, hg. von Julio Valdeón, Klaus Herbers und Karl Rudolf 								(Historia y sociedad, n. 97, 2002) 72 ff., sowie Weller, 								Heiratspolitik, 143 ff. – Die Verlobung Konrads erwähnt auch Otto 								von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. 								schol., 40 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 82 f. (<hi rend="italic">… regisque Hyspaniarum filiam 									alteri filio suo C</hi><hi rend="italic">o</hi><hi rend="italic">v</hi><hi rend="italic">nrado, licet inefficax remanserit, 									desponsavit.</hi>). – Zur Anwesenheit Konrads in Kastilien siehe 								unten Reg. 3171; am 14. April 1189 ist Konrad sodann wieder in 								Deutschland bezeugt, vgl. Reg. 3241.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_970" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

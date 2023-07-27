@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3095</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-10_6_0_4_2_4_519_3095"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-08-10_6_0_4_2_4_519_3095"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-08-10_6_0_4_2_4_519_3095</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3095</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-08-10" to="1187-08-10">(1174–1189, wahrscheinlich 1187) August 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Worms (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> idus augusti, Wormacię</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter Heranziehung von DK.III.*19 (VU.) 									außerhalb der Kanzlei entstanden</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt unter Bestätigung der seinerzeit von 								seinem Oheim, König Konrad (III.), mit Zustimmung seines (= des 								Kaisers) Vaters, Herzog Friedrichs (von Schwaben), getroffenen 								Verfügungen über die durch den Edelfreien Megenlahus vorgenommene 								Schenkung des Gutes Lobenfeld an (das Augustiner-Chorherrenstift) 								Frankenthal das <hi rend="spaced">Stift Lobenfeld </hi>mit den 								namentlich angeführten Gütern in seinen Schutz und untersagt 								jedermann die Ausübung des Vogtrechtes. Auf die Lobenfelder Vogtei 								hatte Graf Poppo der Ältere von Lauffen entgegen der gewährten 								Vogtfreiheit (<hi rend="italic">preter regis defensionem alium non 									haberet advocatum</hi>) Ansprüche erhoben; dessen Sohn, Graf 								Poppo (der Jüngere) hat aber nach dem Tod seines Vaters schließlich 								vor dem Kaiser auf Betreiben Bischof Konrads II. von Worms und des 								Lobenfelder Propstes Siegfried darauf verzichtet. –<span n="clerk"> Unter Heranziehung von DK.III.*19 (VU.) 									außerhalb der Kanzlei entstanden</span>; <span n="seal"> 									SP.2</span>. <span n="incipit"><hi rend="italic">Cum totius 										orbis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum totius 										orbis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Luzern, Gatterers Apparat 								(A). Druck: MG.DF.I.962. Reg.: Stumpf 4568 zu 1181–1187.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich unter 								Beachtung des kaiserlichen Itinerars aus der Regierungszeit Konrads 								II. von Worms (1171–1192) und dem Hinweis auf den Tod Graf Poppos 								des Älteren von Lauffen, der nur bis 1174 erwähnt wird. – Die VU. 								(DK.III.*19) ist nur aus dieser Erwähnung bekannt; aus ihr ist auch 								die auffällige, in DK.III.18 für Frankenthal ganz ähnlich 								wiederkehrende Aufteilung der Poen zwischen dem Fiskus und der 								geschädigten Kirche entnommen (<hi rend="italic">… ut imperiali 									banno subiaceret et L</hi><hi rend="italic">a</hi><hi rend="italic"> libras auri regi, regi XXX</hi><hi rend="italic">a</hi><hi rend="italic">, ęcclesię XX persolveret</hi>). – Aus 								dem vorliegenden D. geht hervor, dass Lobenfeld bei seiner Gründung 								dem Augustiner-Chorherrenstift Frankenthal unterstellt wurde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1358239960" value="2013-01-15"></date><p n="author">Dieter Rübsamen</p><p>Lit.: F. Launer, Die Güterbestätigung Kaiser Friedrichs I. Barbarossa für das Stift Lobenfeld (1187), in: Frankenthal einst und jetzt 31, Heft 2 (1989) S. 43-47 (1989).
+</p>
+<p></p></item><item><date type="creation" n="1387726381" value="2013-12-22"></date><p n="author">Christian Burkhart</p><p>Lit.: Fritz Launer, Die Güterbestätigung Kaiser Friedrich I. Barbarossas für das Stift Lobenfeld (1187) und die Lage der späteren Wüstung Breitenhardt bei Daisbach, in: Kraichgau Bd. 10 (1987) S. 199-204.
+</p>
+<p>Vgl. auch: Doris Ebert, Frömmigkeit und Politik - die Geschichte des Klosters Lobenfeld bis zur Pfälzer Reformation, in: Dies./Klaus Gereon Beuckers (Hgg.), Kloster St. Maria zu Lobenfeld (um 1145-1560). Untersuchungen zu Geschichte, Kunstgeschichte und Archäologie (Heimatverein Kraichgau, Sonderveröffentlichung 28), Petersberg 2001, S. 13-42, bes. S. 16 (Übersetzung d. Urk. von Reinhard Düchting) und S. 17 (Farbaufnahme d. Urk.).
+</p>
+<p>Vgl. auch: Christian Burkhart, Graf Berthold I. von Schauenburg, Stauferkaiser Friedrich I. &amp;quot;Barbarossa&amp;quot; und Graf Poppo V. von Lauffen, in: Der Odenwald Jg. 60/H. 4 (2013) S. 123-135.
+</p>
+<p>Die Urk. ist online bei <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2212445%22" type="external" n="unkown">LBA Marburg</ref>, befindet sich heute aber nicht mehr in StA Luzern, sondern im LA Speyer, F7 (Gatterer-Apparat) Nr. 22.
+</p>
+<p>Ausführlicheres von Christian Burkhart zu den Regesten 3090 bis 3095 wird erscheinen in: Der Wormsgau 31 (2014).</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

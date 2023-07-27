@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 360</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-09-20_1_0_4_2_1_362_360"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-09-20_1_0_4_2_1_362_360"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-09-20_1_0_4_2_1_362_360</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238805" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 360</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-09-20" to="1155-09-20">1155 September 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Peiting</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XII. kal. octobris, Bitengowe)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wessobrunn</hi></recipient>
+				
+				
+				
+					<scribe>Von einem Empfängerschreiber mundiert;</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Augsburg, die Herzoge Welf, Berthold von Zähringen, die Grafen Hugo von Tübingen (<hi rend="italic">Tivingen</hi>), Gottfried von Hohenzollern (<hi rend="italic">Zolren</hi>), Gottfried von Ronsberg (<hi rend="italic">Rumesperich</hi>), Adalbert von Löwenstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ordnet gemäß einem Fürstenspruch gegen die Untervögte die Rechtsstellung des Klosters <span sameAs="recipient"><hi rend="spaced">Wessobrunn</hi> </span>  (<hi rend="italic">in abbatia Wezinesbrunensi</hi>), das neben dem Hauptvogt Herzog Heinrich von Sachsen keine Untervögte besitzen und nach Heinrichs Tod das Recht der freien Vogtwahl erhalten soll, befreit die Abtei von allen Abgaben und Leistungen (<hi rend="italic">servitia</hi>) an das Reich und bestimmt, daß die vom Reich mit Klostergütern Belehnten diese Güter bis zu 50 Hufen rückerstatten können. <span n="witnesses">Z.: Bischof Konrad von Augsburg, die Herzoge Welf, Berthold von Zähringen, die Grafen Hugo von Tübingen (<hi rend="italic">Tivingen</hi>), Gottfried von Hohenzollern (<hi rend="italic">Zolren</hi>), Gottfried von Ronsberg (<hi rend="italic">Rumesperich</hi>), Adalbert von Löwenstein</span>. - <span n="clerk">Von einem Empfängerschreiber mundiert;</span> <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: MG. Const. 1, 219 n<hi rend="sup">o</hi>  157; MG. DF. I. 125. Reg.: Stumpf 3727.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Bestimmung <hi rend="italic">si quis principalis advocatus subadvocatum sibi constituat vel patiatur, eiusdem advocatię beneficium amittat</hi>, die wohl einen Hofgerichtsspruch wiedergibt, vgl. Appelt, Kaiserurkunde und Fürstensentenz, MIÖG 71 (1963) 38, Feldmann, Welf VI. 39 f. sowie Krause, ZRG g. A. 88 (1971) 309 f. - Zu ähnlichen früheren Verfügungen gegen die Einsetzung von Untervögten vgl. Simonsfeld, Jahrbücher 382 f. mit Anm. 331.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0119" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221022822" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221022922" type="external" n="unkown">Kopie</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_125" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

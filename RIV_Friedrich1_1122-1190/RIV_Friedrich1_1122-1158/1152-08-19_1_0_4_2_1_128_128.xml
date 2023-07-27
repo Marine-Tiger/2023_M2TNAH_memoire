@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 128</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-08-19_1_0_4_2_1_128_128"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-08-19_1_0_4_2_1_128_128"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-08-19_1_0_4_2_1_128_128</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235730" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 128</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-08-19" to="1152-08-19">1152 August 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Speyer">Speyer</placeName>
+												<location><geo decls="#WGS">49.3167, 8.4333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XIIII kal Septembr., Spire)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Konrad</hi>  <hi rend="spaced">Schwatzach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und sicherlich auch geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Gunther von Speyer, Konrad von Worms, Markgraf Otakar von Steier, Graf Ulrich von Lenzburg, die Äbte Markward von Fulda, Volmar von Hirsau, die Grafen Egino von Vaihingen, Poppo von Henneberg und sein Bruder Graf Berthold, Graf Emicho von Leiningen, Pfalzgraf Friedrich von Tübingen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet, daß er Abt <span sameAs="recipient"><hi rend="spaced">Konrad</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Schwatzach</hi> </span>  (<hi rend="italic">Swarzaha in episcopatu Argentinensi</hi>) den Hof Schwindrazheim (<hi rend="italic">Swinderatesheim</hi>), um den das Kloster lange mit Graf Simon von Saarbrücken im Streit lag, durch Urteilsspruch (<hi rend="italic">per sentenciam ordine iudiciario promulgatam</hi>) zugesprochen hat. <span n="witnesses">Z.: die Bischöfe Gunther von Speyer, Konrad von Worms, Markgraf Otakar von Steier, Graf Ulrich von Lenzburg, die Äbte Markward von Fulda, Volmar von Hirsau, die Grafen Egino von Vaihingen, Poppo von Henneberg und sein Bruder Graf Berthold, Graf Emicho von Leiningen, Pfalzgraf Friedrich von Tübingen</span>  (<hi rend="italic">Tuingen</hi>). - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und sicherlich auch geschrieben von A II. C</span>. <span n="incipit"><hi rend="italic">Ex commisso nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex commisso nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von ca. 1415 im Kopialbuch des Klosters Schwarzach n<hi rend="sup">o</hi>  1315 p. 24, Generallandesarchiv Karlruhe (B); zwei Absehriften des Transsumptes Rudolfs I. von 1275 Dezember 12 (B.-Redlich Reg. 464) p. 30 und 55 ebenda (R<hi rend="sup">1</hi>  und R<hi rend="sup">2</hi>). Drucke: Würdtwein, Nova Subsidia 7, 153 n<hi rend="sup">o</hi>  59; MG. DF. I. 26. Reg.: Dümgé, Reg. Badensia 46; Goerz, Mittelrhein. Reg. 2 n<hi rend="sup">o</hi>  22; Stumpf 3642.</p></div>
+				
+				
+					<div type="commentary"><p>Bischof Gunther von Speyer stellte über die gleiche Angelegenheit <hi rend="italic">auctoritate domini nostri gloriosissimi regis Friderici</hi>  eine Urkunde mit vereinzelten wörtlichen Anklängen an unser Diplom aus (Würdtwein a. a. O. 155 n<hi rend="sup">o</hi>  60), aus der wir auch erfahren, daß Graf Simon in diesem Streit von Papst Eugen III. exkommuniziert worden war, vgl. Germ. pont. 3/3, 75 n<hi rend="sup">o</hi>  *1. - Vgl. Schwarzmaier, Ortenau, ZGORh 121 = N. F. 82 (1973) 4. 3 Böhmer IV, Friedrich I.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1409299834" value="2014-08-29"></date><p n="author">Christian Burkhart, Dossenheim, RNK</p><p>Zwischen den Aufenthalten in Ulm (Ende Juli / Anfang August 1152) und in Speyer (ab 19. August 1152) scheint sich König Friedrich I. Barbarossa etwa zur Monatsmitte in Bretten im Kraichgau (und wohl auch auf der Baustelle der benachbarten Zisterzienserabtei Maulbronn) aufgehalten zu haben, wo der in Ulm (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_1" type="external" n="opac">RI IV,2,1</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-28_1_0_4_2_1_112_112.htm" type="external" n="unkown">l112</ref> u. Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-30_1_0_4_2_1_115_115.html" type="external" n="unkown">115</ref>) und Speyer (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_1" type="external" n="opac">RI IV,2,1</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-08-19_1_0_4_2_1_128_128.html" type="external" n="unkown">128</ref>) bei Hofe nachgewiesene Wormser Bischof Konrad I. [von Sachsenheim] zugunsten der Zisterzienserabtei Schönau im Odenwald urkundete. 
+</p>
+<p>Dazu vgl. Christian Burkhart, Die Bischöfe von Speyer und Worms, die Lorscher Vögte und die Anfänge der Zisterzienserabtei Schönau im Odenwald im 12. Jahrhundert. Reich, Adel, Klöster und frühe Burgen am unteren Neckar, in: Zeitschrift für die Geschichte des Oberrheins 156 (2008) S. 1-84, hier S. 10-13; Christian Burkhart, Der Kraichgauvorort „Brettheim“ als Ausstellungsort einer Wormser Bischofsurkunde des Jahres 1152 für Kloster Schönau im Odenwald, in: Kraichgau 21 (2009) S. 41-56, hier S. 48/50. 
+</p>
+<p>Zur Herkunft des Bischofs vgl. Christian <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Burkhart,_Besiedlung_Odenwald" type="external" n="opac">Burkhart</ref>, Bischof Konrad I. von Worms und die Ahnen des Minnesängers Bligger von (Neckar-)Steinach – Neue Erkenntnisse zur Besiedlung des südlichen Odenwaldes im hohen Mittelalter, in: Der Wormsgau 29 (2012) S. 31-63, hier S. 38-50.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0045" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_26" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

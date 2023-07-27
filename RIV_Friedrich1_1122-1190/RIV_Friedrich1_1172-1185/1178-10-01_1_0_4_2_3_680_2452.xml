@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2452</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-01_1_0_4_2_3_680_2452"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-01_1_0_4_2_3_680_2452"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-01_1_0_4_2_3_680_2452</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605352" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2452</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-01" to="1178-10-01">1178 Oktober 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pontarlier</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in kal. octobris, apud Pontarliam)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt von Burkhard</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Priorat St. Peter im Val de Travers</hi>  auf Bitten seines Bruders, des Priors Arbert (<hi rend="italic">pro peticione venerabilis fratris nostri Arberti eiusdem loci prioris</hi>), in seinen Schutz und bestätigt ihm unter Vorbehalt des Rechtes des Grafen von Burgund, der in seiner Vertretung die Schutzgewalt auszuüben hat, die Abgabenfreiheit. — <span n="clerk">Verfaßt von Burkhard</span>. <span n="incipit"><hi rend="italic">Noverint omnes imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverint omnes imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Papierkopie des 15. Jh. eines Vidimus von 1279 im Staatsarchiv zu Neuchâtel, Arch.du Prince X n<hi rend="sup">o</hi>  8 (D). Druck: MG.DF.I.765. Regg.: Hidber, Reg.2, n<hi rend="sup">o</hi>  2377; Stumpf 4269.</p></div>
+				
+				
+					<div type="commentary"><p>Der Vorbehalt im Hinblick auf die Rechte des Grafen von Burgund hängt eindeutig mit der Absicht des Kaisers zusammen, einen seiner Söhne mit der Grafschaft Burgund zu betrauen, vgl. dazu die Vorbemerkung zum D. mit dem Hinweis auf Endemann, Vogtei und Herrschaft im alemannischburgundischen Grenzraum, 30 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0239" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_765" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

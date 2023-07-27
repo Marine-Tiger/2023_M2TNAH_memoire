@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 580</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-08-00_1_0_4_2_2_22_580"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-08-00_1_0_4_2_2_22_580"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-08-00_1_0_4_2_2_22_580</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 580</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-08-01" to="1158-08-31">1158 Ende August</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mailand">vor Mailand</placeName>
+												<location><geo decls="#WGS">45.4667, 9.2</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Nach dem Auftreten von Versorgungsengpässen und Seuchen in der belagerten Stadt Mailand werden über Anraten des Grafen Guido von Biandrate, eines gebürtigen Mailänders, Verhandlungen mit verschiedenen Reichsfürsten, darunter vor allem König Vladislav von Böhmen und Herzog Heinrich von Österreich aufgenommen. Als Vermittler fungieren des weiteren Patriarch Pilgrim von Aquileia, die Bischöfe Eberhard von Bamberg und Daniel von Prag, vielleicht auch Erzbischof Friedrich von Köln, Kanzler Rainald von Dassel, Pfalzgraf Otto von Wittelsbach, Herzog Berthold von Zähringen und Herzog Friedrich von Rothenburg (sicher irrig wird auch Herzog Heinrich der Löwe genannt). Schließlich wird auch mit dem Kaiser ein Übereinkommen erzielt, und die Bedingungen der Unterwerfung werden schriftlich festgehalten (s. Reg. 581). Für das Fest Mariä Geburt (8. September) wird eine öffentliche Unterwerfung vorgesehen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. III cap. 45-47, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 218 ff., Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 33 f. (zum 7. 9.; vgl. auch den tendenziösen Bericht im Codagnelli Liber tristitiae, ebda.), Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 57, Vinzenz von Prag, MG. SS XVII, 674 f., Carmen de gestis, ed. Schmale-Ott, MG. SS rer. Germ. in us. schol, 82 ff. V. 2476 ff., Ann. s. Petri Erph. antiqui, ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 19, Ann. Pisani, ed. Gentile, Rer. Ital. SS N. S. VI/2, 19, Ann. Ianuenses, ed. Belgrano, Fonti per la storia d'Italia 11, 49, Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol., 29 f. (irrig mit den Ereignissen von 1162 verquickt), Otto von St. Blasien cap. 11, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 12 (nennt Heinrich den Löwen irrig unter den kaiserlichen Vermittlern); vgl. des weiteren Ann. Mellicenses, MG. SS IX, 504, Ann. Cremonenses, MG. SS XXXI, 5 (Abschluß der <hi rend="italic">concordia</hi>  im August), Ann. Herbipol., MG. SS XVI, 9, Ann. Ratispon., MG. SS XVII, 587, Ann. Veron., MG. SS XIX, 3 (irrig: ohne Stellung von Geiseln), Auct. Zwetl., MG. SS IX, 540, Cont. Cremifan., MG. SS IX, 545, Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 5, Mon. Sazav. Cont Cosmae, MG. SS IX, 161, Notae s. Georgii Mediol., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 71 (datieren den Vertrag zum 6. 9.), Roberti de Monte Cron., MG. SS VI, 507, Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. S. VII/1, 242, Sicardi episcopi Cremonensis Cronica, MG. SS XXXI, 166 und Sigeb. Auct. Affligem., MG. SS VI, 404. - Abweichungen von der Überlieferung des Kapitulationsvertrages bei Rahewin (Reg. 581) ergeben sich - abgesehen vom Datum (s. Gesta Fed. I., Ann. Pisani, Notae s. Georgii Mediol.) - hinsichtlich der Zahl der Geiseln und der Höhe der Strafsumme (Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 100: 500 Geiseln; Otto Morena, 57: 200 Geiseln; Sigeb. Auct. Affligem., 404: 200 Geiseln; Cont. Cremifan., 545: viele Geiseln; Ann. Pisani, 19: 10.000 Mark Silber).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu vor allem Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-09-01_1_0_4_2_2_23_581.html" type="internal" n="regesten">581</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0023" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

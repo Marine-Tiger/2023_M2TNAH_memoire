@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2480</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-01-24_1_0_4_2_3_708_2480"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-01-24_1_0_4_2_3_708_2480"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-01-24_1_0_4_2_3_708_2480</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430900561" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2480</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-01-24" to="1179-01-24">1179 Januar 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(uff den nunnden dag vor dem mond spurckel, zu Wormß)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Vielleicht von Burkhard verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Trier, Elekt Konrad von Worms, Protonotar (<hi rend="italic">unser eberster schriber</hi>) Wortwin, Dompropst Arnold von Mainz, Propst Burkhard von Jechaburg, (Dom)Dekan Heinrich von Mainz und (Dom)Kantor Hermann (von Mainz), Abt Fulbrecht (<hi rend="italic">Wolprecht</hi>) von St. Jakobsberg (zu Mainz), Dekan Markward, (der Ministeriale) Konrad <hi rend="italic">Wyße</hi>, Volker, Konrad von Offenheim (<hi rend="italic">Vferheym</hi>), Gottfried von Spiesheim (<hi rend="italic">Spysheim</hi>), <hi rend="italic">ryngrave</hi>  Emmerich, Walram von Falkenstein, Merbod und sein Bruder Emmerich (von Odernheim), Siegfried von Rheingrafenstein (<hi rend="italic">Steyn</hi>) und sein Sohn Wolfram und Eberhard und Siegfrieds Bruder Wolfram, Gottfried <hi rend="italic">von dem Huß</hi>  zu Kreuznach und sein Bruder Emmerich, der Zöllner Werner (Ministeriale von Worms) und sein Bruder Giselbrecht (beide von Worms) sowie Hartwin und Bertold und Godebold von Rheingrafenstein (<hi rend="italic">Steyn</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Wolfram von dem Stein und dessen Sohn Siegfried auf deren Erbgut gestiftete <hi rend="spaced">Augustiner-Chorfrauenstift St. Peter bei Kreuznach</hi>  (<hi rend="italic">nunnencloster sant Peters by Cruczennach</hi>) in seinen Schutz und unterstellt es der ausschließlichen Vogtei des Reiches. <span n="witnesses">Z.: Erzbischof Arnold von Trier, Elekt Konrad von Worms, Protonotar (<hi rend="italic">unser eberster schriber</hi>) Wortwin, Dompropst Arnold von Mainz, Propst Burkhard von Jechaburg, (Dom)Dekan Heinrich von Mainz und (Dom)Kantor Hermann (von Mainz), Abt Fulbrecht (<hi rend="italic">Wolprecht</hi>) von St. Jakobsberg (zu Mainz), Dekan Markward, (der Ministeriale) Konrad <hi rend="italic">Wyße</hi>, Volker, Konrad von Offenheim (<hi rend="italic">Vferheym</hi>), Gottfried von Spiesheim (<hi rend="italic">Spysheim</hi>), <hi rend="italic">ryngrave</hi>  Emmerich, Walram von Falkenstein, Merbod und sein Bruder Emmerich (von Odernheim), Siegfried von Rheingrafenstein (<hi rend="italic">Steyn</hi>) und sein Sohn Wolfram und Eberhard und Siegfrieds Bruder Wolfram, Gottfried <hi rend="italic">von dem Huß</hi>  zu Kreuznach und sein Bruder Emmerich, der Zöllner Werner (Ministeriale von Worms) und sein Bruder Giselbrecht (beide von Worms) sowie Hartwin und Bertold und Godebold von Rheingrafenstein (<hi rend="italic">Steyn</hi>)</span>. — <span n="clerk">Vielleicht von Burkhard verfaßt</span>. <span n="incipit"><hi rend="italic">Wir dun kuntt</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Wir dun kuntt</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Deutsche Übersetzung des 15. Jh. auf einem eingehefteten Einzelblatt (aus dem Kopiar von St. Peter f. 90) im Ms. II 137 f. 105' der Sammlung Kindlinger, Staatsarchiv Münster (E). Drucke: Böhmer, Acta imp. 129 n<hi rend="sup">o</hi>  137; MG.DF.I.773. Regg.: Goerz, Mittelrhein.Reg. 2, 114 n<hi rend="sup">o</hi>  411; Stumpf 4273.</p></div>
+				
+				
+					<div type="commentary"><p>Am Rande des Blattes findet sich ein Hinweis darauf, daß eine entsprechende Verfügung Kaiser Friedrichs II. fehlt. Die Urkunde Erzbischof Konrads von Mainz vom 1196 (Acht, Mainzer UB.2/2, 1067 n<hi rend="sup">o</hi>  655) nimmt auf dieses D. Bezug und verwendet Passagen davon als Vorurkunde, vgl. dazu die Vorbemerkung zum D. — Zur Identifizierung von Offenheim (Zeuge: Konrad von Offenheim), zur Bezeichnung des Konrad <hi rend="italic">Wyße</hi>  als Ministeriale, zu dem Ministerialen <hi rend="italic">ryngrave</hi>  Emmerich, zu Emmerich (von Odernheim), zu Gottfried von Spiesheim sowie dem Ministerialen Werner von Worms vgl. jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 262, 263, 264, 266, 270 und 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0248" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_773" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

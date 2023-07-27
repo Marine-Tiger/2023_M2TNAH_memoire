@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2882</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-12_1_0_4_2_4_305_2882"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-12_1_0_4_2_4_305_2882"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-05-12_1_0_4_2_4_305_2882</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845190" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2882</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-05-12" to="1185-05-12">1185
+									Mai 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Graben der Burg Crema (<hi rend="italic">die XII maii, in predicto </hi> <hi rend="italic">castro de Crema super fossato illius castri</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument, geschrieben von Notar 									Rainald (<hi rend="italic">Ego Raynerius notarius suprascripti 										domini Federici imperatoris ac eius mandato tradidi et 										scripsi.</hi>)</scribe>
+				
+				
+					<testis function="witnesses">aus der Stadt Mailand Rogerius 									Visconti, Paganus della Torre und Ugo von Camerano, des Weiteren 									Gotio von Gambara und Bonapas Faba aus Brescia</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert in Anwesenheit der Hofrichter 									(<hi rend="italic">iudicum curie imperatoris Federici</hi>) 								Gualfredus von <hi rend="italic">Turricella</hi> (wohl Torricella 								del Pizzo) und Arnisius <hi rend="italic">Uesilisensis</hi>, des 								Marcoaldus und des Tamphosius <hi rend="italic">Oliue</hi> sowie der 								Ritter des Herzogs (der Herzöge?) von Österreich (?) und von Sachsen 								und der Räte des kaiserlichen Hofes (<hi rend="italic">cosciliariorum curie imperatoris</hi>), die Vertreter der Leute 								der Burg Crema, Herrn Benzo, Alexius von <hi rend="italic">Sabiono</hi> (Sabbio Bergamasco oder Sabbio Chiese), Otto <hi rend="italic">Gambazochen</hi>, Niger von Ripalta Guerrina (<hi rend="italic">Riuoltella</hi>) und Albert von <hi rend="italic">sancto Vito</hi>, mit einem Stück Holz (<hi rend="italic">cum 									ligno, quod in sua tenebat manu</hi>) mit allen bisher von den 								Grafen von Camisano in der Burg und im Territorium von Crema 								innegehabten Hoheitsrechten, die diese durch ihre Untreue verwirkt 								haben. <span n="witnesses">Z.: aus der Stadt Mailand Rogerius 									Visconti, Paganus della Torre und Ugo von Camerano, des Weiteren 									Gotio von Gambara und Bonapas Faba aus Brescia</span>. –<span n="clerk"> Notariatsinstrument, geschrieben von Notar 									Rainald (<hi rend="italic">Ego Raynerius notarius suprascripti 										domini Federici imperatoris ac eius mandato tradidi et 										scripsi.</hi>)</span>. <span n="incipit"><hi rend="italic">Anno eiusdem milesimo </hi>(!)<hi rend="italic">.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno eiusdem milesimo </hi>(!)<hi rend="italic">.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift der Storia di Crema da Pietro 								Terni f. 43’ (47’), Stadtbibliothek Crema (F). Drucke: Böhmer, 								Acta imp., 144 n<hi rend="sup">o</hi> 152; MG.DF.I.904. Reg.: 								Astegiano, CD. Cremonae 1, 160 n<hi rend="sup">o</hi> 409; Stumpf 								4418.</p></div>
+				
+				
+					<div type="commentary"><p>Das Original befindet sich im Besitz des Grafen 								Benvenuti in Ombriano di Crema, konnte für die Edition aber nicht 								eingesehen werden. – Zur Auflösung der verderbten Nennung eines <hi rend="italic">dux Auritius Saxoniche</hi> mit den in D.905 (Reg. 								2883) als Zeugen genannten Herzögen Leopold V. von Österreich und 								Welf VI. vgl. die Vorbemerkung zum D.; allerdings wäre bei dem 								Herzog von Sachsen 1185 eher an Bernhard von Anhalt (siehe Regg. 								2538 und 2540) zu denken. – Zu der im Mai 1185 durchgeführten 								Wiederbegründung von Crema vgl. Reg. 2880. – Interesse verdient der 								hier gegebene Hinweis auf die Verwendung eines Rechtssymbols in Form 								eines Stückes Holz, wohl eines Stabes, im Rahmen der Investitur, 								vgl. dazu auch Opll, Friedrich Barbarossa als Gründer von 								italienischen Städten, MIÖG 118 (2010), 50 Anm. 102.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_904" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

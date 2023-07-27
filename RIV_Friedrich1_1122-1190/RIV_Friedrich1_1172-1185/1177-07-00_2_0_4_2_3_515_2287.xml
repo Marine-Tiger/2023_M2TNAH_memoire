@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2287</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-00_2_0_4_2_3_515_2287"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-00_2_0_4_2_3_515_2287"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-07-00_2_0_4_2_3_515_2287</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306361" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2287</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-07-01" to="1177-07-31">1177 Ende Juli</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">(Venedig)</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt den <hi rend="spaced">Zisterziensern</hi>  (<hi rend="italic">abbatibus et fratribus Cistersiensis ordinis</hi>) mit, daß er Alexander (III.) als Papst anerkannt habe und der Friede mit dem Papst vor allem dank der Unterstützung des Bischofs P(ontius) von Clermont-Ferrand, des Abtes (Hugo) von Bonnevaux und des Kartäuserkonversen Theoderich wiederhergestellt sei. — <span n="incipit"><hi rend="italic">Quoniam de unitate</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam de unitate</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. Ms. lat. 2259 f. 122', Nationalbibliothek Paris (B); Abschrift des 13. Jh. Ms. lat. 70 f. 110, ebenda (C); Abschrift des 13. Jh. im Cod. 139 (früher 131) f. 1, Stadtbibliothek Soissons (D); Abschrift des 14. Jh. Ms. lat. 3088 f. 126', Nationalbibliothek Paris (E); Gervasii Cantuariensis Chronicon, MG.SS. XXVII, 301 (1). Drucke: MG.Const.1, 366 n<hi rend="sup">o</hi>  263; MG.DF.I.690. Regg.: Chevalier, Reg.dauphinois 1, 772 n<hi rend="sup">o</hi>  4644; Stumpf 4206.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem parallelen Schreiben Alexanders III. (Jaffé-L. 12.895; MG.Const.1, 582 n<hi rend="sup">o</hi>  406); die ungewöhnliche Salutatio <hi rend="italic">salutem et dilectionis integritatem</hi>  weist auf die hohe Wertschätzung des Kaisers für den Orden hin, vgl. dazu die Vorbemerkung zum D. — Für die Kartause Silve-Bénite hatte offensichtlich deren Konverse Theoderich (zu ihm vgl. oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-00-00_2_0_4_2_2_1207_D1762.html" type="internal" n="regesten">1762</ref>) am 30. Juli 1177 in Venedig ein päpstliches Privileg erlangt, Chevalier, Rég. dauphinois 1, 773 n<hi rend="sup">o</hi>  4646.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0182" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_690" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._366" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1723</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-00-00_1_0_4_2_2_1168_1723"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-00-00_1_0_4_2_2_1168_1723"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-00-00_1_0_4_2_2_1168_1723</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242385" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1723</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-01-01" to="1167-12-31">(1167 Herbst)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Albert</hi>  <hi rend="spaced">Freising</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schreibt dem Bischof <span sameAs="recipient"><hi rend="spaced">Albert</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Freising</hi> </span>  über den Aufstand der Städte der Lombardei, nämlich Mailands, Piacenzas, Cremonas, Brescias, Parmas und Mantuas, sowie der Mark Verona gegen die Herrschaft der Deutschen, den er unter Einsatz des eigenen Lebens niederschlagen will. - <span n="incipit"><hi rend="italic">Cum celi stupeant</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum celi stupeant</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige Abschrift im Cod. pal. Vind. 629 (Admonter Briefsammlung) f. 25', Nationalbibliothek Wien (B) = Abschrift des 16. Jh. im Cod. XI 671 f. 408, Landesbibliothek Hannover (C). Drucke: MG. Const. 1, 325 n<hi rend="sup">o</hi>  230; Hödl - Classen, Admonter Briefsammlung, MG. Briefe VI, 73 n<hi rend="sup">o</hi>  37; MG. DF. I. 538. Reg.: Stumpf 3862 zu 1159 August; S. 546 zu 1167.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung dieses Fragments ergibt sich aus dem Zusammenhang mit der Nachricht über kaiserliche Rundschreiben im Appendix zu den Gesta Friderici, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 350. Nach Giesebrecht - Simson, Kaiserzeit VI, 477 gehört es vor den 21. September 1167 (Verhängung des Banns gegen die lombardischen Städte, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-21_1_0_4_2_2_1169_1724.html" type="internal" n="regesten">1724</ref>), weil Cremona damals vom kaiserlichen Bann ausgenommen wurde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0304" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_538" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

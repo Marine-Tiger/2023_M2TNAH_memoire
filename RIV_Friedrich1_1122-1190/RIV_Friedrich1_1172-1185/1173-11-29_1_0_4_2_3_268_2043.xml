@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2043</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-11-29_1_0_4_2_3_268_2043"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-11-29_1_0_4_2_3_268_2043"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-11-29_1_0_4_2_3_268_2043</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598123" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2043</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-11-29" to="1173-11-29">1173 November 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III<hi rend="sup">o</hi>  kal. decembris, Wormatie)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Wortwinus imperialis aulę protonotarius</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfaßt und geschrieben, vielleicht von dem genannten Kapellan Hartwig</scribe>
+				
+				
+					<testis function="witnesses">seine Söhne König Heinrich (VI.), Herzog Friedrich von Schwaben und Otto, die Erzbischöfe Christian von Mainz, Arnold von Trier (<hi rend="italic">episcopus</hi>) und Philipp von Köln, Bischof Hartwig von Augsburg, die Elekten Konrad von Worms und Rapoto von Speyer, Kanzler Gottfried, Protonotar Wortwin, Propst Liupold von Neuhausen (bei Worms), Propst Emicho von St. Paul (zu Worms), Domdekan Gernod (von Worms) und Dekan Wortwin von Neuhausen (bei Worms); die Edelfreien: Pfalzgraf Konrad bei Rhein, die Grafen Rudolf von Pfullendorf und Emicho von Leiningen, Ulrich von Staufen; die Ministerialen: Werner von Bolanden und sein Sohn Philipp, Vitztum Burchard (von Worms), Konrad, Richezo, Werner (von Worms), Giselbrecht, Johann und Hecil, Rugger und sein Bruder Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten seines Kapellans Hartwig den Kirchen <hi rend="spaced">St. Peter, St. Cyriacus in Neuhausen, St. Marien, St. Paul, St. Andreas und St. Martin in und bei Worms</hi>  die Stiftung eines Jahrtags von Seiten des genannten Kapellans auf der Grundlage eines Wormser Hofes desselben, wobei nach dem Tode Hartwigs und einer gewissen Hedwig jährlich am Tag vor Maria Himmelfahrt (= 14. August) in diesen Kirchen die Glocken geläutet, Messen zelebriert und den Geistlichen an diesen Kirchen Brot und Wein bzw. zwei Denare gereicht werden sollen und das Gedächtnis der beiden Verstorbenen und das des Kaisers festlich begangen werden soll. <span n="witnesses">Z.: seine Söhne König Heinrich (VI.), Herzog Friedrich von Schwaben und Otto, die Erzbischöfe Christian von Mainz, Arnold von Trier (<hi rend="italic">episcopus</hi>) und Philipp von Köln, Bischof Hartwig von Augsburg, die Elekten Konrad von Worms und Rapoto von Speyer, Kanzler Gottfried, Protonotar Wortwin, Propst Liupold von Neuhausen (bei Worms), Propst Emicho von St. Paul (zu Worms), Domdekan Gernod (von Worms) und Dekan Wortwin von Neuhausen (bei Worms); die Edelfreien: Pfalzgraf Konrad bei Rhein, die Grafen Rudolf von Pfullendorf und Emicho von Leiningen, Ulrich von Staufen; die Ministerialen: Werner von Bolanden und sein Sohn Philipp, Vitztum Burchard (von Worms), Konrad, Richezo, Werner (von Worms), Giselbrecht, Johann und Hecil, Rugger und sein Bruder Heinrich</span>. — <span n="chancellor"><hi rend="italic">Wortwinus imperialis aulę protonotarius</hi> </span>; <span n="clerk">außerhalb der Kanzlei verfaßt und geschrieben, vielleicht von dem genannten Kapellan Hartwig</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Inter cętera gesta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter cętera gesta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: vor 1945 im Archiv der Freiherren von Kottwitz zu Langheinersdorf Kr. Sprottau in Schlesien (A). Drucke: Böhmen, Acta imp. 124 n<hi rend="sup">o</hi>  132; MG.DF.I.608. Regg.: Goerz, Mittelrhein.Reg.2, 94 n<hi rend="sup">o</hi>  329; Boos, UB.der Stadt Worms 1, 69 n<hi rend="sup">o</hi>  83; CD.Silesiae 31, 5 f.; Stumpf 4151.</p></div>
+				
+				
+					<div type="commentary"><p>Eine Nachzeichnung des Siegels findet sich im Staatsarchiv Darmstadt, Bestand C, Ms. 143 f. 48 (Sammlung Bodmann), vgl. MG.DDF.I. Band 5, S. 282 (Nachträge und Berichtigungen zur Gesamtausgabe). — Zum wahrscheinlichen Einfluß Wortwins auf die Ausfertigung des D., wofür neben der Rekognition auch das Auftreten des Beizeichens und die antiquierte Anordnung der Buchstaben im Monogramm sprechen, vgl. Hausmann, Wortwin, Aschaffenburger Jb. 4 (1957) 344, und Koch, Reichskanzlei 174 f. — Die Nennung Christians von Mainz unter den Zeugen steht im Widerspruch zum damaligen Aufenthalt des Erzbischofs in Italien und könnte auf eine nachträgliche Beurkundung hinweisen, vgl. dazu Ficker, Beiträge zur Urkundenlehre 1, 253, sowie die Vorbemerkung zum D. — Wohl während dieses Aufenthalts des Kaisers in Worms dürfte nach den dort genannten Zeugen die Urkunde Erzbischof Philipps von Köln für das Kloster Otterberg ausgestellt worden sein (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-11-29_2_0_4_2_3_269_2044.html" type="internal" n="regesten">2044</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0099" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_608" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

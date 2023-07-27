@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. D1252</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-00_2_0_4_2_2_694_D1252"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-00_2_0_4_2_2_694_D1252"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-10-00_2_0_4_2_2_694_D1252</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245436" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. D1252</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-10-01" to="1163-10-31">1163 (Oktober)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(wohl Lodi)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Brenzone</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der Gemeinde <span sameAs="recipient"><hi rend="spaced">Brenzone</hi> </span>  am Gardasee die Freiheit von verschiedenen Verkehrs- und Handelsabgaben, von der Einquartierung von Truppen mit Ausnahme des Herrschers, des weiteren das freie Verfügungsrecht über ihre Besitzungen und die Höhe der Bannzahlungen, verpflichtet sie zu einer jährlichen Zahlung an den Pfalzgrafen (Otto von Wittelsbach) und nimmt sie in seinen Schutz.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in einem Schreiben Karls V. von 1543 Juli 4 und mehreren Zeugenverhören, ed. Scheffer-Boichorst, Zur Geschichte des 12. und 13. Jh., 55 ff., besonders 58; MG. DF. I. *1125; Stumpf Reg. 3986.</p></div>
+				
+				
+					<div type="commentary"><p>Es ist nicht mit letzter Sicherheit zu entscheiden, ob alle erwähnten Vorrechte schon im DF. I. oder erst in der Bestätigung durch Friedrich II. von 1236 April (B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-07-29_1_0_4_2_3_418_2190.html" type="internal" n="regesten">2190</ref>) enthalten waren. Die Erwähnung des Pfalzgrafen gehört jedenfalls in die Zeit Barbarossas, hatte der Kaiser doch die Grafschaft Garda nach der Kapitulation Turisendos von Verona an den Wittelsbacher verliehen, vgl. dazu Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-07-00_1_0_4_2_2_670_1228.html" type="internal" n="regesten">1228</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-10-00_1_0_4_2_2_693_1251.html" type="internal" n="regesten">1251</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0188" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1125" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

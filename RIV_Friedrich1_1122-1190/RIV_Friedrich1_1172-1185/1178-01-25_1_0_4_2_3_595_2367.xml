@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2367</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-01-25_1_0_4_2_3_595_2367"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-01-25_1_0_4_2_3_595_2367"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-01-25_1_0_4_2_3_595_2367</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604407" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2367</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-01-25" to="1178-01-25">1178 Januar 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der bischöflichen Pfalz zu Lucca</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII kal. februarii, apud Lvcam civitatem in palatio episcopali)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Phylippi Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>in weitgehender Wiederholung des DH. V. Stumpf 3188 in der verfälschten Fassung (vgl. dazu die Ausführungen von Hirsch, Erläuterungen zu den Kaiserurkunden, FS. E. v. Ottenthal. [Schlern-Schriften 9, 1925], 344 ff./VU.) geschrieben und in manchen formelha</scribe>
+				
+				
+					<testis function="witnesses">Elekt Otto von Bamberg, die Markgrafen Heinrich Guercio von Vasto, Murruellus Malaspina und Gerard von Gavi, Graf Macharius von S. Miniato und sein Sohn Franco, Hermannus Paganelli und Paganellus de Porcari (aus Lucca), Wido von Monte Magno und seine Söhne Paganellus und Ingerammus, Burggraf Burchard der Jüngere von Magdeburg, Friedrich von Ampfurth, Boto von Massing, Ulrich von Lützelhardt, Ulrich <hi rend="italic">de Karcanis</hi>, Wido von Sannazzaro de' Burgondi, Deutesalui aus Pavia, Garzapan von Verona und sein Sohn Albert, Ranucius Scorzo von Cesena und Ranucinus von Gombola (<hi rend="italic">Gummula</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Domkapitel von Lucca</hi>  (<hi rend="italic">ecclesia beati Martini, que caput est Lucensis episcopatus, ac sacrarium sanctissimi Uultus</hi>  = des Volto Santo) auf Bitten und Intervention der dortigen Domkanoniker, seiner Brüder, und insbesondere wegen der Verdienste des Domherrn Gottfried (von Viterbo), seines Kapellans, seinen Schutz sowie die genannten Besitzungen und Rechte, darunter besonders die Gerichtsbarkeit über die Hintersassen, die Einforstung des Ortes Tolmolo und den Schutz vor Übergriffen und Besteuerung. <span n="witnesses">Z.: Elekt Otto von Bamberg, die Markgrafen Heinrich Guercio von Vasto, Murruellus Malaspina und Gerard von Gavi, Graf Macharius von S. Miniato und sein Sohn Franco, Hermannus Paganelli und Paganellus de Porcari (aus Lucca), Wido von Monte Magno und seine Söhne Paganellus und Ingerammus, Burggraf Burchard der Jüngere von Magdeburg, Friedrich von Ampfurth, Boto von Massing, Ulrich von Lützelhardt, Ulrich <hi rend="italic">de Karcanis</hi>, Wido von Sannazzaro de' Burgondi, Deutesalui aus Pavia, Garzapan von Verona und sein Sohn Albert, Ranucius Scorzo von Cesena und Ranucinus von Gombola (<hi rend="italic">Gummula</hi>)</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Phylippi Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">in weitgehender Wiederholung des DH. V. Stumpf 3188 in der verfälschten Fassung (vgl. dazu die Ausführungen von Hirsch, Erläuterungen zu den Kaiserurkunden, FS. E. v. Ottenthal. [Schlern-Schriften 9, 1925], 344 ff./VU.) geschrieben und in manchen formelhaften Teilen auch verfaßt von Burkhard, wobei auch Übereinstimmungen mit der Urkunde Welfs VI. von 1160 April 11 (Guidi-Parenti n<hi rend="sup">o</hi>  1186; Feldmann, Weif VI. Reg. n<hi rend="sup">o</hi>  101) begegnen</span>; <span n="seal">SP.D.</span>  <span n="incipit"><hi rend="italic">Noverit omnium sancte</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverit omnium sancte</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Domkapitels zu Lucca (A). Drucke: Stumpf, Acta ined. 211 n<hi rend="sup">o</hi>  157; MG.DF.I.727. Regg.: Guidi-Parenti, Reg.del capitolo di Lucca 2, 233 n<hi rend="sup">o</hi>  1382; Stumpf 4242.</p></div>
+				
+				
+					<div type="commentary"><p>Der Aufenthalt in Lucca und das D. werden auch bei Tholomeus von Lucca, Annalen, ed. Schmeidler, MG.SS rer.Germ. N.S. 8, 62 (irrig zu 1159) und 85 (bei der Bestätigung durch Heinrich VI.) erwähnt. — Zum Inhalt vgl. die Vorbemerkung zum D. — Zur Bezeichnung Friedrichs <hi rend="italic">als frater</hi>  der Luccheser Domherren vgl. auch Tholomeus von Lucca, ed. Schmeidler, a.a.O., 62 mit Anmm. 4 und 5, sowie die Arbeit von Schulte, Kanoniker, Hist. Jb. 54 (1934), 137 ff. — Der hier als Bamberger Elekt bezeichnete Otto (von Andechs) hatte zuvor als Propst von Aachen und als Dompropst von Bamberg gewirkt, vgl. zu ihm die Hinweise bei Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 270.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0212" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_727" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

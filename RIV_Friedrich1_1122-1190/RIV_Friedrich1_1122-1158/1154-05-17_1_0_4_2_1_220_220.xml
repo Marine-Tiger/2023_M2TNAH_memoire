@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 220</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-17_1_0_4_2_1_220_220"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-05-17_1_0_4_2_1_220_220"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-05-17_1_0_4_2_1_220_220</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237257" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 220</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-05-17" to="1154-05-17">1154 Mai 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Batzenhofen</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. iunii, Baecenhouen)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kreuzlingen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Zeycolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter teilweiser Benützung von DH. V. Stumpf Reg. 3203 (Thurgauisches UB. 2, 43 n<hi rend="sup">o</hi>  19; VU.) verfaßt und geschrieben von A II. D.</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Konrad von Worms, Wido von Ivrea (<hi rend="italic">Ypoliensis</hi>), Abt Werner von St. Gallen, Herzog Welf von Spoleto, Pfalzgraf Friedrich von Tübingen und sein Bruder (Pfalz-)Graf Hugo, die Grafen Rudolf (von Pfullendorf), Werner (von Baden), Hartmann (von Dillingen-Kiburg), Eberhard (von Nellenburg) und Markward (von Veringen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Abtes Manegold und auf Intervention Herzog Welfs das Stift <span sameAs="recipient"><hi rend="spaced">Kreuzlingen</hi> </span>  (<hi rend="italic">abbatia Crucelin</hi>) mit allen Besitzungen, die es von Kaiser Heinrich V., Bischof Ulrich von Konstanz und anderen erhalten hat, in seinen Schutz. <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Konrad von Worms, Wido von Ivrea (<hi rend="italic">Ypoliensis</hi>), Abt Werner von St. Gallen, Herzog Welf von Spoleto, Pfalzgraf Friedrich von Tübingen und sein Bruder (Pfalz-)Graf Hugo, die Grafen Rudolf (von Pfullendorf), Werner (von Baden), Hartmann (von Dillingen-Kiburg), Eberhard (von Nellenburg) und Markward (von Veringen)</span>. - <span n="chancellor"><hi rend="italic">Zeycolfus canc. vice Arnoldi Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter teilweiser Benützung von DH. V. Stumpf Reg. 3203 (Thurgauisches UB. 2, 43 n<hi rend="sup">o</hi>  19; VU.) verfaßt und geschrieben von A II. D.</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Ne temporum decursu</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ne temporum decursu</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Frauenfeld (A). Drucke: Thurgauisches UB. 2, 125 n<hi rend="sup">o</hi>  37; MG. DF. I. 78. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2005; Marthaler, Kreuzlingen, Thurgauische Beiträge 77 (1941) 30 n<hi rend="sup">o</hi>  1; Stumpf 3689.</p></div>
+				
+				
+					<div type="commentary"><p>Über Ausstellungsort und zeitliche Einreihung vgl. die Vorbemerkung zu unserem D. - Zum Empfänger vgl. Brackmann, Germ. pont. 2/2, 27 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Paulus, Batzenhofen, Jahrb. Verein Augsburger Bistumsgesch. 40 (2006) 67-75, insbesondere 72 f., möchte den Ausstellungsort <hi rend="italic">Baecenhouen</hi> mit erwägenswerten Argumenten mit dem zu 1112 erwähnten <hi rend="italic">comitatus ad Pacinhoven</hi> im Argengau identifizieren, das wiederum mit Betznau (Kressbronn) zwischen Langenargen und Lindau identisch sein könnte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0079" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2211999%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_78" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

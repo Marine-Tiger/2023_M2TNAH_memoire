@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 713</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-24_1_0_4_2_2_155_713"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-24_1_0_4_2_2_155_713"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-05-24_1_0_4_2_2_155_713</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242250" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 713</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-05-24" to="1159-05-24">1159 Mai 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Feld von Bollate</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIIII<hi rend="sup">no</hi>  kal. iunii, in campo de Bolathe)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kloster S. Carpoforo</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt unter Heranziehung der Urkunde Bischof Litigerus' von Como von 1040 (Mon. hist. patriae XVI/1, 369, vgl. Brühl, Studien zu den langobardischen Königsurkunden, 92; VU.) und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <span sameAs="recipient"><hi rend="spaced">Kloster S. Carpoforo</hi> </span>  (vor den Mauern der Stadt Como) in seinen Schutz, bestätigt ihm die genannten Rechte und Besitzungen, darunter ein Schiff aus der kaiserlichen Flotte am Comer See, behält sich die kaiserlichen Gerechtsame ausdrücklich vor und befreit es von jeglicher fremder Gerichtsbarkeit und der Leistung des Fodrums und anderer öffentlicher Abgaben außer an den Kaiser oder seinen Boten. - <span n="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">verfaßt unter Heranziehung der Urkunde Bischof Litigerus' von Como von 1040 (Mon. hist. patriae XVI/1, 369, vgl. Brühl, Studien zu den langobardischen Königsurkunden, 92; VU.) und geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si predia cęnobiorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si predia cęnobiorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Biblioteca Ambrosiana zu Mailand (A). Kop.: Abschrift des 18. Jh. AE XV vol. 33, p. 109 n<hi rend="sup">o</hi>  45, Sammlung Bonomi, Biblioteca Nazionale ebenda (B). Drucke: Stumpf, Acta ined. 500 n<hi rend="sup">o</hi>  352; MG. DF. I. 273. Reg.: Stumpf 3857a.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0057" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_273" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

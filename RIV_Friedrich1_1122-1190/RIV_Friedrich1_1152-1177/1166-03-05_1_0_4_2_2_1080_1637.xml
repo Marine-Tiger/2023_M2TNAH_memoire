@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1637</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-05_1_0_4_2_2_1080_1637"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-05_1_0_4_2_2_1080_1637"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-03-05_1_0_4_2_2_1080_1637</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247235" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1637</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-12-24" to="1166-03-05">(1166 Weihnachten-1167 März 5)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Servatius</hi>  <hi rend="spaced">Maastricht</hi></recipient>
+				
+				
+				
+					<scribe>Von bisher nicht nachweisbarer Hand geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt dem Dekan G(erhard), dem Kapitel und den Ministerialen des Stiftes <span sameAs="recipient"><hi rend="spaced">St. Servatius</hi> </span>  in <span sameAs="recipient"><hi rend="spaced">Maastricht</hi> </span>  mit, daß das Hofgericht auf die Klage des Elekten (Christian) von Mainz, ihres früheren Propstes, die angemaßte Gerichtsbarkeit des Grafen Ludwig von Looz über den Hof Vlytingen für ungültig erklärt habe und demnach das Privileg König Konrads (III.) Rechtskraft besitze. - <span n="clerk">Von bisher nicht nachweisbarer Hand geschrieben</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Convocatis omnibus principibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Convocatis omnibus principibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Nationalbibliothek Paris, Ms. lat. n<hi rend="sup">o</hi>  9307 n<hi rend="sup">o</hi>  11 (A). Drucke: Acht, Mainzer UB. 2/1, 515 n<hi rend="sup">o</hi>  299; MG. DF. I. 528. Reg.: Wauters, Table chronol. 2, 756 zu 1165 Dezember und 7/1, 283 zu 1162 environ; Doppier, Charters van St. Servaas 247 n<hi rend="sup">o</hi>  49 zu 1165 nach Sept. 24-1171; Diestelkamp - Rotter, Urkundenregesten 1, 312 n<hi rend="sup">o</hi>  399; Stumpf 4063 zu 1166 Januar.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. Schambach, Beiträge, MIÖG 35 (1914) 502 und Acht, a. a. O. Vorbemerkung. Bei dem erwähnten Privileg Konrads III. handelt es sich entweder um das Spurium DK. III. 293 oder um eine verlorene, echte Urkunde des ersten Staufers. - Zum Inhalt vgl. Deeters, Servatiusstift und Stadt Maastricht 64 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0282" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%226015%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_528" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

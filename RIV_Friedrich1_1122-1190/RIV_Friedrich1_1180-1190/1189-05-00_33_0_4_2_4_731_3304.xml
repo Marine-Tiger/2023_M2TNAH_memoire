@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3304</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_33_0_4_2_4_731_3304"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_33_0_4_2_4_731_3304"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_33_0_4_2_4_731_3304</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3304</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1152
+									März 9 – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Zisterzienserkloster Walkenried</hi> die durch Jordan, den 								Mönch dieses Klosters, vorgenommene Urbarmachung eines 								hochwassergefährdeten Gebietes und schenkt ihm mehrere Güter, 								darunter eine Hofstatt zu <hi rend="italic">Kaldenhusen</hi> und 								eine weitere Hofstatt zur Errichtung einer Mühle. Die Errichtung 								weiterer Mühlen an diesem Wasserlauf macht er von seiner Zustimmung 								abhängig und überträgt dem Kloster sieben Hufen unter Vorbehalt des 									<hi rend="italic">ius censuale</hi> im Ausmaß von 28 <hi rend="italic">solidi</hi>, woraus die Zehentabgaben, die 								allerdings von dem im Hof gezogenen Geflügel, den dort angebauten 								Pflanzen und Baumfrüchten nicht zu entrichten sind, beglichen werden 								müssen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt im DO.IV. von 1209 								Dezember 24 (B.-Ficker Reg. 339; ed. Bocholtz-Asseburg, Asseburger 								UB. 1, 48 n<hi rend="sup">o</hi> 67). – MG.DF.I.*1241.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch das fragliche Deperditum von 1188 								(Anfang Juni), Marburg, Reg. 3162.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

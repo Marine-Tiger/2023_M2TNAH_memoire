@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2327</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-00-00_1_0_4_2_3_555_2327"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-00-00_1_0_4_2_3_555_2327"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-00-00_1_0_4_2_3_555_2327</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453292602" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2327</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-01-01" to="1177-12-31">1177 — —</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>—</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridvs imperialis aule canc. vice domini Phylippi Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Burkhard , der auch das Monogramm einzeichnete, mundiert von einem unbekannten, wohl deutschen Schreiber</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Nonnenkloster St. Marien zu Rolandswerth</hi>  das Privileg Kaiser Lothars (III.) (DL.III.56) über den Besitzstand und die Vogteirechte und erklärt die Klostergüter in Wöllstadt (in der Wetterau: <hi rend="italic">Willenstat</hi>) gemäß einem durch sieben Freie und sieben Ministerialen in Gegenwart des als Richter eingesetzten Pfalzgrafen Konrad bei Rhein erbrachten Zeugnisses, das dann bei Hofe durch die Zustimmung der Fürsten bekräftigt wurde, für frei von jeder Vogtei außer der des Kaisers. — <span n="chancellor"><hi rend="italic">Godefridvs imperialis aule canc. vice domini Phylippi Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">verfaßt von Burkhard , der auch das Monogramm einzeichnete, mundiert von einem unbekannten, wohl deutschen Schreiber</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Ratio exigit et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ratio exigit et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Darmstadt (A). Drucke: Baur, Hessische Urkunden 1, 62 n<hi rend="sup">o</hi>  87; MG.DF.I.709. Faks.: Herkenrath, Reichskanzlei 1174 bis 1180, Abb.6 Teilfaks. Regg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, 52 n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/fd98124a-808b-42ba-8785-aaa6e26f63e3.html" type="internal" n="regesten">167</ref> zu 1177 September; Diestelkamp — Rotter, Urkundenregesten 1, 339 n<hi rend="sup">o</hi>  434; Stumpf 4228 zu September.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Datierung ergibt sich, nur aus der Nennung des 24. Kaiserjahres, ein Hinweis auf die Ausstellung des D. nach dem 18. Juni 1177. — Zur kanzleigeschichtlichen Bewertung vgl. Herkenrath, Reichskanzlei 1174 bis 1180, 140 ff. — Zur Inhalt vgl. die Vorbemerkung zum D. mit dem Hinweis auf DF.I.217 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-04-26_1_0_4_2_1_547_545.html" type="internal" n="regesten">545</ref>) samt der Vorbemerkung zu diesem D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0201" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_709" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

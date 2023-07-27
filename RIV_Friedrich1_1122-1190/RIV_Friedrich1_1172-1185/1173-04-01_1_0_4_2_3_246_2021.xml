@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2021</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-04-01_1_0_4_2_3_246_2021"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-04-01_1_0_4_2_3_246_2021"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-04-01_1_0_4_2_3_246_2021</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453291719" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2021</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-04-01" to="1173-04-01">1173 April 1 — Mitte Oktober</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei Ancona</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Kanzler Christian, Erzbischof von Mainz, belagert mit Unterstützung der Venezianer, die eine Flotte von 40 Schiffen vor den Hafen der Stadt legen, und mit einem kaiserlichen Heer, dem die Leute aus dem Gebiet zwischen der Grenze zu Apulien und Rimini, darunter die von Osimo und zahlreiche Leute aus den Marken sowie auch Tuszier, Spoletiner und Leute aus der Romagna (Boncompagni Liber: <hi rend="italic">Romanioli</hi>) angehören, sieben Monate lang die Stadt Ancona, die dem griechischen (byzantinischen) Reich zuneigt. Als ein Angriff von der Land- und der Meeresseite her scheitert, rückt Christian etwas von der Stadt ab und verlegt sich auf die Aushungerung der belagerten Stadt. Ein Angebot, gegen Geld Frieden zu schließen, lehnt er ab. Schließlich gelingt es den Anconitanern, die Unterstützung von selten des edlen Bürgers Guglielmo Marcheselli aus Ferrara und der Gräfin Altruda von Bertinoro zu erlangen, die ein Entsatzheer, darunter auch in der Lombardei geworbene Truppen, aufstellen. Wegen der Verlegung des Durchzugs für diese Truppen durch alle Städte des Gebietes mit Ausnahme von Rimini unternimmt Guglielmo den Versuch, den dem Kaiser und dem Reich treu ergebenen Ravennater Petrus Traversaria für eine Vermittlung zu gewinnen, was aber infolge des eigenmächtigen militärischen Vorgehens von Guglielmos Bruder scheitert. Kaiser Manuel von Byzanz und sein Legat, der (Protosebastos) Konstantin (Dukas) unterstützen die belagerte Stadt mit Geld. Selbst der Einsatz von auf den Namen der griechischen Legaten gefälschten Briefen durch Christian führt zu keinem Erfolg. Als dann das Entsatzheer unter Guglielmo Marcheselli und Gräfin Altruda heranrückt und dabei auch erfolgreich Kriegslisten anwendet, bricht Christian endgültig die Belagerung von Ancona ab.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pisani, ed. Gentile, Rer. Ital. SS N. Ed. VI/2, 59 (1. April — Mitte Oktober); Boncompagni Liber de obsidione Ancone, ed. Zimolo, Rer. Ital. SS N. Ed. VI/3, 10 ff. (Beginn der Belagerung zu Ende Mai 1172!); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ, in us. schol., 121 (berichtet irrig über die Unterstellung Anconas unter den Kaiser); Alberti Milioli Liber de temporibus, MG. SS XXXI, 642 f.; Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 1 f.; Ann. Stadenses, MG. SS XVI, 347 (Christian zerstört [!] Ancona, wobei er 300 Piratenschiffe erbeutet, und unterwirft Ferrara und Ravenna); Gesta archiepp. Magdeburg., MG. SS XIV, 416 f. (belagert fast zwei Jahre lang Ancona!); Ann. Venetici breves, MG. SS XIV, 72; Tolosani Chron. Favent., ed. Rossini, Rer. Ital. SS N.Ed. XXVIII/1, 85; Hist ducum Venet, MG. SS XIV, 81 f.; Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 265; Ioannes Cinnamus, Epitome 1. VI cap. 12, ed. Meineke, CSHB 13 (1836) 288; Niketas Choniates 1. VII cap. 1, ed. Bekker, CSHB, 262 ff. (Übersetzung ins Deutsche bei: Schreiner, Belagerung Anconas, Byzantion 41, 1971, 306 ff); Eustathios von Thessalonike, Oratio ad Manuelem imperatorem VI, ed. Regel, Fontes rer. Byz. I, 1 (1892) 109 ff; Schreiner, Der Dux von Dalmatien und die Belagerung Anconas, in: Byzantion 41 (1971) 286 f. (Edition einer Notiz in einer Handschrift des April-Menäum aus dem 11. Jahrhundert von einer Hand des 12. Jahrhunderts samt deutscher Übersetzung); Böhmer — Will, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/b971ffea-dcca-4482-a584-24f762e687fd.html" type="internal" n="regesten">114</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Bei den Überlieferungen ist nunmehr zu ergänzen: Caroldo, Istorie Veneţiene. Vol. I, ed. Marin (Bucureşti 2008), 151 (p. 51b). – Zurecht betont Raccagni, The Lombard League, 83 f., dass es anlässlich der Belagerung von Ancona infolge der Hilfegesuche der Anconitaner erstmals zu einer militärischen Konfrontation zwischen dem Reich und der Lega Lombarda kam.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Belagerung von Ancona sowie zu den Quellen über dieses Ereignis vgl. zuletzt ausführlich Leonhard, Die Seestadt Ancona im Spätmittelalter, 75 ff. — Christian von Mainz weilte am 29. November dieses Jahres in Worms wieder am kaiserlichen Hof, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-11-29_1_0_4_2_3_268_2043.html" type="internal" n="regesten">2043</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0091" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 291</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_2_0_4_2_1_291_291"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_2_0_4_2_1_291_291"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-05_2_0_4_2_1_291_291</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238451" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 291</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-05" to="1155-05-05">1155 Mai 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Parma</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  nonas maii, in territorio Parmensi)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Maria</hi>  <hi rend="spaced">della Colomba</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter weitgehender Verwendung von JL. 9932 (Privileg Anastasius' IV. von 1154 November 15; Italia pont. 5, 523 n<hi rend="sup">o</hi>  5, VU. I) und geringfügiger Heranziehung des DL. III. 109 (VU. II) verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, Abt Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Otakar (von Steier), Hermann (von Verona-Baden)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das (Zisterzienser-)Kloster <span sameAs="recipient"><hi rend="spaced">S. Maria</hi> </span>  (Chiaravalle) <span sameAs="recipient"><hi rend="spaced">della Colomba</hi> </span>  (<hi rend="italic">monasterium sanctę Marię de Colunba, qui locus antiquitus Carrectvm dicebatur</hi>) unter Abt Petrus in seinen Schutz und bestätigt die namentlich angeführten Besitzungen und Rechte unter Vorbehalt der königlichen und bischöflichen Rechte (<hi rend="italic">salvo tamen per omnia regio et pontificali iure et iusticia</hi>). <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, Abt Wibald von Corvey und Stablo, die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Otakar (von Steier), Hermann (von Verona-Baden)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">unter weitgehender Verwendung von JL. 9932 (Privileg Anastasius' IV. von 1154 November 15; Italia pont. 5, 523 n<hi rend="sup">o</hi>  5, VU. I) und geringfügiger Heranziehung des DL. III. 109 (VU. II) verfaßt und geschrieben von A II. D</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si ęcclesiarum atque</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ęcclesiarum atque</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Parma (A). Drucke: Simonsfeld, Beiträge, NA 25 (1900) 702 n<hi rend="sup">o</hi>  4; MG. DF. I. 101. Reg.: Stumpf 3709 b nach Mitteilung Pflugk-Harttungs aus Regesten der Bullae pont. Cist. n<hi rend="sup">o</hi>  589 (S. 279) der Bibl. Trivulziana Mailand, zu Mai 15.</p></div>
+				
+				
+					<div type="commentary"><p>Die Bedenken, die Simonsfeld, Beiträge, a. a. O. 702 ff. gegen die Echtheit hatte, wurden von Scheffer-Boichorst, Urkunden (II), NA 27 (1902) 88 ff., endgültig widerlegt. Zum Vorbehalt vgl. Appelt, Vorbehalt (WdF 390, 1975) 46 f. Zum Ausstellungsort vgl. auch Gottfried von Viterbo, Gesta, MG. SS XXII, 310 V. 136. Nachurkunden DF. I. *460 und DH. VI. B.-Baaken Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-05-29_2_0_4_2_1_177_177.html" type="internal" n="regesten">177</ref>  (von 1191 Oktober 31).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0099" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_101" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

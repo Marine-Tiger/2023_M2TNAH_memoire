@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2952</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-01-24_1_0_4_2_4_376_2952"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-01-24_1_0_4_2_4_376_2952"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-01-24_1_0_4_2_4_376_2952</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1453801049" value="2016-01-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2952</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-01-24" to="1186-01-24">1186
+									Januar 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Haus der Kanoniker von S. Ambrogio zu Mailand (<hi rend="italic">Die veneris, </hi> <hi rend="italic">octavo exeunte ianuario, Mediolano ad domum canonicorum de sancto Ambrosio</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Notariatsinstrument, geschrieben von dem dabei anwesenden <hi rend="italic">Adhemarius domini imperatoris Frederici 										notarius</hi></scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Riprand von Verona</hi> in Gegenwart Erzbischof 								Konrads von Mainz, zugleich Kardinals und Bischofs der Sabina, der 								Bischöfe Bonifaz von Novara und Anselm von Como, des Propstes 								Friedrich (von St. Thomas in Straßburg), der Domkanoniker von Verona 								Presbyter Uguccio, Presbyter Magister Lothar und Marchio, der 								Veroneser <hi rend="italic">causidici</hi> Magister Wibert, der 								Herren Otto von <hi rend="italic">Beseni</hi> und Coço sowie Wido 								von <hi rend="italic">Rogasta</hi>, ferner des Herrn Ubertinus von 									<hi rend="italic">Bonadico</hi>, des Petrus von Lendinara, des 								Robaldinus von <hi rend="italic">Nasiuerra</hi>, des Bonencontrus, 								des Ugatus, des Çiliolus von <hi rend="italic">Caprariis</hi> 								(Caprara bei Benevent?), des <hi rend="italic">hostiarius</hi> 								Alarius und des Crassetus <hi rend="italic">Bonauenture</hi> mit den 								weltlichen Hoheitsrechten im Bistum und in der Grafschaft Verona, 								worauf der Bischof ihm (dem Kaiser) und seinem Sohn, König Heinrich 								(VI.), den Lehns- und Treueid leistet, insbesondere die Bewahrung 								der Stadt Verona mit ihrer Grafschaft und ihrem Distrikt zusagt und 								Erzbischof Konrad von Mainz ausdrücklich festhält, dass dieser 								Treueid vorbehaltlich des geistlichen Standes des Bischofs geleistet 								wurde (<hi rend="italic">Totum, quod factum est, factum est salvo 									ordine vestro.</hi>). –<span n="clerk"> 									Notariatsinstrument, geschrieben von dem dabei anwesenden <hi rend="italic">Adhemarius domini imperatoris Frederici 										notarius</hi></span>.<span n="incipit"> 									<hi rend="italic">Die veneris, octavo.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Die veneris, octavo.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Verona (A). Drucke: 								Cipolla, Verona nella guerra contro Federico Barbarossa, N. Arch. 								Veneto 10 (1895) 494; MG.DF.I.927. Regg.: Cipolla, Verzeichnis 								der Kaiserurkunden, MIÖG 4 (1883) 220 n<hi rend="sup">o</hi> 113; 								Italia pont. 7/1, 227 n<hi rend="sup">o</hi> 46; <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/ccb3019b-911c-4722-a44e-affe44d97937.html" type="internal" n="regesten">168</ref> (zu April 4); B.-Baaken 								Reg. 5b; Stumpf 4441.</p></div>
+				
+				
+					<div type="commentary"><p>Der unter den Anwesenden genannte Veroneser 								Kanoniker Marchio könnte mit dem in D.928 (Reg. 2954) erwähnten 								kaiserlichen Kapellan Marchisius identisch sein, vgl. dazu die 								Vorbemerkung zum D. – Die Identifizierung des Herkunftsnamens des 								unter den Anwesenden angeführten <hi rend="italic">Çiliolus de 									Caprariis</hi> mit Caprara bei Benevent (so im Register der 								DD.-Ausgabe) bleibt zweifelhaft. – Wenige Tage nach dieser 								Investitur wurde in Mailand die Hochzeit Heinrichs VI. mit Konstanze 								von Sizilien gefeiert, vgl. Reg. 2953. – Konrad von Mainz hielt in 								diesen Jahren, so auch im Januar 1186, mehrfach den Kontakt zur 								Kurie, vgl. dazu <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">&amp;quot;&amp;gt;o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/bd2fd16e-6d38-4fa2-b4b4-b3a3aa5edba7.html" type="internal" n="regesten">151</ref> (1185 Juli 22, Verona), <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/d9fb457e-984e-497e-8a89-29d122993a27.html" type="internal" n="regesten">156</ref> (1185 November 11, 								Verona) und <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/f1be9694-77a2-4f0c-a9fc-526cfbdafc21.html" type="internal" n="regesten">160</ref> (1186 Januar 11, Verona) sowie in der Folge: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, a.a.O., n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/e1ce89fe-b9f9-4a46-b977-a800066b3f2d.html" type="internal" n="regesten">165</ref> (1186 Februar 27, 								Verona), <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/af14fcb9-931f-48b2-9bd4-29c52357db75.html" type="internal" n="regesten">166</ref> (1186 März 4, Verona) und <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/d6f61496-1b21-42a2-82c3-be7aefe19609.html" type="internal" n="regesten">167</ref> (1186 März 13, 								Verona).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_927" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

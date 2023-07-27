@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2034</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-06-19_1_0_4_2_3_259_2034"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-06-19_1_0_4_2_3_259_2034"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-06-19_1_0_4_2_3_259_2034</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598048" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2034</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-06-19" to="1173-06-19">1173 Juni 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIII kal. iulii, Wormatie)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei entstanden</scribe>
+				
+				
+					<testis function="witnesses">Elekt Konrad von Worms, Abt Peter von Gorze, die Pröpste Lupold von Neuhausen (bei Worms) und Emicho von St. Paul (zu Worms), Domdekan Gernod (von Worms), die Pröpste Werner von St. Andreas (zu Worms) und Siegfried von St. Martin (zu Worms) sowie Eberhard von Pfeddersheim; des weiteren die Edelfreien Burggraf Friedrich (von Worms), Graf Emicho von Leiningen, Helnger und sein Bruder Ulrich von Frankenstein, Walter von Hausen, Konrad von Gerolsheim und Bligger von Neckarsteinach; die Ministerialen Vitztum Burchard (von Worms), Gottfried (von Worms), Wolfrad (von Worms), Johannes, Hecil, Richezo, Werner (von Worms), Giselbrecht, Konrad, der Meier Wolfram in Pfeddersheim, Heinrich und sein Bruder Konrad, Siegfried und sein Bruder Berthold (von Dirmstein, Wormser Ministeriale), Folmar und ein weiterer Folmar</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt auf Bitten des Abtes Peter von Gorze und anderer Getreuer in einem Vergleich zwischen den <hi rend="spaced">Brüdern von St. Georgenberg in Pfeddersheim</hi>  auf der einen und Werner von Bolanden, dessen Sohn Philipp und dessen Schwiegersohn Hunfried auf der anderen Seite fest, daß die Brüder des Klosters zur Ablöse jeglicher Abgaben und Zinsesleistungen von elf Hufen im Gebiet von Pfeddersheim eine Hufe in diesem Ort selbst an die Genannten übertragen haben. <span n="witnesses">Z.: Elekt Konrad von Worms, Abt Peter von Gorze, die Pröpste Lupold von Neuhausen (bei Worms) und Emicho von St. Paul (zu Worms), Domdekan Gernod (von Worms), die Pröpste Werner von St. Andreas (zu Worms) und Siegfried von St. Martin (zu Worms) sowie Eberhard von Pfeddersheim; des weiteren die Edelfreien Burggraf Friedrich (von Worms), Graf Emicho von Leiningen, Helnger und sein Bruder Ulrich von Frankenstein, Walter von Hausen, Konrad von Gerolsheim und Bligger von Neckarsteinach; die Ministerialen Vitztum Burchard (von Worms), Gottfried (von Worms), Wolfrad (von Worms), Johannes, Hecil, Richezo, Werner (von Worms), Giselbrecht, Konrad, der Meier Wolfram in Pfeddersheim, Heinrich und sein Bruder Konrad, Siegfried und sein Bruder Berthold (von Dirmstein, Wormser Ministeriale), Folmar und ein weiterer Folmar</span>. —<span n="clerk"> Außerhalb der Kanzlei entstanden</span>. <span n="incipit"><hi rend="italic">Sanctarum legum, quas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sanctarum legum, quas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 17. Jh. im Cartular des Klosters Gorze 1 J 68 f. 3, Departementalarchiv Épinal (D). Drucke: Parisse, Pfeddersheim, Jb. f. Westdeutsche Landesgesch. 2 (1976) 150; MG.DF.I.605.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dem unter den Zeugen genannten Helnger von Frankenstein vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 253, zu Walter von Hausen (Kr. Bad Dürkheim) vgl. Plassmann, a.a.O., 257 und 276; zu den Wormser Ministerialen Berthold von Dirmstein, Gottfried Plassmann und Werner sowie Wolfrad, a.a.O., 260, 266 und 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0096" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_605" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

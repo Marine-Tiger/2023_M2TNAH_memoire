@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1659</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-05-00_1_0_4_2_2_1103_1659"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-05-00_1_0_4_2_2_1103_1659"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-05-00_1_0_4_2_2_1103_1659</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1659</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-05-01" to="1167-05-31">1167 (Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>vor Ancona</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belagert mit seinen Truppen, darunter namentlich Lombarden, Tusziern, Bayern, den Bischöfen (Eberhard) von Regensburg, Daniel von Prag, Hermann von Verden und dessen Kapellan Hugo sowie Herzog Friedrich von Rothenburg, das in geschützter Lage am Meer gelegene, wohlbefestigte Ancona, das vom griechischen Kaiser durch Geld vom Reich abgebracht worden ist (Boso), fast drei Wochen lang. Ein Angebot, Tribut und 15 Geiseln zu stellen, wird zunächst nicht akzeptiert, vielmehr werden noch Belagerungsmaschinen hergestellt; vielleicht kommt es auch zu Angriffen vom Meer her (Ann. Laubienses).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont. Anonymi (Morena), ed. Güterbock, MG. SS rer. Germ. N. S. VII, 183, Ann. Ianuenses I, ed. Belgrano, Fonti per la storia d'Italia 11, 203, Vinzenz von Prag, MG. SS XVII, 683; vgl. des weiteren Helmold von Bosau l. II cap. 106, ed. Schmeidler, MG. SS rer. Germ. in us. schol. (<hi rend="sup">3</hi> 1937) 207 f. (irrig: Einnahme von Genua !), Otto von St. Blasien cap. 20, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 22 f. (irrige Angaben über die angebliche Entsendung Christians von Mainz, vgl. dazu schon oben Reg. 1638) sowie Ann. Casinenses, MG. SS XIX, 312, Ann. Laubienses, MG. SS IV, 24, Boso, ed. Duchesne, 414, Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 72, Rahewini Gesta Frid. Appendix, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 349, Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 255 (Eroberung !) und Tholomeus von Lucca, Annalen, ed. Schmeidler, MG. SS rer. Germ. N. S. VIII, 67 (7 Monate Belagerung, vielleicht Verwechslung mit den Ereignissen von 1173); nur als Ort des kaiserlichen Itinerars genannt in Ann. Plac. Gib., MG. SS XVIII, 462, Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 183 und Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 7 f.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu zuletzt ausführlich Leonhard, Die Seestadt Ancona im Spätmittelalter, 66 ff., der als Anlaß der Belagerung die Einforderung des <hi rend="italic">fodrum</hi>  vermutet, aber auch auf den bei Boso ausdrücklich genannten Grund der Entfremdung der Stadt aus der Herrschaft des Reiches Bezug nimmt. Ob man die Angabe der Ann. Laubienses über Angriffe vom Meer her (<hi rend="italic">navali prelio</hi>) wirklich als &amp;quot;Konstruktion&amp;quot; abwerten darf (Leonhard, a. a. O., 70 mit Anm. 418 mit irrigem Zitat Giesebrechts), muß wohl dahingestellt bleiben.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0288" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

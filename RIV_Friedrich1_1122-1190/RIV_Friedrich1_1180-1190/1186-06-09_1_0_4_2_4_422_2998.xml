@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2998</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-09_1_0_4_2_4_422_2998"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-09_1_0_4_2_4_422_2998"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-09_1_0_4_2_4_422_2998</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846498" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2998</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-09" to="1186-06-09">1186
+									Juni 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Cremona bei der Zerstörung des Castel Manfredi  (heute: Castelleone) (<hi rend="italic">quinto idus iunii, in territorio Cremonensi in destructione </hi> <hi rend="italic">castri Manfredi</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2 (vgl. DF.I.943, Anm. 									d’’)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>Kanzleiausfertigung, wohl von GG 									verfasst</scribe>
+				
+				
+					<testis function="witnesses">Elekt 									Rudolf von Trier, die Bischöfe Wilhelm von Asti und Bonifaz von 									Novara, Propst Friedrich von St. Thomas in Straßburg (<hi rend="italic">Strasburc</hi>), die Markgrafen Bonifaz von 									Montferrat und Morroellus (Malaspina), Rudolf von Rapperswil 										(<hi rend="italic">Raprehtiswilre</hi>), die Hofrichter 									Albertus (Aldigheri) aus Ferrara und Ottobellus aus Mailand, 									Guido von Sannazzaro de’ Burgondi und sein Bruder Rainer, 									Wilhelm von Castel d’Agogna und sein Bruder Martin sowie 									Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht der <hi rend="spaced">Stadt 									Mailand</hi> aus reiner Freigebigkeit kaiserlicher Gnade die 								namentlich angeführten Orte zwischen Adda und Oglio, die sie einst 								innehatte, samt der Gerichtsbarkeit und den üblichen 								Gewohnheitsrechten und kassiert alle entgegenstehenden, anderen 								Empfängern gewährten Privilegien. <span n="witnesses">Z.: Elekt 									Rudolf von Trier, die Bischöfe Wilhelm von Asti und Bonifaz von 									Novara, Propst Friedrich von St. Thomas in Straßburg (<hi rend="italic">Strasburc</hi>), die Markgrafen Bonifaz von 									Montferrat und Morroellus (Malaspina), Rudolf von Rapperswil 										(<hi rend="italic">Raprehtiswilre</hi>), die Hofrichter 									Albertus (Aldigheri) aus Ferrara und Ottobellus aus Mailand, 									Guido von Sannazzaro de’ Burgondi und sein Bruder Rainer, 									Wilhelm von Castel d’Agogna und sein Bruder Martin sowie 									Kämmerer Rudolf</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefredus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></span>; <span n="clerk">Kanzleiausfertigung, wohl von GG 									verfasst</span>; <span n="seal">B.2 (vgl. DF.I.943, Anm. 									d’’)</span>. <span n="incipit"><hi rend="italic">Imperatoriam 										maiestatem decet.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam 										maiestatem decet.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh., Stadtbibliothek 								Treviglio (B); Abschrift des 15. Jh. Cod. B 19 inf., f. 16‘, 								Biblioteca Ambrosiana zu Mailand (C); Abschrift des 18. Jh. aus 								Puricelli mit Korrekturen nach dem Original am Rande, Biblioteca 								Ambrosiana zu Mailand D. S. IV. 10 (I. 10), f. 183 (E). Druck: 								MG.DF.I.943. Regg.: Astegiano, CD.Cremonae 1, 162 n<hi rend="sup">o</hi> 427; Stumpf 4458.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. die Vorbemerkung zum D.; 								auffällig ist die Verwendung der deutschen Namensform <hi rend="italic">Strasburc</hi> bei der Nennung des Zeugen Propst 								Friedrich von St. Thomas in Straßburg. – Die kaiserliche 								Freigebigkeit erklärte sich aus dem Vorgehen gegen Cremona, dem mit 								D.941 (Reg. 2995) die älteren Privilegien, darunter auch die 								Verleihung von Rechten im Gebiet zwischen Adda und Oglio (vgl. dazu 								DD. 164 und 353 = Regg. 446 und 1032), entzogen worden waren.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_943" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

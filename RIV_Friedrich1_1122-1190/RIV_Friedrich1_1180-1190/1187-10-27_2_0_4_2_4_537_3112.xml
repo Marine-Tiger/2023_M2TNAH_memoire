@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3112</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-27_2_0_4_2_4_537_3112"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-27_2_0_4_2_4_537_3112"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-10-27_2_0_4_2_4_537_3112</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3112</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-10-27" to="1187-10-27">1187
+									Oktober 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Este (<hi rend="italic">in Hest in Dullono</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Markgraf Opizo von Este fällt in seiner Funktion als 								vom Kaiser mit der Appellationsgerichtsbarkeit im Gebiet von Verona 								betrauter Vikar und Bote (<hi rend="italic">Vicarius &amp;amp; Nuncius 									domni Imperatoris Friderici ad audiendas causas Appellationum 									Veronae &amp;amp; ejus districtus</hi>) ein Appellationsurteil 								zwischen Abt Gerard von S. Zeno in Verona und Nicolaus de Advocatis, 								wobei gegen die Ansprüche des Nicolaus ein Urteil der Konsuln von 								Verona als rechtmäßig erklärt wird.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Muratori, Antiquitates Ital. 4, 479 f.</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierung lautet <hi rend="italic">die Martis 									Quinto exeunte mense Octubris</hi>, was für das Jahr 1187 								zutrifft. – Vgl. Ficker, Forschungen 2, 63. – Opizo verfügte auch 								für den Bereich von Padua über die Appellationsgerichtsbarkeit, vgl. 								dazu oben Reg. 3045.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

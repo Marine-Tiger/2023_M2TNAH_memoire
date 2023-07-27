@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2248</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-17_1_0_4_2_3_476_2248"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-17_1_0_4_2_3_476_2248"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-05-17_1_0_4_2_3_476_2248</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601754" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2248</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-05-17" to="1177-05-17">1177 Mai 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ravenna">Ravenna</placeName>
+												<location><geo decls="#WGS">44.4167, 11.9833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVI kal. iunii, apud Rauenam/Ravennam)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Z. (nur in der Überlieferung a): Konrad von Ballhausen, Petrus Traversarius (von Ravenna), Diakon Johannes, Dietrich, Johannes Gariundus, Appianus und Frodulfus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <hi rend="spaced">Fischern von Comacchio</hi>  gemäß ihren durch ihre Konsuln Ioannesbonus und Buffo vorgebrachten Bitten die namentlich angeführten Besitzungen und Rechte, darunter eine Reihe von Fischgründen, Salzgärten und Wäldern, unterstellt sie ausschließlich der Gerichtsbarkeit seines Boten, der alle zwei Jahre gemeinsam mit zwölf Männern zu Gericht sitzen soll, befreit sie von jeglichem Tribut, vom Fodrum, von Zöllen, besonders dem Hafen-, Ufer- und Marktzoll, und der Gastung und begrenzt die Verhängung des Bannes über sie auf 108 Denare. <span n="witnesses">Z. (nur in der Überlieferung a): Konrad von Ballhausen, Petrus Traversarius (von Ravenna), Diakon Johannes, Dietrich, Johannes Gariundus, Appianus und Frodulfus</span>. — In der Überlieferung a: <hi rend="italic">Philipus canc. Italie; prothonotarius hanc paginam scribere iussi.</hi>  / In der Überlieferung b: <hi rend="italic">Godofridus canc. vice Philippi Coloniensis archiep. et It(alici) regni archicanc.</hi>; Fassung a wurde vom Empfänger in Anlehnung an ältere Kaiserurkunden mit unzeitgemäßer Corroboratio und vielfach gegen die Kanzleiregel verstoßendem Protokoll verfaßt, Fassung b ist die seitens der Kanzlei in der für Burkhard charakteristischen Weise überarbeitete Neuausfertigung des an sich rechtsgültigen Originals, das der Empfänger im Auftrag des Protonotars hergestellt hatte. <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Ursprüngliche Fassung (a): Kop.: Abschrift des 16. Jh. in Privilegia et instrumenta civitatis Comacli, Vatikanisches Archiv, Armario XLVIII tom. 15 f. 3 (D)./In der Kanzlei überarbeitete Fassung (b): Kop.: Abschrift des ausgehenden 15. Jh., Prisciani Peregrini Collectanea 2, f. 388, Staatsarchiv Modena (E); Abschrift Bethmanns im alten Apparat der Monumenta &amp;quot;ex apographo ex tomo 1 rerum Ferrarensium cum Venetiis f. 102 facto de transsumpto a 1500 inter mss. Fontaniana in Bibl. publ. civit. S. Danielis in Friuli&amp;quot; (H). Druck: MG.DF.I.671. Reg.: Stumpf 4193.</p></div>
+				
+				
+					<div type="commentary"><p>Die Namen der als Petenten genannten Konsuln finden sich nur in der Fassung a. — Zur Überlieferung und der komplizierten kanzleigeschichtlichen Bewertung vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0168" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_671" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

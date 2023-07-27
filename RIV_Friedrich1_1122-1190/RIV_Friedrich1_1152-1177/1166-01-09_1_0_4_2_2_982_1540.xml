@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1540</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-09_1_0_4_2_2_982_1540"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-09_1_0_4_2_2_982_1540"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-01-09_1_0_4_2_2_982_1540</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247218" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1540</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-01-09" to="1166-01-09">1166 Januar 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V<hi rend="sup">to</hi>  idus ianuarii, Aqvisgrani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Aachen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus sacri palatii prothonotarius vice Cristiani archicanc. et Magontinę sedis electi</hi></notarius>
+				
+				
+					<scribe>geschrieben von Wortwin, das Diktat erinnert nur in wenigen Partien an ihn</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem königlichen Ort <span sameAs="recipient"><hi rend="spaced">Aachen</hi> </span>, der als Stätte der Verehrung des heiligen Kaisers Karl (des Großen) und der ersten Krönung der römischen Kaiser alle Provinzen und Städte an Würde und Ehre übertrifft, zwei Jahrmärkte am Beginn der Fastenzeit und um Michaeli (September 29) mit voller Zollfreiheit und Sicherheit für die Kaufleute, regelt die dortige Münzprägung nach ihrem Aussehen und ihrem Verhältnis zur Kölner Münze, läßt grundsätzlich alle übrigen Münzen in Aachen zu, gewährt den dortigen Kaufleuten das Recht, auch im Freien Geld zu wechseln, und trifft Anordnungen über die Rechtsprechung in Aachen, indem veraltete und überholte Normen reformiert werden. - <span n="chancellor"><hi rend="italic">Heinricus sacri palatii prothonotarius vice Cristiani archicanc. et Magontinę sedis electi</hi> </span>; <span n="clerk">geschrieben von Wortwin, das Diktat erinnert nur in wenigen Partien an ihn</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quoniam Aquisgranum locum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam Aquisgranum locum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Aachen (A). Drucke: Meuthen, Aachener Urkunden 123 n<hi rend="sup">o</hi>  3; MG. DF. I. 503. Reg.: Stumpf 4062.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Meuthen, a. a. O. mit der dort genannten Literatur und Opll, Stadt und Reich 29.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0259" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_503" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

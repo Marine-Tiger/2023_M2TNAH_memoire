@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3055</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-19_2_0_4_2_4_479_3055"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-19_2_0_4_2_4_479_3055"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-02-19_2_0_4_2_4_479_3055</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3055</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-02-19" to="1187-02-19">1187
+									Februar 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Erzbischof 									Konrad von Mainz, die Bischöfe Otto von Bamberg und Diepold von 									Passau, der Kanzler (<hi rend="italic">canzellarius sacri 										palatii</hi>; Johannes), Graf Diepold von Lechsgemünd, 									Heinrich von Altendorf und weitere lokale Zeugen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Konrad von Regensburg nimmt den durch ihn 								der Pfarrkirche in Jachenhausen übertragenen Zehnten bei der 								Belehnung Kaiser Friedrichs mit dem Lehen Burggraf Heinrichs von 								Regensburg ausdrücklich aus. <span n="witnesses">Z.: Erzbischof 									Konrad von Mainz, die Bischöfe Otto von Bamberg und Diepold von 									Passau, der Kanzler (<hi rend="italic">canzellarius sacri 										palatii</hi>; Johannes), Graf Diepold von Lechsgemünd, 									Heinrich von Altendorf und weitere lokale Zeugen</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Thiel – Engels, Trad. Münchsmünster (Qu. u. 								Erörterungen zur Bayer. Gesch. N.F. 20, 1961) 115 n<hi rend="sup">o</hi> 18b; vgl. auch Boshof, Regesten d. Bischöfe von Passau 								1, 277 n<hi rend="sup">o</hi> 909.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Aussterben der Regensburger Burggrafen aus dem 								Hause der Pabonen und der Übertragung von deren hochstiftischen 								Lehen an den Kaiser vgl. Thiel – Engels, a.a.O., 114 (Vorbemerkung), 								Schmid, Regensburg (Regensburger Histor. Forschungen, Bd. 6, 1977) 								182, und Opll, Stadt und Reich, 142.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3140</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-00_1_0_4_2_4_565_3140"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-03-00_1_0_4_2_4_565_3140"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-03-00_1_0_4_2_4_565_3140</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848321" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3140</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-03-01" to="1188-03-31">(1188
+									Februar oder März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Speyer?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erteilt seine Zustimmung zu einem in 								seiner Gegenwart und der seines Sohnes, König (Heinrichs VI.), im 								Zusammenhang mit der <hi rend="spaced">Gründung des Klosters 									Bebenhausen</hi> vollzogenen Gütertausch zwischen Bischof Ulrich 								von Speyer und Pfalzgraf Rudolf von Tübingen. Der Kaiser und sein 								Sohn sind dabei in ihrer Eigenschaft als Schutzvögte der Speyerer 								Kirche tätig.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Urkunde Bischof 								Ulrichs von Speyer von 1188, ed. Wirtemberg. UB. 2, 252 n<hi rend="sup">o</hi> 454: <hi rend="italic">Presentabantur etiam 									ibi litterae domni Friderici potentissimi Romanorum imperatoris 									et semper augusti, qui hoc ipsum consuluit et approbavit.</hi>); 								der Hinweis auf die Anwesenheit beider Staufer findet sich in der 								Urkunde desselben Bischofs über den feierlichen Vollzug der 								Rechtshandlung (Wirtemberg. UB. 2, 254 n<hi rend="sup">o</hi> 455 								von 1188: <hi rend="italic">Factum est autem hoc concambium in 									presentia domini Friderici Romanorum imperatoris augusti et 									filii eius Romanorum regis gloriosissimi.</hi>). – 								MG.DF.I.*1208. Reg.: B.-Baaken Reg. 66a; Helbok, Reg. 								Vorarlberg, 146 n<hi rend="sup">o</hi> 297; Stumpf 4487.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								Hinweis auf die Anwesenheit des Kaisers und seines Sohnes; da der 								Kaiser am 2. Februar in Nürnberg (vgl. Reg. 3138), sein Sohn am 								selben Tag in Koblenz (B.-Baaken Reg. 65a) einen Hoftag abhielt und 								beide sodann während des „Hoftages Jesu Christi“ in Mainz bezeugt 								sind (vgl. Reg. 3145), ist das Deperditum in den Februar oder März 								1188 zu datieren. Im Übrigen wird dieses Deperditum auch in der 								Urkunde Pfalzgraf Rudolfs von Tübingen für das mittlerweile vom 								Prämonstratenser- zum Zisterzienserorden übergewechselte Kloster 								Bebenhausen von 1191 Juli 30, Asperg, ed. Wirtemberg. UB. 2, 270 no 								466 (<hi rend="italic">predium ipsum quod erat Spirensis ecclesie, 									favente et confirmante gloriosissimo imperatore Friderico 									eiusque filio rege Heinrico aliisque regni principibus, ordine 									iudiciario per concambium acquisivimus</hi>) und im DH.VI. für 								Bebenhausen von 1193 Juni 29, Worms (B.-Baaken Reg. 304, ed. 								Wirtemberg. UB. 2, 296 no 482) erwähnt. – Im Jahr zuvor hatte auch 								der Kaisersohn Herzog Friedrich von Schwaben für Bebenhausen 								geurkundet, siehe dazu Reg. 3078 sowie die dort gebotenen 								Literaturhinweise. – Zur Frage der staufischen Hochstiftsvogtei über 								Speyer vgl. die Hinweise bei Ehlers, Metropolis Germaniae (Veröff. 								d. Max-Planck-Inst. f. Gesch. 125, 1996) 175.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1208" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

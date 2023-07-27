@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3138</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-02-02_1_0_4_2_4_563_3138"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-02-02_1_0_4_2_4_563_3138"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-02-02_1_0_4_2_4_563_3138</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3138</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-02-02" to="1188-02-02">1188
+									Februar 2</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verbringt das Fest Mariä Reinigung in 								Nürnberg, wo Erzbischof Philipp von Köln, der schon viele ihm nach 								Spruch (des Hofgerichts: <hi rend="italic">ex sentencia</hi>) 								gesetzte Ladungstermine hat verstreichen lassen und dem er nach 								Nürnberg <hi rend="italic">sentencialiter</hi> einen peremptorischen 								Termin gesetzt hat, vor ihm erscheint. Die Beilegung der Spannungen 								wird auf den Hoftag zu Mainz auf Letare Jerusalem (siehe dazu Reg. 								3145) vertagt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed. Waitz, MG. SS rer. 								Germ. in us. schol., 138 f.; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 1316.</p></div>
+				
+				
+					<div type="commentary"><p>Die Spannungen zwischen dem Kaiser und dem Kölner 								Metropoliten gehen auf das Jahr 1186 zurück (siehe Reg. 2993). Noch 								in Gelnhausen im November 1186 erschien Philipp bei Hofe (siehe Reg 								3031 und die Bemerkungen zu Reg. 3038). 1187 verschlechterte sich 								das Verhältnis dann allerdings weiter, vgl. Regg. 3067 								(Bemerkungen), 3079, †3088, †3089, 3096 (Philipp erscheint trotz 								Vorladung nicht auf dem Hoftag in Worms), 3116 (Philipp erscheint 								trotz Vorladung nicht auf dem Hoftag in Straßburg) und 3128; zum 								Jahr 1188 vgl. auch Regg. †3134, †3135, †3136 und †3137, sowie aus 								der Literatur zuletzt: Groten, Köln und das Reich, in: Stauferreich 								im Wandel. Ordnungsvorstellungen und Politik in der Zeit Friedrich 								Barbarossas, hg. von Stefan Weinfurter (Mittelalter-Forschungen 9, 								Stuttgart 2002) 237 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2578</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-00-00_1_0_4_2_3_807_2578"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-00-00_1_0_4_2_3_807_2578"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-00-00_1_0_4_2_3_807_2578</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1358842973" value="2013-01-22"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2578</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-09-01" to="1186-09-30">1186 Herbst – 1188 Herbst (Dezember 1187)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Graf B(alduin V.) von Hennegau (<hi rend="italic">B. hayonensis comes</hi>) übersendet Kaiser Friedrich (<hi rend="italic">Viro illustri atque famosissimo triumphatori vere magnifico Frederico Dei gratia Romanorum imperatori et semper augusto</hi>) aus Dankbarkeit für seine ehrenvolle Behandlung durch den Kaiser einen in Cluny, Tours und teilweise in der Bibliothek (des Klosters) von St. Denis hergestellten Kodex, der den von Papst Calixt II. verfaßten Bericht über das Martyrium und die Wunder des hl. Apostels Jakob (<hi rend="italic">peryocam depassione et miraculis beatissimi Jacobi apostoli a venerabili domno papa Calixto secundo veraciter ac devote conscriptam</hi>) und den Bericht Erzbischof Turpins über die Taten Kaiser Karls (des Großen) in Spanien (<hi rend="italic">Aliam quoque ... meam transcribo peryocam, a domno Remensi archipresule Tilpino de his, que magnificus imperator Karolus in Hispania gessit</hi>, ...; der sogenannte Pseudo-Turpin) enthält.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Undatiertes Schreiben des Grafen Balduin (V.) von Hennegau an den Kaiser (von 1171 — 1180), ed. Hämel, Entstehungszeit der Aachener Vita Karoli magni, QFIAB 32 (1942) 345 ff.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Datierung sowie zum Inhalt vgl. Hämel, a.a.O., 346 ff., sowie Opll, Amator ecclesiarum, MIÖG 88 (1980) 86 mit Anm. 82.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Ergänzung der verderbten Datierung gemäß der 4. Lieferung (2011). 
+</p>
+<p>Im Erstdruck genannte Datierung: 1171 — 1180.
+</p>
+<p>Dort heißt es: &amp;quot;Das Schreiben des Grafen Balduin (V.) von Hennegau ist richtig zu 1186 Herbst – 1188 Herbst, vielleicht sogar dezidiert zum Besuch des Hennegauer Grafen bei Hofe im Dezember 1187 (siehe dazu hier im Band: Regg. 3125–3127) einzureihen, vgl. dazu hier im Band: Reg. 3198a.&amp;quot;</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0282" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

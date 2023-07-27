@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2457</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_2_0_4_2_3_685_2457"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_2_0_4_2_3_685_2457"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-12_2_0_4_2_3_685_2457</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606068" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2457</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-12" to="1178-10-12">1178  Oktober 12 — 1180</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Oberehnheim/Obernai</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII idus octobris, Ehenheim)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Maguntini archiep. totius Germaniae archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Seiten des Empfängers</scribe>
+				
+				
+					<testis function="witnesses">Abt Richard von Belchamp (Augustiner-Chorherrenstift) und seine Kanoniker, Kastellan Ulrich von Neuvillers-sur-Moselle und sein Ritter Arnulf, Bancelin von Chamagne, Ritter Paganus Bruley sowie zahlreiche Bauern und Edelfreie</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem zu seiner Vogtei Andlau gehörigen <hi rend="spaced">Prämonstratenserstift Étival</hi>  auf Bitten des Abtes und seiner Brüder die genannten Schenkungen des Edlen Widerich und seiner Söhne Ludwig und Stephan, wofür die Kanoniker dem Ludwig <hi rend="italic">in caritate</hi>  ein edles Pferd und dem Stephan 20 <hi rend="italic">solidi</hi>  der Münze von Toul zu geben, beide in ihre Gebete aufzunehmen und nach ihrem Tod ihr Gedächtnis (Anniversar) zu begehen versprechen. <span n="witnesses">Z.: Abt Richard von Belchamp (Augustiner-Chorherrenstift) und seine Kanoniker, Kastellan Ulrich von Neuvillers-sur-Moselle und sein Ritter Arnulf, Bancelin von Chamagne, Ritter Paganus Bruley sowie zahlreiche Bauern und Edelfreie</span>  (<hi rend="italic">aliis multis tarn rusticis quam nobilibus</hi>). — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Maguntini archiep. totius Germaniae archicanc.</hi> </span>; <span n="clerk">verfaßt von Seiten des Empfängers</span>, das Eschatokoll nachträglich (wohl 1180) hinzugefügt. <span n="incipit"><hi rend="italic">Quoniam domino largiente</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam domino largiente</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Ms. 1787 p. 156, Stadtbibliothek Nancy (D). Druck: Schoepflin, Alsatia dipl. 1, 272 n<hi rend="sup">o</hi>  324 aus dem Original in Étival zu 1180 (s); MG.DF.I.768. Reg.: Stumpf 4295 zu 1179.</p></div>
+				
+				
+					<div type="commentary"><p>Zur kanzleigeschichtlichen Bewertung dieses — ähnlich wie D.767 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-12_1_0_4_2_3_684_2456.html" type="internal" n="regesten">2456</ref>) — vom Empfänger verfaßten, dann aber von Burkhard überarbeiteten D. wie zu dessen zeitlicher Einordnung — das Inkamationsjahr 1180 bezieht sich offensichtlich auf eine nachträgliche Beurkundung — vgl. die Vorbemerkung zum D. sowie Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-00-00_2_0_4_2_3_801_2572.html" type="internal" n="regesten">2572</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0240" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_768" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

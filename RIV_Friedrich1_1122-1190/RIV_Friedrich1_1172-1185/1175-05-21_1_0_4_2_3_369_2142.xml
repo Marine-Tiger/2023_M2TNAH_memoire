@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2142</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-05-21_1_0_4_2_3_369_2142"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-05-21_1_0_4_2_3_369_2142"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-05-21_1_0_4_2_3_369_2142</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599242" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2142</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-05-21" to="1175-05-21">1175 Mai 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XII kal. iunii, Papie)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Wachssiegel</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philipi Colloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Kuno von Regensburg, Hermann von Bamberg und Hugo von Verden, Pfalzgraf Konrad bei Rhein, die Grafen Rudolf von Pfullendorf und Heinrich von Diez, Heinrich von Grumbach, Burchard von Asuel, Billung <hi rend="italic">de Curte</hi>  (aus Pavia) sowie Burgundio, Rainer und Assalidus von Sannazzaro de' Burgondi</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert die <hi rend="spaced">Stadt Como</hi>, die er zerstört vorgefunden und wieder aufgerichtet hat, mit all ihren Besitzungen im Bereich der Diözese, die sie entweder insgesamt innehat oder die die einzelnen Bürger innehaben (<hi rend="italic">per comune vel per divisum</hi>), gewährt ihr das Recht der jährlichen Wahl von Konsuln, die von ihm persönlich — für den Fall seines Aufenthalts in Italien jedesmal, im Fall seines Aufenthalts in Deutschland einmal im Verlauf von drei Jahren — zu investieren sind, verbietet den Wiederaufbau der Burgen Isola Comacina und Gravedona, gesteht allen das Recht des freien Zuzugs nach Como zu, bestätigt ihnen ihre <hi rend="italic">privilegia libellorum</hi>  und sichert ihnen das Marktrecht zu <hi rend="italic">(Nullo quoque tempore mercatum eis aufferemus [!] nec cuiquam ipsius eis aufferenti [!] assensum prestabimus.)</hi>, behält sich jedoch in allem die kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: die Erzbischöfe Philipp von Köln und Arnold von Trier, die Bischöfe Kuno von Regensburg, Hermann von Bamberg und Hugo von Verden, Pfalzgraf Konrad bei Rhein, die Grafen Rudolf von Pfullendorf und Heinrich von Diez, Heinrich von Grumbach, Burchard von Asuel, Billung <hi rend="italic">de Curte</hi>  (aus Pavia) sowie Burgundio, Rainer und Assalidus von Sannazzaro de' Burgondi</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philipi Colloniensis archiep. et archicanc.</hi> </span>; kanzleigemäßes Formular, wohl von Burkhard verfaßt und geschrieben; <span n="seal">Wachssiegel</span>  (vgl. dazu DF.I.640 Anm. m). <span n="incipit"><hi rend="italic">Imperialem decet excellenciam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem decet excellenciam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Vetera monumenta civitatis Novocomi vom Ende des 13. Jh. 1, f. 3 aus notarieller Abschrift von A, Stadtbibliothek Como (D). Drucke: Rovelli, Storia di Como 2, 358 n<hi rend="sup">o</hi>  16; MG.DF.I.640. Reg.: Stumpf 4177.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Diktat, das auch einige an Christian E und den Einfluß des Rainald C erinnernde Wendungen aufweist, sowie zu Anklängen an den Wortschatz des römischen Rechts vgl. die Vorbemerkung zum D. — Gegenüber DF.I.264 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-03-23_1_0_4_2_2_132_690.html" type="internal" n="regesten">690</ref>) deutlich erweiterter Rechtsinhalt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0134" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_640" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2206</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-11-00_1_0_4_2_3_434_2206"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-11-00_1_0_4_2_3_434_2206"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-11-00_1_0_4_2_3_434_2206</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456305859" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2206</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-11-01" to="1176-11-30">1176 November</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">(Pavia)</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich setzt <hi rend="spaced">Patriarch U(dalrich) von Aquileia</hi>  davon in Kenntnis, daß er nach der durch Eide und besiegelte Schreiben vereinbarten Beendigung des Schismas für Pauli Bekehrung (= 25. Januar) ein Konzil nach Ravenna einberufen habe, wo der Friede mit der Kirche verkündet werden solle, und befiehlt ihm, spätestens zu diesem Termin in Ravenna zu erscheinen. — <span n="incipit"><hi rend="italic">Sicut liquido universis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut liquido universis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Tegernseer Briefsammlung des 12. Jh. Clm. 19.411 f. 84' (p. 170), Staatsbibliothek München (B). Drucke: MG.Const.1, 357 n<hi rend="sup">o</hi>  253; MG.DF.I.659. Regg.: Plechl, Tegernseer Briefsammlung, DA 12 (1956) 85 n<hi rend="sup">o</hi>  101; Stumpf 4184.</p></div>
+				
+				
+					<div type="commentary"><p>Die annähernde Datierung ergibt sich aus dem Konzilstermin. Interesse verdient der dezidierte Hinweis auf die Beurkundung des Vorfriedens von Anagni, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-11-00_1_0_4_2_3_430_2202.html" type="internal" n="regesten">2202</ref>. — Der Patriarch von Aquileia wurde etwas früher auch seitens des ehemaligen Mainzer Erzbischofs und damaligen Kardinals von Sabina, Konrad von Wittelsbach, über das geplante Konzil in Ravenna informiert vgl. MG. Const. 1, 359 n<hi rend="sup">o</hi>  256 (nennt als Aussteller irrig: Erzbischof Christian von Mainz) und Plechl, a.a.O., 91 n<hi rend="sup">o</hi>  79 mit den dort (91 ff.) gebotenen Erläuterungen sowie Acht, Mainzer UB. II/2, 635 n<hi rend="sup">o</hi>  387. — Die historiographische Überlieferung (Ann. Palid., MG. SS XVI, 94; Ann. Pegav., MG. SS XVI, 261; Ann. s. Georgii, Cont. A, MG. SS XVII, 296) weiß zu berichten, daß der Kaiser im November 1176 aus Pavia (so Ann. Palid.) Boten und Schreiben ins ganze Reichsgebiet entsandte, in denen Bischöfe, Prälaten und Fürsten nach Italien berufen wurden und ein Konzil zur Beendigung des Schismas angesagt wurde; vgl. des weiteren auch Gottfried von Viterbo, Gesta Frid., MG. SS XXIII, 330 V. 1024 ff. sowie oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-00-00_1_0_4_2_3_429_D2201.html" type="internal" n="regesten">2201</ref>. — Vgl. auch das Schreiben Herzog Welfs VI. an Kardinal Hyacinth von (1176 Oktober/November), in dem er mitteilt, es sei in seinen Landstrichen bekannt geworden, daß ein Konzil in des Kaisers Gegenwart stattfinden werde, an welchem, wie die kaiserlichen Schreiben besagen, beide Päpste teilnehmen würden, Feldmann, Welf VI., Reg. n<hi rend="sup">o</hi>  142 (a.a.O., 117 f. zur Datierung dieses Schreibens) und Plechl, Tegernseer Briefsammlung, DA 12 (1956) 418 n<hi rend="sup">o</hi>  64; des weiteren auch Feldmann, a.a.O., n<hi rend="sup">o</hi>  144, 146, 149 und 150.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>DF.I.659 ist nun ediert bei: Plechl – Bergmann, Tegernseer Briefsammlung, MG. Briefe VIII, 89 no 66; die Datierung zu einem angeblichen Aufenthalt des Kaisers in Piemont (unter irrigem Verweis auf Opll, Itinerar, 55), stimmt allerdings keinesfalls (der Kaiser weilte damals in Pavia). – Das Konzil in Ravenna wird auch in einem Schreiben Propst Ottos von Raitenbuch an Herzog Welf VI., einem weiteren Schreiben des Propstes an die Brüder seiner Kirche und einem Schreiben des Propstes an seinen Bruder, Abt Rupert von Tegernsee, erwähnt, vgl. dazu Plechl – Bergmann, a.a.O., 52 no 35 (Aquileia, 1176 Ende November – Anfang Dezember), 103 no 77 (in Venetien, erstes Drittel des Dezember) und 311 no 281 (1176 Mitte Dezember – 1177 Mitte Januar). – Das im Kommentar zu diesem Regest erwähnte Schreiben Welfs VI. an Kardinal Hyacinth findet sich nun gleichfalls ediert bei Plechl – Bergmann, a.a.O., 43 no 29.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0154" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_659" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._357" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1266</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_1_0_4_2_2_708_1266"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-10-28_1_0_4_2_2_708_1266"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-10-28_1_0_4_2_2_708_1266</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245596" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1266</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-10-28" to="1163-11-13">(1163 Oktober 28-November 13)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Lodi ?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Siena</hi></recipient>
+				
+				
+				
+					<scribe>Wahrscheinlich von dem im Dienste Rainalds tätigen Notar RH verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt (den Konsuln von <span sameAs="recipient"><hi rend="spaced">Siena</hi> </span>), den Domherren dieser Stadt hinsichtlich ihrer vor dem Elekten von Köln und Erzkanzler für Italien, Rainald, und ihren Amtsvorgängern vorgebrachten Klagen binnen 60 Tagen Gerechtigkeit widerfahren zu lassen. - <span n="clerk">Wahrscheinlich von dem im Dienste Rainalds tätigen Notar RH verfaßt</span>. <span n="incipit"><hi rend="italic">Ad executionem iustitie</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad executionem iustitie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Ms. F I 9 f. 144, Stadtbibliothek Siena (B). Drucke: Schneider, Toscanische Studien, QFIAB 11 (1908) 64; MG. DF. I. 415. Reg.: Schneider, Reg. Senense 1, 84 n<hi rend="sup">o</hi>  225.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu das Mandat Rainalds mit gleichem Inhalt, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-10-28_2_0_4_2_2_709_1267.html" type="internal" n="regesten">1267</ref>. Der in beiden Dokumenten nicht überlieferte Adressat ergibt sich aus dem Sachverhalt. Zur zeitlichen Einordnung - in jedem Fall wohl auch nach Rainalds Aufenthalt in Siena (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-08-01_2_0_4_2_2_664_1222.html" type="internal" n="regesten">1222</ref>) - vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0192" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_415" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

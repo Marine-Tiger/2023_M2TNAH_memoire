@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 152</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_4_0_4_2_1_152_152"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_4_0_4_2_1_152_152"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-12-28_4_0_4_2_1_152_152</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236717" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 152</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-12-28" to="1152-12-28">1152 Dezember 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Trier">Trier</placeName>
+												<location><geo decls="#WGS">50, 6.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V kal. ianuarii, Treueris)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gembloux</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und wie die Nachzeichnung von Chrismon und Monogramm zeigt, auch geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hillin von Trier, die Bischöfe Ortlieb (<hi rend="italic">Ortoliabus</hi>) von Basel, Konrad von Worms, Heinrich von Lüttich, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Pfalzgraf Hermann (bei Rhein), Abt Wibald von Stablo, Herzog Gottfried von Löwen, Graf Dietrich von Flandern</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten seines Kanzlers Arnold und anderer Fürsten das Kloster <span sameAs="recipient"><hi rend="spaced">Gembloux</hi> </span>  (<hi rend="italic">Gemblacensem</hi>) in seinen Schutz, bestätigt ihm die Freiheit von jeder Herrschaft, bestimmt, daß der nach dem König zweite Vogt nur einen einzigen Untervogt einsetzen darf, dessen Rechte genau festgelegt werden, gewährt nach dem Tod Abt Arnulfs das freie Abt- und Vogtwahlrecht, das Befestigungsrecht im Gebiet um Gembloux, die Befreiung der Bewohner der Stadt Gembloux von allen Zöllen und Abgaben im Reich und bekräftigt Abt Arnulf die Schenkungen Kaiser Ottos und Bischof Wilbodos von Lüttich. <span n="witnesses">Z.: Erzbischof Hillin von Trier, die Bischöfe Ortlieb (<hi rend="italic">Ortoliabus</hi>) von Basel, Konrad von Worms, Heinrich von Lüttich, die Herzoge Heinrich von Sachsen, Welf, Matthäus von Lothringen, Pfalzgraf Hermann (bei Rhein), Abt Wibald von Stablo, Herzog Gottfried von Löwen, Graf Dietrich von Flandern</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und wie die Nachzeichnung von Chrismon und Monogramm zeigt, auch geschrieben von A II. C</span>. <span n="incipit"><hi rend="italic">Pie postulatio voluntatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Pie postulatio voluntatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1498-1500 im Registre 8 de la Chambre des Comptes f. 392, Staatsarchiv Brüssel (B); Abschriften des 18. Jh. im Inventaire des Archives de l'abbaye de Gembloux p. 210, Staatsarchiv Namur (C), in den Privilegia abbatiae Gemblacensis p. 6 ebenda (D) und in den Extraits des privilèges de l'abbaye de Gembloux n<hi rend="sup">o</hi>  2 p. 4 ebenda (E). Drucke: Stumpf, Acta ined. 151 n<hi rend="sup">o</hi>  122; Roland, Recueil des chartes de Gembloux 62 n<hi rend="sup">o</hi>  55; MG. DF. I. 42. Reg.: Wauters, Table chronol. 7/1, 258 zu 1153 Dez. 28; Stumpf 3656.</p></div>
+				
+				
+					<div type="commentary"><p>Ob die im Text erwähnten Verleihungen Kaiser Ottos und des Bischofs von Lüttich mit dem gefälschten DO. I. 82 und einer Bischofsurkunde von etwa 1018-1021 (Roland a. a. O. 35 n<hi rend="sup">o</hi>  18) identisch sind, ist nicht eindeutig festzustellen; Konrad III. gewährte dem Kloster einen Wochenmarkt zu Mont-Saint-Guibert, wie wir aus einer Urkunde Herzog Gottfrieds III. von Löwen (Roland a. a. O. 68 n<hi rend="sup">o</hi>  59) erfahren; ein diesbezügliches Diplom Konrads III. ist nicht erhalten. - Zur Vogtei des Klosters, die dem Herzog von Löwen zustand, vgl. Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 268.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0054" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_42" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

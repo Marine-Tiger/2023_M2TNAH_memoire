@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 230</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-06-23_1_0_4_2_1_230_230"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-06-23_1_0_4_2_1_230_230"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-06-23_1_0_4_2_1_230_230</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237386" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 230</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-06-23" to="1154-06-23">(1154 nicht lange nach Juni 23)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Maastricht">Maastricht</placeName>
+												<location><geo decls="#WGS">50.85, 5.7</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gertrud</hi>  <hi rend="spaced">Dagsburg</hi>  <hi rend="spaced">Wanze</hi></recipient>
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei in Anlehnung an den Stil der Gerichtsurkunde und unter Heranziehung von DK. III. 74 für das Stift Floreffe verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten der Gräfin <span sameAs="recipient"><hi rend="spaced">Gertrud</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Dagsburg</hi> </span>  und mit Zustimmung ihres Sohnes, des Grafen Hugo von Metz und im Moselgau, die Verleihung einer Pfründe im Servatiusstift zu Maastricht an die Kirche zu <span sameAs="recipient"><hi rend="spaced">Wanze</hi> </span>  (<hi rend="italic">ecclesie beate Marie Magdalene de Wanze</hi>), die ihr durch Propst Gerhard von Bonn, damals Propst von St. Servatius, gegen die unrechtmäßigen Ansprüche eines gewissen Reiner vom königlichen Hofgericht in der Pfalz Maastricht (<hi rend="italic">in palatio nostro Traiecti</hi>) im Beisein des Erzbischofs Arnold von Köln, des Bischofs Heinrich von Lüttich, des königlichen Kanzlers Zeizolf, des Propstes Albert von Aachen und der Laien Markward von Grumbach, Ulrich von Herrlingen (<hi rend="italic">Hurninge</hi>), Goswin des Jüngeren von Falkenburg und Dietrich <hi rend="italic">de Werde</hi>  zuerkannt worden ist. - <span n="clerk">Außerhalb der Kanzlei in Anlehnung an den Stil der Gerichtsurkunde und unter Heranziehung von DK. III. 74 für das Stift Floreffe verfaßt</span>. <span n="incipit"><hi rend="italic">Cum servorum Christi</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum servorum Christi</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Chartular des Stiftes Floreffe von 1292 f. 185', Staatsarchiv Namur (B); Abschrift von 1748 Ms. 700 p. 663, Reichsarchiv Maastricht(C). Drucke: Barbier, Hist. de Floreffe ed. II. 2, 13n<hi rend="sup">o</hi>  25; MG. DF. I. 83. Reg.: Doppler, Charters van St. Servaas, Publications de la Soc. Hist. et Archéol. de Limbourg 66 (1930) 245 n<hi rend="sup">o</hi>  46; Knipping Reg. 562 (zu c. 1153).</p></div>
+				
+				
+					<div type="commentary"><p>Signumzeile und Monogramm gehen auf A II. D. zurück. - Zur zeitlichen Einordnung vgl. die Vorbemerkung und Opll, Itinerar 12 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Bei dem als letztem der Beisitzer des Königsgerichtes genannten Dietrich <hi rend="kursiv">de Werde</hi> dürfte es sich um Dietrich von Kaiserswerth handeln, vgl. Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 107.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0082" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_83" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

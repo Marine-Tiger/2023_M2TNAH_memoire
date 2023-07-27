@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 103a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_1_1_4_2_1_103a_103a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-00_1_1_4_2_1_103a_103a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-00_1_1_4_2_1_103a_103a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1360326350" value="2013-02-08"></date>
+				<date type="lastmod" n="1360326748" value="2013-02-08"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 103a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-06-01" to="1152-06-30">1152 Juni/Juli</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Vor König Friedrich (<hi rend="italic">coram rege Friderico</hi>) wird der Streit zwischen Eufemia, der Witwe Heinrichs von <hi rend="italic">Hegilen</hi>, und dem Stift Berchtesgaden unter Propst Heinrich um Saline und Salzpfanne zu Reichenhall nach dem Zeugnis der Edelfreien Otto von Moos, Erbo von Biburg und Herbord von <hi rend="italic">Hebingen</hi> durch Spruch des erwählten Richters Markgraf Engelbert von Kraiburg (<hi rend="italic">Istrien</hi>) zugunsten des Stiftes entschieden. Nennung lokaler Zeugen, darunter Markgraf Engelbert von Kraiburg, Kuno von Mödling (<hi rend="italic">Megelingen</hi>), Babo von Zulling (<hi rend="italic">Zollingen</hi>), Pilgrim von Wolmotsa, Otto von Moos, Erbo von Biburg und Wernhard von Hornbach.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Undatierte Berchtesgadener Notiz, ed.Muffat, Schenkungsbuch Berchtesgaden (Quellen u. Erörterungen zur bayer. u. deutschen Geschichte 1, 1856) 318 n° 140.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Tyroller, Schirmvögte des Klosters Biburg, Verhh. d. hist. Ver. f. Niederbayern 53 (1917) 39 n° 130. - Die Datierung ergibt sich aus dem Königstitel und dem Nachweis mehrerer der genannten Zeugen auf dem Regensburger Hoftag von 1152 (vgl. Regg. 99-101).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360326767" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+2.+Lief.%3A+1158-1168&amp;amp;pk=116715" type="external" n="opac">RI IV,2,2</ref>, S. VI.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

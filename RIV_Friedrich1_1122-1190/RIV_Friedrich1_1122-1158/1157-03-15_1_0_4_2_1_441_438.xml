@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 438</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-15_1_0_4_2_1_441_438"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-15_1_0_4_2_1_441_438"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-03-15_1_0_4_2_1_441_438</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415627711" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 438</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-03-15" to="1157-03-15">1157 März 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus marcii, Wirzeburc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Neusaß</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Kanzleidiktat von RC geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Bischof Gebhard von Würzburg, Propst H(erold von Würzburg), Dekan B(urchard von Würzburg) und alle Würzburger Domherrn</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Wolfram von Bebenburg auf dessen Allod als Seelgerät gegründete Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Neusaß</hi> </span>  (<hi rend="italic">Nuweseze</hi>) auf seine und der Brüder Bitten mit allen Besitzungen, nämlich Neusaß, den Höfen in Halsberg (<hi rend="italic">Hallesberc</hi>), Hof am Stein (<hi rend="italic">Lapide</hi>) sowie Brechelberg samt Zubehör in seinen Schutz und sichert ihm gemäß der Verleihung Eugens (III.) den Neubruchzehent zu. <span n="witnesses">Z.: Bischof Gebhard von Würzburg, Propst H(erold von Würzburg), Dekan B(urchard von Würzburg) und alle Würzburger Domherrn</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach Kanzleidiktat von RC geschrieben</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si regum et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si regum et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Stuttgart (A). Drucke: Wirtemberg. UB. 2, 108 n<hi rend="sup">o</hi>  358; MG. DF. I. 159. Reg.: Stumpf 3763.</p></div>
+				
+				
+					<div type="commentary"><p>Ob AH (Albert) oder RC selbst als Verfasser der Urkunde zu gelten hat kann nicht mit Sicherheit entschieden werden; vgl. Zeillinger, Notare der Reichskanzlei, DA 22 (1966) 523 f. und Riedmann, Reichskanzlei, MIÖG 75 (1967) 328 ff. Die erwähnte Zehentvergünstigung Eugens III. ist in einem allgemeinen Ordensprivileg, das nicht als VU. verwendet wurde, festgelegt; vgl. Germ. pont. 3/3, 204. Zur Gründung und wirtschaftlichen Lage dieses 1163 nach Schöntal verlegten Klosters vgl. Weissenberger, Schöntal, Zs. f. württ. LG 10 (1951) 42.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0148" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%222351%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_159" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=570" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

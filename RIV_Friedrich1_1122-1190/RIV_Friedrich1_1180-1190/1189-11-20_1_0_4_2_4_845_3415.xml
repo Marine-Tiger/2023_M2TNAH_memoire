@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3415</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-20_1_0_4_2_4_845_3415"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-20_1_0_4_2_4_845_3415"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-20_1_0_4_2_4_845_3415</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3415</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-20" to="1189-11-20">1189
+									November 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Parma">Parma</placeName>
+												<location><geo decls="#WGS">44.7, 10.0833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Gualfred de Turricella (aus Pavia), kaiserlicher und 								königlicher Hofrichter sowie Richter des Marschalls Heinrich Testa, 								Reichslegaten für ganz Italien, bestätigt einen Urteilsspruch des 								von König Heinrich (VI.) delegierten Syrus Salimbene für das Kloster 								S. Maria Teodota zu Pavia. Nennung lokaler Zeugen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hofgerichtsurteil, geschrieben von Martinus 								Philippi, ed. Kalbfuß, Urkunden und Regesten, QFIAB 15 (1913) 78 ff. 									n<hi rend="sup">o</hi> 15; Cavagna Sangiuliani, Documenti 								Vogheresi, BSSS 47 (1910) 257 f. n<hi rend="sup">o</hi> 167.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Haverkamp, Herrschaftsformen, 646 f. Anm. 								171, und oben Reg. 3372. – Gualfredus de Turricella wird auch in 								Reg. 2882 als Hofrichter Kaiser Friedrichs I. genannt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

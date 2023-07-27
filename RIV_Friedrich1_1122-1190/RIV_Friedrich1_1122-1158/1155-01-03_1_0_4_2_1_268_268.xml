@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 268</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-03_1_0_4_2_1_268_268"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-03_1_0_4_2_1_268_268"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-01-03_1_0_4_2_1_268_268</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237604" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 268</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-01-03" to="1155-01-03">1155 Januar 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Casale Monferrato</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III nonas ianuarii, Cassale)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kirche</hi>  <hi rend="spaced">Novara</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldvs Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg (<hi rend="italic">Bauenbergensis</hi>), Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda (<hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Heinrich (!) von Sachsen (statt: Hermann), Otakar von Steier, Hermann von Verona, Wilhelm von Montferrat, Graf Guido von Biandrate</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Bischofs Wilhelm die bischöfliche <span sameAs="recipient"><hi rend="spaced">Kirche</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Novara</hi> </span>  in seinen Schutz, bestätigt die Privilegien seiner Vorgänger, besonders Heinrichs (II.) und Ottos (I.), das Recht der Stadt, nämlich die Zwinggewalt über die freien Leute, den Zoll sowie den Wochenmarkt am Donnerstag, Zoll und Markt in Gozzano (<hi rend="italic">Gaudiano</hi>), Ufergeld (<hi rend="italic">ripatum</hi>) und Flußrecht (<hi rend="italic">alveum</hi>) am Ticino von Camerago bis Marano (<hi rend="italic">ad locum, qui dicitur Petra Maura</hi>), den Hafen Bestagno (<hi rend="italic">Bestanium</hi>), die Burg Mattarella (<hi rend="italic">Materelle</hi>), die Grafschaft Pombia (<hi rend="italic">Plumbie</hi>) mit Zoll und verbietet die Errichtung von Burgen und Befestigungen auf bischöflichem Gebiet, die Einhebung des Fodrums und anderer Abgaben ohne Zustimmung des Bischofs. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg (<hi rend="italic">Bauenbergensis</hi>), Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda (<hi rend="italic">Wldensis</hi>), die Herzoge Heinrich von Sachsen, Heinrich von Kärnten, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Heinrich (!) von Sachsen (statt: Hermann), Otakar von Steier, Hermann von Verona, Wilhelm von Montferrat, Graf Guido von Biandrate</span>. - <span n="chancellor"><hi rend="italic">Arnoldvs Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von A II. D</span>; <span n="seal">SI 1.</span>  <span n="incipit"><hi rend="italic">Si ęcclesiarum atque</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ęcclesiarum atque</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtbibliothek Novara (A). Drucke: Morandi, Le carte del Museo civico di Novara, BSSS 77/2 (1913) 47 n<hi rend="sup">o</hi>  30; MG. DF. I. 96. Reg.: Stumpf 3703.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Nennung des Markgrafen von Sachsen vgl. Simonsfeld, Jahrbücher 251 mit Anm. 164. Zum Ausstellungsort vgl. die Vorbemerkung von DF. I. 96. Zu den erwähnten früheren Kaiserurkunden für Novara vgl. DO. I. 414, DO. III. 374, DH. II. 306, DH. IV. 63 (vgl. auch DDK. II. 38 und 118).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0093" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_96" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

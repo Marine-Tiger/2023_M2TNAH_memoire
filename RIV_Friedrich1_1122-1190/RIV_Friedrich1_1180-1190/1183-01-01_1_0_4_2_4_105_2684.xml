@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2684</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-01-01_1_0_4_2_4_105_2684"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-01-01_1_0_4_2_4_105_2684"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-01-01_1_0_4_2_4_105_2684</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2684</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-01-01" to="1183-01-01">1183
+									Januar 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pontarlier (<hi rend="italic">kal. ian., apud Pontem Allie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Ausgefertigt von Notar Magister Arnald von 									Baume-les-Dames (<hi rend="italic">datum per manum magistri 										Arnaldi Palmensis notarii</hi>)</scribe>
+				
+				
+					<testis function="witnesses">Thesaurar Wilhelm 									von Besançon, Magister Heinrich von Romanz, der Arzt (<hi rend="italic">phisicus</hi>) Magister Appinus, (Ritter) 									Guido von Chay und Hugo von Molpré</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix nimmt das <hi rend="spaced">Zisterzienserkloster Lieucroissant</hi> (<hi rend="italic">ecclesiam Loci Crescentis</hi>) auf Bitten von dessen Abt 								Stephan in ihren Schutz. <span n="witnesses">Z.: Thesaurar Wilhelm 									von Besançon, Magister Heinrich von Romanz, der Arzt (<hi rend="italic">phisicus</hi>) Magister Appinus, (Ritter) 									Guido von Chay und Hugo von Molpré </span>. –<span n="clerk"> Ausgefertigt von Notar Magister Arnald von 									Baume-les-Dames (<hi rend="italic">datum per manum magistri 										Arnaldi Palmensis notarii</hi>)</span>.<span n="incipit"> 									<hi rend="italic">Imperialem nostram decet.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem nostram decet.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh., Stadtbibliothek 								Besançon, Fonds de l’Académie Ms. 31 preuves n<hi rend="sup">o</hi> 								9 f. 120 mit dem Vermerk (von Perréciot?) „archives de l’abbaye des 								Trois-Rois” (D). Drucke: Perréciot, De l’état civil ed. I. 2, 								282 n<hi rend="sup">o</hi> 24<hi rend="sup">bis</hi> = ed. II. 3, 								40 n<hi rend="sup">o</hi> 24<hi rend="sup">bis</hi>; MG.DBeatrix 								4. Reg.: Mariotte, Le comté de Bourgogne, 169 n<hi rend="sup">o</hi> 6.</p></div>
+				
+				
+					<div type="commentary"><p>Im Kopfregest der DD.-Ausgabe irrtümlich zu Juni 								1.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2962</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-02-22_1_0_4_2_4_386_2962"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-02-22_1_0_4_2_4_386_2962"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-02-22_1_0_4_2_4_386_2962</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845954" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2962</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-02-22" to="1186-02-22">1186
+									Februar 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Piacenza (<hi rend="italic">VIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. martii, Placentie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Kanzleidiktat, geschrieben von GK</scribe>
+				
+				
+					<testis function="witnesses">Bischof Bonifaz von Novara, 									die Hofrichter Otto (Cendadarius aus Mailand) und Ido (aus 									Tortona) sowie Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erklärt alle von der abgesetzten Äbtissin 								Dota von <hi rend="spaced">S. Maria Teodota</hi> (<hi rend="spaced">S. Maria della Pusterla </hi>zu <hi rend="spaced">Pavia</hi>) vorgenommenen Veräußerungen von 								Klostergütern, namentlich diejenigen zu Gunsten des Gerardo 								Cossadoca (<hi rend="italic">Gerhardus Coxa de Occa</hi>; von 								Piacenza), des Obertus de Porta (aus Piacenza) und seines Bruders, 								für ungültig. – <span n="witnesses">Z.: Bischof Bonifaz von Novara, 									die Hofrichter Otto (Cendadarius aus Mailand) und Ido (aus 									Tortona) sowie Kämmerer Rudolf</span>. –<span n="clerk"> 									Kanzleidiktat, geschrieben von GK</span>; <span n="seal"> 									SP.D.</span>. <span n="incipit"><hi rend="italic">Offitium 										nostre maiestatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Offitium 										nostre maiestatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Biblioteca Ambrosiana zum Mailand 								(A). Teilfaks.: Herkenrath, Reichskanzlei 1181 bis 1190, Abb. 								13. Drucke: Stumpf, Acta ined., 550 n<hi rend="sup">o</hi> 								388; Prutz, Friedrich I. 3, 391 n<hi rend="sup">o</hi> 8 zu Februar 								21; MG.DF.I.932. Reg.: Stumpf 4446a.</p></div>
+				
+				
+					<div type="commentary"><p>Äbtissin Dota hatte seinerzeit die Weihe von dem 								kaiserlichen Gegenpapst Viktor IV. empfangen (Jaffé-L. 11.440; 								Italia pont. 6/1, 213 no 7); zu den Auseinandersetzungen über die 								Veräußerungen der Klostergüter vgl. Jaffé-L. 14.476, 15.861 und 								16.077 (Italia pont. 6/1, 213 no 10, 215 no 16 und no 19). – Zu den 								erwähnten Piacentiner Persönlichkeiten vgl. Opll, Zwang und 								Willkür.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_932" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

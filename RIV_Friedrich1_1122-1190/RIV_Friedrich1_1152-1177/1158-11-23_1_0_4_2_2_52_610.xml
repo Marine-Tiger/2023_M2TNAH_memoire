@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 610</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-23_1_0_4_2_2_52_610"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-23_1_0_4_2_2_52_610"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-23_1_0_4_2_2_52_610</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241027" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 610</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-23" to="1158-11-23">1158 November 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Kirche S. Pietro in Cotrebbia am Po</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(nono kal. decembr., prope Placentiam iuxta sanctum Petrum de capite Trebie super ripa Padi)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Salvatore (zu Quartazzola)</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Fredericus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DF. I. 102 (Reg. 293) wohl außerhalb der Kanzlei verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Obert von Mailand, die Bischöfe Eberhard von Bamberg, Konrad von Eichstätt, Daniel von Prag, Gebhard von Würzburg, Petrus von Pavia, Obert von Cremona, Garsendonius von Mantua und Ognibene von Verona, Pfalzgraf Otto (von Wittelsbach), Herzog Heinrich von Kärnten, Pfalzgraf Konrad bei Rhein und Herzog Friedrich von Schwaben</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Salvatore (zu Quartazzola)</hi> </span>  an der Trebbia unter Abt Saxo, das unter dem Recht des Abtes Johel von S. Maria di Pulsano steht, seinen Schutz, bestätigt ihm unter Vorbehalt des Reichsrechtes die Besitzungen und verschiedene Vorrechte am Fluß Trebbia, setzt hinsichtlich der zur Eigenversorgung bewirtschafteten Güter die Zehentfreiheit fest, verbietet die Errichtung von weltlichen oder geistlichen Bauten in einem umgrenzten Gebiet und erklärt das Kloster als reichsunmittelbar und frei von Abgaben an die Bürger von Piacenza. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Obert von Mailand, die Bischöfe Eberhard von Bamberg, Konrad von Eichstätt, Daniel von Prag, Gebhard von Würzburg, Petrus von Pavia, Obert von Cremona, Garsendonius von Mantua und Ognibene von Verona, Pfalzgraf Otto (von Wittelsbach), Herzog Heinrich von Kärnten, Pfalzgraf Konrad bei Rhein und Herzog Friedrich von Schwaben</span>. - <span n="chancellor"><hi rend="italic">Fredericus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">nach DF. I. 102 (Reg. 293) wohl außerhalb der Kanzlei verfaßt</span>. <span n="incipit"><hi rend="italic">Quoniam quidem imperatorie</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam quidem imperatorie</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Unvollständige Abschrift des 14. Jh. im Registrum magnum der Stadt Piacenza f. 655', Stadtbibliothek Piacenza (B); notarielle Abschrift von 1340 im Archivio dei Conti Anguissola-Scoti filza 63 n<hi rend="sup">o</hi>  1583 f. 8, Archivio storico comunale zu Piacenza (C); unvollständige Abschrift des 17. Jh., Coll. Baluze 17, f. 242 ex vetere codice manuscripto, Nationalbibliothek Paris (D). Drucke: Stumpf, Acta ined. 495 n<hi rend="sup">o</hi>  348; MG. DF. I. 231. Reg.: Stumpf 3821a.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Empfänger, der der Kongregation der Pulsaner angehörte, vgl. auch Nasalli-Rocca, La dieta, Arch. Stor. per le prov. Parmensi ser. IV 10 (1958) 62. - Zum Aufenthaltsort des Kaisers vgl. Brühl, Fodrum, 594 Anm. 83.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0032" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_231" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

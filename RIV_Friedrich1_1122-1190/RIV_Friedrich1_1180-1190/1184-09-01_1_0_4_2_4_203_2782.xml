@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2782</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-01_1_0_4_2_4_203_2782"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-01_1_0_4_2_4_203_2782"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-09-01_1_0_4_2_4_203_2782</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2782</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-09-01" to="1184-09-01">1184
+									September 1</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht ohne Heer (Ann. Welfici Weingart.: 									<hi rend="italic">sine armis</hi>) – friedlich und um den Papst 								zu treffen (Ann. Ratisponenses, MG. SS XVII, 589: zu September 1) – 								nach Italien auf. In seiner Begleitung befinden sich Landgraf Ludwig 								(von Thüringen) und andere Fürsten (Cron. s. Petri Erford. mod.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Aquenses, MG. SS XXIV, 38 (zu 1183: <hi rend="italic">intravit Italiam, habiturus colloquium cum Lucio 									papa</hi>); Ann. Brixienses, MG. SS XVIII, 814 (zu September: 									<hi rend="italic">intravit Italiam</hi>); Ann. s. Disibodi, MG. 								SS XVII, 30 (irrig unmittelbar nach dem Hoftag in Mainz vom 20. Mai 								1184); Ann. Plac. Gib., MG. SS XVIII, 465; Ann. s. Rudberti 								Salisburg., MG. SS IX, 777 (<hi rend="italic">septimo </hi>[recte: 									<hi rend="italic">sexto</hi>]<hi rend="italic"> Italiam 									adiit</hi>); Ann. Welfici Weingart., ed. König (Schwäb. 								Chroniken d. Stauferzeit 1,<hi rend="sup">2</hi>1978) 92 (zu 1184 								August); Arnoldi Chron. Slavorum l. III cap. 11, MG. SS XXI, 154 								(irrig zu 1185); Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in 								us. schol., 134 (zu August); Cont. Admunt., MG. SS IX, 586 (<hi rend="italic">Italiam septimo </hi>[recte: <hi rend="italic">sexto</hi>]<hi rend="italic"> ingreditur</hi>); Cont. 								Cremifanensis, MG. SS IX, 546 (<hi rend="italic">sexto Italiam 									ingreditur</hi>); Cron. s. Petri Erford. mod., ed. Holder-Egger, 								MG. SS rer. Germ. in us. schol., 193; Cron. Reinhardsbrunn., MG. SS 								XXX/1, 542; Hermanni Altah. Ann., MG. SS XVII, 384 (irrig: 7. 								[recte: 6.] Italienzug); Cont. Zwetlensis altera, MG. SS IX, 542 									(<hi rend="italic">invitatus in Italiam, a Lucio Romanorum 									pontifice et Lombardis honeste suscipitur</hi>); Otto von St. 								Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 								39 = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 80 								(zu 1186; 6. Italienzug: <hi rend="italic">Italiam ingressus 									rogantibus Mediolanensibus, ut in signum adepte imperialis 									gratie nuptias filii apud Mediolanum celebraret, …</hi>; bei 								dieser Begründung für den Antritt des Italienzugs liegt ein 								Rückschluss von späteren Ereignissen her vor); Sigeb. Cont. 								Aquicinct., MG. SS VI, 422 (ohne Datum).</p></div>
+				
+				
+					<div type="commentary"><p>Der Ort des Aufbruchs zum sechsten und letzten 								Italienzug des Staufers ist nicht überliefert. Scheffer-Boichorst, 								Streit mit der Kurie, 43 Anm. 3, nennt in diesem Zusammenhang 								Regensburg, da der Termin des Aufbruchs in den Regensburger Annalen 								überliefert ist; daraus folgert Ludwig, Marschgeschwindigkeit, 39, 								dass der Kaiser über den Brenner nach dem Süden gezogen ist, vgl. 								dazu auch Opll, Itinerar, 82 mit Anmm. 97 und 98. – Eine andere 								denkbare Möglichkeit wäre freilich, dass der Weg über Como – damit 								wohl über den Lukmanierpass – geführt hat: In einem Zeugenverhör von 								(1195 Januar 18 – April 15), ed. Biscaro, Di una visita di Federico 								Barbarossa, Arch. stor. lomb. 4/1 (1904) 348 ff., gibt der Comasker 								Domkanoniker Ardizzone da Castiglione nämlich an, dass der Kaiser 								nach dem Frieden von Venedig im Jahre 1177 Como zweimal aufgesucht 								hat (<hi rend="italic">… una vice quando dominus F. imperator 									reconciliatus est a domino Alexandro papa beate memorie, post 									reconciliationem secundo – ? – intravit Cumanam urbem;</hi> zum 								Aufenthalt von 1186 vgl. unten Reg. 3005). Obwohl Fasola, Il 								monastero di S. Abbondio nel quadro istituzionale comasco della 								prima età comunale (secoli XI–XII) (Ministero per i Beni Culturali e 								Ambientali, Ufficio Centrale Beni Archivistici, Como 1984) 105 f. 								Anm. 8 (zur Edition) sowie 86, die Angaben mancher der Zeugen dieses 								Verhörs in Zweifel zieht, ist nicht ganz auszuschließen, dass diese 								Angabe dennoch zutrifft. In diesem Falle könnte ein Einreihung 								dieser Nachricht zum September 1184 – der Kaiser ist damals am 19. 								September in Mailand als erstem Aufenthaltsort in Italien 								nachzuweisen (Reg. 2783), sodass auch die Route über den Lukmanier 								und Como eingeschlagen worden sein könnte – vorgenommen werden. – 								Der in der Erfurter Überlieferung eigens als Begleiter des Kaisers 								genannte Thüringer Landgraf ist dann auch als Zeuge in den in 								Italien ausgestellten DDF.I. nachzuweisen, vgl. seine Nennungen in 								Regg. 2784, 2785, 2787, 2789–2790, 2800, 2804, 2806–2808, 2822, 								2826–2829 und 2831.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

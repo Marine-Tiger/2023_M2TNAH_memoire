@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3057</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-05_1_0_4_2_4_481_3057"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-05_1_0_4_2_4_481_3057"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-03-05_1_0_4_2_4_481_3057</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848108" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3057</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-03-05" to="1187-03-05">1187
+									März 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Regensburg (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> non. marcii, </hi> <hi rend="italic">in sollempni curia Ratisbone</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. vice domini Cunradi 										Maguntini archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>mundiert und aller Wahrscheinlichkeit nach auch 									verfasst von GK</scribe>
+				
+				
+					<testis function="witnesses">die 									Erzbischöfe Konrad von Mainz und Adalbert von Salzburg, die 									Bischöfe Otto von Bamberg, Gottfried von Würzburg, Konrad von 									Regensburg, Otto von Eichstätt, Otto von Freising, Diepold von 									Passau, Albert von Trient und Heinrich von Prag, die Herzöge 									Friedrich von Schwaben, Friedrich von Böhmen, Leopold von 									Österreich, Ludwig von Bayern und Berthold von Meranien, die 									Markgrafen Otto von Meißen, Dedo der Lausitz (<hi rend="italic">marchio orientalis</hi>), Otto von Mähren und Berthold von 									Andechs</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Benediktinerkloster Seitenstetten</hi> (<hi rend="italic">ce[no]bio sancte Marie in Sydenstat</hi>) auf Bitten von 								Erzbischof Wichmann von Magdeburg die auf dem feierlichen Hoftag zu 								Nürnberg (Reg. 2691) mit seiner Zustimmung vorgenommene Schenkung 								eines Waldgebietes in Österreich durch den genannten Erzbischof samt 								dem Recht der Salz- und Eisengewinnung. <span n="witnesses">Z.: die 									Erzbischöfe Konrad von Mainz und Adalbert von Salzburg, die 									Bischöfe Otto von Bamberg, Gottfried von Würzburg, Konrad von 									Regensburg, Otto von Eichstätt, Otto von Freising, Diepold von 									Passau, Albert von Trient und Heinrich von Prag, die Herzöge 									Friedrich von Schwaben, Friedrich von Böhmen, Leopold von 									Österreich, Ludwig von Bayern und Berthold von Meranien, die 									Markgrafen Otto von Meißen, Dedo der Lausitz (<hi rend="italic">marchio orientalis</hi>), Otto von Mähren und Berthold von 									Andechs</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. vice domini Cunradi 										Maguntini archiep. et Germanie archicanc.</hi></span>; <span n="clerk">mundiert und aller Wahrscheinlichkeit nach auch 									verfasst von GK</span>; <span n="seal"> SP.2</span>. <span n="incipit"><hi rend="italic">Si ad salutem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ad salutem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv Seitenstetten 								(A). Kop.: Kopialbuch aus der ersten Hälfte des 14. Jh. p. 49 									n<hi rend="sup">o</hi> 17, ebenda (B). Faks.: Ortmayr – Decker, 								Benediktinerstift Seitenstetten, 40. Drucke: Raab, Urkundenbuch 								von Seitenstetten, Font. rer. Austr. II 33, 22 n<hi rend="sup">o</hi> 14; MG.DF.I.956. Regg.: Nürnberger UB., 67 n<hi rend="sup">o</hi> 92; Stumpf 4475.</p></div>
+				
+				
+					<div type="commentary"><p>Diese auf einen Rechtsakt 1183 zu Nürnberg (Reg. 								2691) zurückgehende Schenkung hatte Wichmann dem Kloster bereits 								1185 in zwei Urkunden bestätigt (Israël – Möllenberg, UB. Erzstift 								Magdeburg 1, 539 no 410 und 541 no 411); das D. sollte 								offensichtlich der Sicherung der Regaliennutzung dienen, vgl. dazu 								die Vorbemerkung zum D. Scheffer-Boichorst, Streit mit der Kurie, 								240 Reg. 86 und 241 Reg. 87, möchte den Hinweis auf den Nürnberger 								Hoftag auf einen Tag zu Ende 1186 beziehen, der jedoch richtig erst 								zu Ende 1188 stattgefunden hat, siehe dazu unten Regg. 3214 und 								3215. – Zu den Beziehungen Wichmanns zu Seitenstetten vgl. Brunner, 								Erzbischof Wichmann von Magdeburg, in: Kaiser Friedrich Barbarossa, 								hg. von Engel und Töpfer (Forschungen zur mittelalterl. Gesch. 36, 								1994) 51 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_956" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

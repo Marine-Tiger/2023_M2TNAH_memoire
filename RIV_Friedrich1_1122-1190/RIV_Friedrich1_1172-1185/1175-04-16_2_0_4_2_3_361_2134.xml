@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2134</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-16_2_0_4_2_3_361_2134"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-04-16_2_0_4_2_3_361_2134"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-04-16_2_0_4_2_3_361_2134</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456305790" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2134</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-04-16" to="1175-04-16">1175 vor April 16</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Lega Lombarda (<hi rend="italic">societas Lonbardie et Marchie et Romanie et Venecie</hi>) legt ihre Bedingungen für einen Frieden mit Kaiser Friedrich fest: 1. Die Lega will mit dem Kaiser unter der Bedingung Frieden schließen, daß er mit der römischen Kirche und Papst Alexander (III.) Frieden schließt. 2. Die Städte, nämlich Cremona, Mailand, Lodi, Bergamo, Ferrara, Brescia, Mantua, Verona, Vicenza, Padua, Treviso, Venedig, Bologna, Ravenna, Rimini, Modena, Reggio, Parma, Piacenza, Bobbio, Tortona, Alessandria, Vercelli und Novara, weiters Markgraf Opizo Malaspina, der Graf von Bertinoro, Rufinus de Traino und alle Kastellane und Personen, die mit der Kirche und der Lega in Eintracht leben, sind bereit, dem Kaiser nach Herstellung des Friedens und Wiedererlangung seiner Gnade all das zu leisten, was ihre Vorgänger seit der Zeit des Todes Kaiser Heinrichs (V.) geleistet haben. 3. Sollten sich über den Umfang dieser Leistungen Streitigkeiten ergeben, so mögen die Konsuln der betreffenden Stadt bzw. die für das Gebiet der Personen, bei denen derartige Unklarheiten vorkommen, zuständigen Konsuln diesen Leistungsumfang durch Eid festlegen. 4. Alle Gerechtsame, die die Mitglieder der Lega in der Weise innehaben, wie sie sie schon seit dem Tode Heinrichs (V.) besitzen, vor allem das Konsulat, mögen ihnen frei und ruhig verbleiben. Fodrum und <hi rend="italic">colta</hi>  sowie alles andere mögen sie nach dem Brauch der Stadt leisten. Der Kaiser möge ihnen und allen mit ihnen verbündeten Erzbischöfen, Bischöfen, Äbten und Geistlichen alle Besitzungen und Rechte restituieren und alle dagegen stehenden Privilegien kassieren. 5. Der Kaiser möge der Lega alle feindlichen Maßnahmen nachsehen. 6. Den Mitgliedern der Lega möge es freistehen, die Befestigungen der Städte und Burgen und die Burgen selbst zu behalten sowie neue und bessere zu errichten, wovon allerdings die Abkommen, die Cremona und andere Städte, Personen und Orte untereinander geschlossen haben, ausgenommen seien; Alessandria möge seinen Status nach Rückstellung der Besitzungen an Obert de Foro und all seine Nachbarn auf Dauer beibehalten. 7. Der Kaiser möge mit seinem ganzen Heer allen geistlichen und weltlichen Mitgliedern der Lega hinsichtlich der Einhaltung dieser Bestimmungen auf ewig völlige Sicherheit gewähren, den Fortbestand der Lega erlauben, ihnen die Freiheit zum Abschluß von Bündnissen untereinander zugestehen und sie in Eintracht mit der Kirche belassen. 8. Die von den Konsuln, den genannten Einzelmitgliedern der Lega und ihren Rektoren gefällten Urteile sollen vor Aufhebung durch Appellationen sicher sein. Die Gefangenen werden danach freigelassen und zurückgestellt. 9. Die anerkannten Rechte des Kaisers sind die folgenden: das königliche Fodrum und die gewohnte Unterstützung (<hi rend="italic">parata</hi>) beim Krönungszug nach Rom; weiters der ruhige und gewohnte Durchzug und ausreichender Markt. Er möge allerdings friedlich durchziehen und im Bistum bzw. in der Grafschaft nicht in betrügerischer Weise Aufenthalt nehmen. Von den Vasallen steht ihm der Treueid zu, von den Bürgern entsprechend den Gewohnheiten der betreffenden Stadt. Die Vasallen sollen ihm gemäß altem Herkommen auf dem Krönungszug nach Rom die Heerfolge leisten. Die Regalien, mit denen er oder seine Vorfahren Geistliche und Laien belehnt haben, möge er in Ruhe in deren Besitz belassen. Er möge den Städten und allen Mitgliedern der Lega die Gewohnheitsrechte im Hinblick auf Weiden, Fischerei, Mühlen, Backstuben, die Tische der Wechsler und der Händler, die Fleischmärkte und die Häuser, die auf oder an öffentlichen Straßen errichtet sind, sowie die althergebrachten Gewohnheiten belassen. 10. Sollten sich Streitigkeiten zwischen dem Kaiser und den Mitgliedern der Lega ergeben, so mögen diese seitens der Konsuln, die sich eidlich dazu verpflichten müssen, beiden Seiten ihr Recht zu wahren, entsprechend den städtischen Gewohnheiten entschieden werden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG.Const. 1, 342 n<hi rend="sup">o</hi>  244.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Heinemeyer, Friede von Montebello, DA 11 (1954/55) 122 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0129" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._342" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

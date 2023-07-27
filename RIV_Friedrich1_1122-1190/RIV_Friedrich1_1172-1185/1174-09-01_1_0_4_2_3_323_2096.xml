@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2096</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-09-01_1_0_4_2_3_323_2096"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-09-01_1_0_4_2_3_323_2096"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-09-01_1_0_4_2_3_323_2096</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598915" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2096</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-09-01" to="1174-09-01">1174 September 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Basel">Basel</placeName>
+												<location><geo decls="#WGS">47.55, 7.6</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(k[a]l. septemb., apud Basileam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristanus Mogontinus [archiep. et archicanc.]</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Trier, Elekt Theoderich von Metz, Abt Ludwig von St. Eucharius (heute St. Matthias zu Trier), Archidiakon Folmar (von Trier), Herzog Matthäus von Lothringen [und sein Sohn Friedrich], Graf Hugo von Metz, dessen Söhne Albert und Hugo sowie Burggraf Ulrich von Neuvillers(-sur-Moselle)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von Graf Folmar von Metz auf seinem Allod gegründete <hi rend="spaced">Zisterzienserkloster Beaupré</hi>  in der Diözese Toul (<hi rend="italic">ęcclesiam Belliprati in episcopatu Tullensi</hi>) in seinen Schutz und legt die Streitigkeiten desselben mit Graf Folmar (von Blieskastel), dem Schwiegersohn Folmars von Metz, um die Verfügung über das Ausstattungsgut nach Verhandlungen bei Hofe bei, wobei der Gegner des Klosters sich durch Bürgen, darunter Erzbischof Arnold von Trier, [Abt Gregor von Prüm] und Werner von Bolanden, zur Beendigung der Streitigkeiten verpflichtet. <span n="witnesses">Z.: Erzbischof Arnold von Trier, Elekt Theoderich von Metz, Abt Ludwig von St. Eucharius (heute St. Matthias zu Trier), Archidiakon Folmar (von Trier), Herzog Matthäus von Lothringen [und sein Sohn Friedrich], Graf Hugo von Metz, dessen Söhne Albert und Hugo sowie Burggraf Ulrich von Neuvillers(-sur-Moselle)</span>. — <span n="chancellor"><hi rend="italic">Cristanus Mogontinus [archiep. et archicanc.]</hi> </span>; unter Heranziehung der Urkunde Bischof Heinrichs von Toul vom Jahre 1157 über die Gründung des Klosters (Gallia Christ. 13, 513) und wohl auch der Urkunde Erzbischof Arnolds von Trier von 1174 (Reg. 2078) außerhalb der Kanzlei, sicherlich — wie D.283 (= Reg. 763) — von seiten des Empfängers verfaßt und geschrieben; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Ad gloriam et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad gloriam et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: stark beschädigt, Departementalarchiv Nancy (A). Kop.: Abschrift des 18. Jh., ebenda beiliegend (E). Drucke: Stumpf, Acta ined. 521 n<hi rend="sup">o</hi>  365; Scheffer-Boichorst, Kleinere Forschungen, MIÖG 13 (1892) 142; MG.DF.I.629. Regg.: Diestelkamp — Rotter, Urkundenregesten 1, 332 n<hi rend="sup">o</hi>  424; Stumpf 4170a.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. die Vorbemerkung zum D. — Zum Inhalt vgl. insbesondere die oben genannten Urkunden Bischof Heinrichs von Toul von 1157 und Erzbischof Arnolds von Trier von 1174 Mai, Kaiserslautern (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-05-00_1_0_4_2_3_305_2078.html" type="internal" n="regesten">2078</ref>), die auch einige Ergänzungen des schlecht erhaltenen Textes zulassen; vgl. dazu neben der Vorbemerkung zum D. (wo die erzbischöfliche Urkunde irrig zu 1173 erwähnt wird) auch den Nachtrag in MG.DDF.I.Bd.3.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0118" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_629" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

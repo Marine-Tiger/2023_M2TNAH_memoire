@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2722</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-07-00_1_0_4_2_4_143_2722"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-07-00_1_0_4_2_4_143_2722"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-07-00_1_0_4_2_4_143_2722</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843898" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2722</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-07-01" to="1183-07-31">(1183
+									Anfang Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt <hi rend="spaced">Papst L(ucius 									III.)</hi> mit, er habe dessen Legaten, Johannes (von Anagni), 								Kardinalpresbyter von S. Marco, und Bischof P(etrus) von Luni, 								empfangen und bei den mit ihnen geführten Gesprächen über das 								Verhältnis zwischen Kirche und Reich Übereinstimmung erzielt. An den 								Vereinbarungen des Friedens von Venedig über die kirchlichen 								Besitzungen halte er gemäß den zu Chioggia schriftlich festgelegten 								(Reg. 2278) und dann in Venedig bestätigten Abmachungen (Regg. 2328, 								2330 und 2337) fest, unterbreite aber wegen der daran von mancher 								Seite geübten Kritik dem Papst durch seinen Legaten, Erzbischof 								(Konrad) von Salzburg, den Vorschlag, von allen jetzigen und 								künftigen Besitzungen des Reiches in Italien dem Papst und seinen 								Nachfolgern den Zehnten, den Kardinälen den Neunten zu geben. Eine 								andere Möglichkeit bestehe in der Aufteilung der Besitzungen von 								Kirche und Reich nach dem Zeugnis bewährter und alter Männer aus der 								Nachbarschaft derselben (<hi rend="italic">ut prudentes viri et 									provecte etatis, qui essent de ipsarum possessionum 								vicinia</hi>), wobei man durchaus in Einzelfällen Tauschgeschäfte 								vornehmen könne. Mit den päpstlichen Legaten sei man überein 								gekommen, mit dem Papst am Fest der Apostelfürsten (= 1184 Juni 29) 								am Gardasee zusammenzutreffen, wobei ihm (dem Kaiser) jeder Ort 								recht sei, an dem er mit den Seinen Sicherheit genieße. Ein Treffen 								in Como, was ihm (dem Kaiser) angenehm wäre, scheide wohl deswegen 								aus, weil Geiseln dieser Stadt in Gefangenschaft gehalten werden. Es 								sei daher festgelegt worden, dass er nach Riva kommen werde, und der 								Papst möge sich nach Verona, Brescia oder Mantua begeben. Dann werde 								man einen geeigneten Ort für das Treffen leicht finden können. Als 								seinen persönlichen Boten beglaubigt er seinen <hi rend="italic">familiaris capellanus</hi> Magister Beletus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 420 n<hi rend="sup">o</hi> 								296; MG.DDF.I. Anhang I, n<hi rend="sup">o</hi> 16; Stumpf 4366.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den beiden päpstlichen Legaten vgl. auch Regg. 								2718 und 2721; vielleicht befand sich auch der spätere Bischof 								Sicard von Cremona in der päpstlichen Delegation, da er zu 1184 								davon berichtet, dass ihn Papst Lucius III. 1183 zum Subdiakon 								geweiht und wegen der Vereinbarung des Treffens mit dem Kaiser an 								diesen gesandt habe, vgl. dazu Sicardi ep. Cremon. Cronica, MG. SS 								XXXI, 168; der Herausgeber von Sicards Chronik, Holder-Egger, meint 								dagegen nach dem Vorbild von Scheffer-Boichorst, Streit mit der 								Kurie, 29–31 und 172 f., dass Sicard erst an den Kaiser abgeordnet 								wurde, nachdem der in dem hier behandelten kaiserlichen Schreiben 								beglaubigte Bote Magister Beletus (nach Scheffer-Boichorst, ebda., 								vielleicht verschrieben für: Magister Metellus aus Brescia) im 								Herbst an der Kurie eingetroffen war; Baaken – Schmidt, 								Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, no 1226 datieren 								vorsichtig zu „(1183 Juni – 1184 Mitte Oktober)“. – Zum Brief vgl. 								Güterbock, Kaiser, Papst und Lombardenbund, QuFIAB 25 (1933/34) 177 								f.; das Treffen fand dann tatsächlich erst im November 1184 zu 								Verona statt, siehe dazu Reg. 2801.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_DD_F_I_4_S._510" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

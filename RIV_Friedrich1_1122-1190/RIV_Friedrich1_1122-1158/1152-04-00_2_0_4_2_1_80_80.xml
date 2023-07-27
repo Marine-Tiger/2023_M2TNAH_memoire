@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 80</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-04-00_2_0_4_2_1_80_80"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-04-00_2_0_4_2_1_80_80"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-04-00_2_0_4_2_1_80_80</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235373" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 80</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-04-01" to="1152-04-30">1152 (Ende April)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Soest  (Sosatie)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Liesborn</hi>  <hi rend="spaced">St. Maria in Überwasser zu Münster</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Mogontini archiep. et archicapellani</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">(Erz)bischof Arnold II. von Köln, Propst Ulrich von Soest, Albert (Domdekan von Köln), Heinrich (Kanzleinotar); die Fürsten Markgraf Albrecht (der Bär), die Grafen Albert von Nörvenich (<hi rend="italic">Ormenech</hi>) und Heinrich von Arnsberg; die Edelfreien Dietrich von Hachen, Ruthard von Rodenberg (<hi rend="italic">Rathardus de Ruderberge</hi>), Vogt Walter von Soest, Ionatas von Volmarstein (<hi rend="italic">Volmunstene</hi>), Philipp von Dortmund (<hi rend="italic">Tremonia</hi>); die Ministerialen Vogt Hermann von Köln, Heinrich von Volmarstein, Adolf von Gürzenich, Amalrich von Wormersdorf (<hi rend="italic">Vurmestorp</hi>), Thimo und Marsilius von Soest, Gottschalk von Paderborn</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den Klöstern <span sameAs="recipient"><hi rend="spaced">Liesborn</hi> </span>  (<hi rend="italic">ecclesie sanctorum Cosme et Damiani in Lisborn</hi>) und <span sameAs="recipient"><hi rend="spaced">St. Maria in Überwasser zu Münster</hi> </span>   (<hi rend="italic">ecclesie sancte Marie in Monasterio</hi>) in Nachahmung König Konrads (III.) ihre im königlichen Gebiet um Remagen gelegenen Güter, nämlich in Lohrsdorf (<hi rend="italic">Lorstorp</hi>), Gimersheim und Green (<hi rend="italic">Grien</hi>). <span n="witnesses">Z.: (Erz)bischof Arnold II. von Köln, Propst Ulrich von Soest, Albert (Domdekan von Köln), Heinrich (Kanzleinotar); die Fürsten Markgraf Albrecht (der Bär), die Grafen Albert von Nörvenich (<hi rend="italic">Ormenech</hi>) und Heinrich von Arnsberg; die Edelfreien Dietrich von Hachen, Ruthard von Rodenberg (<hi rend="italic">Rathardus de Ruderberge</hi>), Vogt Walter von Soest, Ionatas von Volmarstein (<hi rend="italic">Volmunstene</hi>), Philipp von Dortmund (<hi rend="italic">Tremonia</hi>); die Ministerialen Vogt Hermann von Köln, Heinrich von Volmarstein, Adolf von Gürzenich, Amalrich von Wormersdorf (<hi rend="italic">Vurmestorp</hi>), Thimo und Marsilius von Soest, Gottschalk von Paderborn</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Mogontini archiep. et archicapellani</hi> </span>; in Wiederholung des DK. III. 249 wahrscheinlich außerhalb der Kanzlei mundiert. <span n="incipit"><hi rend="italic">Quotiens religiosorum virorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quotiens religiosorum virorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatarium Liesbornense, angelegt 1777 von P. Placidus Chur, p. 14, Staatsarchiv Münster (D). Drucke: Wilmans-Philippi, Kaiserurk. d. Prov. Westfalen 2, 313 n<hi rend="sup">o</hi>  229; MG. DF. I. 7. Reg.: Erhard, Reg. Westf. 1777; Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  5; Stumpf 3622.</p></div>
+				
+				
+					<div type="commentary"><p>Die sehr wahrscheinliche Entstehung außerhalb der Kanzlei ergibt sich aus der Namensform <hi rend="italic">Frethericus</hi>  und Kanzleiwidrigkeiten, wie etwa auch der Bezeichnung des Erzbischofs von Mainz in der Rekognition als <hi rend="italic">archicapellanus</hi>. - Die Einreihung des D. resultiert aus dem Itinerar des Königs. - Zu diesem Aufenthalt vgl. auch die Urkunde Erzbischof Arnolds von Köln für Siegburg von 1152, Soest (Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  533), ed. Wisplinghoff, Urkunden und Quellen von Siegburg 1, 130 n<hi rend="sup">o</hi>  58 sowie Jordan, Urk. Heinrichs des Löwen n<hi rend="sup">o</hi>  19.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0030" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_7" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

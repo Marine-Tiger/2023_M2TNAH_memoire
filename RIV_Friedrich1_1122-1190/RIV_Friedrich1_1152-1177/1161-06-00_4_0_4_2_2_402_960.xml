@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 960</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-00_4_0_4_2_2_402_960"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-00_4_0_4_2_2_402_960"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-00_4_0_4_2_2_402_960</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243524" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 960</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-01" to="1161-06-30">1161 (Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Lodi  (Laude in generali concilio)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cappenberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung der Bestimmungen des Privilegs Papst Eugens III. von 1153 Januar 2 (JL. 9676; Erhard, CD. Westfal. 2, 68 n<hi rend="sup">o</hi>  286; VU. I) und unter Heranziehung des DH. V. Stumpf 3182 (VU. II) geschrieben von einem italienischen Gelegenheitsschr</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Hillin von Trier, die Bischöfe Friedrich von Münster, Heinrich von Lüttich, Gottfried von Utrecht, Werner von Minden, Evergis von Paderborn, Hermann (<hi rend="italic">Helimannus</hi>) von Verden, Albero von Verdun und Wilmar von Brandenburg, die Fürsten Pfalzgraf Konrad bei Rhein, Pfalzgraf Otto von Wittelsbach, Herzog Friedrich von Schwaben und Landgraf Ludwig (von Thüringen)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Prämonstratenserstift <span sameAs="recipient"><hi rend="spaced">Cappenberg</hi> </span>  auf Bitten Propst Ottos, seines Verwandten, und der Kanoniker nach dem Vorbild seines Vorgängers, Kaiser Heinrichs IV. (= V.), in seinen Schutz und bestätigt ihm die Augustinerregel und die genannten Besitzungen, im besonderen Lenklar, Herbern, die Kirche zu Saerbeck sowie bestimmte Zehentrechte. <span n="witnesses">Z.: Erzbischof Hillin von Trier, die Bischöfe Friedrich von Münster, Heinrich von Lüttich, Gottfried von Utrecht, Werner von Minden, Evergis von Paderborn, Hermann (<hi rend="italic">Helimannus</hi>) von Verden, Albero von Verdun und Wilmar von Brandenburg, die Fürsten Pfalzgraf Konrad bei Rhein, Pfalzgraf Otto von Wittelsbach, Herzog Friedrich von Schwaben und Landgraf Ludwig (von Thüringen)</span>. - <span n="chancellor"><hi rend="italic">Reinaldus Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">in Wiederholung der Bestimmungen des Privilegs Papst Eugens III. von 1153 Januar 2 (JL. 9676; Erhard, CD. Westfal. 2, 68 n<hi rend="sup">o</hi>  286; VU. I) und unter Heranziehung des DH. V. Stumpf 3182 (VU. II) geschrieben von einem italienischen Gelegenheitsschreiber, das aller Wahrscheinlichkeit nach vorausgefertigte Eschatokoll stammt von der Hand des Kanzleinotars UB</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Religiosam vitam eligentibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Religiosam vitam eligentibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv zu Cappenberg (A). Drucke: Erhard, CD. Westfal. 2, 96 n<hi rend="sup">o</hi>  325; Grundmann, Cappenberger Barbarossakopf 111 n<hi rend="sup">o</hi>  4; MG. DF. I. 333. Faks.: Kaiserurkunden in Abb. X, 9; Koch, Reichskanzlei Abb. 3 Teilfaks. Reg.: Wauters, Table chronol. 7/1, 278; Stumpf 3912.</p></div>
+				
+				
+					<div type="commentary"><p>Die genaue zeitliche Einordnung ergibt sich aus der Erwähnung des Lodeser Konzils in der Datierung. Zur Schriftbestimmung vgl. Koch, Reichskanzlei 41 f. - Zum D. und zu den Besitzungen des Stiftes vgl. Petry, Cappenberg, AfD 18 (1972) 271 ff. und 19 (1973) 88 ff. - Der genannte Propst Otto war der Taufpate Barbarossas, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-00-00_1_0_4_2_1_2_2.html" type="internal" n="regesten">2</ref>. - Zu den Geschenken Barbarossas an Otto von Cappenberg, dem &amp;quot;Cappenberger Barbarossa-Kopf&amp;quot; und der sog. Taufschale Friedrichs I., vgl. Die Zeit der Staufer Bd. 1 (Katalog der Ausstellung, Stuttgart 1977) 393 ff. Nr. 535-536.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zum Cappenberger Barbarossakopf vgl. zuletzt Saurma-Jeltsch, Rom und Aachen, in: Die Verwandlungen des Stauferreichs, hg. von Schneidmüller – Weinfurter – Wieczorek (2010) 274–281, die ausführt (280): „Nicht ein Abbild des Äußeren, sondern ein Bild seiner (= des Kaisers) Tugendqualitäten, … wurde in diesem Kopf zum Ideal des Herrschers schlechthin apostasiert. Verschmolzen mit Karl dem Großen und dank der Assoziation mit Kopfreliquiaren erfährt das Reich im Herrscherideal eine sakrale Überhöhung.“ – Siehe auch Nilgen, Staufische Bildpropaganda, in: Die Staufer und Italien, Bd. 1 (2010) 87–90, des Weiteren: Die Staufer und Italien, Bd. 2 (2010): Objekte, 34–36 Kat.-Nr. II.A.16 und II.A.18–25 (Reliquienbehältnisse aus dem Cappenberger Barbarossakopf), sowie Schwedler, Kaisertradition und Innovation, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 248 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0115" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228753%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00188" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_333" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

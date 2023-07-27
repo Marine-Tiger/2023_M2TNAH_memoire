@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 135</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-13_1_0_4_2_1_135_135"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-13_1_0_4_2_1_135_135"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-13_1_0_4_2_1_135_135</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 135</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-13" to="1152-10-13">1152 Oktober 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen allgemeinen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>. Friedrich läßt auf die Klage von einigen Apuliern, die von Roger aus ihrer Heimat vertrieben worden sind, den Antritt des Italienzuges, der dem Erwerb der Kaiserkrone dienen soll, innerhalb der nächsten zwei Jahre beschwören. Entgegen seiner Vorladung (s. Reg. 95) erscheint Heinrich Jasomirgott nicht bei Hofe, so daß er erneut vorgeladen werden muß. Friedrich erzielt im Streit zwischen Heinrich dem Löwen und Albrecht dem Bären (vgl. Reg. 88) einen Ausgleich, indem der Welfe das Winzenburger und der Askanier das Plötzkesche Erbe erhält. Friedrich verleiht seinem Oheim, Herzog Welf, das Herzogtum Spoleto, die Markgrafschaft Tuszien, den <hi rend="italic">principatus</hi>  Sardinien und das Hausgut der Gräfin Mathilde sowie die ihm schon von Konrad III. übertragenenReichseinkünfte mit dem Dorfe Mertingen. Vor Friedrich und den Fürsten wird gemäß den Klagen Wibalds (vgl. Regg. 119-123) der Wiederaufbau der Befestigungen von Höxter beschlossen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zum HT und zu seiner Datierung vgl. DF. I. 21 (Reg. 121) und Ottonis Gesta Frid. l. II cap. 7, ed. Waitz-Simson, MG. SS rer. Germ, in us. schol. 107 f.   Zum Italienzug Ottonis Gesta Frid. a. a. O. 108, Ann. Palidenses, MG. SS XVI, 86, Ann. s. Pauli Virdun., MG. SS XVI, 501 (irrig zum Merseburger HT) und Chron. reg. Col., ed. Waitz, MG. SS rer. Germ, in us. schol. 91 (zu 1154).   Zur Ladung des Babenbergers vgl. Ottonis Gesta Frid. ebda.   Welfisch-askanischer Streit: Ann. Palidenses, MG. SS XVI, 86, Ann. Stadenses, MG. SS XVI, 344 und Ann. s. Blasii Brunsvic. mai fragm., MG. SS XXX/1, 19.   Wetf VI.: Hist. Welforum, ed. König, Schwäb. Chroniken d. Stauferzeit 1 (1938) 56 und Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ, in us. schol. 24.   Zu Höxter vgl. das Schreiben Wibalds an Bischof Bernhard von Paderborn, Jaffé, Mon. Corb. 544 n<hi rend="sup">o</hi>  406.</p></div>
+				
+				
+					<div type="commentary"><p>Zum HT im allgemeinen vgl. Simonsfeld, Jahrbücher 128 ff. - Wohl von hier aus wurde auch die Gesandtschaft an Eugen III. abgesandt, welche den Abschluß des Vertrages mit dem Papst erreichen konnte (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-01-00_1_0_4_2_1_164_164.html" type="internal" n="regesten">164</ref>), vgl. Simonsfeld, a. a. O. 136. - Die Datierung der Verleihungen an Welf steht nicht mit letzter Sicherheit fest. Well wird schon in DF. I. 14 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-00_1_0_4_2_1_100_100.html" type="internal" n="regesten">100</ref>) mit seinen italienischen Titeln genannt; da aber dieses D. erst später ausgefertigt wurde (vgl die Vorbemerkung zu DF. I. 14), haben wir mit Feldmann, Welf VI. 33 f., die allerdings in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-02-15_1_0_4_2_1_60_60.html" type="internal" n="regesten">60</ref>  das DF. I. 14 irrig als Fälschung bezeichnet, diese Erhöhung Welfs in den Oktober 1152 gesetzt. Der Passus <hi rend="italic">reditus tamen illos ad fiscum pertinentes, quorum iam mentionem habuimus, nichilominus recepit</hi>  in der Hist. Welf. bezieht sich nach dem Verweis auf das früher Gesagte (<hi rend="italic">iam mentionem habuimus</hi>) wohl doch eher auf die mit Mertingen zusammenhängenden Einkünfte (vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1151-00-00_1_0_4_2_1_55_55.html" type="internal" n="regesten">55</ref>) als auf die aus Italien, vgl. gegen Simonsfeld, Jahrbücher 108 und Haverkamp, Regalien-, Schutz- und Steuerpolitik, Zs. f. bayer. LG 29 (1966) 8 Anm. 23 Feldmann, a. a. O. Anm. 45 zu S. 33. Vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-07-04_1_0_4_2_1_467_465.html" type="internal" n="regesten">465</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

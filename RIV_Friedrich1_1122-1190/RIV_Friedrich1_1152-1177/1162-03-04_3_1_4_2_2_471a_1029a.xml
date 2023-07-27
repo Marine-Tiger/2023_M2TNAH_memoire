@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1029a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-04_3_1_4_2_2_471a_1029a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-04_3_1_4_2_2_471a_1029a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-03-04_3_1_4_2_2_471a_1029a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358498363" value="2013-01-18"></date>
+				<date type="lastmod" n="1456308707" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1029a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-03-04" to="1162-03-04">(1162 März 4 oder bald danach)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>In der Kanzlei, vielleicht von RC, verfasst.</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet Abt Udalrich (IV. von Haideck) von der Reichenau über die in Neu-Lodi (vgl. Reg. 1028) erfolgte bedingungslose Kapitulation der Mailänder. Er fordert ihn auf, sich mit den für die Belagerung Mailands versprochenen Truppen am 22. April (<hi rend="italic">XIIII. die post resurrectionem domini</hi>) bei ihm zum militärischen Vorgehen gegen die verbliebenen Gegner einzufinden, darunter die Piacentiner, die Brescianer und die Bolognesen, die meinen, er könne nach der Zerstörung von Mailand mit keinem Heer aus deutschem Gebiet mehr rechnen; weiteres sollen sie von seinem Legaten hören (?) … (<hi rend="italic">Cetera legato nostro</hi> …). – In der Kanzlei, vielleicht von RC, verfasst. <hi rend="italic">Dignum estimamus, ut</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignum estimamus, ut</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jhs., Staats- und Stadtbibliothek Augsburg, 2o Cod. Aug. 395, fol. 166v–167r. Druck: Pokorny, Augiensia (MGH. Studien und Texte 48, 2010) 75 no 16.</p></div>
+				
+				
+					<div type="commentary"><p>Die Kenntnis diese fragmentarisch überlieferten Schreibens, dessen Echtheit durch die Übereinstimmung seines ersten Teils mit DF.I. 351 (Reg. 1023) feststeht und das nach dem Variantenbefund der Überlieferung B von Reg. 1023 (an Bischof Roman von Gurk) näher steht, verdanken wir einer Mitteilung des Präsidenten der Monumenta Germaniae historica, Rudolf Schieffer, vom 3. November 2008. Das Stück ist nunmehr im Kontext einer Edition dieser in der Peutinger-Bibliothek in Augsburg befindlichen Überlieferung veröffentlicht worden, vgl. Pokorny, Augiensia, ebd. – Das bislang unbekannte Schreiben erweitert unsere Kenntnis über die auch noch nach dem Triumph über Mailand erforderlichen militärischen Maßnahmen in der Lombardei, über die wir bisher vor allem durch die Nachrichten über die Kapitulation der Brescianer am 22. April 1162 Bescheid wussten (vgl. Reg. 1069). Der mit der Nennung eines nicht namentlich bezeichneten Legaten abbrechende Text könnte sich auf die in Reg. 1029 als kaiserliche Boten erwähnten Bischof Ognibene von Verona und den kaiserlichen Kapellan C. beziehen. – Der Reichenauer Abt wird jedenfalls am 9. und 10. Juni 1162 am kaiserlichen Hof in Pavia genannt, vgl. seine Zeugennennungen in DDF.I. 367 und 368 (Regg. 1090 und 1092).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360331133" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXVIII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

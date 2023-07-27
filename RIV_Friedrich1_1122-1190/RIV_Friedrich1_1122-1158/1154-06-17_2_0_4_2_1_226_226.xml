@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 226</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-06-17_2_0_4_2_1_226_226"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-06-17_2_0_4_2_1_226_226"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-06-17_2_0_4_2_1_226_226</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237356" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 226</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-06-17" to="1154-06-17">1154 Juni 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Dortmund">Dortmund</placeName>
+												<location><geo decls="#WGS">51.5167, 7.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. iulii, Tremonie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Parc</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heycolfus(!) canc. vice Arnoldi Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>von einem kanzleifremden Schreiber mundiert;</scribe>
+				
+				
+					<testis function="witnesses">die gleichen wie in D. 81 a (Reg. 225), außerdem die Grafen Adolf (<hi rend="italic">Albertus!</hi>) von Berg und sein Sohn Eberhard, Bernhard von Horst, Heinrich von Arnsberg und Siegfried von Vianden (<hi rend="italic">Vianna</hi>); weiters wird der Pädagoge Heinrich als von <hi rend="italic">Wilsele</hi>  genannt</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wiederholt seine Verfügung für das Stift <span sameAs="recipient"><hi rend="spaced">Parc</hi> </span>  (DF. I. 81 a; Reg. 225) und gewährt ihm außerdem den Nutzgenuß der gemeinschaftlichen Wasser- und Weiderechte in den genannten Besitzungen (<hi rend="italic">usum pascuę aut aquę, quę communis omnium est, ubicumque locorum eisdem concedimus</hi>). <span n="witnesses">Z.: die gleichen wie in D. 81 a (Reg. 225), außerdem die Grafen Adolf (<hi rend="italic">Albertus!</hi>) von Berg und sein Sohn Eberhard, Bernhard von Horst, Heinrich von Arnsberg und Siegfried von Vianden (<hi rend="italic">Vianna</hi>); weiters wird der Pädagoge Heinrich als von <hi rend="italic">Wilsele</hi>  genannt</span>. - <span n="chancellor"><hi rend="italic">Heycolfus(!) canc. vice Arnoldi Magontini archiep. et archicanc.</hi> </span>; <span n="clerk">von einem kanzleifremden Schreiber mundiert;</span> <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Antecessorum nostrorum tam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Antecessorum nostrorum tam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Stiftes Parc (A<hi rend="sup">1</hi>). Drucke: Versteylen, Les chartes du Parc, Analecta Praemonstr. 5 (1929) 126 n<hi rend="sup">o</hi>  3; MG. DF. I. 81 b. Faks.: Versteylen a.a.O. nach 128. Reg.: Wauters, Table chronol. 2, 374; Stumpf 3693.</p></div>
+				
+				
+					<div type="commentary"><p>Der kanzleifremde Mundator hat sich bemüht, das Schriftbild von DF. I. 81a bis ins Detail nachzuahmen. Dem Inhalt nach unterscheidet sich das vorliegende D. von D. 81a dadurch, daß die Bestimmung über die Freiheit von den Zollabgaben vor die Besitzbestätigung kam, durch die neue Hinzufügung der Wasser- und Weiderechte und durch eine Erweiterung der Zeugenreihe. Die einwandfreie Besiegelung (Abb. des Siegels s. Faks.) macht überaus wahrscheinlich, daß es sich um eine authentische, inhaltlich erweiterte Zweitausfertigung und nicht um eine Verfälschung handelt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0080" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_81b" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

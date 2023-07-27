@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3102</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-09-00_1_0_4_2_4_527_3102"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-09-00_1_0_4_2_4_527_3102"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-09-00_1_0_4_2_4_527_3102</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3102</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-09-01" to="1187-09-30">(1187
+									September – )</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Kaiserslautern">Kaiserslautern</placeName>
+												<location><geo decls="#WGS">49.45, 7.7833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt seine von der Kurie 								zurückgekehrten Gesandten, die Bischöfe (Gottfried) von Würzburg und 								(Otto) von Bamberg sowie Abt (Siegfried) von Hersfeld, die mit ihrer 								Mission Erfolg gehabt haben und – angeblich – vom förmlichen 								Abschluss eines Friedens (<hi rend="italic">pace in formam 								acta</hi>) berichten können.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Magdeburg., MG. SS XVI, 195; E Gervasii 								Cantuariensis Chronica, MG. SS XXVII, 305 (<hi rend="italic">… pax 									et concordia inter dominum papam et imperatorem … formata 									est.</hi>); vgl. dazu das Regest bei Dolch – Münch, UB. der 								Stadt Kaiserslautern 1, 63 n<hi rend="sup">o</hi> 56.</p></div>
+				
+				
+					<div type="commentary"><p>Die Legaten waren im Frühjahr aus Regensburg an 								die Kurie abgesandt worden, siehe dazu oben Reg. 3058. – Über die 								Verhandlungen mit der Kurie geben die Ann. Marbacenses, ed. Bloch, 								MG. SS rer. Germ. in us. schol., 57 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 174 (<hi rend="italic">Ipso anno 									inter apostolicum et imperatorem de pace agebatur; sed nichil 									profuit, quia de excommunicatione imperatoris et regis 									agebat</hi>) und Arnoldi Chron. Slavorum l. III cap. 19, MG. SS 								XXI, 161 abweichende Berichte (siehe auch unten Reg. 3114). Bei 								Arnold von Lübeck heißt es, dass der Papst von seinem Vorhaben, den 								Kaiser zu exkommunizieren, zunächst nur durch die Bitte der 								Veronesen abgehalten worden sei, dies nicht in ihrer Stadt zu tun; 								schließlich sei der Papst vor der Realisierung dieses Vorhabens 								gestorben. – In den Hermanni Altah. Ann., MG. SS XVII, 384 heißt es 								zum Jahr 1187: <hi rend="italic">Apostolicus et imperator 									pacificantur</hi> (dieses Wort ist nach Tilgung des Wortes <hi rend="italic">dissentiunt</hi> eingefügt), worin sich der 								Wechsel im Pontifikat zwischen Urban III. und Gregor VIII. deutlich 								widerspiegelt. – Zu den Ereignissen von Kaiserslautern vgl. 								Giesebrecht – Simson, Kaiserzeit VI, 165.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

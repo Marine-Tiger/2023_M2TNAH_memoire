@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1485</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-00_2_0_4_2_2_927_1485"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-00_2_0_4_2_2_927_1485"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-06-00_2_0_4_2_2_927_1485</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246968" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1485</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-06-01" to="1165-06-30">(1165 Anfang Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">(Würzburg)</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">(Erlebold)</hi>  <hi rend="spaced">Stablo</hi></recipient>
+				
+				
+				
+					<scribe>In Übereinstimmung mit DDF. I. 480 und 481 (Regg. 1482 und 1483) abgefaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet dem Abt <span sameAs="recipient"><hi rend="spaced">(Erlebold)</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Stablo</hi> </span>  die Beschlüsse des Reichstages von Würzburg (wie DDF. I. 480 und 481 = Regg. 1482 und 1483) und befiehlt ihm, gemeinsam mit den Getreuen seiner Kirche den von ihm und den Fürsten geleisteten Eid auf Papst Paschal (III.), für den sowohl in Kirchen als auch im Freien öffentlich gebetet werden möge, abzulegen; er bedauert, daß ihn sein Ladungsschreiben nicht erreicht habe, und verspricht, ihm Gerechtigkeit widerfahren zu lassen, sobald er in seine Nähe kommen werde. - <span n="clerk">In Übereinstimmung mit DDF. I. 480 und 481 (Regg. 1482 und 1483) abgefaßt</span>. <span n="incipit"><hi rend="italic">Sicut novit dilectio</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut novit dilectio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Briefsammlung des Thomas Becket: Cod. Bodleianus 937 f. 67' (12. Jh.), Bibliothek zu Oxford (T<hi rend="sup">1</hi>); Cod. Cottonianus Claud. B. II. f. 57 (12. Jh.), Britisches Museum London (T<hi rend="sup">2</hi>); Cod. Vat. Regin. 1220 f. 88 (13. Jh.), Vatikanische Bibliothek Rom (T<hi rend="sup">3</hi>); Abschrift des 12. Jh., Sigiberti Chron. Continuatio Aquicinctina, Cod. 756, Bibliothèque municipale zu Douai. Drucke: MG. Const 1, 318 n<hi rend="sup">o</hi>  225; MG. DF. I. 483. Reg.: Wauters, Table chronol. 2, 463; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  296; Stumpf 4047a.</p></div>
+				
+				
+					<div type="commentary"><p>Ob sich aus der Ankündigung des Kaisers, er werde in die <hi rend="italic">partes</hi>  des Stabloer Abtes ziehen, tatsächlich ein Aufenthalt in Stablo erschließen läßt, wie ich früher meinte (Opll, Itinerar 36), erscheint mir heute zunehmend unsicher; Friedrich weilte im Herbst 1165 ohnehin in Köln und am Niederrhein, so daß sich Gelegenheit für ein Treffen auch anderswo ergab.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0244" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_483" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

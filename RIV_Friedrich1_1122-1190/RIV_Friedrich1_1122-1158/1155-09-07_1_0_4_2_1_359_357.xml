@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 357</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-09-07_1_0_4_2_1_359_357"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-09-07_1_0_4_2_1_359_357"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-09-07_1_0_4_2_1_359_357</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238774" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 357</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-09-07" to="1155-09-07">1155 September 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Trient">Trient</placeName>
+												<location><geo decls="#WGS">46.066, 11.133</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII<hi rend="sup">o</hi>  idus septembris, apud civitatem Tridentinam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2 laut C.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lüttich</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DF. I.4 (Reg. 70; VU.) geschrieben von ZB</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ortleuus</hi>) von Basel, Konrad von Worms, Abt Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Graf Ulrich von Lenzburg, Pfalzgraf Otto (von Wittelsbach), Graf Hugo von Dagsburg, Goswin der Jüngere von Valkenburg, Hermann von Baden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der bischöflichen Kirche zu <span sameAs="recipient"><hi rend="spaced">Lüttich</hi> </span>  (<hi rend="italic">ecelesia beate Marie preciosique martyris Lamberti, qui in Leodiensi civitate requiescit</hi>) im Hinblick auf die hervorragenden Verdienste, die sich Bischof Heinrich II. auf dem Romzug erwarb, den namentlich angeführten Besitzstand und den seinerzeit von Bischof Heinrich (I.) für sein Bistum erlassenen Landfrieden. <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ortleuus</hi>) von Basel, Konrad von Worms, Abt Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Graf Ulrich von Lenzburg, Pfalzgraf Otto (von Wittelsbach), Graf Hugo von Dagsburg, Goswin der Jüngere von Valkenburg, Hermann von Baden</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DF. I.4 (Reg. 70; VU.) geschrieben von ZB</span>; <span n="seal">SI. 2 laut C.</span>  <span n="incipit"><hi rend="italic">Dignum est et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignum est et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Liber chartarum ecclesie Leodiensis des 13. Jh. f. 65 im Staatsarchiv Lüttich, 1944 durch Kriegseinwirkung vernichtet (B); Notarielle Abschrift von 1295 Juli 13, im Departementalarchiv Lilie (C); Notarielle Abschrift von 1333 Oktober 2, Staatsarchiv Lüttich (D). Drucke: Bormans-Schoolmeesters, Cart. de S. Lambert de Liège 1, 76 n<hi rend="sup">o</hi>  46; MG. DF. I. 123. Reg.: Wauters, Table Chronol. 2, 387; Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  83; Stumpf 3725.</p></div>
+				
+				
+					<div type="commentary"><p>Die Besitzliste des Diploms zeigt Anklänge an das Privileg Papst Hadrians IV. von 1155 Juli 24 (Bormans-Schoolmeesters, a. a. O. 1, 74 n<hi rend="sup">o</hi>  45), während die Aufzählung der Neuerwerbungen unter Bischof Heinrich II. weitgehend auf dessen Urkunde von 1154 (Bormans-Schoolmeesters, a. a. O. 1, 72 n<hi rend="sup">o</hi>  44) zurückgeht. Stumpf 3713 a ist offenbar mit DF. I. 123 identisch, vgl. Vorbemerkung zu DF. I. 123 und Simonsfeld, Jahrbücher 381 Anm. 324. - Heinrichs Verdienste heben auch die Aegidii Aureaevallensis Gesta epp. Leod., l. III, cap. 30 (MG. SS XXV, 104) hervor. In einer undatierten Urkunde überträgt Bischof Heinrich seine Regierungsgewalt an vier Vertreter, da er <hi rend="italic">ad servitium Romane ecclesie et ministerium domini regis</hi>  aufbrechen muß; Bormans-Schoolmeesters, a. a. O. 1, 84 n<hi rend="sup">o</hi>  49 setzen die Urkunde zu 1161?, weil Abt Drogo von S.-Jacques, einer der vier Vertreter, erst 1155 Abt geworden ist. Wegen des Königstitels haben wir die Urkunde hier erwähnt. - Über den Aufenthalt zu Trient berichten auch Ottonis Gesta Frid. l. II cap. 41, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 149; Ann. Isingr. Ottenbur. mai., MG. SS XVII, 314; Carmen de gestis V. 1082 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 37; Gottfried von Viterbo, Gesta Friderici, MG. SS XXII, 313 V. 262. Der von Bischof Heinrich I. erlassene Landfrieden ist ediert MG. Const. 1, 603 Anm. 1, vgl. dazu Krause, ZRG g. A. 94 (1977) 261.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0118" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_123" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

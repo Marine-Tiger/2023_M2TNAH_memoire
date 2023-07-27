@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3156</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-25_1_0_4_2_4_581_3156"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-25_1_0_4_2_4_581_3156"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-25_1_0_4_2_4_581_3156</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3156</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-25" to="1188-04-25">1178
+									(recte wohl: 1188) April 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Poligny</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die kaiserlichen Legaten (in Burgund, Graf Ludwig 								von Saarwerden und Magister Daniel) fällen ein Urteil zwischen dem 								Prior und den Hospitalitern von Arbois.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Nur als Regest überliefert, vgl. Mariotte, Le 								comté de Bourgogne, Annexe I, 173 n<hi rend="sup">o</hi> 13, 								Herrmann, Geschichte der Grafschaft Saarwerden 1/1, 84 n<hi rend="sup">o</hi> 75 mit Hinweis auf ein Zitat bei Clerc, 								Franche-Comté, 382 Anm. 3 erwähnt („Bestand der Commanderie Arbois 								in AD Doubs, heute nicht mehr auffindbar“), sowie Diestelkamp – 								Rotter, Urkundenregesten 1, 391 n<hi rend="sup">o</hi> 498.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Güterbock, Geschichte Burgunds, Zs. f. 								Schweizer. Gesch. 17 (1937) 167 Anm. 104, und Hoke, Freigrafschaft 								Burgund, Zs. f. Rechtsgesch., germ. Abt. 79 (1962) 150 mit Anm. 								218.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

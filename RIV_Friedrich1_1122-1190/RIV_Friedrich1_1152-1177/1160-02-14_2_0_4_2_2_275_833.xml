@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 833</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_2_0_4_2_2_275_833"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-14_2_0_4_2_2_275_833"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-02-14_2_0_4_2_2_275_833</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242979" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 833</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-02-14" to="1160-02-14">1160 Februar 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. mart., Papie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Regenaldus Coloniensis ęcclesię electus et Italię archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Bamberger Diktat außerhalb der Kanzlei als Empfängerausfertigung mundiert</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befreit die Burgen des Hochstiftes <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  aus jeder lehnsrechtlichen Bindung und unterstellt sie auf Bitten des Bischofs Eberhard von Bamberg dessen freier Verfügungsgewalt; sie dürfen künftig weder zu Lehen ausgetan noch sonstwie der Kirche entfremdet werden, wovon nur die von ihm, dem Kaiser, vorgenommene Vergabe von Alt-Giechburg und Lichtenfels an Graf Berthold (von Andechs) und seinen Sohn ausgenommen sein soll. - <span n="chancellor"><hi rend="italic">Regenaldus Coloniensis ęcclesię electus et Italię archicanc.</hi> </span>; <span n="clerk">nach Bamberger Diktat außerhalb der Kanzlei als Empfängerausfertigung mundiert</span>; <span n="seal">B. 2. D.</span> <span n="incipit"><hi rend="italic">Si ęcclesias dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ęcclesias dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Heute verschollen, zur Zeit Heybergers im Bamberger Archiv (A). Kop.: Beschnittenes Original, zweite Ausfertigung oder beschnittene gleichzeitige Einzelkopie, Hauptstaatsarchiv München (B); Bamberger Kanzleibücher n<hi rend="sup">o</hi>  1 aus dem Beginn des 14. Jh. f. 109, Staatsarchiv Bamberg (C). Drucke: Heyberger, Landeshoheit Bambergs über Fürth, Codex prob. n<hi rend="sup">o</hi>  61; Mon Boica 29<hi rend="sup">a</hi>, 354 n<hi rend="sup">o</hi>  501; MG. DF. I. 304. Reg.: Stumpf 3887.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zur diplomatischen Kritik vgl. die Vorbemerkung zum D. - Lucius III. hat den Rechtsinhalt am 10. Mai 1185 bestätigt, JL. 15.423, Germ. pont. 3/3, 279 n<hi rend="sup">o</hi>  96. - Vgl. zum D. Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 293 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu der Bestätigung des DF.I.304 für das Hochstift Bamberg durch Papst Lucius III. am 10. Mai 1185 in Verona vgl. jetzt Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, Nr. 1623.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0087" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210249%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_304" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †2490</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-12_1_0_4_2_3_718_F2490"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-05-12_1_0_4_2_3_718_F2490"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-05-12_1_0_4_2_3_718_F2490</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605570" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †2490</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-05-12" to="1179-05-12">1179 Mai 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Augsburg">Augsburg</placeName>
+												<location><geo decls="#WGS">48.35, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht den <hi rend="spaced">Leuten von Bergell</hi>  auf Bitten des Rudolf von Castelmur Jagd und Fischerei, Erze (Abbaurechte) und Zoll zu Vicosoprano.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Neuzeitliche Fälschung; Meyer-Marthaler — Perret, Bündner UB.1, 301 n<hi rend="sup">o</hi>  406; Stumpf Reg. 4279; MG.DDF.I. Bd.4, Anhang II n<hi rend="sup">o</hi>  26.</p></div>
+				
+				
+					<div type="commentary"><p>Weiterführende Literatur bei Meyer-Marthaler — Perret, ebda. — Dem kaiserlichen Itinerar nach wäre zwischen den Aufenthalten in Colmar (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-05-09_1_0_4_2_3_716_2488.html" type="internal" n="regesten">2488</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1179-05-09_1_0_4_2_3_717_2489.html" type="internal" n="regesten">2489</ref>) und Konstanz (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1179-05-27_1_0_4_2_3_719_2491.html" type="internal" n="regesten">2491</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1179-05-27_2_0_4_2_3_720_2492.html" type="internal" n="regesten">2492</ref>) im Mai 1179 ein Aufenthalt in Augsburg denkbar.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0251" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_DD_F_I_4_S._511" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

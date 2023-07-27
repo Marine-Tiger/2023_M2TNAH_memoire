@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2590</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-04-18_4_0_4_2_4_11_2590"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-04-18_4_0_4_2_4_11_2590"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-04-18_4_0_4_2_4_11_2590</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2590</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-04-18" to="1181-04-18">1181
+									April 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">(Konstanz)</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">König Heinrich (VI.), Erzbischof 									Theoderich von Besançon, die Bischöfe Konrad von Worms, Eberhard 									von Merseburg, Berthold von Konstanz, Heinrich von Basel und 									Heinrich von Straßburg, Herzog Friedrich von Schwaben, Markgraf 									Hermann von Verona (Baden), Graf Berthold von Naumburg (<hi rend="italic">Nuenburg</hi>), Egelolf von Irslingen (<hi rend="italic">Urselingen</hi>), Marschall Werner von 									Straßburg und Rudolf von Andlau (<hi rend="italic">Andela</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog Friedrich vom Elsass (= von Schwaben) 								bestätigt als Vogt der Hohenburger Kirche die von Äbtissin Herrad 								von Hohenburg veranlasste <hi rend="spaced">Gründung des 									Augustiner-Chorherrenstiftes Truttenhausen</hi> und sichert dem 								Stift mit Zustimmung seines Vaters, Kaiser Friedrichs, und auf Rat 								des päpstlichen Legaten, des (Kardinal-)Bischofs Petrus von Tusculum 									(<hi rend="italic">Tusculanensis</hi>), zwei Pfründen mit 								zugehörigen Lehen und Zehenten zum gemeinsamen Nutzen der Brüder zu. 									<span n="witnesses">Z.: König Heinrich (VI.), Erzbischof 									Theoderich von Besançon, die Bischöfe Konrad von Worms, Eberhard 									von Merseburg, Berthold von Konstanz, Heinrich von Basel und 									Heinrich von Straßburg, Herzog Friedrich von Schwaben, Markgraf 									Hermann von Verona (Baden), Graf Berthold von Naumburg (<hi rend="italic">Nuenburg</hi>), Egelolf von Irslingen (<hi rend="italic">Urselingen</hi>), Marschall Werner von 									Straßburg und Rudolf von Andlau (<hi rend="italic">Andela</hi>)</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Schoepflin, Alsatia dipl. I, 275 n<hi rend="sup">o</hi> 328; Würdtwein, Nova subsidia dipl. 10. 107 									n<hi rend="sup">o</hi> 25; Wentzcke, Reg. Straßburg n<hi rend="sup">o</hi> 605; B.-Baaken Reg. 1h; Stumpf 4317.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Urkunde des kaiserlichen Sohnes, der nicht 								nur als Aussteller fungiert, sondern auch in der Zeugenreihe genannt 								wird (siehe dazu auch unten Reg. 2592), bietet eine wertvolle 								Ergänzung für den Aufenthalt des Kaisers in Konstanz im April 1181, 								weisen doch die dort ausgestellten Diplome keinerlei Zeugennennungen 								auf; der unter den Zeugen genannte Bischof Heinrich von Straßburg 								gab gleichfalls seine Zustimmung zur Gründung des Stiftes 								Truttenhausen, vgl. dazu Wentzcke, a.a.O., no 606. Ausdrücklich 								beruft sich der Schwabenherzog hier auch auf die Zustimmung seines 								kaiserlichen Vaters. – Der hier genannte päpstliche Legat, 								Kardinalbischof Petrus von Tusculum, unternahm damals eine 								Legationsreise nach Frankreich und suchte auf seinem Weg auch die 								Abtei Siegburg auf, wo er die Kanonisation Erzbischof Annos von Köln 								initiierte, vgl. dazu Translatio s. Annonis, MG. SS XI, 515 (zu 								dieser Kanonisation vgl. unten Reg. 2606).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

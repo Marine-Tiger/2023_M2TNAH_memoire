@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 443</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-31_1_1_4_2_1_445a_443"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-03-31_1_1_4_2_1_445a_443"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-03-31_1_1_4_2_1_445a_443</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1361450198" value="2013-02-21"></date>
+				<date type="lastmod" n="1426239322" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 443</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-03-24" to="1157-03-31">(1157 März 24-31)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient>Abt W(ibald) von <hi rend="spaced">Corvey und Stablo</hi> (<hi rend="italic">Corbeiensi et Stabulensi</hi>)</recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beruft Abt W(ibald) von <hi rend="spaced">Corvey und Stablo</hi> (<hi rend="italic">Corbeiensi et Stabulensi</hi>) nach dessen Rückkehr vom Italienzug und von der Gesandtschaftsreise nach Griechenland für den dritten Sonntag nach Ostern (April 21) nach Nimwegen (<hi rend="italic">Nouimagum</hi>), befiehlt ihm die Teilnahme an der ursprünglich in Würzburg (Juni 1156) gegen Apulien, dann aber am Palmsonntag (1157 März 24) in Fulda für den Vorabend von Pfingsten des nächsten Jahres (1158 Juni 7) gegen Mailand anberaumten Heerfahrt und beauftragt ihn damit, nach dem Muster seines eigenen Siegels einen Siegelstempel für die Kaiserin anfertigen und nach Aachen bringen zu lassen. — <hi rend="italic">Quod fama predicat</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quod fama predicat</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 12. Jh. im Cod. Wibaldi f. 153', Staatsarchiv Lüttich (B). Drucke: Jaffé, Mon. Corb. 588 n° 456; MG. Const. 1, 223 n° 160; MG. DF. I. 162. Reg.: Wauters, Table chronol. 2, 404; Stumpf 3765a.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. die Vorbemerkung des D. Damals dürften auch einige andere nicht bei Hofe anwesende geistliche und weltliche Fürsten durch eigene Schreiben zur Teilnahme an dem geplanten zweiten Italienzug aufgefordert worden sein. Zur Anfertigung des Siegelstempels für Beatrix vgl. Bresslau, Urkundenlehre 23, 561 sowie Deér, Siegel (FS. Hahnloser, 1961) 70, jetzt auch VuF 21 (1977) 216. — Zur Bedeutung dieses Mandats für die Beurteilung Wibalds vgl. Hausmann, Reichskanzlei 248. — Zur Reise Wibalds an den Hof vgl. auch sein Schreiben an einen (Lütticher Regularkanoniker), Epp. Wibaldi, ed. Jaffé, Mon. Corb. 690 n° 458.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0150" type="external" n="unkown">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_162" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

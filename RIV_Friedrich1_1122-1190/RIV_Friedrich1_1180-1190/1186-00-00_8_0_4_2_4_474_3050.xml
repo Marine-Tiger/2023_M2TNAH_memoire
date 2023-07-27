@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3050</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-00-00_8_0_4_2_4_474_3050"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-00-00_8_0_4_2_4_474_3050"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-00-00_8_0_4_2_4_474_3050</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3050</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-01-01" to="1186-12-31">1186</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verlobt seine Tochter Sophia mit Markgraf 								Wilhelm von Montferrat.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Wegelin, Thesaurus rerum Suevicarum II (1757) 								318 (im Anschluss an den Bericht über den Tod der Kaiserin Beatrix 								und deren Beisetzung in Speyer): <hi rend="italic">Sequenti LXXXVI. 									anno, Imperator filiam suam Sophiam Marchioni Monferratensi 									Guilielmo collocavit, …</hi></p></div>
+				
+				
+					<div type="commentary"><p>Toeche, Heinrich VI., 741 (Nachtrag zu S. 83), 								gibt den Namen dieser Kaisertochter mit Beatrix an, doch war Beatrix 								bereits in der Mitte der 1170er Jahre verstorben (vgl. Reg. 2052). 								Decker-Hauff, Das Staufische Haus, in: Die Zeit der Staufer. Bd. 								III. (Katalog der Ausstellung, Stuttgart 1977) 356 Nr. 69, gibt die 								Lebensdaten Sophias mit „um 1173–1175 bis um 1187 (Anfang 1188?)” an 								und setzt die Hochzeit mit Markgraf Wilhelm II. (VIII.) von 								Montferrat in das Jahr 1187. Assmann, Kinder, DA 33 (1977) 467 ff., 								hat wahrscheinlich machen können, dass diese Kaisertochter – falls 								sie überhaupt je existiert hat – aus der Reihe der ehelichen Kinder 								des Staufers wohl auszuschließen ist. – An der zeitlichen Einordnung 								zum Jahr 1186 ist wohl festzuhalten, da die Kaiserin erst 1185 in 								Speyer begraben wurde (vgl. dazu Reg. 2818) und somit das Jahr 1186 								tatsächlich das auf die Beisetzung „folgende Jahr“ war.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

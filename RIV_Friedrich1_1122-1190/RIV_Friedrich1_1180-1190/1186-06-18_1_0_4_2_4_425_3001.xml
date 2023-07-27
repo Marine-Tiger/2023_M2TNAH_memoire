@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3001</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-18_1_0_4_2_4_425_3001"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-18_1_0_4_2_4_425_3001"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-18_1_0_4_2_4_425_3001</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3001</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-18" to="1186-06-18">(1186)
+									Juni 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Verona">Verona</placeName>
+												<location><geo decls="#WGS">45.4167, 11.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Papst Urban (III.) antwortet Kaiser Friedrich auf 								dessen an ihn gerichtetes Schreiben (Reg. 2994): Über die im 								kaiserlichen Auftrag gesetzten Maßnahmen des Sohnes des Kaisers, 								König Heinrichs (VI.), bei der Unterwerfung des <hi rend="italic">Patrimonium beati Petri</hi> führt er Klage, da Heinrich das 								Land der Kirche nicht verteidige, sondern unterdrücke und auch von 								im kirchlichen Besitz befindlichen Städten, namentlich Narni, 								Viterbo und Perugia, das Fodrum und andere <hi rend="italic">indebita servicia</hi> eintreibe. Dass der Kaiser den Umgang 								mit den exkommunizierten Novaresen meide, wird begrüßt. Gegen die 								Vorwürfe, er habe zu Gunsten der Cremonesen, gegen die der Kaiser 								vorgehe, Maßnahmen gesetzt, weist er darauf hin, dass er niemals auf 								die Bitten der bei ihm erschienenen Cremonesen, ihre Stadt in den 								päpstlichen Schutz zu nehmen, eingegangen sei, vielmehr Bischof 								S(icard) von Cremona schriftlich beauftragt habe, für die 								Wiederherstellung des Friedens zu wirken. Er habe auch den Bischöfen 								oder Städten der Lombardei nicht verboten, an der kaiserlichen 								Heerfahrt gegen Cremona teilzunehmen, wiewohl er dies bei den 								Bischöfen, deren Kirchen auch durch kaiserliche Privilegien vor 								neuen Belastungen geschützt seien, durchaus hätte tun können. 								Einigen habe er allerdings geboten, bei dem Feldzug die Kirchengüter 								der Diözese Cremona zu schonen. Sollten dem Kaiser anders lautende 								päpstliche Schreiben vorliegen, so möge er sie ihm (dem Papst) zur 								Überprüfung zusenden. Er führt Klage über angeblich vom Kaiser in 								den Diözesen Turin und Ivrea eingesetzte kaiserliche Ministerialen, 								die die dortige Geistlichkeit mit ungerechten Abgaben belasten und 								vor das weltliche Gericht laden (<hi rend="italic">ecclesiasticos 									viros indebitis exactionibus et molestiis praegravantes eos ad 									seculare iudicium pertrahunt et suis compellunt iussionibus 									obedire</hi>), das Vorgehen des kaiserlichen Sohnes wie auch 								Bertholds (von Hohkönigsburg, des Reichslegaten für Italien) gegen 								die Kirchen Tusziens, ebenso das des Herzogs (Konrad) von Spoleto 								gegen die geistlichen und weltlichen Rechte der Kirchen und auch das 								seines (= Heinrichs VI.) Ministerialen Walter in der Mark Tuszien. 								Er fordert ihn auf, diese Missstände abzustellen. Für den Fall des 								Eingehens auf seine Forderungen habe er ihm (= dem Kaiser) schon 								früher durch Boten sein Wohlwollen in Aussicht gestellt, und die 								Überbringer dieses Schreibens, Subdiakon Alexander und der Mailänder 								(Dom-)Kanoniker Magister O., werden ihm dies in seinem Auftrag noch 								ausführlicher darlegen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 441 n<hi rend="sup">o</hi> 								314; Jaffé-L. 15.634.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 131 								ff. – Bei dem königlichen Ministerialen und (Amts-)Grafen Walter, 								der in der Mark Tuszien im Sinne des Reiches agierte, dürfte es sich 								um den schon 1177 (vgl. oben Reg. 2242) nachweisbaren Grafen Walter 								von Fano gehandelt haben, vgl. zu ihm die Hinweise bei Haverkamp, 								Herrschaftsformen, 231 Anm. 269.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

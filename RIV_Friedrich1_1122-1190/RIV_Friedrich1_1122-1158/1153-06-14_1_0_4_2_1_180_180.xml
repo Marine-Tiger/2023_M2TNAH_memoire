@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 180</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-14_1_0_4_2_1_180_180"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-14_1_0_4_2_1_180_180"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-14_1_0_4_2_1_180_180</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236889" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 180</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-14" to="1153-06-14">1153 Juni 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVIII kal. iulii, in urbe Wormatia)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Arnold II.</hi>  <hi rend="spaced">Köln</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfaßt und von zwei Kölner Schreibern mundiert, diktatgleich mit DF. I. 60 (Reg. 181)</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Konrad von Worms, Gunther von Speyer, Burchard von Straßburg, Konrad von Augsburg, Dompropst Walter von Köln, Dekan Albert (von Köln), Propst Diepold von Xanten, Abt Nikolaus von Siegburg (<hi rend="italic">Sigeberc</hi>), die Pröpste Arnold vom Andreasstift (in Köln), Ulrich von Soest (<hi rend="italic">Sůsaz</hi>), die Herzoge Heinrich von Bayern, Heinrich von Sachsen und viele Fürsten; von den Kölner Hintersassen (<hi rend="italic">De familia beati Petri</hi>): Vogt Hermann (von Eppendorf), Heinrich von Volmarstein (<hi rend="italic">Uolmudestein</hi>), Heinrich von Alpen (<hi rend="italic">Alpheim</hi>), Truchseß Adolf, Schenk Randolf, Raboto von Odenkirchen, Amalrich von Wormersdorf (<hi rend="italic">Wormisdorp</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verbrieft dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Arnold II.</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>  das unter Konrad III. dort (1151) gefällte und von ihm 1152 zu Dortmund (<hi rend="italic">in burgo Tremonia</hi>, vgl. Reg. 79) gebilligte Urteil über die Unveräußerlichkeit der erzbischöflichen Tafelgüter (<hi rend="italic">quatenus omnia bona, que Fredericus quondam Coloniensis archiepiscopus ... inbeneficiavit, ad potestatem archiepiscopi redire debere nec tales donationes, que contra pacem regni facte dinoscuntur, aliquam vim iuris habere</hi>) durch einen nach dem Zeugnis des Grafen Gottfried von Arnsberg und Markwards von Grumbach von Herzog Heinrich von Bayern formulierten Fürstenspruch, bestätigt weiters die vollzogenen Wiedererwerbungen, wie Wiedereinziehung des Zolls und andere Gefälle in Köln (<hi rend="italic">teloneum urbis Colonie et multa episcopalia servicia</hi>), Kauf des Kastells Odenkirchen (<hi rend="italic">Vdenkirken</hi>) und in Westfalen der Höfe in <hi rend="italic">Homede</hi>, Anröchte (<hi rend="italic">Anervst</hi>), Prummern (<hi rend="italic">Brumeram</hi>), Segeroth (<hi rend="italic">Segerode</hi>), <hi rend="italic">Vuermůnte</hi>, Wintzen (<hi rend="italic">Winisen</hi>) sowie der Güter der Ministerialen in Gevelsdorf (<hi rend="italic">Geuersdorp</hi>). <span n="witnesses">Z.: die Bischöfe Konrad von Worms, Gunther von Speyer, Burchard von Straßburg, Konrad von Augsburg, Dompropst Walter von Köln, Dekan Albert (von Köln), Propst Diepold von Xanten, Abt Nikolaus von Siegburg (<hi rend="italic">Sigeberc</hi>), die Pröpste Arnold vom Andreasstift (in Köln), Ulrich von Soest (<hi rend="italic">Sůsaz</hi>), die Herzoge Heinrich von Bayern, Heinrich von Sachsen und viele Fürsten; von den Kölner Hintersassen (<hi rend="italic">De familia beati Petri</hi>): Vogt Hermann (von Eppendorf), Heinrich von Volmarstein (<hi rend="italic">Uolmudestein</hi>), Heinrich von Alpen (<hi rend="italic">Alpheim</hi>), Truchseß Adolf, Schenk Randolf, Raboto von Odenkirchen, Amalrich von Wormersdorf (<hi rend="italic">Wormisdorp</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">außerhalb der Kanzlei verfaßt und von zwei Kölner Schreibern mundiert, diktatgleich mit DF. I. 60 (Reg. 181)</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Quoniam ordinatione excellentissimę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam ordinatione excellentissimę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Historisches Archiv der Stadt Köln (A). Drucke: MG. Const. 1, 204 n<hi rend="sup">o</hi>  146; MG. DF. I. 59. Faks.: Kaiserurk. in Abb. X, 8<hi rend="sup">a</hi>  Teilfaksimile. Reg.: Knipping, Reg. 2, n<hi rend="sup">o</hi>  559; Fichtenau-Dienst, UB. z. Gesch. d. Babenberger 4/1, 131 n<hi rend="sup">o</hi>  776; Stumpf 3672.</p></div>
+				
+				
+					<div type="commentary"><p>Monogramm und Signumzeile erinnern an A II. D, dessen Eigenheiten hier offenbar nachgeahmt wurden. Die Entscheidung des Hofgerichtes unter Konrad III. ist auch in dem Schreiben Papst Eugens III. an die Kölner von 1152 Januar 8 (JL. 9516, Bericht über die Weihe Erzbischof Arnolds II.) erwähnt; vgl. Vorbemerkung zu DK. III. *247. Zu Erzbischof Arnold II. von Köln vgl. Hausmann, Reichskanzlei 114 f. und 118 f. Zum Kastell Odenkirchen vgl. Pötter, Ministerialität (Stud. zur Kölner KG 9, 1967) 52 und 113 f. und zu den Kölner Hintersassen, die als Zeugen auftreten, vgl. besonders a. a. O. 79, 64, 22, 91, 94, 52, 67.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>B.-Niederkorn-Hruza, Reg. *732 reihen den im DF.I. 59 erwähnten Hoftag Konrads III., auf dem dieser ein Urteil über die Unveräußerlichkeit der erzbischöflichen Tafelgüter zugunsten des Kölner Erzbischofs gefällt hatte, zu 1151 nach Mai 8, Köln, ein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0066" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228402%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00186" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_59" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

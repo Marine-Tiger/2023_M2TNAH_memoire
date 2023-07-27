@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †282</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-03-01_1_0_4_2_1_282_F282"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-03-01_1_0_4_2_1_282_F282"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-03-01_1_0_4_2_1_282_F282</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238336" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †282</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-03-01" to="1155-03-01">1155 März 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Belagerung Tortonas</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(kal. martii, in obsidione Terdonę)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bonifaz</hi>  <hi rend="spaced">Johannes</hi>  <hi rend="spaced">Biandrate</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>die echte Vorlage wurde wohl von A II. D verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, die Herzoge Heinrich von Sachsen, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Otakar von Steier, Hermann von Verona, Graf Berthold von Andechs</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert in einer bis auf die Zeugenreihe und das Datum gefälschten Urkunde die Brüder <span sameAs="recipient"><hi rend="spaced">Bonifaz</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Johannes</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Biandrate</hi> </span>  (<hi rend="italic">Blanderate</hi>) mit den genannten Besitzungen und bestätigt ihre Rechte. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, die Herzoge Heinrich von Sachsen, Berthold von Burgund, Pfalzgraf Otto von Bayern, die Markgrafen Otakar von Steier, Hermann von Verona, Graf Berthold von Andechs</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">die echte Vorlage wurde wohl von A II. D verfaßt und geschrieben</span>. <span n="incipit"><hi rend="italic">Regię maiestatis dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regię maiestatis dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. in der Stadtbibliothek Biella, Urkundenkopien aus dem Archiv der Herren von Bulgaro (D). Weitere Überlieferungen MG. DDF. I. Nachträge (S. 564). Druck : MG. DF. I. 99. Reg.: Guasco di Bisio-Gabotto, Documenti Biellesi, BSSS 34 (1908) 223 n<hi rend="sup">o</hi>  7; Kalbfuß, Reichsgeschichte Oberitaliens, QFIAB 15 (1913) 276 und 280 n<hi rend="sup">o</hi>  79.</p></div>
+				
+				
+					<div type="commentary"><p>Die dispositiven Sätze des Diploms müssen als das Werk eines Fälschers der frühen Neuzeit angesehen werden, das Formular entspricht freilich den Gewohnheiten des A II. D. Zeugenreihe und Datum passen ausgezeichnet in das Itinerar Friedrichs; vgl. Simonsfeld, Jahrbücher 297 ff. und Hofmeister, De Ruina civ. Terd., NA 43 (1922) 138 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0097" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_99" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

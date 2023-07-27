@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3387</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-04_1_0_4_2_4_817_3387"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-04_1_0_4_2_4_817_3387"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-08-04_1_0_4_2_4_817_3387</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3387</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-08-04" to="1189-08-04">1189
+									August 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Balkanpass bei Pirot (<hi rend="italic">secunda clausura</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bei der Überquerung des zweiten Balkanpasses, der 								durch Steine, Holz und die natürliche Lage stark befestigt ist, gibt 								es Auseinandersetzungen mit Räubern, die der in betrügerischer 								Absicht vorangezogene byzantinische Befehlshaber von Braničevo (<hi rend="italic">dux Brundusiensis</hi>) dorthin befohlen hat, doch 								werden diese Räuber von der an der Spitze ziehenden Gruppe des 								Herzogs (Friedrich) von Schwaben, dann auch von der mittleren 								Heergruppe, der Bischof Dietpold von Passau und Herzog (Berthold) 								von Meranien angehören, erfolgreich bekämpft. Schließlich werden 24 								Mann von den Angreifern gefangen, an den Schwänzen der Pferde 								angebunden ins Lager gebracht und dort an den Beinen aufgehängt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Dietpoldi epistola (Chron. Magni presbiteri), 								MG. SS XVII, 509; vgl. Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 35 f. (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 90 f.); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 135 ff.; 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 407.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1989</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-07-21_1_0_4_2_3_214_1989"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-07-21_1_0_4_2_3_214_1989"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-07-21_1_0_4_2_3_214_1989</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597691" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1989</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-07-21" to="1172-07-21">1172 Juli 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XII kal. augusti, in Aldenburch)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Christian[i] Mogvntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach dem Diktat des UB von unbekannter Hand geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Wichmann von Magdeburg, die Bischöfe Udo von Naumburg und Eberhard von Merseburg, Propst Hoger von Merseburg, Dekan Christian (von Merseburg), Kämmerer Eberhard (von Merseburg), Landgraf Ludwig (von Thüringen) und sein Sohn Ludwig, Markgraf Otto von Brandenburg, Graf Dietrich von Werben, Markgraf Otto von Meißen, Markgraf Dietrich (der Lausitz), Graf Dedo (von Groitzsch) und sein Bruder Graf Heinrich (von Wettin), Ulrich, der Sohn des Herzogs von Böhmen, die Burggrafen Burchard von Magdeburg, Heinrich von Leisnig und Heinrich von Altenburg, Konrad von Boxberg, Rupert von Frohburg, Adalbert und sein Bruder Heinrich von Grumbach, Erkenbert von Tegkwitz, Radeboto von Greifenhain, Burchard von Greifenberch, Adalbert von Altenburg, Gumpert und sein Bruder Heinrich von Kötschau, Heinrich von Weida, Siegfried von Altenburg, Tiemo von Colditz, Hugo von Warthe, Bernhardus Rufus und sein Bruder Heinrich von Trebsen, Friedrich und Sigeboto von Groitzsch <hi rend="italic">(Grovtsa</hi>), Otto und Tiemo von Leisnig</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster Pegau</hi>  (<hi rend="italic">Bigaugiensem</hi>) in seinen Schutz, legt fest, daß es ausschließlich der kaiserlichen Vogtei untersteht und die Mönche sich einen bei Fehlverhalten durch ihn zu ersetzenden Untervogt unter Verbot der Vererbung der Vogteirechte wählen können, genehmigt gemäß dem Vorbild des Klostergründers, des Markgrafen Wibert (von Groitzsch), die Zahlung eines jährlichen Zinses (<hi rend="italic">aureus nummus</hi>) an die Römische Kirche, gewährt ihnen Münze, Zoll und Markt in der Stadt Pegau und gestattet seinen Ministerialen Schenkungen an das Kloster aus ihrem Erbgut. <span n="witnesses">Z.: Erzbischof Wichmann von Magdeburg, die Bischöfe Udo von Naumburg und Eberhard von Merseburg, Propst Hoger von Merseburg, Dekan Christian (von Merseburg), Kämmerer Eberhard (von Merseburg), Landgraf Ludwig (von Thüringen) und sein Sohn Ludwig, Markgraf Otto von Brandenburg, Graf Dietrich von Werben, Markgraf Otto von Meißen, Markgraf Dietrich (der Lausitz), Graf Dedo (von Groitzsch) und sein Bruder Graf Heinrich (von Wettin), Ulrich, der Sohn des Herzogs von Böhmen, die Burggrafen Burchard von Magdeburg, Heinrich von Leisnig und Heinrich von Altenburg, Konrad von Boxberg, Rupert von Frohburg, Adalbert und sein Bruder Heinrich von Grumbach, Erkenbert von Tegkwitz, Radeboto von Greifenhain, Burchard von Greifenberch, Adalbert von Altenburg, Gumpert und sein Bruder Heinrich von Kötschau, Heinrich von Weida, Siegfried von Altenburg, Tiemo von Colditz, Hugo von Warthe, Bernhardus Rufus und sein Bruder Heinrich von Trebsen, Friedrich und Sigeboto von Groitzsch <hi rend="italic">(Grovtsa</hi>), Otto und Tiemo von Leisnig</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Christian[i] Mogvntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach dem Diktat des UB von unbekannter Hand geschrieben</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Quia decet Romani</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia decet Romani</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Fragment in der Stadtbibliothek Leipzig (A). Kop.: Abschrift des 15. Jh. im cvp. 5077 f. 288, Nationalbibliothek Wien (C). Drucke: Chroust, Unedierte Königs- und Papsturkunden, Neues Archiv 16 (1891) 144 n<hi rend="sup">o</hi>  1; MG.DF.I.594. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  449; Patze, Altenburger UB. 12 n<hi rend="sup">o</hi>  15; Stumpf 4137 (&amp;quot;wahrscheinlich die Gründung des Bergklosters bei Altenburg betreffend&amp;quot;).</p></div>
+				
+				
+					<div type="commentary"><p>Zum Zins an die Römische Kirche vgl. das Privileg Paschais II. für Pegau von 1104 Januar 30 (Jaffé-L.5969, Posse, CD.Sax.reg. I 2, 8 n<hi rend="sup">o</hi>  8). — Vgl. auch die Erwähnung im Chron. Montis Sereni, MG. SS XXIII, 203. — Zur stadtgeschichtlichen Entwicklung von Pegau vgl. Schlesinger, Stadt Chemnitz, 84 ff. und Opll, Stadt und Reich, 131 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0082" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_594" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2499</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-06-29_1_0_4_2_3_728_2499"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-06-29_1_0_4_2_3_728_2499"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-06-29_1_0_4_2_3_728_2499</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605638" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2499</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-06-29" to="1179-06-29">1179 Juni 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Magdeburg</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III kal. iulii, in curia sollempni Magdeburg celebrata)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotfridus imperialis aule canc. vice Cristiani Mogontini archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>in weitgehender Wiederholung des DK.III.241 (VU.) wohl mundiert von dem Magdeburger Schreiber Friedrich A (= Kanzleinotar Heinrich A), von dem wahrscheinlich die selbständig formulierte Arenga und in jedem Fall das DF.I.781 (= Reg. 2502) stammen</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg, Philipp von Köln und Konrad von Salzburg, die Bischöfe Anno von Minden, Hermann von Münster, Arnold von Osnabrück, Siegfried von Brandenburg und Martin von Meißen sowie weitere (namentlich nicht erwähnte) Fürsten</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">bischöfliche Kirche von Havelberg</hi>  unter Bischof Hubert in seinen Schutz, bestätigt ihr gemäß den Verfügungen seiner Vorgänger, insbesondere König Konrads (III.), die namentlich angeführten Besitzungen, darunter vor allem Schenkungen Markgraf Ottos (von Brandenburg) für den Bischof und das Domkapitel, weiters das Recht, wegen der häufigen Verwüstungen durch Heiden am Bischofssitz eine Stadt zu erbauen und dorthin sowie in alle Besitzungen neue Siedler zu rufen, die unter der ausschließlichen Herrschaft des Bischofs stehen sollen, das Recht zur Entgegennahme von Schenkungen, schränkt die dem Vogt zustehenden Abgaben auf das zu den Gerichtstagen übliche Vogteirecht ein, untersagt die Einsetzung von Untervögten und legt die Grenzen der Diözese im einzelnen fest. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg, Philipp von Köln und Konrad von Salzburg, die Bischöfe Anno von Minden, Hermann von Münster, Arnold von Osnabrück, Siegfried von Brandenburg und Martin von Meißen sowie weitere (namentlich nicht erwähnte) Fürsten</span>. — <span n="chancellor"><hi rend="italic">Gotfridus imperialis aule canc. vice Cristiani Mogontini archiep. et Germanie archicanc.</hi> </span>; <span n="clerk">in weitgehender Wiederholung des DK.III.241 (VU.) wohl mundiert von dem Magdeburger Schreiber Friedrich A (= Kanzleinotar Heinrich A), von dem wahrscheinlich die selbständig formulierte Arenga und in jedem Fall das DF.I.781 (= Reg. 2502) stammen</span>. <span n="incipit"><hi rend="italic">Pro racione debiti</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Pro racione debiti</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Bischöfliches Kopialbuch von Havelberg aus dem 15. Jh. im Brandenburgischen Staatsarchiv zu Potsdam, Pr. Br. Rep. 10A Hochstift Havelberg n<hi rend="sup">o</hi>  1 f. 3 (B). Drucke: Conrad, Pommersches UB.1, 105 n<hi rend="sup">o</hi>  81; MG.DF.I.780. Reg.: Stumpf 4282.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. — Die hier angeführte Schenkung Markgraf Ottos von Brandenburg, die Friedrich I. über den Wortlaut des DK.III.241 hinaus eigens bestätigte, findet sich bei Heinemann, CD. Anhalt, 1, 375 n<hi rend="sup">o</hi>  513.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0254" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_780" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

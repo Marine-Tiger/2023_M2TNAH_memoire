@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1688</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-07-30_1_0_4_2_2_1133_1688"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-07-30_1_0_4_2_2_1133_1688"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-07-30_1_0_4_2_2_1133_1688</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1688</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-07-30" to="1167-07-30">1167 Juli 30</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Rom">Rom</placeName>
+												<location><geo decls="#WGS">41.9667, 12.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich inthronisiert Papst Paschal III. nach vorhergehendem feierlichen Empfang durch das Heer in St. Peter. Der Papst feiert die Messe und krönt den Kaiser (Cont. Anonymi). Auf Wunsch des Kaisers (Chron. Magni presb. Reichersperg.) weiht Paschal 15 Elekten zu Patriarchen, Erzbischöfen, Bischöfen und Äbten, darunter namentlich Erzbischof Heribert von Besançon und Abt Hermann von Fulda sowie (wohl) die Bischöfe Ludwig von Basel und Rudolf von Straßburg.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 117 f. (zu Juli 29), Cont. Anonymi (Morena), ed. Güterbock, MG. SS rer. Germ. N. S. VII, 204, Ann. Aquenses, MG. SS XXIV, 38 (zu Juli 31; Weihe des Elekten von Besançon), Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 76 f. Anm. 9, Chron. Magni presb. Reichersperg., MG. SS XVII, 489; vgl. des weiteren Albertus Miliolus, Cronica imperatonun, MG. SS XXXI, 642 (zu 1164), Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 173 und 177 (teilweise wirr), Ex Annalibus Melrosensibus, MG. SS XXVII, 435, Ex Annalibus Teokesburiensibus, MG. SS XXVII, 464&amp;quot; Ex Annalibus Winchecumbensibus, MG. SS XVI, 481, Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 184 (zu 1166), Roberti de Monte Cron., MG. SS VI, 515 f., Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 255 f. und - zur vermutlichen Weihe der Bischöfe von Basel und Straßburg (beide damals bei Hofe, vgl. Regg. 1655, 1691 und 1713) - die Erwähnungen im Vorvertrag von Anagni (MG. DF. I. 658) und in dessen Bestätigung (MG. DF. I. 687). - Die Ann. Laubienses, MG. SS IV, 24 berichten, der Kaiser habe sich auf dem Weg vom Monte Mario zur Peterskirche den Fürsten im Schmuck der Krone gezeigt.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Giesebrecht, Kaiserzeit V, 546 und Giesebrecht - Simson, Kaiserzeit VI, 468.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0295" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

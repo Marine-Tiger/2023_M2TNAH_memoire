@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3028</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_1_0_4_2_4_452_3028"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_1_0_4_2_4_452_3028"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-00_1_0_4_2_4_452_3028</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426847636" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3028</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-01" to="1186-11-30">1186
+									(November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>–</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei im Stil der Privaturkunde verfasst, in 									Buchschrift vermutlich von einem Empfängerschreiber 									geschrieben</scribe>
+				
+				
+					<testis function="witnesses">aus der Reihe der 									Prälaten: Kanzler Johannes, Dompropst Heinrich (von Speyer), 									(Dom-)Dekan Ulrich (von Speyer), die Pröpste Diether von St. 									Wido (in Speyer), Konrad von St. German (in Speyer) und Konrad 									vom Dreifaltigkeitsstift (in Speyer), (Dom-)Kustos Albert (von 									Speyer) und (Dom-)Scholaster Andreas; aus der Reihe der 									Domkanoniker (von Speyer): Otto von (Alt-)Steußlingen, Albertus 										<hi rend="italic">Caluus</hi>, Ulrich von Quirnbach (<hi rend="italic">Quirenbach</hi>), Pförtner (<hi rend="italic">portarius</hi>) Konrad und Kellermeister Markward; aus der 									Reihe der Edelfreien (<hi rend="italic">ex liberalibus</hi>): 									Dietmar von Dertingen (<hi rend="italic">Therdingen</hi>), 									Ulrich Weiso, Drutwin von Quirnbach (<hi rend="italic">Quirinbach</hi>), Konrad von Rietberg und Gerung von 									Unterheinriet (<hi rend="italic">Hehenrieth</hi>); aus der Reihe 									der Ministerialen: Burchard von Kestenburg und sein Bruder 									Drushard, Kämmerer Dudo (des Bischofs von Speyer), Mundschenk 									Dietrich (des Bischofs von Speyer), Vogt Anselm (des Bischofs 									von Speyer), Wezel von Berg/Trifels, Heinrich von Niefern, 									Burchard von Erligheim (<hi rend="italic">Herlincheim</hi>), 									Ludwig von St. Leon und sein Bruder Albert sowie Berthold <hi rend="italic">Strubicho</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Zisterzienserkloster Herrenalb</hi> unter Abt Albert auf Bitten 								seines früheren <hi rend="italic">psymmista</hi> Otto von Köngen 									(<hi rend="italic">Kuningen</hi>), der jetzt Mönch in Herrenalb 								ist, dass ihm Eberhart von Strubenhart sein Lehen in Derdingen (<hi rend="italic">Therdingen</hi>) – dieses Lehen hatte Eberhart von 								Berthold von Schauenburg, dieser von ihm (= dem Kaiser) und er 								selbst wieder von der Speyerer Kirche, und zwar von Bischof Ulrich, 								inne – unter seiner (= des Kaisers) Vermittlung und mit Zustimmung 								Bischof Ulrichs sowie Bertholds von Schauenburg gegen finanzielle 								Abgeltung übertragen hat. Eberhart entschädigt die Speyerer Kirche 								angemessen, indem er ihr Eigengut in Wiernsheim überträgt und von 								ihr zu Lehen nimmt. <span n="witnesses">Z.: aus der Reihe der 									Prälaten: Kanzler Johannes, Dompropst Heinrich (von Speyer), 									(Dom-)Dekan Ulrich (von Speyer), die Pröpste Diether von St. 									Wido (in Speyer), Konrad von St. German (in Speyer) und Konrad 									vom Dreifaltigkeitsstift (in Speyer), (Dom-)Kustos Albert (von 									Speyer) und (Dom-)Scholaster Andreas; aus der Reihe der 									Domkanoniker (von Speyer): Otto von (Alt-)Steußlingen, Albertus 										<hi rend="italic">Caluus</hi>, Ulrich von Quirnbach (<hi rend="italic">Quirenbach</hi>), Pförtner (<hi rend="italic">portarius</hi>) Konrad und Kellermeister Markward; aus der 									Reihe der Edelfreien (<hi rend="italic">ex liberalibus</hi>): 									Dietmar von Dertingen (<hi rend="italic">Therdingen</hi>), 									Ulrich Weiso, Drutwin von Quirnbach (<hi rend="italic">Quirinbach</hi>), Konrad von Rietberg und Gerung von 									Unterheinriet (<hi rend="italic">Hehenrieth</hi>); aus der Reihe 									der Ministerialen: Burchard von Kestenburg und sein Bruder 									Drushard, Kämmerer Dudo (des Bischofs von Speyer), Mundschenk 									Dietrich (des Bischofs von Speyer), Vogt Anselm (des Bischofs 									von Speyer), Wezel von Berg/Trifels, Heinrich von Niefern, 									Burchard von Erligheim (<hi rend="italic">Herlincheim</hi>), 									Ludwig von St. Leon und sein Bruder Albert sowie Berthold <hi rend="italic">Strubicho</hi></span>. –<span n="clerk"> Außerhalb der Kanzlei im Stil der Privaturkunde verfasst, in 									Buchschrift vermutlich von einem Empfängerschreiber 									geschrieben</span>; <span n="seal">SI.2. </span><span n="incipit"><hi rend="italic">Scire universitatis 										vestre.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Scire universitatis 										vestre.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe 								(A). Drucke: Wirtemberg. UB. 2, 244 n<hi rend="sup">o</hi> 								446; MG.DF.I.954. Reg.: Stumpf 4470.</p></div>
+				
+				
+					<div type="commentary"><p>Aus der Entstehung außerhalb der Kanzlei erklärt 								sich auch die Verwendung des damals nicht mehr üblichen <hi rend="italic">sigillum impressum</hi> wie auch die auffällige 								Formulierung der Inscriptio (<hi rend="italic">presentibus et 									futuris tam clericis quam laicis omnibusque christiane 									religionis hominibus sub universi regiminis sui umbra manentibus 									gratiam et omne bonum</hi>); auch die Verwendung des in den DD. 								der Epoche völlig ungewöhnlichen Begriff <hi rend="italic">psymmista</hi>, worunter am ehesten ein „vertrauter Rat“ zu 								verstehen ist (vgl. dazu J. F. Niermeyer, Mediae Latinitatis Lexicon 								minus, Leyden 22002, Bd. 2, 1268, sub voce: „symmistes“), hängt wohl 								mit dieser Art der Entstehung zusammen. – Zu den Anfängen dieses 								Zisterzienserklosters vgl. Andermann, Zur „Gründungsurkunde“ des 								Klosters Herrenalb, in: Regionen Europas – Europa der Regionen. FS. 								für Kurt-Ulrich Jäschke zum 65. Geburtstag, hg. von Peter Thorau, 								Sabine Penth und Rüdiger Fuchs (2003) 78 ff. – Zu dem unter den 								Zeugen genannten Wezel von Berg vgl. Plassmann, Struktur des Hofes, 								246 und 277; zu Konrad von Rietberg Plassmann, a.a.O., 261; zu 								Gerung von Unterheinreit (Kr. Heilbronn) Plassmann, a.a.O., 285; 								hinsichtlich der Identifizierung des Dietmar von Derdingen (Kr. 								Karlsruhe) sowie der des Kanonikers Ulrich sowie des Drutwin von 								Quirnbach (Kr. Kusel) ist wohl gleichfalls Plassmann, a.a.O., 283 								bzw. 291, zu folgen. – Die zeitliche Einordnung ergibt sich aus dem 								Aufenthalt des Kaisers im Gebiet von Speyer im November 1186, vgl. 								Reg. 3026; man wird im Übrigen wohl davon ausgehen dürfen, dass 								Friedrich damals nicht nur das Gebiet von Speyer, sondern auch die 								Stadt und damit das Grab seiner zwei Jahre zuvor verstorbenen 								Gemahlin Beatrix (siehe dazu oben Reg. 2818) aufsuchte, vgl. dazu 								Opll, Itinerar, 90 und 227, sowie Ehlers, Metropolis Germaniae 								(Veröff. des Max-Planck-Instituts für Geschichte 125, 1996) 175 ff., 								der an den 15. November, den zweiten Todestag der Kaiserin, als Tag 								des Aufenthalts des Herrschers in Speyer denkt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1409300090" value="2014-08-29"></date><p n="author">Christian Burkhart, Dossenheim (RNK)</p><p>Entgegen einer im 19. Jh. aufgekommenen falschen, aber noch heute verbreiteten Ansicht (vgl. u. a. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Plassmann,_Hof_unter_Friedrich" type="external" n="opac">Plassmann</ref>, a.a.O., S. 200 / Anm. 160, S. 204, S. 205 / Anm. 189, S. 283, S. 290, S. 291 u. S. 318) gehören der Edelfreie Konrad von Quirnbach (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_3" type="external" n="opac">RI IV,2,3</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-31_1_0_4_2_3_688_2460.html" type="external" n="unkown">2460</ref>: Speyer, 31.10.1178) sowie der Speyerer Domkanoniker Ulrich von Quirnbach und der Edelfreie Drutwin von Quirnbach <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_4" type="external" n="opac">RI IV,2,4</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-4-friedrich-i/nr/1186-11-00_1_0_4_2_4_452_3028.html" type="external" n="unkown">3028</ref>: o.O., [??.11.]1186), wie überhaupt sämtliche in 22 Quellen um 1090 bis 1231 genannten Herren von Quirnbach nicht nach Quirnbach in der Westpfalz (Lkr. Kusel, RP) [Landkapitel Glan im Archidiakonat des Dompropstes von Mainz], sondern nach Kürnbach im Kraichgau (Lkr. Karlsruhe, BW) [Landkapitel Bretten im rechtsrheinischen Archidiakonat des Propstes von St. Guido zu Speyer]. Entsprechend ist die Zuordnung des Edelfreien Drutwin von Quirnbach (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_3" type="external" n="opac">RI IV,3</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-3-0-heinrich-iv/nr/1196-01-21_1_0_4_3_1_585_495.html" type="external" n="unkown">495</ref>: Hagenau, 21.01.1196), hier Register S. 85 u. 129 (Kürnbach, früher: Lkr. Sinsheim = heute: Lkr. Karlsruhe, BW) korrekt.
+</p>
+<p></p>
+<p>Das geht hervor aus: 
+</p>
+<p>- Eduard Edwin <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Becker,_Kondominat_Kürnbach" type="external" n="opac">Becker</ref>, Geschichte des Kondominats zu Kürnbach bis 1598 [mit Beilagen]. In: Archiv für hessische Geschichte und Altertumskunde NF 4 (Darmstadt 1907) S. 1-154, hier S. 12 mit Anm. 1-15 (Exkurs I).
+</p>
+<p>- <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Dolch,_Siedlungsnamensbuch_Pfalz" type="external" n="opac">Martin Dolch / Albrecht Greule</ref>, Historisches Siedlungsnamenbuch der Pfalz [= Veröffentlichungen der Pfälzischen Gesellschaft zur Förderung der Wissenschaften in Speyer 83], Speyer 1991, S. 374.
+</p>
+<p>- Hans <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Fell,_Kirchenorganisation_Speyer" type="external" n="opac">Fell</ref>, „... APUD SANCTUM MARTINUM ...“ – Ein Splitter zur frühen Kirchenorganisation des Bistums Speyer, in: Archiv für mittelrheinische Kirchengeschichte 47 (1995) S. 371-404, hier S. 377 / Anm. 12n.
+</p>
+<p>- Michael <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Münch,_Quirnbach_und_Liebsthal" type="external" n="opac">Münch</ref>, Aus Quirnbachs und Liebsthals mittelalterlicher Vergangenheit, in: Roland Paul / Dieter Zenglein (Bearb.), Quirnbach – Beiträge zur Ortsgeschichte. Festschrift zur 850-Jahrfeier der Gemeinde, Kusel 2002, S. 13-23, hier S. 13u. S. 20.
+</p>
+<p>- Christian <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Burkhart,_Besiedlung_Odenwald" type="external" n="opac">Burkhart</ref>, Bischof Konrad I. von Worms und die Ahnen des Minnesängers Bligger von (Neckar-)Steinach – Neue Erkenntnisse zur Besiedlung des südlichen Odenwaldes im hohen Mittelalter, in: Der Wormsgau 29 (2012) S. 31-63, hier S. 51ff.
+</p>
+<p>- Christian <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Burkhart,_Bligger" type="external" n="opac">Burkhart</ref>, BLIGGER – Der Minnesänger mit der Harfe, der kein (Neckar-)Steinacher mehr sein wollte, in: Archiv für hessische Geschichte und Altertumskunde NF 72 (2014) S. 1-46, hier S. 25f.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_954" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

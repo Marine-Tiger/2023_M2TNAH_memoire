@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 298</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-15_1_0_4_2_1_298_298"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-15_1_0_4_2_1_298_298"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-15_1_0_4_2_1_298_298</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238422" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 298</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-15" to="1155-05-15">1155 Mai 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Bologna</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(idus maii, in territorio Bononiensi)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Benediktbeuern</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter ausgiebiger Benützung des DK. III. 87 (VU. I) und Übernahme einer Reihe von Wendungen aus dem gefälschten DH. III. 362 b (VU. II; vgl. Dettloff, Der erste Römerzug 58 ff.) bis auf die von A II. D herrührende Signumzeile und das Monogramm sowie die v</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Kloster <span sameAs="recipient"><hi rend="spaced">Benediktbeuern</hi> </span>  (<hi rend="italic">abbatiam in honore sancti Benedicti constructam nomine Burin in episcopatu Augustensi ad radices montium sitam</hi>) in seinen Schutz, bestätigt die Entscheidungen seiner Vorgänger Heinrich (III.), Lothar (III.) und Konrad (III.), die Besitzungen, verleiht das Bergregal (<hi rend="italic">Omnia ergo, quecunque gignit humus, sive sub fossa humo sive sint vene salis vel ferri vel argenti vel cuiuslibet metalli</hi>), befreit die Abtei von Dienstleistungen an das Reich (<hi rend="italic">neque nobis neque alicui successorum nostrorum ... aliquod servitium ex eodem loco deinceps offerri</hi>), trifft Bestimmungen über die freie Vogtwahl sowie die rechtliche Stellung des Vogtes und ist bereit, etwaige Restitutionen des Herzogs von Bayern, die auch dessen Nachfolger im Herzogtum zu respektieren hat, anzuerkennen. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">unter ausgiebiger Benützung des DK. III. 87 (VU. I) und Übernahme einer Reihe von Wendungen aus dem gefälschten DH. III. 362 b (VU. II; vgl. Dettloff, Der erste Römerzug 58 ff.) bis auf die von A II. D herrührende Signumzeile und das Monogramm sowie die von dritter Hand (wohl auch Empfänger) stammende Rekognitionszeile und Datierung von einem Empfängerschreiber verfaßt und geschrieben</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Imperialis maiestas ab omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis maiestas ab omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Kop.: Gleichzeitige Abschrift ohne Rekognitionszeile und Datierung ebenda (B). Drucke: Mon. Boica 7, 106 n<hi rend="sup">o</hi>  19; MG. DF. I. 106. Reg.: Stumpf 3709.</p></div>
+				
+				
+					<div type="commentary"><p>Zum diplomatischen Befund vgl. Ficker, Beiträge zur Urkundenlehre 2, 126 f. und die Vorbemerkung zu DF. I. 106. Kurz vorher hatte Benediktbeuern in Rom ein Privileg Hadrians IV. (JL. 10.029 von 1155 April 17; Germ. pont. 2/1, 73 n<hi rend="sup">o</hi>  8) erhalten, das ebenfalls die Regelung der Vogteifrage berührt, vgl. auch Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 309 mit Anm. 2. Zur Bewertung der gleichzeitigen Kopie (B), die einige stilistische Verbesserungen aufweist, vgl. Hirsch, Vorbemerkung zu DL. III. 77. Das Fehlen der Rekognition und des Datums in B darf jedoch nicht, wie Hirsch a. a. O. vorgeschlagen hat, so aufgefaßt werden, daß B eine Art Entwurf für A darstellt. Es könnte, wie schon Simonsfeld, Jahrbücher 312 mit Anm. 110 angenommen hat, darauf hindeuten, daß die Absicht bestand, eine stilistisch verbesserte Neuausfertigung zu erwirken; vgl. Vorbemerkung zu DF. I. 106. -Nachurkunde Friedrichs II. vom April 1230 (B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1168-03-15_1_0_4_2_3_4_1779.html" type="internal" n="regesten">1779</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0101" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210227%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_106" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

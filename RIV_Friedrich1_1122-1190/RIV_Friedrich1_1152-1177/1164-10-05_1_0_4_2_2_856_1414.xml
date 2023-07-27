@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1414</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-10-05_1_0_4_2_2_856_1414"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-10-05_1_0_4_2_2_856_1414"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-10-05_1_0_4_2_2_856_1414</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246699" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1414</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-10-05" to="1164-10-05">1164 Oktober 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg Belforte</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  non. octobris, in castro Belforth)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D oder eher B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wilhelm von Montferrat</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice domini Reinaldi Coloniensis electi et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Graf Guido von Biandrate, Gebhard von Leuchtenberg, Markward von Grumbach, Ubert, Sohn des Grafen von Biandrate, Marschall Heinrich, Arnold Barbavaria, Mundschenk Konrad, Kämmerer Rüdiger</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt den Markgrafen <span sameAs="recipient"><hi rend="spaced">Wilhelm von Montferrat</hi> </span>  und dessen Erben auf Intervention der Kaiserin Beatrix mit den namentlich genannten Besitzungen samt allen zugehörigen Regalien und Rechten, vorbehaltlich des königlichen Fodrums und des Treueids gegenüber dem Reich. <span n="witnesses">Z.: Graf Guido von Biandrate, Gebhard von Leuchtenberg, Markward von Grumbach, Ubert, Sohn des Grafen von Biandrate, Marschall Heinrich, Arnold Barbavaria, Mundschenk Konrad, Kämmerer Rüdiger</span>. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice domini Reinaldi Coloniensis electi et Ytalię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SP. D oder eher B. D. </span>  <span n="incipit"><hi rend="italic">Excellentissima imperii Romani</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Excellentissima imperii Romani</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Turin (A). Drucke: Gasparolo, Cartario alessandrino 3, BSSS 117 (1930) 69 n<hi rend="sup">o</hi>  469; MG. DF. I. 466. Reg.: Gasparolo, Cartario alessandrino 2, BSSS 115 (1930) 13 n<hi rend="sup">o</hi>  190; Stumpf 4031.</p></div>
+				
+				
+					<div type="commentary"><p>Die Intervention der Kaiserin weist darauf hin, daß dieses D. als Dank dafür aufzufassen ist, daß sich der Markgraf des in diesem Jahr geborenen Sohnes des Kaisers (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-07-16_1_0_4_2_2_823_1381.html" type="internal" n="regesten">1381</ref>) annahm, als der Herrscher über die Alpen zog, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-00_1_0_4_2_2_860_1418.html" type="internal" n="regesten">1418</ref>. - Zur Frage der Besiegelung vgl. MG. DDF. I. Bd. 5 (Einleitung).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0227" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_466" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

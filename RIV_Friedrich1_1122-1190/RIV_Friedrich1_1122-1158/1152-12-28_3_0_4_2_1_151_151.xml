@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 151</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_3_0_4_2_1_151_151"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-12-28_3_0_4_2_1_151_151"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-12-28_3_0_4_2_1_151_151</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1458737681" value="2016-03-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 151</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-12-28" to="1152-12-28">(1152 Dezember 28)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Trier?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient>H. von <hi rend="spaced">Thiel</hi>  <hi rend="spaced">Floreffe</hi></recipient>
+				
+				
+				
+					<scribe>Vielleicht von Wibald verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt seinem Ministerialen <span sameAs="recipient">H. von <hi rend="spaced">Thiel</hi> </span>  (<hi rend="italic">Tiela</hi>) auf Klagen des Abtes und der Brüder der Kirche von <hi rend="spaced">Floreffe</hi>, ein zur Verzollung festgehaltenes Schiff dieses Stiftes freizugeben und derartige Übergriffe nicht zu wiederholen. - <span n="clerk">Vielleicht von Wibald verfaßt</span>. <span n="incipit"><hi rend="italic">Conquestus est nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Conquestus est nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Chartular des Stiftes Floreffe von 1292 f. 174 n<hi rend="sup">o</hi>  1, Staatsarchiv Namur (B). Drucke: Barbier, Hist, de Floreffe ed. 2, 2, 20 n<hi rend="sup">o</hi>  34 zu 1160; MG. DF. I. 41.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung zu 1160 ist nicht mit dem Königstitel zu vereinbaren, aus inneren Gründen wurde das Mandat zu DF. I. 40 gestellt, vgl. die Vorbemerkung zu DF. I. 41. - Der dem Stil der Kurie entsprechende Eingang <hi rend="italic">Conquestus est nobis</hi>  war damals weit verbreitet und muß nicht auf den kurial geschulten Notar A II. C zurückgehen; zur Verfasserfrage vgl. Hausmann, Reichskanzlei 171.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0054" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_41" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

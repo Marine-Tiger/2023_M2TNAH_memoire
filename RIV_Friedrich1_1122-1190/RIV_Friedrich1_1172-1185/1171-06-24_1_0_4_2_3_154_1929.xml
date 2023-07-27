@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1929</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-06-24_1_0_4_2_3_154_1929"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-06-24_1_0_4_2_3_154_1929"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-06-24_1_0_4_2_3_154_1929</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597225" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1929</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-06-24" to="1171-06-24">1171 Juni 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Köln">Köln</placeName>
+												<location><geo decls="#WGS">50.9333, 6.95</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VII<hi rend="sup">o</hi>  kal. iulii, Colonię)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus imperialis aule canc. vice Christiani Moguntine sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter unvollkommener Insertion des DK.III.93 (VU.) in den selbständigen Partien wohl verfaßt von UB, der auch das Monogramm eingezeichnet hat, ansonsten sicherlich von einem Empfängerschreiber mundiert;</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Trier und Philipp von Köln, Bischof Gottfried von Utrecht, Dompropst Rudolf von Trier, Dompropst Bruno von Köln, die Pröpste Simon von St. Gereon (zu Köln), Konrad von St. Severin (zu Köln) und Lothar von Bonn, Herzog Berthold von Zähringen, die Grafen Emicho von Leiningen, Eberhard von Sayn und Ulrich von Nürburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert dem <hi rend="spaced">Augustiner-Chorherrenstift Springiersbach</hi>  (<hi rend="italic">Sprenkisbach</hi>) auf Intervention von dessen Abt Gottfried, des Enkels von dessen Gründerin Benigna, das wörtlich inserierte Privileg seines Vorgängers, König Konrads III. (DK.III.93), und fügt die Bestätigung des Besitzes der Kirche zu Kaimt (<hi rend="italic">Keimetan</hi>) hinzu, die der verstorbene Erzbischof Albero von Trier dem Stift übertragen hat. <span n="witnesses">Z.: die Erzbischöfe Arnold von Trier und Philipp von Köln, Bischof Gottfried von Utrecht, Dompropst Rudolf von Trier, Dompropst Bruno von Köln, die Pröpste Simon von St. Gereon (zu Köln), Konrad von St. Severin (zu Köln) und Lothar von Bonn, Herzog Berthold von Zähringen, die Grafen Emicho von Leiningen, Eberhard von Sayn und Ulrich von Nürburg</span>. — <span n="chancellor"><hi rend="italic">Heinricus imperialis aule canc. vice Christiani Moguntine sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter unvollkommener Insertion des DK.III.93 (VU.) in den selbständigen Partien wohl verfaßt von UB, der auch das Monogramm eingezeichnet hat, ansonsten sicherlich von einem Empfängerschreiber mundiert;</span> <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Imperatorię maiestatis á deo</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis á deo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Druck: MG.DF.I.579. Regg.: Goerz, Mittelrhein.Reg. 2, 86 n<hi rend="sup">o</hi>  296; Stumpf 4125.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D; zur Schenkung der Kirche von Kaimt an das Stift vgl. die Urkunde Erzbischof Alberos von Trier aus dem Jahre 1142 (Beyer, Mittelrhein.UB. 1, 583 n<hi rend="sup">o</hi>  527). — Graf Ulrich von Nürburg ist identisch mit Graf Ulrich von Ahr (Kr. Ahrweiler), vgl. dazu Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 275; der Trierer Dompropst Rudolf kommt bereits in älteren DDF.I. als Dekan von Trier und in den 1180er Jahren dann als Erzbischof von Trier vor, vgl. zu ihm Plassmann, a.a.O., 290.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0062" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_579" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

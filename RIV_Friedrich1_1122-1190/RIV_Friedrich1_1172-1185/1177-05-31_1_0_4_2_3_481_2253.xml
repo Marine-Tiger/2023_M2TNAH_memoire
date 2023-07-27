@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2253</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-31_1_0_4_2_3_481_2253"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-31_1_0_4_2_3_481_2253"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-05-31_1_0_4_2_3_481_2253</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601882" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2253</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-05-31" to="1177-05-31">1177 Mai 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Kloster S. Giacomo zu Volano im Erzbistum Ravenna</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(II kal. iunii mensis, apud cellam sancti Iacobi in Uolana in archiepiscopatu Rauennati)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung des DF.I.487 für Kastl (Reg. 1490; VU.I), des DK.III.83 und des Privilegs Alexanders III. von 1177 April 28 (Jaffé-L. 12.815, Germ.Pont.1, 317 n<hi rend="sup">o</hi>  7; VU.II) von Seiten des Empfängers verfaßt, dann von Burkhard überarbeitet un</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Christian von Mainz, Philipp von Köln, Wichmann von Magdeburg und Arnold von Trier, die Bischöfe Hartwig von Augsburg, Hermann von Bamberg, Eberhard von Merseburg und Adelhog (<hi rend="italic">Adilo</hi>) von Hildesheim, Graf Florentius von Holland, Markgraf Dietrich der Lausitz und sein Bruder Graf Dedo (von Groitzsch), Graf Heinrich von Diez, Dompropst Otto von Bamberg, Propst Eberhard von St. Jakob (zu Bamberg), Propst Burchard von (St. Maria und Gangolf zu) Theuerstadt, die Grafen Berthold von Tirol und Heinrich von Eppan, Albero von Burgeis, Hugo von Taufers, Eberhard von Reifenberg und sein Bruder Reinald sowie Hademar von Ahausen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt <hi rend="spaced">Abt Isinrich von Biburg</hi>  mit seinem Kloster, dessen Brüdern, Hintersassen und Besitzungen in seinen Schutz, bestätigt ihm Übertragungen seitens des Ministerialen Ortolf von Dirschhofen, des Edelfreien Bruder Wolfher, des Bischofs Eberhard von Trient sowie des Vogtes der Trientner Kirche, des Grafen Berthold von Tirol, und des Bischofs Hartmann von Brixen und dessen Nachfolgern sowie die namentlich angeführten klösterlichen Besitzungen, legt fest, daß der Abt und die Brüder mit Rat und Hilfe des Bamberger Bischofs sich einen geeigneten Vogt wählen dürfen, der sein Amt nur für sein Seelenheil ausüben, es nicht vererben darf und gegebenenfalls unter Zustimmung des Bamberger Bischofs abgesetzt werden kann, schenkt dem Kloster den in seinen Grenzen angegebenen Reichsforst an der Isar und gewährt ihm das Recht des Erzabbaues auf Klostergrund. <span n="witnesses">Z.: die Erzbischöfe Christian von Mainz, Philipp von Köln, Wichmann von Magdeburg und Arnold von Trier, die Bischöfe Hartwig von Augsburg, Hermann von Bamberg, Eberhard von Merseburg und Adelhog (<hi rend="italic">Adilo</hi>) von Hildesheim, Graf Florentius von Holland, Markgraf Dietrich der Lausitz und sein Bruder Graf Dedo (von Groitzsch), Graf Heinrich von Diez, Dompropst Otto von Bamberg, Propst Eberhard von St. Jakob (zu Bamberg), Propst Burchard von (St. Maria und Gangolf zu) Theuerstadt, die Grafen Berthold von Tirol und Heinrich von Eppan, Albero von Burgeis, Hugo von Taufers, Eberhard von Reifenberg und sein Bruder Reinald sowie Hademar von Ahausen</span>. — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Ytalie archicanc.</hi> </span>; <span n="clerk">unter Heranziehung des DF.I.487 für Kastl (Reg. 1490; VU.I), des DK.III.83 und des Privilegs Alexanders III. von 1177 April 28 (Jaffé-L. 12.815, Germ.Pont.1, 317 n<hi rend="sup">o</hi>  7; VU.II) von Seiten des Empfängers verfaßt, dann von Burkhard überarbeitet und geschrieben</span>; <span n="seal">SP.</span>  <span n="incipit"><hi rend="italic">Ratio suadet et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ratio suadet et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Kloster Biburg Urkunden 2a (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 424 n<hi rend="sup">o</hi>  530; MG.DF.I.672. Faks.: Herkenrath, Reichskanzlei 1174 bis 1180, Abb.2 Teilfaks. Reg.: Stumpf 4195.</p></div>
+				
+				
+					<div type="commentary"><p>Zur kanzleigeschichtlichen Beurteilung sowie zur Anordnung der — ebenso wie in DF.I.669 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-03-22_1_0_4_2_3_470_2242.html" type="internal" n="regesten">2242</ref>) — nachträglich erweiterten Zeugenliste (beginnend mit Dompropst Otto von Bamberg) vgl. die Vorbemerkung zum D. — Zu dem Zeugen Albero von Burgeis (= identisch mit Albero von Wangen) und Dompropst Otto von Bamberg, zugleich Propst von Aachen, vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 258, 270 und 279. — Zum D. vgl. auch Tyroller, Schirmvögte des Klosters Biburg, Verhh.d.Hist. Ver.f.Niederbayern 53 (1917) 87 f. — Zum Ausstellungsort vgl. Kehr, Italia pont. 5, 176 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0170" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_672" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

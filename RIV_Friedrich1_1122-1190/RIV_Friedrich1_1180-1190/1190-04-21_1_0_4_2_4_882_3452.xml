@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3452</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-21_1_0_4_2_4_882_3452"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-21_1_0_4_2_4_882_3452"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-21_1_0_4_2_4_882_3452</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3452</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-21" to="1190-04-21">1190
+									April 18–21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">civitas Ayos/Alos</hi> (Mermere oder Dereköi bei Sardes?) –  <hi rend="italic">Sardes</hi> (Sart) – <hi rend="italic">Philadelphia</hi> (heute: Alaşehir)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Am 18. April zieht man an der <hi rend="italic">civitas Ayos/Alos</hi> vorbei. – Am 21. April trifft das 								Kreuzheer nach dem Weitermarsch über <hi rend="italic">Sardes</hi> 								in <hi rend="italic">Philadelphia</hi> ein. Entgegen den 								Versprechungen des byzantinischen Kaisers und seiner Fürsten werden 								die Kreuzritter hier seitens des örtlichen Befehlshabers (<hi rend="italic">dux</hi>; Basilios Vatatzes) und der Bürger nicht 								in entsprechender Weise versorgt. Als einzelne Kreuzfahrer bei 								Einkäufen in der Stadt mit den Einheimischen in Streit geraten, dort 								eine Zeit lang gefangen gehalten und dann wieder freigelassen 								werden, entsendet Kaiser Friedrich einen Boten in die Stadt, um eine 								Erklärung zu fordern. Der <hi rend="italic">dux</hi> und die <hi rend="italic">meliores</hi> der Stadt versprechen Genugtuung, 								und Friedrich, der sogar einem Angriff auf eines der Stadttore durch 								böhmische Truppen und Truppen des Bischofs (Konrad) von Regensburg 								Einhalt gebieten muss, zieht eine friedliche Regelung vor. Trotz 								dieses Vorfalls entlässt der Kaiser die letzten (fünf) 								byzantinischen Geiseln, die er bisher noch bei sich gehabt hat. Hier 								schließt sich dem Kreuzheer eine Abteilung italienischer 								Bogenschützen an.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 513; 								Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 73 f. (deutsche Übersetzung von Bühler, Der Kreuzzug 								Friedrich Barbarossas, 128); Epistola de morte, ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 174; Hist. peregrinorum, ed. Chroust, MG. SS rer. 								Germ. N.S. 5, 154; Niketas Choniates II/6, ed. Bekker, 539 bzw. ed. 								van Dieten, 412 (deutsche Übersetzung bei Grabler, Abenteurer auf 								dem Kaiserthron, 216); Tageno, ed. Struve, Rerum Germanicarum 								Scriptores I (1717) 411; vgl. des Weiteren auch Chron. Montis 								Sereni, MG. SS XXIII, 162; Gesta Fed. I. imp. in expeditione sacra, 								ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 84 ff. (mit 								teilweise wohl legendenhaft entstellten Berichten); Iohannes de 								Piscina de transfretatione Friderici I., MG. SS XXII, 340 (berichtet 								über ein vom Kaiser angesichts der Strapazen seines Heeres 								geleistetes Gelübde, eine Georgskirche – also dem Ritterheiligen – 								zu stiften, falls man über die Feinde triumphieren werde, siehe dazu 								unten Regg. 3459); Sicardi ep. Cremon. Cronica, MG. SS XXXI, 170; 								vgl. Alberti Milioli Cron. imp., MG. SS XXXI, 648; Salimbene de 								Adamo von Parma, Chronica, MG. SS XXXII, 10; die Entlassung der 								griechischen Geiseln erwähnt auch der Brief des Katholikos 								(Patriarchen) von Armenien Gregor (IV.) an Sultan Saladin, der im 								Bericht des `Imâd ad-Dîn al-Isfahânî, Conquête de la Syrie et de la 								Palestine par Saladin (al-Fath al-qussî fî l-fath al-qudsî), trad. 								par H. Massé (Documents relatifs a l’Histoire des Croisades. 								Académie des inscriptions et belles-lettres X, 1972) 229 f. (eine 								alte deutsche Übersetzung bei Wilken, Geschichte der Kreuzzüge 4, 3 								ff.) überliefert und auch in englischer Übersetzung bei Bahā’ 								al-Dīn, History of Saladin, transl. by D. S. Richards (2002) 114 								ff., verfügbar ist (siehe zu dieser Quelle die Hinweise in den 								Quellenangaben bei Reg. 3367).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Eickhoff, Barbarossa im Orient, 94 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

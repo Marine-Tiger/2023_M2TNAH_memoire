@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3247</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-16_2_0_4_2_4_674_3247"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-04-16_2_0_4_2_4_674_3247"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-04-16_2_0_4_2_4_674_3247</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3247</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-04-16" to="1189-04-16">(1189
+									wohl um April 16)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Selz)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt den nach dem Tod Abt Ottos von 								Selz endgültig durch einen Kompromiss vor ihn gelangten Rechtsstreit 								zwischen den Abteien Selz und St. Walburg um die Zehentrechte im 								Heiligen Forst (vgl. Reg. 2745) an erfahrene Männer, nämlich Abt 								Gundelach von Weißenburg, Abt Erenbert von Neuburg, Dekan Ulrich von 								Speyer, Vogt Rüdiger <hi rend="italic">Nemoris</hi> (= vom Heiligen 								Forst bzw. von Hagenau), Gottfried von Fleckenstein und Schultheiß 								Billung von Hagenau, deren Urteil sich beide Parteien fügen mögen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in der diesen Rechtsstreit beendenden 								Urkunde Abt Helmwichs von Selz von 1190 (April), ed. 								Scheffer-Boichorst, Kleinere Forschungen, MIÖG 9 (1888) 213 f. n<hi rend="sup">o</hi> 3; Burg, Haguenau, Études Haguenoviennes N.S. 								5 (1965–70) 71 n<hi rend="sup">o</hi> 36; Diestelkamp – Rotter, 								Urkundenregesten 1, 411 n<hi rend="sup">o</hi> 522.</p></div>
+				
+				
+					<div type="commentary"><p>Diesen Rechtsstreit hatte bereits der Vorgänger 								Abt Helmwichs, Otto, den päpstlichen Legaten Johannes von Anagni, 								Kardinalpresbyter von S. Marco, und Bischof Petrus von Luni in 								Straßburg (wohl im Jahre 1183, vgl. Scheffer-Boichorst, a.a.O., 214) 								zur Entscheidung vorgelegt (vgl. Reg. 2745); er war aber dann in der 								Folge mit deren Zustimmung dem Kaiser unterbreitet worden. – Die 								zeitliche Einreihung des kaiserlichen Eingreifens in den Fall ergibt 								sich zum einen aus dem Hinweis in der Urkunde, dass der Kaiser 								diesen Fall endgültig übernommen habe, als er sich für den Kreuzzug 								rüstete (<hi rend="italic">tandem in manum dicti Friderici 									imperatoris compromisimus, cum esset idem imperator in procinctu 									expeditionis Jherosolimitane constitutus</hi>), zum anderen aus 								der mehrfachen Übereinstimmung der vom Kaiser mit der Behandlung 								dieses Falles Beauftragten mit den in Reg. 3246 genannten 								Zeugen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1764a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1168-00-00_4_1_4_2_2_1209a_1764a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1168-00-00_4_1_4_2_2_1209a_1764a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-00-00_4_1_4_2_2_1209a_1764a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358509610" value="2013-01-18"></date>
+				<date type="lastmod" n="1358509610" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1764a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1167-12-31">(vor 1168)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erwirbt um 1600 Mark Silber von Graf Heinrich von Luxemburg-Namur und dessen Mutter Ermesindis die Stadt Maastricht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gislebert von Mons, ed. Vanderkindere, 90.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Vollmer, Reichs- und Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 266 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die Datierung der Verpfändung der Stadt Maastricht an den Kaiser durch Gräfin Ermesinde von Luxemburg-Namur und ihren Sohn, Graf Heinrich (IV.), in die Zeit Friedrich Barbarossas ist mehr als zweifelhaft. Vollmer, Reichs- und Territorialpolitik, masch. Phil. Diss. (Freiburg i. Br. 1951) 266 f., hat sie nach dem Hinweis vorgenommen, dass die Verpfändung an den <hi rend="italic">imperator</hi> erfolgte. Dagegen weist Schaller, Zeugen und Zeugenlisten in hennegauischen Privaturkunden des 12. Jahrhunderts, masch.
+</p>
+<p>Phil. Diss. (Wien 2009) 26–34, zu Recht darauf hin, dass dieser Rechtsakt zwischen dem Tod des Vaters Graf Heinrichs (IV.), Graf Gottfried von Namur, am 19. August 1139 und dem seiner Mutter Ermesinde am 25. Juni 1141 vollzogen worden sein muss. Er folgt damit der älteren, von Vollmer nicht beachteten Arbeit von Wampach, Urkundenbuch I, 582–584 Nr. 414, und zeigt, dass die Verwendung des Kaisertitels für Konrad III. nach dem in der Quelle (Gislebert von Mons) gängigen Sprachgebrauch kein Argument für eine Datierung auf Friedrich Barbarossa darstellt. – Reg. 1764a ist somit zu streichen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330290" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. XV.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

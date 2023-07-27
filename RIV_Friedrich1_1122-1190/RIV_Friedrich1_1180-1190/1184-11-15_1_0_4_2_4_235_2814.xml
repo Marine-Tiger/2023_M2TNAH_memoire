@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2814</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_1_0_4_2_4_235_2814"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_1_0_4_2_4_235_2814"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-15_1_0_4_2_4_235_2814</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2814</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-15" to="1184-11-15">(1156
+									Juni – 1184 November 15)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und seine Gemahlin Beatrix bestätigen eine 								seit mehr als dreißig Jahren bestehende <hi rend="spaced">Bruderschaft von Geistlichen und Laien (in Goslar)</hi>, die 								sich der Unterstützung armer und kranker Mitbürger und der Fürsorge 								für deren Begräbnis und Gedächtnis widmet, wobei die Höhe der 								wöchentlichen Unterstützung für erkrankte Mitbürger, die 								Aufwendungen für Begräbnisse, die jährliche Stiftung von Wachs zu 								Ehren der hl. Maria und Strafen für das Versäumnis der wöchentlich 								zu erbringenden Zahlungen von Seiten der Mitbrüder festgelegt 								werden. – Eine unter Heranziehung einer ebenfalls undatierten 								Urkunde über die Stiftung dieser Bruderschaft (Bode, UB. 1, 298 n<hi rend="sup">o</hi> 266) außerhalb der Kanzlei entstandene, 								unbesiegelte Aufzeichnung, die nicht den Charakter einer 								Originalurkunde, sondern einer nachträglichen, unbeglaubigten 								Niederschrift trägt. <hi rend="italic">Noverint universi tam</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: Aufzeichnung aus dem späten 12. oder 								dem frühen 13. Jh., Stadtarchiv Goslar (A). Drucke: Bode, UB. 								Stadt Goslar 1, 297 n<hi rend="sup">o</hi> 265; 								MG.DF.I.1013. Reg.: Stumpf 4567.</p></div>
+				
+				
+					<div type="commentary"><p>Die Schrift zeigt zwar fortgeschrittene Züge, 								könnte jedoch noch aus der letzten Lebenszeit der Kaiserin stammen. 								– <hi rend="italic">Terminus post quem </hi>ist die Hochzeit des 								Kaiserpaares im Juni 1156 (nicht wie in den DDF.I.: Mai), vgl. dazu 								oben Reg. 398; die Rechtshandlung gehört wohl zu einem der 								Aufenthalte des Kaiserpaares in Goslar. – Die enge Verbindung des 								staufischen Paares zu dieser Bruderschaft erhellt nicht nur aus dem 								in der Vorlage (Bode, UB. 1, 298 n<hi rend="sup">o</hi> 266) 								angeführten Stiftungszweck (<hi rend="italic">pro salute corporis et 									animę venerabilis domini nostri imperatoris Friderici et 									venerabilis coniugis suę imperatricis Beatricis</hi>), sondern 								auch daraus, dass es im D. ausdrücklich <hi rend="italic">nostra 									fraternitas</hi> und <hi rend="italic">nostri confratres</hi> 								heißt. – Vgl. zum D. Frölich, Beiträge zum älteren 								Brüderschaftswesen, Zs. d. Harz-Vereins f. Gesch. u. Altertumskunde 								55 (1922) 19 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

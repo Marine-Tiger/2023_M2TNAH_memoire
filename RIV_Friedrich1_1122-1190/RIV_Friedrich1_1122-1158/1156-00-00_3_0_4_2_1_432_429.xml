@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 429</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_3_0_4_2_1_432_429"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_3_0_4_2_1_432_429"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-00-00_3_0_4_2_1_432_429</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239237" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 429</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-12-26" to="1157-02-01">(1156 nach Weihnachten oder Anfang 1157)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wibald</hi>  <hi rend="spaced">Corvey</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet Abt <span sameAs="recipient"><hi rend="spaced">Wibald</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Corvey</hi> </span>  über seine letzten Unternehmungen, die Feier des Weihnachtsfestes in Speyer (s. Regg. 424 und 425) und über seinen Plan, an Mariä Reinigung (Februar 2) zur Befestigung des Landfriedens (<hi rend="italic">pro bono pacis firmando</hi>) in Ulm einen Hoftag abzuhalten; danach wolle er an den Niederrhein (<hi rend="italic">ad inferiores Reni partes</hi>) ziehen, um gegen dortige Friedensbrecher ein Exempel zu statuieren. Er lädt Wibald ein, ihn aufzusuchen, und stellt ihm die Sühne des erlittenen Unrechts in Aussicht. - <span n="incipit"><hi rend="italic">De statu nostrę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">De statu nostrę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 12. Jh. im Cod. Wibaldi f. 150', Staatsarchiv Lüttich (B). Drucke: Jaffé, Mon. Corb. 579 n<hi rend="sup">o</hi>  448; MG. DF. I. 154.</p></div>
+				
+				
+					<div type="commentary"><p>Das Schreiben ist die Antwort auf den Brief Wibalds aus der Spätzeit des Jahres 1156 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-00-00_2_0_4_2_1_431_428.html" type="internal" n="regesten">428</ref>), vgl. dazu Hausmann, Reichskanzlei 247.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0144" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_154" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

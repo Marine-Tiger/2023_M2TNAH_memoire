@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1482</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-01_1_0_4_2_2_924_1482"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-01_1_0_4_2_2_924_1482"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-06-01_1_0_4_2_2_924_1482</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246931" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1482</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-06-01" to="1165-06-01">(1165) Juni 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(kal. iunii, Wirceburh)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rundschreiben</hi>  <hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Troyes</hi></recipient>
+				
+				
+				
+					<scribe>Vermutlich unter Beteiligung Rainalds von Dassel verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet in einem <span sameAs="recipient"><hi rend="spaced">Rundschreiben</hi> </span>, das er unter anderem auch an seinen Verwandten, den Grafen <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Troyes</hi> </span>, richtet, daß er auf dem auf Pfingsten (Mai 23) einberufenen Reichstag zu Würzburg nach der Bestätigung Papst Paschals (III.) persönlich den Eid abgelegt habe, den Schismatiker Roland oder seine Nachfolger niemals anzuerkennen; diesem Vorgang hätten sich alle 40 anwesenden Erzbischöfe, Bischöfe und Elekten sowie die weltlichen Fürsten, darunter Herzog (Heinrich der Löwe) von Sachsen und Bayern, Markgraf Albrecht der Ältere (der Bär), Pfalzgraf Konrad bei Rhein und Landgraf Ludwig (von Thüringen), angeschlossen. Nachdem alle anwesenden Elekten, unter ihnen als erster Rainald von Dassel, zu den Quatembern (Mai 29) ihre Weihen empfangen hatten, sei beschlossen worden, daß die noch ausstehenden Weihen bis zu den nächsten Quatembern (September 18) zu spenden seien. Die Leistung des Eides auf Papst Paschal (III.), die auch von den Legaten König Heinrichs von England erbracht wurde, wird bei Androhung des Verlustes aller kirchlichen Würden und Pfründen bzw. aller Lehen und Eigengüter jedermann aufgetragen. - <span n="clerk">Vermutlich unter Beteiligung Rainalds von Dassel verfaßt</span>. <span n="incipit"><hi rend="italic">Cunctis populis, quos</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cunctis populis, quos</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschriften des 12. Jh. im Cod. Vat. Regin. 179 f. 226', Vatikanische Bibliothek Rom (an den Grafen von Troyes, C); im Ms. Add. 25.438 f. 102', Britisches Museum London (D); sowie in folgenden Handschriften der Briefsammlung des Thomas Becket: Cod. Bodleianus 937 f. 66' (12. Jh.), Bibliothek zu Oxford (T<hi rend="sup">1</hi>); Cod. Cottonianus Claud. B. II. f. 56 (12. Jh.), Britisches Museum zu London (T<hi rend="sup">2</hi>); Cod. Vat. Regin. 1220 f. 87' (13. Jh.), Vatikanische Bibliothek Rom (T<hi rend="sup">3</hi>). Drucke: MG. Const. 1, 314 n<hi rend="sup">o</hi>  223; MG. DF. I. 480. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  293; Stumpf 4045.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Erwähnung des Schreibens in einem Brief Johanns von Salisbury an Bischof Johann von Poitiers von ca. 1166 Juli, Letters of John of Salisbury II, ed. Millor - Brooke, n<hi rend="sup">o</hi>  177 (S. 182).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0244" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_480" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

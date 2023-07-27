@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2482</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-02-18_1_0_4_2_3_710_2482"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-02-18_1_0_4_2_3_710_2482"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-02-18_1_0_4_2_3_710_2482</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306658" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2482</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-02-18" to="1179-02-18">1179 Februar 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Weißenburg (im Elsaß)</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in prima dominica quadragesime, que fuit XII<hi rend="sup">o</hi>  kal. marcii, in Wzenburc)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wahrscheinlich außerhalb der Kanzlei verfaßt</scribe>
+				
+				
+					<testis function="witnesses">Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen, Simon von Saarbrücken, Gottfried von Sponheim, Emicho von Altenbaumburg und sein Bruder Konrad (Raugraf), des weiteren der Wildgraf (<hi rend="italic">Siluestris comes</hi>) Bernhard und Graf Dietrich von <hi rend="italic">Merenberg</hi>, Gerhard von Schauenburg und sein Bruder Berthold sowie Gottfried von Herrlingen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert und verkündet auf Bitten der auf dem Gerichtstag <hi rend="italic">in opido</hi>  Weißenburg versammelten Fürsten und Edlen sowie der Ministerialen und Landleute dieses Gebietes (= Rheinfrankens) den alten, von seinem Vorgänger Karl dem Großen erlassenen Landfrieden vom kommenden Osterfest (= 1179 April 1) an für die Dauer von zwei Jahren mit Gültigkeit innerhalb der namentlich angeführten Grenzen: Der Kreis der unter diesen Frieden fallenden Personen (ausgeschlossen sind diejenigen, die Stricke spannen und Fallen stellen) wird festgelegt, die Verfolgung persönlicher Feinde und deren Auslieferung an den Richter nach Ort und Zeit eingegrenzt und das Dorf als Ort erhöhten Friedens erklärt. Weiters werden die Strafen für Totschlag und Verwundung sowie das gerichtliche Verfahren bestimmt, die Vorgangsweise bei Ausplünderung sowie im Fall der Ächtung, die bei Nichterscheinen vor Gericht durch den Kaiser auszusprechen ist, wird geregelt, die Friedloserklärung nach Verbleib in der Acht über Jahr und Tag bestimmt, die Zahl der den Friedensbrecher vor Gericht begleitenden Personen nach Zahl und Art der erlaubten Waffen wird beschränkt und die Möglichkeit der Klageführung gegen ungerechte Richter bei dem übergeordneten Richter wird eingeräumt. Das Recht von Reisenden zur Fütterung der Pferde am Wegesrand, die Fragen der Führung von Waffen durch Bauern und die Vorgangsweise bei der Rückforderung von Eigenleuten, die in Dörfern, anderen Orten oder Städten ihren Aufenthalt genommen haben, durch ihre Herren erfahren eingehende Regelungen, die Verfolgung von Wegelagerern, Räubern, Dieben, Münzfälschern und deren Beherbergern wird allgemein zur Pflicht gemacht. Des weiteren wird mit Zustimmung des Hofes ein alter, in Vergessenheit geratener Rechtsspruch verkündet, der für nächtliche Brandstiftung den Verlust jeglichen Rechtes vorsieht. <span n="witnesses">Z.: Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen, Simon von Saarbrücken, Gottfried von Sponheim, Emicho von Altenbaumburg und sein Bruder Konrad (Raugraf), des weiteren der Wildgraf (<hi rend="italic">Siluestris comes</hi>) Bernhard und Graf Dietrich von <hi rend="italic">Merenberg</hi>, Gerhard von Schauenburg und sein Bruder Berthold sowie Gottfried von Herrlingen</span>. — <span n="clerk">Wahrscheinlich außerhalb der Kanzlei verfaßt</span>. <span n="incipit"><hi rend="italic">Ex debito imperialis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex debito imperialis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des frühen 13. Jh. auf dem letzten Blatt einer Handschrift des Stiftes Arnstein an der Lahn, Cod. Harleianus 2800 vol. 2, British Library zu London (B). Drucke: MG.Const.1, 380 n<hi rend="sup">o</hi>  277; Weinrich, Quellen zur deutschen Verfassungs-, Wirtschafts- und Sozialgeschichte bis 1250, 290 n<hi rend="sup">o</hi>  73; MG.DF.I.774. Regg.: Goerz, Mittelrhein.Reg. 2, 115 n<hi rend="sup">o</hi>  412; Diestelkamp — Rotter, Urkundenregesten 1, 344 n<hi rend="sup">o</hi>  441; Stumpf 4274.</p></div>
+				
+				
+					<div type="commentary"><p>Der hier erneuerte Landfriede stammt nicht aus der Zeit Karls des Großen, sondern erst aus dem späten 11. Jh. Die Erwähnung der Grafschaft des Grafen Berthold von Nürings (†1139) unter den Grenzangaben könnte darauf weisen, daß eine Redaktion aus dessen Lebzeiten existiert hat, vgl. dazu Küch, Landfriedensbestrebungen Friedrichs I., 64 sowie die Vorbemerkung zum D. — Leyser, Friedrich Barbarossa — Hof und Land, in: Friedrich Barbarossa (VuF 40, 1992) 527 f. vergleicht diesen Landfrieden mit den anglo-angiovinischen Assisen. — Zu dem unter den Zeugen genannten Raugrafen Konrad vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 234.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0248" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_774" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._380" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 293</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_4_0_4_2_1_293_293"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_4_0_4_2_1_293_293"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-05_4_0_4_2_1_293_293</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238367" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 293</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-05" to="1155-05-05">1155 Mai 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Castelnuovo im Gebiet von Piacenza</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  non. maii, in territorio Placentino iuxta Novum Castellum)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Salvatore</hi>  <hi rend="spaced">Quartazzola</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Beteiligung von A II. D und Wibald verfaßt und wohl von A II. D mundiert</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, Ortlieb von Basel, Heinrich von Lüttich, Konrad von Worms, die Äbte Wibald von Stablo und Corvey, Markward von Fulda, die Herzoge Heinrich von Sachsen, Heinrich von Karnten, Berthold von Burgund, Pfalzgraf Otto (von Wittelsbach), Graf Ulrich von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das neue Kloster <span sameAs="recipient"><hi rend="spaced">S. Salvatore</hi> </span>  (zu <span sameAs="recipient"><hi rend="spaced">Quartazzola</hi> </span>) an der Trebbia (<hi rend="italic">ecclesia sancti Saluatoris dei videlicet et domini nostri Iesu Christi sita in loco, qui dicitur in Gerbiis Goxolenghi prope flumen, qui vocatur Trebia</hi>), das Abt Iohel von S. Maria in Pulsano unterstellt ist (<hi rend="italic">sub magisterio reverendi abbatis Iohelis de monasterio beate Marie in Pulsano</hi>), unter Abt Sasso mit all seinen Besitzungen in seinen Schutz, erteilt ihm das Recht der Wasserableitung und des Fischfanges an der Trebbia zwischen Gossolengo und der vom Kloster erbauten Brücke, verbietet alle Abgaben an die Bürger von Piacenza sowie an die Verwalter des Reichsgutes und erklärt es als reichsunmittelbar. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Hermann von Konstanz, Ortlieb von Basel, Heinrich von Lüttich, Konrad von Worms, die Äbte Wibald von Stablo und Corvey, Markward von Fulda, die Herzoge Heinrich von Sachsen, Heinrich von Karnten, Berthold von Burgund, Pfalzgraf Otto (von Wittelsbach), Graf Ulrich von Lenzburg</span>. -<span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">unter Beteiligung von A II. D und Wibald verfaßt und wohl von A II. D mundiert</span>. <span n="incipit"><hi rend="italic"> Cum regalis seu </hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic"> Cum regalis seu </hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1340 im Archivio dei Conti Anguissola-Scotti, filza 63 n<hi rend="sup">o</hi>  1583 f. 7' im Archivio storico comunale Piacenza (B). Drucke: Campi, Dell'historia di Piacenza 2, 355 n<hi rend="sup">o</hi>  10 apud DD. Comites Scotos de Agazzano; MG. DF. I. 102. Reg.: Stumpf 3706.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Ausstellungsort vgl. Güterbock, Lage der Roncalischen Ebene, QFIAB 9 (1906) 216 Anm. 2 und Nasalli Rocca, Nuove vedute, Arch. stor. lomb. ser. VIII, 8 (1958) 250 Anm. 9. Wahrscheinlicher ist gegen Nasalli Rocca a. a. O. die Identifizierung auf ein südöstlich von Piacenza gelegenes Castelnuovo (das bei Güterbock a. a. O. genannte Castelnuovo di Valtidone liegt allerdings westlich von Piacenza bei Borgonovo und kommt hier kaum in Betracht), vgl. dazu auch Simonsfeld, Jahrbücher 307 Anm. 91 und Opll, Itinerar 15 mit Anm. 13 und 118.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0099" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_102" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

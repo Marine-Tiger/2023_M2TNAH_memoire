@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2843</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-01_1_0_4_2_4_265_2843"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-01_1_0_4_2_4_265_2843"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-01_1_0_4_2_4_265_2843</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844884" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2843</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-01" to="1185-01-01">1185
+									Januar 1 (?)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Leno (<hi rend="italic">V</hi><hi rend="sup">to</hi><hi rend="italic"> nonas ianuarii, apud Leonam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung von DL.III.99<hi rend="sup">b</hi> (VU.) nach Kanzleidiktat in der ersten 									Zeile und im Eschatokoll geschrieben von GL, das Übrige stammt 									von der Hand des GK, der wegen der Vorausfertigung des 									Eschatokolls mit dem Platz</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die 									Bischöfe Johann von Brescia und Wilhelm von Asti, Elekt Konrad 									von Lübeck, Abt Gunter von Leno, der erwählte Abt Albert von 									Bobbio, Protonotar Rudolf, Herzog Konrad von Spoleto, die Grafen 									Gerhard von Looz/Borgloon, Simon von Sponheim und Diepold von 									Lechsgemünd, Burggraf Konrad von Nürnberg, der kaiserliche 									Pfalzrichter Syrus von Pavia, Martinus von Castello d’Agogna und 									Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster der 									heiligen Julia zu Brescia</hi> unter Äbtissin Gratia mit allen 								namentlich angeführten Besitzungen, insbesondere dem Hafen (am Po) 								zu Piacenza, den Kaiser Lothar II. (irrig statt: Lothar I.) dem 								Kloster geschenkt hat und dessen Entfremdung Bischof und Bürger von 								Piacenza verhindern sollen, in seinen Schutz und bestätigt ihm die 								Immunität. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die 									Bischöfe Johann von Brescia und Wilhelm von Asti, Elekt Konrad 									von Lübeck, Abt Gunter von Leno, der erwählte Abt Albert von 									Bobbio, Protonotar Rudolf, Herzog Konrad von Spoleto, die Grafen 									Gerhard von Looz/Borgloon, Simon von Sponheim und Diepold von 									Lechsgemünd, Burggraf Konrad von Nürnberg, der kaiserliche 									Pfalzrichter Syrus von Pavia, Martinus von Castello d’Agogna und 									Kämmerer Rudolf</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalię archicanc.</hi></span>;<span n="clerk"> unter Heranziehung von DL.III.99<hi rend="sup">b</hi> (VU.) nach Kanzleidiktat in der ersten 									Zeile und im Eschatokoll geschrieben von GL, das Übrige stammt 									von der Hand des GK, der wegen der Vorausfertigung des 									Eschatokolls mit dem Platz nicht das Auslangen fand und daher 									einige Worte rechts neben dem Monogramm beifügen musste</span>; 									<span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Offitium imperatorie maiestatis.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Offitium imperatorie maiestatis.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Biblioteca Quiriniana zu Brescia, 								eingeklebt im Codice diplomatico Bresciano tom. 2, f. 138 								(A). Faks.: Ausstellungskatalog San Salvatore di Brescia, Brescia 								1978, 1, 121. Druck: MG.DF.I.890. Reg.: Stumpf 4402.</p></div>
+				
+				
+					<div type="commentary"><p>Die den Regeln des römischen Kalenders 								widersprechende Angabe des Monatstages (vgl. dazu auch DD. 556 und 								557 = Regg. 1862 und 1863) entspricht wohl dem 1. Januar. – Die 								Übertragung des Pohafens zu Piacenza geht auf Lothar I. (nicht: <hi rend="italic">Lotarius secundus</hi>, wie es im D. heißt) 								zurück, vgl. dazu das Deperditum DL.I.172 sowie auch Regg. 1282 (= 								D.419) und 1520; zu den Urkunden Lothars III. für die Brescianer 								Abtei vgl. B.-Petke, Regg. 526 und 531.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_890" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

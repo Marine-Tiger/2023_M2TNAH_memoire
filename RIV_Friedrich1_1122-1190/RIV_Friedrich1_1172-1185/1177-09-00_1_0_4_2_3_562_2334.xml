@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2334</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-00_1_0_4_2_3_562_2334"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-00_1_0_4_2_3_562_2334"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-09-00_1_0_4_2_3_562_2334</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306596" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2334</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-09-01" to="1177-09-30">1177 September</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">(Venedig)</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. laut B.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl außerhalb der Kanzlei entstanden</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich sagt den Mitgliedern der <hi rend="spaced">Lega Lombarda</hi>  (<hi rend="italic">tam Lombardis quam Marchianis et illis de Romania et reliquis de societate ipsorum</hi>), die seine Vasallen sind oder es sein sollten, auf Intervention Papst Alexanders (III.) und der Kardinale zu, sie wegen der Vernachlässigung der Lehenspflichten (<hi rend="italic">pro fidelitate nobis non prestita vel servitio non exhibito aut de Investitur a non petita</hi>), die während der Dauer des Waffenstillstands erfolgte, nach Ablauf desselben weder gerichtlich zu belangen noch ihnen die Lehen abzuerkennen. — <span n="clerk">Wohl außerhalb der Kanzlei entstanden</span>; <span n="seal">SP. laut B.</span>  <span n="incipit"><hi rend="italic">Nos Fredericus dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nos Fredericus dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Registrum grossum civitatis Bononiensis des 12. — 13. Jh. f. 45 (39), Staatsarchiv Bologna (B). Drucke: MG.Const. 1, 372 n<hi rend="sup">o</hi>  272; MG.DF.I.712. Reg.: Stumpf 4229.</p></div>
+				
+				
+					<div type="commentary"><p>Diese den Frieden mit der Lega Lombarda ergänzende schriftliche Erklärung des Kaisers wurde den Vertretern der Städte am 22. Oktober 1177 in Parma auf Befehl Alexanders III. durch den päpstlichen Legaten Albertus de Summa, Subdiakon der Römischen Kirche, übergeben, ed. (Savioli), Ann. Bolognesi II/2, 86 n<hi rend="sup">o</hi>  248, sowie Manaresi, Atti del Comune di Milano 1, 155 n<hi rend="sup">o</hi>  113 (Regest bei Weiss, Die Urkunden der päpstlichen Legaten von Leo IX. bis Coelestin III., 269, XX, 21, n<hi rend="sup">o</hi>  1); vgl. dazu Kehr, Italia pont. 6/1, 12 n<hi rend="sup">o</hi>  55 — 57 und die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0203" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_712" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._372" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

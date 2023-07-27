@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2781</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-00_1_0_4_2_4_202_2781"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-00_1_0_4_2_4_202_2781"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-09-00_1_0_4_2_4_202_2781</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2781</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-09-01" to="1184-09-30">1184
+									(August/September)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entsendet Erzbischof Philipp von Köln als 								seinen Legaten an den Hof König Heinrichs (II.) von England; Philipp 								kann seinem Auftrag gemäß die Zustimmung des Königs zur Hochzeit des 								Grafen Richard von Poitiers (= Richard Löwenherz, Sohn des 								englischen Königs) mit einer Tochter des Kaisers erlangen und kehrt 								nach Leistung beiderseitiger Sicherheitseide in die Heimat zurück.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ex gestis Henrici II. et Ricardi I., MG. SS 								XXVII, 106; vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 1232 								(zu September, erste Hälfte).</p></div>
+				
+				
+					<div type="commentary"><p>Die Quelle berichtet darüber hinaus, dass sich der 								Kölner Erzbischof, der diese Reise auch zu einer Pilgerfahrt an das 								Grab Thomas Beckets nutzte und Graf Philipp von Flandern zum 								Begleiter hatte, anlässlich dieses Aufenthalts über Betreiben König 								Heinrichs mit dem am englischen Hof im Exil lebenden Welfen Heinrich 								dem Löwen aussöhnte (anders lautende Angaben bietet E Gervasii 								Cantuariensis Chronica, MG. SS XXVII, 303); in der Folge ging dann 								eine englische Gesandtschaft an die Kurie nach Verona ab, mit der 								der Kaiser offensichtlich schon anlässlich seines Aufenthalts in 								Mailand zusammentraf (siehe dazu unten Regg. 2783 und 2801). – Vgl. 								dazu Giesebrecht – Simson, Kaiserzeit VI, 75 f., Kienast, 								Deutschland und Frankreich I, 229 f. mit Anm. 564. Bei der 								Kaisertochter handelte es sich entweder um Agnes, die zuvor mit 								einem Arpaden verlobt war (siehe zu ihr oben Reg. 2573 sowie unten 								Reg. 2788), oder um die 1168 geborene Kaisertochter (Reg. 1819), 								deren Name unbekannt ist, vgl. dazu Assmann, Kinder, DA 33 (1977) 								456, Wolter, Verlobung, Hist. Jb. 105 (1985) 46 Anm. 55, sowie 								Weller, Heiratspolitik, 172 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

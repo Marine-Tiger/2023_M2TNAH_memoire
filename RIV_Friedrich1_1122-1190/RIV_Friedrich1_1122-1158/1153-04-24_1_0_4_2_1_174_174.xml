@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 174</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-04-24_1_0_4_2_1_174_174"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-04-24_1_0_4_2_1_174_174"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-04-24_1_0_4_2_1_174_174</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236829" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 174</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-04-24" to="1153-04-24">1153 April 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Bamberg">Bamberg</placeName>
+												<location><geo decls="#WGS">49.9, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>[VIII kal. magii, aput (!) Babenberch]</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ardicio</hi>  <hi rend="spaced">Como</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und wohl auch geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Anselm von Havelberg, Wichmann von Zeitz, Konrad von Augsburg, Markgraf Albrecht (der Bär) von Sachsen, Graf Friedrich von Beichlingen, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem Bischof <span sameAs="recipient"><hi rend="spaced">Ardicio</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Como</hi> </span>  die Hoheitsrechte (<hi rend="italic">honorem, districtum</hi>) und das Fodrum mit allen Regalien zu Gravedona und Domaso (<hi rend="italic">et fodrum cum aliis omnibus ad regalia pertinentibus in locis, burgis et territoriis Grabadone et Domasii</hi>). <span n="witnesses">Z.: die Bischöfe Anselm von Havelberg, Wichmann von Zeitz, Konrad von Augsburg, Markgraf Albrecht (der Bär) von Sachsen, Graf Friedrich von Beichlingen, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und wohl auch geschrieben von A II. C</span>. <span n="incipit"><hi rend="italic">Ex commissi nobis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex commissi nobis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Collectio privil. Cumanae eccl. aus dem 14. Jh. f. 34' in der Biblioteca Ambrosiana Mailand (B). Drucke: Tatti, Annali di Como 2, 873; MG. DF. I 55. Reg.: Besta, I diplomi, Arch. stor. lomb. N.S. 2 (1937) 329 n<hi rend="sup">o</hi>  53 zu 1154; Stumpf 3668.</p></div>
+				
+				
+					<div type="commentary"><p>Auf ein Versehen des Kopisten dürfte der Kaisertitel in der Signumzeile zurückzuführen sein, da das sorgfältig nachgezeichnete Monogramm eine der Königszeit entsprechende Form zeigt. Bestas Bedenken gegen die Echtheit sind unbegründet. Später urkundete Friedrich offenbar gegen die Interessen von Como für Gravedona und Domaso; vgl. DH. VI. B.-Baaken, Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-08-19_1_0_4_2_1_128_128.html" type="internal" n="regesten">128</ref>. Am 6. September 1196 bestätigt Heinrich VI. alle Diplome und Fürstensprüche aus der Regierungszeit seines Vaters für Como; vgl. B.-Baaken, Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-04-27_1_0_4_2_1_546_544.html" type="internal" n="regesten">544</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0063" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_55" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

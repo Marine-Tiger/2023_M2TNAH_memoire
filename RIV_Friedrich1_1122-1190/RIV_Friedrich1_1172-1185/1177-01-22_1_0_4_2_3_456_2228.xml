@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2228</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-01-22_1_0_4_2_3_456_2228"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-01-22_1_0_4_2_3_456_2228"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-01-22_1_0_4_2_3_456_2228</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426600681" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2228</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-01-22" to="1177-01-22">1177 Januar 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Kloster Sant'Anastasio zu Mordano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XI kal. februarii, Moretano ...in claustro sancti Anestasii)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gutifredus sacri palacii canc.</hi></notarius>
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert den an den Hof gekommenen Vertretern der <hi rend="spaced">Stadt Imola</hi>, den Konsuln Palmerius <hi rend="italic">‹Dominici›</hi>  (auf Rasur statt: <hi rend="italic">Peregrini</hi>), Boncius de Martignanis und Ugolinus Ubertini, auf Intervention des Konrad von Ballhausen und des Kanzlers Gottfried sein dem Rektor Peregrinus gewährtes Privileg (DF.I.268 = Reg. 704) und bestätigt das Privileg, das Erzbischof Christian von Mainz den Imolesen betreffend den Ort und die Einwohner von S. Cassiano gewährt hat (= Reg. 2123). — <span n="chancellor"><hi rend="italic">Gutifredus sacri palacii canc.</hi> </span>; in weitgehender Abhängigkeit von D.268 (VU., Reg. 704) von einem Italiener in Nachahmung der Schrift dieser Vorlage und unter Nachzeichnung des Monogramms geschrieben, wobei bei dem Namen des ersten Konsuls eine Rasur samt Interpolation (<hi rend="italic">Dominici</hi>  statt: <hi rend="italic">Peregrini</hi>) vorgenommen wurde; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Noverint universi fideles</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverint universi fideles</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Imola (A). Kop.: Notarielle Abschrift von 1217, ebenda (B); notarielle Abschrift von 1313 im Vatikanischen Archiv, Arm. XXXVI vol. 26 f. 11 (C). Drucke: Gaddoni-Zaccherini, Chartularium Imolense 2, 351 n<hi rend="sup">o</hi>  762; MG.DF.I.664. Reg.: Stumpf 4188.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D. mit den dort gebotenen Hinweisen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0161" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_664" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

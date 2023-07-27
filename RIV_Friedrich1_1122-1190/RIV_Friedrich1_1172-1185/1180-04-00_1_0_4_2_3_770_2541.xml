@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2541</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-00_1_0_4_2_3_770_2541"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-00_1_0_4_2_3_770_2541"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-04-00_1_0_4_2_3_770_2541</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606210" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2541</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-04-01" to="1180-04-30">1180 April</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Gelnhausen">Gelnhausen</placeName>
+												<location><geo decls="#WGS">50.2, 9.1833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in loco, qui dicitur Geilenvsen)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Geschrieben und wohl auch verfaßt von dem von Rück (Urkunden der Bischöfe von Basel) mit der Sigle Heinrich A bezeichneten Basler Schreiber</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe (Philipp) von Köln, (Wichmann) von Magdeburg, (Siegfried) von Bremen, (Arnold) von Trier und (Konrad) von Salzburg, die Bischöfe (Rudolf) von Lüttich (<hi rend="italic">Lutheche</hi>), (Konrad) von Worms, (Arnold) von Osnabrück, (Tammo) von Verden, (Kuno) von Regensburg und (Otto) von Bamberg, Kanzler Gottfried, Herzog (Heinrich) von Limburg, die Grafen Dedo (von Groitzsch), Berthold von Andechs, Simon von Saarbrücken, Engelbert von Berg und Dietrich von Landsberg, Markgraf Otto von Orlamünde (irrig statt: Brandenburg), die Grafen Emicho von Leiningen und Siegfried von Orlamünde, die Markgrafen Dietrich von Anhalt (= Graf Dietrich von Werben) und Berthold von Istrien (<hi rend="italic">Ystiriche</hi>), Pfalzgraf Otto der Ältere von Wittelsbach, die Grafen Heinrich von Kuik, Heinrich Rasp(e), der <hi rend="italic">nepos</hi>  des Kaisers, (Gerhard) von Looz (Borgloon), (Heinrich) von Arnsberg, (Werner) von Veitheim, Eberhard (<hi rend="italic">Herardus</hi>) von Altena, Rudolf von Ziegenhain (<hi rend="italic">Cigena</hi>) und Albert von Eberstein, <hi rend="italic">dominus</hi>  Egelolf von Urslingen und <hi rend="italic">dominus</hi>  Werner von Bolanden sowie viele andere Edelfreie und Ministerialen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet einen auf die Anfrage des <hi rend="spaced">Bischofs Hugo von Basel</hi>  ergangenen Fürstenspruch, gemäß dem der Bischof eine vakante Vogtei nach Belieben und ohne Einspruch des <hi rend="italic">maior advocatus</hi>  der Stadt in seiner Hand behalten oder neu vergeben dürfe, und eine weitere Entscheidung der Fürsten hinsichtlich des Verbotes, ohne den Willen des Bischofs in der Stadt eine neue Befestigung, die man <hi rend="italic">wicborc</hi>  nennt, zu errichten oder aufrecht zu erhalten. <span n="witnesses">Z.: die Erzbischöfe (Philipp) von Köln, (Wichmann) von Magdeburg, (Siegfried) von Bremen, (Arnold) von Trier und (Konrad) von Salzburg, die Bischöfe (Rudolf) von Lüttich (<hi rend="italic">Lutheche</hi>), (Konrad) von Worms, (Arnold) von Osnabrück, (Tammo) von Verden, (Kuno) von Regensburg und (Otto) von Bamberg, Kanzler Gottfried, Herzog (Heinrich) von Limburg, die Grafen Dedo (von Groitzsch), Berthold von Andechs, Simon von Saarbrücken, Engelbert von Berg und Dietrich von Landsberg, Markgraf Otto von Orlamünde (irrig statt: Brandenburg), die Grafen Emicho von Leiningen und Siegfried von Orlamünde, die Markgrafen Dietrich von Anhalt (= Graf Dietrich von Werben) und Berthold von Istrien (<hi rend="italic">Ystiriche</hi>), Pfalzgraf Otto der Ältere von Wittelsbach, die Grafen Heinrich von Kuik, Heinrich Rasp(e), der <hi rend="italic">nepos</hi>  des Kaisers, (Gerhard) von Looz (Borgloon), (Heinrich) von Arnsberg, (Werner) von Veitheim, Eberhard (<hi rend="italic">Herardus</hi>) von Altena, Rudolf von Ziegenhain (<hi rend="italic">Cigena</hi>) und Albert von Eberstein, <hi rend="italic">dominus</hi>  Egelolf von Urslingen und <hi rend="italic">dominus</hi>  Werner von Bolanden sowie viele andere Edelfreie und Ministerialen</span>. — <span n="clerk">Geschrieben und wohl auch verfaßt von dem von Rück (Urkunden der Bischöfe von Basel) mit der Sigle Heinrich A bezeichneten Basler Schreiber</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Universitati vestre notum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Universitati vestre notum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Basel (A). Drucke: MG. Const. 1, 386 n<hi rend="sup">o</hi>  280; Rück, Urkunden der Bischöfe von Basel 128 f.; MG.DF.I.796. Faks.: Rück, a.a.O. Tafel 20a. Regg.: Hidber 2, n<hi rend="sup">o</hi>  2423; Diestelkamp — Rotter, Urkundenregesten 1, 353 n<hi rend="sup">o</hi>  450; Stumpf 4302.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Entstehung des D. außerhalb der Kanzlei und zur Arbeitsweise des Empfärigerschreibers vgl. die Vorbemerkung zum D. mit den dort gebotenen Hinweisen. — Daß es sich bei dem namentlich nicht erwähnten Grafen von Looz (Borgloon) um Gerhard handelte, ergibt sich aus Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-04-00_3_0_4_2_3_772_2543.html" type="internal" n="regesten">2543</ref>. — Zu dem unter den Zeugen genannten Eberhard von Altena vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 235. — Zum Inhalt vgl. auch Opll, Stadt und Reich, 43 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0271" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_796" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

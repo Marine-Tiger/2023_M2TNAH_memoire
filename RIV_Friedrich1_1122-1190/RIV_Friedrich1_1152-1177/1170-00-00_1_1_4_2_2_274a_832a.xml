@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 832a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1170-00-00_1_1_4_2_2_274a_832a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1170-00-00_1_1_4_2_2_274a_832a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-00-00_1_1_4_2_2_274a_832a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358257939" value="2013-01-15"></date>
+				<date type="lastmod" n="1358257939" value="2013-01-15"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 832a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-02-01" to="1160-02-28">1170 (recte: 1160 Februar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich läßt auf in seiner Gegenwart vorgebrachte Klagen des Archidiakons Diether von Basel über gewaltsam durchgesetzte Vogteiansprüche des Grafen Hermann von Frohburg in Bartenheim ein Hofgerichtsurteil fällen (... <hi rend="kursiv">Imperator sententiam postulauit et communi totius curie et principum assensu decretum est</hi>, ...), gemäß dem der Kläger nach Nachweis seiner Ansprüche mittels Zeugen von jeder Vogtei frei sein solle. Nach Erbringung des Zeugenbeweises wird dies unter kaiserlichem Bann bestätigt (<hi rend="kursiv">Que omnia secundum iustitiam terminata sunt, ..., et banno imperatorie maiestatis confirmata</hi> ...).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum?; erwähnt in der Urkunde Bischof H(einrichs) von Basel von 1190, ed. Trouillat, Mon. de Bâle 1, 419 no 275; Stumpf 4120a zu 1170 (Herbst).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich &amp;#x2012; gegen Stumpf &amp;#x2012; wohl doch aus dem Zusammenhang mit dem hier folgenden Reg. 832b.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360329408" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. IX.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

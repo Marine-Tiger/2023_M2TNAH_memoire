@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1593</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-10-00_1_0_4_2_2_1036_1593"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-10-00_1_0_4_2_2_1036_1593"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-10-00_1_0_4_2_2_1036_1593</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1593</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-10-01" to="1166-10-31">1166 (Ende Oktober/Anfang November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>durch das Tal von Trient</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich zieht mit einem großen Heer, dem zahlreiche Fürsten, darunter der Erzbischof (Christian) von Mainz, die Bischöfe (Daniel) von Prag, (Gero) von Halberstadt und (Udo) von Naumburg, Abt (Hermann) von Fulda, Herzog (Friedrich) von Rothenburg, (Herzog) Welf (VII.), der Sohn Welfs (VI.) von den Bergen (Chron. Fuldensis: <hi rend="italic">de Montanis</hi>) und Graf Berengar (II.) von Sulzbach mit 300 Rittern (Kasteler Reimchronik) sowie auch Söldner (Brabanzonen) angehören, zum viertenmal nach Italien, um für Papst Paschal III. tätig zu sein und gegen die rebellischen Städte vorzugehen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 116 f., Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 69 f., Ann. Aquenses, MG. SS XXIV, 38, Ann. Augustani minores, MG. SS X, 8, Ann. Bergomates, MG. SS XXXI, 328, Ann. Brixienses, MG. SS XVIII, 813, Ann. Camerac., MG. SS XVI, 538, Ann. s. Disibodi, MG. SS XVII, 30 (zu 1165), Ann. Engelberg., MG. SS XVII, 279, Ann. Isingr. Ottenbur. mai., MG. SS XVII, 315 (zu 1167), Ann. s. Iacobi Leodiensis, MG. SS XVI, 642, Ann. Neresheimenses, MG. SS X, 22, Ann. Palid., MG. SS XVI, 93, Ann. Ratispon., MG. SS XVII, 588, Ann. Reichersperg., MG. SS XVII, 473 (zu 1166 November 1), Ann. s. Rudberti Salisburg., MG. SS IX, 776(zu 1167), Ann. Seligenstad., MG. SS XVII, 32, Ann. Stad., MG. SS XVI, 345, Rahewini Gesta Frid. Appendix, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 348 (zu 1167), Cont. Admunt., MG. SS IX, 583, Gestorum abb. Trudon. Cont. secunda, MG. SS X, 350, Kasteler Reimchronik, ed. Moritz, Abhh. d. hist. Cl. d. kgl. bayer. Akad. d. Wiss. München 1/2 (1883) 145 f. V. 511 ff., Sigeb.Cont. Aquicinct., MG. SS VI, 412.</p></div>
+				
+				
+					<div type="commentary"><p>Unter den in historiographischen Quellen bezeugten Teilnehmern der Heerfahrt sind auch Rainald von Dassel (Chron. reg. Col., Chron. Fuldensis, Gestorum abb. Trudon. Cont. secunda), der allerdings einen anderen Weg (über Ivrea) einschlug, und Alexander von Lüttich (Chron. Fuldensis, Gestorum abb. Trudon. Cont. secunda), der allerdings erst zu Weihnachten 1166 aufbrach (erste Nennung in DF. I. 522 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-01-27_1_0_4_2_2_1062_1619.html" type="internal" n="regesten">1619</ref>), zu nennen. Zur Teilnahme Graf Markwards von Leuchtenberg vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-01-27_1_0_4_2_2_1061_1618.html" type="internal" n="regesten">1618</ref>. Den Zeitpunkt des Aufbruchs geben am genauesten die Ann. Reichersperg. (1. November) an, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-10-31_1_0_4_2_2_1035_1592.html" type="internal" n="regesten">1592</ref>. - Als Grund der Heerfahrt werden die Probleme des Schismas (Ann. Ratispon., Chron. reg. Col., vgl. auch das Schreiben Johanns von Salisbury an Magister Gerhard Pucella, Letters of John of Salisbury II, ed. Millor - Brooke, n<hi rend="sup">o</hi>  186, S. 228), aber auch der Aufstand von Verona, d. h. die Bildung der Lega Veronese (Ann. Ratispon.) sowie Bestrebungen zum Wiederaufbau von Mailand (Chron. reg. Col.) genannt. Ziel des Feldzuges war allerdings auch das militärische Vorgehen gegen das Normannenreich in Sizilien, was hier nicht erwähnt wird. - Zur Teilnahme von Söldnern vgl. Grundmann, Rotten und Brabanzonen, DA 5 (1942) 445 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0273" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3407</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-05_3_0_4_2_4_837_3407"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-05_3_0_4_2_4_837_3407"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-05_3_0_4_2_4_837_3407</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3407</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-05" to="1189-11-05">1189
+									November 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Philippopel (Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bricht von Philippopel nach Adrianopel 								auf.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. IV cap. 10, MG. SS 								XXI (ohne Datum; spricht irrig von einem siebenwöchigen Aufenthalt 								in Philippopel); Dietpoldi epistola (Chron. Magni presbiteri), MG. 								SS XVII, 510; Hist. de expeditione Friderici (Ansbert), ed. Chroust, 								MG. SS rer. Germ. N.S. 5, 52 (zu November 5) (deutsche Übersetzung 								von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 108); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 145 (Aufbruch 								nach elfwöchigem Aufenthalt in Philippopel); Chron. reg. Col., ed. 								Waitz, MG. SS rer. Germ. in us. schol., 146 (Eintreffen in 								Adrianopel um November 22, siehe dazu unten Reg. 3417); Cont. 								Cremifanensis, MG. SS IX, 547 (Überwinterung in Adrianopel); Gesta 								Fed. I. imp. in expeditione sacra, ed. Holder-Egger, MG. SS rer. 								Germ. in us. schol., 82 f.; Hugonis Chron. Cont. Weingartensis, MG. 								SS XXI, 476 (Überwinterung in Adrianopel); Niketas Choniates II/5, 								ed. Bekker, 537 bzw. ed. van Dieten, 410 f. (deutsche Übersetzung 								bei Grabler, Abenteurer auf dem Kaiserthron, 214); Tageno, ed. 								Struve, Rerum Germanicarum Scriptores I (1717) 409.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Zimmert, Der deutsch-byzantinische 								Konflikt, Byzantin. Zs. 12 (1903) 62. – Der Kaiser kehrte noch 								einmal nach Philippopel zurück, siehe Reg. 3408.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2655</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-16_1_0_4_2_4_76_2655"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-16_1_0_4_2_4_76_2655"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-05-16_1_0_4_2_4_76_2655</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2655</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-05-16" to="1182-05-16">1182
+									Mai 16 (Pfingsten)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mainz">Mainz</placeName>
+												<location><geo decls="#WGS">47.8333, 11.9667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag</hi>: Friedrich hält nach 								der Unterwerfung Herzog Heinrichs des Löwen einen Hoftag in Mainz, 								auf dem er sich krönen lässt und in königlichem Ornat gemeinsam mit 								seiner Gemahlin, Kaiserin (Beatrix), und seinem Sohn, König Heinrich 								(VI.), in Gegenwart Erzbischof Philipps von Köln sowie zahlreicher 								Fürsten, Edelfreier und Herzöge eine Prozession im Kloster St. Alban 								von der dort gelegenen Albanskapelle, dem am Rand des Klosterareals 								gelegenen Baptisterium, aus durchführt. Auf dem glänzenden Hoftag 								erscheint auch Graf Philipp von Flandern, der sich hier nach 								Beendigung der Auseinandersetzungen mit dem König von Frankreich 								vollends dem Kaiser und dem König (Heinrich VI.) unterstellt und für 								den Fall seines erbenlosen Todes seine Erbschaft einem der Söhne des 								Kaisers zusagt. In der Folge verbringt der Herrscher eine Woche in 								Mainz und trifft Entscheidungen in Reichsangelegenheiten und 								hinsichtlich des Friedens der Kirchen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. breves Wormatienses, MG. SS XVII, 74 								(irrig zu 1172); Sigeb. Cont. Aquicinct., MG. SS VI, 420 f.; vgl. 								B.-Baaken Reg. 1l; der Hoftag wird auch in der Datierung einer 								Urkunde des Abtes Vortlievus von St. Martin zu Köln von 1182 								erwähnt, vgl. dazu Reg. 2656.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Teilnahme Philipps von Flandern am Hoftag vgl. 								Giesebrecht – Simson, Kaiserzeit VI, 53 f., und Kienast, Deutschland 								und Frankreich I, 229. Der Hoftag dauerte jedenfalls noch bis zum 								31. Mai, siehe dazu die Hinweise in den Datierungen der DD. 825–829 								(Regg. 2657–2661). – Vielleicht darf man den Bericht der Ann. 								Pegav., MG. SS XVI, 265, über die Beschwörung eines Friedens durch 								alle Fürsten des deutschen Reiches (<hi rend="italic">… omnes 									principes regni Teutonici pacem se servaturos iuramento 									confirmant</hi>) gleichfalls zu diesem Hoftag setzen. – Zum 								damaligen Aufenthalt des Kaisers in Mainz vgl. auch Schmid, Die 								Abtei St. Alban vor Mainz (Beiträge zur Geschichte der Stadt Mainz 								30, 1996) 77 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3471</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-07-00_1_0_4_2_4_901_3471"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-07-00_1_0_4_2_4_901_3471"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-07-00_1_0_4_2_4_901_3471</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3471</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-07-01" to="1190-07-31">1190
+									ab Juni 10–21/24 – Juli</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Akkon oder Jerusalem (?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Weitere Schicksale des Leichnams 									Kaiser Friedrichs: </hi>Die sterblichen Überreste des Kaisers 								werden nach Seleucia (Silifke) gebracht. Hier, wo Teile des 								Kreuzheeres bereits zuvor eingetroffen sind, wird die sterbliche 								Hülle des Herrschers nunmehr dem Brauch gemäß mit aromatischen 								Stoffen behandelt und vier Tage (bis Juni 13) lang beweint. Die 								Eingeweide werden entfernt, danach wird der Leichnam mit Salz 								eingerieben. – Über Korykos (14. Juni) zieht man weiter nach Tarsos 								(Eintreffen um den 17. Juni), wo die Eingeweide des Staufers (wohl 								in der erzbischöflichen Kathedrale) beigesetzt werden. Das Heer 								teilt sich nunmehr auf, wobei Herzog Friedrich von Schwaben den 								Landweg wählt. Infolge einer Erkrankung des Herzogs verzögert sich 								sein Weitermarsch. – In Antiochia (Eintreffen erster über See 								gereister Kreuzfahrer bereits am 21. Juni, Eintreffen des Herzogs 								von Schwaben zu Anfang Juli) werden die Weichteile <hi rend="italic">more teutonico</hi> durch Auskochen von den Gebeinen getrennt 								und in einem Sarkophag vor dem Hauptaltar der Kathedrale St. Petrus 								in Antiochia bestattet (Friedrich Barbarossas Eintragung im 								Necrologium Mellicense antiquissimum nennt Antiochia und als Datum 								den 24. Juni). Die Gebeine des Kaisers, die seinem Wunsch gemäß in 								der Auferstehungskirche in Jerusalem beigesetzt werden sollen, 								werden von seinem Sohn, Herzog Friedrich von Schwaben, weiter 								mitgenommen und finden ihre Ruhestätte entweder in der 								Johanneskirche in Tyrus, in Akkon oder in Jerusalem.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 516 								(Eintreffen in Antiochia am 21. Juni); Hist. de expeditione 								Friderici (Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 92 								(deutsche Übersetzung von Bühler, Der Kreuzzug Friedrich 								Barbarossas, 149 ff.) (Eintreffen in Antiochia am 21. Juni); 								Epistola de morte, ed. Chroust, MG. SS rer. Germ. N.S. 5,178; 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 416 								(Eintreffen in Antiochia am 21. Juni, <hi rend="italic">… vbi ossa 									Imperatoris primum humata sunt a filio in templo ante aram S. 									Petri</hi>); Itinerarium peregrinorum, ed. Mayer (Schriften der 								MGH 18, 1962) 301 f. (a.a.O., 302: <hi rend="italic">Ibi</hi> [ = in 									Antiochia]<hi rend="italic"> autem post multam excoctionem 									ossibus a carne seiunctis caro quidem in apostolice sedis 									ecclesia conquiescit, ossa vero Tyrum per mare ducuntur 									Ierosolimam transferenda.</hi> – englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 66 c. 24); Scheffer-Boichorst, Ann. 								Patherbrunnenses, 181 (<hi rend="italic">… corpus eius … a Friderico 									filio suo, … Antiochiam delatum est et ibidem tumulatur</hi>); 								Alberti Milioli Cron. imp., MG. SS XXXI, 649 (Leichnam in Seleucia 								mit aromatischen Stoffen behandelt; in Tarsos und danach in 								Antiochia [<hi rend="italic">… Tharsum … Ubi imperatoris carnem 									condiderunt. … ducem et exercitum cum triumpho Antiochiam 									deduxerunt, et carnem imperatoris honorifice sepelierunt</hi>] 								wird das Fleisch [richtig: in Tarsos werden die Eingeweide, in 								Antiochia das Fleisch beigesetzt] des Herrschers beigesetzt; in 								Tyrus werden die Gebeine des Kaisers beigesetzt [<hi rend="italic">… 									Tyrum navigio pervenerunt, ubi ossa imperatoris arche tumulo 									commendarunt.</hi>]); Ann. Egmund., ed. Oppermann, Werken 								uitgeg. d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 187 (<hi rend="italic">Corpus eiusdem imperatoris exenteratum ob 									longitudinem itineris sale diligenter confricatum et gestatorio 									impositum luctuoso agmine Antiochiam delatum est in basilica 									beati Petri in introitu chori dignissimo honore tumulatum</hi>); 								Ann Pragenses, MG. SS III, 121 (zu 1189: <hi rend="italic">et in 									Anthyochia quiescit</hi>); Ann. s. Stephani Frisingensis, MG. SS 								XIII, 55 (<hi rend="italic">Antiochiam deductus, ibidem intestina 									eius sepulta sunt</hi>; ohne Datum); Ann. Engelbergenses, MG. SS 								XVII, 280 (zu 1187: <hi rend="italic">Corpus eius Anthiochiam 									delatum, scapulaque et costa una cum intestinis sunt ibi terre 									mandata, reliquum corpus eius dux Alemannie Fridericus … Acram 									secum asportavit.</hi>; vgl. auch den interessanten Hinweis auf 								die Prophezeiung des Todes des Kaisers durch den 1197 verstorbenen 								Abt Berthold von Engelberg in dieser Quelle, ebda.); Ann. 								Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol., 61 = ed. 								Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 182 (<hi rend="italic">Anthiochie sepelitur</hi>); Ann. Stadenses, MG. SS 								XVI, 351 (zu 1191: <hi rend="italic">Fridericus, dux Sueviae, … 									Anthiochiae, dignas ibi patri exequias celebravit.</hi>); Ann. 								Stederburg., MG. SS XVI, 223 (<hi rend="italic">ossa patris 									Antiochiam detulit</hi>); Ann. s. Trudperti, MG. SS XVII, 292 								(zu 1190 ohne Datum); Ann. Veron. antiqui, ed. Cipolla, Bullettino 								dell’Istituto storico italiano 29 (1908) 43 (<hi rend="italic">in 									ecclesia Sancte Marie Hospitalis Teotonicorum, quem pater et 									ipse inchoaverant, sepultus fuit</hi>); Canonicorum Pragensium 								Cont. Cosmae, MG. SS IX, 166 (zu 1189: <hi rend="italic">in 									Antiochia sepultus quiescit</hi>); Chron. S. Clementis Mettense, 								MG. SS XXIV, 502 (zu 1189: <hi rend="italic">sepultus est in 									Antiochiam</hi>); Chron. Montis Sereni, MG. SS XXIII, 162 								(berichtet teilweise irrig: <hi rend="italic">Translatus est autem a 									militibus in civitatem Seleph</hi> [wird a.a.O., Anm. 16 irrig 								mit Tarsos aufgelöst]<hi rend="italic">, ubi et intestina eius 									humata sunt, corpus vero Antiochiam delatum ibique elixatum est 									et caro quidem in ipsa civitate terre tradita, ossa vero Spitam 									[recte: Spiram] reportata et tumulata sunt</hi>); Cron. 								Reinhardsbrunn., MG. SS XXX/1, 544 (<hi rend="italic">Corpus autem 									regium … Antyochiam delatum … inibi sepultum est</hi>); Gesta 								Fed. I. imp. in expeditione sacra, ed. Holder-Egger, MG. SS rer. 								Germ. in us. schol., 96 f.; Gesta epp. Halberstadensium, MG. SS 								XXIII, 110 (<hi rend="italic">Corpus autem eius a filio suo, …, 									ductum est usque Tyrum et in ecclesia beati Iohannis baptiste 									honore congruo est locatum</hi>); Ex gestis Henrici II. et 								Ricardi I., MG. SS XXVII, 112 (<hi rend="italic">… carnes coctas 									sepelierunt in Anthiochia cum cerebro et visceribus. Ossa autem 									eius secum tulerunt usque ad civitatem Tyri et sepelierunt ea 									ibi</hi>); Hugonis Chron. Cont. Weingartensis, MG. SS XXI, 477 									(<hi rend="italic">… dux Fridericus … Anthiochiae veniens, 									carnem quidem patris honorifice tumulavit, et ossa usque Accaron 									transtulit</hi>); Sigeb. Cont. Aquicinct., MG. SS VI, 426 (zu 								1190 nach dem Tod des Kaisers: <hi rend="italic">Corpus eius 									conditum aromatibus, adhuc insepultum custoditur</hi>); 								Tholomeus von Lucca, Annalen, ed. Schmeidler, MG. SS rer.Germ. N.S. 								8, 78 (… <hi rend="italic">corpus ipsius transportavit in Tyrum 									ibique honorifice sepellivit</hi>); Bericht des ‘Imad bei: 								Kawerau, Barbarossas Tod, Oriens christianus 48 (1964) 139 (Hinweis 								auf die Trennung des Fleisches von den Gebeinen durch Auskochen 								sowie die Absicht, die Gebeine des Herrschers gemäß dessen Verfügung 								und Wunsch in der Auferstehungskirche in Jerusalem beizusetzen); 								Bericht des Bahā’ al-Dīn, History of Saladin, transl. by D. S. 								Richards (2002) 114 (Auskochen in Essig, danach legt man die Gebeine 								in ein Behältnis und nimmt sie mit nach Jerusalem: … <hi rend="italic">ad urbem sanctam, ibique sepeliretur.</hi> – Vgl. 								dazu den Hinweis bei Kawerau, a.a.O., 139 Anm. 19); Ioannis 								Długossii Annales lib. VI, ed. Budkowa et al. (1973) 146 (zu 1189: 								Herzog Friedrich von Schwaben bringt die sterblichen Überreste 								seines Vaters nach Tyrus und <hi rend="italic">illic iusto honore 									sepultum est</hi>); Lamberti Parvi Ann., MG. SS XVI, 650 (<hi rend="italic">… in ecclesia beati Petri apostolorum principis 									apud Antiochiam sepultus est</hi>); Otto von St. Blasien, 								Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 52 = ed. 								Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 100 f.; Ex 								Radulfi abbatis de Coggeshale Hist. Anglicana, MG. SS XXVII, 346 								(Cod. 1: <hi rend="italic">sepelierunt Antiochie</hi>); Roberti 								canonici s. Mariani Autissiodorensis Chron., MG. SS XXVI, 255 (<hi rend="italic">Imperatoris filius corpus patris Tyrum usque 									detulit; quo ibidem sepulto, …</hi>); Ex Rogeri de Hoveden 								Chronica, MG. SS XXVII, 149 (<hi rend="italic">… carnem suam aqua 									coctam et ab ossibus separatam sepelierunt in civitate 									Antiochie; ossa autem illius, lintheaminibus mundis involuta, 									Conradus</hi> [irrig statt: Fridericus] <hi rend="italic">dux 									Suave, filius eius, tulit secum usque ad civitatem Tyri et ibi 									sepelivit ea</hi>); Salimbene de Adamo von Parma, Chronica, MG. 								SS XXXII, 12 ff. (Leichnam in Seleucia mit aromatischen Stoffen 								behandelt; in Tarsos [<hi rend="italic">… Tharsum …, ubi et 									imperatoris carnem condiderunt</hi>] wird das Fleisch [richtig: 								in Tarsos werden die Eingeweide, in Antiochia das Fleisch 								beigesetzt] des Herrschers beigesetzt; in Tyrus werden die Gebeine 								des Kaisers beigesetzt [<hi rend="italic">… Tyrum navigio 									pervenerunt, ubi ossa imperatoris arche tumulo 								commendarunt</hi>]); Sicardi ep. Cremon. Cronica, MG. SS XXXI, 171 								(Leichnam des Kaisers in Seleucia mit aromatischen Stoffen 								behandelt); Ex Willelmi Neuburgensis Historia Anglicana, MG. SS 								XXVII, 238 f. (<hi rend="italic">… paternis ossibus apud Tirum cum 									decenti honore sepultis …</hi>); Salloch, Die lateinische 								Fortsetzung Wilhelms von Tyrus (Greifswald 1934) 108 (Auskochen des 								Leichnams in Antiochia, dort Beisetzung der Weichteile, die Knochen 								werden mit dem Ziel Jerusalem weiter nach Tyrus mitgenommen); 								L’estoire de Eracles (Recueil des Historiens des Croisades, Sér. II: 								Historiens occidentaux, Tom. 2, 1859) 139 f. lib. XXV cap. I = 								Continuation de Guillaume de Tyr, ed. Morgan (Doc. relatifs à 								l’histoire des Croisades 14, 1982) 97 f. cap. 95 = The Old French 								Continuation of William of Tyre, 1184–1197, ed. Edbury, The conquest 								of Jerusalem and the Third Crusade. Sources in Translation (1996) 88 								cap. 95 (begraben in St. Peter zu Antiochia rechts vom Chor und nahe 								am Grab Bischof Goberts [irrig statt: Adhemars] von Le Puy, wo man 								zur Linken die Lanze fand, mit der Longinus den Herrn auf dem 								Kalvarienberg durchbohrte); zur möglichen Datierung der Beisetzung 								in Antiochia vgl. auch Necrologium Mellicense antiquissimum, MG. 								Necr. V, 555 (zu Juni 24 mit der Ortsangabe <hi rend="italic">apud 									Antiochiam</hi>, womit der Begräbnistag gemeint sein könnte); 								Bericht des Patriarchen Michael Syrus von Antiochia, siehe Chabot, 								Chronique de Michel le Syrien, t. 3 (1905) 407, l. XXI c. VII; 								Bericht des `Imâd ad-Dîn al-Isfahânî, Conquête de la Syrie et de la 								Palestine par Saladin (al-Fath al-qussî fî l-fath al-qudsî), trad. 								par H. Massé (Documents relatifs a l’Histoire des Croisades. 								Académie des inscriptions et belles-lettres X, 1972) 227 f. = in 								deutscher Übersetzung bei Petermann, Imâd el Ispahani, Wochenblatt 								der Johanniter-Ordensballey Brandenburg Nr. 30 (1873) 176 (Leichnam 								wird in einem Kessel gekocht, um das Fleisch auf Wunsch des Kaisers 								– er habe testamentarisch festgelegt, man möge ihn in der 								Auferstehungskirche zu Jerusalem begraben – von den Knochen zu 								lösen); zu den Schicksalen des Leichnams des Kaisers vgl. auch 								Petermann, Kreuzzüge aus armenischen Quellen, Abhh. d. Kgl. Preuß. 								Akad. d. Wiss. 1860 (1861) 149 f.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 282 								f., Eickhoff, Barbarossa im Orient, 161 ff., und Hiestand, “precipua 								tocius christianismi columpna“, in: Friedrich Barbarossa (VuF 40, 								1992) 105 ff. – Zum <hi rend="italic">mos teutonicus</hi> der 								Leichenbehandlung vgl. Schäfer, Mittelalterlicher Brauch bei der 								Überführung von Leichen, SB. Preuß. Akademie der Wissenschaften 								1920, 478 ff., weiters Engels, Grablege, in: Papstgeschichte und 								Landesgeschichte. FS. f. Hermann Jakobs zum 65. Geburtstag (Beihefte 								zum Archiv für Kulturgeschichte, 39, 1995) 241. – Der letzte Weg der 								sterblichen Überreste des Kaisers lässt sich nicht mit letzter 								Sicherheit aus den Quellen eruieren, da die Überlieferungen auch 								hier Datierungsangaben bieten, die infolge der verschiedenen Wege, 								die das Kreuzheer nach dem Tod des Herrschers nahm, nicht eindeutig 								zu bestimmen sind, siehe dazu im Zusammenhang mit früheren 								Abschnitten des Kreuzzugs Friedrichs I. die Bemerkungen bei den 								Regg. 3367, 3370, 3437 und 3445: Sollte die Nennung des 24. Juni 								samt der Ortsangabe „Antiochia“ im Necrologium Mellicense 								antiquissimum sich tatsächlich auf die Beisetzung der Weichteile des 								Stauferkaisers beziehen, dann wäre davon auszugehen, dass seine 								Überreste über den Seeweg transportiert worden wären; der irrige 								Hinweis im Chron. Montis Sereni auf eine Bestattung in Speyer leitet 								sich von der zentralen Bedeutung der Speyerer Grablege für die 								salischen und staufischen Herrscher her, vgl. dazu zuletzt Rader, 								Leichnam Philipps von Schwaben, in: Philipp von Schwaben, hg. von 								Rzihacek – Spreitzer (Öst. Akad. d. Wiss., philosoph.-hist. Klasse, 								Denkschriften, 339 = Forschungen zur Gesch. d. Mittelalters, 19, 								2010) 60 mit Anm. 6. – Zu einer seit 1587 nachweisbaren 								Überlieferung, die von einer Beisetzung der Gebeine des Kaisers in 								der Marienkirche von Tyrus berichtet, vgl. Mayer, Bistümer, Klöster 								und Stifte im Königreich Jerusalem (Schriften der MGH 26, 1977) 108 								f. Anm. 36. – Zur Schwierigkeit, den Ort des endgültigen 								Begräbnisses Barbarossas – vorgesehen dafür war offensichtlich die 								Grabeskirche zu Jerusalem – zu eruieren, vgl. Eickhoff, Barbarossa 								im Orient, 168. Wäre der Herrscher im Reichsgebiet verstorben, so 								wäre wohl eine Beisetzung im Dom zu Speyer vorgesehen gewesen, eine 								Annahme, die überaus plausibel, freilich nicht mit Gewissheit zu 								beweisen ist, vgl. dazu Ehlers, Metropolis Germaniae (Veröff. d. 								Max-Planck-Inst. f. Gesch. 125, 1996) 177 ff. – Einen interessanten 								Hinweis auf die Geschwindigkeit, mit der sich die Nachricht vom Tod 								des Kaisers im Reichsgebiet verbreitete (bzw. nicht verbreitete), 								bietet eine Urkunde des Gafen Heinrich von Windisch-Matrei für die 								Kärntner Zisterze Viktring von Mitte August 1190 (1190 August 								10/15), Viktring/Lengberg, südöstlich Lienz, ed. Jaksch, Mon. Duc. 								Car. 3, 517 no 1374, heißt es hier doch in der Datierung bei der 								Anführung der Herrscherjahre: <hi rend="italic">… Friderico 									Romanorum imperatore exercitum Christi in regno Soldani 									ductante, Heinrico Romanorum rege iter in Apuliam 									aggrediente</hi>. – Obwohl die Fragen des Nachlebens Friedrichs 								I. Barbarossa nur bedingt zur Themenstellung der Regesta Imperii 								gehören, sei an dieser Stelle neben dem Hinweis auf die Passagen bei 								Opll, Friedrich Barbarossa, 299 ff., doch auf ein vor kurzem 								erschienenes umfassendes Werk aufmerksam gemacht, das – trotz seiner 								Konzentration auf Fragen der Rezeptionsgeschichte im 19. Jahrhundert 								unter dem Aspekt der „Bilder eines nationalen Mythos“ – tatsächlich 								ein breites Bild zum Gesamtphänomen des Nachlebens bietet: Kaul, 								Barbarossa im Kyffhäuser (Atlas. Bonner Beiträge zur 								Kunstgeschichte, N F. 4/1–2, 2007). Zuletzt hat sich Sprenger, 								Tyrann, Wohltäter, Heiliger, in: Die Staufer und Italien, Bd. 1 								(2010), 39–45, mit oberitalienischen Erinnerungen an den Staufer 								befasst.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

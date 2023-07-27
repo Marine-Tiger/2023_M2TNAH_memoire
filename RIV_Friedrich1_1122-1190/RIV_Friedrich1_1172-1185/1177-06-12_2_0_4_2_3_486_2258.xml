@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2258</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-06-12_2_0_4_2_3_486_2258"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-06-12_2_0_4_2_3_486_2258"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-06-12_2_0_4_2_3_486_2258</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601997" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2258</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-06-12" to="1177-06-12">1177 vor Juni 12</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aule curieque canc. vice Philipi Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Udalrich von Aquileia, Erzbischof Arnold von Trier, die Bischöfe Hermann von Bamberg und Garsidonius von Mantua, Propst Otto von Aachen, Herzog Leopold von Österreich, Marschall Heinrich und Mundschenk Konrad (von Oberschüpf)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster San Giovanni Evangelista zu Ravenna</hi>  auf Bitten des Abtes Placitus in Erneuerung seiner früher gewährten Urkunde (Reg. 2257) in seinen Schutz, bestätigt ihm die namentlich angeführten Besitzungen samt der Gerichtshoheit (<hi rend="italic">omne placitum et omne districtum</hi>) über dieselben und befreit es von jeglichen Abgaben (<hi rend="italic">nomine fodri seu alicuius collecte aut albergarie vel perangarie</hi>) unter Vorbehalt der kaiserlichen Gerechtsame. <span n="witnesses">Z.: Patriarch Udalrich von Aquileia, Erzbischof Arnold von Trier, die Bischöfe Hermann von Bamberg und Garsidonius von Mantua, Propst Otto von Aachen, Herzog Leopold von Österreich, Marschall Heinrich und Mundschenk Konrad (von Oberschüpf)</span>. — <span n="chancellor"><hi rend="italic">Godefridus imperialis aule curieque canc. vice Philipi Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">verfaßt von Burkhard</span>. <span n="incipit"><hi rend="italic">Notum facimus omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1728 von Scalabrini, Stadtbibliothek zu Ferrara, Cod. 232, 12.Quaternio, p. 35 (D). Drucke: Scheffer-Boichorst, Urkunden und Forschungen, NA 24 (1899) 198; MG.DF.I.675.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zur Rekonstruktion des schlecht erhaltenen Textes vgl. die Vorbemerkung zum D. — Die zeitliche Einordnung ergibt sich aus dem Tod Bischof Hermanns vom Bamberg am 12. Juni 1177 in Venedig, Notae sepulcrales Babenbergenses, MG. SS XVII, 641 (vgl. v.Guttenberg, Das Bistum Bamberg 1, 156), doch könnte auf Grund des Empfängers auch an den Aufenthalt des Kaisers in Ravenna während des Monats Mai 1177 gedacht werden. — Bei dem hier erwähnten, ersten Schutzprivileg Barbarossas für das Kloster handelt es sich um ein Deperditum, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-06-12_1_0_4_2_3_485_D2257.html" type="internal" n="regesten">2257</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0171" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_675" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

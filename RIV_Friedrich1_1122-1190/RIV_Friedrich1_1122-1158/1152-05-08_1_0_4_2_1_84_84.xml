@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 84</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-08_1_0_4_2_1_84_84"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-05-08_1_0_4_2_1_84_84"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-05-08_1_0_4_2_1_84_84</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235425" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 84</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-05-08" to="1152-05-08">1152 Mai 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus maii, Goslarie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Bischöfe Bernhard von Hildesheim, Wichmann von Zeitz, Anselm von Havelberg, Abt Wibald von Stablo und Corvey, Herzog Heinrich von Sachsen, Markgraf Albrecht von Brandenburg, <hi rend="italic">dominus</hi>  Welf, der Oheim des Königs, Pfalzgraf Otto von Wittelsbach, Graf Ulrich von Lenzburg, Markward von Grumbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt gemäß den Privilegien seiner Vorgänger, Lothar III. und Konrad III., die volle Unterordnung des Klosters Hastière (<hi rend="italic">Hasteriensis</hi>) unter die Abtei Waulsort (<hi rend="italic">Walcidorensis</hi>). <span n="witnesses">Z.: die Bischöfe Bernhard von Hildesheim, Wichmann von Zeitz, Anselm von Havelberg, Abt Wibald von Stablo und Corvey, Herzog Heinrich von Sachsen, Markgraf Albrecht von Brandenburg, <hi rend="italic">dominus</hi>  Welf, der Oheim des Königs, Pfalzgraf Otto von Wittelsbach, Graf Ulrich von Lenzburg, Markward von Grumbach</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi> </span>; in Wiederholung des DK. III. 251 (VU. I), erweitert um einen Passus über die vermögensrechtliche Verfügungsgewalt des Abtes von Waulsort über Hastière aus dem kurz vorher entstandenen, unechten DL. III. 131 (VU. II), wohl mundiert von Wibald. <span n="incipit"><hi rend="italic">Ad imperialem munificentiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad imperialem munificentiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von ca. 1525 im Liber monasteriorum Walsiodorensis et Hasteriensis f. 118, Seminarbibliothek Namur (C); Beglaubigte Abschrift von 1735 im Liber quartus cartarum von Waulsort f. 128, Staatsarchiv Namur (D). Drucke: Stumpf, Acta ined. 145 n<hi rend="sup">o</hi>  118; Despy, Chartes de Waulsort 1, 361 n<hi rend="sup">o</hi>  28; MG. DF. I. 9. Reg.: Wauters, Table chronol. 7/1, 255 zu Mai 5; Stumpf 3624.</p></div>
+				
+				
+					<div type="commentary"><p>Erwirkt von Wibald, der seit seiner Profeß in engen Beziehungen zu Waulsort stand, vgl. die Vorbemerkungen zu DL. III. 131 und DK. III. 251 sowie auch Hausmann, Reichskanzlei 234; für eine Mundierung durch Wibald spricht vor allem das in D nachgezeichnete Monogramm, das dem in dem von ihm mundierten DF. I. 1 (s. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-03-09_2_0_4_2_1_67_67.html" type="internal" n="regesten">67</ref>) entspricht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0032" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_9" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

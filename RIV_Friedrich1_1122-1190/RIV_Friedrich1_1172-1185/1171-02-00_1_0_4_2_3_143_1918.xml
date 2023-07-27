@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1918</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-02-00_1_0_4_2_3_143_1918"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-02-00_1_0_4_2_3_143_1918"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-02-00_1_0_4_2_3_143_1918</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597091" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1918</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-02-01" to="1171-02-28">1171 Mitte Februar</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>zwischen Toul und Vaucouleurs <hi rend="italic">(inter Tullum et Uallemcolorum)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt die anläßlich seines Treffens mit König <hi rend="spaced">Ludwig (VII.) von Frankreich</hi>  (vgl. Reg. 1917) mit diesem getroffene Vereinbarung über die Bekämpfung der Brabanzonen (<hi rend="italic">Braubantiones sive Coterelli</hi>) im Gebiet zwischen dem Rhein, den Alpen und der Stadt Paris, gemäß der künftig weder er noch seine Leute solche Brabanzonen halten werden, es sei denn, diese Leute hätten bereits in einem bestimmten Herrschaftsbereich eine Ehefrau genommen oder sie wären von einem Herren bereits vor dieser Vereinbarung auf Dauer aufgenommen worden; zur Einhaltung dieses Abkommens verpflichten sich alle anwesenden Erzbischöfe, Bischöfe und sonstigen Herren, die auch hinsichtlich der Abwesenden zusagen, im Fall der Nichtbeachtung der Vereinbarung mit Exkommunikation, Interdikt und Waffengewalt vorzugehen; seitens des Kaisers verpflichtet sich Herzog Matthäus von Lothringen, seitens des Königs Graf Heinrich von Troyes zur Beachtung des Abkommens. — Unbekanntes Diktat. <span n="incipit"><hi rend="italic">Amicus noster karissimus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Amicus noster karissimus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des frühen 13. Jhs. im Ms. 964 (713) f. 61', Stadtbibliothek Arras (B). Drucke: MG. Const. 1, 331 n<hi rend="sup">o</hi>  237; MG.DF.I.575. Reg.: Stumpf 4120 zu 1170 Herbst.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Form dieses mandatsähnlichen Rundschreibens ebenso wie zur zeitlichen Einordnung vgl. die Vorbemerkung zum D. sowie Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-02-14_1_0_4_2_3_142_1917.html" type="internal" n="regesten">1917</ref>. — Im Zusammenhang mit diesem Treffen Friedrichs mit dem Kapetinger wurde Bischof Pontius von Clermont, <hi rend="italic">qui familiaris exstiterat imperatori</hi>, einer Verschwörung gegen Ludwig VII. bezichtigt, konnte aber dann am Hofe in Paris seine Unschuld nachweisen, vgl. dazu E Vita et Miraculis sancti Thomae a Willelmo monacho Cantuariensi editis, MG. SS XXVII, 39. — Papst Alexander III. wandte sich in einem Schreiben vom 1. Juni 1171 (Jaffé-L. 11.894, ed. Martène — Durand, Vet. script. ampl. coll. II, Sp. 936 n<hi rend="sup">o</hi>  392) an Erzbischof Heinrich von Reims mit der Bitte um genauere Informationen über die Unterredung zu Vaucouleurs, woraus zu ersehen ist, daß der Reimser Metropolit wohl zum Kreis der im D. angesprochenen, anwesenden Erzbischöfe gehört haben dürfte. — Die historische Bedeutung dieses Stückes liegt vor allem darin, daß damit der Wandel in den Bündnisverhältnissen der Zeit, das Ende der staufisch-englischen und der Beginn der staufisch-kapetingischen Freundschaft dokumentiert wird, vgl. dazu zuletzt Opll, Friedrich Barbarossa, 289 f. — Zum Inhalt der Vereinbarung gegen die &amp;quot;Brabanzonen&amp;quot; genannten Söldner vgl. Grundmann, Brabanzonen, DA 5 (1942) 449 ff. sowie jetzt auch Thorau, Der (un)willkommene Grenzgänger, in: Grenzen erkennen &amp;lt;&amp;gt; Begrenzungen überwinden. FS Reinhard Schneider (1999) 205 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0058" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_575" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

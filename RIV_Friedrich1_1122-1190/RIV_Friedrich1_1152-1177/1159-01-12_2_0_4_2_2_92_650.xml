@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 650</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-01-12_2_0_4_2_2_92_650"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-01-12_2_0_4_2_2_92_650"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-01-12_2_0_4_2_2_92_650</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241682" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 650</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-01-12" to="1159-01-12">1159 Januar 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Turin">Turin</placeName>
+												<location><geo decls="#WGS">45.0667, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(pridie idus ianuarii, apud Taurinum)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Genuario di Lucedio</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus sacri palacii canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Abtes Constantin das Kloster <span sameAs="recipient"><hi rend="spaced">S. Genuario di Lucedio</hi> </span>  (<hi rend="italic">monasterium beati Michaelis archangeli et sanctorum Ianuarii atque Bononii situm Locydio</hi>) in seinen Schutz, bestätigt ihm wegen der häufigen Privilegierungen durch seine Vorgänger die genannten Besitzungen mit allen Zugehörungen, jedoch unter Vorbehalt der kaiserlichen Gerechtsame, gewährt ihm eine Verjährungsfrist von 200 Jahren hinsichtlich entfremdeter Güter und unterstellt es dem Reich. - <span n="chancellor"><hi rend="italic">Reinaldus sacri palacii canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Sicut ratio suadet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut ratio suadet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Turin, Abbazie, S. Genuario di Lucedio mazzo I (A). Kop.: Notarielle Abschrift von 1337 September 9 ebenda (B); Originaltranssumpt von 1567 Januar 28 ebenda (C). Drucke: Stumpf, Acta ined. 497 n<hi rend="sup">o</hi>  349; Gasparolo, Cartario Alessandrino, BSSS 115 (1930) 9 n<hi rend="sup">o</hi>  187; MG. DF. I. 249. Reg.: Torelli, Reg. Mantovano 209 n<hi rend="sup">o</hi>  307; Stumpf 3835a.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Haverkamp, Herrschaftsformen, 127.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0042" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_249" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

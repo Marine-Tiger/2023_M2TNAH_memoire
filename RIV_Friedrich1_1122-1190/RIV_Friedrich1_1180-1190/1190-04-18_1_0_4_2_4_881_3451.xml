@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3451</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-18_1_0_4_2_4_881_3451"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-04-18_1_0_4_2_4_881_3451"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-04-18_1_0_4_2_4_881_3451</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3451</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-04-18" to="1190-04-18">1190
+									April 15–18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">Meleos</hi> (Mermere, heute: Gölmarmara) – <hi rend="italic">Ayos</hi>  (heute: Mermere oder Dereköi bei Sardes?)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer zieht an der zerstörten <hi rend="italic">civitas Meleos</hi> vorbei und gelangt danach zur 									<hi rend="italic">civitas Ayos</hi>, wo man Lager bezieht. 								Hierher übersendet Kaiser (Isaak II. Angelos) dem staufischen Kaiser 								ein Zelt und einen goldenen Becher als Geschenk, macht ihm aber 								entgegen seiner Zusage nicht persönlich die Aufwartung.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 73 (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 128); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 154; vgl. 								Alberti Milioli Cron. imp., MG. SS XXXI, 648; Salimbene de Adamo von 								Parma, Chronica, MG. SS XXXII, 10.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Lokalisierung der genannten Orte vgl. 								Eickhoff, Barbarossa im Orient, 93, sowie Opll, Itinerar, 105 f. 								Bühler, a.a.O.,164 Anm. 269, vermutet bei der nur unsicher zu 								identifizierenden <hi rend="italic">civitas Ayos</hi> eine 								Verwechslung mit Aigai in Kilikien, da Ansbert ausdrücklich darauf 								verweist, dass die Heiligen Kosmas und Damian in Ayos das Martyrium 								erlitten hätten, was eben auf Aigai zutrifft.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

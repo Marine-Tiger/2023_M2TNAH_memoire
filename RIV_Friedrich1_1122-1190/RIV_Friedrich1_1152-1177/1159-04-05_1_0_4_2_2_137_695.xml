@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 695</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-04-05_1_0_4_2_2_137_695"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-04-05_1_0_4_2_2_137_695"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-04-05_1_0_4_2_2_137_695</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 695</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-04-05" to="1159-04-05">1159 April 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Piacenza">Piacenza</placeName>
+												<location><geo decls="#WGS">44.8833, 9.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich zieht wegen verschiedener Machenschaften der Piacentiner, darunter der Beraubung eines kaiserlichen Boten, der aus Genua das versprochene Geld (vgl. Reg. 634), etwa 500 Talente, bringen sollte, mit geringer Mannschaft in diese Stadt und feiert dort den Palmsonntag. Er greift hart durch und erhält das entwendete Geld zurück. Friedrich empfängt Bischof Gerald von Cahors, der auf seinem Rückweg abermals den Hof aufsucht (vgl. Reg. 638), ehrenvoll.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 31, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 274; zum Empfang des Bischofs vgl. die Erwähnung in dessen Schreiben an Friedrich von (1170), ed. Bouquet, Recueil 16, 696 n<hi rend="sup">o</hi>  21.</p></div>
+				
+				
+					<div type="commentary"><p>Zur damaligen Situation in Piacenza vgl. Opll, Potestates Placentie, MIÖG 93 (1985) 43 f. und dazu (genauer: zu der in italienischer Übersetzung erschienenen Fassung dieses Aufsatzes, in: Boll. storico piacentino 81, 1986, 231 ff.) die Besprechung von Settia, in: Boll. stor. bibliograf. subalpino 85 (1987) 277, der auf den von mir übersehenen Druck der behandelten Piacentiner Privaturkunde in: Documenti degli archivi di Pavia relativi alla storia di Voghera, a. cura di L. C. Bollea. (BSSS 46, 1909) 33 ff. n<hi rend="sup">o</hi>  23 aufmerksam macht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0053" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

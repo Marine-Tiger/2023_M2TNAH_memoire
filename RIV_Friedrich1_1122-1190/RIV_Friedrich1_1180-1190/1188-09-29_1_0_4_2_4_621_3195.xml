@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3195</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-29_1_0_4_2_4_621_3195"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-29_1_0_4_2_4_621_3195"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-09-29_1_0_4_2_4_621_3195</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848581" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3195</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-09-29" to="1188-09-29">1188
+									September 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Burg Altenburg (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> kal. octobris, apud castrum Aldenburch</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>in der Kanzlei, wohl von GK, verfasst, 									geschrieben von GI</scribe>
+				
+				
+					<testis function="witnesses">Bischof Berthold von Naumburg, Markgraf Otto von Meißen, 									Graf Albert von Eberstein, die Burggrafen Konrad von Nürnberg, 									Konrad von Döben (<hi rend="italic">Dewin</hi>) und Gotebold von 									Naumburg, Swidger von Imnitz und sein Bruder Bruno, Petrus von 									Hagen (oder: Hainspitz) und sein Bruder Berero, Thiemo von 									Colditz und sein Sohn Ulrich, Friedrich von Groitzsch (<hi rend="italic">Grovsche</hi>), Hugo der Jüngere von Warthe, 									Gerhard von Nöbdenitz (<hi rend="italic">Nibodiz</hi>), Heinrich 									von Weida, Wichmann von Altengroitzsch (<hi rend="italic">Aldengroz</hi>), Heinrich von Raspehas (<hi rend="italic">Rozewaz</hi>), Hedenrich von (Zürchau-)Maltis (<hi rend="italic">Maltes</hi>), (Mundschenk) Konrad von 									Wallhausen (<hi rend="italic">Walthusen</hi>), (Truchsess) Hugo 									von Sulz, (Marschall) Eckbert von (Kaisers-)Lautern und Kämmerer 									Konrad</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich übergibt <hi rend="spaced">Bischof 									Eberhard von Merseburg und seiner bischöflichen Kirche </hi>auf 								Bitten des Markgrafen Dedo (der Lausitz) aus dem Reichsgut zwölf 								Hufen in Lössnig (<hi rend="italic">in villa Lesnich</hi>) zum 								Nutzgenuss des Bischofs und der Kirche als Entschädigung für sieben 								Hufen mit gleichem jährlichen Ertrag in Stolpen (<hi rend="italic">in villa Stulpe</hi>), die Bischof Eberhard von Merseburg mit 								Zustimmung des Klerus und aller in diesem Zusammenhang zu 								Befragenden dem Kloster Pegau (<hi rend="italic">monasterio 									Pigaugiensi</hi>), ebenfalls auf Bitten des genannten 								Markgrafen, abgetreten hat. Er bestätigt dem Bischof gleichfalls auf 								Eintreten des vorgenannten Markgrafen eine weitere Hufe in 								Köttwitzsch (<hi rend="italic">Cotewiz</hi>). <span n="witnesses">Z.: Bischof Berthold von Naumburg, Markgraf Otto von Meißen, 									Graf Albert von Eberstein, die Burggrafen Konrad von Nürnberg, 									Konrad von Döben (<hi rend="italic">Dewin</hi>) und Gotebold von 									Naumburg, Swidger von Imnitz und sein Bruder Bruno, Petrus von 									Hagen (oder: Hainspitz) und sein Bruder Berero, Thiemo von 									Colditz und sein Sohn Ulrich, Friedrich von Groitzsch (<hi rend="italic">Grovsche</hi>), Hugo der Jüngere von Warthe, 									Gerhard von Nöbdenitz (<hi rend="italic">Nibodiz</hi>), Heinrich 									von Weida, Wichmann von Altengroitzsch (<hi rend="italic">Aldengroz</hi>), Heinrich von Raspehas (<hi rend="italic">Rozewaz</hi>), Hedenrich von (Zürchau-)Maltis (<hi rend="italic">Maltes</hi>), (Mundschenk) Konrad von 									Wallhausen (<hi rend="italic">Walthusen</hi>), (Truchsess) Hugo 									von Sulz, (Marschall) Eckbert von (Kaisers-)Lautern und Kämmerer 									Konrad</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></span>; <span n="clerk">in der Kanzlei, wohl von GK, verfasst, 									geschrieben von GI</span>; <span n="seal"> SP.2</span>. <span n="incipit"><hi rend="italic">Familiare nobis est</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Familiare nobis est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Domstiftsarchiv Merseburg 								(A). Kop.: Chartularium magnum aus dem frühen 15. Jh. f. 100’, 								Domstiftsbibliothek Merseburg (B). Teilfaks.: Koch, Schrift der 								Reichskanzlei, Abb. 83. Drucke: Kehr, UB. des Hochstiftes 								Merseburg 1, 110 n<hi rend="sup">o</hi> 131; 								MG.DF.I.982. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 797; Dolch – Münch, UB. der Stadt Kaiserslautern 1, 64 									n<hi rend="sup">o</hi> 62; Stumpf 4503.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Identifizierung der unter den Zeugen genannten 								Brüder Petrus und Berero von Hagen (Kr. Jerichower Land) oder 								Hainspitz (Holzlandkreis) vgl. Plassmann, Struktur des Hofes, 279 								und 289; zu der des Gerhard von Nöbdenitz (Kr. Altenburg; in der 								DD.Ausgabe: Nobitz), der wohl mit Gerhard von Altenburg bzw. von 								Braunshain identisch ist, vgl. Plassmann, a.a.O., 285. – Der 								Aufenthalt des Kaisers in Altenburg wird auch bei Gislebert von 								Mons, ed. Vanderkindere, 227, anlässlich eines Aufenthalts von Boten 								des Grafen Balduin V. von Hennegau bei König Heinrich VI. in 								Frankfurt erwähnt: In Altenburg sollte der Graf nämlich zum König 								sowie zum Kaiser kommen, um weitere Gespräche über die Durchsetzung 								seines Anspruchs auf das Erbe Namur-Luxemburg zu führen. Tatsächlich 								kam es dann erst in Erfurt zu der schon in Frankfurt vereinbarten 								Begegnung (siehe dazu unten Reg. 3199).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_982" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

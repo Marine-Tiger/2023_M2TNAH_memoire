@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2540</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-13_1_0_4_2_3_769_2540"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-04-13_1_0_4_2_3_769_2540"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-04-13_1_0_4_2_3_769_2540</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1447228105" value="2015-11-11"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2540</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-04-13" to="1180-04-13">1180 April 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen <hi rend="spaced">Hoftag</hi>  zu Gelnhausen im Mainzer Gebiet</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(idibus aprilis, in sollempni curia Geilinhusin in territorio Maguntino)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice Cristiani Maguntinę sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt (in manchen Partien Einfluß der Kölner erzbischöflichen Kanzlei faßbar) und geschrieben von Gottfried G</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Trier, Wichmann von Magdeburg und Konrad von Salzburg, Elekt Siegfried von Bremen, die Bischöfe Konrad von Worms, Rudolf von Lüttich, Bertram von Metz und Arnold von Osnabrück, die Äbte Konrad von Fulda und Adolf von Hersfeld, Propst Lothar von Bonn, Ludwig, Pfalzgraf von Sachsen und Landgraf von Thüringen, die Herzoge Bernhard von Westfalen und Engern, Gottfried von (Nieder)Lothringen und Friedrich von Schwaben, die Markgrafen Otto von Brandenburg und Dietrich der Lausitz, die Grafen Dedo von Groitzsch, Siegfried von Orlamünde, Rupert von Nassau, Emicho von Leiningen, Engelbert von Berg, Dietrich von Hochstaden, Gerard von Nürburg, Heinrich von Arnsberg, Hermann von Ravensberg, Heinrich von Kuik und Werner von Wittgenstein, Widekind von Waldeck, Friedrich von Ampfurth, Hartmann von Büdingen, Werner von Bolanden, Mundschenk Konrad (Colbo von Oberschüpf), Marschall Heinrich von Pappenheim und Kämmerer Siboto von Groitzsch</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet, daß Heinrich (der Löwe), der frühere Herzog von Bayern und Westfalen, der wegen der Bedrückung von Kirchen und Edelfreien nach seiner Weigerung, auf Aufforderung bei Hofe zu erscheinen, durch Spruch der Fürsten und seiner schwäbischen Standesgenossen der Reichsacht (vgl. Reg. 2500) verfallen ist, wegen weiterer Widerspenstigkeit und Majestätsverletzung (<hi rend="italic">pro evidenti reatu maiestatis</hi>) und Mißachtung der nach Lehnsrecht erforderlichen dreifachen Ladung vor das Hofgericht als <hi rend="italic">contumax</hi> verurteilt worden ist, ihm die Herzogtümer Bayern wie auch Westfalen und Engern sowie alle seine Reichslehen auf dem feierlichen <hi rend="spaced">Hoftag</hi> zu Würzburg durch einhelligen Spruch der Fürsten entzogen und ihm (= dem Kaiser) zugesprochen worden sind (vgl. Reg. 2530), und beurkundet, daß er das Herzogtum Westfalen und Engern nach Beratungen mit den Fürsten mit deren Zustimmung wie auch der seines Verwandten, Herzog Bernhards (von Sachsen), geteilt habe und den im Bereich der Bistümer Köln und Paderborn gelegenen Teil der <hi rend="spaced">Kölner Kirche</hi> übertragen und ihn an <hi rend="spaced">Erzbischof Philipp von Köln</hi> zu Lehen (<hi rend="italic">vexillo imperiali sollempniter investivimus</hi>) ausgetan hat. <span sameAs="testis">Z.: die Erzbischöfe Arnold von Trier, Wichmann von Magdeburg und Konrad von Salzburg, Elekt Siegfried von Bremen, die Bischöfe Konrad von Worms, Rudolf von Lüttich, Bertram von Metz und Arnold von Osnabrück, die Äbte Konrad von Fulda und Adolf von Hersfeld, Propst Lothar von Bonn, Ludwig, Pfalzgraf von Sachsen und Landgraf von Thüringen, die Herzoge Bernhard von Westfalen und Engern, Gottfried von (Nieder)Lothringen und Friedrich von Schwaben, die Markgrafen Otto von Brandenburg und Dietrich der Lausitz, die Grafen Dedo von Groitzsch, Siegfried von Orlamünde, Rupert von Nassau, Emicho von Leiningen, Engelbert von Berg, Dietrich von Hochstaden, Gerard von Nürburg, Heinrich von Arnsberg, Hermann von Ravensberg, Heinrich von Kuik und Werner von Wittgenstein, Widekind von Waldeck, Friedrich von Ampfurth, Hartmann von Büdingen, Werner von Bolanden, Mundschenk Konrad (Colbo von Oberschüpf), Marschall Heinrich von Pappenheim und Kämmerer Siboto von Groitzsch</span>. — <span n="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice Cristiani Maguntinę sedis archiep. et Germanię archicanc.</hi> </span>; <span n="clerk">verfaßt (in manchen Partien Einfluß der Kölner erzbischöflichen Kanzlei faßbar) und geschrieben von Gottfried G</span>; <span n="seal">B.2.</span> <span n="incipit"><hi rend="italic">Quoniam humana labilis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam humana labilis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf, Kriegsverlust des Zweiten Weltkriegs (A). Kop.: Abschrift aus dem Anfang des 14. Jh. im Chartular des Kölner Domkapitels Geistl. Abt. 79 f. 50, Historisches Archiv der Stadt Köln (B); Abschrift aus den siebziger Jahren des 14. Jh. (unvollständig nach dem damals wegen Feuchtigkeitsschäden bereits zum Teil nicht mehr lesbaren Original), Kurköln Chartulare 1 f. 13, Hauptstaatsarchiv Düsseldorf (C). Faks.: Güterbock, Die Gelnhäuser Urkunde, 23; Heinrich der Löwe und seine Zeit. Bd. 1. (Katalog der Ausstellung Braunschweig 1995) 267. Drucke: MG. Const. 1, 384 n<hi rend="sup">o</hi> 279; Güterbock, Die Geinhäuser Urkunde, 23; Weinrich, Quellen, 298 n<hi rend="sup">o</hi> 74; MG.DF.I.795. Regg.: Knipping, Reg.2, n<hi rend="sup">o</hi> 1145; Diestelkamp — Rotter, Urkundenregesten 1, 352 n<hi rend="sup">o</hi> 449; Stumpf 4301.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung sowie zur diplomatischen Kritik vgl. die Vorbemerkung zum D. mit den dort gebotenen Hinweisen. — Zur historischen Beurteilung der sogenannten &amp;quot;Gelnhäuser Urkunde&amp;quot;, eines der wohl bedeutendsten verfassungs- und rechtsgeschichtlichen Dokumente des hohen Mittelalters überhaupt, vgl. neben der Vorbemerkung und der dort genannten Arbeit von Heinemeyer, Prozeß, Bll.f.dt.LG 117 (1981) auch weitere in diesem Band der Bll.f.dt.LG enthaltene Beiträge, des weiteren den Sammelband Heinrich der Löwe, hg. von Mohrmann, sowie — im Überblick — die Darstellung bei Jordan, Heinrich der Löwe 202 f., und zuletzt Weinfurter, Entmachtung, in: Heinrich der Löwe und seine Zeit, Bd. 2. (Katalog der Ausstellung Braunschweig 1995) 187 f. — Zu dem unter den Zeugen genannten Grafen Dietrich von Hochstaden, dem Grafen von Nürburg und zur Identität des Widekind von Waldeck (Kr Waldeck-Frankenberg) mit Graf Widekind von Schwalenberg (Kr. Lippe) vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 245, 265, 274 und 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1447228818" value="2015-11-11"></date><p n="author">Dieter Rübsamen</p><p>Faksimile: W. Janssen, Adelsherrschaft und Herzogsgewalt : Politische Strukturen und Entwicklungen zwischen Ruhr und Lippe 1180-1300, in: AufRuhr 1225! : Ritter, Burgen und Intrigen ; das Mittelalter an Rhein und Ruhr ; Ausstellung, Mainz 2010, S. 49 (nach LBA Marburg).</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0270" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_795" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

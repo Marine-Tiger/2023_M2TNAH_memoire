@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 489</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-27_1_0_4_2_1_491_489"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-10-27_1_0_4_2_1_491_489"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-10-27_1_0_4_2_1_491_489</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239886" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 489</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-10-27" to="1157-10-27">1157 Oktober 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI kal. novembris, Bisuncii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. laut C.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Stephan</hi>  <hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Domkapitel</hi>  <hi rend="spaced">Vienne</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reynaldus canc. vice Stephani Vigenennsis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DF. I. 62 (Reg. 184, VU.) nach Kanzleidiktat (ausgiebige Benützung des im Cod. Udalrici enthaltenen Formulargutes) von RD mundiert</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Humbert von Besançon, Petrus von Tarentaise, die Bischöfe Wilhelm von Novara, Albert von Trient, Ulrich von Treviso, die Herzoge Berthold von Zähringen, Matthäus von Lothringen, Pfalzgraf Otto von Wittelsbach</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Stephan</hi> </span>, dem Domdekan <span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>  sowie deren Nachfolgern und dem <span sameAs="recipient"><hi rend="spaced">Domkapitel</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Vienne</hi> </span>  (<hi rend="italic">matri ecclesie sancti Mauricii Viennensi metropoli</hi>) die <hi rend="italic">custodia</hi>  über die kaiserliche Stadt Vienne während seiner Abwesenheit, die Burg Pipet (<hi rend="italic">Popetum</hi>), das Palais des Canaux (<hi rend="italic">Canales</hi>) und die Pfalz, schließt alle Laien von der Stadtherrschaft aus, er bestätigt ihre Besitzungen, anerkennt Erzbischof Stephan als Erzkanzler des Königreiches Burgund (<hi rend="italic">in regno Burgundie sacri palacii nostri archicancellarius et summus notariorum nostrorum</hi>), bestätigt das Marktregal, die Gerichtsbarkeit (<hi rend="italic">commune eciam forum agencium et sustinencium, causas tam civiliter quam criminaliter nostra concessione teneas et possideas</hi>) sowie die Privilegien seiner Vorgänger und erklärt die Bürger von Vienne und Romans (<hi rend="italic">cives Viennenses et Romanenses</hi>) für verpflichtet, ihm bei Aufenthalten des Kaisers in seiner Stadt, für Hoffahrt und Heerfolge Beisteuer zu leisten. <span n="witnesses">Z.: die Erzbischöfe Humbert von Besançon, Petrus von Tarentaise, die Bischöfe Wilhelm von Novara, Albert von Trient, Ulrich von Treviso, die Herzoge Berthold von Zähringen, Matthäus von Lothringen, Pfalzgraf Otto von Wittelsbach</span>. - <span n="chancellor"><hi rend="italic">Reynaldus canc. vice Stephani Vigenennsis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DF. I. 62 (Reg. 184, VU.) nach Kanzleidiktat (ausgiebige Benützung des im Cod. Udalrici enthaltenen Formulargutes) von RD mundiert</span>; <span n="seal">B. 2. laut C.</span> <span n="incipit"><hi rend="italic">Principalem munificenciam decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Principalem munificenciam decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 15. Jh. aus notarieller Kopie von 1281 im Cod. B. 3015 f. 87', Departementalarchiv Grenoble (C); Abschrift von 1664 im Ms. lat. 5662 p. 184, Nationalbibliothek Paris (D<hi rend="sup">1</hi>); Abschrift aus der Mitte des 18. Jh. im Ms. lat. 10.950 p. 301 ebenda (D<hi rend="sup">2</hi>). Drucke: Böhmer, Acta imp. 95 n<hi rend="sup">o</hi>  102; Hirsch, Urkundenfälschungen (Forsch. zur Gesch. d. deutschen Kaiserzeit 1, 1937) 164 n<hi rend="sup">o</hi>  3; MG. DF. I. 184. Reg.: Chevalier, Reg. Dauphinois 1, Sp. 674 n<hi rend="sup">o</hi>  4032 (und identisch 4033); Stumpf 3780.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Frage des Diktators der nun einsetzenden Gruppe von DD. vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 341 ff. Zum Nachweis der Echtheit und zur Frage eines nur wenig wahrscheinlichen Deperditums für Vienne vgl. die Vorbemerkung zum D. Nachurkunde Hadrians IV., Deperditum von 1158 März 15, JL. *10391, vgl. dazu Chevalier, Reg. Dauphinois 1, Sp. 676 n<hi rend="sup">o</hi>  4042. Das Diplom ist auch in den Series epp. Viennensium, MG. SS XXIV, 815 erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0165" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_184" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

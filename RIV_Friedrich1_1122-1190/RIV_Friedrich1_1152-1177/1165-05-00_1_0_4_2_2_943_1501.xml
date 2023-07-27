@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1501</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-05-00_1_0_4_2_2_943_1501"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-05-00_1_0_4_2_2_943_1501"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-05-00_1_0_4_2_2_943_1501</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247025" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1501</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-05-01" to="1165-08-31">(1165 Mai-August)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ministerialen</hi>  <hi rend="spaced">Salzburger Kirche</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ermahnt die <span sameAs="recipient"><hi rend="spaced">Ministerialen</hi> </span>  der <span sameAs="recipient"><hi rend="spaced">Salzburger Kirche</hi> </span>, dem Reich angesichts des Aufruhrs in der Geistlichkeit und auch bei einigen Laien ihrer Kirche die Treue zu halten, um das Erzstift vor einer drohenden Zerstörung zu bewahren, und lädt sie ein, noch vor dem Tag in Worms, den er dem Elekten (Konrad), seinem Oheim, dem Klerus und der <hi rend="italic">familia</hi>  des Erzstiftes gesetzt habe, zu Verhandlungen an den Hof zu kommen. - <span n="incipit"><hi rend="italic">Vos scitis et videtis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Vos scitis et videtis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. XI 671 f. 500, Landesbibliothek Hannover (D). Drucke: Hödl - Classen, Salzburger Briefsammlung, MG. Briefe VI, 159 n<hi rend="sup">o</hi>  6; MG. DF. I. 488.</p></div>
+				
+				
+					<div type="commentary"><p>Zur richtigen zeitlichen Einordnung vgl. bereits W. Schmidt, Salzburg, Arch. f. österr. Gesch. 34 (1865) 138 sowie ihm folgend Riedmann, Reichskanzlei, MIÖG 76 (1968) 82 Anm. 39. - Zum Wormser Hoftag vom September 1165 vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-09-00_1_0_4_2_2_954_1512.html" type="internal" n="regesten">1512</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0248" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_488" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

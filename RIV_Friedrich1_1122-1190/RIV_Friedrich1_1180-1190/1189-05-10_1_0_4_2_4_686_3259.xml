@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3259</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-10_1_0_4_2_4_686_3259"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-10_1_0_4_2_4_686_3259"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-10_1_0_4_2_4_686_3259</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3259</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-10" to="1189-05-10">1189
+									(um Mai 10)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Hoftag zu Regensburg</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich hält 								einen feierlichen Hoftag, auf dem alle Kreuzzugsteilnehmer – viele 								sind bereits um den 1. Mai eingetroffen und haben den Kaiser hier 								erwartet (Ann. Pegav.) – zusammenkommen. Wegen der überaus 								vielfältigen Zusammensetzung des Kreuzheeres – eine ungeheure Menge 								Volkes aus allen möglichen Ländern hat sich hier versammelt – hegt 								er Zweifel an der Sinnhaftigkeit der Fortsetzung des Kreuzzuges, 								hält aber dann nach Beratungen an seinem Vorhaben fest (Arnoldi 								Chron. Slavorum). Das Heer besteht aus einer großen Menge von 								Teilnehmern, eine auf Befehl des Kaisers vorgenommene Zählung ergibt 								13.000 Teilnehmer (Chron. Reinhardsbrunn.; in anderen Quellen finden 								sich unterschiedliche Angaben, die von einer Gesamtzahl von 20.000 								bis zu 100.000, in arabischen Quellen sogar 200.000, 260.000 und 								300.000 Kämpfern reichen, siehe dazu unten die Hinweise auf die 								einschlägige Überlieferung). Auf seinem letzten Hoftag belehnt 								Friedrich nach dem Tod Herzog Friedrichs von Böhmen († 25. März 								1189) Konrad von Mähren, auch Otto genannt, durch die Übergabe der 								Fahnen mit dem Herzogtum Böhmen (Cont. Gerlaci abbatis 									Milovicensis<hi rend="italic">: … de manu imperatoris in ultima 									eius curia, …, vexilla percepit.</hi>). Nachdem er seinem Sohn 								König Heinrich (VI.) die Herrschaft übertragen hat, bricht Friedrich 								von Regensburg aus über die Donauroute zum Kreuzzug auf (Cont. 								Zwetlensis altera und Chron. reg. Col.; siehe dazu auch unten Reg. 								3266).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pegav., MG. SS XVI, 266; Ann. 								Stederburg., MG. SS XVI, 221 (zu April 23) und 223; Ann. Venetici 								breves, MG. SS XIV, 72 (mehr als 100.000 Personen, darunter 40.000 								edle Ritter); Arnoldi Chron. Slavorum l. IV cap. 8, MG. SS XXI, 171 								(ohne Datum); Cont. Zwetlensis altera, MG. SS IX, 543; Cont. Gerlaci 								abbatis Milovicensis, MG. SS XVII, 706; Chron. Fuldensis, ed. 								Heinemeyer, AfD Beiheft 1 (1976) 91 Nr. 13a (Kreuzfahrer kommen 								schon um Ostern = April 9 in Regensburg zusammen); Chron. Montis 								Sereni, MG. SS XXIII, 161 (zu April 23: <hi rend="italic">Erat enim 									numerus bene armatorum preter vulgus centum milia.</hi>); Chron. 								reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 144 (zu April 								23); Chron. Reinhardsbrunn., MG. SS XXX, 543 (<hi rend="italic">apparatus regii scire desiderans integritatem</hi>); Cron. s. 								Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. 								schol., 195 (zu April 23); Gesta Fed. I. imp. in expeditione sacra, 								ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 78 ff. sowie 98 								(zu April 23; nennen 90.000 Kreuzritter und weiters 20.000 								Fußtruppen sowie unterschiedlich ausgestattete Bogenschützen); 								Gislebert von Mons, ed. Vanderkindere, 235 f. (etwa 20.000 Ritter, 								wobei in dieser Zahl die Knechte, Bürger, Kleriker und die übrigen 								Fußtruppen nicht mitgezählt sind); Gotifredi Viterbiensis Cont. 								Funiacensis et Eberbacensis, MG. SS XXII, 345 (100.000 Kämpfer); 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 407 								(Aufenthalt in Regensburg wird als <hi rend="italic">maximum 									concilium</hi> bezeichnet, das gemeinsam mit 17 Bischöfen und 								allen Fürsten die ganze Fastenzeit und das Osterfest über andauerte 								– diese Angaben weisen auf eine Verwechslung mit dem Regensburger 								Aufenthalt des Jahres 1187 hin, siehe dazu oben Reg. 3052); Ex 								Radulfi de Diceto Ymaginibus historiarum, MG. SS XXVII, 261 und 278 								(Aufbruch zum Kreuzzug von Regensburg aus; zu April 23); L’estoire 								de Eracles (Recueil des Historiens des Croisades, Sér. II: 								Historiens occidentaux, Tom. 2, 1859) 116 lib. XXIV cap. VIII 								(50.000 Berittene und zusätzliche Truppen zu Fuß); Bahā’ al-Dīn, 								History of Saladin, transl. by D. S. Richards (2002) 106 (am 14. 								Oktober 1189 – zur Datierung siehe unten Reg. 3403 – erfährt Saladin 								durch einen Brief seines Sohnes aus Aleppo, dass der deutsche Kaiser 								mit 200.000 oder 260.000 Mann nach Konstantinopel aufgebrochen sei, 								um in das Land des Islam zu gelangen); 300.000 Mann bei Petermann, 								Imâd el Ispahani, Wochenblatt der Johanniter-Ordensballey 								Brandenburg Nr. 44 (1872) 265.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung der Nachrichten über 								diesen Hoftag richtet sich nach der ersten Nennung Konrads bzw. 								Ottos als Herzog von Böhmen in der Zeugenliste des D. 1002 (Reg. 								3260. Zur Belehnung Konrad-Ottos mit dem Herzogtum Böhmen vgl. Kejř, 								Böhmen und das Reich, in: Friedrich Barbarossa (VuF 40, 1992) 284. – 								Eine Handschrift der Überlieferung, die Holder-Egger in seiner 								Edition (Gesta Fed. I. imp. in expeditione sacra, ed. Holder-Egger, 								MG. SS rer. Germ. in us. schol., 79 = Ex Iacobi Aquensis Cronica 								ymaginis mundi) behandelt, wie auch eine Reihe anderer Quellen – 								Continuation de Guillaume de Tyr, ed. Morgan (Doc. relatifs à 								l’histoire des Croisades 14, 1982) 98 cap. 96 = The Old French 								Continuation of William of Tyre, 1184–1197, ed. Edbury, The conquest 								of Jerusalem and the Third Crusade. Sources in Translation (1996) 89 								cap. 96; Chron. pont. et imp. Mantuana, MG. SS XXIV, 217; Ex 								Chronico sancti Martini Turonensi, MG. SS XXVI, 463; Chron. 								universalis Mettensis, MG. SS XXIV, 517 – bietet den legendenhaften 								Bericht über die dem Kaiser seitens eines Astrologen gemachte 								Prophezeiung, er werde seinen Tod im Wasser finden. Deshalb habe er 								für seinen Kreuzzug die Landroute gewählt, vgl. dazu Hiestand, 								”precipua tocius christianismi columpna”, in: Friedrich Barbarossa 								(VuF 40, 1992) 75 f. mit Anm. 158. Tatsächlich war ihm dieser Weg 								schon aus seiner Jugend, als er mit seinem Oheim, Konrad III., 1147 								ins Heilige Land gezogen war, vertraut. – Zu den Teilnehmerzahlen 								siehe auch die Zusammenstellungen in den Regg. 3245, 3264, 3266, 								3272–3274, 3360–3364 und insbesondere 3367.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 955</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-20_1_0_4_2_2_397_955"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-20_1_0_4_2_2_397_955"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-20_1_0_4_2_2_397_955</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243462" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 955</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-20" to="1161-06-20">1161 Juni 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XII<hi rend="sup">mo</hi>  kal. iulii, Laudę in palacio)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Brandenburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytaticę archicanc.</hi></notarius>
+				
+				
+					<scribe>nach den DDH. III. 267 (VU. I), O. I. 105 (VU. II) und H. II. 223 (VU. III) geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Wido von Ravenna und Stephan von Vienne, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Gottfried von Utrecht, Friedrich von Münster, Gunther von Speyer und Heinrich von Würzburg, Markgraf Dietrich (von der Lausitz), Pfalzgraf Otto (von Wittelsbach), Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Herzoge Friedrich von Schwaben und Heinrich von Kärnten und Burggraf Burchard von Magdeburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der von seinem Vorgänger, Kaiser Otto (I.) gestifteten, bischöflichen Kirche zu <span sameAs="recipient"><hi rend="spaced">Brandenburg</hi> </span>  (insbesondere dem dortigen Domkapitel) die genannten Besitzungen und Rechte, darunter auch die Schenkungen an das Augustiner-Chorherrenstift St. Maria zu Leitzkau und die an das Prämonstratenser-Domkapitel durch Bischof Willemar, nimmt aber davon die Zehenten der Besitzungen der Magdeburger Kirche aus, die diese durch einen Tausch zwischen Erzbischof Konrad und Bischof Wicher zur Zeit Papst Innozenz' (II.) und König Konrads (III.) erhalten hat. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Wido von Ravenna und Stephan von Vienne, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Gottfried von Utrecht, Friedrich von Münster, Gunther von Speyer und Heinrich von Würzburg, Markgraf Dietrich (von der Lausitz), Pfalzgraf Otto (von Wittelsbach), Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, die Herzoge Friedrich von Schwaben und Heinrich von Kärnten und Burggraf Burchard von Magdeburg</span>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytaticę archicanc.</hi> </span>; <span n="clerk">nach den DDH. III. 267 (VU. I), O. I. 105 (VU. II) und H. II. 223 (VU. III) geschrieben von RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si piis fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si piis fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Einst im Archiv des Domkapitels von Brandenburg, wohl Verlust des Zweiten Weltkrieges, nur noch das abgefallene Siegel erhalten; Photo im Lichtbildarchiv Marburg (A). Drucke: Riedel, CD. Brandenburgensis 1/8, 102 n<hi rend="sup">o</hi>  14; MG. DF. I. 328. Reg.: Stumpf 3907.</p></div>
+				
+				
+					<div type="commentary"><p>Der Zehenttausch mit Magdeburg wurde 1139 durch Innozenz II. bestätigt (JL. 8008). Zur im gleichen Jahr vorgenommenen Errichtung des Domkapitels, das als Empfänger des vorliegenden D. zu gelten hat, vgl. Riedel, a. a. O., 104 n<hi rend="sup">o</hi>  15 und 105 n<hi rend="sup">o</hi>  16. - Vgl. zum D. Kahl, Brandenburg, HJb. 86 (1966) 77 f. Zu einer späteren Bezugnahme auf dieses D. vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-06-02_1_0_4_2_2_807_1365.html" type="internal" n="regesten">1365</ref>. - Das D. ist das älteste Zeugnis für einen Aufenthalt des Kaisers in der seit März 1161 begonnenen Pfalz zu Lodi (Acerbus Morena, ed. Güterbock, MG. SS rer. Germ. in us. schol., 133 f.), vgl. dazu Opll, Itinerar, 115.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0113" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%225785%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_328" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

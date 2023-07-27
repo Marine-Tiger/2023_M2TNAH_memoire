@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †499</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-14_2_0_4_2_1_501_F499"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-14_2_0_4_2_1_501_F499"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-14_2_0_4_2_1_501_F499</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †499</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-14" to="1157-11-14">1157 November 14</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Montbarrey</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVIII calendas decembris, in Monte Barri)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Liebald</hi>  <hi rend="spaced">Beauffremont</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Raynaldus canc. vice Stephani Viennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach einem fehlerhaften Druck des D. 191 für Lure um die Mitte des 18. Jh. von Abbé Jean-Baptiste Guillaume verfaßt</scribe>
+				
+				
+					<testis function="witnesses">wie in DF. I. 191 (Reg. 498)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <span sameAs="recipient"><hi rend="spaced">Liebald</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Beauffremont</hi> </span>  und seiner Familie auf deren und seiner Gemahlin, Kaiserin Beatrix, Bitten hin gemäß einer vorgelegten Verfügung Kaiser Heinrichs II. (oder III.) den reichsunmittelbaren und uneingeschränkten Besitz der Burg Bauffremont. <span n="witnesses">Z.: wie in DF. I. 191 (Reg. 498)</span>. - <span n="chancellor"><hi rend="italic">Raynaldus canc. vice Stephani Viennensis archiep. et archicanc.</hi> </span>; <span n="clerk">nach einem fehlerhaften Druck des D. 191 für Lure um die Mitte des 18. Jh. von Abbé Jean-Baptiste Guillaume verfaßt</span>. <span n="incipit"><hi rend="italic">Imperialem celsitudinem decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem celsitudinem decet</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung</hi>; Drucke: Schoepflin, Alsatia dipl. 1, 243 n<hi rend="sup">o</hi>  295. Reg.: Grosdidier de Matons, Catalogue des actes... de Bar 48; Stumpf 3785.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser neuzeitlichen Fälschung vgl. Seheffer-Boichorst, Zur Geschichte d. 12. u. 13. Jh. 127 ff. und Riedmann, Reichskanzlei, MIÖG 75 (1967) 393.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0169" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

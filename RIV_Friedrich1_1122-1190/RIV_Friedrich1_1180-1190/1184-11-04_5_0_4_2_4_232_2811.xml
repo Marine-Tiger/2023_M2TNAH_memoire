@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2811</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-04_5_0_4_2_4_232_2811"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-04_5_0_4_2_4_232_2811"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-04_5_0_4_2_4_232_2811</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844732" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2811</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-04" to="1184-11-04">(1184
+									Mitte Oktober – Anfang November, vielleicht November
+									4)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Verona">(Verona)</placeName>
+												<location><geo decls="#WGS">45.4167, 11.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erlässt im Anschluss an ein Dekret Papst 								Lucius’ III. (vgl. Reg. 2810) ein Gesetz gegen die <hi rend="spaced">Ketzer</hi>, das diesen jeglichen Rechtsschutz 								entzieht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt: Ex Chron. univ. Anonymi 								Laudun., MG. SS XXVI, 450 (zu 1182); vgl. auch die Hinweise im 								Schreiben  Erzbischof Adalberts von Salzburg an 								Dompropst G(undaker) von Salzburg und das Salzburger Domkapitel, 								unten Reg. 2830, sowie in der Cont. Zwetlensis altera, MG. SS IX, 								542; MG.DF.I.*1188.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung wurde nach dem Vorbild 								von Scheffer-Boichorst, Streit mit der Kurie, 48 f. sowie 224, 								vorgenommen, vgl. auch Giesebrecht – Simson, Kaiserzeit VI, 92 ff. – 								Aus der historiographischen Überlieferung (Ex Chron. univ. Anonymi 								Laudun.) geht hervor, dass es dabei vor allem um die in der 								Lombardei auftretenden Ketzer ging und der Kaiser die Ächtung der 								Ketzer auch mündlich durch eine rechtssymbolische Handlung aussprach 									(<hi rend="italic">… imperator surgens coram omnibus in concione 									manum suam cum chirotecha in quatuor partes agitans, comminando 									cirothecam in terram proiecit.</hi>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1188" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

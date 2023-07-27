@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 253</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-30_1_0_4_2_1_253_253"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-30_1_0_4_2_1_253_253"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-11-30_1_0_4_2_1_253_253</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358160078" value="2013-01-14"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 253</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-11-30" to="1154-12-06">1154 (November 30-Dezember 6)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Roncaglia</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält einen von zahlreichen Fürsten und den Konsuln und Großen fast aller Städte besuchten <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>  ab. Dem Herkommen entsprechend wird dort Heerschau gehalten; dabei werden nicht nur Laien, sondern auch Bischöfen, nämlich Erzbischof Hartwig von Bremen und Bischof Ulrich von Halberstadt, wegen unerlaubten Fernbleibens vom Italienzug die Lehen abgesprochen. Markgraf Wilhelm von Montferrat und Bischof (Anselm) von Asti erheben Klage gegen Chieri und Asti. Die Konsuhl von Como und Lodi sowie auch von Pavia erheben Klage gegen die Mailänder. Diese hatten schon vorher vergeblich versucht, den König durch das Angebot von 4000 Mark Silber für ein Bündnis zu gewinnen, ihre Konsuln, Obert de Orto und Girard Niger, müssen aber nun einlenken. Friedrich befiehlt beiden Seiten Frieden und ordnet die gegenseitige Auslieferung der Gefangenen an. Davon sind auch die Tortonesen betroffen, die auf Betreiben der Pavesen ihre Paveser Gefangenen ausliefern müssen. Seinen Befehl unterstreicht der König mit der Drohung, Tortona zu zerstören, und fordert einen unerschwinglichen Preis für seine Gnade. Friedrich erläßt auf Rat der Fürsten und rechtskundiger Männer, vor allem des Mailänder <hi rend="italic">causidicus</hi>  Obert de Orto, und wegen der vielfach vorgebrachten Klagen mehrere Sentenzen (s. Regg. 255 und 256). Friedrich sendet einen seiner Kapelläne nach Lodi, um den Treueid einzuholen, den die Lodesanen nach Rücksprache mit den Mailändern auch leisten. Friedrich empfängt den Erzbischof Obert von Mailand mit einer großen Menge von Geistlichen und Rittern ehrenvoll. Ebenso empfängt er die Genueser Gesandten, nämlich den Archidiakon Ugo und den Geschichtsschreiber Caffaro; sie bringen ihm wertvolle Geschenke (Otto von Freising: <hi rend="italic">leones, strutiones, psitacos cum caeteris preciosis muneribus</hi>) und werden mit dem Versprechen entlassen, daß der König Genua über alle Städte Italiens erheben werde. Ebenso ehrenvoll werden drei Pisaner Gesandte empfangen. Die Mönche von Bobbio führen Klage gegen ihren Bischof Oglerius, worauf den Bewohnern von Piacenza der Schutz der Mönche anbefohlen wird.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zum HT vgl. Ottonis Gesta Frid. l. II cap. 16, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 118 f., die in den nächsten Punkten angeführten Quellen und Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ, in us. schol. 5.   Ottonis Gesta Frid. 1. II cap. 12 (113 f.) und 16 (118).   Ottonis Gesta Frid. l. II cap. 16 (119), Carmen de gestis V. 83 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 4 ff. (irrig beim Aufenthalt bei Verona); das Angebot der Geldsumme bei Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII,13 und auch im Brief Friedrichs an Otto von Freising (Reg. 451), die Auslieferung der Gefangenen in Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ, in us. schol. 16 und die Tortona betreffenden Ereignisse in De Ruina civ. Terd., ed. Hofmeister, NA 43 (1922) 144 f. und 149.   De Ruina civ. Terd. 144.   Otto Morena 13 f.   De Ruina civ. Terd. 144 f.; zur Genueser Gesandtschaft vgl. Ottonis Gesta Frid. l. II cap. 16 (119) und die Ann. Ianuenses, ed. Belgrano, Fonti per la storia d'Italia 11, 38 f. Zur Pisaner Gesandtschaft die Ann. Pisani, ed. Gentile, Rer. Ital. SS N. S. VI/2, 15. Die Klage der Mönche von Bobbio ist in deren Schreiben an Friedrich (Reg. 379) erwähnt.</p></div>
+				
+				
+					<div type="commentary"><p>Zum HT vgl. Simonsfeld, Jahrbücher 249 ff. und Hofmeister, NA 43 (1922) 126 ff. - Zur Lage von Roncaglia vgl. Opll, Itinerar 14 Anm. 5 mit der dort angeführten Literatur. - Die Anwesenheit des Grafen Guido Guerra von Tuszien bei diesem Tag ergibt sich mit ziemlicher Wahrscheinlichkeit aus dem Briefwechsel des Grafen mit den Rittern von Modigliana, Wieruszowski, A twelfthcentury &amp;quot;ars dictaminis&amp;quot;, Traditio 18 (1962) 390 f. n<hi rend="sup">o</hi>  12 und 13, vgl. a. a. O. 384.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zuletzt hat Dendorfer, Roncaglia, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und´Weinfurter (2010) 111–132, hier: 119–122, ausführlich auf die Bedeutung der Konfrontation des Herrschers mit dem verschriftlichten Lehnrecht im <hi rend="italic">regnum Italie</hi>, dabei insbesondere die Kontakte mit Obertus de Orto (erwähnt in Reg. 253), einen der besten Kenner des lombardischen Lehnrechts, hingewiesen. Dem Staufer ging es insbesondere darum, die ursprünglich nur für Italien gültige lehnrechtliche Konzeption der Heerfolgepflicht der Vasallen auch auf den deutschen Bereich zu übertragen,
+</p>
+<p>Dendorfer, a.a.O., 117.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0088" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

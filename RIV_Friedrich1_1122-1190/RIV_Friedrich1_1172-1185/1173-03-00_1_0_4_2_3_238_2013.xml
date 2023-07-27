@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2013</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-03-00_1_0_4_2_3_238_2013"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1173-03-00_1_0_4_2_3_238_2013"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1173-03-00_1_0_4_2_3_238_2013</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597826" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2013</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1173-03-01" to="1173-03-31">1173  März</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Baume-les-Dames <hi rend="italic">(in claustro Palmensis ecclesie)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>unbesiegelt</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Ohne Beteiligung der Reichskanzlei nach französischer Rechtsanschauung in landesüblicher Form abgeschlossener Vertrag</scribe>
+				
+				
+					<testis function="witnesses">Burchard von Asuel, Magister Ernst, damals kaiserlicher Legat in Burgund, Rainald von Montby, Magister Arnaldus, Poncius von Voillans, Petrus von Hyèvres, Kleriker Hugo von Rahon, Burchard von Cusance und der Meier Gerard</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet mit Zustimmung der Abtei Cluny den Abschluß eines Vertrages zwischen ihm bzw. seinem Erben, dem künftigen Grafen von Burgund, und <hi rend="spaced">Prior Aymo von Chaux</hi>, nach dem die Herrschaftsrechte und Einkünfte im Gebiet von Chaux innerhalb der angegebenen Grenzen mit Ausnahme gewisser Rechte (<hi rend="italic">dominaturas suas scilicet decimas, oblationes, elemosinas, furnos, molendina et situs molendinorum, terram et prata duobus aratris sufficientia, casamentum magistri Arnaldi, positionem ministri, qui census et redditus conmunes inperatoris et ecclesie recipiet</hi>) zu gleichen Teilen zwischen den Vertragspartnern aufgeteilt werden, und sichert dem Priorat gemeinsam mit seinem künftigen Erben als Grafen von Burgund seinen Schutz zu. <span n="witnesses">Z.: Burchard von Asuel, Magister Ernst, damals kaiserlicher Legat in Burgund, Rainald von Montby, Magister Arnaldus, Poncius von Voillans, Petrus von Hyèvres, Kleriker Hugo von Rahon, Burchard von Cusance und der Meier Gerard</span>. — <span n="clerk">Ohne Beteiligung der Reichskanzlei nach französischer Rechtsanschauung in landesüblicher Form abgeschlossener Vertrag</span>; <span n="seal">unbesiegelt</span>. <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Nationalbibliothek Paris, Coll.de Bourgogne ms.81 n<hi rend="sup">o</hi>  86 (A). Drucke: Bernard-Bruel, Charles de Cluny 4, 601 n<hi rend="sup">o</hi>  4246; MG.DF.I.598. Reg.: Mariotte, Le comté de Bourgogne, 162 n<hi rend="sup">o</hi>  25.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Inhalt des Vertrages, den Friedrichs Sohn Otto bei seinem Herrschaftsantritt als Graf von Burgund bestätigte, vgl. Güterbock, Zur Geschichte Burgunds, Zs.f.schweiz.Gesch. 17 (1937) 160 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0089" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_598" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

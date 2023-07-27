@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1491</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-24_1_0_4_2_2_933_1491"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-06-24_1_0_4_2_2_933_1491"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-06-24_1_0_4_2_2_933_1491</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246984" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1491</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-06-24" to="1165-06-24">(wohl 1165 vor Juni 24)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Troyes</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich fordert den Grafen <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Troyes</hi> </span>  auf, dem für das kommende Johannesfest (Juni 24) geplanten Eingreifen des Königs (Ludwig VII.) von Frankreich im Land des Herzogs (Hugo III.) von Dijon mit allen Mitteln entgegenzuwirken, kündigt gegebenenfalls volle militärische Unterstützung für den Herzog an und bietet sich an, in die Unstimmigkeiten zwischen diesem und seiner Mutter (Maria) vermittelnd einzugreifen. - <span n="incipit"><hi rend="italic">Audivimus, unde plurimum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Audivimus, unde plurimum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. im Cod. Vat. Regin. n<hi rend="sup">o</hi>  179 f. 229, Vatikanische Bibliothek Rom (B). Drucke: Bouquet, Recueil 16, 691 n<hi rend="sup">o</hi>  16; MG. DF. I. 484.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. auch das Schreiben Heinrichs von Troyes an König Ludwig VII. von Frankreich, Bouquet, a. a. O. 68 n<hi rend="sup">o</hi>  215. - Zum Inhalt und zur zeitlichen Einordnung vgl. Kienast, Deutschland und Frankreich I, 216 f. und die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0246" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_484" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

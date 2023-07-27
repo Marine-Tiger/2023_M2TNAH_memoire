@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3161</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-05-29_1_0_4_2_4_587_3161"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-05-29_1_0_4_2_4_587_3161"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-05-29_1_0_4_2_4_587_3161</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3161</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-05-29" to="1188-05-29">(vor
+									1188 Mai 29)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Markgraf Otto (II.) von Brandenburg überträgt den 								Kanonikern in seinem <hi rend="italic">burgus</hi> Stendal gemeinsam 								mit seinem Bruder als Gedächtnisstiftung für sich, seine 								verstorbenen Eltern und seine Nachfolger das ganze Grundstück, auf 								dem sein Bruder die Nikolaikirche zu Stendal gegründet hat, weiters 								das <hi rend="italic">ius marchie</hi>, gemeinhin genannt <hi rend="italic">marcrecht</hi>, im Dorf Garlipp und gewährt allen 								die von den Kaisern Friedrich und Heinrich sowie von den Königen 								Konrad und Heinrich, dem Sohn des Kaisers, erhaltene <hi rend="italic">auctoritas</hi>, von den zu seiner <hi rend="italic">iurisdictio</hi> gehörigen Hufen für ihr 								Seelenheil Zuwendungen zu machen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Riedel, CD. Brandenburg. 5, 21 n<hi rend="sup">o</hi> 1; Krabbo – Winter, Reg. Brandenburg, 93 n<hi rend="sup">o</hi> 463.</p></div>
+				
+				
+					<div type="commentary"><p>Es wird nicht ganz klar, wer hier mit „Kaiser 								Heinrich” gemeint ist. – Die zeitliche Einordnung ergibt sich 								daraus, dass Papst Clemens III. dem Kanonikerstift St. Nikolaus zu 								Stendal diese Besitzungen bereits am 29. Mai 1188 bestätigte, ed. 								Riedel, a.a.O., 22 no 2; Jaffé-L. 16.260.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

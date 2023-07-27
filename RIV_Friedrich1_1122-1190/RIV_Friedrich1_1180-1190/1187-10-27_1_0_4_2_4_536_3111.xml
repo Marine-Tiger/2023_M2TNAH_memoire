@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3111</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-27_1_0_4_2_4_536_3111"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-10-27_1_0_4_2_4_536_3111"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-10-27_1_0_4_2_4_536_3111</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3111</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-10-27" to="1187-10-27">1187
+									Oktober 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ferrara">Ferrara</placeName>
+												<location><geo decls="#WGS">44.8, 11.8333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Papst Gregor (VIII.) teilt den Erzbischöfen, 								Bischöfen, Äbten und Prälaten in Deutschland mit, er sei am Tag nach 								dem Tod Papst Urbans (III.) († 20. Oktober 1187; Wahl daher am 21. 								Oktober 1187) zu dessen Nachfolger gewählt worden, fordert sie auf, 								Kaiser Friedrich, die Fürsten und das Volk des deutschen 								Königreiches zur Befreiung der östlichen Kirche (= des Heiligen 								Landes) zu bewegen, und beglaubigt seinen Subdiakon P. (bzw. B.) 								sowie den Prior von Pontida als seine Boten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Jaffé-L. 16.014.</p></div>
+				
+				
+					<div type="commentary"><p>Kardinalpresbyter Albert von S. Lorenzo in Lucina 								war am 21. Oktober 1187 zum Nachfolger des tags zuvor verstorbenen 								Papstes Urban III. gewählt worden, die Weihe war am 25. Oktober 								erfolgt, vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 166 f. – Im 								Roberti canonici s. Mariani Autissiodorensis Chron., MG. SS XXVI, 								252, heißt es, dass der Kaiser über die Wahl Gregors VIII. hoch 								erfreut war und den Fürsten und Präfekten die Unterstützung des 								neuen Papstes auftrug (<hi rend="italic">Precepit quoque principibus 									et prefectis omnem ei reverentiam impendere et transeunti per 									terram suam de fisco proprio victuali ministrare.</hi>); dass 								die Kardinäle bei der Wahl des neuen Papstes auf den Umstand 								Rücksicht nahmen, dass dieser Mann die Gnade des Kaisers besaß, 								berichtet auch eine dem neuen Papst nicht gewogene, englische Quelle 								(E Gervasii Cantuariensis Chronica, MG. SS XXVII, 305: <hi rend="italic">Sciebant enim cardinales, quod idem Albertus 									multam imperatoris haberet gratiam, eo quod, ipsius semper 									fovens partem, eidem omnia Romane curie relevaret 								secreta.</hi>). – Zwei Tage später, am 29. Oktober, ließ der neue 								Papst gleichfalls in Ferrara weitere Schreiben an alle Gläubigen mit 								der Aufforderung zur Unterstützung des Heiligen Landes ausstellen, 								vgl. dazu Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. 								SS rer. Germ. N.S. 5, 6 ff. (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 65 ff.), Salloch, Die 								lateinische Fortsetzung Wilhelms von Tyrus (Greifswald 1934) 85, 								sowie Jaffé-L. 16.018 und 16.019.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

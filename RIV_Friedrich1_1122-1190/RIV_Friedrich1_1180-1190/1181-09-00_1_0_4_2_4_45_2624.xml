@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2624</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-09-00_1_0_4_2_4_45_2624"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-09-00_1_0_4_2_4_45_2624"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-09-00_1_0_4_2_4_45_2624</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2624</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-09-01" to="1181-09-30">1181
+									(wohl September)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Heinrich der Löwe entlässt Landgraf Ludwig (von 								Thüringen) und dessen Bruder, Graf (danach: Pfalzgraf) Hermann (von 								Sachsen), die von ihm seit eineinhalb Jahren gefangen gehaltenen 								worden sind, aus der Gefangenschaft und sendet sie gleichsam als 								Friedensvermittler (<hi rend="italic">pacis mediatores</hi>; Cron. 								s. Petri Erford. mod.) zum Kaiser nach Goslar.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. s. Petri Erph. maiores, ed. 								Holder-Egger, MG. SS rer. Germ. in us. schol., 66; Cron. s. Petri 								Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 191 								(ohne Ortsangabe); Scheffer-Boichorst, Ann. Patherbrunnenses, 177 								(nennt – nicht ganz zutreffend – auch Graf [Simon] von Tecklenburg 								und [Graf] Widukind von Waldeck/Schwalenberg sowie <hi rend="italic">alios plures nobiles, cum plus quam mille militibus </hi>unter 								den Freigelassenen).</p></div>
+				
+				
+					<div type="commentary"><p>Heinrich der Löwe versuchte wohl mit dieser 								Maßnahme – die beiden aus der Gefangenschaft Entlassenen waren 								Neffen des Kaisers –, den Herrscher milde zu stimmen, vgl. dazu 								schon oben Reg. 2623 sowie Giesebrecht, Kaiserzeit V, 943.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

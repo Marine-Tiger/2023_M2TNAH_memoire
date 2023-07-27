@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2922</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-24_2_0_4_2_4_345_2922"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-09-24_2_0_4_2_4_345_2922"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-09-24_2_0_4_2_4_345_2922</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845509" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2922</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-09-24" to="1185-09-24">1185
+									September 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Coccorano (heute: Montefalco) im Bistum Spoleto  (<hi rend="italic">VIII kal. oct., apud Cucurionem in episcopatu Spoletano</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gottefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst von GG</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die Bischöfe 									Wilhelm von Asti und Bonifaz von Novara, Berthold (von 									Hohkönigsburg), (Reichs-)Legat für Italien, Herzog Konrad von 									Spoleto, die Grafen Simon von Sponheim und Heinrich von Diez, 									Burggraf Konrad von Nürnberg, Richter Reiner <hi rend="italic">Waldensis</hi> (ob Valda/Walda?), Ulrich von Lützelhardt, 									Eberhard von Eichstetten, Marschall Heinrich von 									(Kaisers-)Lautern und Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die neue <hi rend="spaced">Burg 									Matelica</hi> mit allen 15 Tage vor der Zerstörung durch 								Erzbischof Christian von Mainz dort ansässig gewesenen Leuten sowie 								mit den neu hinzu gekommenen freien Bewohnern unter Vorbehalt der 								von ihnen mit Rainald, dessen Bruder Franco und deren Neffen Acto 								geschlossenen und beurkundeten <hi rend="italic">concordia</hi> in 								seinen Schutz, gewährt ihnen die Hälfte der dem Kaiser in dieser 								Burg zustehenden hochgerichtlichen Gefälle (<hi rend="italic">de 									homicidiis et de sanguine et de aliis forensibus causis</hi>) 								und das Recht, dass von den Burgbewohnern mit Ausnahme der Kleriker 								und der Ritter für das allgemeine Fodrum pro Feuerstelle nur alle 								drei Jahre 12 Pfennige Luccheser Münze eingehoben werden. Des 								Weiteren setzt er fest, dass sie ihm im Bereich des 								(Wirtschafts-)Hofes der Burg 100 <hi rend="italic">modiolos bone 									terre</hi>, aufgeteilt auf vier verschiedene Stellen, innerhalb 								der Burg zwei Häuser aus Holz mit genau festgelegten Ausmaßen und 								eine bessere Mühle am Wasser bei der Burg überlassen. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die Bischöfe 									Wilhelm von Asti und Bonifaz von Novara, Berthold (von 									Hohkönigsburg), (Reichs-)Legat für Italien, Herzog Konrad von 									Spoleto, die Grafen Simon von Sponheim und Heinrich von Diez, 									Burggraf Konrad von Nürnberg, Richter Reiner <hi rend="italic">Waldensis</hi> (ob Valda/Walda?), Ulrich von Lützelhardt, 									Eberhard von Eichstetten, Marschall Heinrich von 									(Kaisers-)Lautern und Kämmerer Rudolf</span>. –<span n="chancellor"> 									<hi rend="italic">Gottefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></span>; <span n="clerk">verfasst von GG</span>. <span n="incipit"><hi rend="italic">Summa venustas est.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Summa venustas est.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Drucke: Ficker, Forschungen 4, 203 n<hi rend="sup">o</hi> 161; MG.DF.I.919. Regg.: Dolch – Münch, 								UB. der Stadt Kaiserslautern 1, 61 n<hi rend="sup">o</hi> 49; 								Stumpf 4435.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung des D., das nur aus Drucken 								bekannt ist, vgl. die Vorbemerkung zum D. – Christian von Mainz 								hatte Matelica wohl zu Anfang des Jahres 1173 zerstört, vgl. Reg. 								2018. – Auffällig ist das Bestreben des Herrschers, sich in Matelica 								eigenen Besitz zu sichern. – Zum D. vgl. insbesondere auch 								Simonsfeld, Urkunden Friedrich Rotbarts 5. Folge, in: SB. München 								1909, 7. Abhandlung, 17 ff. (Beilage 3).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1346856208" value="2012-09-05"></date><p n="author">Petra Skoda</p><p>Wernherius de Bolande fehlt unter den Zeugen. MG.DF.I.919, S. 187, nennt ihn vor Ulrich von Lützelhardt.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_919" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

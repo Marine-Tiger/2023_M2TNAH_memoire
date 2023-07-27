@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 981</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-09-01_1_0_4_2_2_423_981"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-09-01_1_0_4_2_2_423_981"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-09-01_1_0_4_2_2_423_981</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243611" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 981</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-09-01" to="1161-09-01">1161 September 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Landriano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(kal. septembr., in territorio Mediolani apud Landrianum)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Otto</hi>  <hi rend="spaced">Belluno</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DK. II. 168 (VU.) wohl von RG verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Rainald von Köln und Hillin von Trier, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg, Heinrich von Lüttich, Albert von Trient und Ardicio von Como, der Knabe Herzog Friedrich von Schwaben, Herzog Dipold von Böhmen, Markgraf Wilhelm von Montferrat, Graf Guido von Biandrate und sein Sohn, Erzbischof (Guido) von Ravenna, Graf Guifred (<hi rend="italic">Vifredus</hi>) von Lomello, Markward von Grumbach, Gebhard von Leuchtenberg, Graf Konrad von Abenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich unterstellt den verdienstvollen Bischof <span sameAs="recipient"><hi rend="spaced">Otto</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Belluno</hi> </span>  samt seinem Bistum, das er dem verstorbenen Patriarchen Pilgrim von Aquileia auf Lebenszeit verliehen hatte, wieder dem Reich und bestätigt ihm die genannten Besitzungen und Rechte gemäß den Verfügungen seiner Vorgänger, der Kaiser Heinrich (II.) und Konrad (II.), behält sich jedoch die kaiserlichen Rechte vor. <span n="witnesses">Z.: die Erzbischöfe Rainald von Köln und Hillin von Trier, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg, Heinrich von Lüttich, Albert von Trient und Ardicio von Como, der Knabe Herzog Friedrich von Schwaben, Herzog Dipold von Böhmen, Markgraf Wilhelm von Montferrat, Graf Guido von Biandrate und sein Sohn, Erzbischof (Guido) von Ravenna, Graf Guifred (<hi rend="italic">Vifredus</hi>) von Lomello, Markward von Grumbach, Gebhard von Leuchtenberg, Graf Konrad von Abenberg</span>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi archiep. et archicanc.</hi> </span>; <span n="clerk">nach DK. II. 168 (VU.) wohl von RG verfaßt und geschrieben </span>. <span n="incipit"><hi rend="italic">Imperialis clementia bene</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis clementia bene</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des 16. Jh. von Antonius Lippus p. 198 in den Collectanea des Jo. Ant. Egregis, Museo civico Belluno (D); Abschrift des 18. Jh., Lucio Doglioni, Documenta varia ecclesiae Bellunensis, Ms. n<hi rend="sup">o</hi>  478 p. 25, ebenda (E) mit Verbesserungen am Rande (E<hi rend="sup">1</hi>); Abschrift des 18. Jh., Franc. Alpago, Collezione miscellanea, Ms. n<hi rend="sup">o</hi>  540 f. 19, ebenda (F). Drucke: Ughelli, Italia sacra ed. II. 5, 152; MG. DF. I. 337. Reg.: Biscaro, I falsi documenti, Boll. dell'ist. stor. ital. 43 (1925) 107 n<hi rend="sup">o</hi>  3; Stumpf 3916.</p></div>
+				
+				
+					<div type="commentary"><p>Mit dem D. wurde die Schenkung an Aquileia vom Vorjahr (DF. I. 308 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-02-15_2_0_4_2_2_279_837.html" type="internal" n="regesten">837</ref>) wieder rückgängig gemacht, vgl. aber Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-09-00_1_0_4_2_2_436_994.html" type="internal" n="regesten">994</ref>. Da die Verfügung dort auch auf die Nachfolger des Patriarchen ausgedehnt ist und sich der Passus, der die Übertragung im vorliegenden D. auf die Lebenszeit Pilgrims bezieht, nicht in allen Überlieferungsschichten enthalten ist, ist eine Interpolation nicht auszuschließen, vgl. die Vorbemerkung zum D. sowie des weiteren auch Haverkamp, Herrschaftsformen, 455 f. - Zum Ausstellungsort vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-00-00_2_0_4_2_2_662_1220.html" type="internal" n="regesten">1220</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0120" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_337" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

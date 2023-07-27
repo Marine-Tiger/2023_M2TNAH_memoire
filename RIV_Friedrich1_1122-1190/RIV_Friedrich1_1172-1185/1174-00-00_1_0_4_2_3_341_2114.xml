@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2114</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-00-00_1_0_4_2_3_341_2114"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-00-00_1_0_4_2_3_341_2114"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-00-00_1_0_4_2_3_341_2114</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599098" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2114</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-01-01" to="1174-12-31">1174 Ende — 1175 Anfang</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt <hi rend="spaced">Herzog Soběslav von Böhmen</hi>  gegenüber seiner Verwunderung darüber Ausdruck, daß er dem Bischof Friedrich von Prag, seinem (= des Kaisers) Verwandten, nicht gestatte, den Kaiserhof aufzusuchen, trägt ihm auf, seinem (= des Kaisers) Verwandten Hieronymus, dem er die vom König (= Vladislav II.) erhaltene Kapelle entzogen habe, die Propstei Mělník zu verleihen, damit der Bischof wieder die Gnade des Herzogs erkennen möge, und fordert einen schriftlichen Bericht über die in seinem Auftrag durchgeführte Gesandtschaft des Erzbischofs Wichmann von Magdeburg an den König (Bela) von Ungarn, in dem er auch die ihm zugesandten Ritter auffordern möge, ihren Kriegsverpflichtungen auf dem Feldzug nachzukommen. — <span n="incipit"><hi rend="italic">Miramur, quare F(ridericum)</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Miramur, quare F(ridericum)</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. XI 671 f. 524, Landesbibliothek Hannover (D), Drucke: Friedrich, CD.regni Bohemiae 1, 242 n<hi rend="sup">o</hi>  277; Hödl — Classen, Salzburger Briefsammlung, MG. Briefe VI, 181 n<hi rend="sup">o</hi>  23 (zu: nach 1174 Dezember 24, bei Alessandria); MG.DF.I.636.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem Bericht des Gerlach von Mühlhausen über den Zug Herzog Ulrichs von Böhmen nach Italien (MG.SS XVII, 687 f.), vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-10-00_1_0_4_2_3_337_2110.html" type="internal" n="regesten">2110</ref>. — Zur Gesandtschaft des Kaisers an den Ungarnkönig siehe auch oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-07-06_1_0_4_2_3_311_2084.html" type="internal" n="regesten">2084</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die Bezeichnung Bischof Friedrichs von Prag als <hi rend="italic">consanguineus</hi> des Kaisers bezieht sich auf keine Verwandtschaft, sondern auf eine eher weitläufige Verschwägerung, während die auch für Hieronymus, der auf Wunsch des Kaisers Propst von Melnik werden sollte, verwendete idente Bezeichnung nicht zu klären ist, vgl. dazu Schieffer, Barbarossa und seine Verwandten, in: De litteris, manuscriptis, inscriptionibus … FS. zum 65. Geburtstag von Walter Koch (2007) 586 f. und 588.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0124" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_636" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2062</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-24_1_0_4_2_3_289_2062"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-24_1_0_4_2_3_289_2062"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-03-24_1_0_4_2_3_289_2062</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426598260" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2062</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-03-24" to="1174-03-24">1174 März 24  Ostern</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(in pascha domini, coronato imperatore ibidem, Aquisgrani)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung der Fälschung DK.III.291 von Empfängerhand auf Blankett — das aufgedrückte Siegel befand sich schon vor der Niederschrift auf dem Pergamentblatt — geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Martin, Kardinal(bischof von Tusculum) und Kanzler der römischen Kirche, die Erzbischöfe Philipp von Köln und Arnold von Trier, Propst Otto von Aachen, Protonotar Wortwin, (Dom)dekan Hugo von Köln, Propst Lothar von Bonn, die Äbte Erlebold (<hi rend="italic">Herleboldus</hi>) von Stablo und Florentius von Inden (Kornelimünster), Herzog Gottfried von Lothringen, Pfalzgraf Konrad (bei Rhein), der Bruder des Kaisers, Landgraf Ludwig (von Thüringen) und sein Bruder Heinrich, die Grafen Heinrich von Diez, Engelbert von Berg, Wilhelm von Jülich, Gerhard von Looz/Borgloon und sein Bruder Hugo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster Saint-Ghislain</hi>  unter Abt Lambert auf Bitten seiner Gemahlin Kaiserin Beatrix in Wiederholung der Verfügungen Konrads (III.) (= die Fälschung DK.III.291) Besitzungen und Rechte. <span n="witnesses">Z.: Martin, Kardinal(bischof von Tusculum) und Kanzler der römischen Kirche, die Erzbischöfe Philipp von Köln und Arnold von Trier, Propst Otto von Aachen, Protonotar Wortwin, (Dom)dekan Hugo von Köln, Propst Lothar von Bonn, die Äbte Erlebold (<hi rend="italic">Herleboldus</hi>) von Stablo und Florentius von Inden (Kornelimünster), Herzog Gottfried von Lothringen, Pfalzgraf Konrad (bei Rhein), der Bruder des Kaisers, Landgraf Ludwig (von Thüringen) und sein Bruder Heinrich, die Grafen Heinrich von Diez, Engelbert von Berg, Wilhelm von Jülich, Gerhard von Looz/Borgloon und sein Bruder Hugo</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Cristiani Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">in Wiederholung der Fälschung DK.III.291 von Empfängerhand auf Blankett — das aufgedrückte Siegel befand sich schon vor der Niederschrift auf dem Pergamentblatt — geschrieben</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Equitatis iusticię et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equitatis iusticię et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mons, 1940 durch Kriegseinwirkung vernichtet (A). Drucke: Böhmer, Acta imp. 125 n<hi rend="sup">o</hi>  133; MG.DF.I.614. Regg.: Wauters, Table chronol.2, 544; Diestelkamp — Rotter, Urkundenregesten 1, 326 n<hi rend="sup">o</hi>  416; Stumpf 4156.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der in der Datierung erwähnten Festkrönung zu Ostern vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-03-24_2_0_4_2_3_290_2063.html" type="internal" n="regesten">2063</ref>. — Zu den im Text erwähnten älteren Herrscherurkunden (genannt werden Dagobert, Otto III., Heinrich II., Konrad II., Konrad III. und Heinrich III.) vgl. auch DK.III.137 Anm.2. — Der als Spitzenzeuge genannte Kardinalbischof von Tusculum war im Herbst 1173 als Legat des kaiserlichen Gegenpapstes Calixt III. in Deutschland tätig, vgl. dazu Weiss, Die Urkunden der päpstlichen Legaten von Leo IX. bis Coelestin III., 231, sowie oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-11-00_1_0_4_2_3_270_2045.html" type="internal" n="regesten">2045</ref>; zu dem unter den Zeugen genannten Propst Otto von Aachen vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 270.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0105" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_614" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

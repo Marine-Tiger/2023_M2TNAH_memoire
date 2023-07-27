@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1055</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-04-06_2_0_4_2_2_497_1055"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-04-06_2_0_4_2_2_497_1055"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-04-06_2_0_4_2_2_497_1055</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244087" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1055</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-04-06" to="1162-04-06">1162 April 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus april., Papię post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pisaner</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus Romani imperii archicanc. recognovi et ss.; Odalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in den selbständig formulierten Teilen wohl von RC verfaßt, der das D. bis auf die Unterschrift Rainalds von Dassel, die vielleicht von RH oder einem anderen Vertrauensmann des Erzbischofs stammt, auch schrieb</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, der Erzkanzler, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Ortlieb von Basel und Gero von Halberstadt, Abt Erlebold von Stablo, Kanzler Ulrich, Protonotar Heinrich, Kapellan Stephan, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Pfalzgraf Konrad bei Rhein, die Markgrafen Dietrich von Sachsen und Albert von Sachsen, Herzog Dietbold von Böhmen, Graf Dedo (von Groitzsch), Herzog Ulrich (von Böhmen), die Grafen Rudolf von Pfullendorf und Ulrich von Lenzburg, die Markgrafen Wilhelm von Montferrat, Manfred von Vasto, Hugo der Große von Vasto und Obizo Malaspina, Graf Wido von Biandrate, Markward von Grumbach, die Grafen Ulrich von Herrlingen (<hi rend="italic">Hurningen</hi>) und Gebhard von Leuchtenberg, Burggraf Konrad von Nürnberg, Markward von Leuchtenberg, Bernhard von Horstmar, Degenhard von Hellenstein, Arnold von Biberbach, Egelolf von Irslingen (<hi rend="italic">Urselingen</hi>), Burchard von Hasenburg, Konrad von Ballhausen, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Hartmann und sein Sohn, der Kämmerer Rüdiger, Marschall Heinrich, Lupold von Gründlach (<hi rend="italic">Grindelaha</hi>), Ulrich von Burgsalach (<hi rend="italic">Salhaha</hi>), Kämmerer Sigeboto</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt die <span sameAs="recipient"><hi rend="spaced">Pisaner</hi> </span>  durch ihren Konsul Lambert und ihre Legaten Villanus, Heinrich, Bozius, Sigerius und Obizo mit allen genannten Besitzungen und Hoheitsrechten, die sie vom Reich in den letzten 30 Jahren und künftig innehaben, bestätigt ihnen ihre Handelsrechte im gesamten Reichsgebiet sowie hinsichtlich Siziliens, Kalabriens und Apuliens und schließt mit der Stadt einen Vertrag über den geplanten Feldzug gegen das Königreich Sizilien, wobei ihr für ihre Unterstützung Hilfe gegen lokale Konkurrenten und Widersacher zugesagt wird. <span n="witnesses">Z.: Erzbischof Rainald von Köln, der Erzkanzler, die Bischöfe Eberhard von Bamberg, Heinrich von Lüttich, Ortlieb von Basel und Gero von Halberstadt, Abt Erlebold von Stablo, Kanzler Ulrich, Protonotar Heinrich, Kapellan Stephan, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Pfalzgraf Konrad bei Rhein, die Markgrafen Dietrich von Sachsen und Albert von Sachsen, Herzog Dietbold von Böhmen, Graf Dedo (von Groitzsch), Herzog Ulrich (von Böhmen), die Grafen Rudolf von Pfullendorf und Ulrich von Lenzburg, die Markgrafen Wilhelm von Montferrat, Manfred von Vasto, Hugo der Große von Vasto und Obizo Malaspina, Graf Wido von Biandrate, Markward von Grumbach, die Grafen Ulrich von Herrlingen (<hi rend="italic">Hurningen</hi>) und Gebhard von Leuchtenberg, Burggraf Konrad von Nürnberg, Markward von Leuchtenberg, Bernhard von Horstmar, Degenhard von Hellenstein, Arnold von Biberbach, Egelolf von Irslingen (<hi rend="italic">Urselingen</hi>), Burchard von Hasenburg, Konrad von Ballhausen, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Hartmann und sein Sohn, der Kämmerer Rüdiger, Marschall Heinrich, Lupold von Gründlach (<hi rend="italic">Grindelaha</hi>), Ulrich von Burgsalach (<hi rend="italic">Salhaha</hi>), Kämmerer Sigeboto</span>. - <span n="chancellor"><hi rend="italic">Reinaldus Romani imperii archicanc. recognovi et ss.; Odalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">in den selbständig formulierten Teilen wohl von RC verfaßt, der das D. bis auf die Unterschrift Rainalds von Dassel, die vielleicht von RH oder einem anderen Vertrauensmann des Erzbischofs stammt, auch schrieb</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Decet imperialem excellentiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet imperialem excellentiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Pisa (A). Drucke: MG. Const. 1, 282 n<hi rend="sup">o</hi>  205; MG. DF. I. 356. Faks.: Lodolini, L'Archivio di stato in Roma tav. 5 nach 58; Koch, Reichskanzlei Abb. 16 Teilfaks. Reg.: Tallone, Regesto dei marchesi di Saluzzo, BSSS 16 (1906) 11 n<hi rend="sup">o</hi>  37 zu 1161; Stumpf 3936.</p></div>
+				
+				
+					<div type="commentary"><p>Das Kreuz vor der Unterschrift des Erzkanzlers könnte von diesem selbst eingesetzt worden sein, vgl. die Vorbemerkung zum D. - Die Urkunde geht auf mehrere, selbständige Schriftstücke zurück, die zum Teil auch eigens erwähnt werden (vgl. auch DF. I. 357 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-04-00_1_0_4_2_2_498_1056.html" type="internal" n="regesten">1056</ref>); zum Aufbau vgl. Riedmann, Verträge, 48 ff. - Zum Inhalt vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-04-09_1_0_4_2_2_505_1063.html" type="internal" n="regesten">1063</ref>  sowie Opll, Stadt und Reich, 391 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0138" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_356" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

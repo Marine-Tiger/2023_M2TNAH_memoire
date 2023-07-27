@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. D1397</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-04_1_0_4_2_2_839_D1397"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-04_1_0_4_2_2_839_D1397"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-04_1_0_4_2_2_839_D1397</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. D1397</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-09-04" to="1164-09-04">(vor 1164 September 4)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Saint-Denis</hi>  <hi rend="spaced">Alexander</hi>  <hi rend="spaced">Lüttich</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich trägt auf Klagen des ihm freundschaftlich verbundenen Abtes (Odo-Eudes III. de Taverney) von <span sameAs="recipient"><hi rend="spaced">Saint-Denis</hi> </span>  dem Dompropst und Archidiakon <span sameAs="recipient"><hi rend="spaced">Alexander</hi> </span>  (von <span sameAs="recipient"><hi rend="spaced">Lüttich</hi> </span>) auf, die Rechtsstreitigkeiten dieser Abtei mit Walter von Grand-Axhe um ein Kirchlehen, das früher der derzeitige Bischof von Lüttich, Heinrich, innehatte, gerichtlich beizulegen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Urkunde Dompropst Alexanders (von Lüttich) von 1164, ed. Gaier, Documents relatifs aux domaines hesbignons de l'abbaye de Saint-Denis, Bulletin de la Commission royale d'histoire 127 (1961) 189 n<hi rend="sup">o</hi>  4; MG. DF. I. *1140.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung richtet sich nach dem Tod des genannten Bischofs Heinrich von Lüttich (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-04_3_0_4_2_2_841_1399.html" type="internal" n="regesten">1399</ref>); vgl. dazu - in Korrektur zu Gaier - jetzt Kupper, Alexandre II, Le Moyen Age 4. sér. 29 (1974) 395 sowie Petersohn, Saint-Denis - Westminster - Aachen, DA 31 (1975) 449. Eine genauere Eingrenzung ist mangels eines weiteren Beleges für die vom Abt von Saint-Denis dem Kaiser persönlich vorgebrachten Klagen leider nicht möglich. - Der Streit wurde mit der genannten Urkunde im Sinne der Abtei und damit des kaiserlichen Auftrages beigelegt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0222" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

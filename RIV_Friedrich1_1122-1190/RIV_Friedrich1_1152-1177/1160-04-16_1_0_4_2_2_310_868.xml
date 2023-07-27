@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 868</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-04-16_1_0_4_2_2_310_868"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-04-16_1_0_4_2_2_310_868"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-04-16_1_0_4_2_2_310_868</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243193" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 868</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-04-16" to="1160-04-16">1160 April 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. madii, Laude)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ravenna</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>nach DO. III. 341 (VU.) vom selben italienischen Schreiber mundiert wie D. 314 (Reg. 867), das Monogramm und das Diktat der selbständigen Teile stammt von RG.</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Rambert von Faenza, Alberich von Reggio, Alberich von Lodi, Kardinal Berard von Ravenna, der Presbyter Roland und Rufus, beide Kantoren von Ravenna, Abt Alberich von S. Vitale (zu Ravenna), der Knabe Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Markgraf Hermann von Verona, Herzog (Heinrich) von Kärnten, Pfalzgraf Otto (von Wittelsbach) mit seinen Brüdern (Otto und Friedrich), die Grafen Emicho (von Leiningen) und Albert (von Wernigerode), Burggraf Gottfried von Nürnberg, die Grafen Konrad (von Abenberg), Sohn des Grafen Rabodo, und Lantelinus von Crema, Markward von Grumbach, die Capitane von Ravenna Petrus dux, Petrus Traversarius und Konrad, der Capitan von Gallese, Ugo de Pepucio, Rainucius de Scorzo Realis, Petrus Saluaticus, Amarisius von Ravenna, Saltesanus, Farulfus aus Faenza, Salianus und Cistarella</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der erzbischöflichen Kirche von <span sameAs="recipient"><hi rend="spaced">Ravenna</hi> </span>  auf Bitten des neugewählten Erzbischofs Guido, der zur Investitur an den Hof gekommen ist, die genannten Besitzungen und Rechte mit Ausnahme der Regalien, die sein ständiger Bote in Ravenna zu Lehen trägt, und der direkten Lehen vom Reich, gewährt ihr eine Verjährungsfrist von 100 Jahren bei der Rückerwerbung von entfremdeten Gütern und ermächtigt den Erzbischof, seiner Kirche schädliche Kontrakte für ungültig zu erklären, behält sich jedoch in allem die kaiserlichen Rechte vor. <span n="witnesses">Z.: die Bischöfe Rambert von Faenza, Alberich von Reggio, Alberich von Lodi, Kardinal Berard von Ravenna, der Presbyter Roland und Rufus, beide Kantoren von Ravenna, Abt Alberich von S. Vitale (zu Ravenna), der Knabe Herzog Friedrich von Schwaben, Sohn König Konrads (III.), Markgraf Hermann von Verona, Herzog (Heinrich) von Kärnten, Pfalzgraf Otto (von Wittelsbach) mit seinen Brüdern (Otto und Friedrich), die Grafen Emicho (von Leiningen) und Albert (von Wernigerode), Burggraf Gottfried von Nürnberg, die Grafen Konrad (von Abenberg), Sohn des Grafen Rabodo, und Lantelinus von Crema, Markward von Grumbach, die Capitane von Ravenna Petrus dux, Petrus Traversarius und Konrad, der Capitan von Gallese, Ugo de Pepucio, Rainucius de Scorzo Realis, Petrus Saluaticus, Amarisius von Ravenna, Saltesanus, Farulfus aus Faenza, Salianus und Cistarella</span>. - <span n="chancellor"><hi rend="italic">Vlricus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">nach DO. III. 341 (VU.) vom selben italienischen Schreiber mundiert wie D. 314 (Reg. 867), das Monogramm und das Diktat der selbständigen Teile stammt von RG.</span> <span n="incipit"><hi rend="italic">Ratio exigit et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ratio exigit et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Drei notarielle Abschriften des 12. Jh. Nouv. acquis. lat. 2573 n<hi rend="sup">o</hi>  38 (B), n<hi rend="sup">o</hi>  39 (C) und n<hi rend="sup">o</hi>  40, Nationalbibliothek Paris; notarielle Abschrift von 1313, erzbischöfliches Archiv Ravenna (E); notarielle Abschrift des 15. Jh., Staatsarchiv Ravenna (F). Drucke: Fantuzzi, Mon. Ravennati 5, 288 n<hi rend="sup">o</hi>  47; MG. DF I. 315. Reg.: Stumpf 3896.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Erzbischof Guido, dem Sohn des gleichnamigen Grafen von Biandrate vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-01-00_1_0_4_2_2_89_647.html" type="internal" n="regesten">647</ref>  mit den dort gebotenen Verweisen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0095" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_315" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

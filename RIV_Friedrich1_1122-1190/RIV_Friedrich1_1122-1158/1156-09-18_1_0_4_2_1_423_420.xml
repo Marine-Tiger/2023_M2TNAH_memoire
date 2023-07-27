@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 420</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-09-18_1_0_4_2_1_423_420"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-09-18_1_0_4_2_1_423_420"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-09-18_1_0_4_2_1_423_420</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358251714" value="2013-01-15"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 420</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-09-18" to="1156-09-18">1156 September 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">Regensburg</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Frieden</hi>  <hi rend="spaced">Kölner Wahl</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich läßt in öffentlicher Versammlung (<hi rend="italic">in publico residens consistorio</hi>) einen <span sameAs="recipient"><hi rend="spaced">Frieden</hi> </span>  (<hi rend="italic">treugam</hi>) vom nächsten Pfingstfest an auf ein Jahr beschwören. Noch vor Ende des Hoftags entscheidet Friedrich die zwiespältige <span sameAs="recipient"><hi rend="spaced">Kölner Wahl</hi> </span>  (vgl. Reg. 408), indem er sich für den Kandidaten der Domkanoniker, Friedrich, den Sohn des Grafen Adolf (von Berg), ausspricht, ihn mit den Regalien investiert und zur Weihe durch den Papst nach Rom schickt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Brief Friedrichs an Otto von Freising (Reg. 451), Ottonis Gesta Frid. l. II cap. 56, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 161 und Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 93 (vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  636).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Simonsfeld, Jahrbücher 477 ff. und zur Kölner Wahl jetzt auch Wolter, Friedrich II. von Köln, Jb. d. Köln. Gesch. ver. 46 (1975) 14 ff. - Ob der damals beschworene Friede vom Pfingstfest 1157 oder 1158 an gelten sollte, ist nicht ganz sicher. Simonsfeld, a. a. O. 478 Anm. 185 spricht sich für 1157 aus, dagegen ist Schmale in seiner Edition der Gesta Frid., Freiherr vom Stein-Gedächtnisausgabe 17 (<hi rend="sup">2</hi> 1974) 391 Anm. 58 eher für den späteren Termin, da die Chronologie in diesen Teilen der Gesta nicht fehlerfrei ist und der Friede wohl den zweiten Italienzug sichern sollte.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (1991):</hi>
+</p>
+<p>Sollte die Angabe Ottos von Freising <hi rend="italic">sequenti die in publico residens consistorio</hi> auf die dem Privilegium minus zugrundeliegende Rechtshand­lung vom 8. September 1156 (vgl. Reg. 415) und nicht auf das Privileg vom 17. September (Reg. 417) selbst zu beziehen sein, so müßte Reg. 420 mit dem Datum 1156 September 9, Regensburg als Reg. 415a eingereiht werden.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0141" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

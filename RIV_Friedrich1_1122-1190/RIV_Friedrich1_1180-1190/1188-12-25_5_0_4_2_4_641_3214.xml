@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3214</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_5_0_4_2_4_641_3214"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_5_0_4_2_4_641_3214"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-12-25_5_0_4_2_4_641_3214</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3214</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-12-25" to="1188-12-25">1188
+									nach Dezember 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich empfängt 								auf dem unter zahlreicher Teilnahme von Fürsten gefeierten Hoftag in 								Nürnberg Legaten König Belas (III. von Ungarn), des byzantinischen 								Kaisers (Isaak II. Angelos), des Sultans (Kilidsch Arslan von 								Ikonium) – letztere Gesandtschaft umfasst 1.000 Personen und 500 								Pferde – und des Sultans Saladin (Ann. Pegav.: <hi rend="italic">a 									rege Arabum</hi>), die in Beantwortung seiner eigenen, an sie 								gerichteten Gesandtschaften (siehe dazu oben Regg. 3149, 3150 und 								3151 sowie †3159 und 3160) bei Hofe erscheinen. Die Ungarn und die 								Seldschuken sagen ihm und den Kreuzrittern für den Kreuzzug Geleit 								und Versorgung zu. Darüber hinaus sind auch Gesandte des Königs von 								Serbien (des Großžupans Stephan Nemanja) bei Hofe anwesend, die 								gleichfalls Zusagen überbringen, das Unternehmen zu unterstützen und 								den Kaiser in der Hauptstadt Serbiens (siehe dazu unten Reg. 3385) 								empfangen zu wollen. Der Kaiser übersendet dem Serben gemeinsam mit 								der ehrenvoll empfangenen und wieder entlassenen Gesandtschaft 								Geschenke. Seitens der Byzantiner tritt der Kanzler und Logothet des 								Dromos, Johannes Dukas, als Gesandter auf, der im Namen des Basileus 								die Bereitschaft erklärt, dem Kaiser für die Kreuzfahrt freien 								Durchzug und Verpflegung für Mann und Ross zu gewähren, jedoch vom 								Staufer die Zusage fordert, den Durchzug friedlich zu gestalten und 								keine Stadt, kein Dorf und keine Festung zu belästigen. Friedrich 								lässt seine friedlichen Absichten durch einen Eid bekräftigen, den 								Bischof (Gottfried) von Würzburg, Herzog (Friedrich) von Schwaben 								und Herzog (Leopold) von Österreich) für ihn leisten (Hist. de 								expeditione; Hist. peregrinorum); Eidesleistungen der Byzantiner und 								abermals von drei Reichsfürsten sichern schließlich das Abkommen ab.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 59 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 178 f. (Friedrich will die Erfüllung 								einer der von den Byzantinern geforderten Bedingungen nicht 								zusagen); Ann. Mellicenses, MG. SS IX, 544; Ann. Pegav., MG. SS XVI, 								266 (zu 1189 entsprechend dem Nativitätsstil); Scheffer-Boichorst, 								Ann. Patherbrunnenses, 181; Ann. s. Rudberti Salisburg., MG. SS IX, 								777 (zu 1189); vgl. Cont. Zwetlensis altera, MG. SS IX, 544; 								Hermanni Altah. Ann., MG. SS XVII, 385 (zu 1189, ohne Ort und 								Datum); Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. 								SS rer. Germ. N.S. 5, 15 f. (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 76 f.); Hist. peregrinorum, 								ed. Chroust, MG. SS rer. Germ. N.S. 5, 127 f.; Niketas Choniates 								lI/3, ed. Bekker, 525 bzw. ed. van Dieten, 401 f. (deutsche 								Übersetzung bei Grabler, Abenteurer auf dem Kaiserthron, 204); Otto 								von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. Germ. in us. 								schol., 45 f. = ed. Schmale, Freiherr vom Stein-Gedächtnisausgabe 								XVIIIa, 90 (zu 1188); Dölger – Wirth, Reg. d. Kaiserurkunden d. 								oström. Reiches 2, n<hi rend="sup">o</hi> 1581. – Interessante, 								gleichwohl zeitlich schwer einzuordnende Angaben über eine 								Gegengesandtschaft der Seldschuken unter dem Mamluken Hātim finden 								sich im Brief des Katholikos (Patriarchen) von Armenien Gregor (IV.) 								(beim Absender könnte es sich auch um Bar Krikour Basil, einen 								Basilios, Sohn des Gregor, oder auch einen anderen Gregor, Enkel des 								Basilios von Rhom-gla handeln) an Sultan Saladin, überliefert in 								Bahā’ al-Dīn, History of Saladin, transl. by D. S. Richards (2002) 								115 (in einer alten deutschen Übersetzung auch bei Wilken, 								Geschichte der Kreuzzüge 4, 3 ff.).</p></div>
+				
+				
+					<div type="commentary"><p>Möhring, Saladin und der Dritte Kreuzzug, 97, hält 								die Nachrichten über eine Gesandtschaft Sultan Saladins für falsch. 								Er zweifelt allerdings die gesamten Nachrichten über diplomatische 								Kontakte zwischen dem Staufer und dem Aiyubiden in Vorbereitung des 								Kreuzzuges an (siehe dazu schon oben die Hinweise bei Reg. 3160). – 								Zu Saladin vgl. die Hinweise oben bei Reg. 3085. – Zum 								deutsch-byzantinischen Verhältnis vgl. Zimmert, Der 								deutsch-byzantinische Konflikt, Byzantin. Zs. 12 (1903) 43.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

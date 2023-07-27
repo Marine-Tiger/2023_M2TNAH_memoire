@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2776</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-21_1_0_4_2_4_197_2776"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-21_1_0_4_2_4_197_2776"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-07-21_1_0_4_2_4_197_2776</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844183" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2776</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-07-21" to="1184-07-21">1184
+									Juli 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Kaiserslautern (<hi rend="italic">XII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. augusti, apud Lutram</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet einen in seiner Gegenwart und 								der zahlreicher Reichsfürsten und Getreuer gefällten Spruch des 								Hofgerichtes, der untersagt, dass Leute des <hi rend="spaced">Stiftes</hi> 								<hi rend="spaced">St. Suitbert zu Kaiserswerth</hi> (<hi rend="italic">ecclesie sancti Sigeberti [!] in Werda</hi>) ohne 								Zustimmung des römischen Kaisers einer anderen Herrschaft 								unterstellt werden oder sich ihr selbst unterwerfen. – Geschrieben 								von GL auf südlichem Pergament; <span n="seal"> SP.2</span>. <hi rend="italic">Pio affectu et.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Düsseldorf (jetzt: 								Landesarchiv Nordrhein-Wetfalen Abteilung Rheinland) (A). Faks.: 								Zimmermann – Stöcker, Kaiserswerth, 71 Abb. 27. Drucke: 								Kelleter, UB. des Stiftes Kaiserswerth, 24 n<hi rend="sup">o</hi> 								16; MG.DF.I.864. Reg.: Dolch – Münch, UB. der Stadt 								Kaiserslautern 1, 55 n<hi rend="sup">o</hi> 27; Diestelkamp – 								Rotter, Urkundenregesten 1, 375 n<hi rend="sup">o</hi> 476; Stumpf 								4383.</p></div>
+				
+				
+					<div type="commentary"><p>Die auffällige Verwendung von südlichem Pergament 								könnte darauf hinweisen, dass die Ausfertigung erst nachträglich auf 								italienischem Boden erfolgte, vgl. dazu die Vorbemerkung zum D. – 								Zum Inhalt vgl. Opll, Stadt und Reich, 92 f. – Aus dem Jahre 1184 								stammen auch Bauinschriften, nach denen Friedrich damals die (Aula 								der) Pfalz zu Kaiserswerth errichten ließ, vgl. Kelleter, a.a.O., 								Einleitung, XLII und XLVI ff., Hotz, Pfalzen und Burgen der 								Stauferzeit, 102, Ders., Kunstgeschichte, 99, Ganz, Hof und Kultur, 								in: Friedrich Barbarossa (VuF 40, 1992) 645 mit Anm. 184, und 								Zettler, Inschriften an staufischen Pfalzen und Burgen, in: Herzner 								– Krüger – Staab (Hgg.), Kunst der Stauferzeit im Rheinland und in 								Italien (2003) 50 f.; der Wortlaut der Inschriften lautet: (1) <hi rend="italic">ANNO AB INCARNATIONE / DOMINI NOSTRI IESV CHRISTI 									MCLXXXIIII / HOC DECVS IMPERIO CESAR FRIDERICVS ADAUXIT / 									IUSTICIAM STABILIRE VOLENS / ET VT VNDIQUE PAX SIT</hi>. – (2) 									<hi rend="italic">AB ANNO DOMINICE INCARNATIONIS MCLXXXIIII / 									IUSTICIE CVLTOR MALEFACTI PROVIDUS VLTOR / CESAR ADORNANDAM 									FRIDERICVS CONDIDIT AVLAM.</hi> – Noch im Herbst 1189 machte 								Friedrich seinem Sohn, König Heinrich VI., die Fertigstellung und 								entsprechende Bewachung der Pfalzen in Kaiserswerth und Nimwegen zur 								Pflicht, siehe dazu unten Reg. 3411. – Zur Pfalz in Kaiserslautern 								vgl. zuletzt Keddigkeit, (Kaisers)Lautern, in: Die Staufer und 								Italien, Bd. 2: Objekte (2010) 96 f. Kat.-Nr. IV.A.1.1.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_864" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

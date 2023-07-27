@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 505</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-23_2_0_4_2_1_507_505"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-23_2_0_4_2_1_507_505"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-23_2_0_4_2_1_507_505</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240125" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 505</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-23" to="1157-11-23">1157 November 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Besançon">Besançon</placeName>
+												<location><geo decls="#WGS">47.2333, 6.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIIII kal. decemb., Bisuntii)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Odo</hi>  <hi rend="spaced">Valence</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Viennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Kanzleidiktat geschrieben von RD</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Humbert von Besançon, Bischof Gaufred von Avignon, Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Stephan (von Mâcon) und Hugo von Dagsburg, Walcher von Salins, (Graf) Odo von der Champagne (<hi rend="italic">Campaniensis</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den an den Hof gekommenen Bischof <span sameAs="recipient"><hi rend="spaced">Odo</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Valence</hi> </span>  (<hi rend="italic">Valentina</hi>) nach der Leistung von Treu- und Lehenseid (<hi rend="italic">acceptaque ab eo debita fidelitate et hominio</hi>) mit den Regalien, bestätigt ihm die genannten Besitzungen samt Zubehör, verfügt, daß niemand von der Isère bis Montélimar sowie von Crest bis Soyons (<hi rend="italic">a flumine Ysare usque ad castrum Montilii et a castro Crestri usque ad villam de Supdione</hi>) und im Bistum Valence Weggeld (<hi rend="italic">pedaticum</hi>) beansprucht, verbietet die Veräußerung von Reichs- bzw. Kirchenlehen, verfügt die Kassation derartiger bereits geschehener Veräußerungen und bestätigt die Immunität, behält sich aber die kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: Erzbischof Humbert von Besançon, Bischof Gaufred von Avignon, Herzog Matthäus von Lothringen, die Grafen Ulrich von Lenzburg, Stephan (von Mâcon) und Hugo von Dagsburg, Walcher von Salins, (Graf) Odo von der Champagne (<hi rend="italic">Campaniensis</hi>)</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Viennensis archiep. et archicanc.</hi> </span>; <span n="clerk">nach Kanzleidiktat geschrieben von RD</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Privilegia, quę generalibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Privilegia, quę generalibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Valence (A). Kop.: Abschrift von 1705, Nationalbibliothek Paris Nouv. acquis. franç. 9799 f. 153 (D). Drucke: Gallia Christ. ed. II. 16, Instr. 103 n<hi rend="sup">o</hi>  4; MG. DF. I. 196. Reg.: Chevalier, Reg. Dauphinois 1, 675 n<hi rend="sup">o</hi>  4036 und 7, 20 n<hi rend="sup">o</hi>  275; Stumpf 3790 zu November 24.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Diktat vgl. die Vorbemerkung des D. Das Veräußerungsverbot von Lehen war schon in den DDF. I. 187 und 195 (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-10-00_3_0_4_2_1_495_493.html" type="internal" n="regesten">493</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-23_1_0_4_2_1_506_504.html" type="internal" n="regesten">504</ref>) ausgesprochen worden. Zur Identifizierung von <hi rend="italic">castrum Montilium</hi>  mit Montélimar vgl. Font-Réaulx, Valence, Bulletin philologique et historique 1925 (1927) 56 n<hi rend="sup">o</hi>  13 mit Anm. 1. Zu Eudes de Champagne, sire de Champlitte vgl. DF. I. 195 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-23_1_0_4_2_1_506_504.html" type="internal" n="regesten">504</ref>). Nachurkunden: König Philipp von 1205, Winkelmann, Acta Imperii inedita 1, 5 n<hi rend="sup">o</hi>  7 sowie B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  *96; Friedrich II. von 1238, B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  2404.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0171" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_196" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

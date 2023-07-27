@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 188</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-07-12_1_0_4_2_1_188_188"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-07-12_1_0_4_2_1_188_188"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-07-12_1_0_4_2_1_188_188</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415625015" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 188</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-07-12" to="1153-07-12">1153 Juli 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erstein">Erstein</placeName>
+												<location><geo decls="#WGS">48.4167, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>[IV idus iullii (!), Erstein]</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bertha</hi>  <hi rend="spaced">Erstein</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Henricus not. vice Arnoldi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DH. II. 499 (VU.) verfaßt und geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Bischof Burchard von Straßburg, Konrad, der Bruder des Königs, die Grafen Siegbert von Frankenburg (<hi rend="italic">Frankennesbvrch</hi>), Werner von Habsburg (<hi rend="italic">Hauegesburch</hi>) und Berthold von Neuenburg, Vogt Anselm von Straßburg, die Grafen von Tübingen und Ludwig von Württemberg (<hi rend="italic">Werdeneberch</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt, daß die Äbtissin <span sameAs="recipient"><hi rend="spaced">Bertha</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Erstein</hi> </span>  durch ihn und den Klostervogt Graf Hugo von Dagsburg den Hof Besigheim (<hi rend="italic"> Basincheim</hi>), den Kaiserin Agnes einst dem Kloster übergab, an den Markgrafen Hermann von Baden zu freiem Eigen geschenkt hat. <span n="witnesses">Z.: Bischof Burchard von Straßburg, Konrad, der Bruder des Königs, die Grafen Siegbert von Frankenburg (<hi rend="italic">Frankennesbvrch</hi>), Werner von Habsburg (<hi rend="italic">Hauegesburch</hi>) und Berthold von Neuenburg, Vogt Anselm von Straßburg, die Grafen von Tübingen und Ludwig von Württemberg (<hi rend="italic">Werdeneberch</hi>)</span>. - <span n="chancellor"><hi rend="italic">Henricus not. vice Arnoldi Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DH. II. 499 (VU.) verfaßt und geschrieben von A II. D</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Regia dignitas rei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regia dignitas rei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Stuttgart (A). Drucke: Wirtembergisches UB. 2, 76 n<hi rend="sup">o</hi>  345; MG. DF. I. 65. Reg.: Fester, Reg. der Markgr. v. Baden 1, 10 n<hi rend="sup">o</hi>  103; Stumpf 3677.</p></div>
+				
+				
+					<div type="commentary"><p>Rekognoszent ist, wie in DF. I. 127, der spätere Protonotar Heinrich. - Diese Übertragung der Reichsabtei könnte mit dem Niedergang Ersteins zusammenhängen, aber auch ein Zugeständnis an den Markgrafen im Hinblick auf dessen Teilnahme an dem geplanten Romzug sein. Da die Staufer im Elsaß über ein ausgedehntes Hausgut verfügten, waren sie hier vielleicht auch nicht so stark auf das Reichsgut angewiesen; vgl. Scheffer-Boichorst, Erstein (Zur Geschichte des 12. und 13. Jh. = Hist. Stud. 8, 1897) 359 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1442898770" value="2015-09-22"></date><p n="author">Dieter Rübsamen</p><p>Lit.: H. Schwarzmaier, Besigheim zwischen König und Markgraf : zur Urkunde vom 12.7.1153, Besigheim 2003.
+</p>
+<p></p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0069" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221875%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_65" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=553" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

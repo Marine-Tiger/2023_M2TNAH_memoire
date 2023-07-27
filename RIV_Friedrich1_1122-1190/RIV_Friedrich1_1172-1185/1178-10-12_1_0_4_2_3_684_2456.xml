@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2456</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_1_0_4_2_3_684_2456"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-12_1_0_4_2_3_684_2456"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-12_1_0_4_2_3_684_2456</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606050" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2456</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-12" to="1178-10-12">1178 Oktober 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Oberehnheim/Obernai</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(IIII idus octobris, apud Ehenheim)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2. (an A verloren, an A<hi rend="sup">1</hi>  beschädigt)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Cristiani Maguntini archiep. totius Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung der Urkunde der Äbtissin Herrad über die Schenkung von St. Gorgon von 1178 (Peltre, La vie de sainte Odile, appendice; VU.) außerhalb der Kanzlei vom Empfänger (vgl. Reg. 2457) verfaßt und — bis auf das in A von der Hand Burkhards stammen</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der an den Hof gekommenen <hi rend="spaced">Äbtissin Herrad von Hohenburg</hi>  (St. Odilienberg) auf deren Bitten hin, daß sie dem <hi rend="spaced">Abt Werner von Étival</hi>  den Ort <hi rend="spaced">St.Gorgon</hi>  mit namentlich angeführtem Zubehör zur Errichtung eines Prämonstratenserstiftes geschenkt hat, wofür der Abt persönlich oder vertreten durch eine geeignete Person jährlich an den genannten Festtagen zu Hohenburg die Messe zelebrieren solle (<hi rend="italic">fraterna visitatione Hohenburgensem ęcclesiam visitet et in festo sanctę Odilię et in dedicatione capellę eius et in nativitate sanctę Marię ad eandem ęcclesiam, nisi infirmitate corporis preventus vel aliquo ęcclesię suę negocio fuerit occupatus, missam sollempnem annuatim celebrare veniat</hi>). — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Cristiani Maguntini archiep. totius Germanię archicanc.</hi> </span>; <span n="clerk">unter Verwendung der Urkunde der Äbtissin Herrad über die Schenkung von St. Gorgon von 1178 (Peltre, La vie de sainte Odile, appendice; VU.) außerhalb der Kanzlei vom Empfänger (vgl. Reg. 2457) verfaßt und — bis auf das in A von der Hand Burkhards stammende Eschatokoll — auch geschrieben</span>; <span n="seal">SP.2. (an A verloren, an A<hi rend="sup">1</hi>  beschädigt)</span>. <span n="incipit"><hi rend="italic">Quotiens ea petimur</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quotiens ea petimur</hi></p></div>
+				
+				
+					<div type="transmission"><p>Origg.: Stadtbibliothek Nancy (A); Departementalarchiv Straßburg (A<hi rend="sup">1</hi>). Drucke: Würdtwein, Nova Subsidia 10, 84 n<hi rend="sup">o</hi>  30; MG.DF.I.767. Reg.: Stumpf 4294 zu 1179 Oktober 12.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung dieses in zwei Originalausfertigungen (A, ehemals aus dem Archivbestand des Stiftes Étival; A<hi rend="sup">1</hi>  die für Hohenburg bestimmte Zweitausfertigung) sowie zur kanzleigeschichtlichen Bewertung des D. vgl. die Vorbemerkung zum D. mit den dort gebotenen Hinweisen auf Güterbock, Zur Geschichte Burgunds, Zs.f.schweizer. Gesch.17 (1937) 177 Anm. 153, sowie Herkenrath, Reichskanzlei 1174 bis 1180, 190. — Zur Datierung vgl. Scheffer-Boichorst, Kleinere Forschungen, MIÖG 9 (1888) 212 Anm.2. — Auf das D. wird auch in der Urkunde Bischof Heinrichs von Straßburg von 1183 Januar 20, Scherweiler für Äbtissin Herrad von Hohenburg Bezug genommen, vgl. Wentzcke, Reg. Straßburg n<hi rend="sup">o</hi>  613. — Zur Gründung von St. Gorgon vgl. Büttner, Hohenburg, ZGORh NF 52 (1938) 136.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0240" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_767" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

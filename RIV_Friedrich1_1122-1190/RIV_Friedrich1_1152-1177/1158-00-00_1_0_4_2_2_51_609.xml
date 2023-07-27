@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 609</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-00-00_1_0_4_2_2_51_609"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-00-00_1_0_4_2_2_51_609"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-00-00_1_0_4_2_2_51_609</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241002" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 609</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-01-01" to="1158-12-31">1158 - -</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>-</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Vicenza</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Fridericus Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung des DH. IV. 366 wahrscheinlich außerhalb der Kanzlei mundiert.</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die bischöfliche Kirche zu <span sameAs="recipient"><hi rend="spaced">Vicenza</hi> </span>  gemäß dem von seinem Urgroßvater Heinrich (IV.) an Bischof Ezelin verliehenen Privileg auf Bitten Bischof Uberts in seinen Schutz, erklärt sie mit ihren genannten Besitzungen für frei vom Fodrum, von Abgaben und anderen Dienstleistungen, im besonderen an die Städte Vicenza, Padua und Verona sowie für den Bau von Befestigungswerken, verpflichtet sie aber im Fall seines Kommens zur Einsammlung des Fodrums und zu den schuldigen Dienstleistungen; des weiteren schenkt er ihr das dem Reich gehörige Theater am Fluß Retrone und bestätigt ihr Zoll und Markt sowie die freie Schiffahrt von der Stadt bis nach Venedig. - <span n="chancellor"><hi rend="italic">Fridericus Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">in Wiederholung des DH. IV. 366 wahrscheinlich außerhalb der Kanzlei mundiert.</span> <span n="incipit"><hi rend="italic">Que regum vel</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Que regum vel</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Auszüge in den Akten eines an der Kurie geführten Prozesses zwischen dem Bischof und der Stadt Vicenza aus dem späten 13. Jh., Biblioteca civica Bertoliana zu Vicenza, Archivio storico del Comune, cart. n<hi rend="sup">o</hi>  44 (C); Abschrift von 1557, Archivio della mensa vescovile ebenda (D); Abschrift des 17. Jh., Istoria di Vicenza, Britisches Museum, Add. 8602 f. 233' (E); Abschrift von 1646 aus dem Liber primus Albus communitatis Vicentinae f. 560 im Cod. Barber. XXX (lat. 2086) f. 40, Vatikanische Bibliothek zu Rom (F); Abschrift des 18. Jh. in einer Handschrift des Liber Albus (?), Biblioteca civica Bertoliana zu Vicenza (G). Druck: MG. DF. I. 230. Reg.: Stumpf 3820.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0032" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_230" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

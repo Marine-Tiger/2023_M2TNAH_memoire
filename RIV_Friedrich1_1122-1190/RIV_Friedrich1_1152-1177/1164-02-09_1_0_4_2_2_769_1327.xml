@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1327</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-02-09_1_0_4_2_2_769_1327"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-02-09_1_0_4_2_2_769_1327"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-02-09_1_0_4_2_2_769_1327</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246128" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1327</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-02-09" to="1164-03-31">(1164 Februar 9-März)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi>  <hi rend="spaced">Salzburg</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Salzburg</hi> </span>, daß er im Zusammenhang mit den Wirren im Königreich Ungarn bereits drei Gesandtschaften, nämlich solche des Knaben (Stephan III.), der nach der Vertreibung seines Oheims die Macht an sich gerissen habe, und dieses Oheims (Stephan IV.) und zahlreicher Herren und Edelleute Ungarns, die sich bereitwillig der Reichsherrschaft unterstellten, empfangen habe und empfiehlt ihm seine eigenen Gesandten, den Magister Heinrich, Protonotar des kaiserlichen Hofes, und den Grafen Heinrich von Diez, die ihn über die Geschehnisse unterrichten werden und für die er um freies Geleit ersucht. - Wohl vom selben Verfasser wie DF. I. 432 (Reg. 1329). <span n="incipit"><hi rend="italic">Quoniam honorem nostrum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam honorem nostrum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. XI 671 f. 522, Landesbibliothek Hannover (D). Drucke: Hödl - Classen, Salzburger Briefsammlung, MG. Briefe VI, 178 n<hi rend="sup">o</hi>  20; MG. DF. I. 431. Reg.: Meiller, Reg. archiep. Salisburg. 463 n<hi rend="sup">o</hi>  63 zu 1157.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Hintergründen der ungarischen Wirren vgl. Hóman, Geschichte des ungarischen Mittelalters 1, 393 ff., zur zeitlichen Einordnung vgl. Hausmann, Reichskanzlei 159 f. sowie die letzte Nennung Graf Heinrichs von Diez bei Hofe (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-02-09_1_0_4_2_2_748_1306.html" type="internal" n="regesten">1306</ref>); Georgi, Barbarossa und die auswärtigen Mächte, 98 ff. plädiert für 1163. - Zu den ungarischen Gesandtschaften vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-03-00_3_0_4_2_2_766_1324.html" type="internal" n="regesten">1324</ref>. - An der Kurie glaubte man jedenfalls an einen bevorstehenden Kriegszug des Kaisers gegen Ungarn, vgl. das Schreiben Alexanders III. an Erzbischof Eberhard von Salzburg von 1163 Mai 29 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-05-29_1_0_4_2_2_646_1204.html" type="internal" n="regesten">1204</ref>) und dazu Holtzmann, Alexander III. und Ungarn, Ungar. Jahrbücher 6 (1927) 417 Anm. 3.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0206" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_431" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

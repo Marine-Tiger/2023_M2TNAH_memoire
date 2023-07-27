@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 611</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-22_1_0_4_2_2_53_611"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-22_1_0_4_2_2_53_611"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-22_1_0_4_2_2_53_611</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241071" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 611</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-22" to="1158-11-22">(1158 November 22 oder 23)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(bei der Kirche S. Pietro in Cotrebbia)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Regalien</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich läßt den Begriff der <span sameAs="recipient"><hi rend="spaced">Regalien</hi> </span>  durch eine in formloser Niederschrift gehaltene Aufzählung definieren, wobei die Arimannien, das Recht auf die Verkehrswege und die damit verbundenen Abgaben, die Münze, Strafgelder, die Konfiskation von Gütern bei bestimmten Verbrechen, der Anspruch auf vakante Güter und auf Spannund Fuhrdienste, die außerordentliche Abgabe für den königlichen Kriegszug, die Einsetzung von Gerichtsbehörden, die Silbergruben, die Pfalzen in den gewohnten Städten, Einkünfte aus Fischfang und Salzgewinnung, der Einzug der Besitzungen bei Majestätsverbrechen sowie der Anteil an Schatzfunden genannt werden. - <span n="incipit"><hi rend="italic">Regalia sunt hec</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regalia sunt hec</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. im Cod. Vat. Pal. 772 f. 85, Vatikanische Bibliothek Rom (D); Abschrift des 13. Jh. im Ms. 1110 (alt Hist. 80) f. 13', Bibliothèque de l'Arsénal Paris (E); Abschrift des 13. Jh. im Cod. 565 f. 56', Bibliothèque municipale Tours (F); Abschrift des 14. Jh. im Msc. Can. 45 f. 74', Staatsbibliothek Bamberg (G). Drucke: MG. Const. 1, 244 n<hi rend="sup">o</hi>  175; MG. DF. I. 237. Reg.: Stumpf 3825.</p></div>
+				
+				
+					<div type="commentary"><p>Den genauesten Bericht über die Vorgänge bietet Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 59 f., während Rahewins Nachrichten (Rahewini Gesta Frid. l. IV cap. 7, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 240) offensichtlich nur auf dem Hörensagen beruhen (vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-11_3_0_4_2_2_49_607.html" type="internal" n="regesten">607</ref>). Der Umfang der Regalien, die auch in verschiedenen späteren Urkunden genannt sind (D. 257 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-02-07_1_0_4_2_2_107_665.html" type="internal" n="regesten">665</ref>, D. 259 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-02-15_1_0_4_2_2_111_669.html" type="internal" n="regesten">669</ref>  und D. 459 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-24_1_0_4_2_2_844_1402.html" type="internal" n="regesten">1402</ref>), war offenbar von den jeweiligen lokalen Verhältnissen abhängig, vgl. die Vorbemerkung zum D. Die Datierung muß zwischen 22. und 23. November offenbleiben, da die Angabe <hi rend="italic">nono kalendas decembris</hi>  bei Otto Morena nach dessen Eigenart, von der römischen Tagzählung ante kalendas stets einen Tag abzuweichen, auf den 22. November zu beziehen ist, der Kaiser aber andererseits am 23. November 1158 zu S. Pietro di Cotrebbia geurkundet hat (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-23_1_0_4_2_2_52_610.html" type="internal" n="regesten">610</ref>). - Zum D. vgl. Finsterwalder, Gesetze des Reichstags von Roncaglia, ZRG g. A. 51 (1931) 1 ff., besonders 15 ff., Ott, Regalienbegriff, ZRG kan. A. 35 (1948) 272 ff., besonders 276 ff. sowie Appelt, Friedrich Barbarossa und das römische Recht, Wege der Forschung 390 (1975) 62 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0033" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_237" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

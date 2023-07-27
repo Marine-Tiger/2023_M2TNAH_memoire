@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1791</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-06-28_1_0_4_2_3_16_1791"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-06-28_1_0_4_2_3_16_1791"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-06-28_1_0_4_2_3_16_1791</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595484" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1791</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-06-28" to="1168-06-28">1168 Juni 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(<hi rend="italic">IIII kal. iulii, Wirzeburg</hi>).</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus sacri palacii canc. vice Cristiani archicanc. et Maguntinę sedis archiep.</hi></notarius>
+				
+				
+					<scribe>geschrieben und wohl auch mundiert von dem hier erstmals in der Reichskanzlei tätigen Magdeburger Schreiber Heinrich A</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Christian von Mainz, Wichmann von Magdeburg und Hartwig von Bremen, die Bischöfe Hermann von Hildesheim, Gero von Halberstadt, Udo von Zeitz, Herold von Würzburg, Eberhard von Bamberg und Werner von Minden, die Pröpste Adelhog von Goslar, Otto von Magdeburg, Richolf von Würzburg und Dietrich von Meißen, Herzog Heinrich (der Löwe) von Sachsen, Markgraf Albrecht (der Bär), Vogt der Goslarer Kirche, Landgraf Ludwig (von Thüringen), die Markgrafen Otto von Meißen und sein Bruder Dietrich (der Lausitz), die Grafen Dedo (von Groitzsch) und Heinrich (von Wettin), die Grafen Albrecht und Dietrich (von Werben), Söhne Markgraf Albrechts (des Bären), Burggraf Poppo von Würzburg, Pfalzgraf Otto von Wittelsbach und seine Brüder Friedrich und Otto, die Grafen Gebhard von Sulzbach, Gebhard von Leuchtenberg und Heinrich von Diez, Markward von Grumbach, Burggraf Burchard von Magdeburg, Graf Berthold von Schauenburg, Kämmerer Hartmann, Marschall Berthold, Truchseß Walther und Mundschenk Konrad</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt auf dem allgemeinen <hi rend="spaced">Hoftag</hi>  zu Würzburg mit Rat und einmütiger Zustimmung der Fürsten (<hi rend="italic">in generali curia nostra Wirzebvrg consilio et concordi principum nostrorum assensu</hi>) <hi rend="spaced">Graf Engelbert von Berg</hi>  (<hi rend="italic">Nvemberge</hi>) mit Dieren (<hi rend="italic">villa Thiedere</hi>), das er zuvor mit Zustimmung des Propstes Adelhog, der Brüder und des Vogtes Markgraf Albrecht (des Bären) von der Goslarer Kirche gegen Überlassung gleichwertiger Einkünfte zu <hi rend="italic">Brvnesthorp</hi>  und <hi rend="italic">Scolene</hi>  eingetauscht hat. <span n="witnesses">Z.: die Erzbischöfe Christian von Mainz, Wichmann von Magdeburg und Hartwig von Bremen, die Bischöfe Hermann von Hildesheim, Gero von Halberstadt, Udo von Zeitz, Herold von Würzburg, Eberhard von Bamberg und Werner von Minden, die Pröpste Adelhog von Goslar, Otto von Magdeburg, Richolf von Würzburg und Dietrich von Meißen, Herzog Heinrich (der Löwe) von Sachsen, Markgraf Albrecht (der Bär), Vogt der Goslarer Kirche, Landgraf Ludwig (von Thüringen), die Markgrafen Otto von Meißen und sein Bruder Dietrich (der Lausitz), die Grafen Dedo (von Groitzsch) und Heinrich (von Wettin), die Grafen Albrecht und Dietrich (von Werben), Söhne Markgraf Albrechts (des Bären), Burggraf Poppo von Würzburg, Pfalzgraf Otto von Wittelsbach und seine Brüder Friedrich und Otto, die Grafen Gebhard von Sulzbach, Gebhard von Leuchtenberg und Heinrich von Diez, Markward von Grumbach, Burggraf Burchard von Magdeburg, Graf Berthold von Schauenburg, Kämmerer Hartmann, Marschall Berthold, Truchseß Walther und Mundschenk Konrad</span>. — <span n="chancellor"><hi rend="italic">Heinricus sacri palacii canc. vice Cristiani archicanc. et Maguntinę sedis archiep.</hi> </span>; <span n="clerk">geschrieben und wohl auch mundiert von dem hier erstmals in der Reichskanzlei tätigen Magdeburger Schreiber Heinrich A</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">De imperiali magnificentia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">De imperiali magnificentia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Bode, UB.Stadt Goslar 1, 293 n<hi rend="sup">o</hi>  262; MG.DF.I.545. Faks.: Koch, Reichskanzlei Abb.25 Teilfaks. Reg.: Dobenecker, Reg.Thur.2, n<hi rend="sup">o</hi>  362; Stumpf 4094.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Magdeburger Schreiber Heinrich A vgl. Koch, Reichskanzlei, 113 ff. und Herkenrath, Ulrich, Arch. Zs. 68 (1972) 41 ff. — Zu der Erwerbung des Gutes Dieren durch den Kaiser im Wege des Tausches vgl. die Angaben in dem von Bode, UB.Stadt Goslar I, 320 ff. n<hi rend="sup">o</hi>  301 (S. 329, 337) edierten Güterverzeichnis. — Zum Rechtsinhalt vgl. auch MG.DF.I.553 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1169-06-23_1_0_4_2_3_67_1842.html" type="internal" n="regesten">1842</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0022" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_545" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2893</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-04_1_0_4_2_4_316_2893"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-04_1_0_4_2_4_316_2893"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-07-04_1_0_4_2_4_316_2893</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845318" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2893</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-07-04" to="1185-07-04">1185
+									Juli 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Burg Annone (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> non. iulii, apud Nonam castrum</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl 									Kanzleiausfertigung, wobei GG als Diktator in Betracht 									kommt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt den <hi rend="spaced">Konsuln</hi> 								und dem <hi rend="spaced">Volk von Barga</hi> mit, dass er sich 								für sich, seine Nachfolger und seine Nuntien in der Garfagnana (<hi rend="italic">Karfiniana</hi>), insbesondere für den derzeit 								(dort) tätigen Markgrafen Wilhelm von Parodi, verpflichtet, die 								Gewohnheitsrechte der Konsuln und des Volkes von Barga zu achten und 								nur jene Abgaben von ihnen zu fordern, die sie einst der Markgräfin 								Mathilde zu leisten hatten, wobei er besonders die vielfach 								bewiesene Treue der Bargesen gegenüber dem Markgrafen Wilhelm von 								Parodi hervorhebt. –<span n="clerk"> Wohl 									Kanzleiausfertigung, wobei GG als Diktator in Betracht 									kommt</span>. <span n="incipit"><hi rend="italic">Nostre est 										sollertie.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nostre est 										sollertie.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Register Papst Gregors IX. tom. 1, Reg. 								Vat. n<hi rend="sup">o</hi> 14 f. 51‘, Vatikanisches Archiv 								(B). Drucke: Ficker, Forschungen 4, 200 n<hi rend="sup">o</hi> 								158; Auvray, Reg. de Grégoire IX 1, 96 n<hi rend="sup">o</hi> 175 								(zu Juli 5); MG.DF.I.909. Reg.: Stumpf 4424.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Einsetzung Wilhelms von Parodi als Podestà in 								der Garfagnana und in der Versilia siehe schon oben Reg. 2863.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_909" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

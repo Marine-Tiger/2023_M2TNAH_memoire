@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 177</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-05-29_2_0_4_2_1_177_177"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-05-29_2_0_4_2_1_177_177"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-05-29_2_0_4_2_1_177_177</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236857" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 177</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-05-29" to="1153-05-29">1153 Mai 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Heiligenstadt">Heiligenstadt</placeName>
+												<location><geo decls="#WGS">51.3833, 10.15</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII kal. iun., Heiligenstat)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hilwartshausen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DK. III. 220 (VU., wohl zu diesem Zweck verfälscht) bis auf das von A II. D stammende Monogramm von demselben Empfängerschreiber wie DF. I. 56 mundiert;</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Augsburg, Propst Gottschalk von Heiligenstadt, Notar Heinrich, die Kapelläne Kantor Hartwich (Domkantor und Propst von St. Johann zu Mainz), Jordan und Heribert, Herzog Heinrich (von Sachsen), die Grafen Heinrich Raspe (<hi rend="italic">Respo</hi>) und Rudolf von Bregenz, Markward von Grumbach (<hi rend="italic">Bronbach</hi>), Reinboto von Röckingen, die Ministerialen Gerwich von Kiffhausen (<hi rend="italic">Cuphese</hi>), Kapellar Friedrich, Kapellar Widekind und Kapellar Azzo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich unterstellt die Reichsabtei <span sameAs="recipient"><hi rend="spaced">Hilwartshausen</hi> </span>  (<hi rend="italic">abbatiam in Hildewardeshusen ad ius regni pertinentem</hi>) dem Propst Bertram von Fredelsloh, wie dies schon Konrad (III.) auf Bitten des päpstlichen Legaten Bischof Thietwin (auch Dietwin) tat, legt für den Fall des Todes oder des Verzichtes Bertrams auf seine Propstei die freie Propstwahl durch die Nonnen fest, trifft Verfügungen über den Rückfall entfremdeter Besitzungen und behält sich die Vogtei vor. <span n="witnesses">Z.: Bischof Konrad von Augsburg, Propst Gottschalk von Heiligenstadt, Notar Heinrich, die Kapelläne Kantor Hartwich (Domkantor und Propst von St. Johann zu Mainz), Jordan und Heribert, Herzog Heinrich (von Sachsen), die Grafen Heinrich Raspe (<hi rend="italic">Respo</hi>) und Rudolf von Bregenz, Markward von Grumbach (<hi rend="italic">Bronbach</hi>), Reinboto von Röckingen, die Ministerialen Gerwich von Kiffhausen (<hi rend="italic">Cuphese</hi>), Kapellar Friedrich, Kapellar Widekind und Kapellar Azzo</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">unter Verwendung von DK. III. 220 (VU., wohl zu diesem Zweck verfälscht) bis auf das von A II. D stammende Monogramm von demselben Empfängerschreiber wie DF. I. 56 mundiert;</span> <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Si iuxta predecessorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si iuxta predecessorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Hannover (A). Drucke: Stumpf, Acta Maguntina 57 n<hi rend="sup">o</hi>  54; MG. DF. I. 57. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  50; Stumpf 3670.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekognition vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-05-29_1_0_4_2_1_176_176.html" type="internal" n="regesten">176</ref>. Thietwin, der wohl in DF. I. 57 genannt wird, aber in DK. III. 220 (VU.) nicht aufscheint, ist nicht bei Friedrich I., sondern schon bei Konrad III. Petent; als solcher wird er jedenfalls in DK. III. 77 für Hilwartshausen erwähnt. Zum Vorbehalt der Vogteirechte des Reichsklosters vgl. Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 316 Anm. 6. Auch Papst Eugen III. bestätigt die anläßlich einer päpstlichen Visitation durch Erzbischof Heinrich von Mainz erfolgte Einsetzung des Propstes Bertram von Fredelsloh als Vorsteher des Stiftes Hilwartshausen, die freie Propstwahl, die Augustinerregel und trifft Verfügungen bezüglich der Klausur [vgl. JL. 9717 von (1153) Mai 3, Mainzer UB. 2/1, 340 n<hi rend="sup">o</hi>  182; Druck: Stumpf, Acta Maguntina 57 n<hi rend="sup">o</hi>  53].</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0064" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210069%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_57" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

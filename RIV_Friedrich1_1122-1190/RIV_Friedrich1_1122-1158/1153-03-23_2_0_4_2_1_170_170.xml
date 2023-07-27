@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 170</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-23_2_0_4_2_1_170_170"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-03-23_2_0_4_2_1_170_170"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-03-23_2_0_4_2_1_170_170</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236795" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 170</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-03-23" to="1153-03-23">1153 März 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Konstanz">Konstanz</placeName>
+												<location><geo decls="#WGS">47.6667, 9.1667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(X kal. april., Constantię)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Columban</hi>  <hi rend="spaced">Bobbio</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach einem Empfängerentwurf, dessen Besitzliste mit dem Privileg Papst Lucius' II. von 1144 März 15 (JL. 8518, Buzzi, CD. di Bobbio 2, 47 n<hi rend="sup">o</hi>  163; VU. I) übereinstimmt, der aber auch DO. I. 412 (VU. II) verwertete, von Bischof Hermann von Konst</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Ortlieb von Basel, Gunther von Speyer, Konrad von Worms, Adelgoz von Chur, Anselm von Havelberg, Konrad von Augsburg, Arditio von Como, die päpstlichen Legaten Kardinalpriester Bernhard von S. Clemente und Kardinaldiakon Gregor von S. Angelo, Welf, Herzog von Spoleto und Markgraf von Tuszien, die Äbte Frideloh von der Reichenau, Wibald von Corvey, Markgraf Hermann von Baden, Graf Ulrich von Lenzburg und andere Grafen sowie zahlreiche Fürsten und Edle</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des Bischofs Hermann von Konstanz dem Kloster <span sameAs="recipient"><hi rend="spaced">S. Columban</hi> </span>  in <span sameAs="recipient"><hi rend="spaced">Bobbio</hi> </span>, das dem Apostel Petrus geweiht ist, den namentlich angeführten Besitzstand, die Exemtion, den königlichen Schutz und verbietet die Veräußerung von Besitzungen durch den Abt zum Schaden des Klosters. <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Hermann von Konstanz, Ortlieb von Basel, Gunther von Speyer, Konrad von Worms, Adelgoz von Chur, Anselm von Havelberg, Konrad von Augsburg, Arditio von Como, die päpstlichen Legaten Kardinalpriester Bernhard von S. Clemente und Kardinaldiakon Gregor von S. Angelo, Welf, Herzog von Spoleto und Markgraf von Tuszien, die Äbte Frideloh von der Reichenau, Wibald von Corvey, Markgraf Hermann von Baden, Graf Ulrich von Lenzburg und andere Grafen sowie zahlreiche Fürsten und Edle</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach einem Empfängerentwurf, dessen Besitzliste mit dem Privileg Papst Lucius' II. von 1144 März 15 (JL. 8518, Buzzi, CD. di Bobbio 2, 47 n<hi rend="sup">o</hi>  163; VU. I) übereinstimmt, der aber auch DO. I. 412 (VU. II) verwertete, von Bischof Hermann von Konstanz mundiert. Gewisse graphische Eigentümlichkeiten entsprechen den Gewohnheiten des A II. E;</span> <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si sanctam dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si sanctam dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Turin (A). Drucke: Buzzi, CD. di Bobbio 2, 75 n<hi rend="sup">o</hi>  170; MG. DF. I. 53. Reg.: Stumpf 3665.</p></div>
+				
+				
+					<div type="commentary"><p>Der als Intervenient und Zeuge genannte Bischof Hermann von Konstanz hat das von ihm im Auftrag des Königs besiegelte Diplom auch dem Empfänger ausgehändigt; vgl. Bittschrift des Propstes L. von Bobbio an den Kaiser (1155?, Buzzi, CD. di Bobbio 2, 107 n<hi rend="sup">o</hi>  179, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-00-00_1_0_4_2_1_381_379.html" type="internal" n="regesten">379</ref>). Zu Hermanns Beteiligung vgl. Föhl, Eberhard II., MÖIG 50 (1936) 105.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0061" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_53" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

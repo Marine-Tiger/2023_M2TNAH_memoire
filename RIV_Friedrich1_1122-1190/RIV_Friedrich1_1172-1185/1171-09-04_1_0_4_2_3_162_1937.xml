@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1937</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-04_1_0_4_2_3_162_1937"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-04_1_0_4_2_3_162_1937"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-09-04_1_0_4_2_3_162_1937</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597342" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1937</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-09-04" to="1171-09-04">1171 September 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(II nonas septembris, Aquisgrani)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Trier, die Bischöfe Rudolf von Lüttich und Gottfried von Utrecht, die Äbte Erlembald von Stablo, Florentius von Inden und Reinfried von St. Vinzenz (zu Metz), Herzog Gottfried von Löwen, die Grafen Heinrich von Geldern, Dietrich von Kleve, Engelbert von Berg, Eberhard von Sayn, Egidius von Duras und Heinrich von Diez, Archidiakon Folmar von Trier, <hi rend="italic">circator</hi>  Wilhelm von Metz, die Domkanoniker Friedrich und Simon von Metz, Truchseß Poncius von Metz, Burchard von Crépy (<hi rend="italic">Crispi</hi>), Richard von Chàtel-Saint-Germain, der Schöffe Hugo von Metz und sein Sohn Carsilius</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Elekten Friedrich von Metz die <hi rend="spaced">bischöfliche Kirche von Metz</hi>  gemäß dem Vorbild seiner Vorgänger, Kaiser Ottos (III.) und König Heinrichs (IV), in seinen Schutz und überträgt ihr die Burg Saarbrücken (<hi rend="italic">Sarebruggen</hi>) zu ewigem und unveräußerlichem Besitz, <span n="witnesses">Z.: Erzbischof Arnold von Trier, die Bischöfe Rudolf von Lüttich und Gottfried von Utrecht, die Äbte Erlembald von Stablo, Florentius von Inden und Reinfried von St. Vinzenz (zu Metz), Herzog Gottfried von Löwen, die Grafen Heinrich von Geldern, Dietrich von Kleve, Engelbert von Berg, Eberhard von Sayn, Egidius von Duras und Heinrich von Diez, Archidiakon Folmar von Trier, <hi rend="italic">circator</hi>  Wilhelm von Metz, die Domkanoniker Friedrich und Simon von Metz, Truchseß Poncius von Metz, Burchard von Crépy (<hi rend="italic">Crispi</hi>), Richard von Chàtel-Saint-Germain, der Schöffe Hugo von Metz und sein Sohn Carsilius</span>. — <span n="chancellor"><hi rend="italic">Heinricus canc. vice Cristiani Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von UB</span>; <span n="seal">SI.D.</span>  <span n="incipit"><hi rend="italic">Ad hoc divina</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc divina</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Metz (A). Drucke: Stumpf, Acta ined. 688 n<hi rend="sup">o</hi>  489; MG.DF.I.580. Faks.: Koch, Reichskanzlei Abb. 11 Teilfaks. Regg.: Goerz, Mittelrhein.Reg. 2, 87 n<hi rend="sup">o</hi>  301; Stumpf 4126a.</p></div>
+				
+				
+					<div type="commentary"><p>Die DDO.III.316 und H.IV. 143 haben nicht als Vorurkunden gedient. — Zum Inhalt vgl. Engels, Grundlinien der rheinischen Verfassungsgeschichte, in: Ders., Stauferstudien (1988) 154, sowie Jäschke, Saabrückens Ruhm, in: Zs. für die Geschichte der Saargegend 47 (1999) 52. — Angesichts der zahlreich erwähnten Metzer Zeugen könnte die Rechtshandlung bereits anläßlich des kaiserlichen Aufenthalts zu Metz im Februar 1171 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1165-08-08_1_0_4_2_3_146_1921.html" type="internal" n="regesten">1921</ref>) erfolgt sein; ebenso könnte das massive Auftreten von Metzer Zeugen freilich auch damit zusammenhängen, daß es kurz vor der Ausstellung dieses D. unter kaiserlichem Einfluß erst zur Neuwahl des Bischofs Friedrich (hier noch als Elekt genannt) gekommen war, vgl. dazu Töpfer, Reichsepiskopat, in: Friedrich Barbarossa (VuF 40, 1992) 408 mit Anmm. 127 und 128.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0064" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_580" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

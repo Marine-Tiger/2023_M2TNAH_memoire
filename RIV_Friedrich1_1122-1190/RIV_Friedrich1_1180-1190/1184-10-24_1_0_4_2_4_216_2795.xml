@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2795</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-24_1_0_4_2_4_216_2795"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-10-24_1_0_4_2_4_216_2795"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-10-24_1_0_4_2_4_216_2795</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844534" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2795</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-10-24" to="1184-10-24">1184
+									Oktober 24 (so wohl richtig statt: September 23)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Verona  (<hi rend="italic">nono kal. octobr., Veronę</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>In der Kanzlei verfasst</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, Gottfried, Kanzler des 									kaiserlichen Hofes, Protonotar Rudolf, Laurentius <hi rend="italic">Languinis</hi>, Graf Bernhard von <hi rend="italic">Lana</hi>, Graf Werner (wohl Werner von 									Bolanden), Konrad (vielleicht von Oberschüpf?) etc</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Konsuln Boniolus <hi rend="italic">Tonsus</hi> und Johannes <hi rend="italic">Bonus</hi> von Lonato samt ihrer Gemeinde in seinen Schutz und 								bestätigt ihnen ihre Rechte und Gewohnheiten. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, Gottfried, Kanzler des 									kaiserlichen Hofes, Protonotar Rudolf, Laurentius <hi rend="italic">Languinis</hi>, Graf Bernhard von <hi rend="italic">Lana</hi>, Graf Werner (wohl Werner von 									Bolanden), Konrad (vielleicht von Oberschüpf?) etc</span>. 									–<span n="clerk"> In der Kanzlei verfasst</span>.<span n="incipit"> 									<hi rend="italic">Imperatorię maiestatis nostrę.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis nostrę.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 19. Jh., Zambelli, 								Memorie di Lonato, Ms. N I 18, Biblioteca Queriniana zu Brescia 								(F). Druck: MG.DF.I.873. Reg.: Stumpf 4389 zu Oktober 24.</p></div>
+				
+				
+					<div type="commentary"><p>Die Korrektur des angegebenen Datums ergibt sich 								aus dem kaiserlichen Itinerar. – Lonato liegt südwestl. des 								Gardasees, sodass der Weg des Kaisers von Pavia über Cremona nach 								Verona durchaus über diesen Ort geführt haben kann. – Zur möglichen 								Identifizierung des letztgenannten Zeugen (die Zeugenreihe endet in 								der Überlieferung mit „etc.“) vgl. Plassmann, Struktur des Hofes, 								282. – Zum D. vgl. Kauffmann, Die italienische Politik Kaiser 								Friedrichs I. (Greifswalder Abhandlungen zur Gesch. d. Mittelalters 								3, 1933) 39 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_873" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

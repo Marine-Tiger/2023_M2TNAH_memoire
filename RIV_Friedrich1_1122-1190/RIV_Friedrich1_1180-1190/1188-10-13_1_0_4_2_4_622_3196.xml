@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3196</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-10-13_1_0_4_2_4_622_3196"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-10-13_1_0_4_2_4_622_3196"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-10-13_1_0_4_2_4_622_3196</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3196</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-10-13" to="1188-10-13">1188
+									Oktober 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Bischofspfalz zu Lodi</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Gualfredo di Torricella, Vogt des kaiserlichen 								Legaten Vogt Wilhelm von Aachen, der vom Kaiser in Angelegenheit 								seines Rechtsstreits mit den Cremasken um die <hi rend="italic">Insula Fulcherii</hi> als Prokurator eingesetzt worden ist (<hi rend="italic">advocatus in hac causa pro domno Guilielmo 									Aquensis advocato legato domini imperatoris et specialiter ab eo 									constituto procuratore ad causam de Insula Fulcherii, quam 									dominus imperator habet cum Cremensibus</hi>), erläutert in 								Gegenwart der Hofrichter Syrus Salimbene (von Pavia), Ido von 								Tortona und Otto Cendadarius (von Mailand) namens des Legaten 								Wilhelm den Umfang der Rechte des Kaisers an der <hi rend="italic">Insula Fulcherii</hi> und den dort gelegenen, namentlich 								angeführten Orten. Er erklärt aber die Bereitschaft Wilhelms, den 								Cremasken entgegenzukommen, falls sie ihre Ansprüche nachweisen 								können. Auf Wunsch der anwesenden Vertreter Cremas nach Vertagung 								räumt ihnen Hofrichter Syrus eine Frist von acht Tagen ein und 								vertagt die Frage bis dahin nach Pavia (Reg. 3197).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Falconi, Carte Cremonesi IV, 83 n<hi rend="sup">o</hi> 665.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch Ficker, Forschungen 2, 203 mit Anm. 								4 und 207 (mit Nennung des alten Druckes bei Muratori). – Die <hi rend="italic">Insula Fulcherii</hi> war bereits 1159 während der 								Kämpfe gegen Crema an den Cremonesen Tinto Mussa de Gatta verliehen 								worden (DF.I. 290 = Reg. 790), war dann in der Verfügung der 								Cremonesen verblieben, bis diese 1186 ihre diesbezüglichen Rechte 								wieder an das Reich hatten abtreten müssen (Reg. 3004).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

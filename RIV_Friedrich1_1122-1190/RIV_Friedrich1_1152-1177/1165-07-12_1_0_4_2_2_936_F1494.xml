@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1494</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-07-12_1_0_4_2_2_936_F1494"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-07-12_1_0_4_2_2_936_F1494"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-07-12_1_0_4_2_2_936_F1494</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1366973398" value="2013-04-26"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1494</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-07-12" to="1165-07-12">1165 (!) Juli 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Hagenau">Hagenau</placeName>
+												<location><geo decls="#WGS">48.8167, 7.7833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">o</hi>  idus iulii, apud Hagenowa)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Neuburg</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Kanzler Johannes, die Pröpste Friedrich von St. Thomas in Straßburg und Konrad von Allerheiligen, Vogt Rüdiger von Hagenau, Marschall Wolfram von Hagenau, Burchard von Morsbronn und sein Bruder Kuno, Albert von Modenheim, Gottfried von Fleckenstein und seine Brüder Konrad und Friedrich, Truchseß Markward und sein Bruder Konrad, Marschall Werner von Straßburg und weitere Edle wie auch Landvolk (<hi rend="italic">ceteri quam plures tam nobilium quam rurensium</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Neuburg</hi> </span>  auf Klagen durch Abt und Konvent, die während der Belagerung von Alessandria vorgebracht wurden, abermals den Besitz von Seelhofen (<hi rend="italic">Selhoven</hi>), nachdem die gewaltsame Entfremdung dieses Besitzes durch den Landgrafen Gottfried (von Hüneburg) durch ein auf kaiserlichen Befehl von Vogt Rüdiger und Marschall Wolfram von Hagenau unter Teilnahme des Vogtes Albert von <hi rend="italic">Robach</hi>  mit Beinamen <hi rend="italic">Můle</hi>  und von dessen Sohn Wilhelm herbeigeführtes Weistum für widerrechtlich erklärt worden ist und die Grenzen des Gutes festgelegt worden sind. <span n="witnesses">Z.: Kanzler Johannes, die Pröpste Friedrich von St. Thomas in Straßburg und Konrad von Allerheiligen, Vogt Rüdiger von Hagenau, Marschall Wolfram von Hagenau, Burchard von Morsbronn und sein Bruder Kuno, Albert von Modenheim, Gottfried von Fleckenstein und seine Brüder Konrad und Friedrich, Truchseß Markward und sein Bruder Konrad, Marschall Werner von Straßburg und weitere Edle wie auch Landvolk (<hi rend="italic">ceteri quam plures tam nobilium quam rurensium</hi>)</span>. - Auf der Grundlage eines durch Rasur völlig getilgten, echten DF. I. (wohl für Neuburg) um die Mitte des 13. Jh. gefälscht, wobei wohl der von Bloch, Reg. der Bischöfe von Straßburg 1, 56 mit A bezeichnete Schreiber der Marbacher Annalen tätig war; <span n="seal">SP. 2.</span>  <span n="incipit"><hi rend="italic">Opus pietatis agere</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Opus pietatis agere</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Angebl.Orig.: Staatsarchiv Darmstadt (A). Drucke: Mone, Kaiserurkunden, ZGORh 11 (1860) 14 n<hi rend="sup">o</hi>  4; MG. DF. I. 1061. Teilfaks.: Bloch - Wentzcke, Reg. der Bischöfe von Straßburg 1, Tafel 13. Reg.: Stumpf 4480.</p></div>
+				
+				
+					<div type="commentary"><p>Die Fälschung weist auf die Streitigkeiten zwischen dem Kloster und dem Landgrafen hin, die tatsächlich 1174/75 bei Alessandria verhandelt wurden, vgl. Schoepflin, Alsatia diplomatica 1, 261 n<hi rend="sup">o</hi>  317 und Würdtwein, Nova Subsidia 10, 60. Vgl. Güterbock, Kloster Neuburg, NA 38 (1913) 561 ff., Herkenrath, Reichskanzlei 1181-1190, 245 ff. und die Vorbemerkung zum D. - Bei dem beiliegenden Siegel handelt es sich um ein echtes Stück.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0247" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221749%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

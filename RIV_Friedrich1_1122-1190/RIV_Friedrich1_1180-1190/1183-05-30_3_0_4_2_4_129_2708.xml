@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2708</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-30_3_0_4_2_4_129_2708"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-30_3_0_4_2_4_129_2708"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-05-30_3_0_4_2_4_129_2708</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2708</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-05-30" to="1183-05-30">(1183
+									um Mai 30)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Hoftag zu Eger</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Diepold von 									Lechsgemünd, Konrad von Anzenbach (<hi rend="italic">Aemcinsbach</hi>), Konrad von Boxberg, Alber von Rackendorf 										(<hi rend="italic">Rakkendorf</hi>), Konrad, Arnold, Ingram 									von Floss (<hi rend="italic">Flozzen</hi>), Konrad Gaenselin von 										<hi rend="italic">Hiltirgirsberge</hi>, Friedrich von 									Parkstein (<hi rend="italic">Parchstein</hi>), Albert von Eger, 									Ulrich von Weischenfeld (<hi rend="italic">Wischenveld</hi>), 									Gerung von Eger, Albert von Hildenburg (<hi rend="italic">Hilteburg</hi>), Konrad von Eger und Liupold von Thurndorf 										(<hi rend="italic">Turndorf</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Auf dem <hi rend="spaced">Hoftag</hi> Kaiser 								Friedrichs zu Eger und in dessen Gegenwart übergibt Graf Gebhard 								(II.) von Sulzbach sein Wasser am Salzquell zu Berchtesgaden (<hi rend="italic">aquam, quam in fonte hallensi possederat</hi>) an 								das dortige Stift. <span n="witnesses">Z.: Graf Diepold von 									Lechsgemünd, Konrad von Anzenbach (<hi rend="italic">Aemcinsbach</hi>), Konrad von Boxberg, Alber von Rackendorf 										(<hi rend="italic">Rakkendorf</hi>), Konrad, Arnold, Ingram 									von Floss (<hi rend="italic">Flozzen</hi>), Konrad Gaenselin von 										<hi rend="italic">Hiltirgirsberge</hi>, Friedrich von 									Parkstein (<hi rend="italic">Parchstein</hi>), Albert von Eger, 									Ulrich von Weischenfeld (<hi rend="italic">Wischenveld</hi>), 									Gerung von Eger, Albert von Hildenburg (<hi rend="italic">Hilteburg</hi>), Konrad von Eger und Liupold von Thurndorf 										(<hi rend="italic">Turndorf</hi>)</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Muffat, Schenkungsbuch von Berchtesgaden 								(Quellen u. Erörterungen z. bayer. u. deutschen Gesch. 1) 340 n<hi rend="sup">o</hi> 172, sowie Gradl, Mon. Egrana I, 32 n<hi rend="sup">o</hi> 95; vgl. auch die Erwähnungen in DH.VI. von 								1194 März 22 (B.-Baaken Reg. 340), im DPhilipp von 1205 März 10 								(B.-Ficker Reg. 102) und im DF.II. von 1213 Februar 15 (B.-Ficker 								Reg. 690).</p></div>
+				
+				
+					<div type="commentary"><p>Nach dem Tod Gebhards bestätigte Friedrich 1189 								dem Stift Berchtesgaden weitere Schenkungen des Grafen, siehe dazu 								unten Reg. 3227.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 472</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_1_0_4_2_1_474_472"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_1_0_4_2_1_474_472"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-08-03_1_0_4_2_1_474_472</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239563" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 472</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-08-03" to="1157-08-03">1157 August 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Halle">Halle</placeName>
+												<location><geo decls="#WGS">52.0667, 8.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III non. augusti, Halle)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ichtershausen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>von demselben Empfängerschreiber wie DK. III. 188 geschrieben und möglicherweise auch verfaßt</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg, Hartwig von Bremen, die Bischöfe Hermann von Verden (<hi rend="italic">Fardensis</hi>), Eberhard von Bamberg, Johannes von Merseburg, Gerung von Meißen, Gebhard von Würzburg, Bruno von Hildesheim, die Äbte Markward von Fulda, Heinrich von Walkenried, Engelbert von Volkenroda (<hi rend="italic">Folcolderoth</hi>), die Pröpste Gerhard von Magdeburg, Arnold von St. Andreas in Köln, Godebold von Fritzlar, Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär) und sein Sohn Graf Hermann (von Orlamünde), Pfalzgraf Otto von Wittelsbach, Landgraf Ludwig von Thüringen, Markgraf Theoderich (von der Lausitz) und seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), die Grafen Siboto von Scharzfeld (<hi rend="italic">Scartfelt</hi>), Eldeger von Ilfeld, Emicho von Leiningen, Ludolf von Wöltingerode (<hi rend="italic">Waldingerode</hi>) und sein Bruder Hoger, Erwin (von Tonna) und sein Bruder Ernst sowie Gerhard von Nürings (<hi rend="italic">Nuringes</hi>), (die Edelfreien) Markward von Grumbach sowie seine Söhne Markward, Albert und Otto, Berenger von Ravenstein, Folrad von Kranichfeld, Reinhard von Treffurt und viele andere Edle und Ministerialen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten Markwards von Grumbach und des Propstes Ludiger von <span sameAs="recipient"><hi rend="spaced">Ichtershausen</hi> </span>  diesem Nonnenkloster (<hi rend="italic">ęcclesiam beati Georgii martiris et congregationem sanctimonialium in 얮chtricheshusen</hi>), einer Gründung Markwards und seiner verstorbenen Mutter Frideruna, den Besitz der Kapelle St. Peter auf dem Berge daselbst, die Markward aus dem Erbe des Sigfrid von Wasungen erhalten und nach dem Tod des dortigen Priesters Christian dem Kloster übertragen hatte. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg, Hartwig von Bremen, die Bischöfe Hermann von Verden (<hi rend="italic">Fardensis</hi>), Eberhard von Bamberg, Johannes von Merseburg, Gerung von Meißen, Gebhard von Würzburg, Bruno von Hildesheim, die Äbte Markward von Fulda, Heinrich von Walkenried, Engelbert von Volkenroda (<hi rend="italic">Folcolderoth</hi>), die Pröpste Gerhard von Magdeburg, Arnold von St. Andreas in Köln, Godebold von Fritzlar, Herzog Heinrich von Sachsen, Markgraf Albrecht (der Bär) und sein Sohn Graf Hermann (von Orlamünde), Pfalzgraf Otto von Wittelsbach, Landgraf Ludwig von Thüringen, Markgraf Theoderich (von der Lausitz) und seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), die Grafen Siboto von Scharzfeld (<hi rend="italic">Scartfelt</hi>), Eldeger von Ilfeld, Emicho von Leiningen, Ludolf von Wöltingerode (<hi rend="italic">Waldingerode</hi>) und sein Bruder Hoger, Erwin (von Tonna) und sein Bruder Ernst sowie Gerhard von Nürings (<hi rend="italic">Nuringes</hi>), (die Edelfreien) Markward von Grumbach sowie seine Söhne Markward, Albert und Otto, Berenger von Ravenstein, Folrad von Kranichfeld, Reinhard von Treffurt und viele andere Edle und Ministerialen</span>. - <span n="chancellor"><hi rend="italic">Reinoldus canc. vice Arnoldi Moguntinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">von demselben Empfängerschreiber wie DK. III. 188 geschrieben und möglicherweise auch verfaßt </span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quemadmodum pium est</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quemadmodum pium est</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Gotha (A). Drucke: Stumpf, Acta Maguntina 62 n<hi rend="sup">o</hi>  61 ; MG. DF. I. 176. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  149; Stumpf 3775.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser Klostergründung der Grumbacher vgl. Hausmann, Grumbach (FS. Pivec = Innsbrucker Beiträge zur Kulturwissenschaft 12, 1966) 171 und 179.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0159" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221764%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_176" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

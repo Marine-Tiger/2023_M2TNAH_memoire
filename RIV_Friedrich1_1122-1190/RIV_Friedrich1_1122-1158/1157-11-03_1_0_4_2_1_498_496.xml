@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 496</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-03_1_0_4_2_1_498_496"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-11-03_1_0_4_2_1_498_496"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-11-03_1_0_4_2_1_498_496</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239990" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 496</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-11-03" to="1157-11-03">1157 November 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Dole">Dole</placeName>
+												<location><geo decls="#WGS">47.0833, 5.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  non. novemb., Dole in regno Burgundie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ulrich</hi>  <hi rend="spaced">Treviso</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in der Kanzlei unter Verwendung des Formulargutes des Cod. Udalrici (für Publicatio und Corroboratio) verfaßt und von RD geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Albert von Trient, Wilhelm von Novara, Wido von Ivrea (<hi rend="italic">Ypporiensis</hi>), Lothar von Spoleto, die Herzoge Berthold von Zähringen, Matthäus von Lothringen, Markgraf Wilhelm von Montferrat, die Grafen Ulrich von Lenzburg, Guido von Biandrate, Goizo von Martinengo (<hi rend="italic">Martiringo</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem Bischof <span sameAs="recipient"><hi rend="spaced">Ulrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Treviso</hi> </span>  (<hi rend="italic">Taruisino</hi>), dessen Nachfolgern und der Kirche von Treviso (<hi rend="italic">ecclesię Taruisinę</hi>) wegen seiner treuen Dienste den Zoll der Burg Montebelluna (<hi rend="italic">castro montis Belunę</hi>) aus dem täglichen und dem Jahrmarkt. <span n="witnesses">Z.: die Bischöfe Albert von Trient, Wilhelm von Novara, Wido von Ivrea (<hi rend="italic">Ypporiensis</hi>), Lothar von Spoleto, die Herzoge Berthold von Zähringen, Matthäus von Lothringen, Markgraf Wilhelm von Montferrat, die Grafen Ulrich von Lenzburg, Guido von Biandrate, Goizo von Martinengo (<hi rend="italic">Martiringo</hi>)</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Stephani Uiennensis archiep. et archicanc.</hi> </span>; <span n="clerk">in der Kanzlei unter Verwendung des Formulargutes des Cod. Udalrici (für Publicatio und Corroboratio) verfaßt und von RD geschrieben</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si antecessorum nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si antecessorum nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Bischöfliches Archiv Treviso (A). Drucke: Pagnin, II diploma originale, Atti del R. Istituto Veneto 94/2 [B] (1934/35) 521; MG. DF. I. 189. Faks.: Pagnin, a. a. O. T. XXV (nach S. 522). Reg.: Stumpf 3783.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0168" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_189" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

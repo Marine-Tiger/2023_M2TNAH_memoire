@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 664</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-01-00_1_0_4_2_2_106_664"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-01-00_1_0_4_2_2_106_664"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-01-00_1_0_4_2_2_106_664</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241810" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 664</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-01-20" to="1159-02-10">1159 (Ende Januar-Anfang Februar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Vercelli  (in territorio Verzellensi)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Alessandro zu Bergamo</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Mutterkirche <span sameAs="recipient"><hi rend="spaced">S. Alessandro zu Bergamo</hi> </span>  auf Bitten des Kardinals Guido von Crema in seinen Schutz, bestätigt ihr die Besitzungen, die sie seit der Zeit Karls des Großen innehat, verleiht den Kanonikern das freie Verfügungsrecht über diese, bestimmt, daß sie das Fodrum nur dem Kaiser oder dessen Legaten zu leisten haben, und führt einige der Besitzungen namentlich an. - <span n="chancellor"><hi rend="italic">Reinaldus sacri palacii imperialis canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Universorum Christi et imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Universorum Christi et imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtbibliothek Bergamo (A). Drucke: Lupi - Ronchetti, CD. Bergom. 2, 1165; MG. DF. I. 256. Reg.: Stumpf 3841.</p></div>
+				
+				
+					<div type="commentary"><p>Die Betonung der besonderen Stellung von S. Alessandro hängt mit den Rangstreitigkeiten mit der zweiten Bergamasker Kathedralkirche S. Vincenzo zusammen, vgl. Kehr, Ital. Pont. 6/1, 364 und oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-11-23_1_0_4_2_2_54_612.html" type="internal" n="regesten">612</ref>  - Die Existenz eines D. Lothars III., das den Kanonikern bereits das freie Verfügungsrecht über ihre Besitzungen verliehen habe, ist unwahrscheinlich, vgl. MG. DD. L. III., S. 236. - Der Intervenient, Kardinal Guido von Crema, wurde 1164 zum zweiten staufischen Gegenpapst im Schisma gewählt (Paschal III., vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-04-22_1_0_4_2_2_792_1350.html" type="internal" n="regesten">1350</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0045" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_256" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

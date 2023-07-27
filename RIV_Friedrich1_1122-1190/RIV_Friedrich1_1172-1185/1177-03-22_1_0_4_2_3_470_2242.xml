@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2242</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-22_1_0_4_2_3_470_2242"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-03-22_1_0_4_2_3_470_2242"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-03-22_1_0_4_2_3_470_2242</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601697" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2242</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-03-22" to="1177-03-22">1177 März 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Cuccurano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XI kal. aprilis, Cu<hi rend="sup">o</hi> curani)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Christian von Mainz, die Bischöfe Eberhard von Merseburg und Adelhog von Hildesheim, Graf Florentius von Holland, Konrad von Ballhausen, die Notare Rudolf, Heinrich, Wirich und Burkhard, der das Privileg geschrieben hat, die Grafen Walter von Fano und Rüdiger von Gubbio, Paganellus von <hi rend="italic">Montelboto</hi>  und Richter Germanus von Fano</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Eremitenkloster Fonte Avellana</hi>  (<hi rend="italic">heremum Fontis Auellani</hi>) mit all seinen Besitzungen in seinen Schutz, befreit es von jeglichen Abgabenforderungen von Seiten der kaiserlichen Untertanen, erlaubt ihm die selbsttätige Einsammlung des königlichen Fodrums, das in der Höhe von maximal zwölf Denaren pro Feuerstelle ausschließlich an ihn oder seinen ausdrücklich damit betrauten Boten abzuliefern ist, gewährt die freie Transferierung seiner Hintersassen im Bereich der Besitzungen, legt fest, daß Rechtsfälle nicht von auswärtigen Richtern, sondern zuerst vom Prior und den Brüdern zu behandeln sind, ordnet gegenüber auswärtigen Richtern an, daß Klagen der Brüder bevorzugt zu behandeln sind, befreit sie vom Kalumnieneid und gewährt ihnen eine hundertjährige Verjährungsfrist, schränkt die Gültigkeit der gewährten Vorrechte jedoch auf die dem Kloster als Eigentum zustehenden Besitzungen ein (<hi rend="italic">uti in bonis illis, que ipsi iure proprii [!] ad manus suas tenent, non autem in his, que ex oblatione fidelium pro certo canone receperunt</hi>). <span n="witnesses">Z.: Erzbischof Christian von Mainz, die Bischöfe Eberhard von Merseburg und Adelhog von Hildesheim, Graf Florentius von Holland, Konrad von Ballhausen, die Notare Rudolf, Heinrich, Wirich und Burkhard, der das Privileg geschrieben hat, die Grafen Walter von Fano und Rüdiger von Gubbio, Paganellus von <hi rend="italic">Montelboto</hi>  und Richter Germanus von Fano</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von Burkhard</span>, worauf er auch in der Zeugenliste Bezug genommen hat; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Ad temporalis regni</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad temporalis regni</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archiv des Collegium Germanicum zu Rom (A). Drucke: Pierucci-Polverari, Carte di Fonte Avellana 2, 174 n<hi rend="sup">o</hi>  286; MG.DF.I.669. Faks.: Herkenrath, Reichskanzlei 1174 bis 1180, Abb.1 Teilfaks. Reg.: Stumpf 4191.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik, insbesondere zu dem mit der Nennung der Zeugen ab den kaiserlichen Notaren beginnenden Nachtrag in der Zeugenliste, vgl. die Vorbemerkung zum D. — Interesse verdienen die eingehenden Bestimmungen über die Einhebung des Fodrums, vgl. dazu Haverkamp, Herrschaftsformen, 676 f. — Eine späte Tradition weist daraufhin, daß Friedrich im Jahre 1177 dem Prior Raniero (vgl. dazu die Nennung des Priors Johannes beim Konzil von Venedig, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-08-01_4_0_4_2_3_519_2291.html" type="internal" n="regesten">2291</ref>; zu den Prioren vgl. Mittarelli — Costadoni, Ann. Camaldulenses 4, lib. 32, 69) von Fonte Avellana verschiedene wertvolle Reliquien geschenkt habe (Mittarelli — Costadoni, Ann. Camaldulenses 4, lib. 32, 68 f.: <hi rend="italic">BENEFICIUM etiam se ostendit idem imperator erga praefatum monasterium Avellanense, &amp;amp; testimonio Jacobillii dono dedit ecclesiae ejusdem loci sacras vestes &amp;amp; vasa argentea altaris sui portatilis cum pluribus sacris reliquiis ligni sanctae Crucis &amp;amp; aliorum Sanctorum, locatis in capsulis argenteis &amp;amp; aureis cum lapillis pretiosis, pallium quoque rubrum cum fimbriis aureis scriptis characteribus, ut ipse ait, Alemannicis, aliaque sacra dona &amp;amp; lipsana, quorum syllabum texit, quae ad ipsius tempora asservabantur in cimeliarchio ejusdem monasterii.</hi>), vgl. dazu Opll, Amator ecclesiarum, MIÖG 88 (1980) 88 mit Anmm. 92 — 94, und Bonfioli, La reliquia della Croce del Duomo di Spoleto, in: Spoletium 34 — 35, anni 31 — 32 (dicembre 1990) 59 mit Anmm. 15 und 16.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0165" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_669" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

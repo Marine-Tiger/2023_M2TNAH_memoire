@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2072</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-08_1_0_4_2_3_299_2072"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-05-08_1_0_4_2_3_299_2072"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-05-08_1_0_4_2_3_299_2072</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2072</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-05-08" to="1174-05-08">1174 Mai 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Quercia in der Grafschaft Florenz im Bistum Fiesole</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Rainerius Ubertini, Konsul Arengarius von Arezzo und Willikinus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Christian, Erzbischof von Mainz, Erzkanzler für Deutschland und Reichslegat für Italien, nimmt das <hi rend="spaced">Domkapitel S. Donato von Arezzo</hi>  unter Propst Adanulfus in des Reiches und seinen Schutz, bestätigt ihm den Besitz von Burg und Hof Toppole, des Ortes Verrazano und des Lehens, das Quintavallis (= Herr von Vaglialle und Pianettole südl. Galbino im oberen Tibertal) und sein Neffe Astuldus von ihnen zu Lehen trugen. <span n="witnesses">Z.: Rainerius Ubertini, Konsul Arengarius von Arezzo und Willikinus</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hägermann, Urkunden, AfD 14 (1968) 264 n<hi rend="sup">o</hi>  20.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik dieser im Original erhaltenen Legatenurkunde, die vom Leiter der Legatenkanzlei, Magister Robert, verfaßt und von einem sonst nicht nachweisbaren Schreiber, der sich wohl auch am Diktat beteiligt hat, geschrieben wurde, vgl. Hägermann, a.a.O., 265 und Acht, Mainzer UB. II/1, 601 n<hi rend="sup">o</hi>  360.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0109" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2778</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-26_1_0_4_2_4_199_2778"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-26_1_0_4_2_4_199_2778"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-07-26_1_0_4_2_4_199_2778</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2778</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-07-26" to="1184-07-26">1184
+									Juli 25–26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>König Heinrich (VI.) bemüht sich im Auftrag seines 								Vaters, Kaiser Friedrichs, auf einem in der Dompropstei zu Erfurt 								abgehaltenen Hoftag, Erzbischof Konrad von Mainz und Landgraf Ludwig 								von Thüringen wieder miteinander zu versöhnen. Während der 								Verhandlungen bricht der Fußboden des Versammlungssaales ein, und 								etliche stürzen in die darunter gelegene Kloake. Die Grafen 								Friedrich von Abenberg, Heinrich von Thüringen (Schwarzburg), Gosmar 								von Hessen (Ziegenhain) und Friedrich von Kirchberg, weiters 								(Burggraf) Burchard von Wartburg und einige andere, darunter ein 								gewisser Beringer von Mellingen (Cron. Reinhardsbrunn.), finden 								dabei den Tod, Landgraf (Ludwig von Thüringen) entrinnt dem Tod mit 								knapper Not (zum Landgrafen vgl. Chron. reg. Col.).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Pegav., MG. SS XVI, 265 (zu Juli 25); 								Ann. breves Wormatienses, MG. SS XVII, 74 (zu 1173); Ann. 								Marbacenses, ed. Bloch, MG. SS rer. Germ. in us. schol., 55 = ed. 								Schmale, Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 170 (ohne 								Datum); Ann. s. Pauli Virdunensis, MG. SS XVI, 501; Ann. Aquenses, 								MG. SS XXIV, 38 (zu 1183); Ann. Stadenses, MG. SS XVI, 350 (zu 1183 								und als Hoftag des Kaisers bezeichnet); Chron. reg. Col., ed. Waitz, 								MG. SS rer. Germ. in us. schol., 133 (irrig zu 1183); Cron. s. Petri 								Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 192 								f. (zu Juli 26); Cron. Reinhardsbrunn., MG. SS XXX/1, 541 f.; 								Sifridi de Balnhusin Compendium historiarum, MG. SS XXV, 698 f.; 								vgl. B.-Baaken Reg. 2h und 2i. – Vgl. auch die Erwähnung in der 								Urkunde Bischof Martins von Meißen von 1185 (vor September 6), ed. 								Posse, CD. Sax. reg. I/2, 353 ff. n<hi rend="sup">o</hi> 512; 								Dobenecker, Reg. Thur. II, n<hi rend="sup">o</hi> 							 675a.</p></div>
+				
+				
+					<div type="commentary"><p>Tag der Versammlung war zweifelsohne der 25. Juli, 								da als Termin sicher das Fest des hl. Jacobus gewählt wurde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

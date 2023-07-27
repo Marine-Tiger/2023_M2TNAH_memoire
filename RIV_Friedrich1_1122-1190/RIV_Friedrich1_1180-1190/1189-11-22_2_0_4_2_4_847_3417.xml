@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3417</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-22_2_0_4_2_4_847_3417"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-22_2_0_4_2_4_847_3417"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-22_2_0_4_2_4_847_3417</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3417</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-22" to="1189-11-22">1189
+									November 22 und danach</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Adrianopel (Edirne) und Umgebung</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gelangt mit dem Kreuzheer nach Adrianopel, 								das beinahe menschenleer vorgefunden wird und wo man zur 								Überwinterung das Lager aufschlägt. Von hier aus nimmt Bischof 								Konrad von Regensburg unter Führung eines orts- und sprachkundigen 								Bürgers seiner Bischofsstadt die Burg <hi rend="italic">Probaton</hi> (Lâlapaşa nordöstl. von Adrianopel/Edirne, Prowad 								oder Prawada) ein. Reichstruchsess (Markward von Annweiler) und 								Reichsmundschenk (Konrad von Waldhausen) erobern das Kastell <hi rend="italic">Nikiz</hi> (Hasköy östl. von Adrianopel/Edirne).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 53 ff. (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 108 ff.); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 145 f.; 								Epistola de morte, ed. Chroust, MG. SS rer. Germ. N.S. 5, 173; 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 409 f.; 								Itinerarium peregrinorum, ed. Mayer (Schriften der MGH 18, 1962) 294 								englische Übersetzung bei: Nicholson, Chronicle of the Third 								Crusade. A Translation of the Itinerarium Peregrinorum, 1997, 58 c. 								22); zur Überwinterung in griechischem Gebiet vgl. Ann. Marbacenses, 								ed. Bloch, MG. SS rer. Germ. in us. schol., 61 = ed. Schmale, 								Freiherr vom Stein-Gedächtnisausgabe XVIIIa, 182 (zu 1190); Ann. 								Pegav., MG. SS XVI, 267; Ann. Egmund., ed. Oppermann, Werken uitgeg. 								d. h. hist. genootschap Utrecht 3. Ser. 61 (1933) 186 (zu 1189); 								Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 93 Nr. 13b; 								Cron. Reinhardsbrunn., MG. SS XXX/1, 544; Alberti Milioli Cron. 								imp., MG. SS XXXI, 647 f.; Niketas Choniates II/5, ed. Bekker, 537 								bzw. ed. van Dieten, 410 f. (deutsche Übersetzung bei Grabler, 								Abenteurer auf dem Kaiserthron, 214); Salimbene de Adamo von Parma, 								Chronica, MG. SS XXXII, 10; Salloch, Die lateinische Fortsetzung 								Wilhelms von Tyrus (Greifswald 1934) 101 f.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Zimmert, Der deutsch-byzantinische Konflikt, 								Byzantin. Zs. 12 (1903) 69. – Zu den Identifizierungen der 								Ortsangaben vgl. Bühler, a.a.O., 161.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

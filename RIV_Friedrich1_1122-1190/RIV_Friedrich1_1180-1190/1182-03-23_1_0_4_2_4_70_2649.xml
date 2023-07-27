@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2649</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-03-23_1_0_4_2_4_70_2649"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-03-23_1_0_4_2_4_70_2649"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-03-23_1_0_4_2_4_70_2649</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2649</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-03-23" to="1182-03-23">1182
+									März 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Ancier (<hi rend="italic">VIIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. april., apud Ancis</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Von unbekannter Hand sehr sorgfältig 									geschrieben, das Diktat zeigt Verwandtschaft mit DBeatrix 5 									(Reg. 2701)</scribe>
+				
+				
+					<testis function="witnesses">der Ritter Rainald von Besançon, Guido von 									Jonvelle (<hi rend="italic">Iociuilla</hi>), Wilhelm <hi rend="italic">de Firmitate</hi>, Reiner von 									Bourbonne-les-Bains (<hi rend="italic">Borbóna</hi>), die 									Templerbrüder Imbert <hi rend="italic">de Genru</hi> und 									Guiardus <hi rend="italic">de Uergiaco</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix verzichtet zu Gunsten der <hi rend="spaced">Templer</hi> (<hi rend="italic">fratres Templi 									Iherosolimitani</hi>) auf das von ihnen mit Zustimmung des Abtes 								und des Kapitels des Klosters Faverney erworbene Dorf Barges, das 								sie als Inhaberin der Vogtei über Faverney zurückfordern wollte. Sie 								überträgt es den Templern durch die Hand des Templerbruders Imbert 									<hi rend="italic">de Ualcin</hi> als Almosen. <span n="witnesses">Z.: der Ritter Rainald von Besançon, Guido von 									Jonvelle (<hi rend="italic">Iociuilla</hi>), Wilhelm <hi rend="italic">de Firmitate</hi>, Reiner von 									Bourbonne-les-Bains (<hi rend="italic">Borbóna</hi>), die 									Templerbrüder Imbert <hi rend="italic">de Genru</hi> und 									Guiardus <hi rend="italic">de Uergiaco</hi></span>. –<span n="clerk"> Von unbekannter Hand sehr sorgfältig 									geschrieben, das Diktat zeigt Verwandtschaft mit DBeatrix 5 									(Reg. 2701)</span>; <span n="seal"> SP.D.</span>. <hi rend="italic">Rerum bene gestarum.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Dijon 111 H 1234 								(A). Drucke: Mariotte, Le comté de Bourgogne, 204 n<hi rend="sup">o</hi> 6; MG.DBeatrix 3. Reg.: Mariotte, 								a.a.O., 169 n<hi rend="sup">o</hi> 5 (irrig zu März 22).</p></div>
+				
+				
+					<div type="commentary"><p>Das Entgegenkommen der Kaiserin hängt mit der 								damaligen schweren Krise des Klosters Faverney zusammen, vgl. dazu 								Mariotte, a.a.O., 138 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

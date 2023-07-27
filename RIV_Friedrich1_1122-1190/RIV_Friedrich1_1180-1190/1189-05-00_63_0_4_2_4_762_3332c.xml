@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3332c</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_63_0_4_2_4_762_3332c"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_63_0_4_2_4_762_3332c"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_63_0_4_2_4_762_3332c</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3332c</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1189-05-31">(1155 Juni 18 –1189 Ende Mai, 1178 nach
+									Oktober 25 bzw. November 17)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Metropolit Georg von Korfu schreibt an Kaiser 								Friedrich (<hi rend="italic">A Deo coronato Imperatorum Imperatori, 									victori perpetuo Augusto, &amp;amp; domino meo domino 								Friderico</hi>), er sei von (Kaiser) Manuel Komnenos zu ihm (= 								Friedrich) entsandt worden und habe auf dieser Reise auch den Papst 								aufsuchen wollen. Vor Brindisi sei er jedoch in einen Sturm geraten, 								dann ans Vorgebirge zu Otranto gelangt und am 25. Oktober ins Gebiet 								von Otranto gekommen. Dort erkrankt, habe er dort bleiben müssen. Er 								hoffe, nach seiner Gesundung seine Legationsreise fortsetzen zu 								können.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Baronius, Annales ecclesiasticae XII (1607) 								728 D/E–729 B.</p></div>
+				
+				
+					<div type="commentary"><p>Baronius (a.a.O., 730 A) beruft sich auch hier 								erneut (siehe Reg. 3332b) darauf, dass er dieses (und andere) 								Schreiben des Metropoliten Georg von Korfu durch die Übersendung 								einer lateinischen Übersetzung aus einem – hier explizit erwähnt: 								griechischen – Codex im Besitz des Bischofs Federico Mezio von 								Termoli (1601–1612) erhalten habe. Einen Hinweis auf diesen 								Briefverkehr bietet Giesebrecht, Kaiserzeit 5, 874 Anm., sowie 								Giesebrecht – Simson, Kaiserzeit 6, 554 f., wobei unterstrichen 								wird, dass die Ankunft des Georg von Korfu in Otranto wohl richtig 								in das Jahr 1178 gesetzt werde, und daraus ergibt sich auch die hier 								vorgenommene zeitliche Einordnung. Aus einem weiteren, gleichfalls 								bei Baronius (a.a.O., 730 B–E) edierten Schreiben des Metropoliten 								von Korfu an den (byzantinisch) kaiserlichen Notar Johannes von 								Otranto ist zu entnehmen, dass der erkrankte Kirchenfürst ab dem 17. 								November (1178) für sechs Monate im Haus des Notars zu Otranto 								Aufnahme gefunden hat. Georg teilt dem Otrantiner hier auch mit, 								dass ihn Manuel Komnenos wieder in die Heimat zurück beordert habe, 								und bringt sein Bedauern zum Ausdruck, den Kaiser (Friedrich) nicht 								gesehen zu haben; Johannes ersucht er, ihm über den Verlauf von 								dessen eigener Gesandtschaftsreise nach dem Westen an den Kaiser 								(wohl: Friedrich) zu berichten. – Im Hinblick auf die Bewertung 								dieses Schreibens bin ich Herrn Kollegen Otto Kresten 								(Österreichische Akademie der Wissenschaften) zu großem Dank 								verpflichtet, der mir seine Einschätzungen in einer Mail vom 6. 								August 2010 mitteilte, Einschätzungen, denen ich mich anschließe 								(siehe dazu auch den Kommentar bei Reg. 3332b): Ein Metropolit 								Georgios von Korfu/Kerkyra ist jedenfalls historisch nicht belegbar; 								überdies sei auch im Umkreis von Dölger – Wirth, Reg. d. 								Kaiserurkunden d. oström. Reiches 2, no 1524a, nur schwerlich eine 								weitere Gesandtschaft Manuels I. an Friedrich I. unterzubringen. 								Während jedoch bei dem zweiten bekannten Schreiben des Metropoliten 								(Reg. 3332b) auch die Friedrich I. zugelegten Ehrentitel Verdacht 								erwecken, ist im Hinblick auf das hier behandelte Dokument – 								allerdings für die Epoche Kaiser Friedrichs II. – zu betonen, dass 								der „kaiserliche Notar“ Johannes von Otranto nachzuweisen ist. 								Dieser Notar, der in die Kanzlei Kaiser Friedrichs II. zu rechnen 								ist und dem „otrantinischen Dichterkreis“ zugerechnet (vgl. 								dazu Hoeck – Loenertz, Nikolaos-Nektarios von Otranto, Abt von 								Casole) wird, stand tatsächlich in Verbindung mit dem wohl bekannten 								Metropoliten „Georgios von Kerkyra/Korfu“ (vgl. zu ihm Beck, Kirche 								und theologische Literatur im byzantinischen Reich, 702; vgl. auch 								Byz. Zs.15 [1906] 603 ff., und Byz. Zs. 16 [1907] 120 ff.). Es wäre 								somit – weiter nach den mir zur Verfügung gestellten Ausführungen 								von Herrn Kollegen Kresten – denkbar, dass echte Briefe des 								Metropoliten Georgios Bardanes von Kerkyra an Kaiser Friedrich II. 								existiert haben könnten, und dafür könnte auch sprechen, dass die 								Loyalität des Georgios Bardanes nicht dem byzantinischen Kaiser im 								fernen Nikaia galt. Zudem ist bekannt, dass der „otrantinische 								Dichterkreis“ zum Erfinden von Briefwechseln neigte und 								„Musterbriefe“ verfasste; vgl. Kresten, Rezension von: Michael B. 								Wellas, Griechisches aus dem Umkreis Kaiser Friedrichs II., 								Mittellateinisches Jahrbuch 26 (1991 [1992]) 275–281.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

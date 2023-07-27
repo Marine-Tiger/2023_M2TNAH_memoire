@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1098a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-00_3_1_4_2_2_540a_1098a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-00_3_1_4_2_2_540a_1098a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-03-00_3_1_4_2_2_540a_1098a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358499378" value="2013-01-18"></date>
+				<date type="lastmod" n="1358499378" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1098a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-03-01" to="1162-03-31">(1162 März – Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Guido de Gazzo, Konsul von Mondonico, und seine Amtsgenossen begeben sich <hi rend="italic">pro petendo fidanciam</hi> nach Pavia zum Kaiser. Nach Rücksprache des Kanzlers mit dem Kaiser sowie Fühlungnahme mit den Paveser Konsuln wird ihnen gegen die Leistung von 100 Scheffel Dinkel (<hi rend="italic">modios spelte</hi>) an den Kaiser und von 40 Pfund an die Pavesen die <hi rend="italic">fidancia</hi> zugestanden.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Aussage der Zeugen Johannes de Mondonico und Guido de Gazzo aus Mondonico in Zeugenverhören vom 15. November 1184, Pavia, ed. Bollea, Documenti degli archivi di Pavia relativi alla storia di Voghera, BSSS 46 (1910) 124 (Nr. 51) und 134 f. (Nr. 52).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem Hinweis auf die damaligen Paveser Konsuln in der Zeugenaussage des Guido de Gazzo (Bollea, a.a.O., 134: … <hi rend="italic">iuit papiam ad consules videlicet ad dominum bellonum de curte et Gislicionum sal(l)imbene et oiffredum de burgo</hi>. Nach Vaccari, Consoli di Pavia, Boll. della società pavese di storia patria anno 56, N.S. vol. 8/1 (1956) 3 ff., hatten diese drei Konsuln ihr Amt nur im Jahre 1162 zur gleichen Zeit inne, weshalb wir die zeitliche Einordnung an das Ende des längeren Aufenthalts des Kaisers in Pavia vom Frühjahr bis zum Juni 1162 vornehmen. – Zum gesamten Komplex der Überlieferung vgl. Opll, Zwang und Willkür, passim.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330586" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXIX.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

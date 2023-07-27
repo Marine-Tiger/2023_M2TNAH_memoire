@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 431</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-01-06_1_0_4_2_1_434_431"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-01-06_1_0_4_2_1_434_431"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-01-06_1_0_4_2_1_434_431</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239263" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 431</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-01-06" to="1157-01-06">1157 Januar 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Trier">Trier</placeName>
+												<location><geo decls="#WGS">50, 6.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII<hi rend="sup">o</hi>  idus ian., Treueri)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D. (einst an roten Seidenfäden befestigt)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hillin</hi>  <hi rend="spaced">Trier</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung der DDK. III. 26 (VU. I) und 164 (VU. II) geschrieben von RC, die selbständigen Partien sind von Empfängerseite verfaßt oder stark beeinflußt</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Heinrich von Toul, Albert von Verdun, die Äbte Rether von Prüm, Gerhard von Echternach (<hi rend="italic">Esternacensis</hi>), Berthold von St. Eucharius (in Trier), Ludwig von St. Maria (in Trier), Gottfried von St. Martin (in Trier), Gregor von Tholey (<hi rend="italic">Toleia</hi>), Adelhelm von Mettlach (<hi rend="italic">Medio Lacu</hi>), Folmar von Rettel (<hi rend="italic">Ruthela</hi>), Richard von Springiersbach (<hi rend="italic">Sprengersbach</hi>), Propst Albert von Aachen, Dompropst Gottfried (von Trier), Dekan Rudolf (von Trier), Archidiakon Alexander (von Trier), die Pröpste Konrad von St. Paulin (in Trier), Buvo von St. Castor (zu Koblenz), Rupert von Pfalzel (<hi rend="italic">Palaciolo</hi>), Abt Siger von St. Maximin (in Trier), Pfalzgraf Konrad bei Rhein, der Vogt der (Trierer) Kirche, die Herzoge Matthäus von Lothringen, Friedrich von Schwaben, der Sohn König Konrads, (Graf) Heinrich von Limburg, die Grafen Heinrich von Namur, Simon von Saarbrücken, Gottfried von Sponheim, Volmar von Blieskastel (<hi rend="italic">Castele</hi>), Konrad von Kirburg (<hi rend="italic">Cherberc</hi>), Gerlach von Veldenz, Heinrich von Katzenelnbogen, Eberhard von Sayn (<hi rend="italic">Seine</hi>) und sein Bruder Heinrich, Heinrich von Virneburg, Theoderich von Ahr und sein Oheim Ulrich (<hi rend="italic">patruus eius</hi>), Florentius von Holland, Simon von Clerf (<hi rend="italic">Clara Ualle</hi>) und Heinrich von Tübingen, Berenger von Ravenstein, Bruno von Burgau (<hi rend="italic">Burcowe</hi>), Ulrich von Warthausen, Methfried von Neumagen (<hi rend="italic">Numage</hi>) und sein Bruder Eberhard, Kuno von Malberg, Wiric von Bettingen (<hi rend="italic">Beitingen</hi>), Arnold von Sierck (<hi rend="italic">Seric</hi>), Ulrich von Braunshorn (<hi rend="italic">Bruneshore</hi>), Konrad von Boppard (<hi rend="italic">Bohbarden</hi>), Wolfram von Rheingrafenstein (<hi rend="italic">Petra</hi>), (und die Trierer Ministerialen) Rudolf von Eltz (<hi rend="italic">Elze</hi>), Marschall Wilhelm (der Trierer Kirche), Gerhard von Esch, Ludwig, Friedrich, Hermann und sein Bruder Walter, Friedrich von Merzig (<hi rend="italic">Marceio</hi>), Gottfried von Breitscheid (<hi rend="italic">Brethsceit</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten Papst Hadrians IV. dem Erzbischof und päpstlichen Legaten <span sameAs="recipient"><hi rend="spaced">Hillin</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Trier</hi> </span>  wegen dessen treuer Dienste auf der Romfahrt sowie dem Hauptvogt (<hi rend="italic">libero et capitali advocato</hi>) seiner Kirche Konrad (dem Pfalzgrafen bei Rhein) durch seinen dazu bestimmten Bevollmächtigten (<hi rend="italic">per advocatum nostrum ..., quem ad hoc faciendum elegimus</hi>), Graf Simon von Saarbrücken (<hi rend="italic">Sarebrugge</hi>), die Abtei St. Maximin (einst <hi rend="italic">cella sancti Hylarii</hi>  genannt) ohne Widerspruch ihres Vogtes, Graf Heinrich von Namur (<hi rend="italic">Namucensi</hi>), der viele Jahre mit dem Erzbischof um die Abtei stritt und sich schließlich mit dem Erzbischof Adalbero vor allem auf den Rat Bernhards von Clairvaux (<hi rend="italic">Clareuallensis</hi>) hin einigte, worauf König Konrad II. (= III.) die Abtei dem Erzstift konfirmierte (DK. III. 164), weiters die Burg Treis (<hi rend="italic">Tris</hi>) samt Zubehör und allen Besitz seiner Kirche. <span n="witnesses">Z.: die Bischöfe Heinrich von Toul, Albert von Verdun, die Äbte Rether von Prüm, Gerhard von Echternach (<hi rend="italic">Esternacensis</hi>), Berthold von St. Eucharius (in Trier), Ludwig von St. Maria (in Trier), Gottfried von St. Martin (in Trier), Gregor von Tholey (<hi rend="italic">Toleia</hi>), Adelhelm von Mettlach (<hi rend="italic">Medio Lacu</hi>), Folmar von Rettel (<hi rend="italic">Ruthela</hi>), Richard von Springiersbach (<hi rend="italic">Sprengersbach</hi>), Propst Albert von Aachen, Dompropst Gottfried (von Trier), Dekan Rudolf (von Trier), Archidiakon Alexander (von Trier), die Pröpste Konrad von St. Paulin (in Trier), Buvo von St. Castor (zu Koblenz), Rupert von Pfalzel (<hi rend="italic">Palaciolo</hi>), Abt Siger von St. Maximin (in Trier), Pfalzgraf Konrad bei Rhein, der Vogt der (Trierer) Kirche, die Herzoge Matthäus von Lothringen, Friedrich von Schwaben, der Sohn König Konrads, (Graf) Heinrich von Limburg, die Grafen Heinrich von Namur, Simon von Saarbrücken, Gottfried von Sponheim, Volmar von Blieskastel (<hi rend="italic">Castele</hi>), Konrad von Kirburg (<hi rend="italic">Cherberc</hi>), Gerlach von Veldenz, Heinrich von Katzenelnbogen, Eberhard von Sayn (<hi rend="italic">Seine</hi>) und sein Bruder Heinrich, Heinrich von Virneburg, Theoderich von Ahr und sein Oheim Ulrich (<hi rend="italic">patruus eius</hi>), Florentius von Holland, Simon von Clerf (<hi rend="italic">Clara Ualle</hi>) und Heinrich von Tübingen, Berenger von Ravenstein, Bruno von Burgau (<hi rend="italic">Burcowe</hi>), Ulrich von Warthausen, Methfried von Neumagen (<hi rend="italic">Numage</hi>) und sein Bruder Eberhard, Kuno von Malberg, Wiric von Bettingen (<hi rend="italic">Beitingen</hi>), Arnold von Sierck (<hi rend="italic">Seric</hi>), Ulrich von Braunshorn (<hi rend="italic">Bruneshore</hi>), Konrad von Boppard (<hi rend="italic">Bohbarden</hi>), Wolfram von Rheingrafenstein (<hi rend="italic">Petra</hi>), (und die Trierer Ministerialen) Rudolf von Eltz (<hi rend="italic">Elze</hi>), Marschall Wilhelm (der Trierer Kirche), Gerhard von Esch, Ludwig, Friedrich, Hermann und sein Bruder Walter, Friedrich von Merzig (<hi rend="italic">Marceio</hi>), Gottfried von Breitscheid (<hi rend="italic">Brethsceit</hi>)</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung der DDK. III. 26 (VU. I) und 164 (VU. II) geschrieben von RC, die selbständigen Partien sind von Empfängerseite verfaßt oder stark beeinflußt</span>; <span n="seal">B. D. (einst an roten Seidenfäden befestigt)</span>. <span n="incipit"><hi rend="italic">Imperialis dignitas maiestatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis dignitas maiestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: Beyer, Mittelrhein. UB. 1, 655 n<hi rend="sup">o</hi>  598; Wampach, UB. der altluxemburg. Territorien 1, 639 n<hi rend="sup">o</hi>  468; MG. DF. I. 156. Reg.: Wauters, Table chronol. 2, 402; Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  114; Stumpf 3761.</p></div>
+				
+				
+					<div type="commentary"><p>Mit DF. I. 156 setzt die erste Periode der dauernden Tätigkeit des Notars RC in der Reichskanzlei ein, vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 327 ff. Zu den im Diplom erwähnten gefälschten Königsurkunden für Trier vgl. Dopsch, Trierer Urkundenfälschungen, NA 25 (1900) 319 ff.; zum Streit zwischen dem Erzstift und dem Grafen Heinrich von Namur vgl. Wampach, a. a. O. 1, 564 n<hi rend="sup">o</hi>  400 und 603 n<hi rend="sup">o</hi>  432 = DK. III. 164. Zu Graf Simon von Saarbrücken vgl. zuletzt Brinken, Politik Konrads von Staufen (Rhein. A. 92, 1974) 42 und Schulz, Ministerialität und Bürgertum in Trier (Rhein. A. 66, 1968) 26 ff. Das vorliegende Diplom sowie dessen Besiegelung mit einer Goldbulle und der Aufenthalt des Kaisers zu Trier werden auch in Gestorum Treverorum Cont. III, MG. SS XXIV, 380 erwähnt. - Zur Intervention Papst Hadrians IV. vgl. auch deren Erwähnung im Privileg für Hillin von Trier von 1157 Mai 21 (JL. 10279; Beyer, Mittelrhein. UB. 1, 659 n<hi rend="sup">o</hi>  602), in dem er die durch dieses Diplom der Kirche von Trier gewährten Vergünstigungen ausdrücklich bestätigt. Ein Privileg Viktors IV. (JL. 14456; von 1161 Juli 25, Lodi) lehnt sich an die erwähnte Beurkundung Hadrians an. Wampach, a. a. O. 1, 648 n<hi rend="sup">o</hi>  471, zeigt diese Abhängigkeit in seinem Exzerpt durch Petitsatz an. - Zur Erwerbung der Burg Treis durch das Erzstift vgl. die Urkunde Papst Eugens III. von 1152 Mai 27, ed. Beyer, Mittelrhein. UB. 1, 620 n<hi rend="sup">o</hi>  562 (JL. 9582).
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Der unter den Zeugen genannte Bruno von Burgau dürfte sich eher nach Burgau (Landkr. Günzburg, Bayern), denn nach Burgau bei Düren nennen, vgl. dazu Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 107.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0145" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_156" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

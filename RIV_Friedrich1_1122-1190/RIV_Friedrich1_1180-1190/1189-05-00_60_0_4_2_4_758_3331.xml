@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3331</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_60_0_4_2_4_758_3331"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_60_0_4_2_4_758_3331"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_60_0_4_2_4_758_3331</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3331</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1155
+									Juni 18 – 1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Fälschung aus dem 									ersten Drittel des 14. Jh. ohne Elemente des 									Kanzleistils</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Nonnenkloster des hl. Johannes des Täufers zu Holzen </hi>(<hi rend="italic">Holtz</hi>) auf Bitten des Gründers und der Nonnen 								in seinen Schutz, triftt eingehende Regelungen über die 								Vogteiverhältnisse und erlaubt seinen Ministerialen, Schenkungen an 								das Kloster zu tätigen. –<span n="clerk"> Fälschung aus dem 									ersten Drittel des 14. Jh. ohne Elemente des 									Kanzleistils</span>.<span n="incipit"> 									<hi rend="italic">Noverint omnes Christi.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverint omnes Christi.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Originaltranssumpt Kaiser Ludwigs des 								Bayern von 1332 Juli 21, Hauptstaatsarchiv München, Kaiser 								Ludwig-Selekt n<hi rend="sup">o</hi> 517a, jetzt Staatsarchiv 								Augsburg, Kloster Holzen Urkunden 27/1 (C); Originaltranssumpt König 								Sigismunds von 1418 Oktober 28, ebenda, Kloster Holzen Urkunde n<hi rend="sup">o</hi> 79, jetzt Staatsarchiv Augsburg, Kloster 								Holzen Urkunden 79 (D). Drucke: Stumpf, Acta ined., 554 n<hi rend="sup">o</hi> 392; MG.DF.I.1078. Reg.: Stumpf 4570a.</p></div>
+				
+				
+					<div type="commentary"><p>Nach der Bestätigung der Gründung des Klosters 								durch den 1153 verstorbenen Papst Eugen III. (Germ. Pont. 2/1, 91 no 								*1) gehört das fiktive Stück wohl eher in die frühere Regierungszeit 								Friedrichs I. Vgl. dazu sowie zur diplomatischen und 								rechtsgeschichtlichen Bewertung dieser Fälschung die Vorbemerkung 								zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

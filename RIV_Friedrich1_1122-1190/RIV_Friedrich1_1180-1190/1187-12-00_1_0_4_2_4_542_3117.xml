@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3117</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-00_1_0_4_2_4_542_3117"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-12-00_1_0_4_2_4_542_3117"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-12-00_1_0_4_2_4_542_3117</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848246" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3117</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-12-01" to="1187-12-31">1187
+									(wohl Anfang
+								Dezember)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Strassburg">(Straßburg)</placeName>
+												<location><geo decls="#WGS">48.5833, 7.75</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter Heranziehung 									des D.136 für Neuburg (= Reg. 388), des Privilegs Papst 									Alexanders III. für dasselbe Kloster von 1177 Dezember 21 									(Jaffé-L. 12.958; Germ. Pont. 3/3, 66 n<hi rend="sup">o</hi> 2) 									sowie – in geringerem Maße – de</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Heinrich von Straßburg, Ulrich 									von Speyer und Konrad von Worms, Kanzler Johannes, die Herzoge 									Friedrich von Schwaben und Welf (VI.; in der deutschen 									Übersetzung G heißt es hier irrig: <hi rend="italic">herczog von 										Spoleten</hi>), Friedrich, der Sohn Herzog Matthäus’ von 									Lothringen, Graf Albert von Dagsburg, Otto von Hünenburg 									(Huneburg), Otto von Geroldseck und Burchard von 									Ochsenstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von seinem Vater (Herzog) 								Friedrich (von Schwaben) gegründete <hi rend="spaced">Zisterzienserinnenkloster St. Maria zu Königsbrück</hi> (<hi rend="italic">cenobium beate Marie, quod in Regisponte a patre 									nostro Friderico fundatum est</hi>) in seinen Schutz und 								bestätigt ihm die namentlich angeführten Besitzungen. <span n="witnesses">Z.: die Bischöfe Heinrich von Straßburg, Ulrich 									von Speyer und Konrad von Worms, Kanzler Johannes, die Herzoge 									Friedrich von Schwaben und Welf (VI.; in der deutschen 									Übersetzung G heißt es hier irrig: <hi rend="italic">herczog von 										Spoleten</hi>), Friedrich, der Sohn Herzog Matthäus’ von 									Lothringen, Graf Albert von Dagsburg, Otto von Hünenburg 									(Huneburg), Otto von Geroldseck und Burchard von 									Ochsenstein</span>. –<span n="clerk"> Unter Heranziehung 									des D.136 für Neuburg (= Reg. 388), des Privilegs Papst 									Alexanders III. für dasselbe Kloster von 1177 Dezember 21 									(Jaffé-L. 12.958; Germ. Pont. 3/3, 66 n<hi rend="sup">o</hi> 2) 									sowie – in geringerem Maße – des D.135 für Lützel (= Reg. 387) 									und des Privilegs Papst Eugens III. für Neuburg (Jaffé-L. 9.111; 									Germ. Pont. 3/3, 65 n<hi rend="sup">o</hi> 1) hergestellte 									Empfängerausfertigung</span>.<span n="incipit"> 									<hi rend="italic">Religiosorum desideriis animo</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Religiosorum desideriis animo</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Nachlass Grandidier Karton 2, fasc. 2 									n<hi rend="sup">o</hi> 310, Generallandesarchiv Karlsruhe, aus 								Schoepflin (G); deutsche Übersetzung im Kopialbuch n<hi rend="sup">o</hi> 690 p. 38 des Klosters Königsbrück aus dem 15. Jh., 								ebenda (H). Druck: MG.DF.I.967. Reg.: Stumpf 4481 zu (1187 								Juli, Hagenau).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung auf Grund der Zeugenliste 								hat Scheffer-Boichorst, Zur Gesch. des 12. und 13. Jh., 151 f., 								wahrscheinlich gemacht. – Zur diplomatischen Bewertung vgl. die 								Vorbemerkung zum D. – Zur Frühzeit der Zisterze sowie zum D. vgl. 								Seiler, Das Zisterzienserinnenkloster Königsbrück, in: Grenzen 								erkennen &amp;lt;-&amp;gt; Begrenzungen überwinden. FS. Reinhard Schneider 								(1999) 163 ff. und 168 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_967" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 321</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_3_0_4_2_1_321_321"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_3_0_4_2_1_321_321"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_3_0_4_2_1_321_321</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238705" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 321</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1155-06-18">(Bald nach 1155 Juni 18)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lucca</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und wohl auch geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Eberhard von Bamberg, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Wittelsbach, die Markgrafen Otakar von Steier, Hermann von Baden, die Grafen Berthold von Andechs, Werner von Baden, Werner von Habsburg, Ulrich von Lenzburg, Ernst von Hohenburg, Friedrich von Eppan, Guido Guerra und Guido von Biandrate</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt der Stadt <span sameAs="recipient"><hi rend="spaced">Lucca</hi> </span>  unter Vorbehalt der kaiserlichen Gerechtsame das Münzrecht und untersagt insbesondere den Pisanern und allen anderen (<hi rend="italic">nec Pisana nec aliqua alia civitas, terra, locus, populus, sed nec alia magna seu parva persona imperii nostri</hi>) die Prägung der gleichen oder einer ähnlichen Münze (<hi rend="italic">monetam cudere vel fabricare sub forma et cuneo Lucane civitatis vel eius consimili</hi>) bei Strafe des Verlustes der rechten Hand für Zuwiderhandelnde. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Heinrich von Lüttich, Eberhard von Bamberg, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Heinrich von Kärnten, Pfalzgraf Otto von Wittelsbach, die Markgrafen Otakar von Steier, Hermann von Baden, die Grafen Berthold von Andechs, Werner von Baden, Werner von Habsburg, Ulrich von Lenzburg, Ernst von Hohenburg, Friedrich von Eppan, Guido Guerra und Guido von Biandrate</span>. - <span n="clerk">Verfaßt und wohl auch geschrieben von A II. D</span>. <span n="incipit"><hi rend="italic">Equitatis et rationis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Equitatis et rationis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Kopialbuch der Stadt Lucca, zweite Hälfte des 13. Jh. (Capitoli II) f. 4, Staatsarchiv Lucca (C); Libro grande di Privilegi aus dem Anfang des 14. Jh. (Capitoli I) f. 21 ebenda (D). Drucke: Stumpf, Acta ined. 165 n<hi rend="sup">o</hi>  129; MG. DF. I. 112. Reg.: Stumpf 3718.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. die Vorbemerkung von DF. I. 112 und Haverkamp, Herrschaftsformen 2, 576. Papst Hadrian IV. soll den Städten Tusziens und der Mark (vgl. Tholomeus von Lucca, Annalen, ed. Schmeidler, MG. SS rer. Germ. N. S. VIII, 62 mit Anm. 1 zu 1158) bzw. Perugia (Tholomeus von Lucca, Hist. eccl. nova, Rer. Ital. SS XI Sp. 1105 cap. 22) verboten haben, Münzen nach dem Vorbild Luccas (<hi rend="italic">monetam Lucanam</hi>) zu prägen. Es ist uns kein Privileg Hadrians IV. mit diesem Inhalt erhalten. Ob es sich um Deperdita oder Fälschungen handelt, bleibt offen. Zur Vorbehaltsklausel kaiserlicher Rechte, die hier geradezu in die Corroboratio eingebaut ist, vgl. Appelt, Vorbehalt (WdF 390, 1975) 45.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0108" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_112" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

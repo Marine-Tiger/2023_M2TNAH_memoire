@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3038</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_4_0_4_2_4_462_3038"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_4_0_4_2_4_462_3038"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-00_4_0_4_2_4_462_3038</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426847761" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3038</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-01" to="1186-11-30">(1186
+									November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Gelnhausen">Gelnhausen</placeName>
+												<location><geo decls="#WGS">50.2, 9.1833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gestattet die Eheschließung zwischen 								Ministerialen des Reiches und der <hi rend="spaced">Mainzer 									Kirche</hi> und bestätigt einen diesbezüglichen Ehevertrag.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Urkunde Erzbischof 								Konrads von Mainz über die Teilung der Kinder aus Ehen zwischen 								Ministerialen des Hochstiftes Mainz und des Grafen Siegfried III. 								von Orlamünde (Acht, Mainzer UB. 2/2, 799 n<hi rend="sup">o</hi> 								490: <hi rend="italic">… habita est curia Gelenh[usen] a domino F. 									Romanorum imperatore gloriosissimo. Illic idem dominus pro 									salute anime sue et nostro servitio inter imperii et Moguntine 									ecclesie ministeriales predictam contractus matrimonii formam a 									se benigne approbatam servari constituit et privilegii munimine 									confirmavit.</hi>). – MG.DF.I.*1202; vgl. Knipping, Reg. Köln 2, 									n<hi rend="sup">o</hi> 1276, und Stumpf 4472a.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der 								Erwähnung des Hoftages in Gelnhausen (vgl. Regg. 3035 und 3037). – 								Die Zeugen der hier angeführten Urkunde Erzbischof Konrads von Mainz 								(Acht, a.a.O., 802: Erzbischof Philipp von Köln und sein Suffragan, 								Bischof Hermann von Münster, Erzbischof Wichmann von Magdeburg und 								sein Suffragan, Bischof Berthold von Naumburg) gehören zu den am 								Gelnhäuser Hoftag anwesenden Persönlichkeiten. – Das DH.VI. von 1192 								August 29 über denselben Gegenstand (B.-Baaken Reg. 244; Acht, 								Mainzer UB. 2/2, 938 no 569) nimmt auf das Deperditum allerdings 								nicht Bezug.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1202" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

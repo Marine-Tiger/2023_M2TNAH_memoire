@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1447</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-02-07_1_0_4_2_2_889_F1447"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-02-07_1_0_4_2_2_889_F1447"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-02-07_1_0_4_2_2_889_F1447</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246821" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1447</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-02-07" to="1165-02-07">1165 Februar 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(septimo idus februarii, Papie apud sanctum Saluatorem)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bonifacius</hi>  <hi rend="spaced">Verona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Phylipus Coloniensis archiep. et Ythalice archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Markgrafen Obizo und Bonifacius von Este, Wezel von Camino, Vcelinus de Honara, Garzapanus von Verona, Mizacaualus, Egidius de Prandonibus und Kämmerer Hartmann</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt den Grafen <span sameAs="recipient"><hi rend="spaced">Bonifacius</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Verona</hi> </span>, den Sohn weiland Graf Malregolatus', in seinen Schutz und investiert ihn mit der Grafschaft samt allen dazugehörigen Rechten, darunter allen Ämtern, die das Reich in der Stadt und im Gebiet von Verona ausübt, und der Einsetzung von Vormündern und Notaren sowie allen Herrschaftsrechten in den namentlich angeführten Dörfern und Burgen. <span n="witnesses">Z.: die Markgrafen Obizo und Bonifacius von Este, Wezel von Camino, Vcelinus de Honara, Garzapanus von Verona, Mizacaualus, Egidius de Prandonibus und Kämmerer Hartmann</span>. - <span n="chancellor"><hi rend="italic">Phylipus Coloniensis archiep. et Ythalice archicanc.</hi> </span>; unter Verwendung des DF. I. 928 und des DF. II. von 1220 (B.-Ficker Reg. 1242) im frühen 13. Jh. (Schrift !) gefälscht; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Si dignis fidelium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si dignis fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Angebl.Orig.: Archiv des Conte Milone di San Bonifacio zu Padua (A). Druck: MG. DF. I. 1060. Reg.: Stumpf 4039.</p></div>
+				
+				
+					<div type="commentary"><p>Das diplomatische Umfeld dieser Fälschung haben insbesondere Riedmann, Reichskanzlei, MIÖG 76 (1968) 88 mit Anm. 41 und Herkenrath, Reichskanzlei 1174 bis 1180, 127 sowie 156 f. erforscht, vgl. die Vorbemerkung zum D. - Zur historischen Interpretation vgl. Opll, Verona, in: Verona dalla caduta dei Carolingi al libero Comune (Atti dell'Accademia di agricoltura, scienze e lettere di Verona, 1987) 45 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0234" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1060" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

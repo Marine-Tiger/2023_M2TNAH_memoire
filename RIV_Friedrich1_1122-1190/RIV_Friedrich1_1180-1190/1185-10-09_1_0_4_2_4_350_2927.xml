@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2927</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-10-09_1_0_4_2_4_350_2927"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-10-09_1_0_4_2_4_350_2927"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-10-09_1_0_4_2_4_350_2927</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2927</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-10-09" to="1185-10-09">1185
+									Oktober 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>vor der Kirche S. Cristina (di Ligliano: unweit von  Monteriggioni nördl. Siena) im Bistum Siena</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Unter Vorsitz des Hofvikars Bischof Bonifaz von 								Novara fällt Hofrichter Otto Cendadarius von Mailand mit Rat seiner 									<hi rend="italic">socii</hi>, der Hofrichter Albertus Aldigheri 								von Ferrara und Grossus von Brescia, hinsichtlich der Streitigkeiten 								zwischen dem Prior Marchius von Vivo und Graf Manens von Sarteano um 								Einkünfte und Rechte, die der Graf dem Kloster entfremdet hat, ein 								Urteil, das den Grafen hinsichtlich einiger der vorgebrachten Klagen 								frei spricht, hinsichtlich anderer allerdings nicht.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ficker, Forschungen 4, 204 n<hi rend="sup">o</hi> 162; Schneider, Reg. Senense 1, 122 n<hi rend="sup">o</hi> 317.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Ficker, Forschungen 1, 303 f. und 335, sowie 								Kauffmann, Die italienische Politik Kaiser Friedrichs I. 								(Greifswalder Abhandlungen zur Gesch. d. Mittelalters 3, 1933) 82 								Anm. 70. – Bonifaz von Novara weilte während dieses Zuges des 								Kaisers durch Mittelitalien im Sommer 1185 praktisch stets beim 								Kaiser, vgl. seine Nennungen als Zeuge in Regg. 2904, 2906, 2910, 								2911, 2914, 2919, 2921, 2922 und 2923; im November ist er dann 								abermals bei Hofe nachweisbar (Reg. 2935). – Der Beleg könnte darauf 								hinweisen, dass auch der Kaiser damals in Ligliano Aufenthalt 								nahm.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

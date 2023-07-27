@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2626</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-10_1_0_4_2_4_47_2626"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1181-11-10_1_0_4_2_4_47_2626"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1181-11-10_1_0_4_2_4_47_2626</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843088" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2626</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1181-11-10" to="1181-11-10">1181
+									November 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Altenburg (<hi rend="italic">IIII</hi><hi rend="sup">o</hi><hi rend="italic"> idus nov., in Aldenburch</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aule canc. vice Cristiani 										Moguntini archiep. et Germani archicanc.</hi></notarius>
+				
+				
+					<scribe>wahrscheinlich von demselben Empfängerschreiber 									wie DDF.I. 800 und 801 (Regg. 2564 und 2565) verfasst, der auch 									als Mundator in Betracht kommt</scribe>
+				
+				
+					<testis function="witnesses">									Markgraf Otto von Meißen und seine Brüder Markgraf Dietrich (der 									Lausitz) und Graf Dedo (von Groitzsch), Hartmann und Otto (wohl 									beide: von Lobdeburg), Hartmann (der Jüngere) von Lobdeburg, 									Burggraf Meinher von Werben, Gottschalk von Schkeuditz, (der 									thüringische Edle) Friedrich von <hi rend="italic">Owenburch</hi>, Adalbert von Droyßig (<hi rend="italic">Turz</hi>), Konrad <hi rend="italic">Kisenlenc</hi>, 									Reinbodo und Gottschalk von Lobdeburg und Gerard von Braunshain 										(<hi rend="italic">Brunneshowe</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster 									Pforta</hi> (<hi rend="italic">sancte Marie in Porta</hi>) den 								Besitz in Porstendorf (<hi rend="italic">Borsendorph</hi>), der ihm 								früher von den nach fränkischem Recht lebenden Brüdern Heinrich und 								Werner von Stechow in Gegenwart des Markgrafen Otto (von Meißen) und 								des Landgrafen Ludwig (von Thüringen), in deren <hi rend="italic">dicio</hi> diese Besitzung gelegen ist, <hi rend="italic">iure 									et iudicio Franconum</hi> öffentlich übertragen worden ist. Auf 								die vor ihm vorgebrachten Klagen des Abtes und der Brüder des 								Klosters hin weist er auf der Grundlage eines in seiner Gegenwart zu 								Altenburg gefällten Hofgerichtsspruches (<hi rend="italic">cum 									sederemus ad iudicandum inter principes in Aldenburch</hi>) die 								Einwände Gerhards, des jüngeren Bruders der genannten Heinrich und 								Werner, zurück, der betont, nach griechischem und nicht nach 								fränkischem Recht zu leben. Die Ansprüche Gerhards waren schon zuvor 								nach einem durch die Verwandten der Brüder, nämlich Gottschalk von 								Schkeuditz (<hi rend="italic">Scudiz</hi>) und Friedrich von <hi rend="italic">Owenburch</hi>, erbrachten Zeugenbeweis mit einem 								Anteil an diesem Gut abgefunden worden. <span n="witnesses">Z.: 									Markgraf Otto von Meißen und seine Brüder Markgraf Dietrich (der 									Lausitz) und Graf Dedo (von Groitzsch), Hartmann und Otto (wohl 									beide: von Lobdeburg), Hartmann (der Jüngere) von Lobdeburg, 									Burggraf Meinher von Werben, Gottschalk von Schkeuditz, (der 									thüringische Edle) Friedrich von <hi rend="italic">Owenburch</hi>, Adalbert von Droyßig (<hi rend="italic">Turz</hi>), Konrad <hi rend="italic">Kisenlenc</hi>, 									Reinbodo und Gottschalk von Lobdeburg und Gerard von Braunshain 										(<hi rend="italic">Brunneshowe</hi>)</span>. Markgraf Otto 								von Meißen hat die Schenkung entgegen genommen (<hi rend="italic">suscepit</hi>). – <span n="chancellor"> 									<hi rend="italic">Godefridus imp. aule canc. vice Cristiani 										Moguntini archiep. et Germani archicanc.</hi></span>; <span n="clerk">wahrscheinlich von demselben Empfängerschreiber 									wie DDF.I. 800 und 801 (Regg. 2564 und 2565) verfasst, der auch 									als Mundator in Betracht kommt</span>. <span n="incipit"><hi rend="italic">Superna maiestas idcirco.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Superna maiestas idcirco.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatar des Klosters Pforta aus dem 								13. Jh. f. 19, Bibliothek zu Schulpforta (B); Transsumptbuch von 								1536 f. 198 Auszug, ebenda (D); Abschrift wohl aus dem Anfang des 								18. Jh. aus A, Kreisarchiv (früher im Stadtarchiv) Naumburg Nr Sa 								61, Bd. I f. 42 (E). Drucke: Menckenius, Script. rer. Germ. 1, 								770 aus dem damals in der Universitätsbibliothek Leipzig vorhandenen 								Original (m); Posse, CD. Sax. regiae I 2, 310 n<hi rend="sup">o</hi> 447 aus B; Böhme, UB. des Klosters Pforte 1, 43 n<hi rend="sup">o</hi> 26 aus Menckenius und BD; 								MG.DF.I.812. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 598; Diestelkamp – Rotter, Urkundenregesten 1, 362 n<hi rend="sup">o</hi> 460; Stumpf 4325.</p></div>
+				
+				
+					<div type="commentary"><p>Zur rechtsgeschichtlichen Bedeutung, vor allem zu 								der auffälligen Bezeichnung des jüngsten der Brüder von Stechow als 									<hi rend="italic">Grecus</hi>, vgl. die Hinweise in der 								Vorbemerkung zum D.; allgemein zum Kloster vgl. Kunde, Das 								Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte 								Sachsen-Anhalts 4, 2003). – Nach Plassmann, Struktur des Hofes, 282, 								könnte es sich bei dem unter den Zeugen genannten Konrad <hi rend="italic">Kisenlenc</hi> möglicherweise um Konrad von Raabs, 								den Burggrafen von Nürnberg, handeln; zu Friedrich von <hi rend="italic">Owenburch</hi> vgl. Plassmann, a.a.O., 285; zu 								Gerard von Braunshain (wohl identisch mit Gerhard von Altenburg) 								vgl. Plassmann, a.a.O., 285 sowie die Hinweise bei Reg. 2627; 								Burggraf Meinher von Werben ist identisch mit dem Burggrafen von 								Meißen, vgl. Plassmann, a.a.O., 288. – Die früher erfolgte 								Übertragung des Besitzes in Porstendorf durch die Stechower an den 								Kaiser lässt sich leider zeitlich nicht näher eingrenzen; ein Jahr 								später erteilte der jüngste Bruder der Stechower, Gerhard, dann 								seine Zustimmung zur Schenkung, vgl. dazu Reg. 2679.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_812" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

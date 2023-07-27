@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 143</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-24_1_0_4_2_1_143_143"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-10-24_1_0_4_2_1_143_143"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-10-24_1_0_4_2_1_143_143</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1415624994" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 143</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-10-24" to="1152-10-24">1152 Oktober 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIIII kal. novenb., Wirzburch)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ellwangen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von A II. C</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Gunther von Speyer, die Herzoge Welf, Heinrich von Sachsen, die Markgrafen Otakar von Steier, Albrecht (der Bär) von Sachsen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten seines Kanzlers Arnold und anderer Fürsten Abt Adalbert von <span sameAs="recipient"><hi rend="spaced">Ellwangen</hi> </span>  mit seinem Kloster (<hi rend="italic">abbatia ... Elwanc nominata in honore sanctorum martirum Viti, Sulpitii et Seruiliani dedicata</hi>) in seinen Schutz, bestätigt ihm den Besitzstand und trifft folgende Bestimmungen über die Vogtei: Der Vogt darf nur dreimal im Jahr mit zwölf Berittenen im Kloster Gericht halten und dabei seine Einkünfte (<hi rend="italic">suum servitium videlicet duas victimas cum suis appenditiis</hi>) empfangen, darüber hinaus darf er nur auf Wunsch des Abtes tätig werden. Schließlich überträgt der König dem Kloster das Recht der Abteien Fulda und Reichenau und verbrieft ihm den Bannforst Virgunda in den angegebenen Grenzen. <span n="witnesses">Z.: die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Gunther von Speyer, die Herzoge Welf, Heinrich von Sachsen, die Markgrafen Otakar von Steier, Albrecht (der Bär) von Sachsen</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi> </span>; nach DO. III. 38 (VU. I) und DDH. II. 53 und 505 (VU. II) <span n="clerk">verfaßt und geschrieben von A II. C</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Quotiens illud</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quotiens illud</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Stuttgart (A). Drucke: Wirtemberg. UB. 2, 65 n<hi rend="sup">o</hi>  340; MG. DF. I. 35. Reg.: Stumpf 3651.</p></div>
+				
+				
+					<div type="commentary"><p>Dem Diktat von A II. C sind Anklänge an das Formular der Papsturkunde (Verleihung des königlichen Schutzes) zuzuschreiben, woraus sich auch Übereinstimmungen mit dem Wortlaut des Privilegs Eugens III. von 1153 Februar 19 (JL. 9706; Germ. pont. 2/1, 109 n<hi rend="sup">o</hi>  2) erklären; die Verfügungen über die Vogtei waren Vorlage für die Interpolation in DO. III. 38. - Zur Frage des Forstes Virgunda vgl. die bei Fik, Geschichte (Ellwangen 764-1964 Bd. 1) 127 angegebene Literatur, besonders Rettenmeier, Grenzen des Ellwanger Bannforsts, Ellwanger Jb. 15 (1950-53) 79 ff. und die Karte a. a. O. 77.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0051" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221889%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_35" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=546" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

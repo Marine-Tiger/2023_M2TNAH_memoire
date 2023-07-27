@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2247</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-11_1_0_4_2_3_475_2247"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-11_1_0_4_2_3_475_2247"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-05-11_1_0_4_2_3_475_2247</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426601724" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2247</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-05-11" to="1177-05-11">1177 Mai 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ravenna">Ravenna</placeName>
+												<location><geo decls="#WGS">44.4167, 11.9833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(V<hi rend="sup">o</hi>  idus may, apud Rauennam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Wachssiegel laut BC.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Filipi Colonniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und sicherlich auch geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Eberhard von Merseburg, Adelhog von Hildesheim und Arnold von Osnabrück, Abt Rüdiger von (St. Georg) in Naumburg, Protonotar Wortwin, die Kapelläne Nikolaus, Burkhard und Rudolf, Abt (Hugo) von Bonnevaux, (Kartäuser)Bruder Dietrich (von Silve-Bénite), die Grafen Florentius von Holland und Heinrich von Diez, Konrad von Ballhausen, Mundschenk Konrad (von Oberschüpf), Kämmerer Sibodo und Truchseß Walter</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Abtes Hugo das <hi rend="spaced">Kloster des hl. Laurentius zu Caesarea bei Ravenna</hi>  in seinen Schutz und bestätigt ihm gemäß den Verfügungen seiner Vorgänger, besonders Kaiser Ottos III., die in einer umfangreichen Liste angeführten Besitzungen und überträgt ihm darüber hinaus die Kapelle S. Paolo unter Vorbehalt der Gerechtsame seiner Pfalz, zu der diese Kapelle gehört. <span n="witnesses">Z.: die Bischöfe Eberhard von Merseburg, Adelhog von Hildesheim und Arnold von Osnabrück, Abt Rüdiger von (St. Georg) in Naumburg, Protonotar Wortwin, die Kapelläne Nikolaus, Burkhard und Rudolf, Abt (Hugo) von Bonnevaux, (Kartäuser)Bruder Dietrich (von Silve-Bénite), die Grafen Florentius von Holland und Heinrich von Diez, Konrad von Ballhausen, Mundschenk Konrad (von Oberschüpf), Kämmerer Sibodo und Truchseß Walter</span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Filipi Colonniensis archiep. et Italici regni archicanc.</hi> </span>; unter Benützung des im Text erwähnten Deperditums Ottos III. <span n="clerk">verfaßt und sicherlich auch geschrieben von Burkhard</span>, der in der Zeugenliste unter den (kaiserlichen) Kapellänen erwähnt wird; <span n="seal">Wachssiegel laut BC.</span>  <span n="incipit"><hi rend="italic">Ad eterne beatitudinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterne beatitudinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1346, Biblioteca Classense zu Ravenna n<hi rend="sup">o</hi>  621 (B); Einzelabschrift des 14. Jh., ebenda n<hi rend="sup">o</hi>  878 (C). Drucke: Fantuzzi, Monumenti Ravennati 2, 151 n<hi rend="sup">o</hi>  78; MG.DF.I.670. Reg.: Stumpf 4192.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Beurteilung vgl. die Vorbemerkung zum D.; zur Nennung der kaiserlichen Pfalz zu Ravenna vgl. Opll, Itinerar, 120, sowie oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-01-22_1_0_4_2_3_459_2231.html" type="internal" n="regesten">2231</ref>. — Rubeus, Hist. Ravennat. (1589) lib. VI, 350 f. nennt dieses D. im Zusammenhang mit einem durch Obo von Ravenna (vgl. dazu auch Simonsfeld, Forschungen, SB. München 1897/2, 145 ff.) überlieferten, seinem historischen Gehalt nach nicht weiter überprüfbaren Bericht, nach dem der Kaiser um diese Zeit mit Unterstützung der Genuesen und Pisaner eine Flotte aus 75 <hi rend="italic">triremes</hi>  zusammengestellt und unter das Kommando seines Sohnes Otto (des späteren Pfalzgrafen von Burgund) gestellt habe. Wenig später seien vier dieser Schiffe in den Hafen von Ravenna eingelaufen, nachdem der Rest der Flotte <hi rend="italic">ad Piranum, eo loco, cui est Salboro nomen</hi>  von den Venezianern besiegt und die gesamte Mannschaft samt dem Kaisersohn Otto gefangen nach Venedig gebracht worden sei. Der Kaiser sei von den Resten der nach Ravenna geflüchteten Mannschaft über diese Geschehnisse informiert worden und in der Folge von seinem in der Zwischenzeit von den Venezianern freigelassenen Sohn aufgestachelt worden; schließlich habe er beschlossen, nach Venedig zu ziehen; in ähnlicher Weise findet sich dieser Bericht im übrigen auch bei Ioannis Dlugossii Annales lib. VI, ed. Budkowaet al. (1973), 103 (zu 1175).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0168" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_670" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

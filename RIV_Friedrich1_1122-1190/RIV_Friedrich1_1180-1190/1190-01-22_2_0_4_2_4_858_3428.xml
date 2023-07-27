@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3428</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-01-22_2_0_4_2_4_858_3428"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-01-22_2_0_4_2_4_858_3428"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-01-22_2_0_4_2_4_858_3428</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3428</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-01-22" to="1190-01-22">1190
+									(um Januar 21/22)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Edirne">Adrianopel (Edirne)</placeName>
+												<location><geo decls="#WGS">41.6667, 26.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Der Kleriker Eberhard, der vom Kaiser als Legat an 								König Bela (III. von Ungarn) entsandt worden ist (siehe dazu oben 								Reg. 3414), kehrt mit einem Mahnschreiben des Ungarn an dessen 								Schwiegersohn, Kaiser (Isaak II. Angelos), zurück. Bela habe sein 								freundliches Verhalten gegenüber Eberhard allerdings verändert, als 								er von den Verwüstungszügen des Kreuzheeres im byzantinischen 								Gebiet, insbesondere der Zerstörung von <hi rend="italic">Dimotika</hi> (Didymōtichon, siehe oben Reg. 3418), erfahren 								habe. Des Weiteren berichtet Eberhard von Neuigkeiten aus dem 								Westen, darunter vom Ableben der Könige Heinrich (II.) von England 								(gest. 6. Juli 1189) und Wilhelm (II.) von Sizilien (<hi rend="italic">Apulię</hi>; gest. 18. November 1189), der 								Übernahme der Herrschaft über das Königreich Sizilien gemäß dem 								Erbrecht seiner Gemahlin (Konstanze) durch den Sohn des Kaisers, 								König Heinrich (VI.), und dem Antritt des Kreuzzugs durch die Könige 								Philipp (II. August) von Frankreich und Richard (Löwenherz) von 								England. Außerdem berichtet er davon, dass er bei seinem Zug durch 								Bulgarien die Leichen der dort gefallenen Kreuzritter vielfach aus 								ihren Gräbern gerissen vorgefunden habe.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 61 f. (<hi rend="italic">In 									diebus illis …</hi>) (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 116 f.).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 247 								f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

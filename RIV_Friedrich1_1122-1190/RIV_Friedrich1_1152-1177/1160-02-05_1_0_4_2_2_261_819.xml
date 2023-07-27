@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 819</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-05_1_0_4_2_2_261_819"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-02-05_1_0_4_2_2_261_819"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-02-05_1_0_4_2_2_261_819</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 819</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-02-05" to="1160-02-05">1160 Februar 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Synode von Pavia</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><span sameAs="recipient"><hi rend="spaced">Synode von Pavia</hi> </span> : Friedrich eröffnet die von ihm nach Pavia zur Klärung der schismatischen Papstwahl einberufene Kirchenversammlung, an der ungefähr 50 Erzbischöfe und Bischöfe (Otto Morena: Patriarch Pilgrim von Aquileia, neun Erzbischöfe und 38 Bischöfe; Ann. Dorenses, Ex Annalibus Winchecumbensibus und E Gervasii Cantuariensis Chronica: 153 Bischöfe; Mon. Sazav. Cont. Cosmae: 150 Bischöfe) sowie zahllose Äbte und Pröpste teilnehmen, überläßt die Entscheidung der Beratung der Geistlichen und zieht sich von den Verhandlungen zurück.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 74, vgl. 81 und 82, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 318 f. und 336 f., Otto Morena, ed. Güterbock, MG. SS rer. Germ. N. S. VII, 98 ff., Ann. Dorenses, MG. SS XXVII, 524 f. (zu 1159), Ann. Reichersperg., MG. SS XVII, 467, Ex Annalibus Winchecumbensisbus, MG. SS XVI, 481, E Gervasii Cantuariensis Chronica, MG. SS XXVII, 299, Mon. Sazav. Cont. Cosmae, MG. SS IX, 161 (zu 1159).</p></div>
+				
+				
+					<div type="commentary"><p>Zur Zahl der Teilnehmer vgl. zuletzt Madertoner, Papstwahl, 167 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0082" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

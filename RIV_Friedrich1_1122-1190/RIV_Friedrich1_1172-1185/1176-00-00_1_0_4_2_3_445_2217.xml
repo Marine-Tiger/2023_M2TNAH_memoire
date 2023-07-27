@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2217</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-00-00_1_0_4_2_3_445_2217"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-00-00_1_0_4_2_3_445_2217"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-00-00_1_0_4_2_3_445_2217</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606641" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2217</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-01-01" to="1176-12-31">wohl 1176</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verpfändet dem <hi rend="spaced">Bischof Rudolf von Lüttich</hi>  durch Vermittlung des Erzbischofs (Philipp) von Köln (<hi rend="italic">fidelissimus ille mandatorum nostrorum exsecutor</hi>) eine Reihe von kaiserlichen Gütern jenseits der Maas mit Ausnahme der Propstei Maastricht und der Abtei Nivelles, nämlich den <hi rend="italic">burgus</hi>  Maastricht, Rotem, <hi rend="italic">Vibeir</hi>, Montenaken, Vreren, Veulen (Fologne) und den <hi rend="italic">burgus</hi>  S. Trond (Sint-Truiden), und zwar gegen ein zur Finanzierung des Italienzuges gewährtes Darlehen von 1000 Mark, wofür der Bischof seinerseits Bistumsgut verpfänden mußte. — <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Cum omnibus sub</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnibus sub</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Lüttich (A). Drucke: Stumpf, Acta ined. 208 n<hi rend="sup">o</hi>  155 zu 1174 — 1176; MG.DF.I.663. Regg.: Wauters, Table chronol.2, 578 zu 1174 — 1177 und 7/1, 318; Doppler, Charters van Sint Servaas (Publications de la Soc. hist. et archéol. dans le duché de Limbourg Sér. 3, 11 = 66, 1930) 251 n<hi rend="sup">o</hi> 53; Diestelkamp-Rotter, Urkundenregesten 1, 336 n<hi rend="sup">o</hi> 429; Stumpf 4557 zu 1174 — 1176.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch die Urkunde Philipps von Köln bei Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1012. — Die zeitliche Einordnung ergibt sich insbesondere aus der Verwendung von südlichem Pergament; die auffälligen romanischen Sprachformen der niederdeutschen Ortsnamen ergeben sich wohl daraus, daß man der Ortographie einer von Seiten der Lütticher Kirche vorgelegten Güterliste folgte; vgl. dazu die Vorbemerkung zum D. mit der dort genannten Arbeit von Rotthoff, Studien zur Geschichte des Reichsguts (Rhein. Archiv 44, 1953) 75 ff., sowie jetzt auch Kupper, Maasgebiet, in: Friedrich Barbarossa (VuF 40, 1992) 233 mit Anm. 39. — S. Trond hatte der Kaiser 1171 im Wege einer Verpfändung durch Bischof Dietrich von Metz erworben, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-02-08_1_0_4_2_3_147_1922.html" type="internal" n="regesten">1922</ref>; die Stadt Maastricht hatte er vor 1168 von Graf Heinrich von Luxemburg-Namur und dessen Mutter Ermesindis erworben, vgl. dazu Reg. <ref type="unmatched">1764a</ref>  (Nachträge zu Band 2 der Regesta Imperii, hier in diesem Band). — In einer Urkunde Bischof Rudolfs von Lüttich von 1185 wird erwähnt, daß der Bischof <hi rend="italic">ex mandato domini imperatoris hortatu domini Coloniensis</hi>  (= Philipp von Köln) <hi rend="italic">et domini Treverensis</hi>  (= Arnold von Trier) Verpfändungen von Gütern seiner Kirche <hi rend="italic">ad pecuniam conquirendam Italice profectioni necessariam contra perfidiam Longobardorum</hi>  vorgenommen und dafür <hi rend="italic">bona imperialia tam nobis quam ecclesie nostre in vadio pro mille marcis</hi>  empfangen habe; einen Teil des für die Verpfändung des bischöflichen Hofes zu Hougaerde an Rudolf von Leuven erhaltenen Betrags verwendete der Bischof 1185 sodann zum Kauf des Hofes zu Bauvechin, ed. Bormans — Schoolmeesters, Cart. de S. Lambert de Liège 1, 103 n<hi rend="sup">o</hi>  62; vgl. dazu Kupper, Raoul de Zähringen, 70 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0158" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_663" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

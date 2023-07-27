@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2997</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_4_0_4_2_4_421_2997"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-08_4_0_4_2_4_421_2997"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-08_4_0_4_2_4_421_2997</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2997</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-08" to="1186-06-08">1186
+									Juni 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Zelt des Kaisers bei der Belagerung des Castel Manfredi  (heute: Castellone)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Gottfried (<hi rend="italic">Cotifredus</hi>), Kanzler des Kaisers, die 									Bischöfe Wilhelm von Asti und Bernard von Parma, der Mailänder 									Podestà Ubertus Vicecomes von Piacenza, die Markgrafen Bonifaz 									von Montferrat und Supramons (von Cavalcabò), Opizo Novellus und 									Bernardus Balbus, Konsuln von Piacenza, Wilhelm Burrus und 									Wilhelm de Osa aus Mailand</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Konsuln Otto de Comite und Otto Curtise von 								Cremona sowie ihre Mitbürger Albertus Trussus, Homobonus von Trezzo, 								Pontius de Giroldis, Bernardus Pizinus, Surdus von Valera (<hi rend="italic">Vallariis</hi>; wohl Valera Fratta nel Lodigiano), 								Girardus Faber, Johannes de Conrado, Nicola de Moro, Petrus von 								Sospiro und Otto von Casalmorano verpflichten sich im Zusammenhang 								mit dem mit dem Kaiser geschlossenen Frieden (vgl. Reg. 2995), zu 								Pavia im Hause des Gaiferius Ysimbardus oder – falls Gaiferius nicht 								anwesend sein sollte – im Hause von dessen Bruder Jacobus, dem 								Gaiferius, dem Jacobus oder dem vom Kaiser bestimmten Boten 1.500 								Pfund Pfennige guter Imperialen (<hi rend="italic">bonorum 									imperialium</hi>), und zwar die eine Hälfte bis zum nächsten 								Fest der Apostelfürsten (= Juni 29) und die andere bis zum 1. 								August, zu übergeben. Außerdem verpflichten sie sich, dem 								kaiserlichen Hof binnen zwei Wochen (<hi rend="italic">ad quindecim 									dies proximos</hi> = bis zum 22. Juni) ab der am heutigen Tag 								gewährten Gnade des Kaisers dem kaiserlichen Hof 300 Pfund guter 								Imperialen zu bezahlen. Ihrem Eid fügen sie hinzu, dass sie auch die 								übrigen Konsuln und die Credentia von Cremona zur Einhaltung dieser 								Zahlungstermine eidlich verpflichten werden. Am selben Tag legen 								auch Konsul Ambrosius de Scandolaria von Cremona sowie Todescus 								Sagittaclericus, Girardus de Burgo, Otolinus de Persio, Guidottus de 								Baldezonis, Martius de Brodulano, Barozius de Burgo und Wilielmus de 								Belloto diesen Eid ab. <span n="witnesses">Z.: Gottfried (<hi rend="italic">Cotifredus</hi>), Kanzler des Kaisers, die 									Bischöfe Wilhelm von Asti und Bernard von Parma, der Mailänder 									Podestà Ubertus Vicecomes von Piacenza, die Markgrafen Bonifaz 									von Montferrat und Supramons (von Cavalcabò), Opizo Novellus und 									Bernardus Balbus, Konsuln von Piacenza, Wilhelm Burrus und 									Wilhelm de Osa aus Mailand</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>MG. Const. 1, 436 n<hi rend="sup">o</hi> 								308; Falconi, Carte Cremonesi IV, 25 n<hi rend="sup">o</hi> 639; 								Stumpf 4457.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Vorbemerkung zu D.941.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

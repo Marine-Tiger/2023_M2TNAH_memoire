@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2382</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-05-15_1_0_4_2_3_610_2382"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-05-15_1_0_4_2_3_610_2382"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-05-15_1_0_4_2_3_610_2382</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426604526" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2382</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-05-15" to="1178-05-15">1178 Mai 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Casale Monferrato</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(die lune, XV intrante madio, in castro Casali sancti Uasii)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Im Anschluß an das genannte Notariatsinstrument von einem italienischen Schreiber etwas flüchtig geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt Gottes und des hl. Benedikt, des Patrons des Reichsklosters San Benedetto di Polirone wegen (<hi rend="italic">causa dei et intercessione beati Benedicti, ad cuius honorem monasterium nostrum sancti Benedicti de Padolarone dedicatum esi</hi>) sowie auf Bitten und Rat des Bischofs G(arsidonius) von Mantua sowie des Girard von Carpineti, des Girard Rangon(is), des Wilhelm von Baiso, des Girard von Canossa, des Girard von Cornazzano, des Guido Malerbe, des Rodulfinus von Panzano und anderer Getreuer des Hauses der Gräfin Mathilde (= Kreis der mathildischen Vasallität) gemäß einem vom Notar Johannes Bonus angefertigten Notariatsinstrument ein zwischen den Mönchen des <hi rend="spaced">Reichsklosters San Benedetto di Polirone</hi>  und den <hi rend="spaced">Leuten von Pegognaga</hi>  durch den genannten Bischof (Garsidonius von Mantua), Konrad von Ballhausen und Wilhelm von Baiso durchgeführtes Rechtsgeschäft (<hi rend="italic">transactionem</hi>). — <span n="clerk">Im Anschluß an das genannte Notariatsinstrument von einem italienischen Schreiber etwas flüchtig geschrieben</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Nostre imperialis celsitudinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nostre imperialis celsitudinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mailand (A). Druck: MG.DF.I.731. Faks.: Sickel, Mon.graphica 14 n<hi rend="sup">o</hi>  17. Regg.: Torelli, Reg. Mantovano 1, 259 n<hi rend="sup">o</hi>  392; Stumpf 4247.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0216" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_731" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

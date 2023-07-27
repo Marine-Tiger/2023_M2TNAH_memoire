@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3152</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_5_0_4_2_4_577_3152"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-04-01_5_0_4_2_4_577_3152"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-04-01_5_0_4_2_4_577_3152</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3152</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-04-01" to="1188-04-01">1188
+									(nach April 1)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erlässt auf einer Versammlung der Großen 								(des Reiches) ein <hi rend="spaced">Edikt</hi>, gemäß dem sich 								niemand – mit Ausnahme von Dienern und Handwerkern (<hi rend="italic">exceptis servientibus et operariis</hi>) – dem 								Kreuzzug anschließen darf, der nicht über eine entsprechende 								Reitausrüstung und Geldmittel verfügt, die es ihm erlauben, sich 								zwei Jahre hindurch mit Lebensmitteln zu versorgen (<hi rend="italic">qui equitatura et argento quod sibi ad biennium 									pro emendis victualibus sufficeret, careret</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Marbacenses, ed. Bloch, MG. SS rer. 								Germ. in us. schol., 60 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 176 ff.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung dieser Nachricht erfolgt 								hier im Anschluss an den Hoftag Jesu Christi in Mainz, als der 								Kaiser damit begann, umfassende Vorbereitungen für den Kreuzzug zu 								treffen, vgl. dazu auch Reg. 3151 sowie die unten Reg. 3244 								gebotenen Hinweise auf weitere Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 546</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-05-11_1_0_4_2_1_548_546"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-05-11_1_0_4_2_1_548_546"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-05-11_1_0_4_2_1_548_546</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 546</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-05-11" to="1158-05-11">1158 (vor Mai 11)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rainald</hi>  <hi rend="spaced">Dassel</hi>  <hi rend="spaced">Otto</hi>  <hi rend="spaced">Wittelsbach</hi>  <hi rend="spaced">Legationsreise nach Italien</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Kanzler <span sameAs="recipient"><hi rend="spaced">Rainald</hi> </span>  (von <span sameAs="recipient"><hi rend="spaced">Dassel</hi> </span>) und Pfalzgraf <span sameAs="recipient"><hi rend="spaced">Otto</hi> </span>  (von <span sameAs="recipient"><hi rend="spaced">Wittelsbach</hi> </span>) berichten Kaiser Friedrich über die Ereignisse ihrer <span sameAs="recipient"><hi rend="spaced">Legationsreise nach Italien</hi> </span>  zur Vorbereitung der Heerfahrt nach dem Zusammentreffen mit den an ihn abgeordneten päpstlichen Gesandten. Bis zu diesem Zeitpunkt hatte sich folgendes ereignet: Beim Einmarsch nach Italien war zunächst die Burg Rivoli eingenommen worden, die den Durchmarsch behindern konnte; sodann hatten die Gesandten in Verona, wo sie vom Bischof und den Bürgern ehrerbietig aufgenommen worden waren, sowie in Mantua, Cremona, wo auf einer stark besuchten Versammlung die Erzbischöfe (Anselm) von Ravenna und (Otbert) von Mailand mit 15 ihrer Suffraganbischöfe, namentlich Bischof Obert von Cremona, und auch Grafen, Markgrafen, Konsuln und die Vornehmsten der umliegenden Städte erschienen waren, und in Pavia den Treueid gegenüber dem Kaiser und die Hilfe für die bevorstehende Heerfahrt beschwören lassen und waren in Modena mit den päpstlichen Gesandten an den Kaiser, dem Kardinalpriester Heinrich von SS. Nereo e Achilleo und dem Kardinaldiakon Hyacinth von S. Maria in Cosmedin zusammengetroffen. (Über die folgenden Ereignisse berichten sie nun in ihrem Brief.) Von Modena zogen sie über Bologna nach Ravenna, wo sie vom Erzbischof und 14 Bischöfen mit königlichen Ehren empfangen wurden. Sie warteten dort auf Bitten des Erzbischofs auf die Rückkehr der Ravennater Miliz und der Adeligen, die unter Führung ihres Podestà Wilhelm Traversarius nach Ancona gezogen waren und den dort befindlichen, griechischen Gesandten unter dem Protostrator Alexius gegen Geld den Eid leisteten, ihn, den Protostrator, gegen jedermann zu verteidigen. Als die Ravennaten jedoch nicht zurückkehrten, zogen ihnen die kaiserlichen Gesandten erzürnt entgegen und nahmen beim Zusammentreffen trotz gewaltiger Übermacht der Ravennaten ihren Podestà, seinen Sohn Petrus und sechs der Vornehmen ihrer Stadt gefangen. In Rimini fanden sie daraufhin mit ihren Gefangenen Aufnahme und zogen mit einem dort gesammelten Heer über Pesaro, Fano und Senigallia gegen Ancona. Dessen Bewohner weigerten sich, vor den Gesandten zu erscheinen, konnten aber deren Gnade durch Vermittlung des griechischen Grafen Alexius wiedererlangen und leisteten ihnen den Treueid. Die Griechen konnten sich gegenüber den Vorwürfen, sie hätten versucht, in Ancona Fuß zu fassen, einigermaßen rechtfertigen und durften, nachdem sie die kaiserlichen Gesandten reich beschenkt hatten, in ihre Heimat zurückkehren. Auf Bitten des Ravennater Erzbischofs wurden die Gefangenen unter der Bedingung entlassen, daß die ganze Stadt den Treueid leiste, was Ravenna schon seit 200 Jahren keinem Kaiser gegenüber mehr getan hatte. Rainald und Otto berichten weiter, daß Wilhelm von Sizilien an ihn gesandte Kardinäle wegen des Doppelspiels des Papstes, der ja auch an Friedrich Gesandte abgeordnet hatte, schroff zurückgewiesen habe und raten dem Kaiser zu Zurückhaltung und Vorsicht bei den Verhandlungen mit den Kardinälen, denen es nicht gestattet werden solle, in Deutschland zurückzubleiben. Schließlich kündigen sie für den Sonntag Jubilate (11. Mai) ein Treffen mit den Senatoren und Adeligen der Römer und dem Neffen des Kardinals Oktavian, Otto, an und beklagen sich darüber, bisher vom Kaiser keine Nachricht erhalten zu haben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hauptquelle für die Tätigkeit der beiden Legaten ist deren Brief an den Kaiser, der dem Text dieses Regests ab den Ereignissen in Bologna zugrunde liegt, ed. Sudendorf, Registrum 2, 131 n<hi rend="sup">o</hi>  54 und Doeberl, Mon. Germ. sel. 4, 116 n<hi rend="sup">o</hi>  36; der Wortlaut des Briefes fand auch in die Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 95 ff. Eingang; der Beginn der Legation ist uns dagegen hauptsächlich durch Rahewini Gesta Frid. l. III capp. 19-21, ed. Waitz-simson, MG. SS rer. Germ. in us. schol. 190 ff. überliefert; vgl. auch Carmen de gestis V. 1769 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 58 f.; zum Empfang in Cremona vgl. auch Burchard von Ursperg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol. 27.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. zu diesen Ereignissen Simonsfeld, Jahrbücher 618 ff. und 716 ff., Excurs VIII, wo er auch die irrige Angabe Rahewins, der Leiter der griechischen Gesandtschaft sei der schon 1155 verstorbene Michael Paläologus gewesen, korrigiert und die Nachricht über den Cremoneser HT wohl mit Recht als irrig bezeichnet. Irrig spricht Simonsfeld 625 und 718 allerdings von einem Besuch der Gesandten in Fermo, indem er dem Text des Briefes an Friedrich folgt, während die Chron. reg. Col. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-29_2_0_4_2_1_96_96.html" type="internal" n="regesten">96</ref>  das nach dem Itinerar einzig richtige Fano nennt. Die Datierung des Schreibens ergibt sich aus dem Termin des beabsichtigten Treffens mit der stadtrömischen Gesandtschaft. - Zur Tätigkeit der kaiserlichen Legaten vgl. auch das von ihnen vermittelte Abkommen zwischen dem Kaiser und der Stadt Piacenza, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-06-00_1_0_4_2_1_551_549.html" type="internal" n="regesten">549</ref>. - Zur Persönlichkeit der beiden päpstlichen Gesandten vgl. Zenker, Mitglieder des Kardinalkollegiums 96 ff. n<hi rend="sup">o</hi>  68 und 161 ff. n<hi rend="sup">o</hi>  133.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0186" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

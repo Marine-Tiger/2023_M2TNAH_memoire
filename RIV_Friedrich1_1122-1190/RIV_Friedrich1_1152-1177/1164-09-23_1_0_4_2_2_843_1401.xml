@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1401</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-23_1_0_4_2_2_843_1401"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-23_1_0_4_2_2_843_1401"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-23_1_0_4_2_2_843_1401</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246604" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1401</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-09-23" to="1164-09-23">1164 September 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIIII<hi rend="sup">o</hi>  kal. octobris, Papie apud sanctum Salvatorem)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Montferrat</hi></recipient>
+				
+				
+				
+					<scribe>Geschrieben von UB, auf den auch das von RG beeinflußte Diktat zurückgehen dürfte</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Garsidonius von Mantua und Alberich von Lodi, Pfalzgraf Otto der Ältere (von Wittelsbach), Graf Wido von Biandrate, Markward von Grumbach, Gebhard von Leuchtenberg, Gonfaloniere Allo (von Pavia) und Wido von Sannazzaro de'Burgondi</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem Markgrafen Wilhelm von <span sameAs="recipient"><hi rend="spaced">Montferrat</hi> </span>  wegen seiner zahlreichen Verdienste die Burgen Cavagnolo und Vesterna mit dem Fodrum, allen Regalien und zugehörigen Rechten. <span n="witnesses">Z.: die Bischöfe Garsidonius von Mantua und Alberich von Lodi, Pfalzgraf Otto der Ältere (von Wittelsbach), Graf Wido von Biandrate, Markward von Grumbach, Gebhard von Leuchtenberg, Gonfaloniere Allo (von Pavia) und Wido von Sannazzaro de'Burgondi</span>. - <span n="clerk">Geschrieben von UB, auf den auch das von RG beeinflußte Diktat zurückgehen dürfte</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Imperiali congruere videtur</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperiali congruere videtur</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Turin (A). Kop.: Notarielle Abschrift von 1210 ebenda (B). Drucke: MG. DF. I. 458. Faks.: Koch, Reichskanzlei Abb. 6. Reg.: Stumpf 4027.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-10-05_1_0_4_2_2_856_1414.html" type="internal" n="regesten">1414</ref>, <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-10-05_2_0_4_2_2_857_1415.html" type="internal" n="regesten">1415</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-00_1_0_4_2_2_860_1418.html" type="internal" n="regesten">1418</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0223" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_458" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

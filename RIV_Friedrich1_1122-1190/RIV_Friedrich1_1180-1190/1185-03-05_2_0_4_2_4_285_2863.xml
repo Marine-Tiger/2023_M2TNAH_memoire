@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2863</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-05_2_0_4_2_4_285_2863"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-05_2_0_4_2_4_285_2863"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-03-05_2_0_4_2_4_285_2863</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845081" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2863</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-03-05" to="1185-03-05">1185
+									März 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Castellarano (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> non. martii, apud Castelaran</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2 (vgl. Anm. e‘‘‘)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+					<scribe>Kanzleiausfertigung, die nach der 									Nachzeichnung des Monogramms in der Überlieferung B wohl von GG 									geschrieben wurde, der auch als Verfasser zu gelten haben 									wird</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die Bischöfe Garsidonius von 									Mantua, Alberich von Reggio (Emilia) und Ardicio von Modena, 									Rudolf, Protonotar des kaiserlichen Hofes, Herzog Konrad von 									Spoleto, Markgraf Konrad von Ancona, die Grafen Gerhard von 									Looz/Borgloon, Simon von Sponheim und Diepold von Lechsgemünd, 									Markgraf Wilhelm von Parodi, Werner von Bolanden, Graf Wifred 									von Lomello, Guido von Sannazzaro de’ Burgondi und dessen Bruder 									Rainer, Berthold von Hohkönigsburg (<hi rend="italic">Cuningisper</hi>), (Reichs-)Legat für Italien, Wilhelm von 									Vezzano (Ligure), Konrad von (Bad) Schussenried (<hi rend="italic">Schuzin</hi>), Kämmerer Rudolf, Marschall 									Heinrich von (Kaisers)Lautern, Eilward von Wildenstein, 									Friedrich von Riet und Propst (Friedrich) von St. Thomas in 									Straßburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Vasallen</hi> der Landschaften <hi rend="spaced">Garfagnana</hi> und <hi rend="spaced">Versilia –</hi> und 								zwar aus der Garfagnana namentlich die Herren von Soraggio di 								Garfagnana, die Herren von Gragnano, die Herren von 								Verrúcole-Gherardinga, die Söhne des Guido von Villa Collemandina, 								die Herren von Bacciano und Caréggine, die Herren von Castiglione di 								Garfagnana und Pieve Fosciana, die Herren von <hi rend="italic">Celabareti</hi> (Cella-Baroti oder Cerageto), die Herren von 								Villa Ceserana, die Herren von Barga, die Herren aus der <hi rend="italic">Casa Rolandenga</hi>, die Herren aus dem Hause 								Soffredinghi (von Anchiano) und die Herren aus dem Hause Porcari, 								aus der Versilia und aus Camaiore di Versilia namentlich die Herren 								von Montemagno, die Söhne des Ubaldus, die Herren von Valécchia, die 								Herren von Corvaia, <hi rend="italic">Trufe</hi> von Rocca del 								Castel d’Aginolfo und die Herren von Ghivizzano – in seinen Schutz, 								unterstellt sie ausschließlich der kaiserlichen Gewalt, nämlich ihm, 								seinem Sohn, König Heinrich (VI.) und seinen Boten, die er mit 								Zustimmung der Konsuln und Rektoren dieses Gebietes dort einsetzen 								wird, und erklärt sie für unabhängig von allen städtischen Kommunen. 								Er widerruft insbesondere alle Maßnahmen, die die Städte gegen die 								Interessen der genannten Vasallen getroffen haben, nämlich die 								Ausdehnung der städtischen Herrschaft auf Corvaia, <hi rend="italic">Scortia Bocone</hi>, Monsagrati (<hi rend="italic">Montegranato</hi>), Calavorno und Gioviano, und befiehlt den 								Lucchesen unter Androhung der Vorladung vor den Kaiser oder seinen 								Boten sowie der folgenden Reichsacht die Wiederrichtung der von 								ihnen zerstörten Burgen <hi rend="italic">Mozzanum</hi> (Bozzano 								oder Borgo a Mozzano), Anchiano und Giuncugnano (<hi rend="italic">Lacunam</hi>) sowie die Zerstörung der von ihnen errichteten 								Burgen Orbicciano (<hi rend="italic">Urbicianum</hi>), Stiava (<hi rend="italic">Sclauam</hi>) und Albiano. Er unterstellt die 								genannten Vasallen dem Markgrafen Wilhelm von Parodi, den er als 								Podestà und Rektor für die Garfagnana und die Versilia einsetzt, und 								nimmt Coréglia ebenfalls in seinen Schutz auf. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die Bischöfe Garsidonius von 									Mantua, Alberich von Reggio (Emilia) und Ardicio von Modena, 									Rudolf, Protonotar des kaiserlichen Hofes, Herzog Konrad von 									Spoleto, Markgraf Konrad von Ancona, die Grafen Gerhard von 									Looz/Borgloon, Simon von Sponheim und Diepold von Lechsgemünd, 									Markgraf Wilhelm von Parodi, Werner von Bolanden, Graf Wifred 									von Lomello, Guido von Sannazzaro de’ Burgondi und dessen Bruder 									Rainer, Berthold von Hohkönigsburg (<hi rend="italic">Cuningisper</hi>), (Reichs-)Legat für Italien, Wilhelm von 									Vezzano (Ligure), Konrad von (Bad) Schussenried (<hi rend="italic">Schuzin</hi>), Kämmerer Rudolf, Marschall 									Heinrich von (Kaisers)Lautern, Eilward von Wildenstein, 									Friedrich von Riet und Propst (Friedrich) von St. Thomas in 									Straßburg</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Italie archicanc.</hi></span>;<span n="clerk"> Kanzleiausfertigung, die nach der 									Nachzeichnung des Monogramms in der Überlieferung B wohl von GG 									geschrieben wurde, der auch als Verfasser zu gelten haben 									wird</span>;<span n="seal"> B.2 (vgl. Anm. e‘‘‘)</span>;<span n="incipit"> 									<hi rend="italic">Imperatoriam maiestatem nostram.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam maiestatem nostram.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Register Papst Gregors IX. tom. 1, Reg. 								Vat. n<hi rend="sup">o</hi> 14 f. 50‘, Vatikanisches Archiv (B); 								Abschrift des 16. Jh., Staatsarchiv Lucca, Capitoli IV (Armario XI 									n<hi rend="sup">o</hi> 116) f. 14 (C); Abschrift des 18. Jh. im 								Cod. dipl. Luccense, Cod. ms. 87 (alt 67, sine folio), Biblioteca 								Governativa zu Lucca (D). Drucke: Ficker, Forschungen 4, 198 									n<hi rend="sup">o</hi> 156; Auvray, Reg. de Grégoire IX 1, 95 									n<hi rend="sup">o</hi> 174; MG.DF.I.899. Regg.: Dolch – 								Münch, UB. der Stadt Kaiserslautern 1, 60 n<hi rend="sup">o</hi> 								45; Stumpf 4412.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferungsgeschichte – im 16. Jh. war das 								Original noch in Lucca vorhanden – vgl. die Vorbemerkung zum D. – 								Die Aufnahme von Coréglia in den kaiserlichen Schutz und die Nennung 								des Propstes von St. Thomas in Straßburg als Zeuge finden sich am 								Ende der Zeugenreihe hinzugefügt, wobei es sich offensichtlich schon 								im Original um Nachträge handelte. – Zur Tätigkeit Wilhelms von 								Parodi in der Garfagnana vgl. auch unten Reg. 2893. – Zur Bedeutung 								dieses D. vgl. Opll, Il Monte Bardone, Quaderni storici 61, anno 								XXI, fasc. 1 (1986) 57 ff., sowie Andreolli, Barbarossa e la 								Garfagnana, in: La Garfagnana dall‘epoca comunale all‘avvento degli 								estensi (Dep. di storia patria per le antiche provincie modenesi, 								1998) 1–16, insbesondere 13.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_899" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

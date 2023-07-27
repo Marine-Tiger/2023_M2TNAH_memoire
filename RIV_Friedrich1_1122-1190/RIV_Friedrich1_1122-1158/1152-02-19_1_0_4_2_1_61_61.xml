@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 61</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-02-19_1_0_4_2_1_61_61"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-02-19_1_0_4_2_1_61_61"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-02-19_1_0_4_2_1_61_61</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1374148140" value="2013-07-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 61</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-02-19" to="1152-02-19">1152 Februar 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Ufer des Main</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Neuordnung des Reiches</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hat mit den Bischöfen Gebhard von Würzburg und Eberhard von Bamberg eine Besprechung über die <span sameAs="recipient"><hi rend="spaced">Neuordnung des Reiches</hi> </span>  (<hi rend="italic">colloquium ... de reformando et componendo regni statu</hi>) und wirkt noch als Herzog von Schwaben (<hi rend="italic">per manum Friderici, tunc strenui ducis postea gloriosi Romanorum regis</hi>) an einem Tauschgeschäft zwischen Graf Berthold von Plassenburg-Andechs und dem Zisterzienserkloster Langheim mit.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in der Urkunde des Bischofs Gebhard von Würzburg für das Kloster Langheim, ed. Mon. Boica 37, 68 n<hi rend="sup">o</hi>  97 und die Ergänzungen bei Simonsfeld, Jahrbücher 21 Anm. 9; Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  1.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der in zwei Originalen vorliegenden Urkunde vgl. Hausmann, Vorbemerkung zu DK. III. 270. - Ähnlich wie das DF. I. 38 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-02-12_1_0_4_2_1_147_147.html" type="internal" n="regesten">147</ref>) wurde diese Urkunde auch erst nach längerer Zeit endgültig ausgefertigt, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-02-00_2_0_4_2_1_63_63.html" type="internal" n="regesten">63</ref>. Zuletzt vgl. dazu Appelt, Wahl (FS. H. Wiesflecker, 1973) 39. - Von den Zeugen der Urkunde seien die Grafen Berthold von Andechs, Poppo von Henneberg, Wolfram von Wertheim und Hermann von Wohlbach sowie die Edelfreien Markward von Grumbach und Adalbert von Hohentrüdingen besonders genannt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0023" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%229603%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

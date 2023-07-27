@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1051</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-00_1_0_4_2_2_493_1051"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-00_1_0_4_2_2_493_1051"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-03-00_1_0_4_2_2_493_1051</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1051</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-03-01" to="1162-03-31">(1162 Ende März/Anfang April)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hugo</hi>  <hi rend="spaced">Soissons</hi></recipient>
+				
+				
+				
+					<scribe>Vielleicht verfaßt von Burchard</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schreibt an seinen Freund Bischof <span sameAs="recipient"><hi rend="spaced">Hugo</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Soissons</hi> </span>, den Kanzler des Königs Ludwig VII. von Frankreich, er habe aus zuverlässiger Quelle erfahren, daß sich der frühere Kanzler Roland (Papst Alexander III.) gemeinsam mit seinen Pseudokardinälen nach Frankreich eingeschifft habe, um dort Anhänger zu gewinnen und Gelder zur Begleichung seiner Schulden aufzutreiben. Er ermahnt ihn, diesen Schismatiker und Reichsfeind weder aufzunehmen noch aufnehmen zu lassen und auch auf den König (Ludwig VII.) in dieser Hinsicht einzuwirken. - <span n="clerk">Vielleicht verfaßt von Burchard</span>. <span n="incipit"><hi rend="italic">In veritate audivimus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In veritate audivimus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Bouquet - Brial, Recueil XVI (Nouv. éd., L. Delirie), 202 n<hi rend="sup">o</hi>  10; MG. DDF. I. Anhang I n<hi rend="sup">o</hi>  10.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Inhalt vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-01-21_1_0_4_2_2_459_1017.html" type="internal" n="regesten">1017</ref>  sowie Güterbock, Le lettere, Boll. dell'ist. stor. ital. 61 (1949) 32 ff.; zur Verfasserfrage Güterbock, ebda. sowie Riedmann, Reichskanzlei, MIÖG 76 (1968) 80 mit Anm. 28. Die zeitliche Einordnung hat sich allerdings doch wohl nach dem historischen Zusammenhang, d. h. nach der Abreise Alexanders III. von Genua nach Frankreich am 25. März 1162 zu richten, vgl. zuletzt Schmale, Friedrich I. und Ludwig VII., Zs. f. bayer. LG 31 (1968) 329 (mit irrigem Hinweis auf Bouquet - Brial, 202 n<hi rend="sup">o</hi>  11, recte n<hi rend="sup">o</hi>  10). - Vgl. dazu auch das Schreiben Rainalds von Dassel an Hugo von Soissons von (1162 Ende Mai), Bouquet - Brial, a. a. O., 202 n<hi rend="sup">o</hi>  11 sowie Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-07-15_2_0_4_2_2_178_736.html" type="internal" n="regesten">736</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0137" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2714</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-20_2_0_4_2_4_135_2714"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-20_2_0_4_2_4_135_2714"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-06-20_2_0_4_2_4_135_2714</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843760" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2714</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-06-20" to="1183-06-20">1183
+									Juni 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Konstanz (<hi rend="italic">XII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iulii, </hi> <hi rend="italic">apud Constantiam in sollempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>in den selbstständigen Partien von einem 									Angehörigen der Reichskanzlei, wohl von Robert, unter 									weitgehender Wiederholung von DF.I.129 (Reg. 370; VU. I) sowie 									unter Heranziehung des weitgehend gleich lautenden Privilegs</scribe>
+				
+				
+					<testis function="witnesses">Elekt 									Hermann von Konstanz, Bischof Hermann von Münster, Elekt 									Heinrich von Chur, Bischof Wilhelm von Asti, Abt Tiethelm von 									der Reichenau, König Heinrich (VI.), der Sohn des Kaisers, die 									Herzöge Friedrich von Schwaben, Welf (VI.), Otto von Bayern und 									Konrad von Spoleto, die Markgrafen Berthold von Andechs 									(Istrien) und Hermann von Baden, die Grafen Diepold von 									Lechsgemünd, Heinrich von Diez (<hi rend="italic">Diesche</hi>), 									Konrad von Heiligenberg und Ludwig von Sigmaringen, Burchard von 									Hohenburg und sein Bruder Friedrich, Ulrich von Kiburg, 									Friedrich und Berthold von (Hohen-)Zollern und Hartmann von 									Oberkirchberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Zisterzienserkloster St. Maria zu Salem</hi> (<hi rend="italic">dei genitricis semperque virginis Marię monasterium Salem</hi>) 								auf Bitten von dessen Abt Konrad und des gesamten Konvents sowie 								gemäß dem Vorbild seines Vorgängers, seines Oheims König Konrads 								(III.), in seinen Schutz. Er bestätigt ihm die namentlich 								angeführten Stiftungen seines ersten Gründers, des Edlen Guntram von 								Adelsreute, und die später erhaltenen, ebenfalls namentlich 								genannten Besitzungen, von denen der von Graf Heinrich von 								Heiligenberg übertragene Besitz zweimal durch Eid von den <hi rend="italic">conprovinciales</hi> bekräftigt, vom Grafen selbst 								auf dem feierlichen Hoftag in der Pfalz zu Konstanz bezeugt und von 								ihm (= dem Kaiser) bestätigt worden ist. Wegen der Zugehörigkeit zum 								Zisterzienserorden, der einzig und allein unter dem Schutz des 								Papstes steht, der wiederum unter der ausdrücklichen Vogtei des 								Kaisers steht (<hi rend="italic">cuius nos speciales advocati deo 									favente sumus</hi>), unterstellt er das Kloster der 								ausschließlichen kaiserlichen Vogtei. <span n="witnesses">Z.: Elekt 									Hermann von Konstanz, Bischof Hermann von Münster, Elekt 									Heinrich von Chur, Bischof Wilhelm von Asti, Abt Tiethelm von 									der Reichenau, König Heinrich (VI.), der Sohn des Kaisers, die 									Herzöge Friedrich von Schwaben, Welf (VI.), Otto von Bayern und 									Konrad von Spoleto, die Markgrafen Berthold von Andechs 									(Istrien) und Hermann von Baden, die Grafen Diepold von 									Lechsgemünd, Heinrich von Diez (<hi rend="italic">Diesche</hi>), 									Konrad von Heiligenberg und Ludwig von Sigmaringen, Burchard von 									Hohenburg und sein Bruder Friedrich, Ulrich von Kiburg, 									Friedrich und Berthold von (Hohen-)Zollern und Hartmann von 									Oberkirchberg </span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanię archicanc.</hi></span>; 									<span n="clerk">in den selbstständigen Partien von einem 									Angehörigen der Reichskanzlei, wohl von Robert, unter 									weitgehender Wiederholung von DF.I.129 (Reg. 370; VU. I) sowie 									unter Heranziehung des weitgehend gleich lautenden Privilegs 									Papst Eugens III. von 1142 Februar 2 (Jaffé-L. 8862; Germ. Pont. 									2/1, 161 n<hi rend="sup">o</hi> 2; VU. II) verfasst, von einem 									Empfängerschreiber mundiert, der auf dem Rücken des D. folgenden 									Vermerk eintrug</span>: <hi rend="italic">Privilegium generale 									Friderici imperatoris augusti datum Constantię in die 									conventionis et pacis factę inter imperatorem et consules 									civitatum Italie.</hi> 								<span n="seal">SP.2.</span> 								<span n="incipit"><hi rend="italic">Imperatorię maiestatis a.</hi> 								</span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorię maiestatis a.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe 								(A). Drucke: Weech, CD. Salemitanus 1, 41 n<hi rend="sup">o</hi> 26; MG.DF.I.847. Regg.: B.-Baaken Reg. 1p; Stumpf 								4359.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den unter den Zeugen genannten Grafen von 								Hohenburg (Kr. Tuttlingen) bzw. von (Hohen-)Zollern (Kr. Tuttlingen) 								vgl. Plassmann, Struktur des Hofes, 260 f. und 280 sowie 284; Graf 								Ludwig von Sigmaringen ist identisch mit Graf Ludwig von Helfenstein 								bzw. Spitzenberg (Kr. Göppingen), vgl. dazu Plassmann, a.a.O., 								269.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_847" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

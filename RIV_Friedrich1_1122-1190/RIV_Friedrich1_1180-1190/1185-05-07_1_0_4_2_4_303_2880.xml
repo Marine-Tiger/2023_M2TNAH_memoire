@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2880</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-07_1_0_4_2_4_303_2880"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-07_1_0_4_2_4_303_2880"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-05-07_1_0_4_2_4_303_2880</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2880</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-05-07" to="1185-05-07">1185
+									ab Mai 7 einen Monat lang</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Crema">Crema</placeName>
+												<location><geo decls="#WGS">45.3667, 9.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich begibt sich mit 100 Mailänder Rittern 								sowie mit Fußtruppen und dem Carroccio, weiters mit 200 Piacentiner 								Rittern, mit Truppen aus Bergamo und Brescia sowie mit einigen 								wenigen Rittern aus Vercelli, Verona, Tortona und Parma, Reggio 								(Emilia) und Modena, aus Bologna und Imola, Faenza, Caesarea 								(Alessandria) und Novara nach Crema. Er führt die Cremasken am 								Dienstag, dem 7. Mai, in ihren angestammten Ort und lässt Crema 								wieder errichten, wobei zahlreiche Bauern aus den Gebieten von 								Piacenza und Mailand mitwirken. Er verbleibt einen Monat lang mit 								seinem Heer bei Crema. Infolge des Wiederaufbaus kommt es zu einem 								Zerwürfnis des Kaisers mit den Cremonesen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Aquenses, MG. SS XXIV, 38 (zu 1183); 								Ann. Plac. Gib., MG. SS XVIII, 465 (zu Mai 7); Notae s. Georgii 								Mediol., MG. SS XVIII, 387 (zu Mai 7); Ann. Bergomates, MG. SS XXXI, 								329; Ann. Brixienses, MG. SS XVIII, 814 (zu Mai 8); Ann. 								Mediolanenses minores, MG. SS XVIII, 396 (zu Mai 6); Ann. Parmenses 								maiores, MG. SS XVIII, 665 (zu März); Ann. Veron. antiqui, ed. 								Cipolla, Bull. dell’ist. stor. ital. 29 (1908) 42 (zu April 30); 								Ann. Cremonenses, MG. SS XXXI, 6 f.; Ann. s. Rudberti Salisburg., 								MG. SS IX, 777 (zu 1186); Chron. reg. Col., ed. Waitz, MG. SS rer. 								Germ. in us. schol., 134; Hermanni Altah. Ann., MG. SS XVII, 384 (zu 								1186); Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. in us. 								schol., 12 f. (zu Mai 7); Salimbene de Adamo von Parma, Chronica, 								MG. SS XXXII, 3 (zu 1183; mit der irrigen Bemerkung, der Kaiser sei 								damals nach Italien zurückgekehrt) und 4 (zu 1183; der Bologneser 								Podestà Prendiparte sendet Ritter zum Kaiser nach Crema); Sicardi 								ep. Cremon. Cronica, MG. SS XXXI, 168 (mit der irrigen Bemerkung, 								der Kaiser sei 1185 nach Italien zurückgekehrt); Alberti Milioli 								Cron. imp., MG. SS XXXI, 644; Alberti Milioli notarii Regini Liber 								de temporibus, MG. SS XXXI, 450 (der Bologneser Podestà Prendiparte 								sendet Ritter zum Kaiser nach Crema). – Zu einer epigraphischen 								Quelle vgl. Castignoli, La cronaca del Codagnello, in: Crema 1185, 								Una contrastata autonomia politica e territoriale (Centro culturale 								S. Agostino, Quaderno 5, 1988) 202 f.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Wiedererrichtung von Crema vgl. insbesondere 								die Beiträge in dem Sammelband: Crema 1185. Una contrastata 								autonomia politica e territoriale (Centro Culturale S. Agostino, 								Quaderno 5, Crema 1988), sowie Opll, Friedrich Barbarossa als 								Gründer von italienischen Städten, MIÖG 118 (2010), 47–60. – Zu den 								Spannungen zwischen dem Herrscher und Cremona vgl. auch unten Reg. 								2896.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

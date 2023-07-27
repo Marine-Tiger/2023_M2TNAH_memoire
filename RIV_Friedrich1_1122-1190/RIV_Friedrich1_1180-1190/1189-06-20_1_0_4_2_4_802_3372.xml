@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3372</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-06-20_1_0_4_2_4_802_3372"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-06-20_1_0_4_2_4_802_3372"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-06-20_1_0_4_2_4_802_3372</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3372</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-06-20" to="1189-06-20">1189
+									Juni 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Borgo San Donnino">Borgo San Donnino</placeName>
+												<location><geo decls="#WGS">44.8667, 10.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich, <hi rend="italic">missus</hi> Kaiser 								Friedrichs und König Heinrichs (VI.) in Borgo San Donnino, fällt ein 								Urteil in einem Rechtsstreit zwischen Äbtissin Anastasia von S. 								Maria Theodota zu Pavia und dem Albertus de <hi rend="italic">Rodula</hi>. Dabei wird im Hinblick auf die seitens der 								früheren Äbtissin Doda zu Unrecht dem klösterlichen Besitz 								entfremdeten Güter zu Recht für das Klosters erkannt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cavagna Sangiuliani, Documenti Vogheresi, 								BSSS 47 (1910) 250 f. n<hi rend="sup">o</hi> 164.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Haverkamp, Herrschaftsformen, 646 f. Anm. 								171. – Während die Aufnahme dieser Urkunde in die Regesta Imperii 								Friedrichs I. infolge des Bezuges auf Kaiser Friedrich und den 								Thronfolger, König Heinrich, noch gerechtfertigt ist (es handelt 								sich freilich nur mehr bedingt um einen Beleg für die 								Reichsverwaltung unter Friedrich Barbarossa!), trifft dies bei einer 								Urkunde, die Gualfred von Turricella (aus Pavia) am 20. November 								1189 in Parma im Auftrag des Reichslegaten und Marschalls Heinrich 								Testa für das Kloster S. Maria Theodota zu Pavia ausstellen ließ, 								nicht mehr im selben Umfang zu, vgl. dazu unten Reg. 3415. Bereits 								auf die Reichsverwaltung unter dem Thronfolger zu beziehen sind zwei 								Urkunden des Reichslegaten Heinrich Testa von 1190 Februar 5, – 								(Privilegienbestätigung für Lodi), ed. Vignati, CD. Laudense II, 166 								no 144 (bezeichnet H. Testa im Kopfregest irrig als Reichslegaten 								Kaiser Heinrichs VI. in Italien, während es im Urkundetext lautet: 									<hi rend="italic">H. Testa dei gratia imperialis et regalis aule 									marescalcus et in Italia legatus</hi>), sowie – in seiner 								Funktion als Marschall König Heinrichs (VI.) und in dessen Auftrag 								Reichslegat für die ganze Toskana – von 1190 März 20, Borgo San 								Genesio <hi rend="italic">in domo Philippi quondam Brustani</hi>, 								für Bischof Hildebrand von Volterra, ed. Lami, Sanctae Ecclesiae 								Florentinae Monumenta 1 (1758) 343 (zu dieser Urkunde vgl. 								Davidsohn, Geschichte I, 590 f., und Haverkamp, a.a.O., 122 f. mit 								Anm. 56, 256 f. und 584).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

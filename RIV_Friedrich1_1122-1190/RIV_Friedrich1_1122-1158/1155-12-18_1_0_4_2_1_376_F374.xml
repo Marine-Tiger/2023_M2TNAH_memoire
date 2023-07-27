@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †374</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-12-18_1_0_4_2_1_376_F374"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-12-18_1_0_4_2_1_376_F374"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-12-18_1_0_4_2_1_376_F374</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238881" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †374</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-12-18" to="1155-12-18">1155 Dezember 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Trifels</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV kal. ianuarii, Trivelis)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hördt</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung eines Privilegs Innozenz' II. von 1139 April 26 (Germ. pont. 3/3, 101 n<hi rend="sup">o</hi>  2; VU. I) und der Urkunde Bischof Johanns von Speyer über die Gründung des Stiftes von 1103 Februar 9 (Roth v. Schreckenstein, Select der ältesten Urkund</scribe>
+				
+				
+					<testis function="witnesses">Bischof Gunther von Speyer, Abt Engelschalk von Weißenburg, Propst Widekind des Dreifaltigkeitsstiftes (in Speyer), Kanoniker Theoderich von Speyer, Notar Heinrich, Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, Graf Emicho von Leiningen, Helmger, Ulrich, Wolfram, Konrad, Berthold, Wecil, Walther, Sigeboto</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt in einer Urkunde zweifelhafter Geltung das Augustiner-Chorherrenstift <span sameAs="recipient"><hi rend="spaced">Hördt</hi> </span>  (<hi rend="italic">Herdensem itaque ęcclesiam in honore beatę dei genitricis et perpetuę virginis Marię constructam</hi>) in seinen Schutz, bestätigt die Besitzungen, den Domvogt von Speyer als zuständigen Vogt, verbietet die Einsetzung eines Untervogtes, verfügt, daß die anfallenden Gebühren zu zwei Dritteln an den Propst von Hördt und zu einem Drittel an den Vogt fallen sollen, und setzt die dem Vogt zu leistenden Abgaben während des zweimal im Winter und einmal im Sommer zu haltenden Gerichtstages im einzelnen fest. Außerdem bestätigt er die auf Bitten Heinrichs III. (=IV.) erfolgte Übergabe des Stiftes an die Speyerer Domkirche durch den Gründer Hermann (von Spiegelberg), wobei die Einkünfte dem Stift zugute kommen sollen, ordnet das rechtliche Verhältnis zwischen dem Propst und dem Bischof (<hi rend="italic">prelatus a fratribus canonice electus episcopo non hominium faciat, sed curam tantum ab ipso suscipiat</hi>), gewährt das Asylrecht sowie das Recht zum Klostereintritt für alle mit Ausnahme der Hörigen (<hi rend="italic">Insuper quisquis terminos prefixos quacumque occasione intraverit, nisi forte iudiciali sententia dampnatus, donec inde exeat, pacem habeat; quisquis etiam seculum proponit relinquere et ad meliorem vitam ad idem cenobium confugere exceptis quorumlibet mancipiis, nemo illum presumat ledere aut retrahere</hi>) und setzt als Strafe 4 Pfund Goldes für Edelfreie und Ministerialen sowie das Scheren der Haare und die Prügelstrafe oder 60 Solidi für die übrigen fest. <span n="witnesses">Z.: Bischof Gunther von Speyer, Abt Engelschalk von Weißenburg, Propst Widekind des Dreifaltigkeitsstiftes (in Speyer), Kanoniker Theoderich von Speyer, Notar Heinrich, Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, Graf Emicho von Leiningen, Helmger, Ulrich, Wolfram, Konrad, Berthold, Wecil, Walther, Sigeboto</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung eines Privilegs Innozenz' II. von 1139 April 26 (Germ. pont. 3/3, 101 n<hi rend="sup">o</hi>  2; VU. I) und der Urkunde Bischof Johanns von Speyer über die Gründung des Stiftes von 1103 Februar 9 (Roth v. Schreckenstein, Select der ältesten Urkunden II., ZGORh 32, 1880, 62 n<hi rend="sup">o</hi>  3; VU. II), bis auf die von AH (Albert) stammende Signumzeile, Rekognition und das Monogramm wohl von einem Speyerer Empfängerschreiber verfaßt und geschrieben</span>; <span n="seal">SI.</span>  <span n="incipit"><hi rend="italic">Quia dei cooperante</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia dei cooperante</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Urkunde zweifelhafter Geltung</hi> : Hauptstaatsarchiv München (A). Kop.: Originaltranssumpt Kaiser Karls IV. von 1348 Januar 7 (B.-Huber, Reg. n<hi rend="sup">o</hi>  540) ebenda (B). Drucke: Lamey, Chur-Pfälz. Reichsvicariat 57; MG. DF. I. 130. Reg.: Biundo, Reg. von Hördt 4 n<hi rend="sup">o</hi>  10 zu 1155 Dez. 19 mit Angabe weiterer kopialer Überlieferungen; Stumpf 3732.</p></div>
+				
+				
+					<div type="commentary"><p>Das Siegel ist kein Abdruck des allein üblichen kaiserlichen Stempels, sondern ein in der Ausführung einigermaßen primitiv geratener Nachschnitt, vgl. Posse, Siegel der deutschen Kaiser und Könige 2, 49 n<hi rend="sup">o</hi>  4 sowie 5, 118 n<hi rend="sup">o</hi>  1. Zur Entwicklung der Vogteiverhältnisse des Stiftes vgl. Büttner, Vogteientwicklung, ZGORh 88 = N. F. 49 (1936) 341 ff. und Doll, Vogtei im Hochstift Speyer, ZGORh 117 = N. F. 78 (1969) 268 f. Zum Zeugen Konrad, Pfalzgraf bei Rhein, vgl. neben der Vorbemerkung zu DF. I. 130 auch Gerstner, Pfalzgrafschaft (Rhein. A. 40, 1941) 84 f. und Brinken, Politik Konrads von Staufen (Rhein. A. 92, 1974) 38 ff. Nachurkunde Heinrichs VI. von 1195 September 25, B.-Baaken, Reg. n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-08-03_2_0_4_2_1_475_F473.html" type="internal" n="regesten">473</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0123" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_130" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

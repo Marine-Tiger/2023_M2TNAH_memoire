@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1742</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-09-29_1_0_4_2_2_1187_1742"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-09-29_1_0_4_2_2_1187_1742"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-09-29_1_0_4_2_2_1187_1742</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1358508851" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1742</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-09-29" to="1167-09-29">1167 (irrig 1164) September 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">Grontortum</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erobert und zerstört mit Hilfe der Pavesen die Burg <hi rend="italic">Grontortum</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Plac. Gib., MG. SS XVIII, 462.</p></div>
+				
+				
+					<div type="commentary"><p>Zur richtigen zeitlichen Einordnung vgl. Opll, Itinerar, 35 mit Anm. 11. - Zum Feldzug ins Gebiet von Piacenza vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-26_8_0_4_2_2_1185_1740.html" type="internal" n="regesten">1740</ref>  und die folgenden Regg. - Das Tagesdatum paßt gut zu den sonst bekannten Nachrichten; ob allerdings wirklich an einem Tag fünf Burgen zerstört wurden, bleibt ungeklärt. - <hi rend="italic">Grontortum</hi>  konnte nicht lokalisiert werden, muß aber im Gebiet von Piacenza liegen.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Über die Verwüstungszüge des Kaisers, die er mit Unterstützung der Pavesen um den 29. September (1167) im Gebiet von Piacenza durchführte, berichten auch eine Reihe von Zeugen in einem Verhör, das vom Reichskanzler Gottfried in seiner Eigenschaft als Legat für Italien bestellte Richter am 15. November 1184 in Pavia protokollieren ließen; dabei wird von der Zerstörung von <hi rend="kursiv">Grontortum</hi> und S. Marciano berichtet; vgl. dazu Bollea, Documenti degli Archivi di Pavia relativi alla storia di Voghera, BSSS 46 (1909) 173 n<hi rend="hoch">o</hi> 57 (besonders S. 175, 176, 179) und 183 n<hi rend="hoch">o</hi> 58 (besonders S. 193).
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die historiographische Nachricht über die Eroberung/Zerstörung der Burg Grognumtortum (= Grintorto) im Gebiet von Piacenza am 29. September 1167 ist durch Angaben in Zeugenverhören über die Festlegung der Grenze zwischen Pavia und Piacenza von 1184 November 15, Pavia, zu ergänzen (siehe dazu Regg. 2813 und 2819), Bollea, Documenti degli archivi di Pavia relativi alla storia di Voghera, BSSS 46 (1910) 156, 159, 166 und 167 (Nr. 55) sowie 190 f. und 193 (Nr. 58); zur Identifizierung der Ortsangabe vgl. Storia di Piacenza Vol. II (1984) 158. – Zu diesen Zeugenverhören vgl. jetzt ausführlich Opll, Zwang und Willkür.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0308" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

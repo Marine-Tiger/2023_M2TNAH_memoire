@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1529</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-12-29_1_0_4_2_2_971_1529"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1165-12-29_1_0_4_2_2_971_1529"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1165-12-29_1_0_4_2_2_971_1529</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247174" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1529</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1165-12-29" to="1165-12-29">1165 Dezember 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Kaiserpfalz zu Aachen</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(quarto kalendas ianuarii, Aquisgrani in palatio imperiali)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bonne-Espérance</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus sacri palatii canc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln (<hi rend="italic">dominus Rainoldus venerabilis Coloniensis archiepiscopus</hi>), die Bischöfe Alexander von Lüttich, Evergis von Paderborn, Werner von Minden, Gottfried von Utrecht und Nikolaus von Cambrai; des weiteren die Reichsfürsten: die Herzoge Gottfried von Löwen, Matthäus von Lothringen und Heinrich von Limburg (<hi rend="italic">Ardennę dux</hi>), die Grafen Heinrich von Namur und Heinrich von Geldern</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Prämonstratenserstift <span sameAs="recipient"><hi rend="spaced">Bonne-Espérance</hi> </span>  unter Abt Philipp auf Bitten Erzbischof Rainalds von Köln und des Bruders Arnold von Bonne-Espérance auf dem zur Erhebung der Gebeine des allerheiligsten Kaisers Karl (des Großen) zu Aachen abgehaltenen Hoftag in seinen Schutz und bestätigt ihm die namentlich genannten Besitzungen, behält sich jedoch in allem die kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: Erzbischof Rainald von Köln (<hi rend="italic">dominus Rainoldus venerabilis Coloniensis archiepiscopus</hi>), die Bischöfe Alexander von Lüttich, Evergis von Paderborn, Werner von Minden, Gottfried von Utrecht und Nikolaus von Cambrai; des weiteren die Reichsfürsten: die Herzoge Gottfried von Löwen, Matthäus von Lothringen und Heinrich von Limburg (<hi rend="italic">Ardennę dux</hi>), die Grafen Heinrich von Namur und Heinrich von Geldern</span>. - <span n="chancellor"><hi rend="italic">Christianus sacri palatii canc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH</span>. <span n="incipit"><hi rend="italic">Decet munificentiam principalem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet munificentiam principalem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 17. Jh. aus dem verlorenen Chartular des 13.-14. Jh. f. 35 in dem auf Veranlassung des Abtes Engelbert Maghe seit 1679 angelegten Chartular von Bonne-Espérance Bd. 1 p. 546, Petit Séminaire zu Bonne-Espérance (C); unvollständige beglaubigte Abschrift von 1687 aus dem verlorenen Chartular f. 108' im Ms. lat 10.167 p. 12, Nationalbibliothek Paris (D). Drucke: Muller-Bouman, OB. Sticht Utrecht 1, 406 n<hi rend="sup">o</hi>  452; MG. DF. I. 500. Reg.: Wauters, Table chronol. 2, 464 und 473; Stumpf 4059.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. Herkenrath, Reinald, MIÖG 72 (1964) 49 ff. und ders., Magistertitel, MIÖG 88 (1980) 32. - Iacobi de Guisia Annales Hanoniae l. XVII cap. 28, MG. SS XXX/1, 219 berichten, Abt Philipp de Harveng von Bonne-Espérance habe sich während seiner Regierungszeit brieflich an den Kaiser gewendet, was wohl mit der Ausstellung des hier behandelten D. in Zusammenhang zu sehen ist.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0256" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_500" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

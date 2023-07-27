@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3188</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-01_1_0_4_2_4_614_3188"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-09-01_1_0_4_2_4_614_3188"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-09-01_1_0_4_2_4_614_3188</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848534" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3188</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-09-01" to="1188-09-01">1188
+									September 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Allstedt (<hi rend="italic">kal. septembris, apud Alstede</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vicę </hi>(!)<hi rend="italic"> Conradi Maguntini archiep. Germanie 										archicanc.</hi></notarius>
+				
+				
+					<scribe>unter 									Heranziehung von D.171 (Reg. 462; VU.) in der Kanzlei verfasst, 									geschrieben von GI.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die Bischöfe Adelhog von 									Hildesheim, Berthold von Naumburg und Martin von Meißen, Rudolf, 									Protonotar des kaiserlichen Hofes, Propst Konrad von Meißen, 									Konrad, Kapellan des kaiserlichen Hofes und Bruder Burggraf 									(Burchards) von Magdeburg, Burggraf Burchard von Magdeburg, die 									Grafen Burchard von Wöltingerode, Sigbodo von Scharzfeld, 									Friedrich von Beichlingen, Edelger von Hohnstein sowie Graf 									Ludwig von Lohra und sein Bruder Graf Bernger, Albert von 									Hildenburg, Albert von Grumbach, Hugold von Kiffhausen (<hi rend="italic">Cuphese</hi>), Lupold von Herzberg und sein 									Bruder Heinrich, Mundschenk Konrad, Marschall Eckbert (von 									[Kaisers-]Lautern), Truchsess Hugo (von Sulz) und Kämmerer 									Konrad</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Zisterzienserkloster Walkenried</hi> (<hi rend="italic">dei 									genitrici semper virgini Marię in cenobio Walkenredensi</hi>) 								mit all seinen Besitzungen in seinen Schutz. Er bestätigt ihm das 								Recht der freien Abtwahl, das Recht, mit Leuten und Ministerialen 								des Reiches Güter bis zu drei Hufen einzutauschen, wobei der Vorteil 								allerdings auf Seiten des Reiches liegen muss, sowie die beiden 								Grangien Berrungen (<hi rend="italic">Beringin</hi>) und Berbisleben 									(<hi rend="italic">Bermisleue</hi>) und die Häuser im Harz (<hi rend="italic">casas in nemore Harte</hi>). <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die Bischöfe Adelhog von 									Hildesheim, Berthold von Naumburg und Martin von Meißen, Rudolf, 									Protonotar des kaiserlichen Hofes, Propst Konrad von Meißen, 									Konrad, Kapellan des kaiserlichen Hofes und Bruder Burggraf 									(Burchards) von Magdeburg, Burggraf Burchard von Magdeburg, die 									Grafen Burchard von Wöltingerode, Sigbodo von Scharzfeld, 									Friedrich von Beichlingen, Edelger von Hohnstein sowie Graf 									Ludwig von Lohra und sein Bruder Graf Bernger, Albert von 									Hildenburg, Albert von Grumbach, Hugold von Kiffhausen (<hi rend="italic">Cuphese</hi>), Lupold von Herzberg und sein 									Bruder Heinrich, Mundschenk Konrad, Marschall Eckbert (von 									[Kaisers-]Lautern), Truchsess Hugo (von Sulz) und Kämmerer 									Konrad</span>. –<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vicę </hi>(!)<hi rend="italic"> Conradi Maguntini archiep. Germanie 										archicanc.</hi></span>;<span n="clerk"> unter 									Heranziehung von D.171 (Reg. 462; VU.) in der Kanzlei verfasst, 									geschrieben von GI.</span>; <span n="seal"> SP.2</span>. <span n="incipit"><hi rend="italic">Si locis divino</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si locis divino</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Wolfenbüttel (heute: 								Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel) 								(A). Drucke: UB. d. Hist. Vereins f. Niedersachsen 2<hi rend="sup">a</hi>, 27 n<hi rend="sup">o</hi> 27; 								MG.DF.I.979. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 794; Dolch – Münch, UB. der Stadt Kaiserslautern 1, 64 									n<hi rend="sup">o</hi> 61; Stumpf 4500.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. wird auch bei Eckstorm, Chron. 								Walkenredense (1617) 55, erwähnt. – Der als Spitzenzeuge genannte 								Erzbischof Konrad von Mainz urkundete im August 1188 in Goslar, doch 								lässt sich dieser Aufenthalt nicht mit dem Itinerar des Kaisers 								verbinden, vgl. Acht, Mainzer UB. II/2, 831 no 510 mit Vorbemerkung. 								– Zu dem unter den Zeugen genannten Grafen Adelger (auch: Edelger) 								von Hohnstein bzw. Ilfeld vgl. Plassmann, Struktur des Hofes, 236; 								der gleichfalls als Zeuge genannte Mundschenk Konrad ist nach 								Plassmann, a.a.O., 282 nicht mit dem sonst häufig als Zeugen 								angeführten Konrad von Oberschüpf identisch.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_979" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

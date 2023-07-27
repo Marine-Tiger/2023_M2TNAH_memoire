@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 70</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-09_1_0_4_2_1_70_70"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-09_1_0_4_2_1_70_70"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-03-09_1_0_4_2_1_70_70</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235325" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 70</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-03-09" to="1152-03-14">1152 (März 9-14)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Aachen  (Aquisgrani)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lüttich</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und wahrscheinlich auch mundiert von Heribert</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Hillin von Trier (<hi rend="italic">Triuirensis</hi>), die Bischöfe Heinrich von Lüttich, Eberhard von Bamberg, Otto von Freising, Hermann von Konstanz, Ortlieb von Basel, Friedrich von Münster, Abt Wibald von Stablo, Herzog Heinrich von Sachsen, Welf von Ravensburg (<hi rend="italic">Rauenesber</hi>), Markgraf Albrecht und Herzog Matthäus von Lothringen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich legt auf Grund eines unter Konrad III. erneuerten Urteilsspruches des Hofgerichts die Rechte der Vögte des Domkapitels zu <span sameAs="recipient"><hi rend="spaced">Lüttich</hi> </span>  (<hi rend="italic">ius advocatorum et terminum iuris eorum</hi>) fest, bestimmt, daß die Vogtei nur der mit dem Königsbann Belehnte (<hi rend="italic">nisi quem constaret bannum regie auctoritatis habere</hi>) ausüben dürfe, verbietet das Eintreiben von Abgaben in einer Höhe, die dem Zeugnis und den Urkunden der Schöffen und Dorfbewohner (<hi rend="italic">quod auctoritas privilegiorum et testimonium scabinorum et villarum fidelium perhiberet veraci attestatione</hi>) widerspricht und bestätigt die Privilegien der Stadt und des Stiftes, die durch seinen Oheim erneuert worden sind. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Hillin von Trier (<hi rend="italic">Triuirensis</hi>), die Bischöfe Heinrich von Lüttich, Eberhard von Bamberg, Otto von Freising, Hermann von Konstanz, Ortlieb von Basel, Friedrich von Münster, Abt Wibald von Stablo, Herzog Heinrich von Sachsen, Welf von Ravensburg (<hi rend="italic">Rauenesber</hi>), Markgraf Albrecht und Herzog Matthäus von Lothringen</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und wahrscheinlich auch mundiert von Heribert</span>. <span n="incipit"><hi rend="italic">Sicut divina preordinante</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut divina preordinante</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Liber chartarum ecclesiae Leodiensis Ende 13. Jh. f. 69 n<hi rend="sup">o</hi>  6, Staatsarchiv Lüttich, 1944 durch Kriegseinwirkung vernichtet (B); Liber primus chartarum ecclesiae Leodiensis 14. Jh. f. 44 n<hi rend="sup">o</hi>  6 ebenda (C). Drucke: Bormans - Schoolmeesters, Cart. de S. Lambert de Liège 1, 71 n<hi rend="sup">o</hi>  43; MG. DF. I. 4. Reg.: Wauters, Table chronol. 2, 736; Poncelet, Cart. de S. Lambert de Liège 6, 4 n<hi rend="sup">o</hi>  14; Stumpf 3619.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Bezeichnung Friedrichs als erster seines Namens vgl. die Vorbemerkung zum vorliegenden D. - Bei der Erneuerung der Privilegien durch Konrad III., die Friedrich hier bestätigt, handelt es sich um ein Deperditum.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0027" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_4" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

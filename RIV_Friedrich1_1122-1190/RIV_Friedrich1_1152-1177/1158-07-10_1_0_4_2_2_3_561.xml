@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 561</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-07-10_1_0_4_2_2_3_561"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-07-10_1_0_4_2_2_3_561"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-07-10_1_0_4_2_2_3_561</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240866" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 561</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-07-10" to="1158-07-10">1158 Juli 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>am Mincio zwischen Volta und Valeggio</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI<hi rend="sup">o</hi>  idus iulii, super Mintium fluvium inter Uoltam et Valez)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hospital zu Mantua</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Fritherici Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von Rainald H</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Friedrich von Köln, Erzkanzler für das Königreich Italien, Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, Hermann von Verden, Konrad von Eichstätt, Daniel von Prag, Garsendonius von Mantua und Ognibene von Verona, König Vladislav (<hi rend="italic">Ladizlaus</hi>) von Böhmen, die Herzoge Heinrich von Österreich, Friedrich von Schwaben und Theobald von Böhmen, Pfalzgraf Konrad bei Rhein, Markgraf Dietrich (von der Lausitz), Pfalzgraf Adalbert (von Sommerschenburg/von Sachsen) außerdem Patriarch Pilgrim von Aquileia und die Bischöfe (Ubert) von Vicenza, (Ulrich) von Treviso und (Gerwich) von Concordia sowie zahlreiche andere Fürsten Deutschlands und Italiens</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das zu Ehren des Erlösers und aller Heiligen erbaute <span sameAs="recipient"><hi rend="spaced">Hospital zu Mantua</hi> </span>  in seinen Schutz und befreit den Prior Johannes Bellus und alle Brüder vom Kalumnieneid bei zivilen Rechtsgeschäften (<hi rend="italic">in omni civili negocio perorando a sacramento calumpnię absolvimus</hi>). <span n="witnesses">Z.: Erzbischof Friedrich von Köln, Erzkanzler für das Königreich Italien, Erzbischof Arnold von Mainz, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, Hermann von Verden, Konrad von Eichstätt, Daniel von Prag, Garsendonius von Mantua und Ognibene von Verona, König Vladislav (<hi rend="italic">Ladizlaus</hi>) von Böhmen, die Herzoge Heinrich von Österreich, Friedrich von Schwaben und Theobald von Böhmen, Pfalzgraf Konrad bei Rhein, Markgraf Dietrich (von der Lausitz), Pfalzgraf Adalbert (von Sommerschenburg/von Sachsen) außerdem Patriarch Pilgrim von Aquileia und die Bischöfe (Ubert) von Vicenza, (Ulrich) von Treviso und (Gerwich) von Concordia sowie zahlreiche andere Fürsten Deutschlands und Italiens</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Fritherici Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von Rainald H</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Notum esse volumus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mailand (A). Drucke: Böhmer, Acta imp. 97 n<hi rend="sup">o</hi>  104; MG. DF. I. 221. Reg.: Torelli, Reg. Mantovano 1, 208 n<hi rend="sup">o</hi>  304; Stumpf 3815.</p></div>
+				
+				
+					<div type="commentary"><p>Einige auffällige Abweichungen von der Norm hinsichtlich der äußeren und inneren Merkmale des D. erklären sich aus dem ersten Auftreten des neuen Kanzleinotars, der mit Rainald von Dassel in engster Verbindung steht, vgl. dazu Herkenrath, Reinald, MIÖG 72 (1964) 38 ff. und die Vorbemerkung zum D. - Das Hospital gehörte dem Kloster S. Benedetto Po (di Polirone), vgl. Ital. Pont. 7, 318.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0017" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_221" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

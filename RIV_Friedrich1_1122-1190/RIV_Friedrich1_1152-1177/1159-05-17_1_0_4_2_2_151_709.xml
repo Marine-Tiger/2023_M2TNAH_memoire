@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 709</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-17_1_0_4_2_2_151_709"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-05-17_1_0_4_2_2_151_709"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-05-17_1_0_4_2_2_151_709</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242039" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 709</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-05-17" to="1159-05-17">1159 Mai 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Melegnano an der Vettabbia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(sextodecimo kalendas iunii, in territorio Mediolanensi iuxta Melegnanum super Vitabbam)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Tinto Mussade Gatta von Cremona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Raynaldus canz.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RH</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Eberhard (<hi rend="italic">Hebeahrdus</hi>) von Bamberg und Daniel von Prag, Friedrich, der Sohn König Konrads (III. und Herzog von Schwaben), Pfalzgraf Konrad (bei Rhein), der Bruder des Kaisers, die Pfalzgrafen Otto und Friedrich (von Wittelsbach), Marsilius de Persico aus Cremona und Wilhelm Bucca de Torculo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert den <span sameAs="recipient"><hi rend="spaced">Tinto Mussade Gatta von Cremona</hi> </span>  wegen seiner großen Verdienste nach Grafschaftsrecht (<hi rend="italic">iure comitatus</hi>) mit allen Gerechtsamen hinsichtlich seiner Besitzungen, verleiht ihm und seinen Erben daselbst entsprechend seiner gräflichen Stellung die Gewalt eines Königsboten mit dem Recht zur Entscheidung von Streitigkeiten, zur Durchführung von Verkäufen und Restitutionen sowie der Schirmgewalt über Witwen und Waisen, verpflichtet die Vasallen auf den von ihm oder seinem Vater erworbenen Besitzungen zur Leistung des Lehnseides für ihre Lehen binnen eines Jahres und unterstellt ihm die Arimannen auf seinen Besitzungen. <span n="witnesses">Z.: die Bischöfe Eberhard (<hi rend="italic">Hebeahrdus</hi>) von Bamberg und Daniel von Prag, Friedrich, der Sohn König Konrads (III. und Herzog von Schwaben), Pfalzgraf Konrad (bei Rhein), der Bruder des Kaisers, die Pfalzgrafen Otto und Friedrich (von Wittelsbach), Marsilius de Persico aus Cremona und Wilhelm Bucca de Torculo</span>. - <span n="chancellor"><hi rend="italic">Raynaldus canz.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RH</span>. <span n="incipit"><hi rend="italic">Imperialis munificentie congruere</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis munificentie congruere</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 16. Jh. im Cod. G 94 f. 223, Biblioteca Valicelliana zu Rom (D). Drucke: Böhmer, Acta imp. 98 n<hi rend="sup">o</hi>  106; MG. DF. I. 271. Reg.: Astegiano, CD. Cremonae 1, 124 n<hi rend="sup">o</hi>  187; Stumpf 3854.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. zum D. Haverkamp, Herrschaftsformen, 367.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0056" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_271" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

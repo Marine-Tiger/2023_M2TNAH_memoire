@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2746</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-00-00_1_0_4_2_4_167_2746"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-00-00_1_0_4_2_4_167_2746"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-00-00_1_0_4_2_4_167_2746</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2746</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-05-06" to="1184-02-01">(nach
+								1182 Mai 6/12, spätestens 1184
+								Anfang)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entsendet Erzbischof Siegfried von Bremen 								und andere Edle als Legaten an König Knut von Dänemark, der nach dem 								Tod seines Vaters, König Waldemars, auf dem dänischen Thron 								nachgefolgt ist, um die Schwester Knuts, die im Vorjahr mit dem Sohn 								des Kaisers (Herzog Friedrich von Schwaben) verlobt worden war, und 								einen Teil der vereinbarten Mitgift (siehe Reg. 2618) abzuholen. An 								der Eider übergibt König Knut den kaiserlichen Legaten, die mit 								ihrem stattlichen Gefolge drei Tage lang von Graf Adolf (von 								Schauenburg-Holstein) bestens bewirtet worden waren, in unwürdiger 								und schmählicher Weise seine Schwester, die höchst bescheiden 								ausgestattet ist, und bezahlt nur einen Teil der vereinbarten 								Mitgift. Er betont, dies nur deshalb zu tun, weil sich sein Vater 								eidlich dazu verpflichtet habe.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. III cap. 2, MG. SS 								XXI, 143.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Giesebrecht – Simson, Kaiserzeit VI, 43 								f., und Weller, Heiratspolitik, 133. – Die zeitliche Einordnung 								haben wir nach dem Vorbild der Edition der Chronik Arnolds von 								Lübeck vorgenommen; <hi rend="italic">terminus post quem </hi>ist in 								jedem Fall der Tod König Waldemars von Dänemark am 6. oder 12. Mai 								1182, siehe dazu oben Reg. 2654; der Hinweis auf die Verlobung des 								Kaisersohnes mit der Dänenprinzessin „im Vorjahr” (vgl. dazu oben 								Regg. 2614 und 2618) würde allerdings für eine Einreihung zu 1183 								sprechen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

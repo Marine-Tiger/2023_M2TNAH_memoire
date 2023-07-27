@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3413</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-19_3_0_4_2_4_843_3413"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-19_3_0_4_2_4_843_3413"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-19_3_0_4_2_4_843_3413</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3413</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-19" to="1189-11-19">(1189
+									November 16–19)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Philippopel/Plovdiv bzw. unweit Adrianopel/Edirne)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Nach 									der engen stilistischen Verwandtschaft mit DD.1008 und 1009 wohl 									von Gottfried K verfasst</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet <hi rend="spaced">Herzog</hi> 								<hi rend="spaced">Leopold (V.) von Österreich</hi> über den Bruch 								der in Nürnberg (Reg. 3215) in Gegenwart der Reichsfürsten durch den 								byzantinischen Kanzler gegebenen Zusagen hinsichtlich des sicheren 								Durchzugs durch das byzantinische Reich seitens des Kaisers (Isaak 								Angelos) und über die Gefangennahme und nach langwierigen 								Verhandlungen am 28. Oktober (<hi rend="italic">in festo Simonis et 									Iudę</hi>) erfolgte Freilassung seiner Gesandten, nämlich 								Bischof (Hermanns) von Münster, Graf Ruperts (von Nassau) und seines 								Kämmerers Markward (von Neuenburg), durch die Byzantiner, wobei 								abermals Zusagen hinsichtlich Sicherstellung der Verpflegung und des 								Geldwechsels gegeben worden sind. Er teilt ihm mit, er wolle in 								Philippopel und Adrianopel überwintern und dann gegen Konstantinopel 								marschieren. Er bittet ihn, für das Gelingen des Kreuzzuges zu 								beten, und ersucht ihn um Weiterleitung eines Schreibens an den 								Papst (Clemens III., vgl. Reg. 3412). –<span n="clerk"> Nach 									der engen stilistischen Verwandtschaft mit DD.1008 und 1009 wohl 									von Gottfried K verfasst</span>.<span n="incipit"> 									<hi rend="italic">Significandum duximus dilectioni</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Significandum duximus dilectioni</hi></p></div>
+				
+				
+					<div type="transmission"><p>Drucke: Fichtenau – Dienst, UB. z. Gesch. der 								Babenberger 4/1, 207 n<hi rend="sup">o</hi> 894; MG.DF.I.1010.</p></div>
+				
+				
+					<div type="commentary"><p>Das Stück ist nur in einem Druck bei Aventin aus 								dem Jahre 1522 überliefert, vgl. dazu die Vorbemerkung zum D. – Im 								Bericht über die vom Kaiser am 19. November zurück ins Reich 								geschickten Boten (Reg. 3414) heißt es, dass auch an die 								Reichsfürsten Botschaften geschickt wurden. Herzog Leopold hatte in 								Nürnberg zudem den mit Byzanz geschlossenen Vertrag über den 								sicheren Durchmarsch des Kreuzheeres durch das Gebiet des 								oströmischen Reiches beschworen (vgl. Reg. 3215); vgl. dazu Zimmert, 								Der deutsch-byzantinische Konflikt, Byzantin. Zs. 12 (1903) 65 								f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

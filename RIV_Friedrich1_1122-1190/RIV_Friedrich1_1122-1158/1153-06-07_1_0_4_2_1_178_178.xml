@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 178</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-07_1_0_4_2_1_178_178"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-07_1_0_4_2_1_178_178"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-07_1_0_4_2_1_178_178</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1358159570" value="2013-01-14"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 178</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-07" to="1153-06-07">1153 Juni 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">pro distractione aecclesiae suae frequenter correptum nec correctum, ...</hi>  <hi rend="italic">ex praecepto Eugenii</hi></notarius>
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hält zu Pfingsten einen <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>. Herzog Heinrich von Bayern weigert sich, über die Klage des gleichfalls anwesenden Herzogs Heinrich von Sachsen um das Herzogtum Bayern zu verhandeln. Friedrich läßt Erzbischof Heinrich von Mainz (Otto von Freising: ... <span n="chancellor"><hi rend="italic">pro distractione aecclesiae suae frequenter correptum nec correctum, ...</hi> </span>; Ann. s. Disibodi: ... <span n="chancellor"><hi rend="italic">ex praecepto Eugenii</hi> </span>; Ann. Palid.: ... <hi rend="italic">ob inutilitatem</hi>...) sowie die Bischöfe Burchard von Eichstätt (Otto von Freising: ... <hi rend="italic">senio gravem, de inutilitate causantes</hi>, ...), Bernhard von Hildesheim (Ann. Palid.: ... <hi rend="italic">quia sacerdotale ministerium plenius exequi non poterat</hi>, ...) und Heinrich von Minden (Chron. reg. Col.: ... <hi rend="italic">dum propter clericum quendam, qui in civitate a suis, ipso consentiente ut dicebatur, cecatus fuerat, expurgare se non posset, multis pertesus adversitatibus</hi>...) durch die Kardinallegaten absetzen und seinen Kanzler Arnold durch anwesende Mitglieder des Klerus und des Volkes zu Heinrichs Nachfolger in Mainz wählen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zum Hoftag vgl. die Erwähnung in DDF. I. 59 (Reg. 180; Stumpf 3670a: ... <hi rend="italic">Secundo vero nostri principatus anno in festo pentecostes in urbe Wormatia sollemnem curiam celebrantes</hi>...) und 60 (Reg. 181). Zur Weigerung Herzog Heinrichs von Bayern vgl. Ottonis Gesta Frid. l. II cap. 9, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 110 f.   Zur Absetzung Heinrichs von Mainz vgl. Ann. s. Disibodi, MG. SS XVII, 28; Ann. Magdeburg., MG. SS XVI, 191; Ann. Palid., MG. SS XVI, 87 f.; Ann. s. Petri Erph. antiqui, ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 19; Ann. s. Petri Erph. breves, a. a. O. 56; Ann. s. Petri Erph. maiores, a. a. O. 57; Chron. Mogunt., MG. SS XXV, 241f.; Chron. Montis Sereni, MG. SS XXIII, 149; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 89 f. Rec. I und II; Comp. Chron., ed. Leibnitz, SS Brunsvic. illustr. II, 66; Cont. Claustroneoburg. II, MG. SS IX, 615; Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol. 178; Eberbacher Chronik, ed. Widmann, NA 13 (1888) 133; Ottonis Gesta Frid. l. II cap. 9, ed. Waitz-Simson, MG. SS rer. Germ. in us schol. 110 f.; Sächs. Weltchronik, ed. Weiland, MG. Deutsche Chroniken II, 220; Ser. aepp. Mogunt. Seligenstad., MG. SS XIII, 313; Ser. s. Iacobi Moguntini, a. a. O. 314; Vita Arnoldi aep. Mogunt. ed Jaffe, Bibl. rer. Germ. 3, 610. Burchards von Eichstätt Absetzung berichten Gerhoh von Reichersberg, Commentarius in psalmum LXV, ed. Sackur, MG. Libelli III, 494 ff.; Gundechari lib. pont. Eichstet. cont., MG. SS VII, 250; Ottonis Gesta Frid. l. II cap. 9, a. a. O. 111; Relatio Adelberti, ed. Gretser, Opera omnia X, 817 H. (<hi rend="italic">Cum igitur praedicti Cardinales Eystettensem Episcopum Burchardum deposuissent, &amp;amp; Cunradum Episcopum Canonica electione in Moguntina metropoli facia substituissent</hi>, ...). Zu Bernhards Absetzung vgl.: Ann. Magdeburg., MG. SS XVI, 191; Ann. Palid., MG. SS XVI, 87; Chron. Hild., MG. SS VII, 855 f. Die Absetzung Heinrichs von Minden erwähnen Ann. Magdeburg., a. a. O. 191; Ann. Palid., a. a. O. 88; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol. 90 Rec. I und II.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Weigerung Herzog Heinrichs von Bayern vgl. Simonsfeld, Jahrbücher 187 und Fichtenau-Dienst, UB. zur Gesch. der Babenberger 4/1, 131 n<hi rend="sup">o</hi>  775. Zu den Absetzungen vgl. Simonsfeld, Jahrbücher 177 ff. sowie die Schreiben der (Äbtissin) Hildegard (von Rupertsberg) an die Legaten (Acht, Mainzer UB. 2/1, 358 n<hi rend="sup">o</hi>  194), an Eugen III. (a. a. O. 357 n<hi rend="sup">o</hi>  193), des Abtes Bernhard von Clairvaux an die Legaten (a. a. O. 359 n<hi rend="sup">o</hi>  195) und des Bischofs Eberhard II. von Bamberg an Eugen III. [a. a. O. 198 n<hi rend="sup">o</hi>  103 zu (1147)]. Zum allgemeinen Verhalten der Kardinallegaten vgl. Simonsfeld, Jahrbücher 186 mit Anm. 130 und zum Tod Heinrichs von Mainz 184 mit Anm. 121. Mit dem territorialpolitischen Aspekt der Absetzung Heinrichs von Mainz haben sich Büttner, Heinrich von Mainz, ZKG 69 (1958) 247 ff. und Heinemann, Hildesheim (Qu. u. Darst. zur Gesch. Ndsachs. 72, 1968) 210 f. und 222 beschäftigt. Abt R(udolf) von Reinhardsbrunn beglückwünschte Heinrichs Nachfolger A(rnold) zu seiner Erhebung (Acht, Mainzer UB. 2/1, 359 n<hi rend="sup">o</hi>  196). - Die Vorgeschichte sowie die Absetzung des Bischofs von Eichstätt behandelt Heidingsfelder, Reg. Eichstätt, n<hi rend="sup">o</hi>  396-398 und 400-402. Vgl. dazu auch Bernhardi, Konrad III. Jahrbücher 2, 905 f. Zum Schreiben (des Kanonikus Ilsung von Heidenheim?) an (Abt Adam von Ebrach) vgl. Ohnsorge, Ebracher Briefsammlung, QFIAB 20 (1928/29) 17 ff. und 34 n<hi rend="sup">o</hi>  6. - Die Absetzung Bernhards und ihre Hintergründe hat Heinemann, a. a. O. 209 ff. beleuchtet. Auch hier dürften territorialpolitische Gründe vgl. 211 und 222 entscheidend gewesen sein. Bernhards Absetzung dürfte in die Zeit zwischen dem 23. April und Ende Mai fallen, vgl. 223. Zur späteren Wahl seines Nachfolgers Bruno, vor dem der Hildesheimer Dompropst Rainald von Dassel zum Bischof ausersehen war, vgl. ebenfalls Heinemann, a. a. O. 225 f. mit Anm. 487 sowie Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-01-00_1_0_4_2_2_120_678.html" type="internal" n="regesten">678</ref>  (bei 1159). - Zur Blendung des Vorthlev (<hi rend="italic">Fordivus</hi>) sowie zur Absetzung des Bischofs Heinrich von Minden vgl. Ortmanns, Bistum Minden (Reihe der Forschungen 5, 1972) 78 ff. und Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-10-06_1_0_4_2_2_604_F1162.html" type="internal" n="regesten">1162</ref>  zu <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-02-02_1_0_4_2_2_623_1181.html" type="internal" n="regesten">1181</ref>  (Fordivus erhält noch weitere 10 Mark, ehe er eidlich gelobt, auf weitere Ansprüche zu verzichten); vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-03-30_1_0_4_2_1_77_77.html" type="internal" n="regesten">77</ref>. Zur Tätigkeit der Kardinallegaten in Worms (Legat Gregor beruft den Propst von Corvey für den 14. Juni nach Worms) vgl. das Schreiben Epp. Wibaldi, ed. Jaffé, Mon. Corb. 551 n<hi rend="sup">o</hi>  412; dazu siehe auch Bachmann, Legaten (Hist. Stud 115, 1913) 106.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Ohnsorge, Ebracher Briefsammlung, QFIAB 20 (1928/29) 20 f. zeigt, daß der Bericht Ottos von Freising über die Absetzung Bischof Burchards von Eichstätt (Reg. 178) durch die Kardinallegalen <hi rend="kursiv">permissu principis</hi> zeitlich (siehe die Nennungen der Kardinallegaten in Regg. 172 und 173) eher zum Bamberger Hoftag, vielleicht sogar schon vor Ostern (19. April) gehört, vgl. dazu jüngst Weinfurter, Barbarossa und Eichstätt, Jb.f.fränk.Landesforsch. 52 (1992) 82 Anm. 78.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0064" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

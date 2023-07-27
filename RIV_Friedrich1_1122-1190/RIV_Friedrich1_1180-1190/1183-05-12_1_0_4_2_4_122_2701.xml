@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2701</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-12_1_0_4_2_4_122_2701"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-05-12_1_0_4_2_4_122_2701"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-05-12_1_0_4_2_4_122_2701</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2701</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-05-12" to="1183-05-12">1183
+									Mai 12</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Chaux bei La Vieille-Loye (<hi rend="italic">IIII</hi><hi rend="sup">to</hi><hi rend="italic"> idus maii, in Chaus apud </hi> <hi rend="italic">Veterem Lobiam</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Von unbekannter, sicherlich 									burgundischer Hand geschrieben, wobei das Diktat auffällige 									Verwandtschaft mit DBeatrix 3 (Reg. 2649) aufweist</scribe>
+				
+				
+					<testis function="witnesses">									Daniel, damals Legat in Burgund, Heinrich von Romanz, Graf Odo 									von La Roche-Saint-Hyppolite (<hi rend="italic">Rupe</hi>), 									Rainald von Besançon, Hugo von Molpré und sein Bruder Petrus, 									(Ritter) Lambert von Montbozon, Prior Ogerius von Bèze, Kantor 									Radulf (wohl von Bèze), Sakristan (<hi rend="italic">sacristes</hi>) Petrus (wohl von Bèze), der Mönch Martin 									von Rigney (wohl von Bèze), der Meier (<hi rend="italic">villicus</hi>) Aymo von Bèze, Petrus <hi rend="italic">Rufus</hi>, Aymo <hi rend="italic">de Lefonz</hi>, Gelo und 									Girardus <hi rend="italic">de sancto Prudentio</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix beurkundet den Abschluss eines Vertrages mit 								dem Abt von Bèze (<hi rend="italic">Besuensis ęcclesię</hi>) über 								die Teilung der Herrschaft (traité de pariage) über die <hi rend="italic">villa</hi> Sainte-Seine-en-Bâche (<hi rend="italic">quę sancti Sequani dicitur</hi>) zwischen der 								Abtei Bèze und dem künftigen Grafen von Burgund. Dabei wird sich der 								Propst der <hi rend="italic">villa</hi> gegenüber dem Grafen wie 								auch dem Konvent des Klosters eidlich verpflichten, seinen 								Untergebenen, er werde <hi rend="italic">villicus</hi> oder <hi rend="italic">seriantus</hi> geheißen, nicht aus diesem Ort zu 								wählen. Des Weiteren wird die Gerichtsbarkeit über die Hintersassen 								des Priors wie über die Fischer, Knechte, Müller und Bäcker in 								erster Instanz dem Prior, in zweiter dem Propst zugewiesen, der dann 								die Gefälle zu teilen hat, und es wird ein Veräußerungsverbot ohne 								Zustimmung des Kapitels von Bèze festgelegt. <span n="witnesses">Z.: 									Daniel, damals Legat in Burgund, Heinrich von Romanz, Graf Odo 									von La Roche-Saint-Hyppolite (<hi rend="italic">Rupe</hi>), 									Rainald von Besançon, Hugo von Molpré und sein Bruder Petrus, 									(Ritter) Lambert von Montbozon, Prior Ogerius von Bèze, Kantor 									Radulf (wohl von Bèze), Sakristan (<hi rend="italic">sacristes</hi>) Petrus (wohl von Bèze), der Mönch Martin 									von Rigney (wohl von Bèze), der Meier (<hi rend="italic">villicus</hi>) Aymo von Bèze, Petrus <hi rend="italic">Rufus</hi>, Aymo <hi rend="italic">de Lefonz</hi>, Gelo und 									Girardus <hi rend="italic">de sancto Prudentio</hi></span>. 									–<span n="clerk"> Von unbekannter, sicherlich 									burgundischer Hand geschrieben, wobei das Diktat auffällige 									Verwandtschaft mit DBeatrix 3 (Reg. 2649) aufweist</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Quoniam in rebus.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam in rebus.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Dijon 2 H 540 								(A). Drucke: Mariotte, Le comté de Bourgogne, 205 n<hi rend="sup">o</hi> 7; Mariotte, Clairvaux, AfD 9/10 (1963/64) 								297; MG.DBeatrix 5. Reg.: Mariotte, Le comté de Bourgogne, 169 									n<hi rend="sup">o</hi> 7.</p></div>
+				
+				
+					<div type="commentary"><p>Auf dem Rücken dors. saec. XIII: <hi rend="italic">carta prioratus sancti Sequani de Behosche.</hi> – Zu der 								französischen Rechtsform des traité de pariage vgl. die Vorbemerkung 								zum D. sowie auch DBeatrix 2 (Reg. 2602).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

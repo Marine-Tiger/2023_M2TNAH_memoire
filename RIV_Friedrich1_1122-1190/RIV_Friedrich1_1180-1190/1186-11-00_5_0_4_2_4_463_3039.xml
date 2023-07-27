@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3039</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_5_0_4_2_4_463_3039"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-00_5_0_4_2_4_463_3039"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-00_5_0_4_2_4_463_3039</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3039</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-08-15" to="1186-11-30">(nach
+									1186 August 15, vielleicht 1186 November –
+									)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Gelnhausen">(Gelnhausen)</placeName>
+												<location><geo decls="#WGS">50.2, 9.1833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich vermittelt und bekräftigt die Erwerbung 								der Eigengüter des Grafen Otto von Assel durch <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Adelhog von Hildesheim</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum?; erwähnt im Chron. 								Hildesheimense, MG. SS VII, 857 (<hi rend="italic">mediante domino 									Friderico imperatore et factum episcopi modis omnibus 									corroborante</hi>).</p></div>
+				
+				
+					<div type="commentary"><p>Zwei fingierte Schreiben Bischof Adelhogs von 								Hildesheim, eines an den Vogt L(uppold) und die Bürger (von 								Hildesheim) von (1186 nach August 15), das andere an Dompropst 								B(erthold), Domdekan B(erno) und das (Hildesheimer) Domkapitel, 								ebenfalls von (1186 nach August 15), beide in: Jüngere Hildesheimer 								Briefsammlung, ed. de Kegel, MG. Briefe VII, 135 no 81, sowie 146 no 								91, berichten ebenfalls über den Kauf der Güter von Assel, der über 								die Witwe Graf Ottos, Salome, die Schwester Erzbischof Philipps von 								Köln, abgewickelt wurde; vgl. dazu die ausführlichen Erläuterungen 								bei de Kegel, a.a.O., 135 Anm. 3 sowie 146 Anmm. 1–8. Im zweiten 								dieser beiden Schreiben heißt es ausdrücklich: <hi rend="italic">a 									domino imperatore ad bona illa confirmanda nostre ecclesie 									manuscriptum impetravimus.</hi> – Zur Datierung dieses 								wahrscheinlichen Deperditums vgl. de Kegel, a.a.O., 146 f. Anm. 								6.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

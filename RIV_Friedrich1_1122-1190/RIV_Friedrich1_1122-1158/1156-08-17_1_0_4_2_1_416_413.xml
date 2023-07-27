@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 413</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-08-17_1_0_4_2_1_416_413"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-08-17_1_0_4_2_1_416_413"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-08-17_1_0_4_2_1_416_413</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239153" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 413</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-08-17" to="1156-08-17">1156 August 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Colmar">Colmar</placeName>
+												<location><geo decls="#WGS">48.0833, 7.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVI kal. septembris, Columbarie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Albert</hi>  <hi rend="spaced">Verdun</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Canc. Reinaldus vice Arnaldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>bis auf das von AH (Albert) stammende Eschatokoll geschrieben und wohl auch verfaßt von Heribert</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Burchard von Straßburg, Ortlieb (<hi rend="italic">Ortlebus</hi>) von Basel, Stephan von Metz, Heinrich von Toul, Abt Egelolf von Murbach (<hi rend="italic">Helolfus Marbaccensis</hi>), die Herzoge Berthold (von Zähringen), Matthäus von Lothringen, Pfalzgraf Otto (von Wittelsbach), die Grafen Rudolf (von Pfullendorf), Ulrich (von Lenzburg), Markgraf Hermann (von Baden) und die Grafen Werner (von Baden), Theoderich (von Mömpelgard), Symon (von Saarbrücken) und Konrad (von Salm)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Bischof <span sameAs="recipient"><hi rend="spaced">Albert</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Verdun</hi> </span>  (<hi rend="italic">Virdunensi</hi>) auf seine Bitten die seinem Vorgänger Heimo von Kaiser Otto (III.) verliehene Grafschaft und Markgrafschaft (<hi rend="italic">beneficium itaque comitatus et marchię</hi>) mit den dazugehörigen Rechten (<hi rend="italic">potestatem eundem comitatum in usus ecclesię tenendi, comitem eligendi, absque ullo hereditario iure ponendi, habendi seu, quicquid libuerit, faciendi atque modis omnibus disponendi</hi>), die Hoheitsrechte (<hi rend="italic">bannum, theloneum, monetam et districtum civitatis in omnibus causis criminalibus et civilibus</hi>), die namentlich angeführten Besitzungen und das Befestigungsrecht innerhalb der Diözesangrenzen (<hi rend="italic">si ... necessarium fore perspexeris aliud presidium, auctoritatis nostre concessione construere liceat infra terminos tuos</hi>.). <span n="witnesses">Z.: die Bischöfe Burchard von Straßburg, Ortlieb (<hi rend="italic">Ortlebus</hi>) von Basel, Stephan von Metz, Heinrich von Toul, Abt Egelolf von Murbach (<hi rend="italic">Helolfus Marbaccensis</hi>), die Herzoge Berthold (von Zähringen), Matthäus von Lothringen, Pfalzgraf Otto (von Wittelsbach), die Grafen Rudolf (von Pfullendorf), Ulrich (von Lenzburg), Markgraf Hermann (von Baden) und die Grafen Werner (von Baden), Theoderich (von Mömpelgard), Symon (von Saarbrücken) und Konrad (von Salm)</span>. - <span n="chancellor"><hi rend="italic">Canc. Reinaldus vice Arnaldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">bis auf das von AH (Albert) stammende Eschatokoll geschrieben und wohl auch verfaßt von Heribert</span>; <span n="seal">B. 2. D.</span> <span n="incipit"><hi rend="italic">Antecessores nostri reges</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Antecessores nostri reges</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Chartular von Verdun des 14. Jh. Ms. 5 f. 180', Bibliothèque municipale Verdun (C); Abschrift des 16. Jh. des Transsumptes Karls IV. von 1356 Dezember 28 (B.-Huber fehlt) im Ms. hist. 657 Bd. 19 f. 384, Universitätsbibliothek Göttingen (D); Abschriften des 17. Jh. in der Coll. Cinq-cents de Colbert 441 f. 239 (E), in der Coll. Duchesne 93 f. 38 (F), des 17./18. Jh. im Ms. lat. 9072 n<hi rend="sup">o</hi>  5 (G), des 18. Jh. im Ms. franç. 28.233 f. 2 (H) und in der Coll. Moreau 68 f. 37 (I), sämtlich in der Nationalbibliothek Paris. Drucke: Mabillon, De Re Diplomatica ed. I. II. Suppl. 100; Dumont, Corps dipl. 1, 80 n<hi rend="sup">o</hi>  135; MG. DF. I. 149. Reg.: Stumpf 3751.</p></div>
+				
+				
+					<div type="commentary"><p>Die Angabe über die verlorene Goldbulle beruht auf den Beschreibungen derselben in EGHI, vgl. D. 149 Anm. z&amp;quot;. - Zum erwähnten Deperditum Ottos III. vgl. Stengel, Immunität 697; Santifaller, Reichskirchensystem 59; B.-Uhlirz Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-02-22_1_0_4_2_2_892_1450.html" type="internal" n="regesten">1450</ref> /IV. - Zur Person Bischof Alberts von Verdun, der erst im Jahre 1156 diese Würde nach dem Rücktritt seines Vorgängers, Adalbero III. von Verdun, erlangt hatte, vgl. Hausmann, Reichskanzlei 294 ff. mit Angabe der einschlägigen Quellen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0137" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_149" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

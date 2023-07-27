@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2877a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-04-21_1_0_4_2_4_300_2877a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-04-21_1_0_4_2_4_300_2877a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-04-21_1_0_4_2_4_300_2877a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2877a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-04-21" to="1185-04-21">(1185
+									nach April 21)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Für die Zeit nach dem Osterfest ist eine 								Zusammenkunft zwischen Friedrich und König Philipp (II. August) von 								Frankreich geplant.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in dem Schreiben des französischen 								Königs an Papst Lucius III., geschrieben nach <hi rend="italic">initio quadragesimae</hi> mit der Mitteilung, den Erzbischof 								von Tours derzeit nicht an die Kurie entsenden zu können, ed. 								Bouquet, Recueil XIX, 285 n<hi rend="sup">o</hi> 9 (zu 1183), sowie 								Desilve, Lettres d’Étienne de Tournai, 142 n<hi rend="sup">o</hi> 								121.</p></div>
+				
+				
+					<div type="commentary"><p>Das von Giesebrecht – Simson, Kaiserzeit VI, 597 								unter Berufung auf Scheffer-Boichorst zum Jahr 1182 datierte 								Schreiben (siehe dazu oben den Hinweis bei Reg. 2651) wird von 								Cartellieri, Philipp II. August, Bd. I, Beilage 14, 106 ff. und 170 								f., mit guten Argumenten in das Jahr 1185 datiert. Auch Kienast, 								Deutschland und Frankreich I, 228 Anm. 560, votiert für Jahr 1185, 								siehe zu all dem auch das Spurium, Reg. †2878.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

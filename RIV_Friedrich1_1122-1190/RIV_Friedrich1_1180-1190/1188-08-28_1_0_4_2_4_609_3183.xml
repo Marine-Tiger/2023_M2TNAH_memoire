@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3183</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-28_1_0_4_2_4_609_3183"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-28_1_0_4_2_4_609_3183"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-08-28_1_0_4_2_4_609_3183</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848520" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3183</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-08-28" to="1188-08-28">1188
+									August 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Nordhausen (<hi rend="italic">V</hi><hi rend="sup">o</hi><hi rend="italic"> kal. septembris, Northusen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>Kanzleidiktat, geschrieben von GI, wobei das 									Monogramm vor der Niederschrift des Eschatokolls eingetragen 									worden sein dürfte</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Adelhog von Hildesheim, Berthold 									von Naumburg und Dietrich von Halberstadt, Abt Siegfried von 									Hersfeld, Dekan Erenbert von Goslar, Scholaster Thietmar (von 									Goslar), Kanoniker Udo (von Goslar), Kustos Johannes (von 									Goslar), Kanoniker Nikolaus (von Goslar) und (Kanoniker) Konrad 									(von Goslar), Bruder des Burggrafen (Burchard) von Magdeburg; 									aus dem Kreis der Laien Landgraf Ludwig von Thüringen und sein 									Bruder Pfalzgraf Hermann von Sachsen, Burggraf Burchard von 									Magdeburg und sein Bruder Gebhard, die Grafen Burchard von 									Wöltingerode, Albert von Wernigerode, E(de)lger von Ilfeld, 									Sigbodo von Scharzfeld sowie Graf Ludwig von Lohra und sein 									Bruder Graf Berenger von Lohra; aus dem Kreis der Edelfreien 									Albert von Hildenburg, Albert von Grumbach, Heinrich von Weida, 									Walter von Arnstein, Ludolf von Peine, Lupold von Herzberg und 									sein Bruder Heinrich, Erkenbert von Heimburg und sein Bruder 									Anno, Eckbert von Wolfenbüttel, Gerhard, ein Verwandter des 									Bischofs (Adelhog) von Hildesheim, Truchsess Ulrich (von 									Hildesheim), Mundschenk Konrad (von Hildesheim), Johannes von 										<hi rend="italic">Diselesheim</hi> und sein Bruder Eskwin, 									Ulrich von Dingelstedt (<hi rend="italic">Thingelstat</hi>) und 									Siegfried von Himstedt (<hi rend="italic">Heimstede</hi>); aus 									dem Kreis der Goslarer Bürger Herzo Rufus, Giselbert, Ulrich, 									Rudolf von Thaleben (<hi rend="italic">Dalheim</hi>), Robert, 									Sohn des Widego, und sein Verwandter Johannes, Hartmud, Altmann 									und Herwig von Deuna (<hi rend="italic">Dunede</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von seinen Gründern, Vogt 								Folkmar von Goslar und dessen Gemahlin Helena, dem Reich übergebene 									<hi rend="spaced">Nonnenkloster Neuwerk</hi> beim Rosentor zu 									<hi rend="spaced">Goslar</hi> (<hi rend="italic">beate 									virginis Marie oratorium … apud Goslaram iuxta portam 									Ruzindore</hi>) in seinen Schutz. Er bestätigt ihm die 								namentlich angeführten Besitzungen, mit denen es seitens seiner 								Gründer ausgestattet worden ist und die ihm von Ludolf von 								Wöltingerode und Ludolf von Peine sowie auch in seiner (des Kaisers) 								Gegenwart von Herzo Rufo (Bürger von Goslar) zugesichert worden 								sind, und gewährt ihm hinsichtlich seiner Güter Freiheit von der 								Vogtei, es sei denn, das Kloster erbitte auf Grund eines einmütigen 								Beschlusses (<hi rend="italic">ex communis deliberationis 									assensu</hi>) vom Kaiser die Einsetzung eines Vogtes. <span n="witnesses">Z.: die Bischöfe Adelhog von Hildesheim, Berthold 									von Naumburg und Dietrich von Halberstadt, Abt Siegfried von 									Hersfeld, Dekan Erenbert von Goslar, Scholaster Thietmar (von 									Goslar), Kanoniker Udo (von Goslar), Kustos Johannes (von 									Goslar), Kanoniker Nikolaus (von Goslar) und (Kanoniker) Konrad 									(von Goslar), Bruder des Burggrafen (Burchard) von Magdeburg; 									aus dem Kreis der Laien Landgraf Ludwig von Thüringen und sein 									Bruder Pfalzgraf Hermann von Sachsen, Burggraf Burchard von 									Magdeburg und sein Bruder Gebhard, die Grafen Burchard von 									Wöltingerode, Albert von Wernigerode, E(de)lger von Ilfeld, 									Sigbodo von Scharzfeld sowie Graf Ludwig von Lohra und sein 									Bruder Graf Berenger von Lohra; aus dem Kreis der Edelfreien 									Albert von Hildenburg, Albert von Grumbach, Heinrich von Weida, 									Walter von Arnstein, Ludolf von Peine, Lupold von Herzberg und 									sein Bruder Heinrich, Erkenbert von Heimburg und sein Bruder 									Anno, Eckbert von Wolfenbüttel, Gerhard, ein Verwandter des 									Bischofs (Adelhog) von Hildesheim, Truchsess Ulrich (von 									Hildesheim), Mundschenk Konrad (von Hildesheim), Johannes von 										<hi rend="italic">Diselesheim</hi> und sein Bruder Eskwin, 									Ulrich von Dingelstedt (<hi rend="italic">Thingelstat</hi>) und 									Siegfried von Himstedt (<hi rend="italic">Heimstede</hi>); aus 									dem Kreis der Goslarer Bürger Herzo Rufus, Giselbert, Ulrich, 									Rudolf von Thaleben (<hi rend="italic">Dalheim</hi>), Robert, 									Sohn des Widego, und sein Verwandter Johannes, Hartmud, Altmann 									und Herwig von Deuna (<hi rend="italic">Dunede</hi>)</span>. 									–<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice Conradi 										Maguntini archiep. Germanie archicanc.</hi></span>;<span n="clerk"> Kanzleidiktat, geschrieben von GI, wobei das 									Monogramm vor der Niederschrift des Eschatokolls eingetragen 									worden sein dürfte</span>; <span n="seal"> SP.2</span>. <span n="incipit"><hi rend="italic">Si antecessorum 									nostrorum</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si antecessorum 									nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Goslar (A). Bode, UB. 								Stadt Goslar 1, 353 n<hi rend="sup">o</hi> 320; 								MG.DF.I.978. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 793; Wilke, Das Goslarer Reichsgebiet, 219 n<hi rend="sup">o</hi> 8; Stumpf 4499.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rechtshandlung, die bereits während des 								Aufenthalts des Kaisers in Goslar erfolgte, vgl. oben Reg. 3179. – 								Zum Inhalt vgl. auch die Urkunde Bischof Adelhogs von Hildesheim von 								1186 Oktober 16, Goslar (Bode, a.a.O., 341 no 306, sowie Janicke, 								UB. Hildesheim 1, 431 no 442), die in der Besitzliste einige 								wörtliche Übereinstimmungen mit dem vorliegenden D. aufweist und in 								deren Zeugenliste der kaiserliche Notar Philipp (<hi rend="italic">Philippus notarius imperatoris</hi>) genannt wird. – Die 								Gründung des Klosters Neuwerk wird auch im Chron. S. Simon und Judas 								in Goslar, MG. Deutsche Chroniken II, 595, erwähnt. – Zu dem als 								letzten der geistlichen Zeugen angeführten, wohl Goslarer Kanoniker 								Konrad, dem Bruder des Burggrafen Burchard von Magdeburg, vgl. auch 								seine Nennung als Zeuge in D.979 (= Reg. 3188), wo er als 								kaiserlicher Kapellan bezeichnet wird; zu dem unter den Zeugen 								genannten Grafen Adelger (auch: Edelger) von Hohnstein bzw. Ilfeld 								vgl. Plassmann, Struktur des Hofes, 236; nach Plassmann, a.a.O., 284 								handelt es sich bei Eskwin von <hi rend="italic">Diselesheim</hi> 								möglicherweise um einen Edelfreien aus dem Gebiet von 								Hildesheim.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_978" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

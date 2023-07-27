@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1546</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-00-00_1_0_4_2_2_988_F1546"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-00-00_1_0_4_2_2_988_F1546"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-00-00_1_0_4_2_2_988_F1546</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247301" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1546</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-01-01" to="1166-12-31">1166 - -</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wichmann</hi>  <hi rend="spaced">Magdeburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Fälschung von etwa gleichzeitiger Nienburger Hand aus der Zeit nach 1172 Juli (Beginn der Kanzlerschaft Gottfrieds, vgl. MG. DF. I. 594), wobei DF. I. 516 = Reg. 1578) und eine Urkunde Heinrichs VI. (Arenga, Publicatio und Teile der Narratio identisch mit</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Christian von Mainz und Arnold von Trier, die Bischöfe Konrad von Worms, Rudolf von Lüttich und Hermann von Bamberg, die Herzoge Heinrich von Sachsen und Matthäus von (Ober)lothringen, Markgraf Dietrich von der Lausitz, Graf Hugo von Dagsburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Wichmann</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Magdeburg</hi> </span>  und seiner Kirche in Anbetracht von dessen Verdiensten um das Reich die bisher unmittelbar dem Reich unterstehende Abtei Nienburg, betont jedoch, daß die Rechtsstellung des Abtes und der Abtei nicht gemindert werden dürfe und für sie auch weiterhin die Möglichkeit bestehen solle, den Kaiser direkt um Schutz gegen etwaige Übergriffe anzurufen. <span n="witnesses">Z.: die Erzbischöfe Christian von Mainz und Arnold von Trier, die Bischöfe Konrad von Worms, Rudolf von Lüttich und Hermann von Bamberg, die Herzoge Heinrich von Sachsen und Matthäus von (Ober)lothringen, Markgraf Dietrich von der Lausitz, Graf Hugo von Dagsburg</span>. - <span n="chancellor"><hi rend="italic">Godefridus canc. vice Christiani Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">Fälschung von etwa gleichzeitiger Nienburger Hand aus der Zeit nach 1172 Juli (Beginn der Kanzlerschaft Gottfrieds, vgl. MG. DF. I. 594), wobei DF. I. 516 = Reg. 1578) und eine Urkunde Heinrichs VI. (Arenga, Publicatio und Teile der Narratio identisch mit B.-Baaken Reg. 94) herangezogen worden sein dürften</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">In eminenti throno maiestatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In eminenti throno maiestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung;  Angebl.Orig.: Staatliches Archivlager Göttingen (A). Drucke: Israel - Möllenberg, UB. des Erzstiftes Magdeburg l, 406 n<hi rend="sup">o</hi>  316; MG. DF. I. 1062. Reg.: Nürnberger UB. 53 n<hi rend="sup">o</hi>  75; Stumpf 4065.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung zum D. - In Nürnberg hielt sich der Kaiser im Februar 1166 (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-02-14_1_0_4_2_2_985_1543.html" type="internal" n="regesten">1543</ref> - <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1166-02-00_2_0_4_2_2_987_1545.html" type="internal" n="regesten">1545</ref>  und Opll, Itinerar, 198) auf, womit freilich die Rekognition des Spuriums nicht zusammenstimmt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0261" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1062" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

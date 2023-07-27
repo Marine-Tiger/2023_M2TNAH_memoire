@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 295</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_1_0_4_2_1_295_295"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-05_1_0_4_2_1_295_295"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-05_1_0_4_2_1_295_295</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238380" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 295</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-05" to="1155-05-13">1155 (Mai 5-13)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Modena  (in campo Mutinensium)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">S. Sisto</hi>  <hi rend="spaced">Piacenza</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des D. Ludwigs III. (Schiaparelli, Diplomi di Lodovico III e di Rodolfo II n<hi rend="sup">o</hi>  5; VU. I) und DH. II. 183 (VU. II) wohl von A II. C verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Ortlieb von Basel, Emmehard von Mecklenburg ( <hi rend="italic"> Emdhardus Magnopolitanus</hi>), Anselm von Havelberg, Konrad von Worms, die Herzoge Heinrich von Sachsen, Berthold von Burgund, die Markgrafen Otakar von Steier, Hermann von Baden (Verona) und Werner von Ancona, die Grafen Berthold von Andechs (<hi rend="italic">Anedexe</hi>), Ernst von Hohenburg, Antelm von Crema, Ulrich von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Reichsabtei <span sameAs="recipient"><hi rend="spaced">S. Sisto</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Piacenza</hi> </span>  (<hi rend="italic">que eciam ad ius et proprietatem regni nostri pertinere dignoscitur</hi>) auf Intervention des Erzbischofs Arnold von Köln, des Erzkanzlers des <hi rend="italic">regnum Italicum</hi>, in seinen Schutz, bestätigt ihr den teilweise aufgezählten Besitzstand und verbietet, von Freien sowie Hintersassen des Klosters die genannten Abgaben (<hi rend="italic">portonaticum, teloneum aut ripaticum vel quelibet vectigalia</hi>) einzutreiben. <span n="witnesses">Z.: Erzbischof Arnold von Köln, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Ortlieb von Basel, Emmehard von Mecklenburg ( <hi rend="italic"> Emdhardus Magnopolitanus</hi>), Anselm von Havelberg, Konrad von Worms, die Herzoge Heinrich von Sachsen, Berthold von Burgund, die Markgrafen Otakar von Steier, Hermann von Baden (Verona) und Werner von Ancona, die Grafen Berthold von Andechs (<hi rend="italic">Anedexe</hi>), Ernst von Hohenburg, Antelm von Crema, Ulrich von Lenzburg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Italici regni archicanc.</hi> </span>; <span n="clerk">unter Verwendung des D. Ludwigs III. (Schiaparelli, Diplomi di Lodovico III e di Rodolfo II n<hi rend="sup">o</hi>  5; VU. I) und DH. II. 183 (VU. II) wohl von A II. C verfaßt und geschrieben</span>. <span n="incipit"><hi rend="italic">Potestatis nostre nos</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Potestatis nostre nos</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des 13. Jh. im Domkapitelarchiv Parma (B); Abschrift des 13. Jh. im Codex A der Stadt Cremona n <hi rend="sup">o</hi>  378 im Staatsarchiv Cremona (C); Einzelkopien des 13. Jh. ebenda n <hi rend="sup">o</hi>  323 (D); n <hi rend="sup">o</hi>  687 (E); n<hi rend="sup">o</hi>  2106 (F); Abschrift von 1359 März 6 in einem Konvolut von Kopien der Privilegien von S. Sisto im Staatsarchiv Parma, sezione dipl. (G). Druck e: Affò, Istoria di Guastalla 1, 340 n<hi rend="sup">o</hi>  33; MG. DF. I. 103. Reg.: Astegiano, CD. Cremonae 1, 120 n<hi rend="sup">o</hi>  164; Torelli, Reg. Mantovano 1, 203 n<hi rend="sup">o</hi>  294; Stumpf 3707.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung des D. ergibt sich aus dem Itinerar Friedrichs. Bischof Anselm von Havelberg erscheint hier, von seiner Gesandtschaftsreise zu Kaiser Manuel zurückgekehrt, wieder als Zeuge; vgl. Simonsfeld, Jahrbücher 308.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0100" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_103" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

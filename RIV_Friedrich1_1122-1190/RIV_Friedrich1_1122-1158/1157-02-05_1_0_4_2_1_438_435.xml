@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 435</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-02-05_1_0_4_2_1_438_435"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-02-05_1_0_4_2_1_438_435"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-02-05_1_0_4_2_1_438_435</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1483950301" value="2017-01-09"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 435</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-02-05" to="1157-02-05">1157 Februar 5</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">Ulm</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(non. februarii, Ulmę)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Emmeram</hi>  <hi rend="spaced">Regensburg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntinę sedis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung eines wohl Anfang Juli 1152 zu Regensburg von A II. C verfaßten Diploms, dem Arenga, Schutzverleihung, Corroboratio sowie Zeugenankündigung entlehnt sind, verfaßt und geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">Zeugen, die in Regensburg anwesend waren (s. Reg. 101): ,Bischof Heinrich von Regensburg, Burggraf Heinrich (von Regensburg) und sein Bruder Otto, Pfalzgraf Otto der Jüngere (von Wittelsbach), die Grafen Heinrich von Wolfratshausen (<hi rend="italic">Wolueradehusen</hi>), Ernst von Hohenburg und sein Bruder Friedrich sowie Konrad von Oberroning (<hi rend="italic">Ronige</hi>), Ulrich von Altmannstein (<hi rend="italic">Siein</hi>), Altmann von Siegenburg, Werner von Laaber, Rubert Wolf, Adalbert von Bocksberg, Otto von Moos, Erbo von Biburg, Engelhart von Luderbach, Balduin, Ortlieb, Friedrich, Rodeger, Schultheiß Erbo, Udalrich von Pentling (<hi rend="italic">Pentelingen</hi>), Poppo von Harting (<hi rend="italic">Hertdingen</hi>), Durinchart von Pinkhofen (<hi rend="italic">Punninchouen</hi>), Berthold, Goswin, Heinrich, Hartwich, Konrad, Gotebold. Zeugen, die in Ulm anwesend waren: die Bischöfe Hermann von Konstanz, Konrad von Augsburg, Konrad von Worms, Albert von Trient, Abt Albert von Ellwangen, die Herzoge Welf von Spoleto, Berthold von Zähringen, Friedrich von Schwaben, der Sohn König Konrads, Pfalzgraf Otto von Wittelsbach, Markgraf Berthold von Vohburg, Burggraf Heinrich von Regensburg, Graf Heinrich von Wolfratshausen (<hi rend="italic">Wolveradehusen</hi>), Altmann von Siegenberg, Pilgrim von Wolnzach (<hi rend="italic">Wolmutsa</hi>), Rupert Wolf, Werner von Herrngiersdorf (<hi rend="italic">Giebesdorf</hi>), Albert von Großmuß (<hi rend="italic">Musse</hi>), Hadmar von Ahausen, Balduin von Regensburg, Wernhart von Lengfeld</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf dem an Mariä Reinigung zu Ulm abgehaltenen Hoftag das Kloster <span sameAs="recipient"><hi rend="spaced">St. Emmeram</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Regensburg</hi> </span>  (<hi rend="italic">ęcclesia sancti Hemerammi</hi>) in seinen Schutz und bestätigt ihm in der Streitsache zwischen Margareta, der Tochter des ohne männlichen Erben verstorbenen Ministerialen Hartwich von Herrnwahlthann (<hi rend="italic">Danne</hi>), und dem Abt Albert auf dessen Bitte hin den schon früher in Regensburg vom Vitztum Udalrich gefällten Fürstenspruch (Reg. 101), wonach die Lehen sowohl der Regensburger Bischofskirche als auch von St. Emmeram nicht in weiblicher Linie vererbt werden dürfen. <span n="witnesses">Z.: Zeugen, die in Regensburg anwesend waren (s. Reg. 101): ,Bischof Heinrich von Regensburg, Burggraf Heinrich (von Regensburg) und sein Bruder Otto, Pfalzgraf Otto der Jüngere (von Wittelsbach), die Grafen Heinrich von Wolfratshausen (<hi rend="italic">Wolueradehusen</hi>), Ernst von Hohenburg und sein Bruder Friedrich sowie Konrad von Oberroning (<hi rend="italic">Ronige</hi>), Ulrich von Altmannstein (<hi rend="italic">Siein</hi>), Altmann von Siegenburg, Werner von Laaber, Rubert Wolf, Adalbert von Bocksberg, Otto von Moos, Erbo von Biburg, Engelhart von Luderbach, Balduin, Ortlieb, Friedrich, Rodeger, Schultheiß Erbo, Udalrich von Pentling (<hi rend="italic">Pentelingen</hi>), Poppo von Harting (<hi rend="italic">Hertdingen</hi>), Durinchart von Pinkhofen (<hi rend="italic">Punninchouen</hi>), Berthold, Goswin, Heinrich, Hartwich, Konrad, Gotebold. Zeugen, die in Ulm anwesend waren: die Bischöfe Hermann von Konstanz, Konrad von Augsburg, Konrad von Worms, Albert von Trient, Abt Albert von Ellwangen, die Herzoge Welf von Spoleto, Berthold von Zähringen, Friedrich von Schwaben, der Sohn König Konrads, Pfalzgraf Otto von Wittelsbach, Markgraf Berthold von Vohburg, Burggraf Heinrich von Regensburg, Graf Heinrich von Wolfratshausen (<hi rend="italic">Wolveradehusen</hi>), Altmann von Siegenberg, Pilgrim von Wolnzach (<hi rend="italic">Wolmutsa</hi>), Rupert Wolf, Werner von Herrngiersdorf (<hi rend="italic">Giebesdorf</hi>), Albert von Großmuß (<hi rend="italic">Musse</hi>), Hadmar von Ahausen, Balduin von Regensburg, Wernhart von Lengfeld</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntinę sedis archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung eines wohl Anfang Juli 1152 zu Regensburg von A II. C verfaßten Diploms, dem Arenga, Schutzverleihung, Corroboratio sowie Zeugenankündigung entlehnt sind, verfaßt und geschrieben von RC</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Decet omnes christiane</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet omnes christiane</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 336 n<hi rend="sup">o</hi>  494; MG. DF. I. 158. <hi rend="spaced">Teilfaks</hi>.: Bessel, Chron. Gotwicense 1, nach 358. Reg.: Stumpf 3762.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Entstehung des Diploms vgl. Zeillinger, Notare der Reichskanzlei, DA 22 (1966) 529 ff. Die Anführung der Zeugen des Regensburger Aktes (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-00_2_0_4_2_1_101_D101.html" type="internal" n="regesten">101</ref>) an erster Stelle erklärt sich aus der Benützung des 1152 verfaßten Diploms, dessen Beglaubigung allerdings nicht mit letzter Sicherheit feststeht.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0147" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210233%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_158" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

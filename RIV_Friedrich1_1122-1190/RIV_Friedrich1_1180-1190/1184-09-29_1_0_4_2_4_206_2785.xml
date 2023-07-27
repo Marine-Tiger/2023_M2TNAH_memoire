@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2785</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-29_1_0_4_2_4_206_2785"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-29_1_0_4_2_4_206_2785"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-09-29_1_0_4_2_4_206_2785</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844271" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2785</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-09-29" to="1184-09-29">1184
+									September 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pavia (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> kal. oct., Papie</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>in der Kanzlei wohl von GG verfasst, der auch 									als Mundator in Betracht kommt</scribe>
+				
+				
+					<testis function="witnesses">die 									Erzbischöfe Konrad von Mainz und Robert von Vienne, die Bischöfe 									Eberhard von Merseburg, Nikolaus von Viviers, Lanfrancus von 									Pavia und Ognibene von Verona, Elekt Konrad von Lübeck, Abt 									Siegfried von Hersfeld, Rudolf, Propst und Protonotar des 									kaiserlichen Hofes, Abt Gregor von Prüm, Landgraf Ludwig von 									Thüringen, Markgraf Berthold (von Istrien) von Andechs, Graf 									Gerhard von Looz/Borgloon, die Burggrafen Konrad von Nürnberg 									und (Heinrich) von Regensburg, Graf Heinrich von Altendorf, 									Konrad von Boxberg, Albert von Hildenburg, Konrad von (Bad) 									Schussenried (<hi rend="italic">Schuriluet</hi>), Kämmerer 									Rudolf, Marschall Heinrich von (Kaisers)Lautern und Truchsess 									Heinrich von Boyneburg (<hi rend="italic">Boumeneburc</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Wilhelm von Gap</hi> (<hi rend="italic">Vapincensis</hi>) die Regalien, nämlich die Herrschaft über die 								Stadt Gap samt deren Territorium, die Burgen Rambaud und Rabon sowie 								sämtliche Güter seiner Kirche. <span n="witnesses">Z.: die 									Erzbischöfe Konrad von Mainz und Robert von Vienne, die Bischöfe 									Eberhard von Merseburg, Nikolaus von Viviers, Lanfrancus von 									Pavia und Ognibene von Verona, Elekt Konrad von Lübeck, Abt 									Siegfried von Hersfeld, Rudolf, Propst und Protonotar des 									kaiserlichen Hofes, Abt Gregor von Prüm, Landgraf Ludwig von 									Thüringen, Markgraf Berthold (von Istrien) von Andechs, Graf 									Gerhard von Looz/Borgloon, die Burggrafen Konrad von Nürnberg 									und (Heinrich) von Regensburg, Graf Heinrich von Altendorf, 									Konrad von Boxberg, Albert von Hildenburg, Konrad von (Bad) 									Schussenried (<hi rend="italic">Schuriluet</hi>), Kämmerer 									Rudolf, Marschall Heinrich von (Kaisers)Lautern und Truchsess 									Heinrich von Boyneburg (<hi rend="italic">Boumeneburc</hi>)</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Philippi 										Coloniensis archiep. et Ytalie archicanc.</hi></span>; <span n="clerk">in der Kanzlei wohl von GG verfasst, der auch 									als Mundator in Betracht kommt</span>.<span n="incipit"> 									<hi rend="italic">Imperatorie maiestatis benignitas.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorie maiestatis benignitas.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Vidimus von 1447 November 8 einer 								notariellen Beglaubigung, Departementalarchiv Marseille B 291 (C); 								Abschrift von ca. 1278 eines Transsumptes Kaiser Friedrichs II. von 								1238 April (B.-Ficker Reg. 2330), ebenda B 143 f. 64 (alt 59) (D); 								Abschrift desselben Transsumptes aus dem 14. Jh., ebenda Chartular B 								2 f. 42 (E); Abschrift des 15. Jh. eines Vidimus des Transsumptes 								Kaiser Friedrichs II. von 1293, Departementalarchiv Grenoble B 3753 								f. 7 (F<hi rend="sup">1</hi>); Abschrift des 16. Jh. desselben 								Vidimus von 1293, ebenda B 3248 f. 290 (F<hi rend="sup">2</hi>). Drucke: Gallia christ. noviss. 1, 282 n<hi rend="sup">o</hi> 17 aus E; Huillard-Bréholles 5<hi rend="sup">a</hi>, 193 aus neuzeitlicher Abschrift von B.-Ficker Reg. 								2330; MG.DF.I.867. Reg.: Dolch – Münch, UB. der Stadt 								Kaiserslautern 1, 56 n<hi rend="sup">o</hi> 29; Stumpf 4386.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Bewertung der Überlieferung und zur 								diplomatischen Kritik vgl. die Vorbemerkung zum D. – Zur 								Stadtherrschaft des Bischofs von Gap vgl. Opll, Stadt und Reich, 								484. – Chevalier, Rég. dauphinois 1, 813 no 4881 bringt zu 1184 März 								7 die nicht weiter überprüfbare, wahrscheinlich irrige Nachricht 								über ein D. für Bischof Wilhelm von Gap. – Vom Aufenthalt des 								Kaisers in Pavia berichten auch Ann. Plac. Gib., MG. SS XVIII, 465, 								Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 134, 								Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer.Germ. in us. schol., 								12, und Lamberti Parvi Ann., MG. SS XVI, 649 (irrig vor dem 								Aufenthalt in Mailand).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_867" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

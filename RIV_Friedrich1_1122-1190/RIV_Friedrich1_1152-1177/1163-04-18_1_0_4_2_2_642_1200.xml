@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1200</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-04-18_1_0_4_2_2_642_1200"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-04-18_1_0_4_2_2_642_1200"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-04-18_1_0_4_2_2_642_1200</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245252" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1200</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-04-18" to="1163-04-18">1163 April 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mainz">Mainz</placeName>
+												<location><geo decls="#WGS">47.8333, 11.9667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XIIII kal. mai, Maguntię)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rupertsberg bei Bingen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canc. vice Cunradi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter ausführlicher Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  88) enthaltenen Formulargutes und unter Heranziehung der erwähnten Urkunde Arnolds von Mainz von 1158 Mai 22 (Acht, Mainzer UB. 2/1, 416 n<hi rend="sup">o</hi>  231; VU.) verfaßt und ge</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Konrad von Mainz, Wichmann von Magdeburg und Eberhard von Salzburg, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg, Hartmann von Brixen, Heinrich von Lüttich, Gottfried von Utrecht und Friedrich von Münster, Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Landgraf Ludwig (von Thüringen), Graf Emicho von Leiningen, Markward von Grumbach, Ulrich von Herrlingen, Mundschenk Konrad, Truchseß Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten der Äbtissin Hildegard das Benediktinerinnenkloster <span sameAs="recipient"><hi rend="spaced">Rupertsberg bei Bingen</hi> </span>  in seinen Schutz, bestätigt ihm gemäß der Urkunde des früheren Erzbischofs Arnold von Mainz die Besitzungen und das Recht der freien Wahl der Äbtissin, unterstellt es dem alleinigen Schutz des kaiserlichen Arms und des Mainzer Erzbischofs, verbietet die Einsetzung eines Vogtes und befreit es von allen Abgaben. <span n="witnesses">Z.: die Erzbischöfe Konrad von Mainz, Wichmann von Magdeburg und Eberhard von Salzburg, die Bischöfe Heinrich von Würzburg, Eberhard von Bamberg, Hartmann von Brixen, Heinrich von Lüttich, Gottfried von Utrecht und Friedrich von Münster, Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Landgraf Ludwig (von Thüringen), Graf Emicho von Leiningen, Markward von Grumbach, Ulrich von Herrlingen, Mundschenk Konrad, Truchseß Rudolf</span>. - <span n="chancellor"><hi rend="italic">Christianus canc. vice Cunradi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter ausführlicher Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  88) enthaltenen Formulargutes und unter Heranziehung der erwähnten Urkunde Arnolds von Mainz von 1158 Mai 22 (Acht, Mainzer UB. 2/1, 416 n<hi rend="sup">o</hi>  231; VU.) verfaßt und geschrieben von RC</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">In examine cuncta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">In examine cuncta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: Beyer, Mittelrhein. UB. 1, 694 n<hi rend="sup">o</hi>  636; MG. DF. I. 398. Reg.: Wauters, Table chronol. 2, 444 und 7, 286 zu 1164; Goerz, Mittelrhein. Reg. 2, 63 n<hi rend="sup">o</hi>  220; Stumpf 3979.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Kontakten des Kaisers mit der hl. Hildegard von Bingen vgl. auch Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-03-00_1_0_4_2_2_637_1195.html" type="internal" n="regesten">1195</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-04-18_2_0_4_2_2_643_1201.html" type="internal" n="regesten">1201</ref>; des weiteren vgl. auch das Schreiben Erzbischof Eberhards von Salzburg an Hildegard, ed. Migne, PL 197, Sp. 164 (Übersetzung bei Führkötter, Hildegard von Bingen. Briefwechsel, 72 f.).
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>In einer Schenkung an das Stift Polling durch Bischof Hartmann von Brixen vom 8. Mai 1163 wird darauf hingewiesen, daß der Bischof (Zeuge in D. 398 = Reg. 1200) sie ausführte, als er vom Hof des Kaisers in Mainz zurückkehrte, vgl. Die Traditionen des Stiftes Polling, bearb. von F. Helmer (Qu. u. Erörterungen zur Bayerischen Gesch. N.F. 41/1, 1993) 58 n<hi rend="hoch">o</hi> 26a (<hi rend="kursiv">rediens a curte ... tradidit</hi>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0176" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227345%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_398" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

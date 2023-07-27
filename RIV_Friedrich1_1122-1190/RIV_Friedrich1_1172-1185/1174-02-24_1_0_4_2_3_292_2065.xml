@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2065</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-24_1_0_4_2_3_292_2065"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-02-24_1_0_4_2_3_292_2065"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-02-24_1_0_4_2_3_292_2065</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430899214" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2065</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-02-24" to="1174-02-24">1174 Februar 24  statt: März 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen <hi rend="spaced">Hoftag</hi>  zu Aachen</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI kal. mart, in sollempni curia Aquisgrani)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter dem Einfluß des HE, der auch den letzten Teil der Datierung (vom Worte <hi rend="italic">dat.</hi>  an) hinzugefügt hat, verfaßt und geschrieben von einem kanzleifremden Mundator</scribe>
+				
+				
+					<testis function="witnesses">Für die Einhaltung dieser Abmachung verbürgen sich einerseits Graf Engelbert von Berg, und zwar für ihn Herzog H(einrich) von Limburg, Graf E(berhard) von Altena und sein Sohn Graf A(rnold), Graf W(ilhelm) von Jülich, Dietrich von Oppum (<hi rend="italic">Vfheim</hi>), Arnold von Teveren/Tyvern (<hi rend="italic">Dyverne</hi>), Reinbert <hi rend="italic">Scvzsper</hi>, Hermann von Elp, Arnold von Rode, Dietrich von Hardenberg, Arnold von Solingen, (Vogt) Dietrich von Echt, Dietrich von Geislar und Goswin <hi rend="italic">Odagger</hi>  (benannt nach Odeigne), andererseits Graf Heinrich Raspo, für diesen Heinrich von Molsberg, Graf Werner von Wittgenstein, Graf Wezel, Eckhard von Gasterfelt, Konrad <hi rend="italic">puer</hi>, Albero von Rosbach, Markward von Mansfeld, Heinfried von Weida, Heinrich <hi rend="italic">Mvgilhardus</hi>, Ludwig von Hohenfels, Konrad von Marburg, Sebrecht, Sibodo (von Rosbach), Sohn des Albero, und Kapellan Heinrich (des Landgrafen von Thüringen, von Crölpa-Löbschütz)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt, daß Graf Heinrich Raspo der Jüngere (von Thüringen) dem <hi rend="spaced">Grafen Engelbert von Berg</hi>  die neue, nicht die alte Burg Windeck zu Lehen gegeben hat. Graf Engelbert hat sich im Gegenzug verpflichtet, Heinrich Raspo mit dieser Burg gegen jedermann außer den Kaiser und den Erzbischof von Köln, gegen diesen allerdings unter gewissen Ausnahmen, zu unterstützen, einen Kastellan nur mit Zustimmung Heinrichs und unter Leistung des Sicherheitseides gegenüber beiden einzusetzen, Ministerialen von beiden Herren in diese Burg zu legen und bei erbenlosem Tod die Burg wieder an Heinrich Raspo zurückfallen zu lassen. <span n="witnesses">Für die Einhaltung dieser Abmachung verbürgen sich einerseits Graf Engelbert von Berg, und zwar für ihn Herzog H(einrich) von Limburg, Graf E(berhard) von Altena und sein Sohn Graf A(rnold), Graf W(ilhelm) von Jülich, Dietrich von Oppum (<hi rend="italic">Vfheim</hi>), Arnold von Teveren/Tyvern (<hi rend="italic">Dyverne</hi>), Reinbert <hi rend="italic">Scvzsper</hi>, Hermann von Elp, Arnold von Rode, Dietrich von Hardenberg, Arnold von Solingen, (Vogt) Dietrich von Echt, Dietrich von Geislar und Goswin <hi rend="italic">Odagger</hi>  (benannt nach Odeigne), andererseits Graf Heinrich Raspo, für diesen Heinrich von Molsberg, Graf Werner von Wittgenstein, Graf Wezel, Eckhard von Gasterfelt, Konrad <hi rend="italic">puer</hi>, Albero von Rosbach, Markward von Mansfeld, Heinfried von Weida, Heinrich <hi rend="italic">Mvgilhardus</hi>, Ludwig von Hohenfels, Konrad von Marburg, Sebrecht, Sibodo (von Rosbach), Sohn des Albero, und Kapellan Heinrich (des Landgrafen von Thüringen, von Crölpa-Löbschütz)</span>. — <span n="clerk">Unter dem Einfluß des HE, der auch den letzten Teil der Datierung (vom Worte <hi rend="italic">dat.</hi>  an) hinzugefügt hat, verfaßt und geschrieben von einem kanzleifremden Mundator</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Notum esse volumus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Posse, CD.Sax. regiae I 2, 277 n<hi rend="sup">o</hi>  401; MG.DF.I.612. Regg.: Wauters, Table chronol.2, 543; Dobenecker, Reg. 2, n<hi rend="sup">o</hi>  481; Knipping, Reg.2, n<hi rend="sup">o</hi>  1002 zu März 27; Stumpf 4154 mit Beanstandung des Datums.</p></div>
+				
+				
+					<div type="commentary"><p>Bei dem mit dem Itinerar unvereinbaren Datum handelt es sich eindeutig um eine Verschreibung; der Kaiser ist erst ab dem 24. März in Aachen nachweisbar (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-03-24_1_0_4_2_3_289_2062.html" type="internal" n="regesten">2062</ref>), weshalb das D. in den Regesta Imperii auch an dieser Stelle eingereiht wurde. — Zur Originalität der Überlieferung vgl. gegen Joesten, Windeck, in: Zs. des Bergischen Geschichtsvereins 29 (1893) 138 f. die Vorbemerkung zum D. — Zur Identifizierung der unter den Zeugen genannten Persönlichkeiten vgl. Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 107 f. und 126, sowie auch Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 259 (Arnold von Rode), 267 (zu Kapellan Heinrich), 271 (zu dem rheinischen Edlen Reinbert <hi rend="italic">Scvzsper</hi>), 273 (zu Sibodo, dem Sohn des Albero, genannt nach Rosbach, Rhein-Sieg-Kreis), 274 (zu Vogt Dietrich von Echt sowie zum Kölner Ministerialen Dietrich von Geislar); zu dem nach Odeigne (belg. Prov. Luxemburg) benannten Goswin <hi rend="italic">Odagger</hi>  vgl. Plassmann, a.a.O., 266.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0106" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_612" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

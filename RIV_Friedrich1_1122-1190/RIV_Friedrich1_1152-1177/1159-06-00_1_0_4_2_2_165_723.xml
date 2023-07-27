@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 723</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-06-00_1_0_4_2_2_165_723"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-06-00_1_0_4_2_2_165_723"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-06-00_1_0_4_2_2_165_723</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 723</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-06-01" to="1159-06-30">(1159 Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt die Kardinallegaten Oktavian, Kardinalpresbyter von S. Cecilia, und Wilhelm, Kardinalpresbyter von S. Pietro in Vincoli, früher Archidiakon von Pavia, die wegen der Erneuerung des Konstanzer Vertrages (Regg. 164 und 169) vorstellig werden, was der Kaiser unter Hinweis auf die päpstlichen Abmachungen mit Sizilien (vgl. Reg. 409) ablehnt. Gleichzeitig erheben die Legaten schwerwiegende Forderungen, darunter die nach einem Verbot der Entsendung kaiserlicher Boten nach Rom ohne Wissen des Papstes, nach Respektierung der päpstlichen Regalienhoheit in Rom, Freiheit der päpstlichen Güter vom Fodrum außerhalb des Romzuges und Rückstellung der Mathildischen Güter, des Herzogtums Spoleto und der Inseln Sardinien und Korsika sowie weiterer genannter Besitzungen. Des weiteren dürften die Bischöfe Italiens dem Kaiser nur den Treueid ohne Mannschaft leisten, die kaiserlichen Boten dürften nicht in den bischöflichen Pfalzen absteigen. Friedrich weist diese Forderungen mit Nachdruck zurück, indem er seinerseits Protest gegen Reisen von Kardinälen ins Imperium ohne seine Genehmigung erhebt, seine prinzipielle Regalienhoheit gegenüber den Bischöfen betont und die Herrschaft über die Stadt Rom als wesentlichen Bestandteil seiner Kaiserwürde bezeichnet. Er schlägt die Einsetzung eines Schiedsgerichtes vor. Mitglieder einer bei Hofe erschienenen stadtrömischen Gesandtschaft ergreifen in den Verhandlungen Partei für den Kaiser. Papst Hadrian IV. lenkt trotz eines Schreibens seiner beim Kaiser befindlichen Kardinäle, das einem Boten des Herrschers mitgegeben wird, nicht ein.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 34-36, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 275 ff., vgl. l. IV cap. 62, S. 304.</p></div>
+				
+				
+					<div type="commentary"><p>Hauptquelle ist der bei Rahewin IV/34 überlieferte Brief Eberhards von Bamberg an Eberhard von Salzburg (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-07-20_1_0_4_2_2_181_739.html" type="internal" n="regesten">739</ref>), daneben das ebenfalls bei Rahewin IV/36 überlieferte Schreiben des Kaisers an den Salzburger (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_180_738.html" type="internal" n="regesten">738</ref>). - Vgl. zuletzt Maccarrone, Papato e Impero, 304 ff., der wichtige Korrekturen gegenüber Dunken, Politische Wirksamkeit der Legaten, 49 ff. Bringt. Geht man mit Maccarrone, a. a. O., 305 Anm. 64 davon aus, daß es damals nur eine einzige stadtrömische Gesandtschaft an den Kaiser gab, so ist MG. DF. I. 269 eindeutig in den Zeitraum Juni/Juli 1159 zu setzen, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_180_738.html" type="internal" n="regesten">738</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0059" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

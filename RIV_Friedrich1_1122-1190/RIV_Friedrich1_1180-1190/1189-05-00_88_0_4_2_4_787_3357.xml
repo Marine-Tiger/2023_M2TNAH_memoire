@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3357</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_88_0_4_2_4_787_3357"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_88_0_4_2_4_787_3357"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_88_0_4_2_4_787_3357</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3357</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1185–1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das von seinen Vorgängern erbaute 									<hi rend="spaced">Kloster Weingarten</hi> (<hi rend="italic">Winigartin</hi>) in seinen Schutz und bestätigt ihm die 								Privilegien und Besitzungen, insbesondere die Rechte gegenüber den 								Zinshörigen und am Walde von Altdorf. – Unter Heranziehung der 								zweifellos echten Urkunde König Heinrichs (VII.) von 1226 März 31 								(B.-Ficker Reg. 4002; Wirtemberg. UB. 3, 193 n<hi rend="sup">o</hi> 								711), die ihrerseits zum Großteil auf die Urkunde Friedrichs II. von 								1215 Juni 20 (MG.DF.II.308; B.-Ficker Reg. 805; Wirtemberg. UB. 3, 								23 n<hi rend="sup">o</hi> 573) zurückgeht, sowie – hinsichtlich der 								Besitzsicherungsformel – in Anlehnung an das Formular der 								päpstlichen Privilegien, etwa der Urkunde Innocenz’ II. von 1143 für 								Weingarten (Jaffé-L. 8.355; Germ. Pont. 2/1, 228 n<hi rend="sup">o</hi> 5) von dem durch Krallert, Urkundenfälschungen des 								Klosters Weingarten, Archiv für Urkundenforschung 15 (1938) 269 ff., 								mit der Sigle A bezeichneten Weingartener Fälscher in der zweiten 								Hälfte des 13. Jh. verfertigtes Machwerk. <span n="incipit"><hi rend="italic">Licet ad omnes.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Licet ad omnes.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1274 oder bald danach im 								Codex minor traditionum des Klosters Weingarten p. 14, Staatsarchiv 								Stuttgart (jetzt: Landesarchiv Baden-Württemberg, Hauptstaatsarchiv 								Stuttgart), B 515, Hs. 3a, S. 14 (B). Drucke: Wirtemberg. UB. 								4, Anhang, LI; MG.DF.I.1079.</p></div>
+				
+				
+					<div type="commentary"><p>Die Anfertigung dieser Fälschung hängt mit der 								Sicherung der Rechte des Klosters am Altdorfer Wald zusammen; vgl. 								dazu sowie zur diplomatischen Bewertung dieses Stückes, bei dem 								nicht zu klären ist, ob es überhaupt jemals in Urkundenform 								ausgefertigt worden ist, die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

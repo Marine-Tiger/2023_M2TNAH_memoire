@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2485</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-04-11_1_0_4_2_3_713_2485"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-04-11_1_0_4_2_3_713_2485"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-04-11_1_0_4_2_3_713_2485</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1387196114" value="2013-12-16"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2485</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-04-11" to="1179-04-11">1179  April 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Selz (nö. Hagenau)">Selz</placeName>
+												<location><geo decls="#WGS">48.8950622, 8.107778</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III id. april., Selse)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Die Corroboratio hat HE verfaßt, das restliche Diktat stammt vielleicht von außerhalb der Kanzlei, geschrieben wurde das Stück zur Gänze, allerdings wahrscheinlich nicht in einem Zug, sondern in drei Absätzen, von HE</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Münster und Arnold von Osnabrück, Markgraf Otto von Brandenburg, Graf Bernhard (von Anhalt), Markgraf Dietrich (der Lausitz), die Grafen Heinrich von Diez und Wilhelm von Jülich (<hi rend="italic">Guleke</hi>), Goswin von Heinsberg, Vogt Wilhelm von Aachen und Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet, daß Erzbischof Philipp von Köln dem <hi rend="spaced">Grafen Engelbert von Berg</hi>  und dessen Erben den Hof Lantershofen um 126 Mark, die Mark zu 12 Kölner <hi rend="italic">solidi</hi>, verpfändet hat. <span n="witnesses">Z.: die Bischöfe Hermann von Münster und Arnold von Osnabrück, Markgraf Otto von Brandenburg, Graf Bernhard (von Anhalt), Markgraf Dietrich (der Lausitz), die Grafen Heinrich von Diez und Wilhelm von Jülich (<hi rend="italic">Guleke</hi>), Goswin von Heinsberg, Vogt Wilhelm von Aachen und Werner von Bolanden</span>. — <span n="clerk">Die Corroboratio hat HE verfaßt, das restliche Diktat stammt vielleicht von außerhalb der Kanzlei, geschrieben wurde das Stück zur Gänze, allerdings wahrscheinlich nicht in einem Zug, sondern in drei Absätzen, von HE</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Fidelium imperii contractus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Fidelium imperii contractus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Düsseldorf (A). Drucke: Lacomblet, Niederrhein.UB. 1, 328 n<hi rend="sup">o</hi>  467; MG.DF.I.776. Faks.: Kaiserurk. in Abb. X, 13<hi rend="sup">b</hi>. Regg.: Knipping, Reg. 2, n<hi rend="sup">o</hi>  1121; Stumpf 4276.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Erwerbung von Lantershofen vom Bistum Lüttich vgl. Knipping, a.a.O., n<hi rend="sup">o</hi>  1020; diese sowie andere Erwerbungen von Lüttich bestätigte der Kaiser dem Kölner Erzbischof im Frühjahr 1180 durch D.797 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1180-04-00_2_0_4_2_3_771_2542.html" type="internal" n="regesten">2542</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0250" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00199" type="external" n="unkown">Abbildung in KUA</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1102</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-07-02_1_0_4_2_2_544_1102"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-07-02_1_0_4_2_2_544_1102"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-07-02_1_0_4_2_2_544_1102</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244716" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1102</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-07-02" to="1162-07-02">1162 Juli (1 oder 2 ?)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Bologna">Bologna</placeName>
+												<location><geo decls="#WGS">44.5, 11.3333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII<hi rend="sup">o</hi>  non. iulii, Bononię post destructum Medyolanvm)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="gesperrt">Konrad<hi rend="italic">de Prato</hi> </hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice domini Reinaldi Coloniensis ęlecti et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <span sameAs="recipient"><hi rend="gesperrt">Konrad<hi rend="italic">de Prato</hi> </hi> </span>  wegen seiner treuen Dienste das Gut <hi rend="italic">Pratvm</hi>  innerhalb der angegebenen Grenzen, nämlich zwischen dem Fluß Schwechat, der Donau und dem Dorf Mannswörth, das Herzog Heinrich von Österreich als Reichslehen innegehabt und dem Kaiser zurückgestellt hat, zu freiem Eigen und bestätigt ihm die beiden Wäldchen Albern und <hi rend="italic">Cygeyswierth</hi>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice domini Reinaldi Coloniensis ęlecti et Ytalię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von RG</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Ratio suadet et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ratio suadet et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Niederösterreichisches Landesarchiv, Wien (A). Drucke: Sickel, Mon. graphica V, 84; MG. DF. I. 373. Faks.: Sickel, a. a. O., Tafel 16; Das Bundesland Niederösterreich 1920 bis 1930, 467; Havelka, Das Dorf, wo einst der Eber hauste, 6. Reg.: Meiller, Babenberger Reg. 45 n<hi rend="sup">o</hi>  60 und 228 n<hi rend="sup">o</hi>  229; Fichtenau - Dienst, UB. zur Gesch. d. Babenberger 4/1, 166 n<hi rend="sup">o</hi>  819; Lohrmann - Opll, Regesten zur Frühgeschichte Wiens, 55 n<hi rend="sup">o</hi>  133; Stumpf 3957.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Das DF.I.373 für Konrad de Prato ist nunmehr ediert in: Urkunde und Geschichte, bearb. von Weltin u. a. (Niederösterreichisches Urkundenbuch-Vorausband: Die Urkunden des Niederösterreichischen Landesarchivs 1109–1314, 2004) 26 no 6; hier auch ein überaus ausführlicher und weiterführender Kommentar (28 ff.: wichtige Angaben zur genealogischen Einordnung des Empfängers sowie Richtigstellung der Identifizierung der Besitzung der <hi rend="italic">silvula que dicitur Cygeyswirth</hi> mit der heute noch bestehenden „Zwegswirther Au“ in der KG Kaiserebersdorf).</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0152" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_373" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

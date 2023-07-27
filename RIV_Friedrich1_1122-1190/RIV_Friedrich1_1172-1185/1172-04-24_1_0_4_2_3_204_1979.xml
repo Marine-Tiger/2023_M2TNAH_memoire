@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1979</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-24_1_0_4_2_3_204_1979"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-24_1_0_4_2_3_204_1979"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-04-24_1_0_4_2_3_204_1979</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597643" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1979</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-04-24" to="1172-04-24">1172 April 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII<hi rend="sup">o</hi>  kal. mau, Wirceburg)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Würzburger Empfängerdiktat, geschrieben von UB</scribe>
+				
+				
+					<testis function="witnesses">Bischof Reinhard von Würzburg, Domdekan Richolf, Dekan Perseus, Kustos Albert, Propst Berthold, Kantor Gottfried, Scholaster Johannes (alle von Würzburg), Propst Heinrich von Ansbach, Propst Werner von St. Johannes (Stift Haug zu Würzburg), der Pförtner Wezelo, der Kellermeister Konrad und Bruno (alles Geistliche der Domkirche zu Würzburg); die Laien: Markgraf Berthold von Vohburg, Konrad von Boxberg und sein Bruder Kraft, Rupert von Frohburg, Diemo und Gottfried von Gundelfingen, Konrad von Weikersheim, Wolfram von Bebenburg, die Schultheißen Heinrich und Billung (von Würzburg), Kämmerer Herold, Boto, Marschall Heinrich, Truchseß Arnold und Mundschenk Konrad</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich übergibt der <hi rend="spaced">bischöflichen Kirche zu Würzburg</hi>  als Entschädigung für die Einkünfte aus dem Hof Katzenwicher, der ihm zuvor auf seine Bitten hin von dem verstorbenen Bischof Herold übertragen worden war und den dann Elekt Reinhard von Würzburg nach dem Verzicht des damit belehnten Propstes Werner von St. Johannes (Stift Haug zu Würzburg), des Neffen Bischof Herolds, an seinen (des Kaisers) Sohn, Herzog Friedrich von Schwaben, auf Lebenszeit und ausschließlich zu Wohnzwecken verliehen hat, sechs Joch Weingärten auf dem Brunneberg, gewährt den Domherren das freie Testierrecht für ihre Fahrhabe innerhalb der stiftischen Immunität und befreit deren Häuser daselbst von jeglicher Einquartierungspflicht bei Hoftagen, wovon nur die Unterbringung von weltlichen und geistlichen Fürsten ausgenommen sein soll. <span n="witnesses">Z.: Bischof Reinhard von Würzburg, Domdekan Richolf, Dekan Perseus, Kustos Albert, Propst Berthold, Kantor Gottfried, Scholaster Johannes (alle von Würzburg), Propst Heinrich von Ansbach, Propst Werner von St. Johannes (Stift Haug zu Würzburg), der Pförtner Wezelo, der Kellermeister Konrad und Bruno (alles Geistliche der Domkirche zu Würzburg); die Laien: Markgraf Berthold von Vohburg, Konrad von Boxberg und sein Bruder Kraft, Rupert von Frohburg, Diemo und Gottfried von Gundelfingen, Konrad von Weikersheim, Wolfram von Bebenburg, die Schultheißen Heinrich und Billung (von Würzburg), Kämmerer Herold, Boto, Marschall Heinrich, Truchseß Arnold und Mundschenk Konrad</span>. — <span n="clerk">Würzburger Empfängerdiktat, geschrieben von UB</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Attestatione divalium constitutionum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Attestatione divalium constitutionum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1294 (A). Kop.: Abschrift aus dem Ende des 13.Jh. im Standbuch n<hi rend="sup">o</hi>  5 f.119, Staatsarchiv Würzburg (B). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 408 n<hi rend="sup">o</hi>  524; MG.DF.I.591. Reg.: Stumpf 4135.</p></div>
+				
+				
+					<div type="commentary"><p>Hinsichtlich der Verleihung der Testierfreiheit wird das römische Kaiserrecht herangezogen; bemerkenswert für das Diktat sind auch Anklänge an den Cod.Iust. und die Verwendung des römischrechtlichen Begriffes <hi rend="italic">fideicommissarius.</hi>  Auf den Rechtsinhalt könnte auch Protonotar Wortwin, der die Gewährung des Testierrechtes an die Wormser Kleriker (D.492 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-09-26_1_0_4_2_2_952_1510.html" type="internal" n="regesten">1510</ref>) verfaßt hat, Einfluß genommen haben. — Zum Rechtsinhalt vgl. auch D.606 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-07-02_1_0_4_2_3_261_2036.html" type="internal" n="regesten">2036</ref>) für den Mainzer Klerus.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0078" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_591" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

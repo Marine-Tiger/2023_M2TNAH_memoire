@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2738</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-00-00_3_0_4_2_4_159_2738"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-00-00_3_0_4_2_4_159_2738"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-00-00_3_0_4_2_4_159_2738</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2738</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-01-01" to="1183-12-31">1183
+									(Herbst)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">Ulm</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Herzog Leopold von Österreich, Pfalzgraf 									Rudolf von Tübingen, Graf Manegold von Veringen und sein Sohn 									Eberhard, Graf Burchard von Hohenberg (<hi rend="italic">Hohinberc</hi>), Konrad von Schussenried (<hi rend="italic">Scuzinriet</hi>), Diemo von Gundelfingen und Ernst von 									Altsteußlingen (<hi rend="italic">Stuzzelingen</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>In Gegenwart Kaiser Friedrichs stiftet der Edelfreie 									(<hi rend="italic">nobilis</hi>) Witegow von Albeck das 								Augustiner-Chorherrenstift auf dem St. Michelsberg zu Ulm (= 								Wengenkloster) und übergibt es Abt Diethelm von der Reichenau. <span n="witnesses">Z.: Herzog Leopold von Österreich, Pfalzgraf 									Rudolf von Tübingen, Graf Manegold von Veringen und sein Sohn 									Eberhard, Graf Burchard von Hohenberg (<hi rend="italic">Hohinberc</hi>), Konrad von Schussenried (<hi rend="italic">Scuzinriet</hi>), Diemo von Gundelfingen und Ernst von 									Altsteußlingen (<hi rend="italic">Stuzzelingen</hi>)</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in der Datierung der im Original 								erhaltenen Urkunde Abt Diethelms von der Reichenau von 1183 – – , 								Ulm (<hi rend="italic">regnante Friderico Romanorum imperatore 									invictissimo et semper augusto in ipsius conspectu apud 									Vlmam</hi>), ed. Wirtemberg. UB. 2, 233 n<hi rend="sup">o</hi> 								438; Stumpf 4369.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Ernst, Wengenkloster und Wengenkirche in 								Ulm, Ulm und Oberschwaben 30 (1937) 88 ff. (Foto der Urkunde nach S. 								88, Tafel VIII).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

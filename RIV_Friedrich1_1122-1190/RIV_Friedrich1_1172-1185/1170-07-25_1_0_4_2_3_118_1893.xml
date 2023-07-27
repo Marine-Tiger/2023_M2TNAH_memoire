@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1893</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-07-25_1_0_4_2_3_118_1893"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1170-07-25_1_0_4_2_3_118_1893"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1170-07-25_1_0_4_2_3_118_1893</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426685416" value="2015-03-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1893</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1170-07-25" to="1170-07-25">1170 Juli 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII<hi rend="sup">o</hi>  kal. augusti, Frankenfurt)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Henricus canc. vice Christiani Moguntini archiep.</hi></notarius>
+				
+				
+					<scribe>wohl unter Beteiligung von Wortwin und UB verfaßt, geschrieben von Heinrich D</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Philipp von Köln, die Bischöfe Eberhard von Bamberg und Gero von Halberstadt, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Pfalzgraf Otto von Wittelsbach, die Grafen Emicho von Leiningen, Poppo von Hollende (auch: von Ziegenhain), Rudolf von Ziegenhain, dessen Bruder Gozmar, Boppo von Hanstein, Berthold von Schauenburg, Eberhard von Sayn sowie Albert von Ballhausen und sein Sohn Konrad, Markward von Grumbach und Sibodo von Frankenstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet einen zwischen den an den Hof gekommenen Fürsten <hi rend="spaced">Abt Burchard von Fulda und Landgraf Ludwig (von Thüringen)</hi> vollzogenen Gütertausch, nach dem Abt Burchard nach Beratung mit ihm (dem Kaiser) sowie den Eigenleuten und Ministerialen seines Klosters das zuvor an Graf Hermann von Orlamünde verlehnte Allod zu Creuzburg nach dessen Rückstellung an seine Abtei an den Landgrafen, dessen Gemahlin Jutta und dessen Söhne zu freiem Eigen übertragen hat, wofür der Landgraf an Fulda sein Allod in Wu<hi rend="sup">o</hi> denesberg (wohl: Gudensberg), sowie Einkünfte in Streu (villa <hi rend="italic">Strowe</hi>) und Ettenhausen (<hi rend="italic">Hattenhusen</hi>) übergeben hat. <span sameAs="testis">Z.: Erzbischof Philipp von Köln, die Bischöfe Eberhard von Bamberg und Gero von Halberstadt, Herzog Heinrich (der Löwe) von Bayern und Sachsen, Pfalzgraf Otto von Wittelsbach, die Grafen Emicho von Leiningen, Poppo von Hollende (auch: von Ziegenhain), Rudolf von Ziegenhain, dessen Bruder Gozmar, Boppo von Hanstein, Berthold von Schauenburg, Eberhard von Sayn sowie Albert von Ballhausen und sein Sohn Konrad, Markward von Grumbach und Sibodo von Frankenstein</span>. — <span n="chancellor"><hi rend="italic">Henricus canc. vice Christiani Moguntini archiep.</hi> </span>; <span n="clerk">wohl unter Beteiligung von Wortwin und UB verfaßt, geschrieben von Heinrich D</span>; <span n="seal">SI.2.</span> <span n="incipit"><hi rend="italic">Quotienscumque in humanis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quotienscumque in humanis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Marburg (A). Drucke: Posse, CD.Sax.reg.I 2, 256 n<hi rend="sup">o</hi> 369; MG.DF.I.570. Faks.: Koch, Schrift der Reichskanzlei Abb.76 Teilfaks. Regg.: Goerz, Mittelrhein.Reg. 2, n<hi rend="sup">o</hi> 282; Dobenecker, Reg.2, n<hi rend="sup">o</hi> 401; Stumpf 4117.</p></div>
+				
+				
+					<div type="commentary"><p>Da der in der Zeugenreihe genannte Bischof Eberhard von Bamberg bereits am 17. Juli 1170 verstorben ist, könnte hier eine uneinheitliche Datierung anzunehmen sein, vgl. Dobenecker, a.a.O. — Zur Frage des Diktats vgl. die Vorbemerkung zum D. — Zu dem unter den Zeugen genannten Grafen Boppo von Hanstein vgl. Schieffer, Rheinische Zeugen, in: Geschichtliche Landeskunde der Rheinlande. Regionale Befunde und raumübergreifende Perspektiven. Georg Droege zum Gedenken (1994), 108 f., sowie Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 243; zu Graf Poppo von Hollende vgl. Plassmann, a.a.O., 255 und 260.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0052" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4816672" type="external" n="unkown">Abbildung in Arcinsys (HStA Marburg)</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_570" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

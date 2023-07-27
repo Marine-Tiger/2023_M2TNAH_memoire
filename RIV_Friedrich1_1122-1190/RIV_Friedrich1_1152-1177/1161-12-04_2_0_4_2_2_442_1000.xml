@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1000</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-12-04_2_0_4_2_2_442_1000"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-12-04_2_0_4_2_2_442_1000"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-12-04_2_0_4_2_2_442_1000</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243714" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1000</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-12-04" to="1161-12-04">1161 Dezember 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Lodi">Lodi</placeName>
+												<location><geo decls="#WGS">45.3167, 9.5</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(II non. decembris, Laudę)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rüeggisberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Odalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung von D. 18 (Reg. 115 = VU.) geschrieben von RC</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, die Bischöfe Eberhard von Bamberg und Heinrich von Würzburg, Abt Erlebold von Stablo, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, die Markgrafen Otto von Meißen und Dietrich (von der Lausitz), die Grafen Dedo (von Groitzsch) und Albert (von Sachsen), Herzog Diepold (<hi rend="italic">Teobaldo</hi>) von Böhmen, Graf Ulrich von Lenzburg, Markward von Grumbach, Marschall Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wiederholt D. 18 (Reg. 115) für das Kloster <span sameAs="recipient"><hi rend="spaced">Rüeggisberg</hi> </span>. <span n="witnesses">Z.: Erzbischof Rainald von Köln, die Bischöfe Eberhard von Bamberg und Heinrich von Würzburg, Abt Erlebold von Stablo, Herzog Friedrich von Schwaben, Pfalzgraf Konrad bei Rhein, die Markgrafen Otto von Meißen und Dietrich (von der Lausitz), die Grafen Dedo (von Groitzsch) und Albert (von Sachsen), Herzog Diepold (<hi rend="italic">Teobaldo</hi>) von Böhmen, Graf Ulrich von Lenzburg, Markward von Grumbach, Marschall Heinrich</span>. - <span n="chancellor"><hi rend="italic">Odalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">in Wiederholung von D. 18 (Reg. 115 = VU.) geschrieben von RC</span>; <span n="seal">SI.</span>  <span n="incipit"><hi rend="italic">Si his, qui</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si his, qui</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Bern (A). Drucke: Stumpf, Acta ined. 504 n<hi rend="sup">o</hi>  355; MG. DF. I. 344. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2104; Wauters, Table chronol. 7/1, 278; Stumpf 3923.</p></div>
+				
+				
+					<div type="commentary"><p>Kaiserliche Wiederholung der Urkunde aus der Königszeit.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0125" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_344" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

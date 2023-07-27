@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3186</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-00-00_3_0_4_2_4_612_3186"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-00-00_3_0_4_2_4_612_3186"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-00-00_3_0_4_2_4_612_3186</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3186</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-01-01" to="1188-12-31">(1188
+									Sommer)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Bürger der Stadt Bremen ersuchen Kaiser 								F(riedrich) schriftlich darum, bei ihrem Erzbischof (Hartwig) für 								sie einzutreten. Sie haben ihrem Erzbischof auf seine Bitte um 								Unterstützung eine Sonderabgabe von 200 Mark geleistet haben, er 								habe ihnen aber angedroht , dass ihnen dies seine Gnade nicht 								erhalten werde.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fingiertes Schreiben, Jüngere Hildesheimer 								Briefsammlung, ed. de Kegel, MG. Briefe VII, 94 n<hi rend="sup">o</hi> 47; Diestelkamp – Rotter, Urkundenregesten 1, 403 n<hi rend="sup">o</hi> 511.</p></div>
+				
+				
+					<div type="commentary"><p>Obwohl nicht nachweisbar ist, dass dieses 								Schreiben tatsächlich existiert hat (vgl. dazu auch die Vorbemerkung 								zu DF.I.955), weist sein Inhalt doch Bezüge zu den damaligen 								Geschehnissen auf; vgl. dazu sowie zur zeitlichen Einordnung Hucker, 								Zahlungen Bremer Bürger, Bremisches Jb. 65 (1987) 125 ff., sowie de 								Kegel, a.a.O., 94 Anm. 3. – Vgl. auch die Antwort mit Reg. 								†3187.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

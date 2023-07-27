@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2717</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-25_2_0_4_2_4_138_2717"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-25_2_0_4_2_4_138_2717"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-06-25_2_0_4_2_4_138_2717</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843791" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2717</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-06-25" to="1183-06-25">1183
+									Juni 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Konstanz (<hi rend="italic">VII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iulii, </hi> <hi rend="italic">apud Constantiam in sollempni curi</hi>a)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung des D.141 (Reg. 400; VU.) 									geschrieben von Robert, der auch die selbstständigen Teile 									verfasst hat</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Münster und Wilhelm 									von Asti, Rudolf, Protonotar des kaiserlichen Hofes, die Herzöge 									Otto von Bayern und Friedrich von Schwaben, die Markgrafen 									Berthold von Istrien, Hermann von Verona (von Baden) und 									Heinrich Guercio von Savona, Konrad von Boxberg, Kuno von 									Münzenberg, Kämmerer Rudolf und Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">bischöfliche 									Kirche von Bergamo</hi> auf Bitten des Bischofs Wala (<hi rend="italic">Gvalo</hi>) in seinen Schutz und bestätigt ihr 								gemäß den Privilegien seiner Vorgänger ihre namentlich angeführten 								Besitzungen und Rechte, wobei die von König Konrad (III.) und 								anderen seiner Vorgänger bestätigten Burgen Bruntino und Lavello 								(über den Wortlaut der VU. hinaus) eigens genannt werden. <span n="witnesses">Z.: die Bischöfe Hermann von Münster und Wilhelm 									von Asti, Rudolf, Protonotar des kaiserlichen Hofes, die Herzöge 									Otto von Bayern und Friedrich von Schwaben, die Markgrafen 									Berthold von Istrien, Hermann von Verona (von Baden) und 									Heinrich Guercio von Savona, Konrad von Boxberg, Kuno von 									Münzenberg, Kämmerer Rudolf und Werner von Bolanden </span>. 									–<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Maguntine sedis archiep. et Germanię archicanc.</hi></span>; 									<span n="clerk">in Wiederholung des D.141 (Reg. 400; VU.) 									geschrieben von Robert, der auch die selbstständigen Teile 									verfasst hat</span>; <span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Gloriosum est et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Gloriosum est et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtbibliothek Bergamo 								(A). Drucke: Lupi, CD. Bergom. 2, 1345; MG.DF.I.849. Reg.: 								Stumpf 4361.</p></div>
+				
+				
+					<div type="commentary"><p>Die in der VU. enthaltene Verleihung des 								Münzrechts wird hier nicht erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_849" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

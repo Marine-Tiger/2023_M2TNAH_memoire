@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2086</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1167-08-13_1_0_4_2_3_313_2086"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1167-08-13_1_0_4_2_3_313_2086"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-08-13_1_0_4_2_3_313_2086</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430898742" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2086</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-08-13" to="1167-08-13">1167 August — 1174 Juli 13</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Ohne Anteil der Reichskanzlei geschrieben von derselben Hand wie DF.I.645 (= Reg. 2161)</scribe>
+				
+				
+					<testis function="witnesses">Für die Einhaltung dieses Vertrages bürgen auf Bitten des Bischofs seine Kleriker, (Dom)kustos Eberhard und Archidiakon Godebold, sowie die Laien Hartnid, der Oheim des Bischofs, Ulrich von Waischenfeld, Gundelous der Ältere (wohl Bamberger Ministeriale), Gundelous der Jüngere (wohl Bamberger Ministeriale), Gundelous von Rotach (Bamberger Ministeriale), Hermann und Albert von Thüngfeld, Markward von Wilhelmsdorf, Herdegen und Volnand von Wiesenthau, Mundschenk Otto, Heinrich von Weiden (<hi rend="italic">Widen</hi>) und Engelhart von Biebelried.</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit dem <hi rend="spaced">Bischof (Hermann) von Bamberg</hi>  einen Vertrag über die Übertragung der Bamberger Lehen des Grafen Gebhard von Sulzbach an seine Söhne, der folgende Bestimmungen enthält: Der Kaiser verpflichtet sich, nach Erlangung der Zustimmung des Grafen dem Bischof 1000 Mark Silber, den zu nominierenden Freunden des Bischofs 20 Pfund und dem Domkapitel ein Gut mit einem jährlichen Ertrag von zehn Pfund zu geben, wobei der Bischof bis zur Regelung dieser Zahlung als Pfand das Lehen zwischen Amberg und Bamberg, das Kapitel 15 Pfund vom Zoll zu Kallmünz und die Freunde des Bischofs bis zum Tod des Grafen und zum Übergang der Lehen an die Kaisersöhne zehn Fuhren Wein aus Frickenhausen erhalten sollen; von der Übertragung ausgenommen sollen sein der Lungau und die Lehen von Passau in Richtung nach Österreich sowie die Vogtei Winzer mit der Burg Hilgartsberg, die aber der Bischof nicht zu Lehen ausgeben darf. Der Bischof verpflichtet sich, die Sulzbacher Lehen auch dann an die Kaisersöhne zu übertragen, wenn der Graf nicht einwilligt, aber ohne Erben stirbt, was selbst dann gelten soll, wenn der Kaiser nach dem Tod des Grafen vorzeitig verstirbt (... <hi rend="italic">etiam si dominus imperator premoriatur post mortem comitis.</hi>). Die Kaisersöhne werden die Vogteien auf diesen Lehen nicht weiterverlehnen, sondern <hi rend="italic">procuratores</hi>  unter Mitwirkung des Bischofs einsetzen, und sie verpflichten sich, die beiden Berge Steglich bei Banz und Senftenberg weder selbst noch von jemand anderem befestigen zu lassen. <span n="witnesses">Für die Einhaltung dieses Vertrages bürgen auf Bitten des Bischofs seine Kleriker, (Dom)kustos Eberhard und Archidiakon Godebold, sowie die Laien Hartnid, der Oheim des Bischofs, Ulrich von Waischenfeld, Gundelous der Ältere (wohl Bamberger Ministeriale), Gundelous der Jüngere (wohl Bamberger Ministeriale), Gundelous von Rotach (Bamberger Ministeriale), Hermann und Albert von Thüngfeld, Markward von Wilhelmsdorf, Herdegen und Volnand von Wiesenthau, Mundschenk Otto, Heinrich von Weiden (<hi rend="italic">Widen</hi>) und Engelhart von Biebelried.</span> — <span n="clerk">Ohne Anteil der Reichskanzlei geschrieben von derselben Hand wie DF.I.645 (= Reg. 2161)</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">De beneficio comitis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">De beneficio comitis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Bamberg, Bamberger Urkunden 320 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 417 n<hi rend="sup">o</hi>  527; MG.DF.I.624. Reg.: Stumpf 4166.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem Tod Berengars, des einzigen Sohnes Graf Gebhards von Sulzbach, im August 1167 vor Rom (vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-08-02_1_0_4_2_2_1142_1697.html" type="internal" n="regesten">1697</ref>) und aus DF.I.625 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-07-13_1_0_4_2_3_314_2087.html" type="internal" n="regesten">2087</ref>). Nach von Guttenberg, Bistum Bamberg 154 f. ist der Vertrag wahrscheinlich im Juni 1174 zu Regensburg geschlossen worden. — Zu diesem Stück, das als durch das kaiserliche Siegel beglaubigte, formlose Autzeichnung eines bereits vorher abgeschlossenen Übereinkommens zu gelten hat, vgl. zuletzt Riedmann, Verträge, 147 ff. — Zu den unter den Zeugen genannten Bamberger Ministerialen vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 266 f.; zu Heinrich von Weiden (Oberpfalz) vgl. Plassmann, a.a.O., 268.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0114" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_624" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

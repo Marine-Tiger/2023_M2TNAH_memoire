@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1697</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-02_1_0_4_2_2_1142_1697"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-08-02_1_0_4_2_2_1142_1697"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-08-02_1_0_4_2_2_1142_1697</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1427903399" value="2015-04-01"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1697</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-08-02" to="1167-08-02">1167 (August 2/3 und die folgenden Tage)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Rom">Rom</placeName>
+												<location><geo decls="#WGS">41.9667, 12.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Nach einem schweren Regenguß am 2. August bricht in der großen Sommerhitze im Heer des Kaisers eine <span sameAs="recipient"><hi rend="spaced">verheerende Seuche</hi> </span>  aus, von der auch der Kaiser selbst befallen wird und die in der Folge zahlreiche Opfer in den Reihen der Kaiserlichen, insbesondere der Reichsfürsten, aber auch der Römer fordert: Unter den Toten werden namentlich Erzbischof Rainald von Köln († 14. August), die Bischöfe Konrad von Augsburg († 24. November), Alexander von Lüttich († 9. oder 10. August), Daniel von Prag († 9. August), Eberhard von Regensburg († 24. August), Gottfried von Speyer († 28. Januar 1168) und Hermann von Verden († 11. August), ungenannte Äbte, die Herzoge Friedrich von Schwaben († 19. August), Welf (VII.) († 12. September, Siena) und Theobald von Böhmen, die Grafen Burchard von Hallermund, H(einrich) von Nassau, Berchtold von Pfullendorf, Berengar von Sulzbach und Heinrich von Tübingen, Burggraf Hermann von Köln, der Edelfreie H(ermann) von Lippe (bei Boso als Graf bezeichnet), (Graf) Ludolf von Dassel, der Bruder Erzbischof Rainalds von Köln, sowie Aachener, der Lodeser Chronist Acerbus Morena († 18. Oktober, Siena) und ungenannte Konsuln angeführt. Die Zahl der Opfer wird einmal mit 7000 Toten und 20.000 toten Römern (Ann. Camerac.), dann mit 25.000 Toten im Heer (Roberti de Monte Cron.) angegeben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont. Anonymi (Morena), ed. Güterbock, MG. SS rer. Germ. N. S. VII, 206 ff. (Herzog von Schwaben, Herzog Welf VII., Erzbischof von Köln, Bischof von Lüttich, Acerbus Morena), Boso, ed. Duchesne, 417 f. (Herzog von Schwaben, Grafen von Nassau, Hallermund, Lippe und Dassel, Erzbischof von Köln, Bischof von Verden), Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 118 f. (Bischöfe von Prag und Lüttich, Erzbischof von Köln, Herzog von Schwaben, Herzog Welf VII.); vgl. des weiteren Aegidii Aureaevall. Gesta epp. Leod. l. III cap. 36, MG. SS XXV, 108 (Bischof von Lüttich), Ex Aimoni Cont. Sangermanensi, MG. SS XXVI, 152 (Herzog von Schwaben, Erzbischof von Köln), Albertus Miliolus, Cronica imperatorum, MG. SS XXXI, 642 (zu 1164), Ann. Aquenses, MG. SS XXIV, 38 (Erzbischof von Köln, Bischof von Lüttich, Herzog von Schwaben, Aachener), Ann. Augustani minores, MG. SS X, 8 (Herzog von Schwaben, Herzog Welf VII.; zu 1166), Ann. Camerac., MG. SS XVI, 539 f. (Erzbischof von Köln, Bischof von Lüttich, 7000 Mann und 20.000 Römer), Ann. Ceccanenses, MG. SS XIX, 285 f., Ann. Cremonenses, MG. SS XXXI, 5, Ann. s. Disibodi, MG. SS XVII, 30 (zu 1166), Ann. Egmund., ed. Oppermann, Werken uitgeg. d. h. hist. genootschap. Utrecht 3. Ser. 61 (1933) 177 (teilweise wirr; Erzbischof von Köln, Bischöfe von Lüttich und Trier, Herzog von Schwaben), Ann. Engelberg., MG. SS XVII, 279 (Herzog von Schwaben, Herzog Welf VII.; zu 1166), Ann. Halesbrunn., MG. SS XVI, 14 (Herzog von Schwaben, Herzog Welf VII.), Ann. s. Iacobi Leodiensis, MG. SS XVI, 642 (Erzbischof von Köln, Bischof von Lüttich; zu 1166), Ann. Ianuenses I, ed. Belgrano, Fonti per la storia d'Italia 11, 204 f., Ann. Isingr. Ottenbur. mai., MG. SS XVII, 315 (Herzog von Schwaben, Herzog Welf VII., Bischöfe von Regensburg, Prag, Köln, Basel und Straßburg), Ann. Laubienses, MG. SS IV, 24 (Bischöfe von Cambrai und Lüttich, Erzbischof von Köln), Ex Annalibus Melrosensibus, MG. SS XXVII, 435 (Erzbischof von Köln), Ann. Palid., MG. SS XVI, 94 (Erzbischof von Köln, Bischöfe von Lüttich, Verden, Prag und Basel, Herzog von Schwaben), Ann. Parchenses, MG. SS XVI, 606 (Erzbischof von Köln, Bischof von Lüttich, Herzog von Schwaben; zu 1168), Ann. Plac. Gib., MG. SS XVIII, 462, Ann. Pragenses, MG. SS III, 121 (Herzog Theobald von Böhmen, Bischof von Prag; zu 1168), Ann. Ratispon., MG. SS XVII, 588 (Herzog von Schwaben, Herzog Welf VII., Bischof von Regensburg, Graf von Sulzbach), Annalium Ratisponensium Supplementum, MG. SS XXX/2, 747 (Herzog von Schwaben, Herzog Welf VII., Bischof von Regensburg; zu 1166), Ann. Salisburg. additamentum, MG. SS XIII, 238 (Herzog von Schwaben, Herzog Welf VII., sieben Bischöfe), Ann. Stad., MG. SS XVI, 345 f. (Erzbischof von Köln, Herzog von Schwaben), Ex Annalibus Teokesburiensibus, MG. SS XXVII, 464, Ex Annalibus Winchecumbensibus, MG. SS XVI, 481, Burchard von Ursberg, ed. Holder-Egger - Simson, MG. SS rer. Germ. in us. schol., 48 (vgl. die Hist. Welf.), Tolosani Chron. Favent., ed. Rossini, Rer. Ital. SS N. Ed. XXVIII/1, 58 f., Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 77 (Erzbischof von Köln, Bischof von Lüttich, Herzog von Schwaben, Herzog Welf VII.), Chron. Magni presb. Reichersperg., MG. SS XVII, 489 (Erzbischof von Köln, Elekt von Regensburg, Bischof von Prag, Herzog von Schwaben, Herzog Welf VII., Graf von Sulzbach), Ex Chronico quod dicitur Willelmi, MG. SS XXVI, 198, Cont. Admunt., MG. SS IX, 584 (Herzog von Schwaben, Herzog Welf VII.), Cont. Claustroneoburg. II, MG. SS IX, 616 (zu 1166), Cont. Cremifan., MG. SS IX, 545 (Herzog von Schwaben, Herzog Welf VII., Erzbischof von Köln; zu 1168), Cont. Gerlaci abb. Milovicensis, MG. SS XVII, 683 f. (Erzbischof von Köln, Bischof von Prag, Herzog von Schwaben, Herzog Theobald von Böhmen), E Continuatione anonyma Radulfi Nigri, MG. SS XXVII, 343 (Erzbischöfe von Köln und Mainz, Bischöfe von Lüttich und Regensburg), Cont. Zwetl. I, MG. SS IX, 538, Cron. s. Petri Erf. mod., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 184 (Erzbischof von Köln; zu 1166), Cron. Reinhardsbrunn., MG. SS XXX/1, 537 f. (Burggraf von Köln), Ex Gaufredi de Bruil prioris Vosiensis Chronica, MG. SS XXVI, 202, Gestorum abb. Trudon. Cont. secunda, MG. SS X, 351 (Bischof von Lüttich, Erzbischof von Köln), Gottfried von Viterbo, Gesta Frid., MG. SS XXII, 321 ff. V. 625 ff., Helmold von Bosau l. II cap. 106, ed. Schmeidler, MG. SS rer. Germ. in us. schol. (<hi rend="sup">3</hi> 1937) 208 f. (Erzbischof von Köln, Bischof von Verden, Herzog von Schwaben), Hist. Welf., ed. König, Schwäb. Chron. d. Stauferzeit 1 (1938) 66 ff. (Erzbischof von Köln, Bischöfe von Speyer, Regensburg, Prag, Verden und Lüttich, Herzog von Schwaben, Herzog Welf VII., Graf von Sulzbach, Graf von Tübingen), Ioh. Cod. Ann., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 8 (Erzbischof von Köln, Herzog von Schwaben), Otto von St. Blasien cap. 20, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 25 f. (Erzbischof von Köln, Bischöfe von Regensburg und Speyer, Herzog von Schwaben, Herzog Welf VII., Fürst (!) von Sulzbach), Rahewini Gesta Frid. Appendix, ed. Waitz - Simson, MG. SS rer, Germ. in us. schol., 349 (Erzbischof von Köln, Bischöfe von Prag, Regensburg, Augsburg, Speyer, Verden und Zeitz, Herzog von Schwaben, Herzog Welf VII., Graf von Sulzbach, Römer, zu 1168), Roberti de Monte Cron., MG. SS VI, 516 (Herzog von Schwaben, Erzbischof von Köln, Bischof von Lüttich, Konsuln; insgesamt 25.000 Tote im Heer des Kaisers), Romuald von Salerno, ed. Garufi, Rer. Ital. SS N. Ed. VII/1, 255 f. (Erzbischof von Köln, Herzog von Schwaben), Sicardi episcopi Cremonensis Cronica, MG. SS XXXI, 166, Sigeb. Auct. Aquicinense, MG. SS VI, 398 (Erzbischof von Köln, Bischöfe von Lüttich und Cambrai), Sigeb. Cont. Aquicinct., MG. SS VI, 412 (Erzbischof von Köln, Bischof von Lüttich, Herzog von Schwaben; zu 1166) und John of Salisbury, Letters Vol. II, ed. Millor - Brooke, n<hi rend="sup">o</hi>  225 (S. 392 ff.: Erzbischöfe von Köln und Mainz, Bischöfe von Lüttich und Regensburg); zum Tod des Grafen Berchtold von Pfullendorf vgl. die bei Schmid, Rudolf von Pfullendorf, 285 f. n<hi rend="sup">o</hi>  84a-84b erwähnten, späten Quellen. - Irrig unter den hier Verstorbenen genannt werden die Erzbischöfe (Hillin) von Trier (Ann. Egmund.) und Christian von Mainz (E Cont. anon. Radulfi) sowie die Bischöfe (Ludwig) von Basel (Ann. Isingr. Ottenbur. mai., Ann. Palid.), Nikolaus von Cambrai (Ann. Laubienses, Sigeb. Auct. Aquicinense), (Rudolf) von Straßburg (Ann. Isingr. Ottenbur. mai.) und (Udo) von Zeitz (Rahewini Gesta Frid. Appendix, Herzog Friedrich von Schwaben wird öfters als Herzog Karl (!) erwähnt (Ann. Egmund., Ioh. Cod. Ann., Roberti de Monte Cron., Romuald von Salerno, Sigeb. Cont. Aquicinct.).</p></div>
+				
+				
+					<div type="commentary"><p>Die Datierung des Ausbruchs der Seuche ergibt sich aus der Cont. Anonymi (Morena), vgl. auch Chron. Magni presb. Reichersperg.; zu den Quellen vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-08-09_1_0_4_2_2_344_902.html" type="internal" n="regesten">902</ref>. - Nikolaus von Cambrai starb nach den Gesta epp. Camerac. Cont., MG. SS VII, 508 in Mont-Saint-Martin an der Grenze seiner Diözese, nicht in Italien. - Zu den Ereignissen vgl. Giesebrecht, Kaiserzeit V, 550 ff. und Kestner, Alpenpässe und römische Malaria, Histor. Vierteljahrsschrift 30 (1935) 696 ff. sowie Opll, Barbarossa in Bedrängnis, DA 43 (1987) 196. - Zur Identifizierung der Verstorbenen vgl. auch Gattermann, Die deutschen Fürsten auf der Reichsheerfahrt, masch. phil. Diss. (Frankfurt a. M. 1956) Teil 2 (Listen).
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Der Tod Herzog Friedrichs von Schwaben am 19. August (1167) wird auch erwähnt in: Jahrzeitbücher des Konstanzer Domkapitels, hg. von Baumann (MG. Libri memoriales et Necrologia, N. S. VII/1) 290, wobei auch darauf auf eine Anniversarstiftung des Sohnes König Konrads III. hingewiesen wird (ebda.: <hi rend="italic">Fratribus datur unum talentum de Ahe</hi> [Aach, Stadt im Ldkr. Konstanz] in <hi rend="italic">Hêgǒ</hi>.).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0297" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

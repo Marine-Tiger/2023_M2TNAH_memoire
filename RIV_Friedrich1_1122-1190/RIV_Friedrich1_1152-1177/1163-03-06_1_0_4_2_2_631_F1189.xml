@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1189</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-03-06_1_0_4_2_2_631_F1189"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-03-06_1_0_4_2_2_631_F1189"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-03-06_1_0_4_2_2_631_F1189</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1189</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-03-06" to="1163-03-06">1163 März 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Nürnberg">Nürnberg</placeName>
+												<location><geo decls="#WGS">49.45, 11.0667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(secundo nonas martii, Norembergh)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Arduin</hi>  <hi rend="spaced">Wido</hi>  <hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Canavese</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canc. vice Conradi Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">wie in DF. I. 395 (= Reg. 1187)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert die Brüder <span sameAs="recipient"><hi rend="spaced">Arduin</hi> </span>, <span sameAs="recipient"><hi rend="spaced">Wido</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>, Grafen von <span sameAs="recipient"><hi rend="spaced">Canavese</hi> </span>, für ihre hervorragenden Dienste mit all ihren Gütern und Rechten im Gebiet von Canavese und mit den genannten Burgen und Herrschaften (<hi rend="italic">cum castris et iurisdictionibus Valpergię, Mascini, Massadii, Candię et Castilioni et cum tota castellania Baroni et medietate castrorum Riparolii et Fabricę, castri Ripę rubeę, Olianici et castri Ponti</hi>). <span n="witnesses">Z.: wie in DF. I. 395 (= Reg. 1187)</span>. - <span n="chancellor"><hi rend="italic">Christianus canc. vice Conradi Mogontini archiep. et archicanc.</hi> </span>; Fälschung auf Grundlage der DDF. I. 368 und 395 (VU. I und VU. II = Regg. 1092 und 1187). <span n="incipit"><hi rend="italic">Apud nostram maiestatem fides</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Apud nostram maiestatem fides</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Kop.: Abschrift einer Kopie von 1727 aus dem &amp;quot;originale esistente in caratteri antichi&amp;quot;, Archivio Conte di Valperga e Masino, Genealogia documenti mazzo 2 n<hi rend="sup">o</hi>  19 zu Turin (D). Druck: MG. DF. I. 1055.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dieser Fälschung, die vielleicht noch im Spätmittelalter entstand sein könnte, vgl. Riedmann, Reichskanzlei, MIÖG 76 (1968) 86 und die Vorbemerkung zum D. - Zum piemontesischen Adelsgeschlecht der Grafen von Canavese vgl. Haverkamp, Herrschaftsformen, 464 Anm. 346 und 642 Anm. 148.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0173" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

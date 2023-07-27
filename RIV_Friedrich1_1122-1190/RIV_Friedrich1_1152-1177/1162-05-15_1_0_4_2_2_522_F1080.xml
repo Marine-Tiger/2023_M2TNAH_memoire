@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1080</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-05-15_1_0_4_2_2_522_F1080"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-05-15_1_0_4_2_2_522_F1080"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-05-15_1_0_4_2_2_522_F1080</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244299" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1080</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-05-15" to="1162-05-15">1162 Mai 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Rom">Rom</placeName>
+												<location><geo decls="#WGS">41.9667, 12.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(die quintodecimo maii, Rome in ecclesia sancti Petri apostoli ante cathedralem ecclesiam)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Otto</hi>  <hi rend="spaced">Lomello</hi>  <hi rend="spaced">Lomellina</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">die Grafen Wilhelm <hi rend="italic">de Fraudia</hi>  und Gonfredus von Savoyen (<hi rend="italic">Sauogia</hi>), Richard <hi rend="italic">de Sturico, dominus provinciatis ducis Vauerie</hi>  (des Herzogs von Bayern), der vorgenannte Kardinal (welcher ?) und Rräfekt Petrus de Vincoli (von Rom)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich Barbarossa (!) bestellt den Grafen <span sameAs="recipient"><hi rend="spaced">Otto</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Lomello</hi> </span>  und der <span sameAs="recipient"><hi rend="spaced">Lomellina</hi> </span>  und alle gegenwärtigen und künftigen Angehörigen seines Hauses zu seinen Justitiaren mit dem Recht der kaiserlichen Vertretung für die Lombardei und gewährt das Recht der Ernennung von Notaren, Richtern und Königsboten für das gesamte Reich sowie das der Legitimation von unehelich Geborenen. <span n="witnesses">Z.: die Grafen Wilhelm <hi rend="italic">de Fraudia</hi>  und Gonfredus von Savoyen (<hi rend="italic">Sauogia</hi>), Richard <hi rend="italic">de Sturico, dominus provinciatis ducis Vauerie</hi>  (des Herzogs von Bayern), der vorgenannte Kardinal (welcher ?) und Rräfekt Petrus de Vincoli (von Rom)</span>. - Ungeschickte Fälschung eines gelehrten Juristen oder Notars wohl des frühen 14. Jh. <span n="incipit"><hi rend="italic">Quia cum datus sit</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia cum datus sit</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Kop.: Notarielle Bestätigung vom Jahre 1334, Staatsarchiv Florenz, Fondo Spedali de Prato (B). Druck: MG. DF. I. 1050. Reg.: Stumpf 3943a.</p></div>
+				
+				
+					<div type="commentary"><p>Das Spurium wird offensichtlich in einem Notariatsinstrument von 1330 April 4, Treviso (Biscaro, I conti di Lomello, Arch. stor. lomb. ser. IV 6, 1906, 379) bereits zitiert, vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0145" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1050" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

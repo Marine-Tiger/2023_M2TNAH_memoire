@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1412</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-00_2_0_4_2_2_854_1412"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-00_2_0_4_2_2_854_1412"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-00_2_0_4_2_2_854_1412</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1412</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-09-01" to="1164-09-30">1164 (Ende September/Anfang Oktober)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich zieht mit seiner Gemahlin Beatrix und fast allen Deutschen, die bei ihm in der Lombardei weilen, zur Sammlung eines Heeres nach Deutschland und entsendet seine Boten und Prokuratoren zur Wahrung der Reichsrechte und einkünfte in fast alle Städte der Lombardei. In Como läßt er Magister Paganus zurück, die Grafschaft Seprio gibt er an Graf Goswin (<hi rend="italic">Gozolinus</hi>, von Heinsberg), Girardus wird den Mailändern vorgesetzt, in Lodi setzt er Lambertus von Nimwegen als seinen Statthalter ein, der auch für die Cremasken zuständig ist, in der Burg Trezzo amtiert Ruinus als Amtsträger (<hi rend="italic">potestas</hi>), dessen Amtssprengel die ganze Martesana und das Bistum Bergamo umfaßt und bis nach Rivolta d'Adda reicht, und in Brescia setzt er Bertaldus (wohl Graf Berthold von Schauenburg) ein.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont. Anonymi (Morena), ed. Güterbock, MG. SS rer. Germ. N. S. VII, 177 f., Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 116 (Rückkehr nach Deutschland zu Oktober 1), Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 59 (zu November), Hist. ducum Vent., MG. SS XIV, 77 (Rückzug wegen der Rückschläge gegenüber der Lega Veronese), Otto von St. Blasien cap. 19, ed. Hofmeister, MG. SS rer. Germ. in us. schol., 21 (zu 1165, wegen der welfisch-tübingischen Fehde, vgl. dazu Reg. 1424).</p></div>
+				
+				
+					<div type="commentary"><p>Bei dem als Amtsträger für die Mailänder genannten Girardus handelt es sich wohl um einen Mann, der neben bzw. unter Markward von Grumbach amtierte (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-04_3_0_4_2_2_841_1399.html" type="internal" n="regesten">1399</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-09-00_1_0_4_2_2_853_1411.html" type="internal" n="regesten">1411</ref>), aber kaum um eine Verwechslung mit Markward (so Güterbock, Morena-Edition, 177 Anm. 4). Die Cont. Anonymi (Morena) bringt auch eine Angabe hinsichtlich Piacenzas, wobei aber bloß eine Nachricht von 1162 wiederholt wird; der in Piacenza amtierende Arnoldus Barbavaria (= Arnold von Dorstadt) hatte die Stadt jedenfalls im September 1164 verlassen (Ann. Plac. Gib., MG. SS XVIII, 462), vgl. dazu zuletzt Opll, Stadt und Reich, 381 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0226" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

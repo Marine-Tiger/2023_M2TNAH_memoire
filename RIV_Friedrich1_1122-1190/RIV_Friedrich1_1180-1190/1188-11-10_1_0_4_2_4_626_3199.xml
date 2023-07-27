@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3199</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-10_1_0_4_2_4_626_3199"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-10_1_0_4_2_4_626_3199"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-11-10_1_0_4_2_4_626_3199</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3199</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-11-10" to="1188-11-10">1188
+									November 8 () –
+									10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Erfurt">Erfurt</placeName>
+												<location><geo decls="#WGS">50.9667, 11.05</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt gemeinsam mit seinem Sohn, König 								Heinrich (VI.), wohlwollend die Boten des Grafen Balduin (V.) von 								Hennegau, nämlich Goswin von Thulin und den gräflichen Kleriker 								Gislebert (von Mons). Obwohl daselbst Bischof Petrus von Toul 								seinerseits als Gesandter für den Grafen (Heinrich) von der 								Champagne dem Kaiser 5.000, dem König ebenso 5.000, der Königin 								(Konstanze) 1.000, dem Hof 1.000 und darüber hinaus noch weiteren 								Ratgebern des Hofes etwa 1.700 Mark für die Unterstützung der 								Ansprüche des Grafen von der Champagne auf das Erbe Namur-Luxemburg 								verspricht, bleibt der Bischof angesichts des Erscheinens der 								Hennegauer Boten erfolglos, und er erhält die Erlaubnis, sich vom 								Hofe zu entfernen. Die Hennegauer Boten können gegen zugesagte 1.550 								Mark, die zu einem Drittel zu Weihnachten (25. Dezember 1188), zu 								einem Drittel zu Ostern (9. April 1189) und zu einem Drittel nach 								dem Tod des Grafen von Namur bezahlt werden sollen, die Gnade des 								Kaisers und des Königs erwerben (und damit die Hennegauer Ansprüche 								auf das Erbe Namur-Luxemburg sichern). Graf Balduin wird eingeladen, 								zum Empfang der Lehen zu König Heinrich (VI.) an den Rhein zu 								ziehen. Nachdem die Verhandlungen, deren Ergebnis schriftlich 								festgehalten wird (Gislebert: <hi rend="italic">peractis hiis 									compositionibus et scripto commendatis</hi>), am 10. November 								abgeschlossen sind, reisen die hennegauischen Boten gemeinsam mit 								Ritter F(riedrich) von Hausen, der den Hennegauer Grafen an den Hof 								(Heinrichs VI.) geleiten soll, in die Heimat zurück.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gislebert von Mons, ed. Vanderkindere, 228 								ff; vgl. B.-Baaken Reg. 72a.</p></div>
+				
+				
+					<div type="commentary"><p>Irrig wird in den Editionen der hennegauischen 								Chronik des Gislebert von Mons (auch in: MG. SS XXI, 563) die Angabe 									<hi rend="italic">in octava omnium sanctorum</hi> mit dem 6. 								November aufgelöst. – Zum Inhalt vgl. schon oben Reg. 3126; die mit 								der Erhebung des Herrschaftsgebietes des Hennegauers in den Rang 								einer Markgrafschaft verbundene Belehnung nahm Heinrich VI. sodann 								am 23. Dezember 1188 in Worms vor, vgl. dazu unten Reg. 3209. – Zu 								den vereinbarten Geldzahlungen siehe unten Reg. 3411 (in den 								Bemerkungen). – Friedrich von Hausen, der bekannte Minnesänger, 								hatte 1186/87 am Italienzug König Heinrichs VI. teilgenommen, vgl. 								zu ihm Regesten deutscher Minnesänger, hg. von Meves (2005) 279 ff., 								zum Stück a.a.O., 292 no 14.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

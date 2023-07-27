@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 404</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-00_3_0_4_2_1_406_404"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-06-00_3_0_4_2_1_406_404"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-06-00_3_0_4_2_1_406_404</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239077" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 404</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-06-01" to="1156-06-30">1156 (Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Würzburg  (Herbipoli)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cherlieu</hi>  <hi rend="spaced">Acey</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reginardus canc. vice Alnodi (!) Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>Diktat der elsässisch-burgundi-schen Zisterziensergruppe, geschrieben wohl von demselben Empfängerschreiber wie DD. 143 und 144 (s. Regg. 402 und 403)</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Hillin von Trier, Humbert von Besançon, die Bischöfe Otto von Freising (<hi rend="italic">Frisiensis</hi>), Ortlieb (<hi rend="italic">Ordiebus</hi>) von Basel, die Herzoge Heinrich von Sachsen, Matthäus von Lothringen, die Grafen Stephan von Burgund (Mâcon) und Theoderich von Mömpelgard (Montbéliard/ <hi rend="italic">Montisbiligardi</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Zisterzienserklöster <span sameAs="recipient"><hi rend="spaced">Cherlieu</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Acey</hi> </span>, die besonders vom verstorbenen Vater seiner Gemahlin, Kaiserin Beatrix, Graf Rainald (<hi rend="italic">Reginardus</hi>) von Burgund, gefördert worden sind, auf Bitten ihrer Äbte Guido (<hi rend="italic">Guido Carilori</hi>) und Lucas (<hi rend="italic">Luca Acincti</hi>) in seinen Schutz und bestätigt ihnen die genannten Besitzungen, nämlich dem Kloster Cherlieu den gleichnamigen Ort mit den zugehörigen Höfen, den Hof Purgerot (<hi rend="italic">Prugerot</hi>) mit Weingärten und Fischteichen, das Haus zu Craye mit den Weingärten und den Feldern von Jussey, den Hof Charmis (<hi rend="italic">Calmis</hi>) mit den Weiden von Castel und die Höfe Saponcourt, Malvilers (<hi rend="italic">Mauiler</hi>), Bichecourt (<hi rend="italic">Buchecourt</hi>), Mailley, Courcelle und Vilory und dem Kloster Acey ebenfalls den gleichnamigen Ort mit den zugehörigen Fischteichen und Höfen, den bei der Abtei gelegenen Hof, den Hof Columbier mit seinen Weingärten und die Höfe Neuvelle (<hi rend="italic">Nouavilla</hi>), Montmirey (<hi rend="italic">Montmorel</hi>) und Fontelenay (<hi rend="italic">Fonte Allay</hi>) mit all ihrem Zubehör sowie den Neubruchzehent. <span n="witnesses">Z.: die Erzbischöfe Hillin von Trier, Humbert von Besançon, die Bischöfe Otto von Freising (<hi rend="italic">Frisiensis</hi>), Ortlieb (<hi rend="italic">Ordiebus</hi>) von Basel, die Herzoge Heinrich von Sachsen, Matthäus von Lothringen, die Grafen Stephan von Burgund (Mâcon) und Theoderich von Mömpelgard (Montbéliard/ <hi rend="italic">Montisbiligardi</hi>)</span>. - <span n="chancellor"><hi rend="italic">Reginardus canc. vice Alnodi (!) Magontini archiep. et archicanc.</hi> </span>; <span n="clerk">Diktat der elsässisch-burgundi-schen Zisterziensergruppe, geschrieben wohl von demselben Empfängerschreiber wie DD. 143 und 144 (s. Regg. 402 und 403)</span>. <span n="incipit"><hi rend="italic">Desiderium, quod ad</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Desiderium, quod ad</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Zwei notarielle Abschriften von 1363 (B<hi rend="sup">1</hi>) und 1429 (B<hi rend="sup">2</hi>) eines verlorenen Vidimus des Pfalzgrafen Otto IV. von Burgund von 1290, Departementalarchiv Lons-le-Saunier; Zwei Abschriften des 18. Jh., Nationalbibliothek Paris Nouv. Acquis. franç. 8735 f. 202 (C) und f. 203 (D) ; Abschrift des 18. Jh. in der Collection Dunand Bd. 12 f. 150, Stadtbibliothek Besançon (E). Druck e: Böhmer, Acta imp. 91 n<hi rend="sup">o</hi>  98; MG. DF. I. 145. Reg.: Stumpf 3745.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Einordnung vgl. DD. F. I. 143 und 144 (Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-06-00_1_0_4_2_1_404_402.html" type="internal" n="regesten">402</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-06-00_2_0_4_2_1_405_403.html" type="internal" n="regesten">403</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0133" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_145" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

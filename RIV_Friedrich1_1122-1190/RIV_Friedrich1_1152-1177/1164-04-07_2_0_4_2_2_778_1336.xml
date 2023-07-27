@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1336</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-07_2_0_4_2_2_778_1336"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-07_2_0_4_2_2_778_1336"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-04-07_2_0_4_2_2_778_1336</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246176" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1336</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-04-07" to="1164-04-07">1164 April 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII idus april., apud sanctum Salvatorem iuxta Papiam)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Turisendus</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt seinen getreuen <span sameAs="recipient"><hi rend="spaced">Turisendus</hi> </span>  in seinen Schutz, bestätigt ihm und seinen Erben die Gerichtsgewalt auf seinen Besitzungen und den Gerichtsstand vor dem Kaiser und verleiht ihm und seinen Söhnen wegen seiner großen Verdienste den Reichshof zu Nogara gegen einen jährlichen Zins von 50 Mark. - <span n="clerk">Verfaßt und geschrieben von CE</span>. <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Einzelkopie des 13. Jh., Archiv der Abtei Nonantola (B); Abschrift des 17. Jh., Cancellaria Ducale, Giurisdizione ecclesiastica, Abbazie, Nonantola, filza 1, Staatsarchiv Modena (C). Drucke: Scheffer-Boichorst, Beiträge, NA 20 (1895) 200; MG. DF. I. 434.</p></div>
+				
+				
+					<div type="commentary"><p>Um den Besitz des Hofes von Nogara lag Turisendus mit der Abtei Nonantola seit langem im Streit, vgl. Scheffer-Boichorst, Zeugenverhör, NA 19 (1894) 593 Anm. 2 und 595 Anm. 3 sowie Hausmann in der Vorbemerkung zu DK. III. 110. - Zur Turisendus vgl. auch Haverkamp, Adel, VuF Sbd. 9 (1971) 59 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0208" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_434" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

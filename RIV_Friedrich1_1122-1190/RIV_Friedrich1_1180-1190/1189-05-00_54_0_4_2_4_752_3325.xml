@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3325</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_54_0_4_2_4_752_3325"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_54_0_4_2_4_752_3325"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_54_0_4_2_4_752_3325</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3325</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1155
+								Juni 18 – 1189 Ende Mai, vielleicht um
+								1159?)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erweist der <hi rend="spaced">Propsteikirche von Sant’Evasio zu Casale Monferrato</hi> viele 								Wohltaten, u. a. lässt er auf eigene Kosten das <hi rend="italic">claustrum</hi> daselbst errichten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Necrologium ecclesiae beati Evasii 								Casalensis, ed. Avogadro, Mon. hist. patriae, Scriptores III (1848) 								475.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Opll, Amator ecclesiarum, MIÖG 88 (1980) 								77 f. mit Anm. 39, sowie den Hinweis oben bei Reg. 2965. – Herr 								Kollege Aldo A. Settia wies mich mit Schreiben vom 9. Dezember 2008 								darauf hin, dass sich dereinst an der Fassade der Kirche zu Casale 								Monferrato eine Herrscherfigur mit Mantel und in der linken Hand ein 								Lilienzepter befunden hat (jetzt im Chorumgang), bei der es sich um 								eine Darstellung Friedrich Barbarossas handeln könnte. Eine 								Abbildung dieser Statue findet sich auf dem Folder, mit dem die 								Stadt Casale Monferrato zu einem Kongress aus Anlass der 900. 								Wiederkehr der Weihe der Kirche von Sant’Evasio am 31. März 2007 								(Convegno di studi storico: La consacrazione del duomo di 								Sant’Evasio) zu Vorträgen von Aldo A. Settia und Giuseppe Vaglio 								einlud. Tatsächlich zeigen die bei Willemsen, Bildnisse der Staufer 								(Schriften zur staufischen Geschichte und Kunst 4, 1977) erfassten 								Zeugnisse, darunter ein Brakteat der Reichsmünzstätte Gelnhausen 								(Abb. 7), Wachssiegel und Goldbullen aus der Königs- und der 								Kaiserzeit Friedrichs I. (Abb. 10–13), die Plastiken am Hauptportal 								des Freisinger Doms und im Kreuzgang des Klosters San Zeno bei 								Reichenhall (Abb. 18–19) sowie Miniaturen in verschiedenen 								Handschriften der Epoche (Chronica regia Coloniensis, Weissenauer 								Handschrift und Chronica Welforum = Abb. 21–23) den Herrscher mit 								einem Lilienzepter (teilweise in der rechten, teilweise in der 								linken Hand); nur die Darstellung Friedrichs auf dem Armreliquiar 								Karls des Großen (Paris, Louvre, vgl. Abb. 17) zeigt ein von einem 								Kreuz bekröntes Zepter. – Noch im Januar 2009 übermittelte mir Herr 								Settia freundlicherweise seinen noch ungedruckten Beitrag (jetzt: 								Settia, Il re, Boll. stor.-bibl. subalp. 107 [2009] 389 ff.): Daraus 								erhellt, dass ursprünglich zwei Statuen an der Fassade von 								Sant’Evasio zu sehen waren, von denen eine eine Frauenfigur zeigte, 								die sich aber nicht erhalten hat. Die Statuen wurden früher als 								König Liutprand und dessen Gemahlin (in der lokalen Tradition irrig 								mit Teodelinda/Theudelinde identifiziert, die schon im frühen 7. 								Jahrhundert starb) gedeutet, doch dürfte der Bezug auf Friedrich 								Barbarossa und seine Gemahlin Beatrix tatsächlich sehr viel eher 								zutreffen. Settia macht auch darauf aufmerksam, dass der Bestand 								einer Casaleser Dombauhütte bereits 1158/59 dokumentiert ist und das 									<hi rend="italic">claustrum s. Evasii</hi> bereits in einer 								Urkunde aus dem Jahr 1161 (zit. bei Settia, Casale e il duomo, in: 								Il duomo di Casale Monferrato. Storia, arte e vita liturgica [2000], 								21 f.) erwähnt wird, weshalb es durchaus denkbar ist, dass Friedrich 								Barbarossa sich schon vor 1161 als Wohltäter der hiesigen Kirche 								betätigt haben könnte; der Herrscher urkundete jedenfalls bereits am 								3. Januar 1155 erstmals in Casale Monferrato, ließ am 1. Februar 								1159 in Occimiano für die hiesige Propsteikirche ein Privileg 								ausstellen (DF.I. 255 = Reg. 662), und nahm auch 1178 und 1186 im 								Ort Aufenthalt, vgl. dazu Opll, Itinerar, 171, 215 und 226; vgl. 								auch die Nachträge in diesem Band zu Reg. 662.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

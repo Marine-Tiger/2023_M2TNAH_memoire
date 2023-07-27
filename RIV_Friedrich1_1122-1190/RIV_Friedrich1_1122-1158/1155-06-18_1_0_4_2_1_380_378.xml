@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 378</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_1_0_4_2_1_380_378"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_1_0_4_2_1_380_378"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_1_0_4_2_1_380_378</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238895" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 378</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1155-12-31">1155 (Juni 18-Dezember 31)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>S. 2 laut R.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hardehausen</hi></recipient>
+				
+				
+				
+					<scribe>Von Empfängerseite verfaßt und geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt die Gründung des (Zisterzienser)Klosters <span sameAs="recipient"><hi rend="spaced">Hardehausen</hi> </span>  (<hi rend="italic">Hersindehusen</hi>) durch den Bischof Bernhard von Paderborn (<hi rend="italic">Bernhardi Patherburnensis episcopi</hi>). - <span n="clerk">Von Empfängerseite verfaßt und geschrieben</span>; <span n="seal">S. 2 laut R.</span>  <span n="incipit"><hi rend="italic">Notum sit universitati</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit universitati</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. im Kopiar des Klosters Hardehausen, Sammlung des Rudolf Erich Raspe &amp;quot;ex orig. membran. Hardehusano&amp;quot; Hs. K 486 p. 7, Staatsarchiv Marburg (R); gelehrte Überarbeitung durch Joh. Friedr. Falke (18. Jh.) Hs. IV 53 vol. I p. 639, Staatsarchiv Wolfenbüttel (F). Drucke: Wilmans-Philippi, Kaiserurk. Westfalens 2, 320 n<hi rend="sup">o</hi>  232 mit Nachtrag 405; MG. DF. I. 131. Reg.: Erhard, Reg. Westfal. 2, n<hi rend="sup">o</hi>  1834; Stumpf 3733.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Echtheit des Diploms, die u. a. wegen des von Falke (zu dessen Fälschertätigkeit vgl. Philippi, Glaubwürdigkeit Falkes, MIÖG 14, 1893, 470 ff.) offensichtlich willkürlich gewählten Datums angezweifelt wurde, vgl. die Vorbemerkung zu DF. I. 131. Die Einreihung ergibt sich aus dem Kaisertitel und dem in der Datierung genannten Jahr.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0124" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_131" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

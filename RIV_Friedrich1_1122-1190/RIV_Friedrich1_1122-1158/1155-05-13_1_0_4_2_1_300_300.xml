@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 300</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-13_1_0_4_2_1_300_300"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-05-13_1_0_4_2_1_300_300"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-05-13_1_0_4_2_1_300_300</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241463" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 300</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-05-13" to="1155-05-15">(1155 Mai 13-15)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(am Reno bei Bologna)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Scholaren</hi>  <hi rend="spaced">Professoren der Rechte</hi>  <hi rend="spaced">Ne</hi></recipient>
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt und vermutlich auch geschrieben</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt nach eingehender Beratung mit den Bischöfen, Äbten, Herzogen, Richtern und Großen des Hofes die <span sameAs="recipient"><hi rend="spaced">Scholaren</hi> </span>  und besonders die <span sameAs="recipient"><hi rend="spaced">Professoren der Rechte</hi> </span>  (<hi rend="italic">divinarum atque sacrarum legum</hi>) auf ihren Reisen und an ihren Studienorten in seinen Schutz, verbietet, sie für Schulden von Landsleuten haftbar zu machen, und bestimmt ausschließlich ihre <hi rend="italic">magistri</hi>  bzw. den jeweiligen Bischof zu ihren Richtern. Weiters ordnet er an, das Gesetz den kaiserlichen Erlässen unter dem Titel <hi rend="kursiv"><span sameAs="recipient"><hi rend="spaced">Ne</hi> </span>  filius pro patre</hi>  einzuverleiben. - <span n="clerk">Außerhalb der Kanzlei verfaßt und vermutlich auch geschrieben</span>. <span n="incipit"><hi rend="italic">Habita super hoc</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Habita super hoc</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des späten 12. Jh. im Ms. 64, Harvard Law School Library, Cambridge Mass., auf der Rückseite des vorletzten Blattes (B); Abschriften der ersten Hälfte des 13. Jh.: Cod. Pal. lat. 761 f. 92', Vatikanische Bibliothek Rom (C), Cod. Vat. lat. 1427 f. 68 ebenda (D), Cod. lat. 16.910 f. 68' Nationalbibliothek Paris (E). Drucke: MG. Const. 1, 249 n<hi rend="sup">o</hi>  178; Koeppler, Barbarossa and the Schools of Bologna, Engl. Hist. Review 54 (1939) 606 f.; Stelzer, Scholarenprivileg, DA 34 (1978) 165; MG. DF. I. 243. Reg.: St. 3828.</p></div>
+				
+				
+					<div type="commentary"><p>Die vorliegende Verfügung wird auch im Carmen de gestis V. 494 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol., 17 f. erwähnt. Die Datierung ergibt sich aus den Regg. 296-299 und aus Ottonis Gesta Frid. l. II cap. 27, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol., 132, vgl. Alberti Milioli liber, MG. SS XXXI, 447. Zu dem Zusammentreffen Friedrichs mit den Doktoren von Bologna, von dem im Carmen V. 463 ff. (16 f.) berichtet wird, vgl. auch die späteren Nachrichten bei Savigny, Geschichte des Römischen Rechts 4 (<hi rend="sup">2</hi> 1850) 178 ff. - Lange Zeit wurde die Authentica Habita nach der nur in den Drucken beigefügten Datierung <hi rend="italic">Dat. apud Roncalias anno Domini MCLVIII mense novembri</hi>  chronologisch zum Reichstag von Roncaglia im Spätherbst 1158 eingeordnet. Nach dem Bericht im Carmen ist aber wohl an der Datierung zu 1155 festzuhalten, zumal Santini, L'origine bolognese, Archivio Giuridico 175 Ser. 6 Vol. 44 (1968) 494 ff., besonders 508-510 nachweisen konnte, daß die Bologneser Rechtsgelehrten bereits vor dem zweiten Italienzug Barbarossas Gerichtsbarkeitsrechte ausübten, die ihnen in der Authentica verbrieft wurden, im Carmen aber nicht genannt sind. Zu dem gesamten Problemkreis vgl. jetzt eingehend Stelzer, Scholarenprivileg, DA 34 (1978) 123-165 (zur Datierung 146 ff.), der die älteste Überlieferung der Urkunde ediert. - Auch die Constitutio Sacramenta puberum, die uns im Landfrieden von 1158 (MG. DF. I. 241) bei Rahewin überliefert ist, gehört nach den Angaben einiger Glossatoren zu einem Aufenthalt des Kaisers auf der Reno-Insel bei Bologna; sehr wahrscheinlich wurde also auch sie bereits anläßlich der Kontaktnahme des Kaisers mit der Bologneser Rechtsschule im Jahre 1155 erlassen, vgl. Savigny, a. a. O. 183 ff. und Santini, a. a. O. 510 ff. Zum Inhalt vgl. künftig das Regest des Landfriedens von 1158 (DF I. 241).#
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Die Authentica Habita (DF.I.243) wurde von uns – der Arbeit von Stelzer, Scholarenprivileg, DA 34 (1978) 165, folgend – in den Mai 1155 zu der Begegnung Friedrichs I. mit den Vertretern der Bologneser Rechtsschule datiert. Kintzinger, Macht des Wissens, in: Die Staufer und Italien, Bd. 1 (2010) 398, folgt in der Datierung zum November 1158 hingegen der älteren (und bereits überholten) Arbeit von Rüthing (Hg.), Die mittelalterliche Universität (Histor. Texte/Mittelalter, 16, 1973) 34 Nr. 17.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0102" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_243" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

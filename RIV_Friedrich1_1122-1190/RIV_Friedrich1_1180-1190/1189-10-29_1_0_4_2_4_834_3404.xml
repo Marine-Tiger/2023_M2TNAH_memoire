@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3404</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-10-29_1_0_4_2_4_834_3404"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-10-29_1_0_4_2_4_834_3404"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-10-29_1_0_4_2_4_834_3404</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3404</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-10-29" to="1189-10-29">1189
+									Oktober 28–29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Philippopel (Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Der oströmische Kaiser Isaak (II.) Angelos 								übersendet durch vier Sebastoi unter Führung seines Kanzlers (des 								Logotheten des Dromos, Johannes Dukas), die in Begleitung der 								freigelassenen, bisher als Geiseln festgehaltenen deutschen 								Gesandten nach Philippopel gekommen sind (siehe dazu Reg. 3403), ein 								Schreiben an Kaiser Friedrich (<hi rend="italic">rex 								Alemaniae</hi>), in dem ein genauer Plan für die Verpflegung und 								Maßregeln für den Übergang des Kreuzheeres nach Kleinasien zwischen 								Abydos und Sestos enthalten sind und das am 29. Oktober überreicht 								wird. Friedrich bleibt jedoch – insbesondere wegen der schlechten 								Behandlung seiner Geiseln – misstrauisch; zudem ist er über die 								mangelhafte, ja beleidigende Form der Abfassung der Schreiben des 								Basileus (Hist. de expeditione: Der Staufer wird zu Beginn des 								Schreibens nicht als <hi rend="italic">imperator Romanorum</hi>, 								sondern als <hi rend="italic">rex Alamannię</hi> angesprochen; 								Scheffer-Boichorst, Ann. Patherbrunnenses: Kaiser wird als <hi rend="italic">advocatus Romanae urbis</hi> angesprochen) erzürnt 								und fordert seinerseits zur Garantie des sicheren Meeresübergangs 								die Stellung des Sohnes, des Bruders und des Oheims des Kaisers 								sowie die des Kanzlers, des Marschalls und des Truchsessen des 								Basileus als Geiseln.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Dietpoldi epistola (Chron. Magni presbiteri), 								MG. SS XVII, 510; Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 49 und 51 (deutsche Übersetzung 								von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 103 ff.); 								Hist. peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 142 ff.; 								Scheffer-Boichorst, Ann. Patherbrunnenses, 180 f. (ohne Datum); 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 408 f.; 								Gesta Fed. I. imp. in expeditione sacra, ed. Holder-Egger, MG. SS 								rer. Germ. in us. schol., 82 f. (Freilassung der deutschen Gesandten 								als Reaktion auf die Nachricht, der Staufer habe Philippopel 								eingenommen); vgl. Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in 								us. schol., 146; Niketas Choniates II/5, ed. Bekker, 536 f. bzw. ed. 								van Dieten, 410 f. (deutsche Übersetzung bei Grabler, Abenteurer auf 								dem Kaiserthron, 213 f.); vgl. Dölger – Wirth, Reg. d. 								Kaiserurkunden d. oström. Reiches 2, n<hi rend="sup">o</hi> 1598 								(Datierung richtet sich nach der Entsendung der byzantinischen 								Gesandten).</p></div>
+				
+				
+					<div type="commentary"><p>In der Edition des Briefes Dietpolds von Passau 								(Tageno, ed. Struve, a.a.O. sowie MG. SS XVII, a.a.O.) wird von dem 								besonders feierlichen Empfang der deutschen Gesandten durch das 								Kreuzheer und den staufischen Kaiser berichtet. Freilich heißt es 								dort zum 29. Oktober auch, dass die Kreuzfahrer in Philippopel unter 								dem Gestank der zahlreichen Leichen gelitten hätten. – Die Chron. 								reg. Col., ebd., bringt die Verärgerung des Kaisers über die 								schlechte Behandlung seiner Legaten mit dessen Entschluss in 								Verbindung, gegen das byzantinische Reich vorzugehen und sein Lager 								nach Adrianopel zu verlegen. Niketas Choniates berichtet darüber, 								dass der Basileus wegen des Beschlusses des Staufers, den 								Weitermarsch des gesamten Kreuzheeres wegen der fortgeschrittenen 								Jahreszeit erst im Frühjahr anzutreten, verärgert gewesen sei, 								deshalb in seinem Schreiben an Friedrich diesem sogar geweissagt 								haben soll, er – der Staufer – werde noch vor dem Osterfest sterben 								(vgl. dazu unten Reg. 3416 sowie Zimmert, Der deutsch-byzantinische 								Konflikt, Byzantin. Zs. 12, 1903, 57 ff.). – Vgl. dazu Eickhoff, 								Barbarossa im Orient, 70 f., sowie Kresten, Rekonstruktion der 								Protokolle, in: ΠΟΛΥΠΛΕΥΡΟΣ ΝΟΥΣ. Miscellanea für Peter Schreiner zu 								seinem 60. Geburtstag, hg. von Scholz und Makris (Leipzig 2000) 141 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

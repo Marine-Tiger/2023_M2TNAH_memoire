@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 608</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-17_1_0_4_2_2_50_608"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-17_1_0_4_2_2_50_608"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-17_1_0_4_2_2_50_608</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240990" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 608</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-17" to="1158-11-17">1158 November 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Roncaglia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XV<hi rend="sup">o</hi>  kalendas decembris, in Runcalia)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Mailand</hi>  <hi rend="spaced">hll. Dionysius und Aurelius</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Fridericus Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>nach DH. III. 131 (VU.) geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem unweit von <span sameAs="recipient"><hi rend="spaced">Mailand</hi> </span>  gelegenen Kloster der <span sameAs="recipient"><hi rend="spaced">hll. Dionysius und Aurelius</hi> </span>  auf Bitten des Abtes Guifred die genannten Besitzungen und Rechte sowie die Erwerbungen seit der Zeit des Klostergründers, des Erzbischofs Aribert von Mailand, und erklärt im besonderen ein zugunsten der Bauern von Merate (<hi rend="italic">Melathę</hi>) ergangenes Reskript, die sich eine vom Kloster unabhängige Form der Selbstverwaltung hatten aufbauen wollen, für ungültig, was auch für die unrechtmäßigen Veräußerungen des Abtes Adalbert gelten soll. - <span n="chancellor"><hi rend="italic">Fridericus Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>, <span n="clerk">nach DH. III. 131 (VU.) geschrieben von RG</span>. <span n="seal">SI.</span>  <span n="incipit"><hi rend="italic">Ut publicę rei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ut publicę rei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Mailand (A). Kop.: Abschrift aus dem Ende des 18. Jh. ebenda beiliegend (D). Drucke: Muratori, Ant. Ital. ed. I. 4, 39 = ed. II. 9, 691; MG. DF. I. 229. Reg.: Stumpf 3819.</p></div>
+				
+				
+					<div type="commentary"><p>Bereits Eugen III. hatte 1147 die Veräußerungen des Abtes Adalbert für ungültig erklärt (JL. 9008; Ital. pont. 6/1, 100 n<hi rend="sup">o</hi>  2). - Zum Kloster vgl. Violante, Le origini del monastero di S. Dionigi, in: Studi storici in onore di Ottorino Bertolini II. (Pisa 1972) 735 ff., besonders 770 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0031" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_229" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

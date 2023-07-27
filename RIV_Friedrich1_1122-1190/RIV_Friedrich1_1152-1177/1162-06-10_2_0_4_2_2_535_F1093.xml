@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1093</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-10_2_0_4_2_2_535_F1093"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-10_2_0_4_2_2_535_F1093"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-06-10_2_0_4_2_2_535_F1093</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244613" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1093</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-06-10" to="1162-06-10">1162 Juni 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(quarto idus iunii, Papiae apud sanctum Saluatorem post destructionem Mediolani)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Anselm</hi>  <hi rend="spaced">Quaranta</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vdalricus canc. vice Coloniensis electi et archicanc.</hi></notarius>
+				
+				
+					<scribe>auf der Grundlage von DF. I. 368 (Reg. 1092) wohl zusammen mit der angeblichen Bestätigung durch Friedrich II. (B.-Ficker Reg. 1650) gefälscht</scribe>
+				
+				
+					<testis function="witnesses">Elekt Rainald von Köln, die Bischöfe Heinrich <hi rend="italic">Cordensis</hi>  (Lüttich ?), Hermann von Konstanz, Udo von Naumburg und Hermann von Hildesheim, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, die Bischöfe Anselm von Asti und Sirus von Pavia, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog (Heinrich) von Österreich, der Oheim des Kaisers, Pfalzgraf Otto von Wittelsbach, Markgraf Dietrich (von der Lausitz), Graf Dedo (<hi rend="italic">Thethę</hi>  von Groitzsch), Markgraf Wilhelm von Montferrat, (Markgraf) Obizo (<hi rend="italic">Hospitio</hi>) Malaspina, Graf Guido von Biandrate und Marschall Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt <span sameAs="recipient"><hi rend="spaced">Anselm</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Quaranta</hi> </span>  (<hi rend="italic">Quadraginta</hi>) zum Dank für seine dem Reich geleisteten Dienste mit der Grafschaft und den Burgen Laigueglia, Castellaro und Garlenda (<hi rend="italic">Linguiliae et Castelarii et Garlendae</hi>) und allen übrigen Rechten im Bistum Albenga. <span n="witnesses">Z.: Elekt Rainald von Köln, die Bischöfe Heinrich <hi rend="italic">Cordensis</hi>  (Lüttich ?), Hermann von Konstanz, Udo von Naumburg und Hermann von Hildesheim, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, die Bischöfe Anselm von Asti und Sirus von Pavia, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog (Heinrich) von Österreich, der Oheim des Kaisers, Pfalzgraf Otto von Wittelsbach, Markgraf Dietrich (von der Lausitz), Graf Dedo (<hi rend="italic">Thethę</hi>  von Groitzsch), Markgraf Wilhelm von Montferrat, (Markgraf) Obizo (<hi rend="italic">Hospitio</hi>) Malaspina, Graf Guido von Biandrate und Marschall Heinrich</span>. - <span n="chancellor"><hi rend="italic">Vdalricus canc. vice Coloniensis electi et archicanc.</hi> </span>; <span n="clerk">auf der Grundlage von DF. I. 368 (Reg. 1092) wohl zusammen mit der angeblichen Bestätigung durch Friedrich II. (B.-Ficker Reg. 1650) gefälscht</span>. <span n="incipit"><hi rend="italic">Apud nostram maiestatem fides</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Apud nostram maiestatem fides</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Kop.: Bestätigung des angeblichen Inserts Kaiser Friedrichs II. von 1226 Juli 6 (B.-Ficker Reg. 1650) durch Kaiser Maximilian II. von 1564 Dezember 9, Reichsregister Cod. II f. 26', Haus-, Hof- und Staatsarchiv Wien (C); Bestätigung desselben Inserts durch Kaiser Rudolf II. von 1577 Oktober 4, ebenda Cod. IX f. 347' (D). Druck: MG. DF. I. 1051. Reg.: Stumpf 3950a.</p></div>
+				
+				
+					<div type="commentary"><p>Die Entstehungszeit der Fälschung kann nur mit &amp;quot;vor 1564&amp;quot; angegeben werden, vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0149" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1051" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

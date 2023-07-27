@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 756</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-09-18_1_0_4_2_2_198_756"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-09-18_1_0_4_2_2_198_756"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-09-18_1_0_4_2_2_198_756</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426242498" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 756</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-09-18" to="1159-09-18">1159 September 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Crema">vor Crema</placeName>
+												<location><geo decls="#WGS">45.3667, 9.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(die Veneris, que fuit XIIII<hi rend="sup">o</hi>  kal. octobris, cum ... castrum Creme obsedissemus)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Cremasken</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und wohl auch geschrieben vom kaiserlichen Hofrichter Guibertus de Bornado</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verkündet, daß er während der Belagerung von Crema im Zelt Herzog Heinrichs (des Löwen) nach Rat der Fürsten und der anwesenden Lombarden die Reichsacht über die <span sameAs="recipient"><hi rend="spaced">Cremasken</hi> </span>  verhängt und ihnen sowie den Mailändern, Brescianern und allen übrigen, die sich derzeit in Crema aufhalten, ihre Lehen und Allodien aberkannt habe, wobei er sich die Allodien der Freien vorbehalten hat. - <span n="clerk">Verfaßt und wohl auch geschrieben vom kaiserlichen Hofrichter Guibertus de Bornado</span>. <span n="incipit"><hi rend="italic">Notum esse credimus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse credimus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Codex Sicardianus aus dem Anfang des 13. Jh. p. 49, Biblioteca Governativa zu Cremona (B). Drucke: MG. Const. 1, 270 n<hi rend="sup">o</hi>  191; Falconi, Carte Cremonesi 2, 313 n<hi rend="sup">o</hi>  387; MG. DF. I. 282. Reg.: Diestelkamp - Rotter, Urkundenregesten 1, 283 n<hi rend="sup">o</hi>  368 (irrig Brixen statt Brescia !); Stumpf 3866.</p></div>
+				
+				
+					<div type="commentary"><p>Die Abweichungen vom Kanzleistil erklären sich aus der Verfasserschaft des genannten Hofrichters, vgl. die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0068" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_282" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

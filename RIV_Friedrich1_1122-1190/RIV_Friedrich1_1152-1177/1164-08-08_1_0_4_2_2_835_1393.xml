@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1393</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-08-08_1_0_4_2_2_835_1393"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-08-08_1_0_4_2_2_835_1393"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-08-08_1_0_4_2_2_835_1393</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246555" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1393</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-08-08" to="1164-08-08">1164 August 8</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI<hi rend="sup">o</hi>  ydus augusti, Papie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2 laut B und D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pavia</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus curie canc. vice domini Raynaldi Colloniensis (!) archiep. et Ytatie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von CE</scribe>
+				
+				
+					<testis function="witnesses">Bischof Heinrich von Lüttich, Kanzler Christian, Propst Adelhog von Goslar, Markward von Grumbach und Graf Gebhard von Leuchtenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt der Stadt <span sameAs="recipient"><hi rend="spaced">Pavia</hi> </span>  unter ihren Konsuln, dem Bannerträger (Gonfaloniere) Allo, Cazaguerra Assalitus, Oppizo Butigella, Gaydo de sancto Romano, Guido Christianus und Paruipillus de Strata, nach altem Herkommen das Recht der freien Wahl der Konsuln, regelt deren Investitur und den durch sie von der Bevölkerung einzuholenden Treueid, bestätigt die städtischen Rechte und Gewohnheiten, darunter auch die eines Markgrafen in seiner Mark und die eines Grafen in seiner Grafschaft, sowie die Regalien auf ihren namentlich angeführten Besitzungen unter Vorbehalt der Brücke und des Ufers (am Ticino), gewährt ihren Kaufleuten freien Handel in ganz Italien und sichert ihr zu, daß Tortona und Castelnuovo (di Scrivia) nicht wieder aufgebaut werden sollen. <span n="witnesses">Z.: Bischof Heinrich von Lüttich, Kanzler Christian, Propst Adelhog von Goslar, Markward von Grumbach und Graf Gebhard von Leuchtenberg</span>. - <span n="chancellor"><hi rend="italic">Cristianus curie canc. vice domini Raynaldi Colloniensis (!) archiep. et Ytatie archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von CE</span>; <span n="seal">B. 2 laut B und D.</span> <span n="incipit"><hi rend="italic">Quanto maiora et clariora</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quanto maiora et clariora</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1319 Oktober 1, Pergamene Comunali, busta IV n<hi rend="sup">o</hi>  247a, Museo Civico Malaspina zu Pavia (B); notarielle Abschrift von 1437 April 23 ebenda n<hi rend="sup">o</hi>  247b (C); Statuti e Privilegi di Pavia des 16. Jh. (Libro grosso) f. 31, ebenda (D). Drucke: Böhmer, Acta imp. 112 n<hi rend="sup">o</hi>  121; MG. DF. I. 455. Reg.: Wauters, Table chronol. 2, 753; Stumpf 4024.</p></div>
+				
+				
+					<div type="commentary"><p>Die Besiegelung mit Goldbulle wird auch eigens im D. angekündigt. - Die Zusicherung, den Wiederaufbau Tortonas nicht zuzulassen, korrespondiert mit der vom Kaiser geduldeten Zerstörung dieser Stadt durch die Pavesen im November 1163 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-11-16_2_0_4_2_2_723_1281.html" type="internal" n="regesten">1281</ref>), vgl. dazu Haverkamp, Herrschaftsformen 411 mit Anm. 153; zum D. vgl. Opll, Stadt und Reich 373 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0221" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_455" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

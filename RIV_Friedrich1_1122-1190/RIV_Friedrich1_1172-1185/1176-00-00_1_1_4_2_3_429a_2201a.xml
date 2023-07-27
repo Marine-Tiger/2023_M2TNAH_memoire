@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2201a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-00-00_1_1_4_2_3_429a_2201a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-00-00_1_1_4_2_3_429a_2201a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-00-00_1_1_4_2_3_429a_2201a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358512597" value="2013-01-18"></date>
+				<date type="lastmod" n="1358512597" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2201a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-01-01" to="1168-12-31">(etwa 1168–1176)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt dem Kleriker R., sich zu den Quatembern durch Elekt (Hartwig) von Augsburg weihen zu lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in dem Schreiben des R. an Abt R(upert von Tegernsee) von (etwa 1168–1176), ed. Plechl – Bergmann, Tegernseer Briefsammlung, MG. Briefe VIII, 284 n<hi rend="sup">o</hi> 256.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Datierung – in die Zeit des Schismas nach der Regierung Bischof Konrads von Augsburg (1150–1167) sowie vor dem Frieden von Anagni (Reg. 2202) vgl. Plechl – Bergmann, a.a.O., Vorbemerkung. Der Kleriker R. kam dem kaiserlichen Auftrag jedenfalls nicht nach.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360657232" value="2013-02-12"></date><p n="author">Redaktion</p><p>Nachtrag von F. Opll in RI IV,2,4, S. XLVI.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

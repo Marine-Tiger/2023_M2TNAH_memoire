@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †2455</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-11_1_0_4_2_3_683_F2455"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-11_1_0_4_2_3_683_F2455"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-11_1_0_4_2_3_683_F2455</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606016" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †2455</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-11" to="1178-10-11">1178  1177  Oktober 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Hagenau">Hagenau</placeName>
+												<location><geo decls="#WGS">48.8167, 7.7833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(V<hi rend="sup">o</hi>  idus octobris, Haganov)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gothefridus canc. vice Cristiani Maguntini archiep. tocius Germanie archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Bischöfe Konrad von Straßburg und Ludwig von Basel, Herzog Friedrich von Schwaben, die Grafen Amadeus von Mömpelgard (Montbéliard) und Ludwig von Pfirt (Ferrètes)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem in den Vogesen an der Meurthe gelegenen, zu seiner Vogtei der Kirche zu Andlau gehörigen <hi rend="spaced">Prämonstratenserstift Étival</hi>  (<hi rend="italic">super bonis Stiuagiensis monasterii in Vosago supra fluvium Mortam in honore beate Marie et sancti Petri apostolorum principis constituti ad advocatiam nostram Heleonis ecclesie specialiter pertinentis</hi>) auf Rat seiner Fürsten und auf Bitten von Abt Werner und seiner Brüder die namentlich angeführten Besitzungen und Rechte, darunter einen durch Abt Werner von der Äbtissin Hawidis von Andlau erworbenen Zins, und legt die Verfügung des Stiftes über die hohe und niedere Gerichtsbarkeit sowie die Kompetenzen des Vogtes fest. <span n="witnesses">Z.: die Bischöfe Konrad von Straßburg und Ludwig von Basel, Herzog Friedrich von Schwaben, die Grafen Amadeus von Mömpelgard (Montbéliard) und Ludwig von Pfirt (Ferrètes)</span>. — <span n="chancellor"><hi rend="italic">Gothefridus canc. vice Cristiani Maguntini archiep. tocius Germanie archicanc.</hi> </span>; unter weitgehender Verwendung des Privilegs Papst Lucius' III. von 1182 Januar 22 (Meinert, Papsturkunden in Frankreich N.F. 1, 349 n<hi rend="sup">o</hi>  198, fehlt bei Jaffé-L., vgl. Herkenrath, Reichskanzlei 1174 bis 1180, 192 f.; VU.I), Einbau des Rechtsinhaltes und der unkanzleigemäßen Strafformel aus DF.I.768 (= Reg. 2457; VU.II) und gelegentlichem Rückgriff auf das Privileg Eugens III. von 1147 September 6 (Jaffé-L. 9.128) sowie in teilweiser Nachahmung der graphischen Eigenheiten eines echten D. von der Hand des Kanzleinotars Burkhard, wohl dem verlorenen Original des DF.I.768 (= Reg. 2457), stammen beide angeblichen Originale von ein- und derselben Hand des ausgehenden 12. Jh.; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Dignitas et excellentia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignitas et excellentia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebl. Origg.: Departementalarchiv Épinal (A zu 1178, erweiterte Fassung A<hi rend="sup">1</hi>  zu 1177). Druck: MG.DF.I.1072. Reg.: Stumpf 4293 zu 1179.</p></div>
+				
+				
+					<div type="commentary"><p>A<hi rend="sup">1</hi>  unterscheidet sich von A vor allem durch die nur hier enthaltene Bestätigung des von der Äbtissin Hawidis von Andlau erworbenen Zinses (vgl. Würdtwein, Nova Subsidia 10, 45 n<hi rend="sup">o</hi>  17 von 1172; ebenda 57 n<hi rend="sup">o</hi>  22, undatiert). — Der Charakter der Fälschung der beiden angeblichen Originale ist schon aus dem Bezug auf eine Urkunde Lucius' III. von 1182 deutlich zu erkennen; zur diplomatischen Bewertung, die einen stilistischen Zusammenhang mit den DD.767 und 768 (= Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-12_1_0_4_2_3_684_2456.html" type="internal" n="regesten">2456</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-12_2_0_4_2_3_685_2457.html" type="internal" n="regesten">2457</ref>) erweist, vgl. die Vorbemerkung zum D.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu dem für die Anfertigung des Spuriums für das Prämonstratenserstift Étival verwendeten, gleichfalls gefälschten Privileg Lucius’III. von 1182 Januar 22, Rom, Lateran, vgl. jetzt Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 1: 1181–1184, Nr. 113 (mit irrigem Bezug auf Stumpf Reg. 4239, statt: 4293).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0239" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1072" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

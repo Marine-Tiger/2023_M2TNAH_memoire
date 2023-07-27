@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 515</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-01_1_0_4_2_1_517_515"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-01-01_1_0_4_2_1_517_515"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-01-01_1_0_4_2_1_517_515</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240168" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 515</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-01-01" to="1158-01-01">1158 Januar 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Goslar">Goslar</placeName>
+												<location><geo decls="#WGS">51.9167, 10.4167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(kal. ian., Goslarie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Löwen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Arnaldi Magontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach Kanzleidiktat geschrieben von RD</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg, Hartwig von Bremen, Bischof Bruno von Hildesheim, Markgraf Albrecht (der Bär), Herzog Friedrich von Schwaben, Markgraf Dietrich (<hi rend="italic">Detericus</hi>, von der Lausitz), Pfalzgraf Friedrich von Wittelsbach und sein Bruder Otto der Jüngere, Pfalzgraf Friedrich von Sommerschenburg (<hi rend="italic">Sumerescheburch</hi>), die Grafen Heinrich von Wettin (<hi rend="italic">Witin</hi>), Otto von Ravensberg, Florentius von Holland, Berthold von Andechs und Boppo von Blankenburg und seine Söhne Konrad und Siegfried, Lutolf von Dassel, der Bruder des Kanzlers, Markward von Grumbach, Liutard von Meinersen, Heinrich von Weida und Luppold von Herzberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erwirbt von <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  dem <span sameAs="recipient"><hi rend="spaced">Löwen</hi> </span>  das schwäbische Erbe von dessen Gattin Clementia, nämlich die Burg Badenweiler (<hi rend="italic">Baden</hi>) mit hundert Ministerialen und 500 Hufen, wofür er dem Herzog im Tauschwege die im Harz gelegenen Reichsgüter Herzberg (<hi rend="italic">castrum ... Hirzesberch</hi>), Scharzfeld (<hi rend="italic">castrum Scartuelt</hi>) und Pöhlde (<hi rend="italic">curtem ... Polede</hi>) mit Ausnahme des Wildbanns (<hi rend="italic">wiltpan</hi>), mit dem Heinrich im Harz vom Reich belehnt ist, als Eigengüter sowie Adelhard von Burgdorf überläßt, nachdem er das Reich in angemessener Weise (<hi rend="italic">quia imperatorię maiestatis est rem pubblicam semper augere et numquam alicuius rei vel personę gratia vel in aliquo minuere</hi>) gemäß einem von Markgraf Albrecht (dem Bären) formulierten Fürstenspruch durch Zuweisung seiner namentlich angeführten Eigengüter, die er teils durch väterliches Erbe, teils durch Kauf (<hi rend="italic">per pecuniam non parvam</hi>) von Graf Rabodo (von Abenberg) erworben hatte, und seines Ministerialen Thimo von Colditz (<hi rend="italic">Colidiz</hi>) mit seinen Kindern und allen Eigengütern und Lehen, insgesamt 20 Dörfern, entschädigt hat. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg, Hartwig von Bremen, Bischof Bruno von Hildesheim, Markgraf Albrecht (der Bär), Herzog Friedrich von Schwaben, Markgraf Dietrich (<hi rend="italic">Detericus</hi>, von der Lausitz), Pfalzgraf Friedrich von Wittelsbach und sein Bruder Otto der Jüngere, Pfalzgraf Friedrich von Sommerschenburg (<hi rend="italic">Sumerescheburch</hi>), die Grafen Heinrich von Wettin (<hi rend="italic">Witin</hi>), Otto von Ravensberg, Florentius von Holland, Berthold von Andechs und Boppo von Blankenburg und seine Söhne Konrad und Siegfried, Lutolf von Dassel, der Bruder des Kanzlers, Markward von Grumbach, Liutard von Meinersen, Heinrich von Weida und Luppold von Herzberg</span>. - <span n="chancellor"><hi rend="italic">Reinnaldus (!) canc. vice Arnaldi Magontini archiep. et archicanc.</hi> </span>; <span n="clerk">nach Kanzleidiktat geschrieben von RD</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Quamquam rerum commutatio</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quamquam rerum commutatio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Wolfenbüttel (A). Drucke: Heinemann, CD. Anhalt. 1, 323 n<hi rend="sup">o</hi>  442; MG. DF. I. 199. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  168; Stumpf 3792.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Ein Faksimile findet sich jetzt bei Koch – Friedl (Hgg.), Kaiser- und Königsurkunden der Staufer (Digitale Urkundenbilder, 4, 2010) Tafel 6.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der dem Cod. Udalrici ed. Eccard n<hi rend="sup">o</hi>  80 entstammenden Arenga und der engen Berührung der Corroboratio mit D. 192 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-11-18_1_0_4_2_1_502_500.html" type="internal" n="regesten">500</ref>), aber auch deren enger Verwandtschaft mit D. 502 vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 350f. mit Anmm. 86 und 87 und MIÖG 76 (1968) 71 Anm. 106. - Über die Höhe der nicht unbeträchtlichen Summe für den Ankauf von Leisnig und Colditz, nämlich 500 Mark, werden wir durch Arnold v. Lübeck, MG. SS XXI, 246 (B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-02-00_1_0_4_2_1_275_D275.html" type="internal" n="regesten">275</ref>  a) unterrichtet. - Zum Grafen von Abendorf vgl. auch dessen Brief an seinen Sohn Konrad von (1157-1158), in dem er ihm empfiehlt, sich in allem die Gnade des Kaisers zu verdienen, ed. Ohnsorge, Ebracher Briefsammlung, QFIAB 20 (1928/29) 33 n<hi rend="sup">o</hi>  4. - Zur Bedeutung dieses Diploms für die staufische Territorialpolitik vgl. Patze, Osten (VuF 12, 1968) 359 f. - Jordan, Urk. Heinrichs des Löwen 55 n<hi rend="sup">o</hi>  39 vermutet, daß der Welfe damals oder schon im Juni 1157 zu Goslar für das Stift Riechenberg geurkundet hat; zwei Zeugen der Herzogsurkunde stimmen jedenfalls mit der Zeugenreihe des vorliegenden D. überein.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0174" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227912%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_199" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

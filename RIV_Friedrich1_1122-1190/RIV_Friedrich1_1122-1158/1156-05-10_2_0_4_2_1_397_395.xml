@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 395</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-05-10_2_0_4_2_1_397_395"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-05-10_2_0_4_2_1_397_395"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-05-10_2_0_4_2_1_397_395</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 395</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-05-10" to="1156-05-10">(Nach 1156 Mai 10)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2 ohne Plica an Pergamentstreifen, stark beschädigt.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hilwartshausen</hi></recipient>
+				
+				
+				
+					<scribe>Von kanzleifremder Hand geschrieben, die für das Jahr 1156 ungemein fortschrittliche Züge aufweist</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt den Ministerialen des Stiftes <span sameAs="recipient"><hi rend="spaced">Hilwartshausen</hi> </span>  (<hi rend="italic">Hildewardishusen</hi>), daß sie gemäß seinem dem Stift gewährten Diplom dieser Kirche und dem Propst dienen, ihre Güter, falls sie ohne Erben sterben, zurückstellen, alle übrigen Verfügungen seines Diploms unverbrüchlich einhalten und dem Stift unrechtmäßig beanspruchte Besitzungen zurückgeben mögen. - <span n="clerk">Von kanzleifremder Hand geschrieben, die für das Jahr 1156 ungemein fortschrittliche Züge aufweist</span>; <span n="seal">SP. 2 ohne Plica an Pergamentstreifen, stark beschädigt.</span>  <span n="incipit"><hi rend="italic">Universitati vestre constare</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Universitati vestre constare</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Hannover (A). Drucke: Orig. Guelf. 3, 465 n<hi rend="sup">o</hi>  33; MG. DF. I. 139. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  112; Stumpf 3741.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung erfolgte auf Grund des inhaltlichen Bezugs zu DF. I.138 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-05-10_1_0_4_2_1_396_394.html" type="internal" n="regesten">394</ref>) ; nach dem paläographischen Befund muß man mit der Möglichkeit rechnen, daß unser Mandat zu einem späteren, nicht näher feststellbaren Zeitpunkt der Regierung Barbarossas entstanden ist.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0129" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

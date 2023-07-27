@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 474</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_3_0_4_2_1_476_474"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_3_0_4_2_1_476_474"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-08-03_3_0_4_2_1_476_474</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239614" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 474</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-08-03" to="1157-08-03">1157 August 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Halle">Halle</placeName>
+												<location><geo decls="#WGS">52.0667, 8.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III nonas augusti, Halle)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pforta</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>gleiches Empfängerdiktat wie DF. I. 178 (Reg. 475); Zusatz und Eschatokoll gehen möglicherweise auf den Kanzleischreiber RC zurück.</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg und Hartwig von Bremen, die Bischöfe Hermann von Verden, Eberhard von Bamberg, Johannes von Merseburg, Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), Pfalzgraf Otto von Wittelsbach, Markgraf Theoderich (von der Lausitz) sowie seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), Kuno von Wippra, Graf Sizzo (wohl von Käfernburg), Burchard von Querfurt (<hi rend="italic">Querenuorde</hi>) und sein Sohn, Markward von Elgersburg (<hi rend="italic">Etelgeresburch</hi>), Hoger von Mansfeld, Vogt Wernher von Halberstadt und zahlreiche andere, die am 3. August in Halle zum Polenfeldzug versammelt sind</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem (Zisterzienser) Kloster <span sameAs="recipient"><hi rend="spaced">Pforta</hi> </span>  (<hi rend="italic">Portensi ecclesie</hi>) auf Klagen seines Abtes Theoderich das Dorf <hi rend="italic">Odesforde</hi>, das ihm von Graf Heinrich von Buch mit Zustimmung seiner Gemahlin aus seinem Erbgut als Seelgerät (<hi rend="italic">pro anima sua et omnium antecessorum suorum et specialiter pro anima filii sui defundi, quem in Porta rogavit et obtinuit sepeliri</hi>) in Gegenwart des Bischofs Berthold von Naumburg geschenkt, dann aber von seinem Schwiegervater Sigebodo von Scharzfeld (<hi rend="italic">Scartuelde</hi>) nebst anderen Gütern, die König Konrad dem Kloster übergeben hatte, entfremdet worden war, gesteht dem genannten Grafen Heinrich das Recht der Rückerwerbung der Güter gegen Abgeltung der vom Kloster dafür getätigten Ausgaben zu und gestattet dem Kloster überdies, Tauschverträge mit Reichsministerialen zu schließen, wenn der Vorteil dabei auf der Seite des Reiches liegt. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg und Hartwig von Bremen, die Bischöfe Hermann von Verden, Eberhard von Bamberg, Johannes von Merseburg, Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), Pfalzgraf Otto von Wittelsbach, Markgraf Theoderich (von der Lausitz) sowie seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), Kuno von Wippra, Graf Sizzo (wohl von Käfernburg), Burchard von Querfurt (<hi rend="italic">Querenuorde</hi>) und sein Sohn, Markward von Elgersburg (<hi rend="italic">Etelgeresburch</hi>), Hoger von Mansfeld, Vogt Wernher von Halberstadt und zahlreiche andere, die am 3. August in Halle zum Polenfeldzug versammelt sind</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">gleiches Empfängerdiktat wie DF. I. 178 (Reg. 475); Zusatz und Eschatokoll gehen möglicherweise auf den Kanzleischreiber RC zurück.</span> <span n="incipit"><hi rend="italic">Notum facimus omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatar des Klosters Pforta aus dem 13. Jh. f. 15, Bibliothek Schulpforta (B). Drucke: Böhmer, Acta imperii 82 n<hi rend="sup">o</hi>  100; Boehme, UB. des Klosters Pforte 1, 24 n<hi rend="sup">o</hi>  13; MG. DF. I. 177. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  151; Stumpf 3777.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Urkunden Konrads III. siehe DDK. III. 42, 100 und 189. Vgl. auch Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 348 f. Dieses Diplom wird auch in einer Urkunde Landgraf Hermanns von Thüringen erwähnt (Boehme, UB. des Klosters Pforte 1, 71 n<hi rend="sup">o</hi>  54).
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Kunde, Das Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte Sachsen-Anhalts 4, 2003) 87 und 267 Nr. 11 möchte aus dem Nachtrag in dem im Original erhaltenen DF.I. 177 einen Fälschungsverdacht ableiten, während in der DD-Ausgabe betont wird, dass dieser Nachtrag im Gegensatz zum sonstigen Text in der Reichskanzlei verfasst worden sein dürfte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0160" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_177" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1286</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-12-03_1_0_4_2_2_728_1286"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-12-03_1_0_4_2_2_728_1286"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-12-03_1_0_4_2_2_728_1286</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426245874" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1286</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-12-03" to="1163-12-03">1163 Dezember 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Landriano</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(tertio nonas decembris, apud castrum Landrianum)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gonfaloniere</hi>  <hi rend="spaced">Pavia</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canz. vice Reynaldi Coloniensis archiep. et Italię archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Bischof Hermann von Verden, Heinrich, Protonotar des kaiserlichen Hofes, die Grafen Gebhard von Leuchtenberg und Markward von Grumbach, Marschall Heinrich</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt den <span sameAs="recipient"><hi rend="spaced">Gonfaloniere</hi> </span>  (= Bannerträger) Alo von <span sameAs="recipient"><hi rend="spaced">Pavia</hi> </span>, dessen Bruder Wilhelm und ihren gemeinsamen Neffen Johannes mit allen Allodien und Lehen in seinen Schutz, bestätigt ihnen die Regalien mit Ausnahme des Fodrums, des Weinzolles zwischen Po und Ticino und der Goldgewinnung in Vigevano und verleiht ihnen die Reichsunmittelbarkeit. <span n="witnesses">Z.: Bischof Hermann von Verden, Heinrich, Protonotar des kaiserlichen Hofes, die Grafen Gebhard von Leuchtenberg und Markward von Grumbach, Marschall Heinrich</span>. - <span n="chancellor"><hi rend="italic">Christianus canz. vice Reynaldi Coloniensis archiep. et Italię archicanc.</hi> </span>; Diktat der Kanzlei, wohl RC. <span n="incipit"><hi rend="italic">Ex imperiali clementia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex imperiali clementia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift eines Notariatstranssumptes von 1352 aus dem 17. Jh. D 261 inf. f. 9', Biblioteca Ambrosiana zu Mailand (D). Druck: MG. DF. I. 421a. Reg.: Ughetta Radice Fossati Confalonieri, L'archivio Confalonieri ed un diploma di Rodolfo II, Arch. stor. lomb. ser. 10 vol. 2 (1977) 19; Stumpf 3999.</p></div>
+				
+				
+					<div type="commentary"><p>Der vollständige Text wurde erst durch die Arbeit von Ughetta Radice Fossati Confalonieri, a. a. O., bekannt. Zur Bestimmung des Diktats vgl. Herkenrath, Magistertitel, MIÖG 88 (1980) 26 mit Anm. 207 und ders., Miszellen, AfD 28 (1982) 261 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0196" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_421a" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

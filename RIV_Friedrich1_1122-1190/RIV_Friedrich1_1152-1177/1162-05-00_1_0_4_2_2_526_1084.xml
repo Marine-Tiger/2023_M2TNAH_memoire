@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1084</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-05-00_1_0_4_2_2_526_1084"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-05-00_1_0_4_2_2_526_1084"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-05-00_1_0_4_2_2_526_1084</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244336" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1084</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-05-01" to="1162-05-31">(1162 Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">(Pavia)</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rundschreiben</hi>  <hi rend="spaced">Gaufred</hi>  <hi rend="spaced">Avignon</hi>  <hi rend="spaced">Konrad</hi>  <hi rend="spaced">Augsburg</hi></recipient>
+				
+				
+				
+					<scribe>Wohl unter dem Einfluß Eberhards von Bamberg verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt in einem an den Episkopat gerichteten <span sameAs="recipient"><hi rend="spaced">Rundschreiben</hi> </span>  unter anderem einem (ungenannten) Erzbischof und den Bischöfen (<span sameAs="recipient"><hi rend="spaced">Gaufred</hi> </span>) von <span sameAs="recipient"><hi rend="spaced">Avignon</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Konrad</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Augsburg</hi> </span>  mit, er sei mit seinem Verwandten, König (Ludwig VII.) von Prankreich), übereingekommen, am Tag der Enthauptung Johannes des Täufers, dem 29. August, an der Saône in der Diözese Besançon (zu Saint-Jean-de-Losne) ein allgemeines Konzil abzuhalten, auf dem der König in Anwesenheit aller geistlichen und weltlichen Pürsten beider Reiche Papst Viktor (IV.) anerkennen werde, und fordert sie auf, am vierten Tag vor diesem Termin in Besançon bei Hofe zu erscheinen, um mit ihm von dort an die Saône zu ziehen; sie mögen auch der Vorsicht halber ihre gerüsteten Ritter und wegen des Mangels an festen Häusern Zelte mitnehmen. - <span n="clerk">Wohl unter dem Einfluß Eberhards von Bamberg verfaßt</span>. <span n="incipit"><hi rend="italic">Inter innumeras et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter innumeras et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: An einen Erzbischof: Abschrift des 12. Jh. im Cod. Vat. Regin. 179 f. 47 (B); an Bischof Konrad von Augsburg: Abschrift des 12. Jh. im Cod. pal. Vind. 629 (Admonter Briefsammlung) f. 59, Nationalbibliothek Wien (C); an den Bischof von Avignon: Gleichzeitige Abschrift im Archiv des Domkapitels zu Imola (D); unvollständiges Insert in einem Schreiben des Erzbischofs Heinrich von Reims an König Ludwig VII. von Frankreich: Abschrift des 12. Jh. in derselben Handschrift wie B f. 38 (E). Drucke: MG. Const. 1, 290 n<hi rend="sup">o</hi>  208; Gaddoni - Zaccherini, Chartularium Imolense 1, 287 n<hi rend="sup">o</hi>  224; Hödl - Classen, Admonter Briefsammlung, MG. Briefe VI, 145 n<hi rend="sup">o</hi>  86; MG. DF. I. 363. Reg.: Stumpf 3945 aus B und 3948 aus C.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Diktatbestimmung vgl. Zeillinger, Wibald, MIÖG 78 (1970) 216 ff. - Bei der Ausfertigung D handelt es sich gegen Simonsfeld, Münchner SB. 1907, 541 (vgl. Gaddoni - Zaccherini, a. a. O.) um kein Original, da die Besiegelung fehlt; vielleicht hängt der Aufbewahrungsort mit dem Aufenthalt Friedrichs in Imola im Juli 1162 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-07-00_1_0_4_2_2_551_1109.html" type="internal" n="regesten">1109</ref>) zusammen. Der Bischof von Avignon nahm jedenfalls am Konzil teil (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-09-07_2_0_4_2_2_587_1145.html" type="internal" n="regesten">1145</ref>). - Mit der Übermittlung des Textes an den französischen König konnte Erzbischof Heinrich von Reims diesen von der Absicht des Kaisers unterrichten, ihn an der Saône zur Anerkennung Viktors IV. zu drängen und es eben nicht zu einem schiedsgerichtlichen Verfahren kommen zu lassen, vgl. dazu Heinemeyer, Verhandlungen, DA 20 (1964) 156 ff. und Schmale, Friedrich I. und Ludwig VII., Zs. f. bayer. LG 31 (1968) 328 ff. - Erzbischof Eberhard von Salzburg als Haupt der deutschen Alexandriner wurde nicht eingeladen, vgl. Hödl - Classen, a. a. O., 140 n<hi rend="sup">o</hi>  83.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Einem freundlichen Hinweis von Alfred Gawlik (MGH München; Mail vom 15. 2. 2010) ist die Kenntnis einer weiteren Überlieferung der an Bischof Konrad von Augsburg gerichteten Version des Rundschreibens betreffs Einladung nach Saint-Jeande-Losne zu verdanken. Es handelt sich dabei um eine Abschrift des 12. Jhs. auf der Rückseite der Überlieferung des „Wessobrunner Glaubens(bekenntnisses) und der Wessobrunner Beichte“ in einer Handschrift des 11./12. Jhs., Fragmentensammlung der Handschriftenabteilung in der Bayerischen Staatsbibliothek München, Cgm. 5248 (5), Bildnr. 13 (siehe die online-Edition: <ref target="http://daten.digitale-sammlungen.de/~db/0002/bsb00022145/images/index.html?id=00022145&amp;amp;fip=217.149.225.126&amp;amp;no=4&amp;amp;seite=13" type="external" n="unkown">daten.digitale-sammlungen.de/~db/0002/bsb00022145/images/index.html</ref>; Zugriff: 17. 2. 2010), vgl. dazu F. Keinz, Althochdeutsche Bruchstücke, SB München 1869, Heft I, 544; zur Überlieferung siehe die Hinweise auf <ref target="https://opacplus.bsb-muenchen.de/InfoGuideClient/singleHit.do?methodToCall=activateTab&amp;amp;tab=showWeblinksActive&amp;amp;weblinks_redirected=true" type="external" n="unkown">opacplus.bsb-muenchen.de/InfoGuideClient/singleHit.do</ref> (Zugriff: 17. 2. 2010).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0146" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_363" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

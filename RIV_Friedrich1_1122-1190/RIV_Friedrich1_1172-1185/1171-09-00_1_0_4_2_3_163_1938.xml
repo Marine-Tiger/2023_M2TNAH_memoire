@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1938</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-00_1_0_4_2_3_163_1938"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-09-00_1_0_4_2_3_163_1938"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-09-00_1_0_4_2_3_163_1938</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597368" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1938</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-09-01" to="1171-09-30">1171  etwa September</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Nimwegen <hi rend="italic">(apud Nouiomagum)</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.  sowie Siegel des Bischofs von Lüttich und des Herzogs von Zähringen</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Außerhalb der Kanzlei verfaßt, geschrieben von einem Schreiber der französisch beeinflußten Westgebiete des Reiches, vielleicht der Diözese Lüttich</scribe>
+				
+				
+					<testis function="witnesses">Heinrich, Kanzler des kaiserlichen Hofes, Landgraf Ludwig von Thüringen, die Grafen Heinrich von Diez und Theobald von Lechsgemünd, Burggraf Konrad von Nürnberg, Burchard von Üsenberg und Werner von Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich beurkundet, daß <hi rend="spaced">Erzbischof Arnold von Trier</hi>  auf seine Bitten die Trierer Lehen des Grafen Heinrich (des Blinden) von Namur mit Ausnahme der an Kuno den Älteren von Malberg verliehenen Vogtei zu Wittlich und des Hofes zu Grevenmacher (Machera) an <hi rend="spaced">Herzog Berthold (IV.) von Zähringen und dessen Sohn Berthold</hi>  unter der Bedingung verliehen habe, daß nach dem Tod des Grafen binnen 15 Wochen dafür in Trier 350 Mark Silber zu entrichten sind und im Falle des Ablebens des Herzogs Bischof Rudolf von Lüttich für dessen minderjährigen Sohn den Schutz übernehmen werde; er selbst (der Kaiser) übergibt dafür dem Erzbischof mit Zustimmung seines Sohnes, König Heinrichs (VI.), seinen Hof zu Kröv (<hi rend="italic">Crouia</hi>) und der Lütticher Bischof seinen Hof zu Kobern (<hi rend="italic">Couerne</hi>) als Pfand, gemeinsam übernehmen sie (der Kaiser und Bischof Rudolf von Lüttich) die Bürgschaft für die Einhaltung dieses Vertrages. <span n="witnesses">Z.: Heinrich, Kanzler des kaiserlichen Hofes, Landgraf Ludwig von Thüringen, die Grafen Heinrich von Diez und Theobald von Lechsgemünd, Burggraf Konrad von Nürnberg, Burchard von Üsenberg und Werner von Bolanden</span>. — <span n="clerk">Außerhalb der Kanzlei verfaßt, geschrieben von einem Schreiber der französisch beeinflußten Westgebiete des Reiches, vielleicht der Diözese Lüttich</span>; <span n="seal">SP.2.  sowie Siegel des Bischofs von Lüttich und des Herzogs von Zähringen</span>. <span n="incipit"><hi rend="italic">Iusticia est, quę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Iusticia est, quę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: Beyer, Mittelrhein.UB. 2, 39 n<hi rend="sup">o</hi>  4b; Wampach, UB.der altluxemburg. Territorien 1, 666 n<hi rend="sup">o</hi>  485; MG.DF.I.581. Faks.: Wampach, ebda. Regg.: Wauters, Table chronol. 2, 520; Goerz, Mittelrhein.Reg. 2, 87 n<hi rend="sup">o</hi>  300; Stumpf 4127.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung resultiert aus dem Itinerar. — Zur diplomatischen Bewertung vgl. die Vorbemerkung zum D. — Zum Inhalt dieses das gesamte zähringische Haus (Bischof Rudolf von Lüttich war der Bruder des Herzogs) betreffenden Vertrages vgl. zuletzt Kupper, Maasgebiet, in: Friedrich Barbarossa (VuF 40, 1992) 227 mit Anm. 8 und 234 mit Anm. 42.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1339598787" value="2012-06-13"></date><p n="author">Erik Beck</p><p>Nach Ulrich Parlow, Die Zähringer. Kommentierte Quellendokumentation zu einem südwestdeutschen Herzogsgeschlechts des hohen Mittelalters (Veröffentlichungen der Kommission für Geschichtliche Landeskunde in Baden-Württemberg A 50), Stuttgart 1999, Nr. 463 datiert die Urkunde mit Verweis auf J. Kupper, La politique des ducs de Zähringen entre la Moselle et la mer du Nord dans la seconde moitié du XIIe siècle, in: Le Moyen Age 78 (1972), S. 427-466, hier S. 438f. nicht in den September 1171, sondern zwischen den 12. und 28. Juli 1171. </p></item><item><date type="creation" n="1465730773" value="2016-06-12"></date><p n="author">David Schnur</p><p>Edition nach LHAKo, Best. 1 A, Nr. 76 in: Kortenkamp, Gottfried (Bearb.): Die Urkunden der Stadt Wittlich und ihres Umlandes vom 10. Jahrhundert bis zum Stadtbrand im Jahre 1569 (Geschichte und Kultur des Trierer Landes 14), Trier 2016, Nr. 19, S. 45-47 (&amp;quot;zu 1171 (etwa September)&amp;quot;), mit dem Hinweis: &amp;quot;Die Urkunde ist nicht rechtskräftig geworden, zum einen wegen des späten Todes des Grafen Heinrich von Namur und Luxemburg (gest. 1196), zum anderen, weil die Zähringer die politischen Pläne Kaiser Friedrichs I. im Moselraum nicht mehr weiter verfolgten. (Vgl. Büttner, Zähringerpolitik, S. 58)&amp;quot;</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0065" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_581" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

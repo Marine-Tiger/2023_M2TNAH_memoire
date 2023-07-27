@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2902</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-25_1_0_4_2_4_325_2902"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-07-25_1_0_4_2_4_325_2902"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-07-25_1_0_4_2_4_325_2902</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845344" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2902</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-07-25" to="1185-07-25">1185
+									Juli 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>San Miniato (<hi rend="italic">VIII kal. augusti, apud sanctum Miniatem</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Kanzleidiktat, wohl von GG verfasst</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Bonifaz 									von Novara und Peter von Luni, Paganellus von Montemagno, 									Markgraf Wilhelm von Parodi, <hi rend="italic">capellarius</hi> 									Atzo und Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Burg 									Moriano</hi> mit allem Zubehör, darunter den Kapellen von 								Mammoli (<hi rend="italic">Mamole</hi>), Aquileia, Mastiano (<hi rend="italic">Maschiano</hi>) und San Concordio di Moriano samt 								den dort wohnenden Personen, in seinen Schutz und befreit sie – mit 								Ausnahme der seit 25 Jahren üblichen Leistungen – von allen Abgaben 									(<hi rend="italic">aliquam datam vel exactionem seu fodrum; 									angariam neque perangariam ab eis extorquere nec aliquod onus 									publice functionis aut cuiusque servilis operis presumat eis 									imponere</hi>) an jedermann, insbesondere an die Stadt Lucca, 								jedoch unter Vorbehalt der kaiserlichen Gerechtsame und des Rechtes 								des Bischofs von Lucca. <span n="witnesses">Z.: die Bischöfe Bonifaz 									von Novara und Peter von Luni, Paganellus von Montemagno, 									Markgraf Wilhelm von Parodi, <hi rend="italic">capellarius</hi> 									Atzo und Kämmerer Rudolf</span>. –<span n="clerk"> 									Kanzleidiktat, wohl von GG verfasst</span>.<span n="incipit"> 									<hi rend="italic">Imperatoriam maiestatem nostram.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam maiestatem nostram.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Liber 								privilegiorum episcopatus Lucensis f. 31, erzbischöfliches Archiv 								Lucca (B). Drucke: Stumpf, Acta ined., 229 n<hi rend="sup">o</hi> 168; MG.DF.I.910. Reg.: Stumpf 4427.</p></div>
+				
+				
+					<div type="commentary"><p>Da in der Nachurkunde Heinrichs VI. von 1186 								September 2 (B.-Baaken Reg. 19) an die Klausel mit dem Vorbehalt der 								Rechte des Kaisers und des Luccheser Bischofs die Bestimmung 								angefügt ist, dass die Leute von Moriano dem Herrscher, wenn er sich 								in Italien aufhält, oder seinem Nuntius jährlich 15 Pfund Luccheser 								Münze zu zahlen haben, ist es durchaus denkbar (so Stumpf, Acta 								ined., 230 Anm. 2), dass diese Bestimmung auch im DF.I. stand, vom 								Kopisten aber aus Nachlässigkeit oder bewusst weg gelassen wurde. – 								Dieses D. gehört in den Rahmen des Eingreifens des Herrschers im 								Gebiet von Lucca, vgl. dazu auch schon oben Regg. 2863 und 2893 mit 								den dort gebotenen Hinweisen sowie Kauffmann, Die italienische 								Politik Kaiser Friedrichs I. (Greifswalder Abhandlungen zur Gesch. 								d. Mittelalters 3, 1933) 75 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_910" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

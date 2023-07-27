@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2146</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-07-27_1_0_4_2_3_373_2146"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1175-07-27_1_0_4_2_3_373_2146"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1175-07-27_1_0_4_2_3_373_2146</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426599271" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2146</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1175-07-27" to="1175-07-27">1175 Juli 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI kallendas augusti, Papie)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben vom kaiserlichen Kapellan Robert</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Christian von Mainz und Philipp von Köln, Bischof Hugo von Verden, Graf Macharius (von S. Miniato), Konrad der Schwabe, Petrus Traversarius (von Ravenna) und Konrad Latinarius (von Lützelhardt)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Hospital der Kreuzträger an der Hauptstraße bei Bologna</hi>  (<hi rend="italic">hospitale Cruciferorum, quod iusta Bononiam in strata maiore situm est</hi>) und alle anderen Hospitäler dieses Ordens im Reich mit all ihren Besitzungen in seinen Schutz und erlaubt den Wiederaufbau des Hospitals bei Cesena. <span n="witnesses">Z.: die Erzbischöfe Christian von Mainz und Philipp von Köln, Bischof Hugo von Verden, Graf Macharius (von S. Miniato), Konrad der Schwabe, Petrus Traversarius (von Ravenna) und Konrad Latinarius (von Lützelhardt)</span>. — <span n="clerk">Verfaßt und geschrieben vom kaiserlichen Kapellan Robert</span>, Protonotar der Mainzer Kirche, der in enger Beziehung zu Erzbischof Christian von Mainz stand. <span n="incipit"><hi rend="italic">Imperatorie maiestatis a</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatorie maiestatis a</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1272 August 31, Staatsarchiv Mailand (C); Abschrift des 18. Jh. aus C, Biblioteca Nazionale zu Mailand A F IX 3 v.2 (C<hi rend="sup">1</hi>). Drucke: Stumpf, Acta ined. 523 n<hi rend="sup">o</hi>  367; MG.DF.I.641. Reg.: Stumpf 4178.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Diktat und zu Kapellan Robert vgl. Herkenrath, Zwei Notare, MIÖG 73 (1965) 259 ff. — Zu späteren Bestätigungen durch Heinrich VI., Otto IV. und Friedrich II. vgl. die Vorbemerkung zum D. — Zu den unter den Zeugen genannten Konrad dem Schwaben (= von Urslingen) und Konrad Latinarius (von Lützelhardt), die in der staufischen Reichsverwaltung in Toscana eine bedeutende Rolle spielten, vgl. Schubring, Herzoge von Urslingen, 268 n<hi rend="sup">o</hi>  6, und Schubring, Lützelhardt, Zs. f. württ. Landesgesch. 40 (1982) 264.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0136" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_641" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

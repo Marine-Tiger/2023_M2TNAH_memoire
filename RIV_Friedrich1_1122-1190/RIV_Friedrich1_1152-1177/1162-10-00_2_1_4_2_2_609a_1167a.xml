@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1167a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-10-00_2_1_4_2_2_609a_1167a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-10-00_2_1_4_2_2_609a_1167a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-10-00_2_1_4_2_2_609a_1167a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358499974" value="2013-01-18"></date>
+				<date type="lastmod" n="1358499974" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1167a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-10-01" to="1162-10-31">1162 (Herbst, etwa Oktober/November)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stiftet nach seiner Rückkehr im Gefolge der Unterwerfung Mailands Glasfenster für den Chor von St. Fides in Schlettstadt (TEMPORE QVO REDIIT SVPERATIS MEDIOLANIS / NOS REX ROMANVS FIERI IVSSIT FRIDERICVS).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Inschrift der verlorenen Farbverglasung, überliefert durch den Straßburger Humanisten Beatus Rhenanus (1485–1547), vgl. dazu Becksmann, Glasmalerei, in: Die Zeit der Staufer. Bd. I (Katalog der Ausstellung, Stuttgart 1977) 276, Ders., Raum, Licht und Farbe, in: Die Zeit der Staufer. Bd. V. (Katalog der Ausstellung, Stuttgart 1977) 110 f., die Hinweise bei Hülsen-Esch, Romanische Skulptur in Oberitalien 116 mit Anm. 440, sowie Görich, Ehre Friedrich Barbarossas, 366.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus der Erwähnung der Rückkehr (nach Deutschland) und dem für die Monate Oktober/November 1162 wahrscheinlichen Aufenthalt des Kaisers (hier interessanterweise als rex bezeichnet) im Elsass, vgl. dazu Regg. 1166 und 1167.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360330797" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+4.+Lief.%3A+1181-1190&amp;amp;pk=1679531" type="external" n="opac">RI IV,2,4</ref>, S. XXX.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

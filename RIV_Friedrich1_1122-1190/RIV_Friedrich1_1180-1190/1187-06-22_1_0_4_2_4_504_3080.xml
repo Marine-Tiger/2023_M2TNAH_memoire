@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3080</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-06-22_1_0_4_2_4_504_3080"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-06-22_1_0_4_2_4_504_3080"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-06-22_1_0_4_2_4_504_3080</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848208" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3080</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-06-22" to="1187-06-22">(1187)
+									Juni 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Walde Warndt (westlich von Saarbrücken) (<hi rend="italic">decimo kal. iulii, </hi> <hi rend="italic">in silva de Warant</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wahrscheinlich 									Empfängerdiktat</scribe>
+				
+				
+					<testis function="witnesses">Konrad, Erzbischof 									von Mainz und päpstlicher Legat, Bischof Peter von Toul (<hi rend="italic">Leucorum</hi>), die Grafen Ludwig von Pfirt, 									Ludwig von Saarwerden (<hi rend="italic">Saluerna</hi>) sowie 									Simon von Saarbrücken und seine Brüder, Graf Folmar von 									Blieskastel (<hi rend="italic">Castello</hi>) und Werner von 									Bolanden</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt nach Einsichtnahme in die 								entsprechende, von Erzbischof Hillin von Trier, seinen 								Suffraganbischöfen und Herzog Matthäus von Lothringen besiegelte 								Urkunde das seinerzeit vor diesem Erzbischof abgeschlossene Abkommen 								zwischen dem <hi rend="spaced">Kloster Remiremont</hi> und <hi rend="spaced">Herzog</hi> 								<hi rend="spaced">Matthäus von Lothringen</hi> über die Vogtei des 								Klosters, das später von der Äbtissin von Remiremont mit Herzog 								Simon von Lothringen vor Bischof (Peter) von Toul unter dessen 								Siegel erneuert worden war und nunmehr in seiner Gegenwart im Walde 								Warndt in Gegenwart der Äbtissin und Herzog Simons von diesem 								abermals anerkannt wurde. <span n="witnesses">Z.: Konrad, Erzbischof 									von Mainz und päpstlicher Legat, Bischof Peter von Toul (<hi rend="italic">Leucorum</hi>), die Grafen Ludwig von Pfirt, 									Ludwig von Saarwerden (<hi rend="italic">Saluerna</hi>) sowie 									Simon von Saarbrücken und seine Brüder, Graf Folmar von 									Blieskastel (<hi rend="italic">Castello</hi>) und Werner von 									Bolanden</span>. –<span n="clerk"> Wahrscheinlich 									Empfängerdiktat</span>.<span n="incipit"> 									<hi rend="italic">Ea, que coram maiestatis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ea, que coram maiestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Chartular des Klosters Remiremont vom 								Ende des 14. Jh. ms. lat. 12.866 f. 85’, Nationalbibliothek Paris 								(B); Abschrift von 1566 B 876 n<hi rend="sup">o</hi> 147, 								Departementalarchiv Nancy (C); Register des Klosters von 1713, Nouv. 								Acquis. franç. 3.662 f. 18’, Nationalbibliothek Paris 								(D). Drucke: Böhmer, Acta imp., 147 n<hi rend="sup">o</hi> 								156; Bridot, Chartes de l’abbaye de Remiremont, 205 n<hi rend="sup">o</hi> 78; MG.DF.I.959. Regg.: Diestelkamp – Rotter, 								Urkundenregesten 1, 385 n<hi rend="sup">o</hi> 490; Stumpf 4478.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								kaiserlichen Itinerar. – Die im Text erwähnten Urkunden Hillins von 								Trier von 1152 und Peters von Toul (zwischen 1176 und 1183) sind bei 								Bridot, a.a.O., 170 no 66 und 200 no 76 ediert; die Härte der 								Auseinandersetzungen um die Vogtei des Klosters spiegelt sich auch 								in der Exkommunikation Herzog Simons durch Erzbischof Arnold von 								Trier wider (Bridot, a.a.O., 203 no 77); vgl. zu all dem die 								Vorbemerkung zum D. – Gut möglich ist es, dass die Angelegenheit 								bereits während des kaiserlichen Besuchs in Toul Mitte Mai 1187 								(Regg. 3074–3076) erörtert wurde.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_959" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

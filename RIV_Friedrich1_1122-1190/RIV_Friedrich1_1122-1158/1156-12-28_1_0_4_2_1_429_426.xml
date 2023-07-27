@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 426</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-12-28_1_0_4_2_1_429_426"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-12-28_1_0_4_2_1_429_426"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-12-28_1_0_4_2_1_429_426</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 426</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-12-28" to="1156-12-28">1156 Dezember 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Piacenza">Piacenza</placeName>
+												<location><geo decls="#WGS">44.8833, 9.5833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bote</hi>  <hi rend="spaced">Kapellan Friedrichs, Balduin</hi>  <hi rend="spaced">Villanus Spero</hi>  <hi rend="spaced">Gallicianus de Arena</hi>  <hi rend="spaced">Claudius</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Der <span sameAs="recipient"><hi rend="spaced">Bote</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Kapellan Friedrichs, Balduin</hi> </span>, stellt dem <span sameAs="recipient"><hi rend="spaced">Villanus Spero</hi> </span>, dem <span sameAs="recipient"><hi rend="spaced">Gallicianus de Arena</hi> </span>, dem <span sameAs="recipient"><hi rend="spaced">Claudius</hi> </span>, den Brüdern und allen anderen Genossen auf Befehl des Kaisers den Besitz des Hafens Portatorio und der Brücke über den toten Po zurück.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Legatenurkunde Balduins mit lokalen Zeugen, ed. Solmi, Roncaglia, Arch. stor. per le prov. Parmensi 10 (1910) 133 n<hi rend="sup">o</hi>  3.</p></div>
+				
+				
+					<div type="commentary"><p>Die Vorgeschichte dieser Urkunde erfahren wir aus einem 1174 angestellten Zeugenverhör über den Streit zwischen der Kommune Piacenza und der Abtei S. Giulia zu Brescia um den Poübergang, ed. Güterbock, Piacenzas Beziehungen, QFIAB 24 (1932-33) 104 n<hi rend="sup">o</hi>  1, wo Ugo Speronus berichtet, daß er vor dem Kaiser in Deutschland gegen die Äbtissin Klage erhoben habe, worauf dieser einen Boten, nämlich Balduin, abgesandt habe, der nach der in Piacenza durchgeführten Restitution nach Brescia gezogen sei, um dort der Äbtissin gemäß kaiserlichem Befehl aufzutragen, selbst oder durch Vertreter auf dem an Mariä Reinigung stattfindenden Hoftag zu Ulm (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-02-02_2_0_4_2_1_437_D434.html" type="internal" n="regesten">434</ref>) ihren Standpunkt in diesem Fall zu vertreten. - Vgl. dazu auch Haverkamp, Herrschaftsformen 2 (Monogr. zur Gesch. d. MA 1/2, 1971) 531 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0143" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

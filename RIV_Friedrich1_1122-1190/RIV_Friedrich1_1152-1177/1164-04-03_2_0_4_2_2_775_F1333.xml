@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †1333</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-03_2_0_4_2_2_775_F1333"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-04-03_2_0_4_2_2_775_F1333"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-04-03_2_0_4_2_2_775_F1333</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246206" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †1333</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-04-03" to="1164-04-03">1164 April 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  non. aprilis, apud sanctum Saluatorem iuxta Papiam)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Presbiter</hi>  <hi rend="spaced">Cremona</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Christianus canc. vice domini Rainaldi Coloniensis archiep. et Italie archicanc.</hi></notarius>
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt den Bischof <span sameAs="recipient"><hi rend="spaced">Presbiter</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Cremona</hi> </span>  mit dessen Kirche und ihren Besitzungen und Rechten in seinen Schutz und verleiht ihm Güter zu Piadena, Castelfranco d'Oglio und <hi rend="italic">Lamo</hi>. - <span n="chancellor"><hi rend="italic">Christianus canc. vice domini Rainaldi Coloniensis archiep. et Italie archicanc.</hi> </span>; Fälschung des frühen 14. Jh. auf der Grundlage des DF. I. 433 (Reg. 1332). <span n="incipit"><hi rend="italic">Ad hoc divina providentia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc divina providentia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Fälschung; Kop.: Abschrift des 14. Jh. im Cod. Sicardi p. 53, Biblioteca Governativa zu Cremona (B). Drucke: Böhmer, Acta imp., 110 n<hi rend="sup">o</hi>  118; Falconi, Carte Cremonesi 3, 19 n<hi rend="sup">o</hi>  413; MG. DF. I. 1059. Reg.: Astegiano, CD. Cremonae 1, 130 n<hi rend="sup">o</hi>  215; Stumpf 4012.</p></div>
+				
+				
+					<div type="commentary"><p>Die Fälschung wurde zur Zeit des Eingreifens König Johanns von Böhmen in Italien hergestellt, um dem Bistum den Besitz von Piadena zu sichern. Die tatsächliche Belehnung der Kirche von Cremona mit Piadena durch König Johann im Jahre 1331 (Böhmer, a. a. O., 722 n<hi rend="sup">o</hi>  1031 und 1032) ist nicht nur terminus ante quem für die Entstehung dieses Spuriums, sie zeigt auch, daß die Fälschung Erfolg hatte; vgl. Hirsch, Ein gefälschtes Diplom, Epitymbion. FS. für Heinrich Swoboda (1927) 352 ff. und die Vorbemerkung zum D.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0207" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1059" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

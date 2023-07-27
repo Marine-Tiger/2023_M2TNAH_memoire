@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2673</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-10-07_2_0_4_2_4_94_2673"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-10-07_2_0_4_2_4_94_2673"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-10-07_2_0_4_2_4_94_2673</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843552" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2673</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-10-07" to="1182-10-07">1182
+									Oktober 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Augsburg (<hi rend="italic">nonis octobris, Augustę</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aulę canc. vice Cristani (!) 										Moguntinę sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei verfasst und 									geschrieben, wobei das Monogramm von dem Kanzleinotar Robert 									eingesetzt wurde</scribe>
+				
+				
+					<testis function="witnesses">König Heinrich (VI.), der 									Sohn des Kaisers, Bischof Hartwig von Augsburg, Elekt Otto von 									Eichstätt, Rudolf, Protonotar des kaiserlichen Hofes, Dompropst 									Udalschalk von Augsburg, Dekan Tiemo (von Augsburg), Propst 									Siegfried von St. Moritz (in Augsburg), Herzog Friedrich von 									Schwaben, die Markgrafen Berthold von Istrien und Heinrich von 									Ronsberg, die Grafen Otto von Oberkirchberg und Diepold von 									Lechsgemünd, Degenhard von Hellenstein (<hi rend="italic">Hallunstain</hi>), Tiemo von Gundelfingen, Heinrich von 									Donaustauf, Burggraf (<hi rend="italic">urbis prefectus</hi>) 									Konrad (von Augsburg), Siegfried und sein Bruder Heinrich von 									Donnsberg (<hi rend="italic">Tonersberch</hi>), Kämmerer Otto, 									Siegfried und sein Sohn Heinrich von Algertshausen (<hi rend="italic">Alggishusen</hi>), Diepold von Hausen und 									seine Söhne Ulrich und Diepold, Ulrich <hi rend="italic">maior 										villicus</hi> (von Augsburg), Otto und sein Sohn Otto von 									Bobingen sowie der <hi rend="italic">castenarius</hi> 									Lutold</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kloster 									St. Ulrich und Afra in Augsburg</hi> aus Anlass seiner Aufnahme 								in die Gebetsverbrüderung dieses Klosters, die das kirchliche 								Gedenken an ihn nach seinem Ableben ebenso wie für die anderen 								Klosterbrüder oder den Abt sicherstellt (<hi rend="italic">nos in 									suę fraternitatis suscepisse consortium, ita videlicet, ut nobis 									hac vita decedentibus, uti pro se invicem vel pro abbate suo 									defuncto vigiliis ieiuniis et orationibus desudare, non minus 									pro redemptione animę nostrę eisdem et aliis divinis 									exhibitionibus intendant laborare</hi>), die zum Teil namentlich 								angeführten Besitzungen, nämlich die Vogtei in Haunstetten (<hi rend="italic">Husteten</hi>), die Lechbrücke, die <hi rend="italic">culta et inculta</hi> auf dem Lechfeld und die 								Zehenten aus den <hi rend="italic">oppida</hi> in <hi rend="italic">Straza</hi>, zwei Hufen in Mering (<hi rend="italic">Moringin</hi>) und die Schenkungen seines Oheims (Herzog) Welf 								(VI.), weiters die Schenkungen von Seiten der Ministerialen Welfs 								(VI.) und des ehemaligen Herzogs Heinrich (des Löwen) von Bayern, 								die des Adalbert in Pfaffenhofen, des Gerung in Aufhausen, der 								Bertha von Scheuring in Oberndorf und des Heinrich von Beuren in <hi rend="italic">Tagebreshouen</hi> sowie die des Gutes in 								Windsfeld, das Gertrud von Druisheim dem Kloster durch seine (= des 								Kaisers) und ihres Vogtes Heinrich Hand dem Kloster übergeben hat 								(vgl. Reg. 2672). <span n="witnesses">Z.: König Heinrich (VI.), der 									Sohn des Kaisers, Bischof Hartwig von Augsburg, Elekt Otto von 									Eichstätt, Rudolf, Protonotar des kaiserlichen Hofes, Dompropst 									Udalschalk von Augsburg, Dekan Tiemo (von Augsburg), Propst 									Siegfried von St. Moritz (in Augsburg), Herzog Friedrich von 									Schwaben, die Markgrafen Berthold von Istrien und Heinrich von 									Ronsberg, die Grafen Otto von Oberkirchberg und Diepold von 									Lechsgemünd, Degenhard von Hellenstein (<hi rend="italic">Hallunstain</hi>), Tiemo von Gundelfingen, Heinrich von 									Donaustauf, Burggraf (<hi rend="italic">urbis prefectus</hi>) 									Konrad (von Augsburg), Siegfried und sein Bruder Heinrich von 									Donnsberg (<hi rend="italic">Tonersberch</hi>), Kämmerer Otto, 									Siegfried und sein Sohn Heinrich von Algertshausen (<hi rend="italic">Alggishusen</hi>), Diepold von Hausen und 									seine Söhne Ulrich und Diepold, Ulrich <hi rend="italic">maior 										villicus</hi> (von Augsburg), Otto und sein Sohn Otto von 									Bobingen sowie der <hi rend="italic">castenarius</hi> 									Lutold</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aulę canc. vice Cristani (!) 										Moguntinę sedis archiep. et Germanię archicanc.</hi></span>; 									<span n="clerk">außerhalb der Kanzlei verfasst und 									geschrieben, wobei das Monogramm von dem Kanzleinotar Robert 									eingesetzt wurde</span>; <span n="seal">SP.2.</span> 								<span n="incipit"><hi rend="italic">Rex cęli et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Rex cęli et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: früher Hauptstaatsarchiv München, 								jetzt Staatsarchiv Augsburg, Kloster Augsburg – St. Ulrich und Afra 								Urkunden 4/1 (A). Drucke: Mon. Boica 22, 193 n<hi rend="sup">o</hi> 12; MG.DF.I.834. Regg.: Mon. Boica 29<hi rend="sup">a</hi>, 448 n<hi rend="sup">o</hi> 540; Steichele – 								Schröder, Bistum Augsburg 6, 261; Hipper, Urkunden des Reichsstiftes 								St. Ulrich und Afra in Augsburg, 9 n<hi rend="sup">o</hi> 12; 								B.-Baaken Reg. 1m; Stumpf 4349.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung 								zum D. – Herzog Welf VI. hatte seine Schenkungen an das Kloster mit 								Urkunde von 1172 Mai 1 bestätigt, vgl. Hipper, a.a.O., 6 no 9, und 								Feldmann, Welf VI., Reg. no 135; die Übereignung der Vogtei 								Haunstetten durch den Kaiser hatte sich das Kloster bereits 1177 von 								Alexander III. bestätigen lassen, siehe dazu oben Reg. 2296. – Zu 								den Beziehungen Friedrichs zum Kloster sowie zum Inhalt dieses D. 								vgl. Opll, Winterquatember, MIÖG 85 (1977) 333, sowie die Fälschung 								DF.I. 1063 (Reg. †1936). – Der unter den Zeugen genannte Heinrich 								von Ronsberg war 1182 vom Kaiser zum Markgrafen erhoben worden, vgl. 								Patze, Osten, in: Probleme des 12. Jahrhunderts (VuF 12, 1968) 398, 								sowie Wolf, Markgraf von Ronsberg, Zs. f. württ. Landesgesch. 40 								(1981) 231; zur Identifizierung des Heinrich von Donaustauf vgl. 								Plassmann, Struktur des Hofes, 268 und 286; zu Ulrich von Hausen 								(Kr. Aichach-Friedberg), vielleicht einem Augsburger Ministerialen, 								vgl. Plassmann, a.a.O., 275; zu dem Augsburger Ministerialen 								Siegfried von Donnsberg (Kr. Donau-Ries) Plassmann, a.a.O., 290.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_834" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2099</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-00-00_2_0_4_2_3_326_2099"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-00-00_2_0_4_2_3_326_2099"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-00-00_2_0_4_2_3_326_2099</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606621" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2099</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-01-01" to="1174-12-31">wohl 1174 Herbst</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfaßt und geschrieben außerhalb der Kanzlei</scribe>
+				
+				
+					<testis function="witnesses">Bischof Rudolf von Straßburg, Vitztum Burchard von Straßburg, Abt (Heinrich) von Münster im Gregoriental (<hi rend="italic">abbas sancti Gregorii</hi>), Magister Heinrich von St. Thomas (in Straßburg), Heinrich von St. Peter (in Straßburg), Kuno von Granfelden (Grandval), Graf Hermann (von Frohburg, Stadtgraf von Basel), Schultheiß Hugo (von Basel) und Ulrich von Büren</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verfügt nach Klagen der schriftlich (vgl. Reg. 2098) an den Hof geladenen Vertreter der <hi rend="spaced">Bistums Basel</hi>, des Dompropstes Heinrich, des Vitztums Hugo und des Scholasters Heinrich von Straßburg, gegen den ebenfalls anwesenden Bischof (Ludwig II.) von Basel wegen verschiedener Verpfändungen und Veräußerungen durch den Bischof die folgenden Maßnahmen: Der Bischof tritt Bann, Münze und Zoll, des weiteren zehn Pfund von den Abteien Murbach und St. Ursitz (Saint-Ursanne) sowie weitere zehn Pfund, die Propst Hugo (von Basel) jährlich zu dienen hat (... <hi rend="italic">decem libras per Hugonem prepositum annuatim ministrandas</hi>...), an ihn (= den Kaiser), den Vitztum Hugo und den Schultheißen Hugo unter der Bedingung ab, daß ein Gremium, gebildet aus dem Vitztum und dem Schultheißen unter Beiziehung Ulrichs des Reichen, Rudolfs, des ehemaligen Münzers Hugo und des Mundschenken Albert (alle von Basel), auf Rat der letzteren mit einer jährlichen Zahlung von 300 Pfund aus den erwähnten Ämtern und Einkünften das Pfand auslöse, wobei das jeweils ausgelöste Gut in ihren Händen verbleiben und bis zur endgültigen Tilgung der Schuld zur Auslösung des jeweils noch Verpfändeten verwendet werden solle. Er (= der Kaiser) verpflichtet den Bischof durch ein ihm und dem Erzbischof (Eberhard) von Besançon in die Hand geleistetes Versprechen, ohne seinen, der Domkanoniker und Ministerialen Rat künftig keine Verpfändungen und Belehnungen von Kirchengut durchzuführen, und stellt die Eintracht zwischen dem Bischof und seinem Domkapitel in der Form wieder her, daß der Bischof und Graf Hermann (von Frohburg, Stadtgraf von Basel) für sich und ihre Freunde den Domkanonikern gegenüber Frieden zu halten versprechen. <span n="witnesses">Z.: Bischof Rudolf von Straßburg, Vitztum Burchard von Straßburg, Abt (Heinrich) von Münster im Gregoriental (<hi rend="italic">abbas sancti Gregorii</hi>), Magister Heinrich von St. Thomas (in Straßburg), Heinrich von St. Peter (in Straßburg), Kuno von Granfelden (Grandval), Graf Hermann (von Frohburg, Stadtgraf von Basel), Schultheiß Hugo (von Basel) und Ulrich von Büren</span>. — <span n="clerk">Verfaßt und geschrieben außerhalb der Kanzlei</span>; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Noverit universitas vestra</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverit universitas vestra</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Archives de l'ancien évéché de Bâle zu Porrentruy (Pruntrut, Kanton Jura) (A). Drucke: Trouillat, Mon.de Bàle 1, 353 n<hi rend="sup">o</hi>  232 zu 1174; MG.DF.I.631. Regg.: Hidber 2, n<hi rend="sup">o</hi>  2335 zu 1174?; Diestelkamp — Rotter, Urkundenregesten 1, 333 n<hi rend="sup">o</hi>  426; Stumpf 4555 zu 1167 — 1174.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung vgl. Scheffer-Boichorst, Burchard, in: ZGORh NF.4 (1889) 472 (= Ders., Gesammelte Schriften 2, 242 Anm.78), der nach den Straßburger Zeugen als möglichen Ausstellungsort Straßburg nennt, sowie die Vorbemerkung zum D. — Zu dem unter den Zeugen genannten Abt von Münster im Gregoriental vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 266. — Zum Inhalt vgl. Opll, Stadt und Reich, 43 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0119" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_631" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

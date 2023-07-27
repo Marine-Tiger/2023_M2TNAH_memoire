@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3197</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-10-21_1_0_4_2_4_623_3197"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-10-21_1_0_4_2_4_623_3197"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-10-21_1_0_4_2_4_623_3197</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3197</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-10-21" to="1188-10-21">1188
+									Oktober 20 oder 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Bischofspfalz zu Pavia</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Licifredus, kaiserlicher Kapellan und Legat (<hi rend="italic">imperialis aule capellanus et eiusdem 									magnificencie legatus</hi>), nimmt in Gegenwart der vom Kaiser 								delegierten Richter, des Syrus Salimbene (von Pavia), Ido von 								Tortona, Arprand, Otto Cendadarius (von Mailand) und Guido de Pozzo 									(<hi rend="italic">Puteo</hi> = von Pavia), sowie in Anwesenheit 								der Cremasker Konsuln, nämlich des Albertus de Palacio, des 								Lantelmus Benzonus und des Richters Alberich, im Auftrag seines <hi rend="italic">socius</hi>, des kaiserlichen Legaten Wilhelm von 								Aachen, der gemeinsam mit ihm vom Kaiser mit der Behandlung dieses 								Falles betraut worden ist, den vom genannten Richter Alberich von 								Crema mit Zustimmung seiner Mitkonsuln und mit Rat seiner namentlich 								angeführten Richter formulierten Verzicht Cremas auf irgendwelche 								Ansprüche auf die <hi rend="italic">Insula Fulcherii</hi> entgegen. 								Die beiden kaiserlichen Legaten befehlen sodann den Cremasken unter 								Treueid, die Rechte des Kaisers und seiner Boten künftig 								unangetastet zu lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Falconi, Carte Cremonesi IV, 83 n<hi rend="sup">o</hi> 665.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Reg. 3196; die Unsicherheit der 								Datierung ergibt sich aus der am 13. Oktober fest gelegten Frist von 								acht Tagen, die wohl eher unter Einschluss als unter Ausschluss 								dieses Tages gezählt wurde. – Zu Guido de Pozzo siehe schon oben 								Regg. 2813 und 2819.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

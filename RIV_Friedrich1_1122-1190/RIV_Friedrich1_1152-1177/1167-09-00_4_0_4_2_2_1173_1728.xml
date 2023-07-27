@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1728</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-09-00_4_0_4_2_2_1173_1728"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1167-09-00_4_0_4_2_2_1173_1728"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1167-09-00_4_0_4_2_2_1173_1728</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1728</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1167-09-01" to="1167-09-30">(1167 September)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">(Pavia)</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Dietrich</hi>  <hi rend="spaced">Philipp</hi>  <hi rend="spaced">Flandern</hi></recipient>
+				
+				
+				
+					<scribe>Wohl von Wortwin verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich versichert den Grafen <span sameAs="recipient"><hi rend="spaced">Dietrich</hi> </span>  und <span sameAs="recipient"><hi rend="spaced">Philipp</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Flandern</hi> </span>, er wolle ihrer durch Schreiben und Boten vorgetragenen Bitte betreffend die Erhebung Petrus' von Flandern zum Bischof von Cambrai, für den sich auch die Kaiserin eingesetzt habe, gerne nachkommen, habe jedoch zur Wahrung der kirchlichen Wahlfreiheit der Kirche von Cambrai durch seine Legaten noch die gesetzliche Frist zur Vornahme der Wahl eingeräumt, andernfalls er nach kaiserlichem Recht und dem Rat der Fürsten selbst einen Bischof einsetzen werde (vgl. Reg. 1727). - <span n="clerk">Wohl von Wortwin verfaßt</span>  <span n="incipit"><hi rend="italic">Literas benignitatis vestre</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Literas benignitatis vestre</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. Ms. 466 (437) f. 93', Stadtbibliothek Cambrai (B); Abschrift des 13. Jh. Ms. 27 f. 258, Bibliothèque de l'Assemblée Nationale zu Paris (C). Drucke: MG. Const. 1, 327 n<hi rend="sup">o</hi>  232; MG. DF. I. 540. Reg.: Wauters, Table chronol. 2, 482; Stumpf 4546 zu 1167.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-00_1_0_4_2_2_1170_1725.html" type="internal" n="regesten">1725</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-00_2_0_4_2_2_1171_1726.html" type="internal" n="regesten">1726</ref>. - Dieses und vor allem das folgende Schreiben (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-00_5_0_4_2_2_1174_1729.html" type="internal" n="regesten">1729</ref>) waren vertrauliche Mitteilungen, die zeigen, daß sich Friedrich trotz des Auftrages, in Cambrai eine neue Bischofswahl vorzunehmen (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-09-00_3_0_4_2_2_1172_1727.html" type="internal" n="regesten">1727</ref>), doch bereits weitgehend für Petrus von Flandern, den auch die Kaiserin unterstützte, entschieden hatte; vgl. dazu die Aussage der Ann. Cameracenses, MG. SS XVI, 544: <hi rend="italic">In litteris suis post rex (!) discrete scribi iusserat</hi>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0306" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

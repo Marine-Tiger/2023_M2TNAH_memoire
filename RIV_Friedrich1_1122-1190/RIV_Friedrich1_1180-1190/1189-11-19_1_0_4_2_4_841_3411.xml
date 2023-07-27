@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3411</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-19_1_0_4_2_4_841_3411"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-11-19_1_0_4_2_4_841_3411"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-11-19_1_0_4_2_4_841_3411</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3411</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-11-19" to="1189-11-19">(1189
+									November 16–19)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Philippopel/Plovdiv bzw. unweit von Adrianopel/Edirne)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Nach der engen stilistischen Verwandtschaft 									mit DD.1008 und 1010 wohl von Gottfried K verfasst</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet seinem Sohn <hi rend="spaced">König Heinrich (VI.)</hi> auf dessen Wunsch ausführlich über 								den Verlauf des Kreuzzuges: Seit dem Eintritt in das Reich des 								byzantinischen Kaisers (<hi rend="italic">fratris nostri imperatoris 									Constantinopolitani</hi>) habe es viele von diesem veranlasste 								Angriffe auf das Kreuzheer, Raub und Tötung der Seinen gegeben, 								wobei man auf der Reichsstraße (<hi rend="italic">penes publicam 									stratam</hi>) aus dem Hinterhalt mit vergifteten Pfeilen 								überfallen worden sei. Man habe sich dagegen aber erfolgreich zur 								Wehr gesetzt. An einem einzigen Tag seien 32 Mann an einem Galgen 								hingerichtet worden (<hi rend="italic">uno patibulo XXXII more 									lupino suspensi</hi>). Beim Zug durch den Bulgarischen Wald sei 								man von den nicht gefassten Missetätern durch nächtliche 								Raubüberfälle gestört worden, obwohl etliche dieser Angreifer vom 								Kreuzheer gemartert (und getötet) worden seien (<hi rend="italic">…, 									quamvis innumerabiles variis tormentorum generibus ab exercitu 									nostro vicissim miserabiliter sint cruciati.</hi>). Der 								byzantinische Kaiser scheue nicht davor zurück, die von seinem 								Kanzler zu Nürnberg geleisteten Eide (Reg. 3214) zu brechen, bereite 								ihm alle erdenklichen Schwierigkeiten, und er habe sogar angeordnet, 								Befestigungen in Bulgarien gegen das Kreuzheer zu verstärken. Er 								selbst (= Friedrich) sei aber erfolgreich mit Waffengewalt und Feuer 								gegen diese Befestigungen vorgegangen, habe nach Überwindung der 								Pässe (<hi rend="italic">clausuris</hi>) die fruchtbare Ebene bei 									<hi rend="italic">Circuitz</hi> (wohl: Pazardčik, siehe dazu 								oben Reg. 3391) erreicht und so für den Zug durch Bulgarien sechs 								Wochen gebraucht. Schließlich sei er nach Philippopel gelangt, das 								als von seinen Einwohnern verlassen besetzt worden sei. Tags darauf 								habe er ein trügerisch abgefasstes Schreiben des byzantinischen 								Kaisers erhalten (Reg. 3393) und dann erst von der Gefangennahme 								seiner Legaten, Bischof (Hermanns) von Münster, Graf Ruperts (von 								Nassau) und Kämmerer Markwards (von Neuenburg) erfahren, die der 								byzantinische Kaiser, als er selbst noch in Ungarn weilte, <hi rend="italic">contra ius universarum nationum et legatorum</hi> 								habe einkerkern lassen. Als Vergeltung habe das Kreuzheer in der 								Folge mit der Verwüstung von Städten, Burgen und Dörfern begonnen, 								bis der byzantinische Kaiser schließlich in einem Schreiben (vgl. 								Regg. 3403 und 3404) die Entlassung und Rückkehr der Legaten 								angekündigt habe. In der Strenge des Winters habe der byzantinische 								Kaiser dann nach längeren Verhandlungen abermals sicheren Durchzug, 								die Stellung von Schiffen sowie Verpflegung versprochen, vom Geld 								der freigelassenen Legaten aber mehr als 2.000 Mark zurückbehalten. 								Der Sohn des Kaisers, Herzog (Friedrich) von Schwaben, habe bis zum 								Einsetzen frühlinghafter Witterung Aufenthalt in der Stadt <hi rend="italic">Veroi</hi> (wohl: Berrhoë, siehe dazu oben Reg. 								3399), etwa zehn Meilen von Philippopel entfernt, genommen. Da die 								Überfuhr über die Dardanellen nur durch Stellung von Geiseln von 								Seiten des byzantinischen Kaisers wie auch mit der Unterwerfung der 								ganzen <hi rend="italic">Romania</hi> gesichert werden kann, 								beauftragt er König Heinrich, Gesandte nach Genua, Venedig, Ancona 								und Pisa zu schicken, um für den für Mitte März geplanten Angriff 								auf Konstantinopel eine italienische Kriegsflotte zu sammeln. 								Weiters möge er ihm (= dem Kaiser) schuldige und noch ausstehende 								Gelder, darunter solche aus Ancona, Metz, Bremen und solche von 								Seiten des Grafen von <hi rend="italic">Honau</hi> (Hennegau?), mit 								Rat des Kanzlers (Johannes), des H., des Werner von Bolanden und 								seines Notars Richolf eintreiben und im Hause seines venezianischen 								Gastgebers Bernhard deponieren lassen. Diese Mittel sollen nach 								Tyrus gebracht und dort bereitgestellt werden. Die Geistlichkeit des 								Reiches möge für den Kaiser beten, gegen Übeltäter ist streng 								vorzugehen. Heinrich möge den Papst (Clemens III.) auffordern, 								Kreuzzugsprediger gegen die Griechen (Byzantiner) in die Provinzen 								der Kirche zu entsenden, da der Patriarch (Dositheus) von 								Konstantinopel in Gegenwart seiner Legaten, Bischof (Hermanns) von 								Münster und seiner Gefährten, in einer Predigt in der Hagia Sophia 								öffentlich zur Tötung der Kreuzritter aufgerufen habe. Die Pfalzen 								zu Kaiserswerth und Nimwegen mögen fertig gestellt und gut bewacht 								werden. Bisher habe er mehr als hundert Kreuzfahrer (<hi rend="italic">peregrinos</hi>) verloren und Pferde eingebüßt. 								Viele Kreuzfahrer, darunter solche aus der Provence und aus Soest, 								die ihm nach Konstantinopel entgegengezogen seien, werden dort in 								Haft gehalten. Der Aufenthalt in Philippopel dauere nun bereits 								zwölf Wochen, und von Philippopel bis nach Konstantinopel seien die 								Städte und Burgen völlig von ihren Einwohnern verlassen. –<span n="clerk"> Nach der engen stilistischen Verwandtschaft 									mit DD.1008 und 1010 wohl von Gottfried K verfasst</span>.<span n="incipit"> 									<hi rend="italic">Excellentię tuę litteras</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Excellentię tuę litteras</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Historia de expeditione Friderici 								imperatoris (sog. Ansbert), Abschrift des 13. Jh., wahrscheinlich 								vor 1221, Cod. Strahoviensis D F III 1 f. 100‘, heute im Museum der 								Nationalliteratur (Památník národního písemnictví) zu Prag, nur der 								Anfang bis <hi rend="italic">occurrit, quod</hi>, da die zwei 								folgenden Blätter herausgerissen wurden (S); zwei Abschriften des 								vollständigen Cod. Strahoviensis, angefertigt im 18. Jh. im Auftrag 								des späteren Abtes des Klosters Rajhrad (Raigern) in Mähren, 								Bonaventura Piter (†1764), fehlerhaft und zum Teil von Piter 								korrigiert, Staatsarchiv Brünn, Fonds E 6, Benediktiner in Raigern 								(Rajhrad), H e 44, S. 32–35 und H e 44bis, S. 33–37 (PP<hi rend="sup">1</hi>). Drucke: Hist. de expeditione Friderici 								imperatoris, ed. Chroust, MG. SS rer. Germ. N.S. 5, 40 (deutsche 								Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 95 								ff.); MG.DF.I.1009. Reg.: Stumpf 4529.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung und zur diplomatischen Kritik 								vgl. die Vorbemerkung zum D.; die Auffassung Chrousts (Einleitung, 								XLIV), der Diktator der Briefe DD.1008–1010 sei mit dem Autor der 								Historia de expeditione Friderici gleichzusetzen, ist 								zurückzuweisen, da der Sachverhalt durchaus auch in der Form erklärt 								werden kann, dass dem Historiographen bei der Abfassung seines 								Werkes der Wortlaut des Schreibens an König Heinrich zugänglich war. 								– Der Brief muss nach dem Hinweis auf den bereits zwölfwöchigen 								Aufenthalt zu Philippopel (vgl. Regg. 3392 und 3396) und der Abreise 								zweier kaiserlicher Boten am 19. November (Reg. 3414), von denen 								einer König Heinrich informieren sollte, zwischen dem 16. und 19. 								November ausgefertigt worden sein. Allerdings ist die in den Drucken 								von Heda und Reiffenberg aufgenommene Datierung (<hi rend="italic">Datum Philippopoli XVI kal. decemb. anno ab incarnatione domini 									MCLXXXIX.</hi>) sicherlich eine spätere Zutat. – Da sich der 								Kaiser am 5. November von Philippopel nach Adrianopel begeben hat 								(vgl. Regg. 3407 und 3408 sowie 3413), ist der Ausstellungsort des 								Schreibens nicht mit Sicherheit anzugeben. Zimmert, Der 								deutsch-byzantinische Konflikt, Byzantin. Zs. 12 (1903) 61 ff., 								folgt noch der Überzeugung, das Schreiben sei aus Philippopel 								abgegangen. – Zum Inhalt des Schreibens vgl. auch Dietpoldi epistola 								(Chron. Magni presbiteri), MG. SS XVII, 519. – Hucker, Zahlungen 								Bremer Bürger, Bremisches Jb. 65 (1987) 134 ff., vermutet hinter dem 								nur mit dem Anfangsbuchstaben „H.“ genannten, mit der Eintreibung 								ausständiger Gelder Beauftragten den Kämmerer Heinrich von 								(Kaisers-)Lautern, und er nimmt bei dem Notar Richolf eine 								Verschreibung statt richtig: Rudolf (Protonotar Heinrichs VI. und ab 								1189 Bischof von Verden) an. – Die Identifizierung des unter die 								Schuldner des Kaisers gezählten Grafen von <hi rend="italic">Honau</hi> mit dem Grafen von Hennegau (zu dem von diesem zu 								leistenden Zahlungen vgl. oben Reg. 3199) nimmt Bühler in seiner 								Übersetzung des Ansbert (a.a.O., 98) vor. – Zur Persönlichkeit 								Bernhards, des venezianischen Gastfreundes des Kaisers, vgl. von 								Stromer, Bernardus Teotonicus, in: Beiträge zur Handels- und 								Verkehrsgeschichte (Grazer Forschungen zur Wirtschafts- und 								Sozialgeschichte 3, 1978) 6, sowie oben bei Reg. 2282. – Zu einem 								weiteren, freilich nur in verstümmelter Form überlieferten Schreiben 								des Kaisers an seinen Sohn siehe unten Reg. 3443. – Zu den Pfalzen 								Kaiserswerth und Nimwegen vgl. oben Reg. 2776 sowie Zettler, 								Inschriften an staufischen Pfalzen und Burgen, in: Herzner – Krüger 								– Staab (Hgg.), Kunst der Stauferzeit im Rheinland und in Italien 								(2003) 51 ff., Biller, Kaiserslautern, in: Neue Forschungen zum 								frühen Burgenbau (Forschungen zu Burgen und Schlössern 9, 2006) 								153–166, und zuletzt die Hinweise bei Grewe, Visualisierung von 								Herrschaft, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von 								Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 396–400.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

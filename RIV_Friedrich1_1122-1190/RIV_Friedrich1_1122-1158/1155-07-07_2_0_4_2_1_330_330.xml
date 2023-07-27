@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 330</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-07-07_2_0_4_2_1_330_330"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-07-07_2_0_4_2_1_330_330"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-07-07_2_0_4_2_1_330_330</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238664" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 330</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-07-07" to="1155-07-07">1155(nach Juli 7)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Tivoli  (in territorio Tiburtino)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Knechtsteden</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung eines Privilegs Hadrians IV. von 1155 Juli 7 (JL. 10081; Ehlen, Knechtsteden, UB. 3 n<hi rend="sup">o</hi>  2) von A II. D verfaßt und wohl auch geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Anselm von Ravenna, die Bischöfe Heinrich von Lüttich, Konrad von Worms, Eberhard von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordliuus</hi>) von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Herzog Heinrich von Sachsen, Pfalzgraf Otto (von Wittelsbach), Graf Heinrich von Tecklenburg (<hi rend="italic">Tikeneburg</hi>), Goswin von Valkenburg (<hi rend="italic">Falkenberg</hi>), die Markgrafen Otakar von Steier, Hermann von Verona, die Grafen Guido von Biandrate, Guido Guerra, Stadtpräfekt Peter von Rom</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Erzbischofs von Köln und Erzkanzlers des <hi rend="italic">regnum Ytalicum</hi>, Arnold, sowie des Propstes Albert von Aachen, der gleichzeitig Domdekan von Köln ist, das (Prämonstratenser)stift St. Maria in <span sameAs="recipient"><hi rend="spaced">Knechtsteden</hi> </span>  in seinen Schutz, bestätigt den zum Teil angeführten Besitzstand, den Neubruchzehent (<hi rend="italic">sane novalium fratrum, que propriis manibus vel sumptis excolunt, sive de nutrimentis animalium ipsorum nullus omnino ab eis decimas exigat</hi>) und das Recht der freien Vogtwahl, jedoch unter Vorbehalt des kaiserlichen Rechtes und der Gerechtsame des Kölner Erzbischofs. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, die Erzbischöfe Hillin von Trier, Anselm von Ravenna, die Bischöfe Heinrich von Lüttich, Konrad von Worms, Eberhard von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordliuus</hi>) von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Herzog Heinrich von Sachsen, Pfalzgraf Otto (von Wittelsbach), Graf Heinrich von Tecklenburg (<hi rend="italic">Tikeneburg</hi>), Goswin von Valkenburg (<hi rend="italic">Falkenberg</hi>), die Markgrafen Otakar von Steier, Hermann von Verona, die Grafen Guido von Biandrate, Guido Guerra, Stadtpräfekt Peter von Rom</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">unter Verwendung eines Privilegs Hadrians IV. von 1155 Juli 7 (JL. 10081; Ehlen, Knechtsteden, UB. 3 n<hi rend="sup">o</hi>  2) von A II. D verfaßt und wohl auch geschrieben</span>. <span n="incipit"><hi rend="italic">Transitorii regni dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Transitorii regni dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 17.-18. Jh. in den Farragines des Gelenius 4 f. 110 im Historischen Archiv der Stadt Köln (C); Diplomatarium Knechtstedense des 18. Jh. f. 18, Staatsbibliothek Berlin (D). Druck e: Lacomblet, Niederrhein. UB. 1, 265 n<hi rend="sup">o</hi>  384; MG. DF. I. 116. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  80; Stumpf 3716.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung des Diploms ergibt sich ans der VU. und dem Itinerar. Zu einigen Einwänden gegen die Zuverlässigkeit der Besitzliste vgl. Gosses, Knechtsteden, Anal. Praem. 24 (1948) 57 ff. Zum Vorbehalt vgl. Appelt, Vorbehalt (WdF 390, 1975) 47 und Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 271 f. Über Alberts Beziehungen zu Knechtsteden vgl. Herkenrath, Notar Albert, ZAGV 80 (1970), 73 ff. Von Friedrich II. ist eine Nachurkunde aus dem Jahre 1232 überliefert (B.-Ficker, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1141-04-13_1_0_4_2_1_5_5.html" type="internal" n="regesten">5</ref> /<ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1122-12-20_1_0_4_2_1_1_1.html" type="internal" n="regesten">1</ref>, n<hi rend="sup">o</hi>  <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1172-12-00_2_0_4_2_3_231_2006.html" type="internal" n="regesten">2006</ref>). - Der in diesem Diplom als Zeuge genannte Bischof von Worms erhielt am 6. Juli im Gebiet von Tusculum auf Bitten Kaiser Friedrichs die päpstliche Bestätigung eines Viertels des Parrochialzehnten in seinem Bistum, Pflugk-Harttung, Acta pont. Rom. inedita 2, 357 n<hi rend="sup">o</hi>  406 (Germ. pont. 3/3, 149 n<hi rend="sup">o</hi>  13; JL. 10080).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0110" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_116" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 598</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-10-25_1_0_4_2_2_40_598"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-10-25_1_0_4_2_2_40_598"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-10-25_1_0_4_2_2_40_598</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240972" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 598</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-10-25" to="1158-10-25">1158 Oktober 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Grafschaft Verona</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII<hi rend="sup">o</hi>  kal. novembris, in comitatu Ueronensi)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 2. laut F.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Johanniterordens</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Fredericus Coloniensis archiep. et Ytalici regni archicanc. </hi></notarius>
+				
+				
+					<scribe>mit Ausnahme der Vorbehaltsformel reine Empfängerausfertigung, außerhalb der Kanzlei mundiert.</scribe>
+				
+				
+					<testis function="witnesses">Herr Friedrich, Erzbischof von Köln und Erzkanzler für das Königreich Italien, Patriarch Pilgrim von Aquileia, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, Daniel von Prag, Konrad von Eichstätt und Hermann von Verden, Pfalzgraf Konrad bei Rhein, die Herzoge Friedrich von Rothenburg und Heinrich von Kärnten, Pfalzgraf Otto von Wittelsbach und seine Brüder Friedrich und Otto, Graf Berthold von Andechs, die Markgrafen Dietrich von Wettin, Berthold von Vohburg und Hermann von Baden, die Grafen Emicho von Leiningen, Berenger von Sulzbach, Dietrich von Werben, Albert von Tirol, Friedrich von Hohenberg, Widekind von Schwalenberg, Rudolf von Bregenz und zahlreiche andere fürstliche Herren</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten des Johannitermagisters Raimund (Großmeister Raimund du Puy) und seiner Brüder alle Hospitäler des <span sameAs="recipient"><hi rend="spaced">Johanniterordens</hi> </span>, dessen segensreiches Wirken er in Jerusalem mit eigenen Augen gesehen hat, im gesamten Reichsgebiet in seinen Schutz, den er auch Personen und deren Gütern, die sich dem Orden weihen, zusichert, und erklärt sie unter Vorbehalt der kaiserlichen Gerechtsame für frei von allen Abgaben. <span n="witnesses">Z.: Herr Friedrich, Erzbischof von Köln und Erzkanzler für das Königreich Italien, Patriarch Pilgrim von Aquileia, die Bischöfe Eberhard von Bamberg, Gebhard von Würzburg, Daniel von Prag, Konrad von Eichstätt und Hermann von Verden, Pfalzgraf Konrad bei Rhein, die Herzoge Friedrich von Rothenburg und Heinrich von Kärnten, Pfalzgraf Otto von Wittelsbach und seine Brüder Friedrich und Otto, Graf Berthold von Andechs, die Markgrafen Dietrich von Wettin, Berthold von Vohburg und Hermann von Baden, die Grafen Emicho von Leiningen, Berenger von Sulzbach, Dietrich von Werben, Albert von Tirol, Friedrich von Hohenberg, Widekind von Schwalenberg, Rudolf von Bregenz und zahlreiche andere fürstliche Herren</span>. - <span n="chancellor"><hi rend="italic">Fredericus Coloniensis archiep. et Ytalici regni archicanc. </hi> </span>; <span n="clerk">mit Ausnahme der Vorbehaltsformel reine Empfängerausfertigung, außerhalb der Kanzlei mundiert.</span> <span n="seal">B. 2. laut F.</span> <span n="incipit"><hi rend="italic">Si sacris domibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si sacris domibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh., Departementalarchiv Marseille (B); Liber autenticus domus hospitalis prioratus sancti Egidii des 13. Jh. f. 170', Stadtarchiv Arles (C); notarielle Abschrift von 1307, Departementalarchiv Lyon (D); notarielle Abschrift des Transsumptes Kaiser Karls IV. von 1365 Juni 10 (B.-Huber Reg. 7165), von 1365, Departementalarchiv Marseille (E<hi rend="sup">1</hi>), von 1366, Nationalarchiv Paris M 6 n<hi rend="sup">o</hi>  1 (E<hi rend="sup">2</hi>), und von 1396, Departementalarchiv Marseille (E<hi rend="sup">3</hi>); notarielle Abschrift von 1378, Staatsarchiv Parma (F). Drucke: Stumpf, Acta ined. 493 n<hi rend="sup">o</hi>  347; Delaville-le-Roulx, Cartulaire général 1, 203 n<hi rend="sup">o</hi>  270; MG. DF. I. 228. Reg.: Stumpf 3818a.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den erwähnten persönlichen Kontakten des Kaisers mit den Johannitern in Jerusalem vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1148-04-11_1_0_4_2_1_38_38.html" type="internal" n="regesten">38</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-09-17_4_0_4_2_1_422_419.html" type="internal" n="regesten">419</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0028" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_228" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

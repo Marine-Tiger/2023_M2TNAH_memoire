@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2657</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-21_1_0_4_2_4_78_2657"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-21_1_0_4_2_4_78_2657"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-05-21_1_0_4_2_4_78_2657</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843362" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2657</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-05-21" to="1182-05-21">1182
+									Mai 21</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Mainz (<hi rend="italic">XII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iunii, </hi> <hi rend="italic">Magoncie in sollempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aule canc. vice Christiani 										Magontine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Benützung des D.43 (Reg. 153; VU.) 									von GG in Zusammenarbeit mit Robert verfasst</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Philipp von 									Köln, die Bischöfe Hermann von Münster, Ulrich von Speyer, 									Balduin von Utrecht und Bertram von Metz, die Äbte Konrad von 									Fulda, Erlenbald (irrig statt: Florentius) von 									Inden-Kornelimünster (<hi rend="italic">sancti Cornelii 										Indensis</hi>) und Wibald (irrig statt: Erlenbald) von 									Stablo, Domdekan Hugo von Cambrai (<hi rend="italic">sancte 										Marie Cameracensis</hi>), die Archidiakone Nikolaus und 									Galterus von Cambrai, die Herzöge Otto von Bayern, Friedrich von 									Schwaben und Gottfried von Löwen, Graf Philipp von Flandern, die 									Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, die 									Grafen Gerard von Looz/Borgloon, Albert von Dagsburg, Simon von 									Saarbrücken, Heinrich von Diez, Ludwig von Saarwerden und 									Diepold von Lechsgemünd, Konrad von Boxberg, Hermann (irrig 									statt: Hartmann) von Büdingen, Werner von Bolanden, die <hi rend="italic">pares</hi> der Grafschaft Cambrai Philipp von 									Rumilly und Goswin von <hi rend="italic">Cantaig</hi> sowie die 									Ministerialen des Bischofs von Cambrai, Mundschenk Egidius und 									Truchsess Helgot</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hebt im Gefolge von schweren Klagen, die 									<hi rend="spaced">Bischof Roger von Cambrai</hi> in seiner und 								des Hofes Gegenwart gegen die Bürger seiner Bischofsstadt 								vorgebracht hat, nach Urteil des Hofes und Spruch der Fürsten die 								Gemeinde der Bürger (<hi rend="italic">communio</hi>) als im 								Widerspruch zu seinen Privilegien und denen seiner Vorgänger stehend 								auf und restituiert dem Bischof und seiner Kirche die frühere 								Freiheit und Würde. Er bestätigt dem Bischof und seinen Nachfolgern 								die Herrschaft über die Stadt samt den Hoheitsrechten, das 								Kollegiatstift St. Géry (<hi rend="italic">abbatiam etiam sancti 									Gaugerici</hi>), die Grafschaft des gesamten Gebietes von 								Cambrai, die dortige Kastellanei und weitere Befugnisse (<hi rend="italic">casaturas et hominia, que de feodo episcopi esse 									consistit</hi>) sowie die namentlich angeführten Besitzungen. Er 								verleiht dem Bischof das Recht, in der Stadt Cambrai Pröpste 								(prévôts) und Schöffen einzusetzen, denen der Bischof die städtische 								Gerichtsbarkeit überlassen kann, und bestätigt auf Bitten des Grafen 								Philipp von Flandern und des Vermandois den Besitz der von diesem 								dem Bischof unter dem Titel eines Almosens überlassenen Propstei Le 								Câteau-Cambrésis (<hi rend="italic">preposituram de Nouo 									Castello</hi>). <span n="witnesses">Z.: Erzbischof Philipp von 									Köln, die Bischöfe Hermann von Münster, Ulrich von Speyer, 									Balduin von Utrecht und Bertram von Metz, die Äbte Konrad von 									Fulda, Erlenbald (irrig statt: Florentius) von 									Inden-Kornelimünster (<hi rend="italic">sancti Cornelii 										Indensis</hi>) und Wibald (irrig statt: Erlenbald) von 									Stablo, Domdekan Hugo von Cambrai (<hi rend="italic">sancte 										Marie Cameracensis</hi>), die Archidiakone Nikolaus und 									Galterus von Cambrai, die Herzöge Otto von Bayern, Friedrich von 									Schwaben und Gottfried von Löwen, Graf Philipp von Flandern, die 									Pfalzgrafen Konrad bei Rhein und Otto von Wittelsbach, die 									Grafen Gerard von Looz/Borgloon, Albert von Dagsburg, Simon von 									Saarbrücken, Heinrich von Diez, Ludwig von Saarwerden und 									Diepold von Lechsgemünd, Konrad von Boxberg, Hermann (irrig 									statt: Hartmann) von Büdingen, Werner von Bolanden, die <hi rend="italic">pares</hi> der Grafschaft Cambrai Philipp von 									Rumilly und Goswin von <hi rend="italic">Cantaig</hi> sowie die 									Ministerialen des Bischofs von Cambrai, Mundschenk Egidius und 									Truchsess Helgot</span>. –<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aule canc. vice Christiani 										Magontine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">unter Benützung des D.43 (Reg. 153; VU.) 									von GG in Zusammenarbeit mit Robert verfasst</span>.<span n="incipit"> 									<hi rend="italic">Quia labilis est.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quia labilis est.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift vom Ende des 12. Jh. im 								Chartular des Bistums Cambrai, Ms. lat. 10.968 f. 86, 								Nationalbibliothek Paris (B); Abschrift des 15. Jh. im Chartular 4 G 								844 f. 1, Departementalarchiv Lille (C). Drucke: Böhmer, Acta 								imp., 133 n<hi rend="sup">o</hi> 141; MG.DF.I.825. Regg.: 								Wauters, Table chronol. 2, 614; Diestelkamp – Rotter, 								Urkundenregesten 1, 365 n<hi rend="sup">o</hi> 464; Stumpf 4339.</p></div>
+				
+				
+					<div type="commentary"><p>Die Irrtümer in der Zeugenliste gehen auf das 								verlorene Original zurück, da auch in dem jedenfalls von demselben 								Schreiber mundierten D.826 (Reg. 2658) irrig Wibald als Abt von 								Stablo genannt wird. – Die Gesta epp. Camerac., MG. SS VII, 509 f., 								und auch Ex Gestis episcoporum Cameracensium abbreviatis, Versio 								Gallica continuata, MG. SS XIV, 251 (berichtet zu 1181 von der 								Vorladung der Bürger von Cambrai vor den kaiserlichen Hof) berichten 								ausführlich über diese Angelegenheit, vgl. dazu Opll, Stadt und 								Reich, 60 f., sowie Schwind, Städte, in: Friedrich Barbarossa (VuF 								40, 1992) 476 ff. – Zur Rückerwerbung der vom Grafen von Flandern 								usurpierten Güter des Bistums vgl. gleichfalls Ex Gestis episcoporum 								Cameracensium abbreviatis, Versio Gallica continuata, MG. SS XIV, 								251. – Zur Anreise des in diesem D. unter den Zeugen genannten 								Herzogs Otto von Bayern nach Mainz vgl. auch Noichl, Cod. 								Falkensteinensis (Qu. u. Erörterungen zur Bayer. Gesch. N.F. 29, 								1978) no 157, 159 und 160, bes. 138 no 159 mit dem Hinweis: <hi rend="italic">eunte duce ad cesarem</hi>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_825" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1926</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-05-07_1_0_4_2_3_151_1926"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-05-07_1_0_4_2_3_151_1926"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-05-07_1_0_4_2_3_151_1926</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1415631441" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1926</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-05-07" to="1171-05-07">1171 Mai 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Donauwörth">Donauwörth</placeName>
+												<location><geo decls="#WGS">48.7333, 10.8</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(non. maii, apud Werdam)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus imperialis aulg canc. vice Christiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in den selbständig formulierten Partien außerhalb der Kanzlei durch den Empfänger verfaßt, bis auf das von HD stammende Chrismon, die Elongata der ersten Zeile und der Signumzeile sowie das Monogramm geschrieben von einem Empfängerschreiber</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hartwig von Augsburg und Kuno von Regensburg, die Grafen Otto und Hartmann von (Ober-)Kirchberg sowie Theobald und Heinrich von Lechsgemünd, Kuno von Mögling, Degenhard von Hellenstein, Witego von Albeck, Diemo von Gundelfingen, Arnold von Biberbach, Truchseß Walter, Mundschenk Konrad, Marschall Heinrich, Kämmerer Hartmann und Diepold Gusse</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt gemeinsam mit seinem Sohn, König Heinrich (VI.), dem <hi rend="spaced">Kloster Ottobeuren</hi>  unter wörtlicher Inserierung das (unechte) Diplom Kaiser Lothars (III.), legt die freie Abtwahl gemäß der Regel des hl. Benedikt fest, befreit es bis auf die Lieferung von zwei gleichfarbigen Hunden vom Reichsdienst, wofür eine Reihe namentlich angeführter Güter den Herzögen von Schwaben als Lehen übertragen werden, trifft unter Verbot der Erbvogtei eingehende Anordnungen über die freie Vogtwahl und die Rechte des Vogtes, der wenigstens einmal pro Jahr zur Abhaltung eines Gerichtes verpflichtet ist und Anspruch auf ein Drittel der Abgaben hat, während zwei Drittel an den Abt zu entrichten sind, verleiht den klösterlichen Ministerialen das vorteilhafte Recht der Fuldaer und Reichenauer Klosterministerialen, verpflichtet sich gemäß dem Vorbild Kaiser Karls (des Großen) zum Schutz des Klosters, verbietet jegliche Verlehnung von Klostergütern durch den Abt, legt auch in Hinkunft die Befolgung der Hirsauer Ordnung für das Kloster fest und befreit die Klosterministerialen von der Reichsheerfahrt und von der Heersteuer (<hi rend="italic">a servicio, quod vulgo dicitur herstivre</hi>). <span n="witnesses">Z.: die Bischöfe Hartwig von Augsburg und Kuno von Regensburg, die Grafen Otto und Hartmann von (Ober-)Kirchberg sowie Theobald und Heinrich von Lechsgemünd, Kuno von Mögling, Degenhard von Hellenstein, Witego von Albeck, Diemo von Gundelfingen, Arnold von Biberbach, Truchseß Walter, Mundschenk Konrad, Marschall Heinrich, Kämmerer Hartmann und Diepold Gusse</span>. — <span n="chancellor"><hi rend="italic">Heinricus imperialis aulg canc. vice Christiani Moguntini archiep. et archicanc.</hi></span>; <span n="clerk">in den selbständig formulierten Partien außerhalb der Kanzlei durch den Empfänger verfaßt, bis auf das von HD stammende Chrismon, die Elongata der ersten Zeile und der Signumzeile sowie das Monogramm geschrieben von einem Empfängerschreiber</span>; <span n="seal">SP.2.</span> <span n="incipit"><hi rend="italic">Sicut ęcclesiarum dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut ęcclesiarum dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A), jetzt Staatsarchiv Augsburg, Kloster Ottobeuren Urkunde 2/2. Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 399 n<hi rend="sup">o</hi>  520; MG.DF.I.578. Regg.: Vock, Urkunden des Hochstiftes Augsburg 17 n<hi rend="sup">o</hi>  35; Urkunden des Reichsstiftes Ottobeuren, bearb. von Hermann Hoffmann, 6 n<hi rend="sup">o</hi>  9; Stumpf 4124.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Nachweis der Echtheit, für die nicht zuletzt auch die Nennung des letzten Zeugen (vgl. MG.DF.I.577 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-05-01_2_0_4_2_3_150_1925.html" type="internal" n="regesten">1925</ref>) spricht, zu dem in die Diplomata-Ausgabe der Urkunden Lothars III. nicht aufgenommenen Falsum Stumpf 3362 und dessen Insertion, die vermutlich bis zum Passus über die Schutzzusage des Kaisers gemäß dem Vorbild Karls des Großen reicht sowie zu der Bezugnahme auf Heinrich VI. und der verfassungsgeschichtlichen Bewertung vgl. die ausführliche Vorbemerkung zum D. — Das D. wird auch in den Ann. Ottenburani Isingrimi, MG. SS XVII, 315 erwähnt — Zum Zeugen Kuno von Mögling vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 234 und 262; zum letztgenannten Zeugen Diepold Gusse siehe oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1171-05-01_2_0_4_2_3_150_1925.html" type="internal" n="regesten">1925</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0061" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_578" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=615" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

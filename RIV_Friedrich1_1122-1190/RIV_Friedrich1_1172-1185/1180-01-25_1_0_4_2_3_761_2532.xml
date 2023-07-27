@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2532</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-01-25_1_0_4_2_3_761_2532"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-01-25_1_0_4_2_3_761_2532"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-01-25_1_0_4_2_3_761_2532</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606115" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2532</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-01-25" to="1180-01-25">1180 Januar 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VIII kal. febr., Virzeburch)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>Goldbulle (vgl. Anm.y' und die Vorbemerkung zum D.)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Christiani Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>außerhalb der Kanzlei, offenbar durch eine vom Empfänger beauftragte Person verfaßt</scribe>
+				
+				
+					<testis function="witnesses">die vorgenannten Fürsten (= die als Intervenieren genannten Personen) und die Grafen Heinrich von Diez und Diepold von Lechsgemünd sowie Rupert von Walldürn und Heinrich von Pappenheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Kirche von Aquileia</hi>  auf Bitten des Patriarchen und päpstlichen Legaten Udalrich sowie auf Intervention des Erzbischofs Arnold von Trier, des Bischofs Konrad von Worms, des Elekten Bertram von Metz, seines Kanzlers Gottfried, seines Protonotars Wortwin (<hi rend="italic">Ortuvini</hi>), des Pfalzgrafen Otto des Älteren von Wittelsbach und der Grafen Hartmann von (Ober-)Kirchberg und Manegold von Veringen nach Einsicht in die Privilegien seiner königlichen und kaiserlichen Vorgänger in seinen Schutz, bestätigt ihr alle Rechte und Besitzungen, darunter das Herzogtum und die Grafschaft Friaul mit sämtlichen dazugehörenden Rechten, die Regalien aller Bistümer Istriens, nämlich von Triest, Pola (Pula), Parenzo (Poreć), Pedena, Cittanova (Emona), Concordia und Belluno, und die der drei Abteien von Sesto, S. Maria in Organo (zu Verona) und (S. Maria in) Valle (in Cividale), des weiteren die Insel Grado und das Land zwischen Piave und Livenza, die Burg Treffen samt Zugehör, die der Patriarch selbst gemeinsam mit seinem Vater Graf Wolfrad (von Treffen) und seiner Mutter dem Patriarchat übergeben hat, und die Burg Attems samt Zugehör, die das Patriarchat durch Ulrich (von Attems), den früheren Markgrafen von Tuszien, urkundlich (<hi rend="italic">sicut in publico instrumento inde confecto continetur</hi>) übertragen erhalten hat, und erklärt die vorliegende Urkunde auch für den Fall des Verlustes sämtlicher übriger Privilegien als ausreichend zur Rechtssicherung. <span n="witnesses">Z.: die vorgenannten Fürsten (= die als Intervenieren genannten Personen) und die Grafen Heinrich von Diez und Diepold von Lechsgemünd sowie Rupert von Walldürn und Heinrich von Pappenheim</span>. — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Christiani Maguntine sedis archiep. et Germanie archicanc.</hi> </span>; unter Heranziehung von DH.IV.293 (VU.I), DO.III.215 (VU.II) und DK.II.205 (VU.III) sowie — hinsichtlich der Nennungen der Burgen Treffen und Attems — weiterer Schenkungsurkunden (Jaksch, Mon.duc.Car. 3, 398 n<hi rend="sup">o</hi>  1061 bzw. Rena e Camici 4<hi rend="sup">b</hi>, 19 n<hi rend="sup">o</hi>  8) <span n="clerk">außerhalb der Kanzlei, offenbar durch eine vom Empfänger beauftragte Person verfaßt</span>; <span n="seal">Goldbulle (vgl. Anm.y' und die Vorbemerkung zum D.)</span> <span n="incipit"><hi rend="italic">Quoniam ad imperii</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam ad imperii</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. Miscellanea Atti diplomatici e privati b. 1 n<hi rend="sup">o</hi>  45, Staatsarchiv Venedig (D); Abschrift des 15. Jh. Consultori in iure vol. 366<hi rend="sup">bis</hi>  f. 10, ebenda (E); Abschrift vom Ende des 15. Jh. Consult. in iure 345 (Privileggi antichi d'Acquileia, Registro antico diplomi imperiali alla chiesa d'Aquileia) f. 10', ebenda (F). Drucke: Jaksch, Mon.duc.Car. 3, 477 n<hi rend="sup">o</hi>  1264; MG.DF.I.791. Reg.: Stumpf 4297.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. die Vorbemerkung zum D. — Zu den hier faßbaren Bestrebungen, Friaul in den Rang eines Herzogtums zu erheben, vgl. Schmidinger, Patriarch und Landesherr, 62 ff., sowie Patze, Osten, VuF 12 (1968) 400, der hier einen &amp;quot;Zusammenhang mit der Zerlegung des bayerischen Stammesherzogtums&amp;quot; vermutet und damit die Verbindung zu den Maßnahmen rund um die Absetzung Heinrichs des Löwen herstellt; allerdings hat Härtel, Länder an der oberen Adria, in: Friedrich Barbarossa (VuF 40, 1992) 333 f. mit Anm. 295, zuletzt darauf hingewiesen, daß der Dukat Friaul bereits 1132 von Papst Innocenz II. dem Patriarchen Pilgrim bestätigt worden ist. — Bei dem hier als Elekt bezeichneten Bertram von Metz handelte es sich um Erzbischof Berthold (!) von Bremen, dessen Wahl auf dem Laterankonzil für ungültig erklärt worden war und der durch die Gunst des Kaisers nach dem Tod Bischof Friedrichs (27. September 1179) den Metzer Stuhl erhalten hatte, vgl. Amoldi Chron. Slavorum 1. II cap. 9 und 1. III cap. 17, MG. SS XXI, 132 und 159 und dazu Giesebrecht — Simson, Kaiserzeit VI, 145 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0266" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_791" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

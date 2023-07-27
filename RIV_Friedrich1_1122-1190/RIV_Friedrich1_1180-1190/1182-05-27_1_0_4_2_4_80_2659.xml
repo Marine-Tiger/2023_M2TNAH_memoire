@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2659</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-27_1_0_4_2_4_80_2659"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-27_1_0_4_2_4_80_2659"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-05-27_1_0_4_2_4_80_2659</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843387" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2659</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-05-27" to="1182-05-27">1182
+									Mai 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Mainz (<hi rend="italic">VI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iunii, </hi> <hi rend="italic">Maguntię in sollempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Moguntine sedis archiep. et Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung des DH.V. von 1111 									August 14 (Müller, Urkundeninschriften, 43 n<hi rend="sup">o</hi> 2; VU.) geschrieben und in den formelhaften Partien 									verfasst von Robert, wobei die ebenfalls auf das Privileg 									Heinrichs V. zurückgehe</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof 									Philipp von Köln, die Bischöfe Hermann von Münster und Balduin 									von Utrecht, Rudolf, Protonotar des kaiserlichen Hofes, 									Dompropst Heinrich von Speyer, Propst Johannes von St. German 									(in Speyer), Domscholaster Andreas (von Speyer), Propst Konrad 									von Allerheiligen (in Speyer), Propst Markward von St. Paul in 									Worms, Archipresbyter Eberhard (von St. Peter in Worms oder 									Mainz?), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von 									Schwaben, die Grafen Florentius von Holland, Gerhard von 									Looz/Borgloon und Heinrich von Geldern, (Graf) Otto von 									Bentheim, die Grafen Simon von Saarbrücken und Heinrich von 									Diez, (Graf) Poppo von Wertheim, Konrad von Boxberg, Heinrich 									von Kuik, Hartmann von Büdingen, Rupert von Walldürn, Marschall 									Heinrich, Mundschenk Konrad (von Oberschüpf), Kuno von 									Münzenberg, Marschall Anselm, Wezel (<hi rend="italic">Wicelinus</hi>) von Berg (Reichsministeriale von Trifels), 									Anselm von Jöhlingen (<hi rend="italic">Ioningen</hi>) und 									Gottfried</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert der <hi rend="spaced">Stadt 									Speyer</hi> das in Goldbuchstaben an der Fassade des Domes 								angebrachte und mit einem hervorragenden Bild versehene (<hi rend="italic">in fronte maioris templi aureis litteris 									sollempniter depictum expressam et prominentem continens 									imaginem</hi>) Privileg Kaiser Heinrichs V., das ihr dieser am 								Tag der Exequien für seinen Vater Kaiser Heinrich (IV.) verliehen 								hat: Gemäß diesem Privileg werden alle Bewohner von Speyer und deren 								Erben von dem schädlichen Gewohnheitsrecht des <hi rend="italic">b</hi><hi rend="italic">v</hi><hi rend="italic">°theil</hi> 								befreit, und es wird ihnen damit die freie Verfügung über ihr Erbe 								zugesichert. Des Weiteren befreit er sie auf Klagen ihres Bischofs 								Ulrich, der von ihnen das im Privileg Heinrichs V. nicht 								ausdrücklich erwähnte Hauptrecht (<hi rend="italic">hovbetreht</hi>) 								fordert, unter Berufung auf das Recht des Kaisers, Gesetze nicht nur 								zu erlassen, sondern auch das, was zweifelhaft ist, zu 								interpretieren, mit Zustimmung des Bischofs auch von diesem Recht. 								Er bestätigt weitere Verfügungen Heinrichs V., darunter die Freiheit 								von jeglichem Zoll in der Stadt, von bestimmten Geld- und den von 								Schiffen zu leistenden Pfefferabgaben (<hi rend="italic">bamphenning 									…, scozphennige …, piperis, quod de navibus exigi solebat</hi>), 								von jeglichem Vogttaiding im Umkreis der Stadt und von allen Abgaben 								von ihren beweglichen und unbeweglichen Gütern außerhalb der Stadt. 								Er bekräftigt auch den Schutz der Bäcker, Fleischer und anderer vor 								herrschaftlichen Abgaben, das Verbot des Verkaufs von Bannwein (<hi rend="italic">banwin</hi>) und der Beschlagnahme der Schiffe von 								Bürgern, die Freiheit von Abgaben für den Transport von Eigengütern 								auf eigenen oder geführten Schiffen, das Verbot der 								Münzverschlechterung, außer mit gemeinsamen Rat der Bürger, die 								Freiheit von jeglichem Zoll im Bistum oder in Reichsorten, das 								Besitzrecht an Haus und Hof nach Jahr und Tag und den Schutz vor der 								Behandlung städtischer Gerichtsfälle außerhalb der Stadt. 								Schließlich setzt er (über das Privileg Heinrichs V. hinaus) fest, 								dass die Speyerer in Straßburg von jedem Schiff nicht mehr als 13 								Pfennige Zoll zahlen müssen. <span n="witnesses">Z.: Erzbischof 									Philipp von Köln, die Bischöfe Hermann von Münster und Balduin 									von Utrecht, Rudolf, Protonotar des kaiserlichen Hofes, 									Dompropst Heinrich von Speyer, Propst Johannes von St. German 									(in Speyer), Domscholaster Andreas (von Speyer), Propst Konrad 									von Allerheiligen (in Speyer), Propst Markward von St. Paul in 									Worms, Archipresbyter Eberhard (von St. Peter in Worms oder 									Mainz?), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von 									Schwaben, die Grafen Florentius von Holland, Gerhard von 									Looz/Borgloon und Heinrich von Geldern, (Graf) Otto von 									Bentheim, die Grafen Simon von Saarbrücken und Heinrich von 									Diez, (Graf) Poppo von Wertheim, Konrad von Boxberg, Heinrich 									von Kuik, Hartmann von Büdingen, Rupert von Walldürn, Marschall 									Heinrich, Mundschenk Konrad (von Oberschüpf), Kuno von 									Münzenberg, Marschall Anselm, Wezel (<hi rend="italic">Wicelinus</hi>) von Berg (Reichsministeriale von Trifels), 									Anselm von Jöhlingen (<hi rend="italic">Ioningen</hi>) und 									Gottfried</span>. –<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aulę canc. vice Cristiani 										Moguntine sedis archiep. et Germanię archicanc.</hi></span>; 									<span n="clerk">unter Heranziehung des DH.V. von 1111 									August 14 (Müller, Urkundeninschriften, 43 n<hi rend="sup">o</hi> 2; VU.) geschrieben und in den formelhaften Partien 									verfasst von Robert, wobei die ebenfalls auf das Privileg 									Heinrichs V. zurückgehende Befreiung der Bürger von Abgaben von 									ihren beweglichen und unbeweglichen Gütern außerhalb der Stadt, 									die wohl versehentlich ursprünglich ausgelassen worden war, von 									anderer Hand mit Verweisungszeichen nach dem Kontext 									nachgetragen worden ist</span>; <span n="seal">SP.2.</span> 								<span n="incipit"><hi rend="italic">Maiestas imperialis 										exigit.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Maiestas imperialis 										exigit.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stadtarchiv Speyer (A). Faks.: 								Hilgard, Urkunden der Stadt Speyer, nach S. 566; Koch, Schrift der 								Reichskanzlei, Abb. 84 Teilfaks. Drucke: Remling, UB. von 								Speyer 1, 121; Hilgard, Urkunden der Stadt Speyer, 21 n<hi rend="sup">o</hi> 18; MG.DF.I.827. Regg.: Wauters, Table 								chronol. 2, 615; Knipping, Reg. Köln 2, n<hi rend="sup">o</hi> 								1186; Müller, Urkundeninschriften, 67 n<hi rend="sup">o</hi> 10; 								Stumpf 4341.</p></div>
+				
+				
+					<div type="commentary"><p>Rechtsgeschichtlich interessant ist der im 								Anschluss an den Cod. Iustinianus formulierte Hinweis auf das Recht 								des Kaisers, Gesetze nicht nur zu erlassen, sondern sie im 								Zweifelsfalle auch zu interpretieren, vg. dazu Fichtenau, Arenga, 								178 f. – Wiewohl im Text kein ausdrücklicher Befehl enthalten ist, 								das D. gemäß dem Beispiel Heinrichs V. als Inschrift am Dom zu 								Speyer zu verewigen, existierte eine inschriftliche Überlieferung, 								vgl. Müller, a.a.O., 67 ff. – Die in der Pönformel festgelegte 								Strafe für Übertreter dieses Privilegs erscheint hier nicht als 								geteilt zwischen dem Empfänger und der kaiserlichen Kammer, sondern 								sie sollte ausschließlich an letztere fallen. – Zu dem unter den 								Zeugen genannten Wezel von Berg vgl. Plassmann, Struktur des Hofes, 								246 und 277, zum Mundschenken Konrad von Oberschüpf siehe schon oben 								Reg. 2648; zur Möglichkeit, den Archipresbyter Eberhard auf Mainz zu 								beziehen, vgl. Plassmann, a.a.O., 283. – Zur stadtgeschichtlichen 								Bedeutung des D. vgl. Opll, Stadt und Reich, 147 ff. – Seit dem 9. 								4. 2011 steht eine deutsche Fassung des DH.V. über dem Portal.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_827" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

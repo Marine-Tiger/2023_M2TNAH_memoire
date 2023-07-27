@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2270</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-20_5_0_4_2_3_498_2270"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-20_5_0_4_2_3_498_2270"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-07-20_5_0_4_2_3_498_2270</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426602311" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2270</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-07-20" to="1177-07-20">1177 vor Juli 20</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt <hi rend="spaced">Patriarch U(dalrich) von Aquileia</hi>  die gerichtliche oder gütliche Beilegung des Rechtsstreites des K(onrad) von Attems, da er selbst vor seinem Eintreffen in Venedig keine Zeit dafür haben werde. — <span n="incipit"><hi rend="kursiv">Negocium Co<hi rend="sup">v</hi> (nradi) de</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="kursiv">Negocium Co<hi rend="sup">v</hi> (nradi) de</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Tegernseer Briefsammlung des 12. Jh. Clm. 19.411 f. 85' (p. 172), Staatsbibliothek München (B). Druck: MG.DF.I.683. Regg.: Plechl, Tegernseer Briefsammlung, DA 12 (1956) 400 n<hi rend="sup">o</hi>  106 zu 1177 Mitte April — Juli 20; Diestelkamp — Rotter, Urkundenregesten 1, 337 n<hi rend="sup">o</hi>  431.
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>DF.I.683 ist nun ediert bei: Plechl – Bergmann, Tegernseer Briefsammlung, MG. Briefe VIII, 59 n<hi rend="sup">o</hi> 71.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-07-20_2_0_4_2_3_495_2267.html" type="internal" n="regesten">2267</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0175" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_683" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

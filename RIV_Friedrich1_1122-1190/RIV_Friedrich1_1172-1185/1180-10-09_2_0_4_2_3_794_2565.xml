@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2565</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-09_2_0_4_2_3_794_2565"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-09_2_0_4_2_3_794_2565"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-10-09_2_0_4_2_3_794_2565</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606303" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2565</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-10-09" to="1180-10-09">1180 Oktober 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VII idus octobris, Alténburc)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Cristani Maguntini archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung von DF.I.392 (= Reg. 1172) für die Formulierung von Corroboratio und Pönformel verfaßt und geschrieben von demselben Empfängerschreiber wie DF.I.800 (= Reg. 2564)</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg und Siegfried von Bremen, Bischof Udo (II.) von Naumburg, Elekt Baldram von Brandenburg, die Äbte Azzo von Bosau und Rüdiger von St. Georg (zu Naumburg), <hi rend="italic">summus prepositus</hi>  Dietrich von Naumburg, Kapellan und Kanoniker Berthold von Naumburg, Propst Dietrich von Meißen, Herzog Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dietrich von Landsberg, die Grafen Dedo von Groitzsch, Friedrich von Brehna, Heinrich von Schwarzburg und Heinrich von Buch, des weiteren Hartmann von Lobdeburg, Konrad von Boxberg, Albert von Hildenburg, Albert von Grumbach, Friedrich von Boblas, Siegfried von (Ehren-)Hain (<hi rend="italic">Hagên</hi>), Hugo von Warthe, Timo von Colditz, Reinher von Wormstedt, Hartnid von Allerstedt und sein Sohn Hartnid, Heinrich von Würchhausen, Heremfrid von Allerstedt, Macelin und Wichnand von Buch</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Zisterzienserkloster Pforta</hi>  (<hi rend="italic">sancte Marię in Porto</hi>) zwei schon zuvor in Tilleda (Reg. 2056) bzw. in Merseburg (Reg. 2059) vorgenommene Übertragungen eines Wäldchens und einer Wiese nach Lösung der zuvor bestandenen Lehensverhältnisse. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg und Siegfried von Bremen, Bischof Udo (II.) von Naumburg, Elekt Baldram von Brandenburg, die Äbte Azzo von Bosau und Rüdiger von St. Georg (zu Naumburg), <hi rend="italic">summus prepositus</hi>  Dietrich von Naumburg, Kapellan und Kanoniker Berthold von Naumburg, Propst Dietrich von Meißen, Herzog Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dietrich von Landsberg, die Grafen Dedo von Groitzsch, Friedrich von Brehna, Heinrich von Schwarzburg und Heinrich von Buch, des weiteren Hartmann von Lobdeburg, Konrad von Boxberg, Albert von Hildenburg, Albert von Grumbach, Friedrich von Boblas, Siegfried von (Ehren-)Hain (<hi rend="italic">Hagên</hi>), Hugo von Warthe, Timo von Colditz, Reinher von Wormstedt, Hartnid von Allerstedt und sein Sohn Hartnid, Heinrich von Würchhausen, Heremfrid von Allerstedt, Macelin und Wichnand von Buch</span>. — <span n="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Cristani Maguntini archiep. et Germanie archicanc.</hi> </span>; <span n="clerk">unter Heranziehung von DF.I.392 (= Reg. 1172) für die Formulierung von Corroboratio und Pönformel verfaßt und geschrieben von demselben Empfängerschreiber wie DF.I.800 (= Reg. 2564)</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Quoniam fidelium Christi</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam fidelium Christi</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Dresden (A). Kop.: Diplomatar des Klosters Pforta aus dem 13. Jh. f. 12', Bibliothek zu Schulpforta (B). Drucke: Boehme, UB. des Klosters Pforte 1, 41 n<hi rend="sup">o</hi>  25; MG.DF.I.801. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  575; Stumpf 4308.</p></div>
+				
+				
+					<div type="commentary"><p>Der Empfängerschreiber hatte zunächst offenbar nur die Schenkung des genannten Wäldchens beurkundet und dabei — offensichtlich für das <hi rend="italic">sigillum impressum</hi>  — unten rechts vom Monogramm Platz freigelassen. Von derselben Hand wurde dann allerdings hier ein Nachtrag vermerkt, der einer zweiten Schenkung des Kaisers für Pforta die urkundliche Bestätigung brachte. — Zu den beiden bereits 1174 erfolgten Rechtshandlungen vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-02-00_1_0_4_2_3_282_2056.html" type="internal" n="regesten">2056</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-02-00_2_0_4_2_3_286_2059.html" type="internal" n="regesten">2059</ref>  (mit eigener Zeugenliste, siehe dort). — Zur Identifizierung des Siegfried von (Ehren-)Hain siehe schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-05-07_1_0_4_2_3_252_2027.html" type="internal" n="regesten">2027</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Kunde, Das Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte Sachsen-Anhalts 4, 2003) 53 f. und 273 Nr. 22, möchte aus dem Nachtrag – dieser stammt zwar vom Empfängerschreiber des Haupttextes, zeigt aber abweichende Schriftmerkmale, die auf einen in späteren Jahren erfolgten Nachtrag hinweisen – in dem im Original erhaltene DF.I. 801 einen Fälschungsverdacht ableiten. Da im Diplom eine Reihe von zeitlich weit voneinander liegenden Rechtsgeschäften für Pforta beurkundet werden (vgl. die Regg. 2056 und 2059) und auch abweichende Schriftmerkmale nicht zwingend auf eine größere zeitliche Distanz in der Niederschrift weisen müssen, muss die abschließende Beurteilung wohl auch weiterhin offen bleiben.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0279" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_801" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

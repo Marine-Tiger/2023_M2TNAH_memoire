@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 114</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-29_2_0_4_2_1_114_114"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-29_2_0_4_2_1_114_114"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-29_2_0_4_2_1_114_114</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235611" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 114</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-29" to="1152-07-29">1152 Juli 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">Ulm</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">to</hi>  kal. augusti, aput Ulmam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Beinwil</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach dem Privileg Eugens III. von 1147 Juli 23 (JL. 9101; Solothurner UB. 1, 55 n<hi rend="sup">o</hi>  91) von Arnold II. C geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ortliabus</hi>) von Basel, die Herzoge Welf, Berthold von Burgund, Markgraf Otakar von Steier, Graf Ulrich von Lenzburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das auf Eigengut der Edlen Noker, Oudelard, Burchard und Ulrich erbaute und von ihnen dem hl. Petrus übergebene Kloster <span sameAs="recipient"><hi rend="spaced">Beinwil</hi> </span>  (<hi rend="italic">monasterio beati Vincentii omniumque sanctorm</hi>) auf Bitten der dortigen Brüder in seinen Schutz und bestätigt ihm die genannten Besitzungen; weiters verfügt er, daß das Kloster nur einen Vogt haben und daß nach dem Tod des jetzigen Vogtes, Oudelard, dessen nächster Erbe ihm in seinem Amt (<hi rend="italic">officium advocatię</hi>) nachfolgen solle, was auch künftig zu beobachten sei. Schließlich wird festgelegt, daß die Hintersassen des Klosters einmal jährlich mit Zustimmung des Abtes vor das Gericht des Vogtes gerufen werden sollen, der nach den Rechtsgewohnheiten dieser Kirche über ihre Vergehen urteilt. <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ortliabus</hi>) von Basel, die Herzoge Welf, Berthold von Burgund, Markgraf Otakar von Steier, Graf Ulrich von Lenzburg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Henrici Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach dem Privileg Eugens III. von 1147 Juli 23 (JL. 9101; Solothurner UB. 1, 55 n<hi rend="sup">o</hi>  91) von Arnold II. C geschrieben</span>; <span n="seal">SI.1.</span>  <span n="incipit"><hi rend="italic">Decet omnes christianę)</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Decet omnes christianę)</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Solothurn (A). Drucke: Thommen, Kaiserurkunden, NA 12 (1887) 182 mit Schriftprobe; Solothurner UB. 1, 69 n<hi rend="sup">o</hi>  123; MG. DF. I. 17. Faks.: Solothurner UB. 1, a. a. O. Reg.: Hidber 2, n<hi rend="sup">o</hi>  1986; Stumpf 3637.</p></div>
+				
+				
+					<div type="commentary"><p>Der noch ungeübte Notar Arnold II. C hat das Monogramm vorausgefertigt und die Zeugenliste nachgetragen. Zur Widerlegung des unbegründeten Fälschungsverdachtes s. schon oben bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-07-29_1_0_4_2_1_113_113.html" type="internal" n="regesten">113</ref>  und Vorbemerkung zu DF. I. 16. - Über das Kloster vgl. Schenker, Beinwil, Jb. f. solothurn. Gesch. 46 (1973) 5 ff., zu den Besitzungen a. a. O. 64 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04-opl1980-0041" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2212722%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_17" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

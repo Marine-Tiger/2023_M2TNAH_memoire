@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 475</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_4_0_4_2_1_477_475"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_4_0_4_2_1_477_475"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-08-03_4_0_4_2_1_477_475</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239627" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 475</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-08-03" to="1157-08-03">1157 August 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Halle">Halle</placeName>
+												<location><geo decls="#WGS">52.0667, 8.3667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  nonas augusti, Halle)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Pforta</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>gleiches Empfängerdiktat wie DF. I. 177 (Reg. 474), das Eschatokoll wird wohl in der Kanzlei hinzugefügt worden sein.</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg, Hartwig (<hi rend="italic">Hertwicus</hi>) von Bremen, die Bischöfe Hermann von Verden, Eberhard von Bamberg, Johannes von Merseburg (<hi rend="italic">Marsburgensis</hi>), Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), Pfalzgraf Otto von Wittelsbach, Markgraf Theoderich (von der Lausitz) sowie seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), Kuno von Wippra</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt gemäß einem vorgelegten Privileg König Konrads (III.) dem (Zisterzienser) Kloster <span sameAs="recipient"><hi rend="spaced">Pforta</hi> </span>  (<hi rend="italic">Portensis ecclesie</hi>) unter seinem Abt Theoderich die ihm widerrechtlich von Siboto von Scharzfeld (<hi rend="italic">Scartuelde</hi>) und dessen Lehensmann Gottfried von Teutleben (<hi rend="italic">Dudeleium</hi>) entfremdete Besitzung <hi rend="italic">Nuenhegen</hi>  nach Begehung der Grenzen durch die Reichsministerialen Walther von Weimar (<hi rend="italic">Wimare</hi>), Friedrich und Gerwich von Kiffhausen (<hi rend="italic">Cufese</hi>), Heidenreich von Langensalza (<hi rend="italic">Salza</hi>) sowie Hartnied von Allerstedt (<hi rend="italic">Alrestete</hi>) und unter detaillierter Angabe derselben, weiters das von den Reichsministerialen Hartnid und Konrad gegen namentlich angeführten Grundbesitz eingetauschte Reichsgut <hi rend="italic">Uolkoldesroth</hi>  samt Zubehör, die von Markgraf Albrecht (dem Bären) und seiner Mutter Eilica König Konrad (III.) aufgelassenen und sodann dem Kloster übertragenen vier Hufen in Löpitz (<hi rend="italic">Lepizc</hi>) sowie einen Gütertausch mit dem Markgrafen Konrad (von Wettin). <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg, Hartwig (<hi rend="italic">Hertwicus</hi>) von Bremen, die Bischöfe Hermann von Verden, Eberhard von Bamberg, Johannes von Merseburg (<hi rend="italic">Marsburgensis</hi>), Herzog Heinrich von Sachsen und Bayern, Markgraf Albrecht (der Bär), Pfalzgraf Otto von Wittelsbach, Markgraf Theoderich (von der Lausitz) sowie seine Brüder Heinrich (von Wettin) und Dedo (von Groitzsch), Kuno von Wippra</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">gleiches Empfängerdiktat wie DF. I. 177 (Reg. 474), das Eschatokoll wird wohl in der Kanzlei hinzugefügt worden sein.</span> <span n="incipit"><hi rend="italic">Anno imperii nostri</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Anno imperii nostri</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatar des Klosters Pforta aus dem 13. Jh. f. 12, Bibliothek Schulpforta (B). Drucke: Böhmer, Acta imperii 94 n<hi rend="sup">o</hi>  101; Boehme, UB. des Klosters Pforte 1, 25 n<hi rend="sup">o</hi>  14; MG. DF. I. 178. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  152; Stumpf 3778.</p></div>
+				
+				
+					<div type="commentary"><p>Bei dem erwähnten Privileg Konrads III. handelt es sich um DK. III. 42.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Kunde, Das Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte Sachsen-Anhalts 4, 2003) 88 ff. und 268 Nr. †12 bringt das abschriftlich überlieferte DF.I. 178 mit dem Pfortenser Fälschungskomplex vom Anfang des 13. Jahrhunderts in Verbindung.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0161" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_178" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

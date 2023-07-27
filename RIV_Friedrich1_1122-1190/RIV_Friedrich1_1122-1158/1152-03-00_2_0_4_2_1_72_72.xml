@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 72</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-00_2_0_4_2_1_72_72"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-00_2_0_4_2_1_72_72"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-03-00_2_0_4_2_1_72_72</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235248" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 72</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-03-01" to="1152-04-30">(1152 März-April)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Papst Eugen (III.)</hi></recipient>
+				
+				
+				
+					<scribe>Unter Heranziehung des Wortlauts der Krönungseide der römischen Könige verfaßt von Wibald</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich unterrichtet <span sameAs="recipient"><hi rend="spaced">Papst Eugen (III.)</hi> </span>  nach der Sitte seiner Vorgänger durch seine Legaten Bischof E(berhard) von Bamberg, Elekt H(illin) von Trier und Abt A(dam) von Ebrach und dieses Schreiben über seine Fortschritte und den Zustand von Kirche und Reich. Er zeigt ihm seine am 17. Tag (= 1152 März 4) nach dem Ableben König K(onrads III.) zu Frankfurt in Eintracht erfolgte Wahl durch die Fürsten (<hi rend="kursiv">universi principes regni tamquam divino spiritu suscitati XVII<hi rend="sup">a</hi>  die post depositionem eius in oppidum Frankeneuurt tam per se ipsos quam per responsales honoratos convenerunt et absque ullius morę interiecto spacio eadem die cum ingenti divinitus data concordia ipsi principes et cęteri proceres cum totius populi favore et alacritate nos in regni fastigium elegerunt</hi>.) und die am fünften Tag danach (März 9) durch Erzbischof A(rnold) von Köln und andere Bischöfe unter Akklamation des Volkes zu Aachen vorgenommene Königssalbung sowie die Thronsetzung [<hi rend="italic">Quinta postmodum die, id est transacta proxime mediante quadragesima, pari et eodem consensu cum benivola populi acclamatione in oppido Aquisgrani nos per sacratissimas devoti filii vestri A(rnoldi) Coloniensis metropolitani et venerabilium episcoporum manus oleo sanctificationis regaliter unxerunt et in solio regni cum benedictione sollempni collocaverunt</hi>.] an. Er verspricht ihm, die römische Kirche nach seinem Krönungseid (<hi rend="italic">iuxta professionis nostrę formulam, quam ab orthodoxis presulibus in ipso regni throno et unctione sacra accepimus</hi>) zu schützen, den Witwen, Waisen und dem ihm anvertrauten Volk den Frieden zu bringen und zu bewahren, die katholische Kirche in ihren Privilegien zu schützen, den früheren Glanz des Reiches unter Beachtung des Grundsatzes von den zwei Gewalten wiederherzustellen (<hi rend="italic">Cum enim duo sint, quibus principaliter hic mundus regitur, videlicet auctoritas sacra pontificum et regalis potestas, ... parati sumus, ut propitia divinitate temporibus nostri principatus verbum dei expedite currere non prohibeatur et paternas regulas ac decreta sanctissimis diffinita conciliis nullus audeat absque penę gravioris vindicta violare, quatinus per studii nostri instantiam catholica ecclesia suę dignitatis privilegiis decoretur et Romani imperii celsitudo in pristinum suę excellentię robur deo adiuvante reformetur</hi>.) und die von seinem Vorgänger dem Papst gegenüber gemachten Zusagen zu erfüllen sowie des Papstes Feinde auch als die seinigen zu betrachten. Er empfiehlt ihm seine Legaten und bittet um baldige Rücksendung des Abtes von Ebrach. - <span n="clerk">Unter Heranziehung des Wortlauts der Krönungseide der römischen Könige verfaßt von Wibald</span>. <span n="incipit"><hi rend="italic">Patrem patrię decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Patrem patrię decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus der Mitte des 12. Jh. im Cod. Wibaldi f. 119', Staatsarchiv Lüttich (B). Drucke: Jaffé, Mon. Corb. 499 n<hi rend="sup">o</hi>  372; MG. Const. 1, 191 n<hi rend="sup">o</hi>  137; MG. DF. I. 5. Reg.: Stumpf 3620.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Abfassung des Schreibens vgl. Herkenrath, Regnum und Imperium, SB. Wien 264/5 (1969) 24 ff., jetzt in: Friedrich Barbarossa (WdF 390, 1975) 324 ff. und Heinemeyer, beneficium, AfD 15 (1969) 220 ff. - Wie aus mehreren Schreiben im Cod. Wibaldi (Jaffé, Mon. Corb. 501 n<hi rend="sup">o</hi>  374, 505 n<hi rend="sup">o</hi>  376 und 377) zu ersehen ist, war Wibald bei der Abfassung des D. gezwungen, gewisse Rücksichten zu nehmen. Der Stabloer Abt empfahl dem Papst jedenfalls in einem gleichzeitig abgesandten Schreiben (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-03-00_3_0_4_2_1_73_73.html" type="internal" n="regesten">73</ref>) die Approbation des neuen Königs, die Eugen III. dann auch aussprach (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-05-17_1_0_4_2_1_86_86.html" type="internal" n="regesten">86</ref>), vgl. dazu und besonders zur Frage der rechtlichen Relevanz dieses Vorgangs Schmale, Lothar III. und Friedrich I., Friedrich Barbarossa (WdF 390, 1975) 142 f. - Zur Aufnahme der Zusagen des neuen Königs an der Kurie vgl. die Äußerungen Johanns von Salisbury in einem Brief an Radulf de Serris, Letters of John of Salisbury 1, ed. Millor-Butler-Brooke (Nelson Medieval Texts, 1955) 207 n<hi rend="sup">o</hi>  124. - Da Wibald es in seinem Brief an Bischof Eberhard von Bamberg (Jaffé, Mon. Corb. 501 n<hi rend="sup">o</hi>  374) diesem freistellte, Änderungen am Wortlaut durchzuführen, hat man solche für möglich gehalten, wodurch B nur als Entwurf und nicht als Endredaktion zu gelten hätte, dagegen vgl. Zeillinger, Eberhard, MIÖG 78 (1970) 211 ff. - Zur Haltung Wibalds vgl. jetzt auch Stephan-Kühn, Wibald als Abt von Stablo und Corvey 368 f. - Zu Abt Adam von Ebrach vgl. Geldner, Abt Adam von Ebrach, Jb. f. frank. LF 11/12 (1953) 53 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0028" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_5" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

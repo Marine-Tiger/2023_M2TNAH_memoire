@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2844</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-02_1_0_4_2_4_266_2844"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-01-02_1_0_4_2_4_266_2844"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-01-02_1_0_4_2_4_266_2844</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2844</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-01-02" to="1185-01-02">(1185
+									Januar 1/2)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Hospiz (der Abtei) zu Leno (<hi rend="italic">super solarium hospitalis de Leno</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lehnt das Ersuchen <hi rend="spaced">Bischof Johannes’ von Brescia</hi>, er möge ihm den 								Novalzehnten im Bistum Brescia bestätigen, ab, da dieser nicht 								einwilligt, die dem Kloster Leno von ihm (= dem Kaiser) selbst und 								seinen Vorgängern gewährten Zugeständnisse zu wahren, zugleich aber 								auch nicht sagen kann, auf welches Recht sich sein Anspruch auf den 								Novalzehnten von den Kirchen des Klosters Leno gründe. Friedrich 								befiehlt dem Brescianer Bischof darauf, die Nacht über nicht im 								Hospiz des Klosters zu bleiben.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt in einem Zeugenverhör von 1195, vgl. 								Scheffer-Boichorst, Streit mit der Kurie, 226 Reg. 25 nach (Lucchi), 								Mon. monast. Leonen., 163, sowie Zaccaria, Badia di Leno, 179; 								Stumpf 4403.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus DF.I. 890 								(Reg. 2843), wo sowohl Bischof Johannes wie auch der Abt von Leno 								unter den Zeugen genannt werden. – Bei dem erwähnten DF.I. für die 								Abtei Leno handelt es sich um D. 697 (Reg. 2304). – Bemerkenswert 								ist die detaillierte Angabe des Ausstellungsortes innerhalb des 								baulichen Komplexes der Abtei Leno.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

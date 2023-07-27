@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2067</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-00_1_0_4_2_3_294_2067"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1174-03-00_1_0_4_2_3_294_2067"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1174-03-00_1_0_4_2_3_294_2067</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606598" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2067</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1174-03-01" to="1174-03-31">1174 März</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SPD.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Geschrieben und unter Einfluß von seiten des UB verfaßt von HD</scribe>
+				
+				
+					<testis function="witnesses">Martin, Kardinal(bischof von Tusculum) und Kanzler der römischen Kirche (<hi rend="italic">Romanę sedis</hi>), Erzbischof Arnold von Trier, die Bischöfe Anno von Minden und Alberich von Lodi, Propst Dietmar von Minden, Abt Gregor von Prüm, die Grafen Florentius von Holland, Dietrich von Kleve und Folmar von Blieskastel, Burggraf Konrad von Nürnberg, Werner von Bolanden, Werner von Merode, Richter Richolf von Aachen, Graf Heinrich von Ravensberg und Konrad von Merode</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Bischof Hugo von Verden</hi>  gemäß einem von diesem erbetenen Spruch des Hofgerichts die Grenzen seiner Diözese in der Mark Ottos von Brandenburg, die von seiten des Bischofs (Gero) von Halberstadt nicht beachtet worden waren. <span n="witnesses">Z.: Martin, Kardinal(bischof von Tusculum) und Kanzler der römischen Kirche (<hi rend="italic">Romanę sedis</hi>), Erzbischof Arnold von Trier, die Bischöfe Anno von Minden und Alberich von Lodi, Propst Dietmar von Minden, Abt Gregor von Prüm, die Grafen Florentius von Holland, Dietrich von Kleve und Folmar von Blieskastel, Burggraf Konrad von Nürnberg, Werner von Bolanden, Werner von Merode, Richter Richolf von Aachen, Graf Heinrich von Ravensberg und Konrad von Merode</span>. — <span n="clerk">Geschrieben und unter Einfluß von seiten des UB verfaßt von HD</span>; <span n="seal">SPD.</span>  <span n="incipit"><hi rend="italic">Nostrę maiestatis officium</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nostrę maiestatis officium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv Hannover (A). Drucke: Schmidt, UB.des Hochstifts Halberstadt 1, 237 n<hi rend="sup">o</hi>  274; MG.DF.I.616. Regg.: Diestelkamp — Rotter, Urkundenregesten 1, 327 n<hi rend="sup">o</hi>  418; Stumpf 4553 zu 1174 März.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung zum März 1174 resultiert aus der Nennung des Kardinalbischofs Martin von Tusculum (zu ihm vgl. schon die oben bei Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-03-24_1_0_4_2_3_289_2062.html" type="internal" n="regesten">2062</ref>  gebotenen Hinweise). Kanzleigeschichtliche Überlegungen lassen auch an eine Einreihung zum Herbst 1171 (Koch, Reichskanzlei, 149) denken, doch gibt es für diese Zeit keinen Hinweis auf einen Aufenthalt des Legaten in Deutschland, vgl. die Vorbemerkung zum D. Denkbar wäre es schließlich auch, daß das D. im Mai 1174 zu Kaiserslautern ausgestellt wurde, vgl. dazu die in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1174-05-00_1_0_4_2_3_305_2078.html" type="internal" n="regesten">2078</ref>  genannten Zeugen. — Interesse verdient die Nennung des Lodeser Bischofs, der damals schon seit Jahren femab von seinem angestammten Sitz im deutschen Exil lebte, vgl. dazu schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1168-07-10_1_0_4_2_3_24_1799.html" type="internal" n="regesten">1799</ref>, sowie Opll, Barbarossa und Lodi, in: Kommunale Bündnisse Oberitaliens und Oberdeutschlands im Vergleich (= VuF 33, 1987) 86 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0107" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_616" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

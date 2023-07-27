@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2236</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-02-24_1_0_4_2_3_464_2236"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-02-24_1_0_4_2_3_464_2236"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-02-24_1_0_4_2_3_464_2236</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306344" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2236</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-02-24" to="1177-02-24">1177 vor Februar 24</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befiehlt <hi rend="spaced">Patriarch U(dalrich) von Aquileia</hi>  durch den Erzbischof (Wichmann) von Magdeburg und durch das vorliegende Schreiben, sich so rasch als möglich zu ihm zu begeben. — <span n="incipit"><hi rend="italic">Sicut per Magdeburgensem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut per Magdeburgensem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Tegernseer Briefsammlung des 12. Jh. Clm. 19.411 f. 85 (p. 171), Staatsbibliothek München (B). Drucke: MG.Const. 1, 359 n<hi rend="sup">o</hi>  257; MG.DF.I.666. Reg.: Plechl, Tegernseer Briefsammlung, DA 12 (1956) 391 n<hi rend="sup">o</hi>  103 zu 1177 (etwa 5. bis 10. Februar).
+</p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>DF.I.666 ist nun ediert bei: Plechl – Bergmann, Tegernseer Briefsammlung, MG. Briefe VIII, 92 n<hi rend="sup">o</hi> 68.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der Nennung des Patriarchen bei Hofe in Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-02-24_2_0_4_2_3_465_2237.html" type="internal" n="regesten">2237</ref>. — In den Constitutiones wird irrig <hi rend="italic">Maguntinum</hi>  statt <hi rend="italic">Magdeburgensem</hi>  gelesen. — Vgl. dazu auch das Schreiben Wichmanns an Udalrich, oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-01-00_2_0_4_2_3_461_2233.html" type="internal" n="regesten">2233</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0163" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_666" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._359" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

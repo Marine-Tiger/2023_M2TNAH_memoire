@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2652</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-04-28_1_0_4_2_4_73_2652"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-04-28_1_0_4_2_4_73_2652"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-04-28_1_0_4_2_4_73_2652</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843350" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2652</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-04-28" to="1182-04-28">(1182)
+									April 28</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Mainz (<hi rend="italic">IIII kal. maii, Maguntię</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst 									nach italienischem Formular außerhalb der Kanzlei, auf südlichem 									Pergament von einem Italiener geschrieben, der offenbar der 									Gesandtschaft an den kaiserlichen Hof angehörte</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt im Gefolge einer an ihn 								gerichteten Appellation der Leute von Este den <hi rend="spaced">Markgrafen</hi> Albert, Opizo und Bonifaz <hi rend="spaced">von Este</hi> einen zu ihren Gunsten gefällten Rechtsspruch in 								ihrem Streit mit den Leuten von Este. Dieses Urteil ist bei einem am 								Mittwoch, dem 27. Januar 1182 (<hi rend="italic">die Mercurii, qui 									fuit quintus exeunte mensis ianuarii</hi>), abgehaltenen <hi rend="italic">placitum generale</hi> bei der Kirche S. Tecla zu 								Este seitens der Richter Araldus de <hi rend="italic">Monticello</hi> (Montecchio Maggiore oder Montecchio 								Precalcino), Bonusiohannes und Albert nach Anhörung genannter Zeugen 								gefällt worden. Die Leute von Este hatten nämlich die <hi rend="italic">paludes</hi> beim Hof Este, die die Markgrafen 								ebenso wie öffentlich schiffbare Flüsse und Wege als zu den Regalien 								gehörig erklärten, in Anspruch genommen und dort auch zum Schaden 								der Schifffahrt Gebäude errichtet. –<span n="clerk"> Verfasst 									nach italienischem Formular außerhalb der Kanzlei, auf südlichem 									Pergament von einem Italiener geschrieben, der offenbar der 									Gesandtschaft an den kaiserlichen Hof angehörte</span>; <span n="seal"> SP.D.</span>. <hi rend="italic">Didicimus, quod 									sapientes.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Modena (A). Drucke: 								Gloria, CD. Padovano 2, 458 n<hi rend="sup">o</hi> 1443; 								MG.DF.I.824. Reg.: Stumpf 4338.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung zum Jahr 1182 ergibt sich 								aus dem Itinerar, vgl. Opll, Itinerar, 79. – Zur diplomatischen 								Kritik dieses äußerst interessanten Stückes vgl. die Vorbemerkung 								zum D. – Das Urteil, gegen das vergeblich appelliert wurde, ist zur 								Gänze inseriert, wobei im Anschluss an dessen Datierung (1182 Januar 								27) auch eine Reihe von in Este anwesenden lokalen Zeugen genannt 								wird.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_824" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

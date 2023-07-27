@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3457</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-05-03_1_0_4_2_4_887_3457"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-05-03_1_0_4_2_4_887_3457"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-05-03_1_0_4_2_4_887_3457</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3457</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-05-03" to="1190-05-03">1190
+									Mai (1) – 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName><hi rend="italic">Sozopolis</hi> (Uluborlu) – Pass von Myriokephalon (heute: Pass von Tzibritze am südlichen Ende des nördlich von Myriokephalon, dem heutigen Kırkbaş, gelegenen Tals von Çay)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Das Kreuzheer setzt seinen Weg über <hi rend="italic">Sozopolis</hi> (etwa um Mai 1) fort. – (Nachdem 								man am Ufer des Hoyran-Sees entlang gezogen ist), wird am 3. Mai 								(Christi Himmelfahrt) unter fortgesetzten Kämpfen der Pass 								überschritten, wo Kaiser Manuel von Byzanz einst eine schwere 								Niederlage erlitt (= der Pass von Myriokephalon). Hunger beginnt die 								Kreuzritter zu quälen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Zur Überlieferung siehe die unten Reg. 3459 								gesammelt angeführten Quellen; Niketas Choniates II/6, ed. Bekker, 								540 f., bzw. ed. van Dieten, 412 (deutsche Übersetzung bei Grabler, 								Abenteurer auf dem Kaiserthron, 217 f.) berichtet zum 3. Mai von 								einem Sieg des Staufers bei <hi rend="italic">Ginklarion</hi>.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. zu diesem Wegabschnitt vor allem Eickhoff, 								Barbarossa im Orient, 113 ff. – Die Schlacht von Myriokephalon hatte 								am 17. September 1176 Kaiser Manuel eine schwere Niederlage durch 								die Seldschuken gebracht, vgl. dazu oben Regg. 2222 und 2320 und 								Eickhoff, a.a.O., 173 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

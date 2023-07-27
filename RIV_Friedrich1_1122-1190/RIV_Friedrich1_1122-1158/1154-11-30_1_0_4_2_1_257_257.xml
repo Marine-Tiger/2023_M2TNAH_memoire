@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 257</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-30_1_0_4_2_1_257_257"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-11-30_1_0_4_2_1_257_257"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-11-30_1_0_4_2_1_257_257</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237559" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 257</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-11-30" to="1154-12-06">1154 (November 30-Dezember 6)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Roncaglia  (in Runckalia)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Disentis</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni canc. (!)</hi></notarius>
+				
+				
+					<scribe>VU.: offenbar im 12. Jh. zwecks Erwirkung des vorliegenden D. gefälschte Aufzeichnungen über Schenkungen des Grafen Wido von Lomello (Meyer-Marthaler - Perret, Bündner UB. 1, 11 n<hi rend="sup">o</hi>  16); in den selbständigen Partien verfaßt und wohl auch geschr</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordiuus</hi>) von Basel, die Äbte Wibald von Corvey, Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Otto von Bayern, Markgraf Otakar von Steier, Graf Werner (von Habsburg), (Graf) Ulrich von Lenzburg, Bernhard von Lodrino (<hi rend="italic">Luderin</hi>), <hi rend="italic">Alibertus de Varian</hi>, Bischof Ardicio von Como, Graf Wido von Biandrate (<hi rend="italic">Blandra</hi>), Pfalzgraf Lantelin (von Lomello)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem Kloster <span sameAs="recipient"><hi rend="spaced">Disentis</hi> </span>  (<hi rend="italic">sancto Martino, Sigeberto, Placido patronis Desertinae</hi>) die namentlich angeführten Schenkungen des Grafen Wido von Lomello und Sparvara und fügt Hoheitsrechte über die Leute von Villa und Colla hinzu (<hi rend="italic">homines de Willa et Coillascan cum omni regio iure tam in fodro quam aliis regiis iustitiis</hi>). <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordiuus</hi>) von Basel, die Äbte Wibald von Corvey, Markward von Fulda, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, Pfalzgraf Otto von Bayern, Markgraf Otakar von Steier, Graf Werner (von Habsburg), (Graf) Ulrich von Lenzburg, Bernhard von Lodrino (<hi rend="italic">Luderin</hi>), <hi rend="italic">Alibertus de Varian</hi>, Bischof Ardicio von Como, Graf Wido von Biandrate (<hi rend="italic">Blandra</hi>), Pfalzgraf Lantelin (von Lomello)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. et Italici regni canc. (!)</hi> </span>; <span n="clerk">VU.: offenbar im 12. Jh. zwecks Erwirkung des vorliegenden D. gefälschte Aufzeichnungen über Schenkungen des Grafen Wido von Lomello (Meyer-Marthaler - Perret, Bündner UB. 1, 11 n<hi rend="sup">o</hi>  16); in den selbständigen Partien verfaßt und wohl auch geschrieben von A II. D</span>. <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von 1639 Hs. 94 f. 8, Haus-, Hof- und Staatsarchiv Wien (C<hi rend="sup">1</hi>); Collectanea hist. des Joh. Dumont Freih. v. Karlscroon, Hs. 383/32 f. 270 aus dem Anfang des 18. Jh. ebenda (C<hi rend="sup">2</hi>); Fuchs, Veterum monumentorum collectio von 1792, Hs. Rheinau Hist. 6 p. 21, Zentralbibliothek Zürich (C<hi rend="sup">3</hi>); Abschrift aus dem Ende des 18. Jh., Hs. St. Blasien Pap. 61 b f. 114, Stiftsarchiv St. Paul im Lavanttal (C<hi rend="sup">4</hi>). Drucke: Meyer-Marthaler - Perret, a.a.O. 241 n<hi rend="sup">o</hi>  331; MG. DF. I. 92. Reg.: Mohr, Reg. Disentis 9 n<hi rend="sup">o</hi>  40 zu Okt. 14; Hidber 2, n<hi rend="sup">o</hi>  2013 zu Okt. 14; Stumpf 3701.</p></div>
+				
+				
+					<div type="commentary"><p>Die Zeitangabe <hi rend="italic">pridie idus oct</hi>. in der Synopsis Disertinensis (Hs. des Stiftsarchivs Disentis f. 10'; Ms. lat. 13934 der Nationalbibliothek Paris f. 13) verdient keinen Glauben, vielmehr ergibt sich die richtige Einordnung aus dem Itinerar des Königs. - Zum Inhalt des D. vgl. Büttner, Disentis (VuF 15, 1972) 266 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0090" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_92" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

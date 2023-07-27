@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. D1552</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-00_1_0_4_2_2_994_D1552"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-03-00_1_0_4_2_2_994_D1552"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-03-00_1_0_4_2_2_994_D1552</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426595259" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. D1552</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-03-01" to="1166-03-31">(1166 März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Laufen  (apud curiam Friderici imperatoris Louphe celebratam)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Prüfening</hi>  <hi rend="spaced">Heinrich (dem Löwen)</hi></recipient>
+				
+				
+				
+				
+					<testis function="witnesses">Graf Berthold von Andechs, Pfalzgraf Otto der Ältere (von Wittelsbach), Markgraf Berthold von Vohburg, die Grafen Gerhard von Dollnstein (Hirschberg), Rapoto von Abenberg (<hi rend="italic">Artnperc</hi>), Hallgraf Engelbert und Otto von Valley, Eberhard von Frickendorf, Robert Wolf (<hi rend="italic">Lupus</hi>), Gottfried <hi rend="italic">de Arnsperch</hi>, Berthold <hi rend="italic">de Tumprunne</hi>, Heinrich <hi rend="italic">de Altendorf</hi>, Meinhart <hi rend="italic">de Parchstain</hi>, Alram <hi rend="italic">de Outendorf</hi>, Albert von Kamm, Wernher von Herrengiersdorf (<hi rend="italic">Gibistorf</hi>), Heinrich von Weida, Liupolt von Groß-Gründlach, Ortnant von Eschenau, Burchard <hi rend="italic">de Menige</hi>, Regil <hi rend="italic">de Otrichshusen</hi>, Ulrich und Friedrich <hi rend="italic">de Saleha</hi>, Ulrich, Heinrich <hi rend="italic">de Widenwanch</hi>, Engelschalk von Dollnstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt einen Gütertausch zwischen dem Kloster <span sameAs="recipient"><hi rend="spaced">Prüfening</hi> </span>  und Herzog <span sameAs="recipient"><hi rend="spaced">Heinrich (dem Löwen)</hi> </span>  von Bayern und Sachsen, wobei Reichslehen des Welfen vertauscht werden (<hi rend="italic">cum duobus regiis mansis ad jus Heinrici ... pertinentibus</hi>). Am Vollzug des Geschäftes sind Pfalzgraf Friedrich (von Wittelsbach), Bischof Eberhard von Bamberg und dessen Bruder Wolfher, der Verwalter der Bamberger Bistumsgüter, beteiligt. <span n="witnesses">Z.: Graf Berthold von Andechs, Pfalzgraf Otto der Ältere (von Wittelsbach), Markgraf Berthold von Vohburg, die Grafen Gerhard von Dollnstein (Hirschberg), Rapoto von Abenberg (<hi rend="italic">Artnperc</hi>), Hallgraf Engelbert und Otto von Valley, Eberhard von Frickendorf, Robert Wolf (<hi rend="italic">Lupus</hi>), Gottfried <hi rend="italic">de Arnsperch</hi>, Berthold <hi rend="italic">de Tumprunne</hi>, Heinrich <hi rend="italic">de Altendorf</hi>, Meinhart <hi rend="italic">de Parchstain</hi>, Alram <hi rend="italic">de Outendorf</hi>, Albert von Kamm, Wernher von Herrengiersdorf (<hi rend="italic">Gibistorf</hi>), Heinrich von Weida, Liupolt von Groß-Gründlach, Ortnant von Eschenau, Burchard <hi rend="italic">de Menige</hi>, Regil <hi rend="italic">de Otrichshusen</hi>, Ulrich und Friedrich <hi rend="italic">de Saleha</hi>, Ulrich, Heinrich <hi rend="italic">de Widenwanch</hi>, Engelschalk von Dollnstein</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum ?; erwähnt in einer Traditionsnotiz, Monumente Boica 13, 115 n<hi rend="sup">o</hi>  68; MG. DF. I. *1142; Stumpf Reg. 4067a.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die in der Vorbemerkung zum D. genannte Literatur.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2001):</hi>
+</p>
+<p>Bei dem unter den Zeugen angeführten Grafen Rapoto <hi rend="kursiv">de Artnperc</hi> handelt es sich um den Spanheimer Rapoto von Ortenberg (heute: Ortenburg bei Passau), nicht um einen Grafen von Abenberg, vgl. zu Rapoto die Hinweise bei Dopsch &amp;#x2012; Brunner &amp;#x2012; Weltin, Österreichische Geschichte 1122-1278, 311.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0263" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1142" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

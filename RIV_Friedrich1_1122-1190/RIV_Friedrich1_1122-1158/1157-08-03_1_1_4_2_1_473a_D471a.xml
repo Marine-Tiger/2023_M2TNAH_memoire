@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 471a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_1_1_4_2_1_473a_D471a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-08-03_1_1_4_2_1_473a_D471a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-08-03_1_1_4_2_1_473a_D471a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358253840" value="2013-01-15"></date>
+				<date type="lastmod" n="1358254034" value="2013-01-15"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 471a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-06-01" to="1157-08-02">(zweite Hälfte 1156- vor 1157 August 3)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt Graf Dedo von Groitzsch die aus väterlichem Erbe erhaltenen Besitzungen, namentlich den Gau Rochlitz.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p><ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=" type="external">Deperditum</ref>; erwähnt in der Urkunde des Grafen Dedo von Groitzsch von 1174, ed. Posse, CD. Sax. Reg. I/1, 280 n<hi rend="hoch">o</hi> 404: ... <hi rend="kursiv">pago nostro Rochlitz, qui regali donatione et privilegii confirmatione paterna ad nos hereditate transivit</hi> ...</p></div>
+				
+				
+					<div type="commentary"><p>Zur Interpretation dieser Stelle in der Urkunde Dedos sowie zur zeitlichen Einordnung des Deperditums &amp;#x2012; der Hinweis auf die <hi rend="kursiv">regalis donatio</hi> ist auf Konrad III. zu beziehen, der das Rochlitzer Land 1143 an Markgraf Konrad von Meißen schenkte &amp;#x2012; vgl. Lindner, Merseburger Pfingsthoftag, Zs. f. Geschichtswissenschaft 43 (1995) 206 ff., insbesondere 209 n<hi rend="hoch">o</hi> II.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360327122" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+3.+Lief.%3A+1168-1180&amp;amp;pk=117717" type="external" n="opac">RI IV,2,3</ref>, S. VIII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

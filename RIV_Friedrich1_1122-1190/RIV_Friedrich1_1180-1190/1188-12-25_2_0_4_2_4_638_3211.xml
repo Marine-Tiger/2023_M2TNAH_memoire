@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3211</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_2_0_4_2_4_638_3211"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-12-25_2_0_4_2_4_638_3211"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-12-25_2_0_4_2_4_638_3211</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3211</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-12-25" to="1188-12-25">1188
+									(vor Dezember 25)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Sultan Saladin) teilt König (!) Friedrich (<hi rend="italic">sincero amico magno, excelso Frederico, regi 									Alemannie</hi>) in Beantwortung von dessen durch einen gewissen 								Heinrich (= Graf Heinrich von Diez) überbrachten Schreiben (siehe 								dazu oben Reg. †3159) mit, er weise die darin ultimativ übermittelte 								Kriegserklärung zurück. Zum Kampf mit dem Heer der Deutschen sei er 								bereit, falls der Kaiser aber den Frieden vorziehe, wolle er das 								Heilige Kreuz, die christlichen Gefangenen und verschiedene Abteien 								zurückstellen, beim Heiligen Grab einen Priester zugestehen und den 								Pilgern dort freien Zutritt einräumen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 282 ff. (englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 51 ff. c. 18); Salloch, Die 								lateinische Fortsetzung Wilhelms von Tyrus (Greifswald 1934) 96 ff.; 								vgl. Röhricht, Reg. Regni Hierosol., 179 n<hi rend="sup">o</hi> 672 								(zu 1188 März 2 – 1189 Februar 18).</p></div>
+				
+				
+					<div type="commentary"><p>Mayer, Brief, DA 14 (1958) 488 f. mit Anm. 7, hat 								dieses Schreiben als inhaltlich zweifellos echt, in formaler 								Hinsicht allerdings nicht ganz unbedenklich bezeichnet, während es 								Möhring, Saladin und der Dritte Kreuzzug, 93 ff., insbesondere 								98–125, sowie – Möhring folgend – Hiestand, „precipua tocius 								christianismi columpna“, in: Friedrich Barbarossa (VuF 40, 1992) 100 								mit Anm. 326, als Fälschung bezeichnen. – Unsere zeitliche 								Einordnung richtet sich nach der Erwähnung von Legaten des Sultans 								in Reg. 3214; zu Saladin vgl. die Hinweise oben bei Reg. 3085. – 								Ergänzend zur Überlieferung vgl. zuletzt Wagendorfer, Eine bisher 								unbekannte (Teil-)Überlieferung des Saladin-Briefs an Kaiser 								Friedrich I. Barbarossa, in: DA 65 (2009), 565–584 (Edition: 								582–584).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

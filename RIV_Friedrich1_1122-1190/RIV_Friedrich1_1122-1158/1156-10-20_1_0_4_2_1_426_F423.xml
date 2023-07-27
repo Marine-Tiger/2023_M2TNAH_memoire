@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. †423</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-10-20_1_0_4_2_1_426_F423"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-10-20_1_0_4_2_1_426_F423"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-10-20_1_0_4_2_1_426_F423</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1366732249" value="2013-04-23"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. †423</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-10-20" to="1156-10-20">1156 Oktober 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XIII<hi rend="sup">o</hi>  kal. novembris, aput Wormatiam)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bürgern</hi>  <hi rend="spaced">Worms</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Cunradi Moguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von Mainz, die Bischöfe Konrad von Worms und Gottfried von Speyer, Abt Heinrich von Lorsch, Kanzler Gottfried, Protonotar Konrad, Dompropst Siegfried von Worms, Dekan Heinrich (von Worms), Propst Emicho von St. Paul, Propst Konrad von St. Andreas, Propst Siegfried von St. Martin, Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen und Gottfried von Sponheim, Ulrich von Herrlingen (<hi rend="italic">Horningen</hi>), Berthold von Schauenburg (<hi rend="italic">Scowenburg</hi>), Walter von Hausen, Markward von Grumbach, Werner von Bolanden, Vitztum Burchard, Richizo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht den <span sameAs="recipient"><hi rend="spaced">Bürgern</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Worms</hi> </span>  einen Stadtfrieden, in dem die Strafen für Körperverletzung, Totschlag, Eigentumsdelikte und Hausfriedensbruch festgelegt werden, bestimmt den Geltungsbereich dieses Friedens, verbietet das Duell und setzt zur Überwachung der Ordnung ein Gericht von 12 Ministerialen der Wormser Kirche und 28 Bürgern ein, das bei strittigen Entscheidungen das Majoritätsprinzip zu beachten hat. <span n="witnesses">Z.: Erzbischof Konrad von Mainz, die Bischöfe Konrad von Worms und Gottfried von Speyer, Abt Heinrich von Lorsch, Kanzler Gottfried, Protonotar Konrad, Dompropst Siegfried von Worms, Dekan Heinrich (von Worms), Propst Emicho von St. Paul, Propst Konrad von St. Andreas, Propst Siegfried von St. Martin, Pfalzgraf Konrad bei Rhein, die Grafen Emicho von Leiningen und Gottfried von Sponheim, Ulrich von Herrlingen (<hi rend="italic">Horningen</hi>), Berthold von Schauenburg (<hi rend="italic">Scowenburg</hi>), Walter von Hausen, Markward von Grumbach, Werner von Bolanden, Vitztum Burchard, Richizo</span>. - <span n="chancellor"><hi rend="italic">Godefridus imperialis aule canc. vice Cunradi Moguntine sedis archiep. et Germanie archicanc.</hi> </span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Cum imperialis clementia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum imperialis clementia</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Fälschung; Angebl</hi>. Orig.: Stadtarchiv Worms (A). Drucke: Moritz, Reichsstädte 146; Boos, UB. der Stadt Worms 1, 59 n<hi rend="sup">o</hi>  73. Faks.: Boos, Mon. Wormatiensia, Tafel 3. Reg.: Stumpf 3759.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Beurteilung dieser Fälschung, die der Schrift nach aus dem Ende des 12. oder dem frühen 13. Jh. stammt, vgl. Stumpf, Kritik deutscher Städte-Privilegien, Wiener SB. 32 (1860) 603 ff. Die Fälschung wurde von Friedrich II. 1220 wortwörtlich erneuert (B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-07-00_1_0_4_2_2_551_1109.html" type="internal" n="regesten">1109</ref>; Boos, UB. 1, 95 n<hi rend="sup">o</hi>  124) und lag wohl auch schon bei der Erneuerung der Wormser Privilegien durch Otto IV. im Jahre 1208 (B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-11-22_1_0_4_2_1_248_248.html" type="internal" n="regesten">248</ref>; Boos, UB. 1, 87 n<hi rend="sup">o</hi>  110) vor. Das Monogramm ist eine Nachzeichnung desjenigen in Stumpf 4370, die Zeugen wurden hauptsächlich DF. I. 492 und Stumpf 4370 entnommen, so daß die Fälschung zwischen 1184 und 1208 hergestellt worden sein muß. Vgl. Büttner, Stadtentwicklung von Worms (FS. Franz Steinbach, 1960) 406 f. - Nach Moritz, a. a. O. 149 war das kaiserliche Thronsiegel an der Urkunde befestigt, über dessen Echtheit wir allerdings nicht Bescheid wissen. - Die angegebene Datierung könnte in das Itinerar des Kaisers passen, vgl. Opll, Itinerar 20 mit Anm. 10.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0142" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227085%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

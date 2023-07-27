@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2716</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-25_1_0_4_2_4_137_2716"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-06-25_1_0_4_2_4_137_2716"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-06-25_1_0_4_2_4_137_2716</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843778" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2716</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-06-25" to="1183-06-25">1183
+									Juni 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Konstanz (<hi rend="italic">VII kal. iulii, </hi> <hi rend="italic">apud Constantiam in sollempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP 									(laut BD, vgl. DF.I.848, Anm. h)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aule canc. vice Cristiani 										Maguntine sedis archiep. et Germanie 									archicanc.</hi></notarius>
+				
+				
+					<scribe>unter 									Einschaltung des Wortlautes des Vorvertrags (D.844 = Reg. 2695; 									VU.), den man allerdings in die subjektive Fassung umstilisierte 									und den Kaiser in der ersten Person des <hi rend="italic">pluralis maiestatis</hi> auftreten ließ, in der K</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Friede von Konstanz</hi>: 								Friedrich und sein Sohn König Heinrich VI. bestätigen den wörtlich 								wiedergegebenen Friedensvertrag mit dem <hi rend="spaced">Lombardenbund</hi>, wobei die einzelnen Punkte von D.844 (Reg. 								2695) bis auf Punkt 35 und mit der in D.843 (Reg. 2694) begegnenden, 								in D.844 (Reg. 2695) aber nicht enthaltenen Möglichkeit einer 								Reduzierung des Regalienzinses wiederholt und die folgenden Punkte 								hinzugefügt werden: (35 neu) Der Friede wird gemäß der <hi rend="italic">forma prescripta</hi> (Reg. 2695), gemäß den 								Festlegungen seitens der Vermittler (<hi rend="italic">mediatores 									pacis</hi>), nämlich Bischof Wilhelms von Asti, Graf Heinrichs 								(Guercio) von Savona, Bruder Dietrichs von Silve-Bénite und Kämmerer 								Rudolfs, sowie der Eidesleistungen und der Anerkennung durch die 								Lombarden für ewig gültig erklärt. – (36 neu, vgl. 38 in Reg. 2695) 								Die Städte, denen der Friede und die kaiserliche Gnade gewährt 								werden, sind folgende: Vercelli, Novara, Mailand, Lodi, Bergamo, 								Brescia, Mantua, Verona, Vicenza, Padua, Treviso, Bologna, Faenza, 								Modena, Reggio, Parma und Piacenza. – (37 neu, vgl. ebenfalls 38 in 								Reg. 2695) Der Friede wird Imola, der Burg S. Cassiano (bei Imola), 								Bobbio, Gravedona (<hi rend="italic">plebi de Grabadona</hi>), 								Feltre, Belluno und Ceneda nicht gewährt. Ferrara wird der Friede 								gewährt, falls es sich binnen zwei Monaten nach Rückkehr der 								Lombarden vom Hoftag mit ihnen über den Frieden einigt. – (38) 								Friedrich und sein Sohn König Heinrich haben diesen Frieden durch 								den Kämmerer Rudolf <hi rend="italic">in animam nostram</hi> 								beschwören lassen. – (39) Die Fürsten und die Edlen des Hofes, die 								diesen Frieden zu halten beschworen haben, sind folgende: Bischof 								Hermann von Münster, Elekt Heinrich von Chur, Abt Thiethelm von der 								Reichenau, Gottfried, der Kanzler des kaiserlichen Hofes, Herzog 								Otto von Bayern, Herzog Friedrich von Schwaben, der Sohn des 								Kaisers, Herzog Berthold von Zähringen, die Markgrafen Berthold von 								Istrien und Hermann von Verona (von Baden), die Grafen Heinrich von 								Diez, Diepold von Lechsgemünd und Ludwig von Helfenstein, der Bruder 								des Kanzlers (Gottfried), weiters Kämmerer Rudolf, Werner von 								Bolanden, Kuno von Münzenberg und Mundschenk Konrad (von 								Oberschüpf). – (40) Die Boten, die seitens der Lombarden den Frieden 								und die <hi rend="italic">concordia</hi> empfangen und in Gegenwart 								des Kaisers durch Eid bekräftigt haben, sind folgende: aus Mailand 								Guido von Landriano, Pinamundus von Vimercate, Adobatus Butraffus, 								Wilhelm Burrus, Guercius de Uxolo, Ardericus von Bonate Sopra 								(Sotto), Roger Marcellinus und der Arzt Lotherius; aus Brescia 								Oprand von Martinengo, Gezo von Torbiato, der Richter Desiderius, 								Rudolf de<hi rend="italic"> Concisio</hi> (Concesa oder Concesio), 								Bocacius de<hi rend="italic"> Maneruio</hi> (Manerba oder Manerbio) 								und Albricus von Capriano del Colle; aus Piacenza Gerardus von 								Ardizzone, Jacobus Strictus, Hermannus von Pieve del Cairo und der 								Richter Caupo; aus Bergamo Albertus von Mapello, Atto Ficianus, 								Johannes de Piteringo, Lanfrancus de<hi rend="italic"> Monacha</hi> 								(Monaci oder Monache), Albertus Attonis und Albertus Albertonis; aus 								Verona Richter Cotius, Ubertinus von Carceri, Valerianus von 								Castello, Martius von Castello d’Agogna, Tebaldinus de Raimundo und 								Tebaldinus de Nascinguerra; aus Vicenza Richter Pilius, Ubertinus 								von Fontaniva, Carlaxarius und Marcus de Pauliano; aus Padua 								Guanfus, Richter Ezelinus und Englescus de Fontegliua; aus Treviso 								Richter Florius und Gumbertinus; aus Mantua Alexandrinus, Jacobus de 								Amica, Richter Agnellus und Henricus de <hi rend="italic">Angelo</hi> (S. Angelo di Lomellina?); aus Faenza Richter 								Bernardus und Ugolinus de Azone; aus Bologna Podestà Antoninus, 								Rolandus Guarini und Matheus Rodulfi; aus Modena Richter Arlottus 								und Rainerius von Boccabadati; aus Reggio der Geldwechsler (<hi rend="italic">Cambiator</hi>) Albertus und Rolandus de Caritate; 								aus Parma Jacobus Petri Baue, Richter Malodabatus, Richter Vetulus 								und Conradus Bulzoni; aus Lodi Vincentius de Fussiraga und Anselmus 								de Summaripa; aus Novara Opizo de <hi rend="italic">Briona</hi> 								(Mon-Brione oder Briona), Thedisius Caballatius und Guido de 								Boniprando; aus Vercelli Meardus und Vercellinus. – (41) Folgende 								Städte und Orte haben den Frieden unter Eid der Lombarden gemeinsam 								mit dem Kaiser empfangen und ihn auch selbst beschworen: Pavia, 								Cremona, Como, Tortona, Asti, Caesarea (= Alessandria), Genua, Alba 								und alle Städte, Orte und Personen, die auf der Seite des Kaisers 								stehen oder gestanden sind. – (42) Folgende Boten haben die 								Investitur mit dem Konsulat für die Städte von Seiten des Kaisers 								empfangen: aus Mailand Adobatus, aus Piacenza Gerardus Ardizzone, 								aus Lodi Vincencius, aus Verona Cotius, aus Vicenza Pilius, aus 								Padua Guanfus, aus Treviso Florius, aus Mantua Alexandrinus, aus 								Faenza Bernardus, aus Bologna Antoninus, aus Modena Arlottus, aus 								Reggio Rolandus, aus Parma Jacobus Petri Baue, aus Novara Opizo, aus 								Vercelli Meardus und aus Bergamo Atto Ficianus. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aule canc. vice Cristiani 										Maguntine sedis archiep. et Germanie 									archicanc.</hi></span>;<span n="clerk"> unter 									Einschaltung des Wortlautes des Vorvertrags (D.844 = Reg. 2695; 									VU.), den man allerdings in die subjektive Fassung umstilisierte 									und den Kaiser in der ersten Person des <hi rend="italic">pluralis maiestatis</hi> auftreten ließ, in der Kanzlei, 									wohl von Robert, vielleicht unter Mitwirkung von Gottfried G, 									verfasst, geschrieben von Robert</span>; <span n="seal"> SP 									(laut BD, vgl. DF.I.848, Anm. h)</span>. <span n="incipit"><hi rend="italic">Imperialis clementie mansueta.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis clementie mansueta.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1227, Cod. 								diplomatico Bresciano 2, p. 134 (aus dem Kloster S. Giulia), 								Biblioteca Queriniana zu Brescia (jetzt: Staatsarchiv Brescia, 								Archivio Comune di Brescia, Codice Diplomatico, b. 7, perg. 120) 								(B); Abschrift aus dem Anfang des 13. Jh. im Liber Potheris II f. 								8’, ebenda (C) = Abschrift aus der Mitte des 13. Jh. im Liber 								Potheris I f. 9’, ebenda (C<hi rend="sup">1</hi>); Abschrift des 								ausgehenden 13. Jh. in den Vetera monumenta civitatis Novocomi 1, f. 								5 (f. 6 fehlt), Staatsarchiv Como, Archivio storico civico, sez. 								Volumi n<hi rend="sup">o</hi> 45 (D); Abschrift des 13. Jh. im 								Registrum privilegiorum civitatis Mutinensis f. 2, Stadtarchiv 								Modena (E); notarielle Abschrift von 1284 im Liber iurium civitatis 								Laudae f. 1, Stadtbibliothek Lodi (F); notarielle Abschrift von 1342 								im Registrum magnum civitatis Placentiae f. 112, Stadtarchiv 								(Depositum in der Stadtbibliothek) Piacenza (G) = Registrum parvum 								f. 73’, ebenda (G’); Abschrift von 1295 im ms. Harley 3678 f. 42, 								British Library London (eng verwandt mit G, G’’); Abschrift des 13. 								Jh. im Registrum grossum civitatis Bononiensis, Liber primus f. 51’, 								Staatsarchiv Bologna, Comune, Governo, n<hi rend="sup">o</hi> 10 								(H) = Abschrift des 13. Jh. im Liber iuramentorum f. 25, ebenda II, 									n<hi rend="sup">o</hi> 4, ebenda (H’) = Abschrift von 1257 								(wohl aus H’) im Registrum Novum f. 6, ebenda II n<hi rend="sup">o</hi> 11 (H’’); Abschrift von 1270 im Liber Pax Constantiae 								(Liber grossus antiquus) f. 1, Staatsarchiv Reggio Emilia (I); 								notarielle Abschrift des 13. Jh., Staatsarchiv Verona, Fondo VIII, 								Vari, busta XIII n<hi rend="sup">o</hi> 1 (K); notarielle Abschrift 								des 14. Jh. (aus K?), Biscioni I f. 66 n<hi rend="sup">o</hi> 41, 								Stadtarchiv Vercelli (L’); Abschrift des 13. Jh., ebenda, pergamene 									n<hi rend="sup">o</hi> 15 (L); notarielle Abschrift des 14. Jh. 								(aus verlorener notarieller Abschrift), Biscioni I f. 50’ n<hi rend="sup">o</hi> 26, ebenda (M’); Abschrift des 13. Jh., Libri 								feudorum, ms. lat. V 119 (= 2307) f. 48, Biblioteca Marciana zu 								Venedig (N); Abschrift des 14. Jh., Libri feudorum, ms. a 132 f. 								286, Stadtbibliothek Bremen (O); Abschrift des ausgehenden 13. Jh., 								Liber privilegiorum communis Mantuae, Staatsarchiv Mantua, Archivio 								Gonzaga, B XXXIII 1 b. 82 f. 1 (P); Abschrift des 13. Jh. im ms. 								Vat. lat. n<hi rend="sup">o</hi> 8486, f. 248’ n<hi rend="sup">o</hi> 212, Vatikanische Bibliothek (Q); Abschrift des 13. Jh., 								Liber Censuum Romanae Ecclesiae, Vatikanisches Archiv, Arm. XVI 1, 								f. 241 (Q’) = Abschrift des 15. Jh. (wohl aus H) im ms. Vat. lat. 									n<hi rend="sup">o</hi> 1989 f. 41, Vatikanische Bibliothek (R); 								unvollständige Abschrift des 13. Jh., Staatsarchiv Cremona, Archivio 								segreto del Comune, pergamene n<hi rend="sup">o</hi> 1920 (U); 								Abschrift des 14. Jh., ms. lat. V 18 (= 2305) f. 236, Biblioteca 								Marciana zu Venedig (V); unvollständige Abschrift des 14. Jh., ms. I 								IV 11 f. 250’, Stadtbibliothek Siena (W); vgl. schließlich Corpus 								iuris civilis, ed. Cuiacius, De Feudis libri V, p. 221 (c), offenbar 								auf weiteren, nicht näher bekannten Überlieferungen beruhend. Faks. 								(von B): Storia di Milano 4,108; Storia di Brescia 1, nach S. 632; 								Milano e la Lombardia in età comunale, secoli XI–XIII (Catalogo 								della Mostra, Milano 15 aprile – 11 luglio 1993) 378 n<hi rend="sup">o</hi> 204. Drucke: MG. Const. 1, 408 n<hi rend="sup">o</hi> 293; Manaresi, Atti del Comune di Milano 1, 								195 n<hi rend="sup">o</hi> 139; Falconi, La documentazione, in: 								Studi sulla pace di Costanza (Deputazione di storia patria per le 								provincie Parmensi. Sezione di Piacenza, 1984) 73 n<hi rend="sup">o</hi> 7 (mit vollständigem Variantenapparat aus sämtlichen 								Handschriften); Liber iurium del Comune di Lodi, ed. Grossi 								(Pubblicazione degli Archivi di Stato, Fonti 42, 2004) 3 n<hi rend="sup">o</hi> 1; MG.DF.I.848. Regg.: B.-Baaken Reg. 2; 								Stumpf 4360 und 4363 (vgl. die Vorbemerkung zu D.848).</p></div>
+				
+				
+					<div type="commentary"><p>Eine Abbildung der notariellen Abschrift von 1227 								(Überlieferung B) mit Hinweis auf deren jetzigen Aufbewahrungsort 								findet sich jetzt bei Haas, Friede von Konstanz, in: Die Staufer und 								Italien, Bd. 2: Objekte (2010) 142 f. Kat.-Nr. IV.B.3.8. – Bei der 								Beurkundung dieses Friedensschlusses handelt es sich zweifellos um 								eines der markantesten Dokumente der Ära Friedrich Barbarossas 								überhaupt; er wird auch in einer Reihe historiographischer Zeugnisse 								erwähnt, siehe dazu unten Reg. 2719. – Wiewohl einige 								Überlieferungen den 20. Juni, der jedenfalls der Tag der Beeidung 								des Friedensschlusses war (siehe dazu oben Reg. 2715), als Datum 								nennen, ist am 25. Juni, der in der überwiegenden Zahl von 								Überlieferungen angegeben ist, als Datierung der Beurkundung 								festzuhalten; der gegenüber den Festlegungen in Reg. 2696 								vorgesehene Termin für den Hoftag (das Kolloquium), nämlich 								spätestens bis zur Oktav des Pfingstfestes (= 12. Juni), hatte sich 								offenkundig verschoben, siehe dazu auch die Bemerkungen bei Reg. 								2715 . – Abweichungen gegenüber dem Wortlaut des Vorvertrags (Reg. 								2695) ergeben sich in folgenden Hinsichten: Das Mindestalter von zur 								Eidesleistung verpflichteten Bürgern wird in Punkt 12 mit 15 Jahren 								festgelegt, im Vorvertrag und in einigen Handschriften des Friedens 								sind dort 16 Jahre genannt; Punkt 35 (betrifft: Appellationen) des 								Vorvertrags (Reg. 2695) ist hier weggelassen; Punkt 3 (betrifft: 								Regalienzins), der sich im vollen ursprünglichen Wortlaut in Reg. 								2694 (D.843), seinem ersten Teil nach auch im Vorvertrag (Reg. 2695) 								findet, ist handschriftlich nicht überliefert, allerdings in dem bei 								Cuiacius gedruckten Corpus iuris civilis (Liber de pace Constantiae, 								c), sodass nicht sicher ist, ob es sich dabei um eine Zutat handelt, 								die auf gelehrter Kenntnis des Wortlautes des Vorentwurfs (Reg. 								2694) beruht. – Das verlorene Original muss an den Empfänger, den 								Lombardenbund, der sein Archiv in S. Antonino zu Piacenza, der 								damaligen Kathedralkirche dieser Stadt, hatte, ausgehändigt worden 								sein; ob daneben einzelne Kommunen eigene Ausfertigungen erhielten, 								ist nicht festzustellen, allerdings reichte die Kapazität der um 								diese Zeit aus einem oder zwei Notaren bestehenden Reichskanzlei 								keinesfalls aus, dass alle Städte eine Ausfertigung erhalten hätten, 								vgl. dazu die ausführliche Vorbemerkung zum D. – In welcher Weise 								dieser Friede dann in der Lombardei umgesetzt wurde, erhellt auch 								aus dem <hi rend="italic">Iuramentum nuntiorum Lombardorum</hi> von 								1183, ed. MG. Const. 1, no 294. – Zur Bewertung des Friedens aus 								juristischer und historischer Sicht und seinen Auswirkungen vgl. 								zuletzt Dilcher, Herrschaftskonzept, in: Dilcher – Quaglioni (edd.), 								Gli inizi del diritto pubblico. L’età di Federico Barbarossa: 								legislazione e scienza del diritto (Annali dell’Istituto storico 								italo-germanico in Trento. Contributi, 19, 2007) 19–45, Raccagni, Il 								diritto pubblico, in: Dilcher – Quaglioni (edd.), Gli inizi del 								diritto pubblico europeo II: Da Federico I a Federico II. (Annali 								dell’Istituto storico italo-germanico in Trento. Contributi, 21, 								2008) 309–339, sowie Ders., The Lombard League, 102 f. – Der unter 								den fürstlichen Eidesleistern genannte Graf Ludwig von Helfenstein 								nannte sich auch nach Spitzenberg (Kr. Göppingen) und Sigmaringen, 								vgl. dazu Plassmann, Struktur des Hofes, 269.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_848" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

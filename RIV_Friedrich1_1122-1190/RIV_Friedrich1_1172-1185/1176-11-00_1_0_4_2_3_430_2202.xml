@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2202</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-11-00_1_0_4_2_3_430_2202"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1176-11-00_1_0_4_2_3_430_2202"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1176-11-00_1_0_4_2_3_430_2202</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456305841" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2202</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1176-11-01" to="1176-11-30">1176 Anfang November</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Anagni)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt durch bevollmächtigte Unterhändler, die Erzbischöfe Wichmann von Magdeburg und Christian von Mainz, Elekt Konrad von Worms und Protonotar Wortwin, einen auch bei vorzeitigem Ableben eines der Vertragspartner gültigen (Vor-) Vertrag mit <hi rend="spaced">Papst Alexander (III.)</hi>  über die Beendigung des Schismas und die Wiederherstellung des Friedens zwischen Kirche und Reich, was er und die Fürsten, aber auch mehrere römische Edle und Capitanei der Campagna beeiden werden: 1. Friedrich verspricht gemeinsam mit Kaiserin Beatrix, seinem Sohn, König Heinrich (VI.), und den Fürsten die Anerkennung Alexanders als katholischer und universaler Papst, den wahren Frieden, die Rückstellung der Regalien und Besitzungen der Kirche gemäß dem Besitzstand der Zeit Innozenz' (II.), die Rückgabe der Präfektur über die Stadt Rom, an der er allerdings gewisse Ansprüche bewahrt, die Rückstellung der Vasallen, die der Kirche aus Anlaß des Schismas entfremdet wurden, und des Landes der Gräfin Mathilde in dem Umfang, wie es die Kirche zu Zeiten Kaiser Lothars (III.), König Konrads (III.) und auch Kaiser Friedrichs selbst besaß. 2. Papst und Kaiser sichern sich gegenseitig Hilfe zu. 3. Friedrich wird den Kirchen alles im Schisma ohne Gerichtsverfahren Entzogene (<hi rend="italic">Quecumque autem tempore scismatis vel occasione ipsius aut sine ordine iudiciario</hi>...) zurückstellen, mit den Lombarden durch päpstliche, kaiserliche und lombardische Unterhändler Frieden schließen, wobei nach dem endgültigen Friedensschluß mit der Kirche die an Zahl gleichen päpstlichen und kaiserlichen Unterhändler bei strittigen Punkten eine Mehrheitsentscheidung herbeiführen können, dem König von Sizilien und dem Kaiser von Konstantinopel sowie allen, die die römische Kirche unterstützen, Frieden gewähren und wegen ihrer Hilfeleistung keinen Schaden zufügen und wegen der Streitigkeiten, die es vor der Zeit Hadrians (IV.) mit der Kirche bzw. dem König von Sizilien gab, ein Gremium von päpstlichen und kaiserlichen Unterhändlern einsetzen und während der Verhandlungen die Waffen ruhen lassen. 4. Kanzler Christian wird das Mainzer, Philipp das Kölner Erzbistum zuerkannt werden, Konrad (von Wittelsbach, Kardinalbischof der Sabina) wird das erste freiwerdende Erzbistum in Deutschland erhalten. 5. Calixt (III.) wird eine Abtei erhalten, seine Kardinale sollen dorthin zurückkehren, wo sie vor dem Schisma gewirkt haben. 6. (Bischof) Gero von Halberstadt wird abgesetzt und Bischof Ulrich von Halberstadt wieder eingesetzt werden, Geros Entfremdungen und Verlehnungen werden kassiert werden. 7. Die Wahl (Bischof Siegfrieds) von Brandenburg zum Bremer Erzbischof wird einer kanonischen Überprüfung unterzogen werden, die Veräußerungen und Verlehnungen von Kirchengut durch den jetzigen (Erzbischof) Balduin von Bremen werden rückgängig gemacht werden, was auch für die Salzburger Kirche gelten soll. 8. Über den Klerus Italiens und anderer Gebiete außerhalb des <hi rend="italic">Teutonicum regnum</hi>  haben Alexander (III.) und seine Nachfolger zu verfügen, wobei sich der Kaiser bei zehn bis zwölf von ihnen verbindlich für die Rechtmäßigkeit der Weihen einsetzen mag. 9. Bischof G(arsidonius) von Mantua wird in sein Bistum zurückkehren, der dort amtierende Bischof (Johannes) wird nach Trient oder anderswohin transferiert werden. 10. Der Archipresbiter von Sacco wird wieder in sein Amt und seine Pfründen eingesetzt werden. 11. Alle Weihen, die ehedem Katholische oder von diesen Geweihte in Deutschland gespendet haben, sollen wieder Gültigkeit haben. 12. Wegen der von Guido von Crema (= Paschal III.) geweihten Bischöfe (Rudolf) von Straßburg und (Ludwig) von Basel werden die Unterhändler von zehn oder acht Bischöfen die eidliche Zusage einfordern, daß sie ein rechtskonformes Gutachten (<hi rend="italic">consilium</hi>) erstellen werden, an das sich der Papst halten wird. 13. Der Papst und seine Kardinale nehmen neben dem Kaiser auch die Kaiserin Beatrix und König Heinrich (VI.) als rechtmäßige Herrscher an, sichern ihnen Frieden zu, und der Papst verspricht die Ausstellung einer eigenen Friedensurkunde mit Unterschrift und Siegel der Kardinale sowie die sofortige Einberufung eines Konzils, das alle, die diesen Frieden brechen, exkommunizieren wird. Etliche von den römischen Adeligen und den <hi rend="italic">capitanei</hi>  der Campagna werden den Frieden beeiden. 14. Im Fall des vorzeitigen Todes des Papstes bzw. des Kaisers wird man die Vereinbarungen einhalten. 15. Für die Dauer der Friedensverhandlungen wird der Kaiser das Land des Papstes bzw. das von diesem dem König von Sizilien zu Lehen gegebene Gebiet nicht bekriegen, eine Sicherheit, die auch für den Fall des Abbruchs der Verhandlungen noch drei Monate lang gelten soll. — <span n="incipit"><hi rend="italic">Dominus imperator et</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dominus imperator et</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Gleichzeitige Kopie im Vatikanischen Archiv zu Rom, AA. Arm. I — XVIII 172, früher Arm. II. caps. I. n<hi rend="sup">o</hi>  8 (B). Drucke: Kehr, Anagni, NA 13 (1888) 109; MG.Const.1, 350 n<hi rend="sup">o</hi>  249; MG.DF.I.658.</p></div>
+				
+				
+					<div type="commentary"><p>Das verlorene, (vermutlich von den Unterhändlern) besiegelte Original dieses Vorvertrags, der jedenfalls in zwei Exemplaren — eines für den Papst, eines für den Kaiser — existierte, ist in D.659 (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-11-00_1_0_4_2_3_434_2206.html" type="internal" n="regesten">2206</ref>) erwähnt. — Zum Inhalt vgl. auch die im Original erhaltene Erklärung der kaiserlichen Gesandten (= Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-11-00_2_0_4_2_3_431_2203.html" type="internal" n="regesten">2203</ref>), mit der wohl eine analoge Erklärung der päpstlichen Unterhändler korrespondiert haben dürfte. — Zur Datierung vgl. auch die in der Vorbemerkung zum D. gebotenen Hinweise sowie Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1176-10-21_2_0_4_2_3_428_2200.html" type="internal" n="regesten">2200</ref>.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zu der Wiederaufnahme von Gesprächen zwischen dem Kaiserhof und der Kurie und deren ersten erfolgreichem Teilschritt mit dem (Vor-)Vertrag von Anagni vgl. zuletzt Schludi, Der Weg nach Anagni, MIÖG 110 (2002) 281 ff., der die aktive Rolle der Fürsten am Kaiserhof bei dem Bemühen um ein Ende des Schismas hervor streicht. – Zur Bedeutung der Erneuerung der Vater-Sohn-Beziehung zwischen Papst und Kaiser, die bereits im Vorfrieden von Anagni anklingt, vgl. Schludi, Advocatus sanctae Romanae ecclesiae, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 65–73.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0152" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_658" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._350" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

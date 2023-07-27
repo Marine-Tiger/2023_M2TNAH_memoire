@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 161</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-02-00_1_0_4_2_1_161_161"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-02-00_1_0_4_2_1_161_161"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-02-00_1_0_4_2_1_161_161</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236638" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 161</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-02-01" to="1153-02-28">1153 (Februar)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Besançon  (Bisuntii)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. 1 laut C.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Domkanoniker</hi>  <hi rend="spaced">Besançon</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des vermutlich zur Erlangung unseres Diploms gefälschten DH. III. 389 (VU.) wohl von A II. D geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln, Humbert von Besançon, die Bischöfe Ortlieb von Basel, Konrad von Worms, Hermann von Konstanz, Anselm von Havelberg, Abt Wibald von Corvey, Herzog Heinrich von Sachsen, die Markgrafen Hermann von Sachsen, Otakar von Steier, die Pfalzgrafen Otto von Wittelsbach, Friedrich von Tübingen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die Besitzungen der <span sameAs="recipient"><hi rend="spaced">Domkanoniker</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Besançon</hi> </span>  (<hi rend="italic">matris ecclesiae sancti Ioannis</hi>) in seinen Schutz, unterstellt sie ausschließlich seiner Vogtei, bestätigt ihnen die Freiheit der Orte Cully (<hi rend="italic">Cusliacum</hi>) und Riex (<hi rend="italic">Roaldum</hi>) von allen Abgaben an die Dienstmannen zu Lutry (<hi rend="italic">a ministris de Lustriaco</hi>), den Anteil an der Münze (<hi rend="italic">Tertiam etiam partem Bisuntinae monetae cum custodia ferramentorum, quibus ipsa cuditur, ita quod ipsi habeant mediam partem et archiepiscopus aliam et neutri parti sine alia cudere liceat</hi>) sowie das Geleitrecht in der Stadt (<hi rend="italic">conductum in civilate</hi>) und erneuert ihnen die Immunitätsverleihungen seiner Vorgänger bei Festsetzung einer Strafe von 70 Pfund für einen Freien bzw. ebensovielen Schlägen für einen Unfreien (<hi rend="italic">si liber est, septuaginta libris legalem bannum componat, si vero servus, tot ictus accipiat</hi>). <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln, Humbert von Besançon, die Bischöfe Ortlieb von Basel, Konrad von Worms, Hermann von Konstanz, Anselm von Havelberg, Abt Wibald von Corvey, Herzog Heinrich von Sachsen, die Markgrafen Hermann von Sachsen, Otakar von Steier, die Pfalzgrafen Otto von Wittelsbach, Friedrich von Tübingen</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Mogontini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung des vermutlich zur Erlangung unseres Diploms gefälschten DH. III. 389 (VU.) wohl von A II. D geschrieben</span>; <span n="seal">B. 1 laut C.</span> <span n="incipit"><hi rend="italic">Divina nos praecepta</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Divina nos praecepta</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des Kanonikus Chaillot (17. Jh.) in der Collection Chifflet Bd. 19 f. 35 der Stadtbibliothek Besançon (B); Abschrift des Kanonikus D' Orival von etwa 1620 im Ms. 710 f. 59 ebenda (C). Drucke: Stumpf, Acta ined. 154 n<hi rend="sup">o</hi>  124; MG. DF. I. 49. Reg.: Forel, Reg. de doc. de la Suisse Rom. n<hi rend="sup">o</hi>  556; Hidber 2, n<hi rend="sup">o</hi>  1996 zu Februar 15; Stumpf 3662.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den verlorenen Königsurkunden vgl. die Vorbemerkung zu DF. I. 49 und Herkenrath, in: WdF 390 (1975) 343. Bei den genannten <hi rend="italic">ministri</hi>  von Lutry handelt es sich nicht um königliche, wie das gefälschte DH. III. 389 angibt, sondern um solche des Bischofs von Lausanne, vgl. dazu die Urkunde Bischof Ortliebs von Basel von 1154 Juli 10, ed. Trouillat, Mon. de Bâle 1, 324 n<hi rend="sup">o</hi>  211; Sources du droit de Vaud B 1, ed. Anex-Cabanis- Poudret, Samml. Schweizer. Rechtsqu. 19, 1977, 33 n<hi rend="sup">o</hi>  39; Hidber 2, n<hi rend="sup">o</hi>  2008. Verschiedene stilistische Eigentümlichkeiten, aber auch die Androhung körperlicher Züchtigung unfreier Verletzer der Rechte der Kirche deuten darauf hin, daß es sich bei DF. I. 49 um Empfängerdiktat handelt. Die Goldbulle an Seidenfäden wird in C erwähnt.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze(2011):</hi>
+</p>
+<p>Wohl dieses DF.I. für die Domkanoniker von Besançon (<hi rend="italic">ecclesiae sancti Ioannis</hi>) wurde im Privileg Papst Lucius’ III. von 1185 Februar 5, Verona bestätigt, vgl. dazu Baaken – Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, Nr. 1460.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0057" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_49" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

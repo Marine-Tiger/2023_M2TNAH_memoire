@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2770</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-06-20_3_0_4_2_4_191_2770"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-06-20_3_0_4_2_4_191_2770"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-06-20_3_0_4_2_4_191_2770</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844125" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2770</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-06-20" to="1184-06-20">(1184)
+									Juni 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gelnhausen (<hi rend="italic">XII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iulii, apud Geilenheisen [!]</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Geschrieben von GL, von dem auch das kanzleigemäße Diktat 									stammen könnte, das sich allerdings nicht klar gegenüber den 									Notaren GG und GK abgrenzen lässt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt den <hi rend="spaced">Bürgern 									von Cambrai</hi> eine Reihe von Vorrechten, nämlich das Verbot 								für Kleriker, Ritter oder Dienstmannen (<hi rend="italic">clerico 									neque militi neque sarianto</hi>) ein zur Entrichtung der 								gemeinsamen (= städtischen) Lasten verpflichtetes Haus oder Erbgut 								zu kaufen, das Verbot für Bürger, ein Lehen zu kaufen, durch das man 								sich von den städtischen Lasten befreien kann, das Recht für 								Kleriker, Ritter oder Dienstmannen, ihr Erbgut unter ihresgleichen 								frei zu veräußern, die Verpflichtung für Bürger, die von diesen 								solch ein Gut kaufen, dafür mit der Stadt zu leiden, die freie 								Verfügung von Klerikern, Rittern oder Dienstmannen über ererbte 								Güter, die aber, wenn sie an einen Bürger gelangen, die städtischen 								Lasten zu tragen haben, und die Verpflichtung von Rittern, die 								Bürgertöchter heiraten, von dem durch diese Ehe erworbenen Erbe 								ebenfalls die städtischen Lasten zu tragen. –<span n="clerk"> 									Geschrieben von GL, von dem auch das kanzleigemäße Diktat 									stammen könnte, das sich allerdings nicht klar gegenüber den 									Notaren GG und GK abgrenzen lässt</span>; <span n="seal"> 									SP2.</span> 								<span n="incipit"><hi rend="italic">Prudentiam et 										circumspectionem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Prudentiam et 										circumspectionem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Lille (A). Faks.: 								Koch, Schrift der Reichskanzlei, Abb. 86. Drucke: Böhmer, Acta 								imp., 140 n<hi rend="sup">o</hi> 147 aus zwei Kopialbüchern; 								MG.DF.I.860. Reg.: Wauters, Table chronol. 2, 781; Diestelkamp 								– Rotter, Urkundenregesten 1, 373 n<hi rend="sup">o</hi> 474; 								Stumpf 4379.</p></div>
+				
+				
+					<div type="commentary"><p>Das D. belegt in geradezu exemplarischer Form das 								städtische Bemühen um Schutz der Einnahmen der bürgerlichen Gemeinde 								vor der Entfremdung von Gütern infolge von deren Übergang an 								nicht-bürgerliche Kreise. – Vgl. auch die bei Reg. 2768 gebotenen 								Hinweise.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_860" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

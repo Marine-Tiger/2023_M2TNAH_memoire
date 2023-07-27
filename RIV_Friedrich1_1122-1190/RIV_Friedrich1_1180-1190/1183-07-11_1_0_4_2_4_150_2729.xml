@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2729</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-07-11_1_0_4_2_4_150_2729"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-07-11_1_0_4_2_4_150_2729"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-07-11_1_0_4_2_4_150_2729</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2729</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-07-11" to="1183-07-11">1183
+									Juli 11 und wenige Tage darauf</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Schwaben  (vielleicht: Pfullendorf und Scheyern)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Während Friedrich in Schwaben weilt, stirbt Herzog 								Otto von Bayern in der Burg Pfullendorf, der darauf – seinem Wunsch 								gemäß – im Kloster Scheyern beigesetzt wird.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. Augustani min., MG. SS X, 9 (Tod Ottos 								von Bayern <hi rend="italic">in castro Phullendorf</hi>); Ann. s. 								Stephani Frisingensis, MG. SS XIII, 54.</p></div>
+				
+				
+					<div type="commentary"><p>Herzog Otto weilte noch am 20. Juni 1183 beim 								Kaiser in Konstanz (vgl. dazu seine Nennung als Zeuge in D. 851 = 								Reg. 2721). Schmid, Pfullendorf, 99 f., möchte den Hinweis auf den 								Aufenthalt des Kaisers in Schwaben auf die Burg Pfullendorf 								beziehen, vgl. dazu auch Opll, Itinerar, 221. – Am Tag des 								Begräbnisses Herzog Ottos (etwa um den 20. Juli) übereigneten dessen 								Sohn Ludwig und dessen Witwe Agnes in Scheyern eine in den letzten 								Lebenstagen seitens des Herzogs (<hi rend="italic">Otto dux Bawarie, 									huius loci advocatus, viam universę carnis ingressurus dedit 									nobis …</hi>) gemachte Schenkung an das Kloster an dieses, am 								selben Tag erhielt Scheyern auch von Graf Konrad (II.) von Valley 								eine Schenkung, wobei Herzog Friedrich von Schwaben und sein kleiner 								Bruder (wohl Philipp), die Söhne des Kaisers (<hi rend="italic">Fridericus dux Sueuię et frater eius tunc puerulus ambo filii 									Friderici imperatoris, …</hi>), als Zeugen erwähnt werden (Mon. 								Boica 10, 401; Stephan, Traditionen Scheyern [Qu. u. Erörterungen 								zur Bayer. Geschichte N.F. 36/1, 1986], 56 no 54). Angesichts der 								Präsenz der Kaisersöhne ist es durchaus denkbar, dass auch der 								Kaiser selbst am Begräbnis des Wittelsbachers teilgenommen hat, vgl. 								dazu Opll, Itinerar, 81 mit Anm. 86.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

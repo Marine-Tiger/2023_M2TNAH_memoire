@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3269</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-18_3_0_4_2_4_696_3269"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-18_3_0_4_2_4_696_3269"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-18_3_0_4_2_4_696_3269</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3269</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-18" to="1189-05-18">1189
+									Mai 18</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Wien (<hi rend="italic">XV kal. iunii, Wienne</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Iohannes imp. aule canc. in vice domini 										Chunradi Maguntini archiep. Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>bis auf die kanzleigemäße Fassung des 									Eschatokolls, das der damals allein nachweisbare Notar GK 									eingetragen oder zumindest beeinflusst haben könnte, Freisinger 									Empfängerdiktat, vermutlich jenem bischöflichen Schreiber 									z</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Otto von Freising, Dietpold von 									Passau und Heinrich von Bamberg, Herzog Berthold von Dalmatien, 									die Grafen Konrad von Peilstein, Albert von Bogen und Otto von 									Velburg, Burggraf Konrad von Nürnberg, Vogt Otto von Regensburg, 									Heinrich von Altendorf und Kraft von Anzenbach (<hi rend="italic">Amzinesbach</hi>); vom Freisinger Chor: Konrad 									Felixpuer und Propst Otto von Innichen (<hi rend="italic">Intycinensis</hi>); aus dem Kreis der Freisinger 									Ministerialen: Heinrich Felixpuer, Gerwich von Bogenhausen (<hi rend="italic">Pubenhusen</hi>), Otto von Waldeck, Friedrich 									von Parsberg (<hi rend="italic">Pastperch</hi>), Ulrich <hi rend="italic">Vertinch</hi> und Alban von Ellbach (<hi rend="italic">Elhpach</hi>); aus dem Kreis der Ministerialen 									des Herzogs von Österreich: Wichard von Seefeld, Hademar von 									Kuenring (<hi rend="italic">Chunringen</hi>), Lutwin von 									Sonnberg und Rudolf <hi rend="italic">Stubich</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Bistum 									Freising</hi> (<hi rend="italic">ecclesie beate virginis 									sanctique Corbiniani Frisinge</hi>) auf Bitten Bischof Ottos die 								ihm von Herzog Leopold (V.) von Österreich und dessen Sohn Friedrich 								(I.) aufgelassenen Reichsrechte, nämlich das Marchfutter, 								Landgericht und Burgwerk (<hi rend="italic">marhreht et lantgerihte 									et burchwerch</hi>) an den bischöflichen Dominikalgütern in 								Österreich, nämlich im Amt Großenzersdorf, in Ollern (<hi rend="italic">Alarn</hi>), Hollenburg und Ebersdorf. <span n="witnesses">Z.: die Bischöfe Otto von Freising, Dietpold von 									Passau und Heinrich von Bamberg, Herzog Berthold von Dalmatien, 									die Grafen Konrad von Peilstein, Albert von Bogen und Otto von 									Velburg, Burggraf Konrad von Nürnberg, Vogt Otto von Regensburg, 									Heinrich von Altendorf und Kraft von Anzenbach (<hi rend="italic">Amzinesbach</hi>); vom Freisinger Chor: Konrad 									Felixpuer und Propst Otto von Innichen (<hi rend="italic">Intycinensis</hi>); aus dem Kreis der Freisinger 									Ministerialen: Heinrich Felixpuer, Gerwich von Bogenhausen (<hi rend="italic">Pubenhusen</hi>), Otto von Waldeck, Friedrich 									von Parsberg (<hi rend="italic">Pastperch</hi>), Ulrich <hi rend="italic">Vertinch</hi> und Alban von Ellbach (<hi rend="italic">Elhpach</hi>); aus dem Kreis der Ministerialen 									des Herzogs von Österreich: Wichard von Seefeld, Hademar von 									Kuenring (<hi rend="italic">Chunringen</hi>), Lutwin von 									Sonnberg und Rudolf <hi rend="italic">Stubich</hi></span>. 									–<span n="chancellor"> 									<hi rend="italic">Iohannes imp. aule canc. in vice domini 										Chunradi Maguntini archiep. Germanie archicanc.</hi></span>; 									<span n="clerk">bis auf die kanzleigemäße Fassung des 									Eschatokolls, das der damals allein nachweisbare Notar GK 									eingetragen oder zumindest beeinflusst haben könnte, Freisinger 									Empfängerdiktat, vermutlich jenem bischöflichen Schreiber 									zuzuweisen, den Ruf, Studien zum Urkundenwesen der Bischöfe von 									Freising, 36 f., mit dem Notar und Kapellan Gottfried 									gleichsetzen möchte</span>.<span n="incipit"> 									<hi rend="italic">Imperialem nostram decet</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem nostram decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von etwa 1282 im Freisinger 								Kopialbuch Hochstift Freising Lit. 4 f. 60’, Hauptstaatsarchiv 								München (B); Abschrift von 1283–1304 im Liber ruber, ebenda Lit. 2 								f. 22’ (C); Abschrift des Transsumptes König Rudolfs I. von 1277 Mai 								21 (B.-Redlich Reg. 770), ebenda Lit. 4 f. 68 (D); Transsumpt des 								Transsumptes König Rudolfs durch Kaiser Karl IV. von 1361 April 7 								(B.-Huber Reg. 3621), zwei Originale, ebenda Urk. Fasz. 119, jetzt 								Hochstift Freising Urkunden 285 I, II (E<hi rend="sup">1</hi> und 									E<hi rend="sup">2</hi>). Drucke: Zahn, CD. 								Austriaco-Frisingensis, Font. rer. Austr. II/31, 121 n<hi rend="sup">o</hi> 122; Fichtenau – Dienst, UB. z. Gesch. der 								Babenberger 4/1, 205 n<hi rend="sup">o</hi> 892; 								MG.DF.I.1004. Reg.: Stumpf 4525.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung 								zum D. mit den Hinweisen auf Übereinstimmungen mit dem von dem 								erwähnten Freisinger Notar mundierten D.798 (Reg. 2552), und 								Herkenrath, Reichskanzlei 1181 bis 1190, 293. Über das 								Zusammenwirken zwischen der bischöflich-freisingischen und der 								Reichskanzlei bei der Ausfertigung von Diplomen für das Bistum vgl. 								Herkenrath, Miszellen, AfD 28 (1982) 238 f. – Zur Identifizierung 								des unter den Zeugen genannten Grafen Otto von Velburg(-Clam) 								(Oberösterreich) vgl. Plassmann, Struktur des Hofes, 289. Der 								gleichfalls unter den Zeugen genannte Vogt Otto von Regensburg ist 								mit Otto von Altlengbach identisch, vgl. Plassmann, a.a.O., 289 								sowie die Hinweise oben bei Reg. 3263. – Zur Vorgeschichte des D. 								ist darauf hinzuweisen, dass bereits Bischof Albert mit Herzog 								Heinrich II. von Österreich über diese Abgaben Verhandlungen geführt 								hatte (vgl. Fichtenau – Dienst, a.a.O., 161 no 812), und 1164 hatte 								Herzog Heinrich der Propstei Neustift bei Freising alle Abgaben, 								jedoch mit ausdrücklicher Ausnahme des Marchfutters und des 								Burgwerkes, erlassen (Fichtenau – Zöllner, UB. z. Gesch. der 								Babenberger 1, 50 no 35), vgl. dazu die Vorbemerkung zum D. – Zum D. 								vgl. Weltin, Entstehung der freisingischen Herrschaft 								Groß-Enzersdorf, in: Hochstift Freising. Beiträge zur 								Besitzgeschichte, hg. von H. Glaser (32. Sammelblatt d. Histor. 								Vereins Freising, 1990) 280 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. †1977</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-19_2_0_4_2_3_202_F1977"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1172-04-19_2_0_4_2_3_202_F1977"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1172-04-19_2_0_4_2_3_202_F1977</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426597587" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. †1977</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1172-04-19" to="1172-04-19">1172 April 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Würzburg">Würzburg</placeName>
+												<location><geo decls="#WGS">49.8, 9.9333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIII<hi rend="sup">o</hi>  kal. maii., Wirzeburc)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Unter Verwendung eines verlorenen Originals, von dem das echte Siegel stammt, die Datierung und wohl auch die Zeugennennungen herrühren, wobei sich aber weder Anklänge an das Kanzleidiktat noch an den Würzburger Urkundenstil der zweiten Hälfte des 12. Jh.</scribe>
+				
+				
+					<testis function="witnesses">Elekt Reinhard von Würzburg, Burggraf Boppo (von Würzburg), Rupert von Castell, Graf Hermann von Bergtheim, Konrad von Boxberg, Mundschenk Konrad und sein Bruder Ludwig, Truchseß Arnold, Boto, Schultheiß Billung (von Würzburg), Siegfried von <hi rend="italic">Sowensheim</hi>  (Sauernheim?), Volknand (von Würzburg), sein Bruder Gotebold, Beringer, Riwin und seine Söhne, Reinhard, Richard und seine Söhne, Eberhard, Engelhard, Gerhard, Ulrich (von Würzburg), Kraft, <hi rend="italic">Hartrohus</hi>  (Würzburger Ministeriale), Gebhard, Riwin der Jüngere und Otto</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <hi rend="spaced">Bewohner von Mainbernheim</hi>  (<hi rend="italic">villani in Bernheim</hi>), die sich mit ihrem Ort einstimmig (<hi rend="italic">unanimi consensu</hi>) mit einem jährlichen Weizenzins (<hi rend="italic">viginti quinque modios tritici</hi>) seiner Herrschaft unterstellt haben, gegen jegliche Gewaltherrschaft in seinen Schutz. <span n="witnesses">Z.: Elekt Reinhard von Würzburg, Burggraf Boppo (von Würzburg), Rupert von Castell, Graf Hermann von Bergtheim, Konrad von Boxberg, Mundschenk Konrad und sein Bruder Ludwig, Truchseß Arnold, Boto, Schultheiß Billung (von Würzburg), Siegfried von <hi rend="italic">Sowensheim</hi>  (Sauernheim?), Volknand (von Würzburg), sein Bruder Gotebold, Beringer, Riwin und seine Söhne, Reinhard, Richard und seine Söhne, Eberhard, Engelhard, Gerhard, Ulrich (von Würzburg), Kraft, <hi rend="italic">Hartrohus</hi>  (Würzburger Ministeriale), Gebhard, Riwin der Jüngere und Otto</span>. — <span n="clerk">Unter Verwendung eines verlorenen Originals, von dem das echte Siegel stammt, die Datierung und wohl auch die Zeugennennungen herrühren, wobei sich aber weder Anklänge an das Kanzleidiktat noch an den Würzburger Urkundenstil der zweiten Hälfte des 12. Jh. feststellen lassen, von einer Hand des späten 13. oder frühen 14. Jh. hergestellte Fälschung</span>. <span n="seal">SP.2.</span> <span n="incipit"><hi rend="italic">Noverit omnium imperii.</hi> </span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Noverit omnium imperii.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebl.Orig.: Hauptstaatsarchiv München, jetzt Staatsarchiv Würzburg, Würzburger Urkunden 1292 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 405 n<hi rend="sup">o</hi>  522; MG.DF.I.589. Regg.: Engel, Urkundenregesten z.Gesch.d.Städte des Hochstifts Würzburg 3 n<hi rend="sup">o</hi>  1; Stumpf 4133.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik vgl. die Vorbemerkung des D. — Zu dem Würzburger Ministerialen Hartrohus (Zeugenliste) sowie zu Ulrich (von Würzburg) vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 267, 275 und 276; bei Richard und seinen Söhnen (gleichfalls Zeugen) dürfte es sich nach Plassmann, a.a.O., 272 um Richard von Schweinshaupten (Kr. Haßberge) handeln.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1370003230" value="2013-05-31"></date><p n="author">Hans Friedrich Pfeiffer</p><p>Sowensheim ist Seinsheim. Schnurrer, <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Urkunden+Rothenburg" type="external" n="opac">UB Rothenburg</ref>, passim.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0077" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_589" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

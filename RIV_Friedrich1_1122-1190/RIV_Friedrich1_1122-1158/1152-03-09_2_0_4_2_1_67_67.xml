@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 67</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-09_2_0_4_2_1_67_67"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-03-09_2_0_4_2_1_67_67"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-03-09_2_0_4_2_1_67_67</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426235262" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 67</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-03-09" to="1152-03-09">1152 März 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Aachen">Aachen</placeName>
+												<location><geo decls="#WGS">50.7667, 6.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VII idus martii, Aqvisgrani)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. unkenntliche Reste.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Stablo</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung der DD. K. III. 5 (VU. I) und 40 (VU. II) geschrieben und in den wenigen selbständigen Teilen auch verfaßt von Wibald</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Köln und Hillin von Trier, die Bischöfe Heinrich von Lüttich, Friedrich von Münster, Otto von Freising, Ortlieb von Basel, Hermann (irrig: <hi rend="italic">Heinricus</hi>) von Konstanz, Markgraf Albrecht von Brandenburg, die Herzoge Heinrich von Sachsen, Matthäus von Oberlothringen, die Grafen Heinrich von Namur, Goswin von Valkenburg, Heinrich von Limburg (<hi rend="italic">Lemborch</hi>) und sein Bruder Gerard, Konrad von Dalhem</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Bitten Abt Wibalds dessen Kloster <span sameAs="recipient"><hi rend="spaced">Stablo</hi> </span>  gemäß den Verfügungen seiner genannten Vorgänger mit all seinen Besitzungen in seinen Schutz, bestätigt dem Reichskloster (<hi rend="italic">semper ad nostram successorumque nostrorum manum et servitium inconvulsa stabilitate permaneat et libertate sibi collata pacifice potiatur</hi>) alle Vorrechte und die alleinige Gerichtsbarkeit des Abtes innerhalb der Bannmeile und der Stadt Stablo; außerdem fügt er das Recht der Münzprägung, des Zolls und des Abhaltens öffentlicher Märkte in Stablo hinzu. <span n="witnesses">Z.: die Erzbischöfe Arnold von Köln und Hillin von Trier, die Bischöfe Heinrich von Lüttich, Friedrich von Münster, Otto von Freising, Ortlieb von Basel, Hermann (irrig: <hi rend="italic">Heinricus</hi>) von Konstanz, Markgraf Albrecht von Brandenburg, die Herzoge Heinrich von Sachsen, Matthäus von Oberlothringen, die Grafen Heinrich von Namur, Goswin von Valkenburg, Heinrich von Limburg (<hi rend="italic">Lemborch</hi>) und sein Bruder Gerard, Konrad von Dalhem</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici Moguntini archiep. et archicanc.</hi> </span>;<span n="clerk">in Wiederholung der DD. K. III. 5 (VU. I) und 40 (VU. II) geschrieben und in den wenigen selbständigen Teilen auch verfaßt von Wibald</span>; <span n="seal">SI. unkenntliche Reste.</span>  <span n="incipit"><hi rend="italic">Cum omnium dei</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum omnium dei</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Lüttich (A). Kop.: Transsumpt Kaiser Karls V. von 1553 März 16 ebenda (C). Drucke: Halkin-Roland, Recueil des chartes de Stavelot 1, 456 n<hi rend="sup">o</hi>  238; MG. DF. I. 1. Faks.: Zatschek, Wibald, MÖIG Erg.Bd. 10 (1928) Tafel I Schriftprobe. Reg.: Wauters, Table chronol. 2, 350; Stumpf 3615.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Wehlt, Reichsabtei und König (Veröff. d. M.-Planck-Inst. f. Gesch. 28, 1970) 227.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0026" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

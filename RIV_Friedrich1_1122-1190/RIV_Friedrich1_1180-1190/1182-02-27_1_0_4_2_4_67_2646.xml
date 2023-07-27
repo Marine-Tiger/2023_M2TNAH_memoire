@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2646</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-02-27_1_0_4_2_4_67_2646"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-02-27_1_0_4_2_4_67_2646"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-02-27_1_0_4_2_4_67_2646</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1461062004" value="2016-04-19"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2646</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-02-27" to="1182-02-27">1182
+									Februar 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Gelnhausen (<hi rend="italic">III</hi><hi rend="sup">a</hi><hi rend="italic"> kal. martii, Geilenhusen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich genehmigt ein Übereinkommen <hi rend="spaced">Erzbischof Wichmanns von Magdeburg</hi> mit dem <hi rend="spaced">Domkapitel</hi> seiner Kirche, wonach der Metropolit wegen der hohen Auslagen für den Dienst an Kirche und Reich mit Zustimmung des Kapitels, der Lehnsträger und der Ministerialen der Magdeburger Kirche zur Tilgung seiner Schulden aus dem Domschatz zwei goldene Kelche im Wert von 80 Mark Goldes und zwei silberne Kandelaber im Wert von etwa 100 Mark erhalten und bis zu deren Wiedererstattung der Magdeburger Kirche (dem Domkapitel) 300 Mark jährlicher Einkünfte, und zwar 236 Mark aus der Münze in Magdeburg und 64 Mark aus den Kammern in Halle (an der Saale), 								zugewiesen hat. – Unter Heranziehung der dasselbe Rechtsgeschäft betreffenden Urkunde Erzbischof Wichmanns von 1182 (Bierbach, UB. der Stadt Halle 1, 90 n<hi rend="sup">o</hi> 88; VU.) verfasst und geschrieben von HA (= Magdeburger erzbischöflicher Schreiber Friedrich A), wobei die letzten beiden Zeilen von derselben Hand mit dunklerer Tinte geschrieben sind; SP.2. <hi rend="italic">Quoniam quidem rationi.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam quidem rationi.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Magdeburg (jetzt: 								Landeshauptarchiv Sachsen-Anhalt, Abteilung Magdeburg) 								(A). Drucke: Israël – Möllenberg, UB. Erzstift Magdeburg 1, 500 									n<hi rend="sup">o</hi> 381; Bierbach, UB. der Stadt Halle 1, 91 									n<hi rend="sup">o</hi> 89; MG.DF.I.822. Reg.: Stumpf 4336.</p></div>
+				
+				
+					<div type="commentary"><p>Auf dem Rücken des Originals findet sich ein 								Dorsualvermerk des 13. Jhs.: <hi rend="italic">Friderici imperatoris 									de restituendis II calicibus et II candelabris.</hi> – Das 								Siegel ist an weißer Leinenschnur befestigt, was zeigt, dass HA mit 								dem Kanzleibrauch nicht entsprechend vertraut war. – Wichmann hatte 								sich in der von ihm selbst ausgestellten Urkunde verpflichtet, die 								kaiserliche Bestätigung bis zum Sonntag Laetare (7. März 1182) 								einzuholen. – An dieser Stelle sei auf die jüngst erschienenen 								Ausführungen zur Pfalz Gelnhausen von Forster, Gelnhausen, in: Die 								Staufer und Italien, Bd. 2: Objekte (2010) 98, hingewiesen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_822" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

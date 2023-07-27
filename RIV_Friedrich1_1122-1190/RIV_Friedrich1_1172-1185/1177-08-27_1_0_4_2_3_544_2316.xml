@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2316</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-27_1_0_4_2_3_544_2316"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-27_1_0_4_2_3_544_2316"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-27_1_0_4_2_3_544_2316</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1453293633" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2316</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-27" to="1177-08-27">1177 August 27</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">im Dogenpalast zu Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI kal. septembris, apud Venecias in palacio ducis)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">Patriarch Udalrich von Aquileia, die Erzbischöfe Christian von Mainz und Philipp von Köln, Elekt Konrad von Worms, Protonotar Wortwin, Bischof Drudo von Feltre, Graf Florentius von Holland, Rupert von Walldürn, die Markgrafen Konrad von Montferrat und Obizo von Este, die Grafen Schinella von Treviso, Heinrich von Eppan und dessen Neffe Ulrich, Graf Uguccio von Vicenza, Garzapan von Verona, Gabriel, der Sohn des Wezel von Camino, Gerardinus de Camposampiero, Willelminus Tempesta, Heinricus Theutonicus und Cavalcasella von Castello d'Agogna</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt auf Intervention der Markgrafen Albert, Obizo und Bonifaz von Este sowie seines Bruders, des Priors Pistor von <hi rend="spaced">S. Maria delle Carceri</hi>, dieses Stift mit den angeführten Besitzungen in seinen Schutz und bestätigt ihm die Herrschaftsrechte (<hi rend="italic">sine aliqua vexatione in bannis, fodris, placitis, districtis, arimaniis et cum omni honore</hi>) sowie die Freiheit von jedweden Abgaben unter Vorbehalt der kaiserlichen Gerechtsame. <span n="witnesses">Z.: Patriarch Udalrich von Aquileia, die Erzbischöfe Christian von Mainz und Philipp von Köln, Elekt Konrad von Worms, Protonotar Wortwin, Bischof Drudo von Feltre, Graf Florentius von Holland, Rupert von Walldürn, die Markgrafen Konrad von Montferrat und Obizo von Este, die Grafen Schinella von Treviso, Heinrich von Eppan und dessen Neffe Ulrich, Graf Uguccio von Vicenza, Garzapan von Verona, Gabriel, der Sohn des Wezel von Camino, Gerardinus de Camposampiero, Willelminus Tempesta, Heinricus Theutonicus und Cavalcasella von Castello d'Agogna</span>. — <span n="chancellor"><hi rend="italic">Gotefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; unter Übernahme von Pönformel, Corroboratio und des Anfangs der Zeugenankündigung aus dem Vertrag mit Venedig (DF.I.695 = Reg. 2302) verfaßt von Burkhard und wohl von ihm oder dem eng mit ihm kooperierenden Kanzleinotar GG geschrieben. <span n="incipit"><hi rend="italic">Si Christi ecclesiis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si Christi ecclesiis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh., Gennari, Raccolti di documenti di Padova I/II (Cod. DLXXXIV) n<hi rend="sup">o</hi>  1426, Biblioteca del Seminario vescovile zu Padua (D); Abschrift des 18. Jh. Büste Perini n<hi rend="sup">o</hi>  26 fasc. V f. 3', Stadtbibliothek Verona (E); Abschrift des 18. Jh., Brunatii diplomata Patavina, Cod. CL. X 199 f. 272, Biblioteca Marciana zu Venedig (F); Fontanini LXXIII (Varia manuscripta) p. 470, Biblioteca comunale zu S. Daniele del Friuli (G). Drucke: Muratori, Ant.Ital. 1, 733 aus A (m); MG.DF.I.701. Regg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, 51 n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/e95b122b-82d8-4567-8b62-028e262208a2.html" type="internal" n="regesten">163</ref>; Stumpf 4219.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. auch vgl. MG.DDF.I. Band 5, S. 283 (Nachträge und Berichtigungen zur Gesamtausgabe). — Die Kanoniker von S. Maria delle Carceri feierten später das Anniversar des Kaisers am 27. August, also am Ausstellungstag des 1177 erhaltenen Diploms, vgl. dazu Mittarelli — Costadoni, Ann. Camaldulenses 4, lib. 32, 68.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0197" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_701" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

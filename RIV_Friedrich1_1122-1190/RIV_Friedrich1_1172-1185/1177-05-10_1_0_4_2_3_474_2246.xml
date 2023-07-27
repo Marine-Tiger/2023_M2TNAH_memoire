@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2246</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-10_1_0_4_2_3_474_2246"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-05-10_1_0_4_2_3_474_2246"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-05-10_1_0_4_2_3_474_2246</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069798" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2246</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-05-10" to="1177-05-10">1177 Mai 10 und folgende Tage</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die in Ferrara (vgl. Reg. 2244) begonnenen Friedensverhandlungen werden seitens der dort nominierten Ausschüsse in Venedig intensiv fortgeführt. Von den Teilnehmern werden auf kaiserlicher Seite namentlich die Erzbischöfe Christian von Mainz, Philipp von Köln und Wichmann von Magdeburg, auf lombardischer Seite der Mailänder Richter Girardus de Pesta (hier: <hi rend="italic">Cunradus Cagapistus</hi>) angeführt. Anwesend sind auch Erzbischof Romuald von Salerno und Graf Roger von Andria als Gesandte des Königs von Sizilien sowie der Doge und Gesandte der Könige von Frankreich und England. Christian von Mainz erhebt während einer Verhandlungsrunde in der Kapelle des Patriarchenpalastes die Forderung, die Lombarden sollten ihm hinsichtlich der Regalien und der in Händen des Papstes befindlichen Reichsrechte Gerechtigkeit widerfahren (<hi rend="italic">iustitiam facere</hi>) lassen und entweder die von den Bologneser Richtern in Roncaglia erlassene Sentenz (Regg. 617 bis 619) ausführen oder dem Kaiser das leisten, was früher üblich war. Girardus Pesta von Mailand weist dies zurück. Des weiteren üben die kaiserlichen Unterhändler Kritik an einigen Punkten des hier vorgelegten Vertrages von Montebello (Reg. 2135), der in einigen Punkten abgeändert werden soll, teilweise sogar abgelehnt wird. Die Lombarden widersetzen sich aber und berufen sich auf das Zeugnis der Cremonesen, obwohl ihnen diese feindlich gegenüberstehen. Nach mehreren Tagen fruchtloser Diskussionen berichtet man dem Papst, der daraufhin statt eines Friedens einen Waffenstillstand auf sechs Jahre vorschlägt. Für Sizilien schlägt er den Deutschen entweder den Abschluß eines Friedens oder einen Waffenstillstand zumindest auf 15 Jahre vor. Christian von Mainz begibt sich daraufhin zum Kaiser, um sich mit diesem zu beraten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 275 ff.; De pace Veneta relatio, MG. SS XIX, 462; Hist. ducum Venet, MG. SS XIV, 83; Ann. Med. brevium, ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 73; vgl. Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1069.</p></div>
+				
+				
+					<div type="commentary"><p>Die Rolle des Venezianer Dogen bei den Friedensverhandlungen wird in der Hist. ducum Venet, MG. SS XIV, 82 in einer zeitlich nicht völlig klar einzuordnenden Nachricht unterstrichen. — Zu den Verhandlungen vgl. Giesebrecht, Kaiserzeit V, 824 ff. — In einer am 9. Mai 1177 am Rialto zu Venedig <hi rend="italic">in domo Filippi Basilli</hi>  ausgestellten Urkunde des Wezel von Camino für die Klöster S. Maria di Pomposa und S. Andrea di Bosco, ed. Lanfranchi, in: Fonti per la Storia di Venezia sez. II. Archivi ecclesiastici, Diocesi Castellana 2, 137 n<hi rend="sup">o</hi>  380, heißt es bei der Angabe der Datierung: ... <hi rend="italic">tempore quod domnus Alexander papa expectatur Veneciam et imperator Friedericus similiter expectatur Veneciam ad faciendam pacem et concordiam</hi>...</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0167" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

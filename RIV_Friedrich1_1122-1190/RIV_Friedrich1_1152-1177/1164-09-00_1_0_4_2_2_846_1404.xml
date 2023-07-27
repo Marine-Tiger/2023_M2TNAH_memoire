@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1404</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-00_1_0_4_2_2_846_1404"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-09-00_1_0_4_2_2_846_1404"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-09-00_1_0_4_2_2_846_1404</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1415630168" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1404</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-01-01" to="1164-09-30">(1164 vor Ende September)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(-)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Chiaravalle</hi> unter Abt Petrus (richtig wohl: Trasimundus)</recipient>
+				
+				
+				
+					<scribe>Unter Heranziehung von DF. I. 101 (Reg. 291) oder DF. I. *460 (Reg. 1403) verfaßt von CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Zisterzienserkloster <span sameAs="recipient"><hi rend="spaced">Chiaravalle</hi> </span>  unter Abt Petrus (richtig wohl: Trasimundus) mit seinen Besitzungen und Rechten in seinen Schutz 〈und befreit es vom Kalumnieneid, von den Rechtsgewohnheiten der Städte Mailand und Pavia sowie vom gerichtlichen Zweikampf.〉 - <span n="clerk">Unter Heranziehung von DF. I. 101 (Reg. 291) oder DF. I. *460 (Reg. 1403) verfaßt von CE</span>. <span n="incipit"><hi rend="italic">Ex quo creator altissimus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ex quo creator altissimus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Empfängerentwurf für das DF. II. B.-Ficker Reg. 1643 von 1226 Juli auf einem Einzelpergamentblatt, Staatsarchiv Mailand (C). Drucke: Stumpf, Acta ined. 551 n<hi rend="sup">o</hi>  390; MG. DF. I. 461. Reg.: Stumpf 4567a zu ca. 1186.</p></div>
+				
+				
+					<div type="commentary"><p>Der Empfänger ist das von Bernhard von Clairvaux gegründete Zisterzienserkloster Chiaravalle südlich bei Mailand. Die in spitze Klammern gesetzten Teile sind spätere Hinzufügungen (für das DF. II.), die wohl nicht im DF. I. standen. Der Name des Abtes - Petrus - gehört in die Zeit Friedrichs II., er steht auf Rasur über Bonus Iohannes, der Abt zur Zeit Ottos IV. (vgl. B.-Ficker Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1156-05-10_1_0_4_2_1_396_394.html" type="internal" n="regesten">394</ref>) war; im DF. I. muß hier Trasimundus gestanden sein. - Die zeitliche Einordnung resultiert aus der Diktatbestimmung, vgl. dazu Herkenrath, Zwei Notare, MIÖG 73 (1965) 258, Riedmann, Reichskanzlei, MIÖG 76 (1968) 54 sowie Zinsmaier, Die Urkunden Philipps von Schwaben und Ottos IV. 75.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0224" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

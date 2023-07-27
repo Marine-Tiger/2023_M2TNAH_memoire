@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3135</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-02_2_0_4_2_4_560_3135"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-02-02_2_0_4_2_4_560_3135"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-02-02_2_0_4_2_4_560_3135</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3135</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-02-02" to="1187-02-02">(1187
+									Dezember – 1188 vor Februar 2)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>(Friedrich) warnt seinen Sohn (<hi rend="spaced">König Heinrich VI.</hi>) in Beantwortung von dessen Schreiben 								(Reg. †3134) vor der vorgetäuschten Vertraulichkeit (<hi rend="italic">verba fictę familiaritatis</hi>) des (Erz)bischofs 								(Philipp) von Köln, erinnert ihn an dessen gegen die königliche Ehre 								gerichteten Machenschaften, vor allem die jüngst gemeinsam mit den 								Königen (Heinrich) von England und (Knut) von Dänemark, H(einrich 								dem Löwen) von B(raunschweig) sowie Graf (Philipp) von Flandern zu 								seinem sowie des gesamten Reiches Schaden unternommenen Aktivitäten. 								Er befiehlt ihm, sich von der Freundschaft zum Kölner loszusagen, 								damit die übrigen Fürsten sich diesem nicht anschließen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fingiertes Schreiben, Jüngere Hildesheimer 								Briefsammlung, ed. de Kegel, MG. Briefe VII, 120 n<hi rend="sup">o</hi> 70; Regest bei Diestelkamp – Rotter, Urkundenregesten 1, 								389 n<hi rend="sup">o</hi> 495.</p></div>
+				
+				
+					<div type="commentary"><p>Zur zeitlichen Einordnung sowie zum historischen 								Gehalt vgl. die ausführlichen Erläuterungen bei de Kegel, a.a.O., 								121 f. Anmm. 1–7; vgl. des Weiteren auch Reg. †3089.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

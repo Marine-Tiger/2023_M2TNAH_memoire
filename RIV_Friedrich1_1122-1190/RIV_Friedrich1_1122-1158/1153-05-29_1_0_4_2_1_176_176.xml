@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 176</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-05-29_1_0_4_2_1_176_176"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-05-29_1_0_4_2_1_176_176"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-05-29_1_0_4_2_1_176_176</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236843" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 176</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-05-29" to="1153-05-29">1153 Mai 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Heiligenstadt">Heiligenstadt</placeName>
+												<location><geo decls="#WGS">51.3833, 10.15</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII kal. iun., Heiligenstat)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Fredelsloh</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung des DK. III. 149 (VU.), bis auf das von A II. D stammende Monogramm, von einem Empfängerschreiber mundiert, der auch DF. I. 57 (Reg. 177) schrieb;</scribe>
+				
+				
+					<testis function="witnesses">Bischof Konrad von Augsburg, Propst Gottschalk (von Heiligenstadt), Notar Heinrich, die Kapelläne Hartwich (Domkantor und Propst von St. Johann zu Mainz), Reinbert, Jordan und Heribert, Herzog Heinrich (von Sachsen), die Grafen Rudolf von Bregenz und Otto von Ravensberg, Markward von Grumbach, Reinboto von Röckingen, die Ministerialen Gerwich von Kiffhausen (<hi rend="italic">Cuphese</hi>), Kapellar Friedrich, Kapellar Widekind und Kapellar Azzo</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Bitten des &amp;quot;Bruders&amp;quot; Johannes (des Stiftsverwalters) dem Stift <span sameAs="recipient"><hi rend="spaced">Fredelsloh</hi> </span>  (<hi rend="italic">cenobium Fridessele</hi>) in Erneuerung der Verfügungen Konrads (III.) als Seelgerät die dem Reich gehörige Kapelle Grone, den Königsschutz, die ausschließliche Unterstellung unter die königliche Vogtei (<hi rend="italic">ne advocatum aliquem preter nos nostrosque successores reges seu imperatores predictus locus habeat</hi>) und fügt selber die Schenkung zweier Hufen mit dem Ertrag von 20 Solidi, sowie einer Mühle mit 4 Solidi Ertrag in Roßdorf (<hi rend="italic">R잒sthorp</hi>) hinzu. <span n="witnesses">Z.: Bischof Konrad von Augsburg, Propst Gottschalk (von Heiligenstadt), Notar Heinrich, die Kapelläne Hartwich (Domkantor und Propst von St. Johann zu Mainz), Reinbert, Jordan und Heribert, Herzog Heinrich (von Sachsen), die Grafen Rudolf von Bregenz und Otto von Ravensberg, Markward von Grumbach, Reinboto von Röckingen, die Ministerialen Gerwich von Kiffhausen (<hi rend="italic">Cuphese</hi>), Kapellar Friedrich, Kapellar Widekind und Kapellar Azzo</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc.</hi> </span>; <span n="clerk">in Wiederholung des DK. III. 149 (VU.), bis auf das von A II. D stammende Monogramm, von einem Empfängerschreiber mundiert, der auch DF. I. 57 (Reg. 177) schrieb;</span> <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Si antecessorum nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si antecessorum nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Hannover (A). Druck : MG. DF. I. 56. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  51; Stumpf 3669.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Rekognition vgl. die Vorbemerkung von DF. I. 56. Zu den Kapellänen Jordan und Heribert vgl. Hausmann, Reichskanzlei 302 und 265. Zum politischen Hintergrund dieses Aufenthaltes im Eichsfeld vgl. Büttner, Heinrich von Mainz, ZKG 69 (1958) 266 f. und jetzt auch Jordan, Oberweser und Leine, (FS. Heimpel 2 = Veröff. d. M.-Planck-Inst. f. Gesch. 36/2, 1972) 1052 ff. Zu Fredelsloh vgl. Stimming, Mainz (Qu. u. Forsch. zur hess. Gesch. 3, 1915) 51 und 68 f., Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 318 Anm. 8 und Gramatzki, Stift Fredelsloh (Stud. zur Einbecker Gesch. 5, 1972) 38, 40 und 47. Zum Inhalt vgl. auch die Bestätigung durch Erzbischof Arnold von Mainz im Jahre 1155 (Mainzer UB. 2/1, 378 n<hi rend="sup">o</hi>  209).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0063" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210042%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_56" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

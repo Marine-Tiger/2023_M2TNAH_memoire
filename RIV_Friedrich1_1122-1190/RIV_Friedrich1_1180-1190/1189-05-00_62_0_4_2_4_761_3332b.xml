@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. †3332b</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_62_0_4_2_4_761_3332b"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_62_0_4_2_4_761_3332b"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_62_0_4_2_4_761_3332b</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. †3332b</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1189-05-31">(1155
+									Juni 18 –1189 Ende Mai, vielleicht 1176 nach September
+									17)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Metropolit Georg von Korfu schreibt an Kaiser 								Friedrich (<hi rend="italic">Regi Regum, Imnperatorum Imperatori, 									nouo Dauid nouo Salomoni a Deo coronato, semper colendo, semper 									Augusto spirituali filio, domino Friderico</hi>), er habe dessen 								Schreiben (Reg. †3332a), das ihm wegen seiner Unkenntnis der 								lateinischen Sprache durch den kaiserlichen Untertanen, Richter und 								Magister Thomas, erläutert worden sei, erhalten. Er bittet ihn, die 								auf Korfu erhobenen Ansprüche, nicht zuletzt aus Rücksicht auf 								seinen Herrn, (Kaiser) Manuel Komnenos (<hi rend="italic">dominum 									meum filium cognatum Imperii tui excelsum notissimum 									Comnenoducam Emanuelem</hi>) fallen zu lassen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Baronius, Annales ecclesiasticae XII (1607) 								682 B–E.</p></div>
+				
+				
+					<div type="commentary"><p>Baronius (a.a.O., 682 A) beruft sich darauf, dass 								er dieses (und andere) Schreiben des Metropoliten Georg von Korfu 								durch die Übersendung einer lateinischen Übersetzung aus einem Codex 								im Besitz des Bischofs Federico Mezio von Termoli (1601–1612) 								erhalten habe. Einen Hinweis auf diesen Briefverkehr bietet 								Giesebrecht, Kaiserzeit 5, 874 Anm., sowie Giesebrecht – Simson, 								Kaiserzeit 6, 554 f., der keine Datierung anbietet. Zur Situation 								der byzantinischen Kirche unter den Komnenen vgl. jedenfalls Angold, 								Church and Society (1995). – Im Hinblick auf die Bewertung dieses 								Schreibens bin ich Herrn Kollegen Otto Kresten (Österreichische 								Akademie der Wissenschaften) zu großem Dank verpflichtet. Er teilte 								mir mit Mail vom 6. August 2010 mit, dass in der Literatur für die 								Zeit “1177-1181” für Kerkyra/Korfu ein Metropolit Georgios 								(angeblich mit Beinamen Kupharas, französisch meistens Coupharas 								transkribiert) genannt werde (vgl. etwa Fedalto, Hierarchia 								ecclesiastica orientalis I., 478; mit einem Verweis auf eine<hi rend="italic"> vox </hi>im Dictionnaire d’Histoire et de 								Géographie écclésiastique XIII, die aber keinen Quellenbeleg gibt 								und vermutlich ausschließlich auf Baronius fußt). Dieser „Georgios“ 								werde auch als „antilateinischer Polemiker“ geführt, wobei es 								freilich sicher sein dürfte, daß er nicht mit einem etwas älteren 								Metropoliten Georgios (Choniates) von Kerkyra, sondern mit dem dem 								13. Jahrhundert angehörigen, gut belegten Metropoliten Georgios 								(Bardanes) von Kerkyra gleichzusetzen ist (vgl. Beck, Kirche und 								theologische Literatur im byzantinischen Reich, 702; vgl. auch Byz. 								Zs.15 [1906] 603 ff., und Byz. Zs. 16 [1907] 120 ff.). In den 								Ausführungen zur Kirchengeschichte von Kerkyra bei Soustal – Koder, 								Nikopolis und Kephallenia, 178 ff., gibt es keine Hinweise zu 								Metropoliten des 12. Jahrhunderts. In Summe könne kein sicherer 								Nachweis für die Existenz dieses Georgios in der Zeit Friedrichs I. 								erbracht werden. Dazu komme noch, dass es völlig undenkbar sei, dass 								ein byzantinischer Metropolit der Regierungszeit des Kaisers Manuel 								I. Komnenos den staufischen Kaiser Friedrich I. mit Ehrentiteln, wie 								sie im vorliegenden Schreiben gebraucht werden, bezeichnet hätte. 								Somit muss es sich bei diesem Text um eine Fälschung handeln, 								vielleicht im Stil eines Briefmusters; sie könnte noch aus 								(spät-)staufischer Zeit stammen. – Will man dieses fiktive Geschehen 								zeitlich etwas genauer einordnen, so könnte es – Baronius setzt es 								ja zum Jahr 1176 – als eine – freilich fiktive – Folgewirkung der 								schweren Niederlage des byzantinischen Kaisers bei Myriokephalon am 								17. September 1176 (vgl. dazu die RI Bd. 3, Regg. 2221 und 2222) 								aufgefasst werden. –– Baronius überliefert auch noch ein weiteres – 								wohl gleichfalls fiktives – Schreiben des Metropoliten an Kaiser 								Friedrich I., siehe dazu Reg. 3332c.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

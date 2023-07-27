@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2302</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-17_1_0_4_2_3_530_2302"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-08-17_1_0_4_2_3_530_2302"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-08-17_1_0_4_2_3_530_2302</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1456306571" value="2016-02-24"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2302</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-08-17" to="1177-08-17">1177 August 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">im Dogenpalast zu Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XVI kal. septembr., apud Venetias in palacio ducis)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefredus canc. vice Philippi Coloniensis archyep. et Italici regni archicanc.</hi></notarius>
+				
+				
+				
+					<testis function="witnesses">die Patriarchen Udalrich von Aquileia und Heinrich von Grado, die Erzbischöfe Christian von Mainz, Philipp von Köln, Arnold von Trier und Wichmann von Magdeburg, Bischof Hartwig von Augsburg, Elekt Konrad von Worms, Protonotar Wortwin, Sebastianus Ziani, Doge von Venedig, die Grafen Florentius von Holland und Heinrich von Diez, Markgraf Dietrich von Landsberg und sein Bruder Graf Dedo (von Groitzsch), Markgraf Konrad (von Lützelhardt) von Ancona, Graf Hu(m)bert von Biandrate, Markgraf Konrad von Montferrat, Petrus Traversarius von Ravenna, der Ferrarese Taurellus</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert dem Dogen Sebastianus Ziani den <hi rend="spaced">Vertrag mit den Venezianern</hi>  (DF.I.94 = Reg. 263) und gewährt denselben zusätzlich Freiheit von allen Abgaben im Reich (<hi rend="italic">liberi sint ab omni exactione et dacione</hi>). <span n="witnesses">Z.: die Patriarchen Udalrich von Aquileia und Heinrich von Grado, die Erzbischöfe Christian von Mainz, Philipp von Köln, Arnold von Trier und Wichmann von Magdeburg, Bischof Hartwig von Augsburg, Elekt Konrad von Worms, Protonotar Wortwin, Sebastianus Ziani, Doge von Venedig, die Grafen Florentius von Holland und Heinrich von Diez, Markgraf Dietrich von Landsberg und sein Bruder Graf Dedo (von Groitzsch), Markgraf Konrad (von Lützelhardt) von Ancona, Graf Hu(m)bert von Biandrate, Markgraf Konrad von Montferrat, Petrus Traversarius von Ravenna, der Ferrarese Taurellus</span>. — <span n="chancellor"><hi rend="italic">Gotefredus canc. vice Philippi Coloniensis archyep. et Italici regni archicanc.</hi> </span>; in Wiederholung von DF.I.94 (Reg. 263, VU.) mit geringfügiger Benützung des DL.III.97 wohl geschrieben von Burkhard oder dessen Helfer Gottfried G. <span n="incipit"><hi rend="italic">Quoniam stabilem christianorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam stabilem christianorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des Notars Pascalis Maurus vom Jahre 1192, Miscellanea, Atti diplomatici e privati b. 1, n<hi rend="sup">o</hi>  42, Staatsarchiv Venedig (B); Abschrift vom Ende des 13. Jh. im Liber pactorum 1, f. 8', ebenda (C); Abschrift vom Beginn des 14. Jh. im Liber pactorum 2, f. 80', ebenda (D); Abschrift des 14. Jh. im Liber blancus f. 42', ebenda (E). Drucke: MG.Const.1, 374 n<hi rend="sup">o</hi>  274; MG.DF.I.695. Regg.: <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/b3120dc8-c884-46ef-a470-74662c409538.html" type="internal" n="regesten">156</ref>; Stumpf 4210.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch die Friedensurkunde mit Venedig vom September 1177 (DF.I.708 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-09-00_1_0_4_2_3_554_2326.html" type="internal" n="regesten">2326</ref>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0192" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_695" type="external" n="unkown">Druck in den MGH Diplomata</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_Const._1_S._374" type="external" n="unkown">Druck in den MGH Const.</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

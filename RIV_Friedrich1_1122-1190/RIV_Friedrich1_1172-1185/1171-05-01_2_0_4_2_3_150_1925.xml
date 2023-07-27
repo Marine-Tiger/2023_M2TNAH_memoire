@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1925</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-05-01_2_0_4_2_3_150_1925"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1171-05-01_2_0_4_2_3_150_1925"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1171-05-01_2_0_4_2_3_150_1925</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1415631419" value="2014-11-10"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1925</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1171-05-01" to="1171-05-01">1171 Mai 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Giengen</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(kal. maii, apud Giengen)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Heinricus imperialis aulę canc. vice Christiani Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>wohl weitgehend — bis auf die Anordnung des Eschatokolls — von UB verfaßt, bis auf die von HD eingetragene Elongata der ersten Zeile außerhalb der Kanzlei geschrieben</scribe>
+				
+				
+					<testis function="witnesses">die Äbte Siegfried von Anhausen, Heinrich von Lorch, Hartmann von Echenbrunn und Theoderich von Donauwörth, die Pröpste Wortwin von Wettenhausen, Gerung von Roggenburg, Grim von Ursberg und Albert von Heiligenkreuz (zu Augsburg), die Grafen Otto von (Ober-)Kirchberg, Theobald von Lechsgemünd und Ludwig von Helfenstein, Degenhard von Hellenstein, Diemo und sein Bruder Gottfried von Gundelfingen, Arnold von Biberbach, Anselm von <hi rend="italic">Duringheim</hi>  (Türkheim?), Mundschenk Konrad, Folknand von Hohenstaufen und Diepold Gusse</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich entfernt in <hi rend="spaced">Herbrechtingen</hi>  (<hi rend="italic">in loco Herbrehtingin prope fluvium Brencę</hi>) die dortigen Weltgeistlichen (... <hi rend="italic">seculares clericos, qui ordinem et cultum speculativę vitę nimium excesserant, spontanea et voluntaria eorum deliberatione competenter amovimus</hi>...) und ersetzt sie mit Zustimmung Bischof Konrads von Augsburg sowie des Klerus und der Ministerialen dieses Bistums durch <hi rend="spaced">Augustiner-Chorherren</hi>  aus Hördt unter Führung des Propstes Adelbert, bestätigt und erweitert die Besitzungen und Rechte dieser Kirche, wobei er selbst einen Hof zu Herbrechtingen, den er von der Augsburger Kirche zu Lehen trägt, übergibt, eine Reihe von Lehen und Gütern für diese Kirche käuflich erwirbt und an sie überträgt und seinen Söhnen und Erben die Investiturrechte hinsichtlich der Propstei vorbehält, da er über Herbrechtingen als Lehen von Seiten der Augsburger Kirche verfügt, spricht Bischof Konrad jeglichen Einfluß auf die Einsetzung des Propstes ab und legt hinsichtlich der Propstwahl fest, daß bei Uneinigkeit sein Sohn bzw. der Erbe, der dieses Augsburger Kirchenlehen innehat, als Vermittler eingeschaltet werden soll. <span n="witnesses">Z.: die Äbte Siegfried von Anhausen, Heinrich von Lorch, Hartmann von Echenbrunn und Theoderich von Donauwörth, die Pröpste Wortwin von Wettenhausen, Gerung von Roggenburg, Grim von Ursberg und Albert von Heiligenkreuz (zu Augsburg), die Grafen Otto von (Ober-)Kirchberg, Theobald von Lechsgemünd und Ludwig von Helfenstein, Degenhard von Hellenstein, Diemo und sein Bruder Gottfried von Gundelfingen, Arnold von Biberbach, Anselm von <hi rend="italic">Duringheim</hi>  (Türkheim?), Mundschenk Konrad, Folknand von Hohenstaufen und Diepold Gusse</span>. — <span n="chancellor"><hi rend="italic">Heinricus imperialis aulę canc. vice Christiani Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">wohl weitgehend — bis auf die Anordnung des Eschatokolls — von UB verfaßt, bis auf die von HD eingetragene Elongata der ersten Zeile außerhalb der Kanzlei geschrieben</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Cum apud fontem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Cum apud fontem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv St. Paul im Lavanttal (A). Drucke: Wirtemberg.UB. 2, 162 n<hi rend="sup">o</hi>  394; MG.DF.I.577. Reg.: Stumpf 4123.</p></div>
+				
+				
+					<div type="commentary"><p>Nach der Nennung des bereits am 24. November 1167 verstorbenen Bischofs Konrad von Augsburg (vgl. oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1167-08-02_1_0_4_2_2_1142_1697.html" type="internal" n="regesten">1697</ref>) muß der Ausstellung dieses Diploms eine Rechtshandlung noch zu dessen Lebzeiten vorausgegangen sein. — In einem Schreiben Propst K(onrads) und des gesamten Konvents von Herbrechtingen an König R(udolf von Habsburg) von (1274 — 1276) werden Aussagen von Priestern und Bürgern von Giengen angeführt, nach denen das von Kaiser Friedrich I. gegründete Stift dem Schutz Gottfrieds von Wolfach anvertraut wurde, der die Vogtei jedoch aus finanziellen Nöten an Graf Hartmann von Dillingen verkaufte, vgl. Diestelkamp — Rodel, Urkundenregesten 3, 91 n<hi rend="sup">o</hi>  111. — Graf Ludwig von Helfenstein nannte sich auch nach Spitzenberg (Kr. Göppingen) und Sigmaringen, vgl. dazu Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 269; Diepold Gusse nannte sich sonst nach Stronberg (abgegangen bei Hermaringen, Kr. Heidenheim an der Brenz), vgl. dazu Plassmann, a.a.O., 274.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0060" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_577" type="external" n="unkown">Druck in den MGH</ref></item><item><ref target="http://www.wubonline.de/?wub=613" type="external" n="unkown">Druck im WUB-Online (LA-BW)</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

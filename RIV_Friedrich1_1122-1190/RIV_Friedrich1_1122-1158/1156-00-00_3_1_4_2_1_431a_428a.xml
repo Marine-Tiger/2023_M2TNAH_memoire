@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 428a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_3_1_4_2_1_431a_428a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1156-00-00_3_1_4_2_1_431a_428a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1156-00-00_3_1_4_2_1_431a_428a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358254716" value="2013-01-15"></date>
+				<date type="lastmod" n="1360327505" value="2013-02-08"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 428a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1156-01-01" to="1156-12-31">1156</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor">Ulricus canc. vice Rainerii Coloniensis archiep. et archicanc.</notarius>
+				
+				
+				
+					<testis function="witnesses">Bischof Eberhard von Bam­berg, Herzog Heinrich (der Löwe), Berengar, Protonotar Heinrich, Graf Berthold von Andechs, Markgraf Her­mann von Baden, Graf Eldebrandus, Heinrich ... von Chub ..., Graf Robert von ... </testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich investiert die als Boten ihrer Stadt erschienenen Bürger von Rimini, Buccatortus Procer, Tedelgardus, Caloiannes und Pizzonus, gemäß deren Bitten und wegen der Treue und Verdienste ihrer Stadt gegen einen Jahreszins von 25 Mark Silber mit der zugehörigen Grafschaft Rimini. Z.: Bischof Eberhard von Bam­berg, Herzog Heinrich (der Löwe), Berengar, Protonotar Heinrich, Graf Berthold von Andechs, Markgraf Her­mann von Baden, Graf Eldebrandus, Heinrich ... von Chub ..., Graf Robert von ... - <hi rend="italic">Ulricus canc. vice Rainerii Coloniensis archiep. et archicanc.</hi>; Fälschung auf echter, von Rainald G stammender Grundlage; SP. D. <hi rend="italic">Iustitia exigit et ratio</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Iustitia exigit et ratio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift des frühen 13. Jh. im Vatikanischen Archiv, Arch. S. Angeli, Arm. D, capsa II, fasc. 1 n° 1 (B); Abschrift von 1759 aus B in den ms. G. Garampi, Apografi di documenti relativi a Rimini vol. 1 (SC-MS. 231) in der Biblioteca Civica Gambalunga zu Rimini (G). Drucke: Tonini, Stor. Riminese 2, 576 n° 75; MG. DF. I. 1042. Reg.: Stumpf 3760.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. schon Reg. Imp. Teil 1, nach Reg. 428 und Reg. 926. Die Fälschung muß zu Beginn des 13. Jh. entstanden sein, als die ursprünglich päpstlichen Grafschaftsrechte zwischen Kaiser und Papst strittig waren, vgl. Riedmann, Reichskanzlei, MIÖG 75 (1967) 395.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1360325908" value="2013-02-08"></date><p n="author">Redaktion</p><p>Nachtragsregest von F. Opll in <ref target="http://opac.regesta-imperii.de/lang_de/anzeige.php?sachtitelwerk=B%C3%B6hmer%2C+J.+F.%2C+Regesta+Imperii+IV.+Lothar+III.+und+%C3%A4ltere+Staufer+1125-1197.+2.+Abt.%3A+Die+Regesten+des+Kaiserreichs+unter+Friedrich+I.+1152+%281122%29+-+1190.+2.+Lief.%3A+1158-1168&amp;amp;pk=116715" type="external" n="opac">RI IV,2,2</ref>, S. XIII.</p></item></list></div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3258</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-07_2_0_4_2_4_685_3258"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-07_2_0_4_2_4_685_3258"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-07_2_0_4_2_4_685_3258</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1416569643" value="2014-11-21"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3258</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-07" to="1189-05-07">1189
+									Mai 7</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Neuburg an der Donau (<hi rend="italic">non. maii, Nuenburg super Danubium</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. (Siegel Kaiser 									Friedrichs II., vgl. Anm. b sowie die Vorbemerkung zum 								D.)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl kurz vor 1266 angefertigte Interpolation eines ursprünglich wohl einfachen (nicht: feierlichen) Diploms</scribe>
+				
+				
+					<testis function="witnesses">Heinrich von Weida, Heinrich von Herzberg (<hi rend="italic">Hertisburg</hi>) sowie die Grafen Hermann (irrig statt: Heinrich) von Altendorf und Diepold von Lechsgemünd</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt auf Bitten des Grafen Adolf von 								Schauenburg dessen <hi rend="spaced">Bürgern in Hamburg</hi> hinsichtlich ihrer Schiffe, die mit Kaufmannsgütern und Menschen vom Meer in ihre Stadt fahren und von dort wieder auslaufen, Freiheit von Zoll und Ungeld (<hi rend="italic">ab omni theloneo et ungeldi exactione</hi>). Er &amp;lt;legt hinsichtlich des Transportes von Gütern von Gästen fest, dass ein Bote nach Stade geschickt werden soll, nach dessen Eid die Waren zu verzollen sind, wobei der Zöllner im Falle von Einwendungen gegen die Verzollung dem Boten nach Hamburg folgen und dort gerichtlich entschieden werden soll (<hi rend="italic">ut secundum iusticiam satisfaciat et emendet</hi>)&amp;gt;. Er befreit die Bürger auch im Herrschaftsgebiet 	ihres Herrn, des Grafen, von Zoll und Ungeld, verbietet die Errichtung von Burgen im Umkreis von zwei Meilen um die Stadt, gewährt ihnen die Fischfangrechte in der Elbe jeweils im Umfang von zwei Meilen stromauf- und stromabwärts von der Stadt, ebenso im Flüsschen Bille im Umfang von jeweils einer Meile. Er schützt die von den Bürgern im Herrschaftsgebiet des Grafen erworbenen und auf Wagen oder Schiffen transportierten Güter vor Beschlagnahmung und Behinderung außer im Falle erbrachten Zeugenbeweises und gesteht ihnen die Weiderechte für ihre Tiere zu sowie das Recht, Holz zu fällen. Er teilt die Strafen für unrechte Maße bei Bier, Brot und Fleisch zu einem Drittel auf den Richter und zu zwei Dritteln auf die Stadt auf, erlaubt das Wechseln von Silber überall, ausgenommen vor dem Münzhaus, 〈gesteht ihnen das Recht zur Prüfung der Münze nach Gewicht und Reinheit zu〉 und befreit sie von der Verpflichtung zur Heerfahrt, auch derjenigen zur Verteidigung des ganzen Landes. <span n="witnesses">Z.: Heinrich von Weida, Heinrich von Herzberg (<hi rend="italic">Hertisburg</hi>) sowie die Grafen Hermann (irrig statt: Heinrich) von Altendorf und Diepold von Lechsgemünd</span>. –<span n="clerk">Wohl kurz vor 1266 angefertigte Interpolation eines ursprünglich wohl einfachen (nicht: feierlichen) Diploms, dessen Existenz insbesondere aus der Datierung wie auch daraus abzuleiten ist, dass Graf Adolf III. von (Schauenburg-)Holstein in einer undatierten, aber wohl kurz vor dem D. ausgestellten Urkunde dem Hamburger Gründerkonsortium unter Führung des Wirad von Boizenburg zusagte, die Hälfte der Kosten für ein vom Kaiser zu erwirkendes Privileg für die Stadt zu übernehmen (Lappenberg, Hamburg. UB. 1, 252 n<hi rend="sup">o</hi> 285: <hi rend="italic">spondemus pro alio privilegio a domino imperatore optinendo medietatem expensarum nos soluturos</hi></span>; <span n="seal">SP. (Siegel Kaiser Friedrichs II., vgl. Anm. b sowie die Vorbemerkung zum D.)</span>. <span n="incipit"><hi rend="italic">Notum facimus universis</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum facimus 										universis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Angebliches Orig.: Staatsarchiv Hamburg (A). Faks.: Rüdiger, Barbarossas Freibrief für Hamburg, 25; Hamburgs Weg zum Reich und in die Welt. Urkunden zur 750-Jahr-Feier des Hamburger Hafens, 3; Hamburg Commercial Treaties from seven centuries, Hamburg Economic Studies VII (1953) Anhang Tafel 1; Reincke, Forschungen (Veröff. aus dem Staatsarchiv Hamburg 3, 1951) Anhang; Deutsche Geschichte 1 (VEB Deutscher Verlag der Wissenschaften Berlin 1965) 289. Drucke: Lappenberg, Hamburg. UB. 1, 253 n<hi rend="sup">o</hi> 286; Rüdiger, ebda.; Hamburgs Weg zum Reich und in die Welt, ebda.; Hamburg Commercial Treaties, 15 n<hi rend="sup">o</hi> 1; Reincke, a.a.O., 126 n<hi rend="sup">o</hi> 2; MG.DF.I.1001. Reg.: Stumpf 4522.</p></div>
+				
+				
+					<div type="commentary"><p>Zur diplomatischen Kritik an diesem nur interpoliert überlieferten D. vgl. die ausführlichen Hinweise in der Vorbemerkung zum D. mit der dort zitierten Literatur, vor allem der Arbeit von Reincke, a.a.O., gegenüber dessen Ausführungen allerdings daran festzuhalten ist, dass es ein echtes D. tatsächlich gegeben haben muss; zusammenfassend vgl. Jordan, Hamburger Neustadt, AfD 29 (1983) 215 ff. – Nach Herkenrath, Reichskanzlei 1181 bis 1190, 286 f., wäre es möglich, dass die Datumsangabe im verlorenen Original <hi rend="italic">III non. maii</hi> gelautet hat, womit die Datierung von „Mai 7“ zu „Mai 5“ geändert werden müsste. – Die Anordnung der Zeugen widerspricht den Kanzleiregeln, doch werden Graf Heinrich (so wohl richtig statt: Hermann) von Altendorf auch in den DD.997 und 1004 (Regg. 3252 und 3269) und Graf Diepold von Lechsgemünd auch in D.998 (Reg. 3253) bei Hofe genannt. – Graf Adolf von Schauenburg bestätigte diese kaiserlichen Verleihungen in einer 	Urkunde vom 24. Dezember 1190, ed. Lappenberg, a.a.O., 258 no 292, und auch später wurde immer wieder auf das D. Bezug genommen, vgl. Lappenberg, a.a.O., no 486, 516, 679, 693, 694, 723, 724 und 784. – Zum Inhalt vgl. Hasse, Barbarossas Privileg für Hamburg, Zs. f. Schlesw.-Holst.-Lauenburg. Gesch. 23 (1893) 253 ff. – Die Rechtshandlung, die das unverfälschte D. beurkundete, dürfte ebenso 	wie die mit D.1002 (Reg. 3260) bestätigte Rechtshandlung bereits im Jahre 1188 erfolgt sein, vgl. dazu Reg. 3185.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

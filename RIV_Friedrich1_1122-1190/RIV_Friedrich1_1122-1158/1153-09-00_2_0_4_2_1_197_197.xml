@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 197</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-00_2_0_4_2_1_197_197"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-09-00_2_0_4_2_1_197_197"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-09-00_2_0_4_2_1_197_197</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 197</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-09-01" to="1153-09-30">(1153 September)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">oströmischen Kaiser Manuel</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt von Wibald</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich dankt dem <span sameAs="recipient"><hi rend="spaced">oströmischen Kaiser Manuel</hi> </span>  für dessen durch einen Boten übersandtes Schreiben, versichert ihn gemäß dem Rat seines Oheims, König Konrads III., der ihn zu seinem Nachfolger erklärt hat, seines Willens zu guten gegenseitigen Beziehungen, die er durch seine Heirat mit einer Verwandten Manuels befestigen will, kündigt ihm eine Eilbotschaft an (<hi rend="italic">celeres et expeditos nuntios</hi>) und teilt ihm mit, daß er für den kommenden Sommer eine Expedition nach Sizilien und Apulien plane (<hi rend="italic">et in superveniente estate, tempore videlicet, quo reges ad bella solent procedere, in fortitudine magna imperii nostri Alpes transire disposuimus</hi>). - <span n="clerk">Verfaßt von Wibald</span>. <span n="incipit"><hi rend="italic">Magnitudinis tuę litteras</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Magnitudinis tuę litteras</hi></p></div>
+				
+				
+					<div type="transmission"><p>Epp. Wibaldi, ed. Jaffé, Mon. Corb. 548 n<hi rend="sup">o</hi>  410; Doeberl, MG. Sel. 4, 81 ff. n<hi rend="sup">o</hi>  28; vgl. auch Dölger, Reg. d. oström. Reiches 2, n<hi rend="sup">o</hi>  1388.</p></div>
+				
+				
+					<div type="commentary"><p>Wibalds Antwort auf ein früheres Schreiben Manuels an ihn (Jaffé, Mon. Corb. 454 n<hi rend="sup">o</hi>  325) enthält das Versprechen, sich bei Friedrich für die byzantinischen Heiratspläne einzusetzen (Jaffé, Mon. Corb. 550 n<hi rend="sup">o</hi>  411), vgl. Simonsfeld, Jahrbücher 201 f. Das vorliegende Schreiben muß nach der Scheidung Friedrichs abgesandt worden sin, dürfte jedoch mit Ohnsorge, Anfänge, QFIAB 32 (1942) 14 ff. und 30f. sowie in: ders., Abendland und Byzanz. Gesammelte Aufsätze, 411 ff. und 430 f. in den September 1153 zu setzen sein; vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-09-00_1_0_4_2_1_196_196.html" type="internal" n="regesten">196</ref>. - Zum Diktat vgl. Herkenrath, in: WdF 390 (1975) 334 und 356.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0072" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

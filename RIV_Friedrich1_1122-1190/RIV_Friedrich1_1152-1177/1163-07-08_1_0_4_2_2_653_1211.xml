@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1211</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-07-08_1_0_4_2_2_653_1211"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1163-07-08_1_0_4_2_2_653_1211"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1163-07-08_1_0_4_2_2_653_1211</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1211</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1163-07-08" to="1163-07-08">(vor 1163 Juli 8)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Abt Hugo von Cluny schreibt an Bischof Gilbert von London und rechtfertigt sein bisher abwartendes Verhalten im Schisma, das ihm den Ruf eines Anhängers Oktavians (Viktors IV.) eingetragen habe, mit der schwierigen Lage seiner Abtei an der Grenze zwischen König- (Frankreich) und Kaiserreich (<hi rend="italic">In confinio regni et imperii sumus</hi>.). Deutschland, Ungarn, <hi rend="italic">Rossia</hi>, Lothringen, Burgund jenseits der Saône, der Großteil Italiens und die (Kirchen)provinz Lyon hingen dem kaiserlichen Papst an, der Kaiser bedrohe sie mit der Konfiskation der cluniazensischen Güter im Reich, der Graf von Mâcon, der sich dem Kaiser verpflichtet habe (<hi rend="italic">qui iuravit in verba imperatoris</hi>), halte sein Schwert über ihren Häuptern und der Erzbischof von Lyon mit seinen Suffraganen drohe ihnen mit dem Anathem.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Robertson, Materials for the history of Thomas Becket V, 30 n<hi rend="sup">o</hi>  20.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Hägermann, Brief Erzbischof Christians, AfD 15 (1969) 241; zu Abt Hugo (III.) von Cluny zuletzt Constable, Abbots and Anti-Abbot of Cluny, Revue bénédictine 94 (1984) 373 ff. - Obwohl wir in der Regel keine Dokumente zur Geschichte des Schismas im einzelnen aufnehmen, scheint uns diese Vorgangsweise angesichts des unmittelbaren Bezuges zu kaiserlichen Maßnahmen hier doch gerechtfertigt Abt Hugo von Cluny weilte am 8. Juli 1163 bei Hofe (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-07-08_2_0_4_2_2_654_1212.html" type="internal" n="regesten">1212</ref>), hatte sich damals also wohl endgültig auf die Seite des Kaisers gestellt (danach richtet sich auch unsere zeitliche Einordnung); vgl. dazu auch das Schreiben Christians von Mainz an Prior und Konvent von Cluny von (1177/78), Acht, Mainzer UB. 2/2, 676 n<hi rend="sup">o</hi>  418. - Unter <hi rend="italic">Rossia</hi>  ist nach Reuter, The papal schism, the Empire and the West, masch. phil. Diss. (Merton College Oxford 1975) 45 entweder Polen oder Ruthenien zu verstehen.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0179" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

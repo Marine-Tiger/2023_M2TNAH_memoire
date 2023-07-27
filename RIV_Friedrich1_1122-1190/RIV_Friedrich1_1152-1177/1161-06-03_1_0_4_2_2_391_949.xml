@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 949</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-03_1_0_4_2_2_391_949"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-06-03_1_0_4_2_2_391_949"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-06-03_1_0_4_2_2_391_949</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243436" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 949</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-06-03" to="1161-06-03">1161 Juni 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Mailand">vor Mailand</placeName>
+												<location><geo decls="#WGS">45.4667, 9.2</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  nonas iunii, ante portas civitatis Medyolanensis tempore vastationis)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Passau</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>Neuausfertigung des D. 322 (Reg. 930), geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Konrad von Augsburg, Gero von Halberstadt, Hermann von Konstanz, Friedrich von Münster, Gottfried von Utrecht und Hermann von Verden, Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Otto (von Wittelsbach) und seine Brüder Friedrich und Otto, Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), und Herzog Heinrich von Kärnten, die Grafen Berthold von Andechs und Rudolf von Pfullendorf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich wiederholt D. 322 (Reg. 930) für das Bistum <span sameAs="recipient"><hi rend="spaced">Passau</hi> </span>, legt dabei aber genau fest, daß er die Investitur mit der Vogteigewalt sich und seinen Nachfolgern vorbehält. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard von Bamberg, Konrad von Augsburg, Gero von Halberstadt, Hermann von Konstanz, Friedrich von Münster, Gottfried von Utrecht und Hermann von Verden, Herzog Heinrich von Bayern und Sachsen, Pfalzgraf Otto (von Wittelsbach) und seine Brüder Friedrich und Otto, Landgraf Ludwig (von Thüringen), Pfalzgraf Konrad bei Rhein, Herzog Friedrich von Schwaben, Sohn König Konrads (III.), und Herzog Heinrich von Kärnten, die Grafen Berthold von Andechs und Rudolf von Pfullendorf</span>. - <span n="chancellor"><hi rend="italic">Vlricus canc. vice Reinaldi Coloniensis archiep. et Ytalię archicanc.</hi> </span>; <span n="clerk">Neuausfertigung des D. 322 (Reg. 930), geschrieben von RG</span>; <span n="seal">SP. D.</span>  <span n="incipit"><hi rend="italic">Si iustis fidelium</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si iustis fidelium</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 359 n<hi rend="sup">o</hi> 503; MG. DF. I. 326. Reg.: Heider, Reg. des Passauer Abteilandes 13 n<hi rend="sup">o</hi> 3; Stumpf 3905.</p></div>
+				
+				
+					<div type="commentary"><p>Diese Neuausfertigung diente einer Präzisierung der Bestimmungen über die Vogtei, die Graf Gebhard von Sulzbach innehatte. Die Entstehung des D., bei der zunächst von einem Passauer Schreiber eine Abschrift des D. 322 angefertigt wurde, hat Krallert, Urkunden Friedrichs I. für Passau, MIÖG Erg. Bd. 14 (1939) 261 ff. eingehend untersucht, vgl. auch die Vorbemerkung zum D. - Die Zeugenliste wurde neu hinzugefügt und entspricht dem Zeitpunkt der Beurkundung, vgl. Ficker, Beiträge 1, 129 85 und 246 142. - Vgl. auch die oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1161-01-29_1_0_4_2_2_372_930.html" type="internal" n="regesten">930</ref>  zitierte Arbeit von Tellenbach.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0112" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210252%22" type="external" n="unkown">Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210253%22" type="external" n="unkown">Kopie 12. Jhd.</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_326" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

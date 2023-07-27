@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 453</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-15_1_0_4_2_1_455_453"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-15_1_0_4_2_1_455_453"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-04-15_1_0_4_2_1_455_453</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239392" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 453</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-04-15" to="1157-04-15">1157 April 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Köln">Köln</placeName>
+												<location><geo decls="#WGS">50.9333, 6.95</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII kal. mai, Colonie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Peternach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  64) enthaltenen Formulargutes nach Kanzleidiktat verfaßt und von RC geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Propst Siegfried von Boppard, Konrad (von Boppard), der Vogt von Peternach, Eberhard, Gottfried, Konrad, Winand von Boppard</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befreit die Niederlassung der Augustiner-Chorherren auf dem Reichsgut zu <span sameAs="recipient"><hi rend="spaced">Peternach</hi> </span>, einst ein Schlupfwinkel von Räubern (<hi rend="italic">locum quendam in allodio regni situm, qui Phedernachę dicitur, ubi latronum aliquando conventus erat</hi>), von allen weltlichen Verpflichtungen (<hi rend="italic">ab omni seculari functione segregamus et divinis omni tempore deputamus obsequiis</hi>), nimmt es mit allen Besitzungen in seinen Schutz, erlaubt Schenkungen von Freien an das Stift, bestätigt Heinrich als Prokurator und Rektor und Gebhard als dessen Nachfolger, gewährt ferner das Recht der freien Wahl des Prokurators durch je zwei Brüder und Schwestern und bestätigt Konrad von Boppard (<hi rend="italic">Bochbarten</hi>) als erblichen Schirmvogt. <span n="witnesses">Z.: Propst Siegfried von Boppard, Konrad (von Boppard), der Vogt von Peternach, Eberhard, Gottfried, Konrad, Winand von Boppard</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  64) enthaltenen Formulargutes nach Kanzleidiktat verfaßt und von RC geschrieben</span>. <span n="incipit"><hi rend="italic">Si loca divinis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si loca divinis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 12. Jh. im Staatsarchiv Koblenz (B); Chartularium magnum ecclesiae cathedr. Treverensis des 18. Jh. Hs. 312 p. 92 der Bibliothek des Domkapitels Trier (C). Drucke: Beyer, Mittelrhein. UB. 1, 658 n<hi rend="sup">o</hi>  600; MG. DF. I. 167. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  119; Stumpf 3768.</p></div>
+				
+				
+					<div type="commentary"><p>Zu diesem Augustinerstift vgl. Vollmer, Territorialpolitik, masch. phil. Diss. (Freiburg i. Br. 1951) 259 und Heyen, Boppard 127.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0153" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%227272%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_167" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2282</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-24_2_0_4_2_3_510_2282"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-07-24_2_0_4_2_3_510_2282"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-07-24_2_0_4_2_3_510_2282</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1358514489" value="2013-01-18"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2282</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-07-24" to="1177-07-24">1177 Juli 24</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Friede von Venedig:</hi>  Friedrich wird am frühen Morgen im Auftrag des Papstes von den (Kardinal-)Bischöfen Hubald von Ostia, Wilhelm von Porto und Manfred von Palestrina, den (Kardinal-)Presbytern Johannes von Neapel (von S. Anastasia), Theodinus von S. Vitale und Petrus de Bono (von S. Susanna) sowie dem (Kardinal)Diakon Hyacinth von S. Maria in Cosmedin aus dem Nikolauskloster am Lido (vgl. Reg. 2279) abgeholt. Die Kardinale lösen ihn dort, nachdem er dem Schisma abgeschworen hat, vom Kirchenbann, was auch mit den bedeutenderen Reichsfürsten geschieht. Danach erscheint der Doge (Sebastianus Ziani) gemeinsam mit dem Patriarchen (Heinrich) von Venedig und zahlreichem Klerus und Volk auf Schiffen und bringt den Kaiser nach S. Marco. Bei der Überfahrt sitzen der Doge zur Rechten, der Venezianer Patriarch zur Linken des Herrschers. Bei S. Marco erwartet Papst Alexander (III.), der bereits vor Tagesanbruch in S. Marco die Messe gehört hat, gemeinsam mit Patriarchen, Kardinälen, Erzbischöfen, Bischöfen und unzähligen anderen, darunter auch den sizilischen Gesandten und den Vertretern der Lombarden, auf dem dort für ihn auf einem Holzgerüst mit Stufen vorbereiteten Thron den Kaiser. Auf zwei großen Holzstangen sind die Fahnen des hl. Markus aufgepflanzt. Spannungen zwischen den Anwesenden, dabei Rangstreitigkeiten zwischen Erzbischof (Algisius) von Mailand und Erzbischof (Gerhard) von Ravenna um das Recht, möglichst nahe zur Rechten des Papstes zu sitzen, kann der Papst schlichten. Um die dritte Tagesstunde geht Friedrich bei S. Marco an Land und wird in einer Prozession zum Thron Alexanders (III.) geführt. Dort legt er seinen roten Umhang und den herrscherlichen Schmuck ab, wirft sich barfuß dem Papst zu Füßen und küßt dessen Füße und Knie. Alexander hebt ihn darauf auf, nimmt sein Haupt in beide Hände, gibt ihm den Friedenskuß und bietet ihm den Platz zu seiner Rechten an. Friedrich ergreift sodann die Rechte des Papstes und geleitet ihn unter beinahe lebensgefährlichem Gedränge in die Markuskirche, wo das &amp;quot;Te Deum&amp;quot; erklingt. Im Chor von S. Marco empfängt der Kaiser gebeugten Hauptes den Segen des Papstes, tritt vor den Altar und überreicht Geschenke. Nachdem man die Kirche wieder verlassen hat, begibt sich der Kaiser mit seiner Familie in den Dogenpalast, der Papst auf Schiffen in sein Quartier im Palast des Patriarchen von Venedig. Noch am selben Tag soll Alexander (III.) dem Kaiser zahlreiche goldene und silberne Behälter, gefüllt mit den verschiedenartigsten Speisen, und auch ein gemästetes Kalb übersendet haben (De pace Veneta relatio). Am Abend läßt Friedrich sodann den Papst ersuchen, am nächsten Tag, dem Fest des hl. Jakob, in S. Marco ein feierliches Hochamt zu zelebrieren.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Boso, ed. Duchesne, 439 f.; De pace Veneta relatio, MG. SS XIX, 462 f.; Hist. ducum Venet, MG. SS XIV, 83; Romuald von Salerno, ed. Garufi, Rer. Ital. SS N.Ed. VII/1, 284 (vgl. MG. Const. 1, 396 n<hi rend="sup">o</hi>  262); Ann. Pisani, ed. Gentile, Ren Ital. SS N.Ed. VI/2, 62; Ex gestis Henrici II. et Ricardi I., MG. SS XXVII, 97 f.; E Gervasii Cantuariensis Chronica, MG. SS XXVII, 301 (Angaben zu Streitigkeiten, die der Papst schlichtet, wobei es sogar heißt, daß die Kardinale — wohl vorübergehend — vom Papst weggezogen seien); Chron. Montis Sereni, MG. SS XXIII, 156 (Markgraf Dietrich der Lausitz soll dagegen protestiert haben, daß sich der Kaiser dem Papst zu Füßen wirft, worauf der Papst, dem die Worte des deutschen Fürsten übersetzt worden waren, den Kaiser aufhob und ihm den Friedenskuß gab.); Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ, in us.schol., 63 f.; Gottfried von Viterbo, Gesta Frid., MG. SS XXII, 330 V. 1042 ff. (Während des Einzuges in die Markuskirche soll der Papst im Gedränge fast umgekommen sein, aber der Kaiser bewahrte ihn davon); zum Frieden von Venedig vgl. des weiteren (mit manchen Details bzw. dem genauen Tag): Ann. Bergomates, MG. SS XXXI, 329; Ann. Ceccanenses, MG. SS XIX, 286; Ann. Magdeburg., MG. SS XVI, 194; Ann. Pegav., MG. SS XVI, 261; Ann. s. Trinitatis Veronenses, MG. SS XIX, 4; Ann. Venetici breves, MG. SS XIV, 72 (zum 25. Juli); Burchard von Ursberg, ed. Holder-Egger — Simson, MG. SS rer. Germ, in us. schol., 56; Chron. Magni presbiteri, MG. SS XVII, 503 (irrig nach 22jährigem Schisma); Chron. pont. et imp. Mantuana, MG. SS XXIV, 217; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ, in us. schol., 129; Chron. rhythm. Austriacum, MG. SS XXV, 353 f.; Chron. Vicentina, MG. SS XXIV, 150; Cron. Alberti de Bezanis, ed. Holder-Egger, MG. SS rer. Germ, in us. schol., 37 (mit legendenhafter Ausschmückung der Szene, als der Kaiser sich dem Papst zu Füßen wirft); Ex Gaufredi de Bruil prioris Vosiensis Chronica, MG. SS XXVI, 203; Ex Willelmi Neuburgensis Historia Anglicana, MG. SS XXVII, 234 f.; Menkonis Werumensis Chron., MG. SS XXIII, 539; Roberti de Monte Cronica, MG. SS VI, 525 (Friedensschluß im Palast des Patriarchen von Venedig); Sigeb. Cont. Aquicinct., MG. SS VI, 415 f.; Thomae Tusci Gesta imp. et pont, MG. SS XXII, 506 (irrig zu 1167; mit legendenhafter Ausschmückung der Szene, als der Kaiser sich dem Papst zu Füßen wirft); des weiteren eine Reihe von allgemeinen Hinweisen (ohne genaues oder mit falschem Datum): Alberti Milioli Cron. imp., MG. SS XXXI, 643; Ann. Aquenses, MG. SS XXIV, 38 (irrig zu 1178); Ann. Augustani min., MG. SS X, 9; Ann. Casinenses, MG. SS XIX, 312 (zum 25. Juli); Ann. Cremonenses, MG. SS XXXI, 6 (irrig zu 1175); Ann. Dorenses, MG. SS XXVII, 525; Ann. Floreffienses, MG. SS XVI, 625 (irrig zu 1178); Ann. Halesbrunn., MG. SS XVI, 14 (irrig zu 1178); Ann. Marbacenses, ed. Bloch, MG. SS rer. Germ, in us.schol., 51, vgl. 53 (Anteil Wichmanns von Magdeburg); Ann. Mediolanenses minores, MG. SS XVIII, 396 (irrig zu 1178); Ann. Mellicenses, MG. SS IX, 505 (irrig zu 1178); Ann. Neresheimenses, MG. SS X, 22; Ann. Ratisponenses, MG. SS XVII, 589 (zum 25. Juli); Ann. s. Benigni Divionensis, MG. SS V, 45 (irrig zu 1178); Ann. s. Eustorgii Mediol., ed. Holder-Egger, MG. SS rer. Germ.in us.schol., 71; Ann. s. Petri Erph. maiores, ed. Holder-Egger, MG. SS rer. Germ, in us. schol., 61 (richtig nach 18jährigem Schisma; zum 25. Juli); Ann. s. Rudberti Salisburg., MG. SS IX, 777; Ann. s. Stephani Frisingenses, MG. SS XIII, 54 (irrig nach 19jährigem Schisma); Ann. Scheftlar. maiores, MG. SS XVII, 337 (richtig nach 18jährigem Schisma); Ann. Veterocell., MG. SS XVI, 42; Ann. Welfici Weingart., ed. König (Schwäb. Chroniken d. Stauferzeit 1,<hi rend="sup">2</hi> 1978) 92; Auctarium Lambacense, MG. SS IX, 555; Chron. Venetum (vulgo Altinate), MG. SS XIV, 61; Cont. Claustroneob. II., MG. SS IX, 617; Cont. Cremifanensis, MG. SS IX, 546; Cron. apostolicorum et imperatorum Basileensia, MG. SS XXXI, 293 (irrig zum 14. Juli); Cron. Reinhardsbrunn., MG. SS XXX/1, 540 (zum 25. Juli); E Gervasii Cantuariensis Chronica, MG. SS XXVII, 301 f.; Ex Andreae Marchianensis Historia regum Francorum, MG. SS XXVI, 210; Ex Annalibus de Southwark, MG. SS XXVII, 431; Ex Annalibus Islandicis, MG. SS XXIX, 259; Ex Annalibus Melrosensibus, MG. SS XXVII, 435; Ex Annalibus Normannicis, MG. SS XXVI, 513 (irrig zu 1175); Ex Annalibus Oseneiensibus et Thomae de Wykes Chronico, MG. SS XXVII, 487 f.; Ex Annalibus Teokesburiensibus, MG. SS XXVII, 465; Ex Annalibus Waverleiensibus, MG. SS XXVII, 458; Ex Annalibus Winchecumbensibus, MG. SS XVI, 481; Ex Annalibus Wintoniensibus, MG. SS XXVII, 452; Ex Mathei Parisiensis Cronicis maioribus, MG. SS XXVIII, 112; Ex Mathei Parisiensis Historia Anglorum, MG. SS XXVIII, 393; Ex Radulfl de Diceto Ymaginibus historiarum, MG. SS XXVII, 261; Ex Radulfl de Coggeshale Historia Anglicana, MG. SS XXVII, 345 (irrig zu 1179); Ex Rogeri de Hoveden Chronica, MG. SS XXVII, 144; Fundatio monasterii Gratiae Dei, MG. SS XX, 690 f.; Gesta epp. Halberstadensium, MG. SS XXIII, 108; Gestorum abb. Trudon. Cont. II, lib. IV, MG. SS X, 359; Iohannis de Deo Cronica, MG. SS XXXI, 322; Lamberti Parvi Ann., MG. SS XVI, 648 (irrig zu 1178); Magistri Tolosani Chron. Faventinum, Rer. Ital. SS N.Ed. XXVIII/1, 54; Roberti canonici s. Mariani Autissiodorensis Chronicon, MG. SS XXVI, 241 (irrig zu 1178); vgl. auch die Angaben in dem Schreiben Alexanders III. an Erzbischof Roger von York (<hi rend="italic">Eboracensi</hi>), seinen Legaten, und an Hugo von Durham (<hi rend="italic">Dunelmensi</hi>) von 1177 Juli 26, Venedig, ed. Posse, CD. Sax. reg. I/2, 287 n<hi rend="sup">o</hi>  415 (Jaffé-L. 12.891 zum 21. Juli), des weiteren diejenigen in einem Schreiben dreier Römischer Kanoniker und Subdiakone von (1177 zwischen August 1 und 14) über den Friedensschluß in Venedig, ed. Simonsfeld, Forschungen, SB.d.bayer.Akad.d.Wiss. phil.-hist.Kl. 1897/2 (München 1898) 190 ff. (hier: 191 f.) sowie diejenigen in einem Brief Erzbischof Philipps von Köln an Bischof R(udolf) von Lüttich, der als Teilnehmer an der Prozession, die sich auf S. Marco zu bewegte, 60 Bischöfe nennt, ed. Röhricht, Ein Brief über die Geschichte des Friedens von Venedig, NA 17 (1892) 621 ff. (Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  1080); vgl. darüber hinaus auch die bei allen 1177 in Venedig ausgestellten Regesten zitierten Überlieferungen.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der späteren Überlieferung bei Obo von Ravenna vgl. Simonsfeld, Forschungen, SB. München 1897/2, 145 ff und oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-05-11_1_0_4_2_3_475_2247.html" type="internal" n="regesten">2247</ref>. — Die Exkommunikation des Kaisers geht in die Anfänge des Schismas zurück, vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-02-28_2_0_4_2_2_289_847.html" type="internal" n="regesten">847</ref>  vom 28. Februar 1160. — Zum Frieden von Venedig mit seinen hier geschilderten Einzelheiten vgl. Giesebrecht, Kaiserzeit V, 836 ff. und Giesebrecht — Simson, Kaiserzeit VI, 543 f. (zur Kritik der Quellen, darunter der Nachricht der venezianischen Relatio über den tatsächlich erst am 25. Juli — siehe Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1177-07-25_1_0_4_2_3_511_2283.html" type="internal" n="regesten">2283</ref>  — geleisteten Stratordienst des Kaisers), Thomson, An English eyewitness of the peace of Venice, Speculum 50 (1975), 21 ff sowie Zimmermann, Canossa 1077 und Venedig 1177, in: Ders., Im Bann des Mittelalters, 107 ff. — Daß der Kaiser in Venedig im Dogenpalast abstieg, ist aus zahlreichen der folgenden Regesten ablesbar; allerdings dürfte er auch (einmal?) Gast des in Venedig lebenden deutschen Kaufmannes Bernhard gewesen sein, den er in DF.I.1009 als seinen <hi rend="italic">hospes</hi>  bezeichnet; zu Bernhard vgl. von Stromer, Bemardus Teotonicus, in: Beiträge zur Handels- und Verkehrsgeschichte (Grazer Forschungen zur Wirtschafts- und Sozialgeschichte 3, 1978), 1 ff. — Die Reichhaltigkeit der hier angeführten Überlieferungen zu diesem Ereignis — sogar isländische Annalen berichten darüber — macht deutlich, daß man hier tatsächlich von einem &amp;quot;welthistorischen&amp;quot; Ereignis sprechen kann; vgl. dazu auch den Katalog der 1977 seitens des Staatsarchivs Venedig veranstalteten Ausstellung von Dokumenten: Mostra documentaria. 1177 Pace di Veneziastoria, leggenda e mito. (Ministero per i beni culturali e ambientali. Archivio di Stato di Venezia, 24.9. — 23.10.1977).
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Das Ende des Schismas (Reg. 2282) wird auch in der Datierung einer Urkunde des Propstes Konrad und des Konvents von Polling über ein Tauschgeschäft mit Bischof Albert von Freising von 1177 (Beurkundung) bzw. (1178) April 12, Freising, erwähnt, vgl. Weissthanner – Thoma – Ott (Bearb.), Regesten der Bischöfe von Freising, Bd. I (Regesten zur Bayerischen Geschichte [4], 2009) Nr. 562: <hi rend="italic">… factumque est idem concambium anno … MoCLXXVIIo, quo anno terminatum est scisma, quod fuit inter Imperium et Romanam ecclesiam, …</hi> – Zum Frieden von Venedig vgl. auch Hack, Empfangszeremoniell (Forschungen zur Kaiser- und Papstgeschichte des Mittelalters 18, 1999) 648 ff., sowie die Beiträge von Weinfurter, Venedig 1177, von Georgi, Wichmann, Christian, Philipp und Konrad, von Plassmann, Barbarossa und sein Hof, von Laudage, Gewinner und Verlierer, sowie von Scholz, Symbolik und Zeremoniell, alle in: Stauferreich im Wandel, hg. von Weinfurter (Mittelalter-Forschungen, 9, 2002) 9 ff., 41 ff., 85 ff., 107 ff. und 131 ff.; des weiteren vgl. Görich, utpote vir catholicus, in: Von Sachsen bis Jerusalem. FS. für Wolfgang Giese zum 65. Geburtstag (2004) 251 ff., der u. a. auf die – gegenüber Simonsfeld – bessere Edition des Briefes dreier römischer Kanoniker in: Marin Sanudo, ed. Monticolo, Rer. Ital. SS N.Ed. XXII/4, 326 ff., hinweist.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0179" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

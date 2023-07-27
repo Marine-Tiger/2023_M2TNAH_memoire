@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3262</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-10_4_0_4_2_4_689_3262"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-10_4_0_4_2_4_689_3262"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-10_4_0_4_2_4_689_3262</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3262</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-10" to="1189-05-10">(1189
+									um Mai 10)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Hause des Grafen Gebhard von Sulzbach (zu Regensburg)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Bischof (Heinrich) von Brixen, Graf Diepold 									von Lechsgemünd, Adalbert von Kamm und seine Brüder sowie Rupert 									von Walldürn</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht <hi rend="spaced">Graf Siboto 									(IV.) von Neuburg (-Falkenstein)</hi> in Anwesenheit von 								Bischöfen, Fürsten und Freunden das Lehen, das er von dem 								(verstorbenen) Grafen Gebhard (III.) von Sulzbach trägt. Nach 								Sibotos Tod soll das Lehen an dessen Sohn Kuno übergehen. <span n="witnesses">Z.: Bischof (Heinrich) von Brixen, Graf Diepold 									von Lechsgemünd, Adalbert von Kamm und seine Brüder sowie Rupert 									von Walldürn</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum?; erwähnt in: Noichl, Cod. 								Falkenstein. (Qu. u. Erörterungen z. bayer. Gesch. N.F. 29, 1978) 								149 n<hi rend="sup">o</hi> 170.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Vollmer, Reichs- und Territorialpolitik, 								masch. phil. Diss. (Freiburg i. Br. 1951) 296, sowie auch oben Reg. 								3227.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

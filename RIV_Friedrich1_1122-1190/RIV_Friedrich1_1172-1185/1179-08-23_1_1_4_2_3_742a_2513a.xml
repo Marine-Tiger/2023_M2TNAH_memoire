@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2513a</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-08-23_1_1_4_2_3_742a_2513a"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1179-08-23_1_1_4_2_3_742a_2513a"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1179-08-23_1_1_4_2_3_742a_2513a</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1358842232" value="2013-01-22"></date>
+				<date type="lastmod" n="1426608168" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2513a</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1179-08-23" to="1179-08-23">1179 August 23</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>decimo calen. Septembris zw Aldenburgk</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Kloster St. Peterin Merseburg</hi> unter Abt (Reinbot)</recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem <hi rend="spaced">Kloster St. Peterin Merseburg</hi> unter Abt (Reinbot) alle Güter und Gerechtigkeiten in (Groß-)Storkwitz und Maschwitz (<hi rend="italic">Moschiz</hi>).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; in der DD.-Ausgabe aufgenommen als DF.I.*1204 (ca. 1178 – 1186); erwähnt im Vogt- und Erbbuch des Merseburger Petersklosters, angelegt von Ernst Brottuff (um 1540), Landeshauptarchiv Sachsen-Anhalt, Abteilung Magdeburg, Standort Wernigerode, Rep. A 30a I, Nr. 9, fol. 165r (<hi rend="italic">Storckewicz und Moschitz</hi>) mit dem Hinweis: <hi rend="italic">… darvon hastu in libro copiali privilegiorum folio 3 et 4 sub litera A 5</hi>.</p></div>
+				
+				
+					<div type="commentary"><p>Einem Hinweis (Brief vom 29. Mai 2010) von Herrn Markus Cottin, Merseburger Domstiftsarchiv und -bibliothek, ist die Kenntnis der in der DD.-Ausgabe noch nicht bekannten Überlieferung des Vogt- und Erbbuchs des Merseburger Petersklosters samt den dort befindlichen Nennungen von zwei Urkunden Friedrichs I. für das Benediktinerkloster St. Peter in Merseburg zu verdanken. Das bis Ende Mai 2010 im vierten Teilband der Regesta Imperii unter der Nr. 3048 (DF.I.*1204) nach der DD.-Ausgabe aufgenommene Deperditum ist somit hier in den Nachträgen zum 23. August 1179 zu behandeln. Dass es – trotz der Auffälligkeit dieses Befundes – zwei Kaiserurkunden vom selben Tag für St. Peter in Merseburg gegeben haben muss (siehe hier unter den Nachträgen Reg. 2513b), ergibt sich aus den unterschiedlichen Blattangaben im (verlorenen) Kopialbuch und der Nennung zweier verschiedener Signaturen (hier: A 5) zu den beiden Urkundenabschriften. – Der Fund von Herrn Kollegen Cottin erweitert auch unser Wissen über das kaiserliche Itinerar; für seine Bereitschaft, diese Erkenntnisse mir bereits vor der geplanten Publikation im Deutschen Archiv zur Verfügung zu stellen, schulde ich ihm großen Dank. – Jüngst erschienen ist eine vorbereitende Studie: Cottin, Aufenthalt Friedrichs I. Barbarossa in Altenburg, in: Altenburger Geschichts- und Hauskalender N.F. 20 (2011) 121–127.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_1204" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

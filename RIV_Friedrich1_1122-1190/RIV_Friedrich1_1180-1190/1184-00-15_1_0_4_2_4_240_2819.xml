@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2819</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-00-15_1_0_4_2_4_240_2819"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-00-15_1_0_4_2_4_240_2819"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-00-15_1_0_4_2_4_240_2819</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2819</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-14" to="1184-11-15">1184
+									November 14–15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Pavia<hi rend="italic"> in broilo consulum</hi></placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Capo von Piacenza und Guido de Pozzo von Pavia 								(sowie Syrus Salimbene von Pavia und Gerardus Cosadoca von Piacenza) 								beurkunden als von den Städten Pavia und Piacenza dazu erwählte 								Podestà und im Auftrag Gottfrieds, des Kanzlers Kaiser Friedrichs 								und Legaten für Italien (dazu siehe oben Reg. 2813), die Aussagen 								zahlreicher Zeugen im Hinblick auf Grenzstreitigkeiten zwischen 								ihren beiden Städten unter Bezugnahme auf die fünf Orte Monticelli 								(Pavese), die Pfarrei Parpanese, Olmo, S. Marzano und Mondonico.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Die Zeugenverhöre finden sich in insgesamt 14 								Urkunden vom 14. und 15. November 1184, ed. Bollea, Documenti degli 								Archivi di Pavia relativi alla storia di Voghera, BSSS 46 (1909) 73 									n<hi rend="sup">o</hi> 45, 82 n<hi rend="sup">o</hi> 46, 90 									n<hi rend="sup">o</hi> 47, 100 n<hi rend="sup">o</hi> 48, 104 									n<hi rend="sup">o</hi> 49, 109 n<hi rend="sup">o</hi> 50, 121 									n<hi rend="sup">o</hi> 51, 130 n<hi rend="sup">o</hi> 52, 135 									n<hi rend="sup">o</hi> 53, 145 n<hi rend="sup">o</hi> 54, 155 									n<hi rend="sup">o</hi> 55, 169 n<hi rend="sup">o</hi> 56, 173 									n<hi rend="sup">o</hi> 57 und 183 n<hi rend="sup">o</hi> 58.</p></div>
+				
+				
+					<div type="commentary"><p>Bei diesen Zeugenverhören handelt es sich um eine 								der aussagekräftigsten Quellen zur Situation im Contado zweier 								benachbarter Städte, wie sie für die gesamte frühstaufische Epoche 								überliefert sind. Insgesamt liegen Aussagen zahlreicher Zeugen vor, 								die namens Pavias und Piacenzas aussagten. Sämtliche der fünf Orte 								waren vom Staufer in seinem großen Privileg für die Stadt Pavia vom 								8. August 1164 (DF.I. 455 = Reg. 1393) als Besitz bestätigt worden, 								vgl. dazu insbesondere Settia, Il distretto pavese, in: Storia di 								Pavia, III/1, 1992) 140–141. – Zum 4. Februar 1186 ist ein Schwur 								belegt, in dem sich Guido de Pozzo, Podestà von Pavia, verpflichtet, 								sich in der Angelegenheit der Grenze zwischen den Kommunen von Pavia 								und Piacenza bis zum kommenden 1. Mai mit dem anderen Richter Capo, 								Podestà von Piacenza, ins Einvernehmen zu setzen, ed. Falconi – 								Peveri, Il Registrum magnum del Comune di Piacenza 1, 387 no 175 								(bei Bollea, a.a.O., 195 no 60 zu 1185 Februar 4; bei Corna – Ercole 								– Tallone, Il Registrum magnum del Comune di Piacenza, BSSS 95 								[1921], 249 no 183 zu 1186 Februar 2). – Eine ausführlichere Studie 								zu diesen Überlieferungen und den daraus zu gewinnenden 								Erkenntnissen konnte ich 2010 vorlegen, vgl. Opll, Zwang und 								Willkür.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3061</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-00_2_0_4_2_4_485_3061"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-03-00_2_0_4_2_4_485_3061"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-03-00_2_0_4_2_4_485_3061</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3061</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-03-01" to="1187-03-31">(1187
+									Februar – März)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Regensburg">(Regensburg)</placeName>
+												<location><geo decls="#WGS">49.0167, 12.1</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Pfalzgraf Otto (der Jüngere von Wittelsbach) 									sowie eine Reihe lokaler (Regensburger) Zeugen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich überträgt dem <hi rend="spaced">Kloster 									Prüfening </hi>im Rahmen eines Gütertausches durch die Hand 								Pfalzgraf Ottos (des Jüngeren von Wittelsbach) in Reichsbesitz 								stehende, gegen einen Zins von 75 Pfennigen in der Hand des 								Regensburger Bürgers Hartwig befindliche Äcker in der Vorstadt von 								Regensburg (<hi rend="italic">in suburbio Ratispone</hi>). <span n="witnesses">Z.: Pfalzgraf Otto (der Jüngere von Wittelsbach) 									sowie eine Reihe lokaler (Regensburger) Zeugen</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Acht, Fragmente Prüfeninger Traditionen, MIÖG 								78 (1970) 248 f.; Schwarz, Die Traditionen des Klosters Prüfening 								(Qu. u. Erörterungen zur Bayer. Gesch. N.F. 39/1, 1991) 184 n<hi rend="sup">o</hi> 232 (zu 1187).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die Vorbemerkung zu D.956, sowie Schmid, 								Regensburg (Regensburger Histor. Forschungen, Bd. 6, 1977) 182.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

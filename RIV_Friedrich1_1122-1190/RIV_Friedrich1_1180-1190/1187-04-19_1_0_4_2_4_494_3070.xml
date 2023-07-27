@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3070</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-19_1_0_4_2_4_494_3070"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-19_1_0_4_2_4_494_3070"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-04-19_1_0_4_2_4_494_3070</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426848180" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3070</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-04-19" to="1187-04-19">1187
+									April 19</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Giengen (<hi rend="italic">XIII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. maii, apud Gingen</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Kollegiatstift St. Corbinian zu Innichen</hi> die diesem von 								Kaiser Otto (I., dem Großen) geschenkten Güter in Innichen (<hi rend="italic">predia in loco Intichinge sita … ecclesie sancte 									dei genitricis ac beatissimi confessoris Corbiniani</hi>) samt 								den zugehörigen, namentlich angeführten Almen, die er für frei von 								jeglicher Gewalt außer der des mit dem Königsbann belehnten Vogtes 								erklärt, und er gewährt dem Stift das Recht der Appellation an den 								kaiserlichen Hof. Z. (wohl der Rechtshandlung in Regensburg) siehe 								oben Reg. 3064. – <hi rend="italic">Iohannes imp. aule canc. vice 									Cunradi Maguntini archiep. et Germanie archicanc.</hi>; unter 								Heranziehung des im 12. Jh. zur Sicherung der Rechte und Besitzungen 								des damals neu organisierten Kollegiatstiftes gefälschten DO.I.448 								(VU.) verfasst und geschrieben von GK; <span n="seal"> 									SP.D.</span>. <hi rend="italic">Rationi consonum ac</hi>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Orig.: Stiftsarchiv Innichen (A). Kop.: 								Gleichzeitige Kopie ebenda beiliegend (B); Kopie des 14. Jh. ebenda 								(C). Teilfaks.: Koch, Schrift der Reichskanzlei, Abb. 								92. Druck: MG.DF.I.958. Regg.: Wiesflecker, Reg. der 								Grafen von Görz 1, 79 n<hi rend="sup">o</hi> 286; Stumpf 4477.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu die in der Vorbemerkung zum D. gebotenen 								Erläuterungen. – Die Rechtshandlung dürfte nach der Übereinstimmung 								der Zeugenreihe mit den in Regensburg genannten Persönlichkeiten 								schon einige Wochen vorher in der bayerischen Herzogsmetropole 								stattgefunden haben, vgl. dazu Reg. 3064.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_958" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

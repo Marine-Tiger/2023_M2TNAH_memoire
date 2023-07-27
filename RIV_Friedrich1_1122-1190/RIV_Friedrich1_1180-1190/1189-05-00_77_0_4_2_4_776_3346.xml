@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3346</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_77_0_4_2_4_776_3346"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-00_77_0_4_2_4_776_3346"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-00_77_0_4_2_4_776_3346</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1387196694" value="2013-12-16"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3346</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-01" to="1189-05-31">(1180–1189 Ende Mai)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>; SI.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Mundiert von GG, 									der auch das Wort <hi rend="italic">abbati</hi> auf die 									Rückseite dieser Littera clausa setzte, während die Worte <hi rend="italic">de Scafhusin</hi> von jener Hand stammen, die 									auch im Kontext Ergänzungen und Verbesserungen 									vorna</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich ersucht den <hi rend="spaced">Konvent 									von Schaffhausen</hi> (<hi rend="italic">Scafhusin</hi>) um 								Zustimmung zur Verleihung eines Klostershofes in der Nähe des Rheins 								an den kaiserlichen Kämmerer Konrad, worum er den Abt schon während 								dessen Aufenthalts bei Hofe gebeten hat, und um Überlassung einer 								weiteren Pfründe an diesen mit dem Recht der Weitervergabe an eine 								geeignete Persönlichkeit. –<span n="clerk"> Mundiert von GG, 									der auch das Wort <hi rend="italic">abbati</hi> auf die 									Rückseite dieser Littera clausa setzte, während die Worte <hi rend="italic">de Scafhusin</hi> von jener Hand stammen, die 									auch im Kontext Ergänzungen und Verbesserungen 									vornahm</span><span n="seal">; SI.D.</span><span n="incipit"> 									<hi rend="italic">Dum dilectus noster</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dum dilectus noster</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Schaffhausen (A). Faks.: 								Kaiserurk. in Abb. X, 16<hi rend="sup">f</hi>. Drucke: Stumpf, 								Acta ined., 740 n<hi rend="sup">o</hi> 529; 								MG.DF.I.1030. Regg.: Urkundenregister für Schaffhausen 1, 12 									n<hi rend="sup">o</hi> 87a; Stumpf 4573b.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den äußeren Merkmalen dieser <hi rend="italic">littera clausa </hi>sowie zur Frage der Besiegelung vgl. die 								Vorbemerkung zum D. Die Ausstellungszeit – der Hinweis auf die 								Anwesenheit des Schaffhausener Abtes am kaiserlichen Hof könnte 								gegebenenfalls auf die Ausstellung des DF.I.996 für Schaffhausen am 								26. April 1189 in Giengen (Reg. 3251) zu beziehen sein – lässt sich 								nicht näher eingrenzen, vgl. Herkenrath, Reichskanzlei 1181 bis 								1190, 313.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00194" type="external" n="unkown">Abbildung in KUA</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

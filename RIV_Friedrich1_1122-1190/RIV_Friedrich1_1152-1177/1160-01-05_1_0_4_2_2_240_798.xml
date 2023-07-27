@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 798</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-01-05_1_0_4_2_2_240_798"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1160-01-05_1_0_4_2_2_240_798"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1160-01-05_1_0_4_2_2_240_798</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 798</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1160-01-05" to="1160-01-06">1160 Januar 5-6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Lager vor Crema</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Graf Bonifaz von Verona, Graf Manfred, Sohn des Gozius, Guido von Canossa (Podestà von Bologna, vgl. Reg. 671), Graf Friedrich von Eppan, Oldefredus von Casanova, Albert von Urbana, Ostatius von Ronco, Martinus longus, Mengosus, Heinrich der Deutsche, Zanettus, Seneschall der Markgrafen, Berizetus de Casale, Manzinus und Albertus de Coppasora sowie Albertus de Sala</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Herzog Welf (VI.) von Spoleto investiert (<hi rend="italic">cum imperator bone memorie [!] Federicus Italiam intrasset et in episcopatu Cremone apud Cremam cum exercitu ad obsidionem permaneret</hi>) die Markgrafen Obizo, Albert und den nicht anwesenden Fulco (von Este) mit Este, Arquà, Petrarca, Solesino und Merendola, vereinbart mit ihnen gegenseitige Unterstützung, wobei Obizo den Kaiser und Albert diesen, Herzog Heinrich (den Löwen) und den Bischof von Adria ausnehmen, beauftragt Albert von Urbana mit der Vornahme der Besitzeinweisung und beurkundet die tags zuvor gewährte Verzeihung für die Angriffe von seiten der markgräflichen Familie sowie die eidliche Verpflichtung der Markgrafen zur Bezahlung der noch ausstehenden Hälfte der 300 Pfund Pfennige an seinen Boten bis zum kommenden Sonntag nach Aschermittwoch (1160 Februar 14). <span n="witnesses">Z.: Graf Bonifaz von Verona, Graf Manfred, Sohn des Gozius, Guido von Canossa (Podestà von Bologna, vgl. Reg. 671), Graf Friedrich von Eppan, Oldefredus von Casanova, Albert von Urbana, Ostatius von Ronco, Martinus longus, Mengosus, Heinrich der Deutsche, Zanettus, Seneschall der Markgrafen, Berizetus de Casale, Manzinus und Albertus de Coppasora sowie Albertus de Sala</span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Gloria, CD. Padovano 2, 40 n<hi rend="sup">o</hi>  710 (zu 1159). Reg.: Feldmann, Welf VI., Regg. 93-96; Stumpf 3877.</p></div>
+				
+				
+					<div type="commentary"><p>Vorurkunde ist Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-10-27_1_0_4_2_1_245_245.html" type="internal" n="regesten">245</ref>. - Zur Datierung - angegeben ist das Inkarnationsjahr 1159 - vgl. Feldmann, a. a. O., Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1152-06-01_1_0_4_2_1_94_94.html" type="internal" n="regesten">94</ref>  Anm. 1.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0077" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

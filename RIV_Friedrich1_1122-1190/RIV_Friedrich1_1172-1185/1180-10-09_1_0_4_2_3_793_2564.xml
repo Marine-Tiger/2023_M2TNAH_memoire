@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2564</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-09_1_0_4_2_3_793_2564"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-10-09_1_0_4_2_3_793_2564"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-10-09_1_0_4_2_3_793_2564</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606286" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2564</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-10-09" to="1180-10-09">1180 Oktober 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Altenburg">Altenburg</placeName>
+												<location><geo decls="#WGS">50.9833, 12.45</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(septimo idus octobris, Aldenburch)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gothefridus imperialis aule canc. vice Cristiani Moguntini archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Heranziehung der Urkunde Bischof Udos von Naumburg von 1140 (Boehme, UB. des Klosters Pforte 1, 4 n<hi rend="sup">o</hi>  3; VU.I) für die Publicatio, des DK.III.42 (VU.II) für Teile der Dispositio und — genauso wie bei DF.I.801 (= Reg. 2565) des DF.I.392 (=</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Wichmann von Magdeburg und Siegfried von Bremen, Bischof Udo II. von Naumburg, Elekt Baldram von Brandenburg, die Äbte Azzo von Bosau und Rüdiger von St. Georg (zu Naumburg), <hi rend="italic">summus prepositus</hi>  Dietrich von Naumburg, Kapellan und Kanoniker Berthold von Naumburg, Propst Dietrich von Meißen, Herzog Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dietrich von Landsberg, die Grafen Dedo von Groitzsch (<hi rend="italic">Grvze</hi>), Friedrich von Brehna, Heinrich von Schwarzburg und Heinrich von Buch, weiters Hartmann von Lobdeburg, Konrad von Boxberg (<hi rend="italic">Bochensberch</hi>), Albert von Hildenburg, Albert von Grumbach (<hi rend="italic">Grunenbach</hi>), Friedrich von Boblas, Siegfried von (Ehren-)Hain (<hi rend="italic">Hagen</hi>), Hugo von Warthe, Timo von Colditz, Reinher von Wormstedt, Hartnid von Allerstedt und sein Sohn Hartnid, Heinrich von Würchhausen, Heremfrid von Allerstedt, Macelin und Wichnand von Buch</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Zisterzienserkloster Pforta</hi>  (<hi rend="italic">fratres de Porta</hi>) in seinen Schutz und erklärt es für frei von allen Herrschaftsrechten und Abgabenforderungen seiner Untertanen, verpflichtet die Bischöfe von Naumburg, Ersatz für das zwischen seinem Vorgänger und Oheim, König Konrad (III.), und Bischof Udo von Naumburg abgeschlossene Tauschgeschäft über die Güter in Schmölln (<hi rend="italic">de concambio Zmolnensi</hi>) zu leisten, und bestätigt den Ankauf einer Mühle in Püchau (<hi rend="italic">Pichov</hi>) von Dietrich von Leisnig, die die Mönche <hi rend="italic">iure Francorum</hi>  und gegen eine jährliche Abgabe von sechs Solidi an den Meier besitzen sollen. <span n="witnesses">Z.: die Erzbischöfe Wichmann von Magdeburg und Siegfried von Bremen, Bischof Udo II. von Naumburg, Elekt Baldram von Brandenburg, die Äbte Azzo von Bosau und Rüdiger von St. Georg (zu Naumburg), <hi rend="italic">summus prepositus</hi>  Dietrich von Naumburg, Kapellan und Kanoniker Berthold von Naumburg, Propst Dietrich von Meißen, Herzog Bernhard von Sachsen, die Markgrafen Otto von Meißen und Dietrich von Landsberg, die Grafen Dedo von Groitzsch (<hi rend="italic">Grvze</hi>), Friedrich von Brehna, Heinrich von Schwarzburg und Heinrich von Buch, weiters Hartmann von Lobdeburg, Konrad von Boxberg (<hi rend="italic">Bochensberch</hi>), Albert von Hildenburg, Albert von Grumbach (<hi rend="italic">Grunenbach</hi>), Friedrich von Boblas, Siegfried von (Ehren-)Hain (<hi rend="italic">Hagen</hi>), Hugo von Warthe, Timo von Colditz, Reinher von Wormstedt, Hartnid von Allerstedt und sein Sohn Hartnid, Heinrich von Würchhausen, Heremfrid von Allerstedt, Macelin und Wichnand von Buch</span>. — <span n="chancellor"><hi rend="italic">Gothefridus imperialis aule canc. vice Cristiani Moguntini archiep. et Germanie archicanc.</hi> </span>; <span n="clerk">unter Heranziehung der Urkunde Bischof Udos von Naumburg von 1140 (Boehme, UB. des Klosters Pforte 1, 4 n<hi rend="sup">o</hi>  3; VU.I) für die Publicatio, des DK.III.42 (VU.II) für Teile der Dispositio und — genauso wie bei DF.I.801 (= Reg. 2565) des DF.I.392 (= Reg. 1172; VU.III) für Corroboratio und Pönformel offenbar von demselben Empfängerschreiber wie D. 801 (= Reg. 2565) angefertigt</span>. <span n="incipit"><hi rend="italic">Imperialis apicem potestatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis apicem potestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Diplomatar des Klosters Pforta aus dem 13. Jh. f. 4, Bibliothek zu Schulpforta (B). Drucke: Boehme, UB. des Klosters Pforte 1, 39 n<hi rend="sup">o</hi>  24; MG.DF.I.800. Regg.: Dobenecker, Reg.2, n<hi rend="sup">o</hi>  574; Rosenfeld, UB. des Hochstifts Naumburg 1, 292 n<hi rend="sup">o</hi>  306; Stumpf 4307.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Grafentitel des Edelfreien Heinrich von Buch, des Bruders Erzbischof Christians von Mainz, vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 267; zur Identifizierung des Siegfried von (Ehren-)Hain siehe schon oben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1173-05-07_1_0_4_2_3_252_2027.html" type="internal" n="regesten">2027</ref>; der unter den Zeugen genannte Kapellan und Kanoniker Berthold von Naumburg stieg in der Folge zum Bischof von Naumburg auf, vgl. dazu Plassmann, a.a.O., 279.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Kunde, Das Zisterzienserkloster Pforte (Quellen und Forschungen zur Geschichte Sachsen-Anhalts 4, 2003) 64 ff. und 273 Nr. †21, bringt das abschriftlich überlieferte DF.I.800 mit dem Pfortenser Fälschungskomplex vom Anfang des 13. Jahrhunderts in Verbindung.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0278" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_800" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

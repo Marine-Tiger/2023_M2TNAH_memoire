@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 182</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-00_1_0_4_2_1_182_182"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1153-06-00_1_0_4_2_1_182_182"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1153-06-00_1_0_4_2_1_182_182</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426236957" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 182</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1153-06-01" to="1153-06-30">1153 (Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(eadem die, qua prefatus Arnoldus cancellarius in archiepiscopum Maguntine sedis sublimatus est, Vuormacie)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Silvius</hi>  <hi rend="spaced">Clerieux</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et regie curie canc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DK. III. 132, das vermutlich von Wibald für den Entwurf dieses Diploms herangezogen wurde, von einem Deutschen mundiert; war mit einer Goldbulle besiegelt.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln, die Bischöfe Konrad von Augsburg, Burchard von Straßburg, Gunther von Speyer und Konrad von Worms, Abt Wibald von Stablo, die Herzoge Friedrich von Schwaben und Elsaß, der Sohn Kaiser (!) Konrads III., Heinrich von Sachsen, Pfalzgraf Hermann bei Rhein, die Grafen Ulrich von Lenzburg, Werner von Baden (<hi rend="italic">Bathena</hi>) und Amadeus von Genf, Guigo von Domène und Peter von Vinay (<hi rend="italic">Vinaico</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt den Edlen <span sameAs="recipient"><hi rend="spaced">Silvius</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Clerieux</hi> </span>  (<hi rend="italic">Clariaco</hi>) und dessen Erben mit der Burg Clérieux sowie mit Charmagnieu (<hi rend="italic">Charamaneum</hi>) samt dazugehörigen Zöllen und Weggeldern und den anderen Gütern, die er vom Reich besitzt, unter Vorbehalt der Gerechtsame des Reiches und gegen Erfüllung seiner Verpflichtungen zur Heeresfolge und zum Hofdienst (<hi rend="italic">servitium tam in militia quam in curia, quale debent casati nostri, qui similia beneficia a nobis habent</hi>) und bestimmt, daß die Mannschaft ausschließlich ihm und seinen Nachfolgenrn zu leisten sei. <span n="witnesses">Z.: Erzbischof Arnold von Köln, die Bischöfe Konrad von Augsburg, Burchard von Straßburg, Gunther von Speyer und Konrad von Worms, Abt Wibald von Stablo, die Herzoge Friedrich von Schwaben und Elsaß, der Sohn Kaiser (!) Konrads III., Heinrich von Sachsen, Pfalzgraf Hermann bei Rhein, die Grafen Ulrich von Lenzburg, Werner von Baden (<hi rend="italic">Bathena</hi>) und Amadeus von Genf, Guigo von Domène und Peter von Vinay (<hi rend="italic">Vinaico</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Maguntine sedis archiep. et regie curie canc.</hi> </span>; <span n="clerk">unter Verwendung von DK. III. 132, das vermutlich von Wibald für den Entwurf dieses Diploms herangezogen wurde, von einem Deutschen mundiert; war mit einer Goldbulle besiegelt.</span> <span n="incipit"><hi rend="italic">Principalem munificentiam decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Principalem munificentiam decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Notarielle Abschrift von 1430 März 21, Departementalarchiv Grenoble (D); Abschrift von 1669 (aus einem Vidimus von 1345 März 18) im Schloßarchiv S. Vallier, Drôme (E); Abschrift (17. Jh.) in documents manuser. de Guy Allard 8, f. 561 in der Stadtbibliothek Grenoble (F). Drucke: Stumpf, Acta ined. 481 n<hi rend="sup">o</hi>  388; MG. DF. I. 61. Reg.: Chevalier Reg. Dauphinois 1, Sp. 659 n<hi rend="sup">o</hi>  3940 zu Juni 7; Stumpf 3676 und S. 544.</p></div>
+				
+				
+					<div type="commentary"><p>Die von Hirsch, Urkundenfälschungen (Forsch. zur Gesch. d. deutschen Kaiserzeit 1, 1937) 112 ff., geäußerten Bedenken gegen die Echtheit hat Brumm, Zur Frage der Echtheit, MIÖG 57 (1949) 287 ff. und 303 f., entkräftet. Hugo von Baux wandte sich in den Auseinandersetzungen mit dem Grafen von Barcelona an Wibald mit der Bitte, für ihn beim König einzutreten (Jaffé, Mon. Corb. 565 n<hi rend="sup">o</hi>  428 zu 1153, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1153-00-00_1_0_4_2_1_183_183.html" type="internal" n="regesten">183</ref>). Es ist anzunehmen, daß eine in Worms anwesende Gesandtschaft des Edlen von Baux DK. III. 132 vorlegte, das Wibald als Vorlage für den Entwurf des gleichzeitig erbetenen Diploms für den Edlen von Clérieux verwendete. Zur in der Datierung erwähnten Wahl Arnolds zum Erzbischof von Mainz, die während des Wormser Aufenthaltes erfolgte, vgl. auch Schöntag, Mainz (Qu. u. Forsch. zur hess. Gesch. 22, 1973) 21. - Zu &amp;quot;Kaiser&amp;quot; Konrad III. Herkenrath, in: WdF 390 (1975) 335.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0067" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_61" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

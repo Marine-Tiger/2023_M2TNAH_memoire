@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1368</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-09_1_0_4_2_2_810_1368"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-09_1_0_4_2_2_810_1368"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-06-09_1_0_4_2_2_810_1368</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426246377" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1368</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-06-09" to="1164-06-09">1164 Juni 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V yd. iun., Papię)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Rainald</hi>  <hi rend="spaced">Köln</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von RH</scribe>
+				
+				
+					<testis function="witnesses">Z. (der Investitur): Christian, Kanzler des kaiserlichen Hofes, und Propst Adelhoh (<hi rend="italic">Aloldus</hi>) von Goslar</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt <span sameAs="recipient"><hi rend="spaced">Rainald</hi> </span>, den Elekten von <span sameAs="recipient"><hi rend="spaced">Köln</hi> </span>  und Erzkanzler für Italien, wegen seiner unzählbaren Verdienste mit Dairago und den im Umkreis darum gelegenen, namentlich angeführten Gütern und Burgen sowie mit den genannten Rechten am jenseitigen Ufer des Ticino, nämlich den Reichsrechten in Trecate, Torre di Momo, Castelletto und Tronzano im Bistum Vercelli. <span n="witnesses">Z. (der Investitur): Christian, Kanzler des kaiserlichen Hofes, und Propst Adelhoh (<hi rend="italic">Aloldus</hi>) von Goslar</span>. - <span n="clerk">Verfaßt und geschrieben von RH</span>; <span n="seal">SP. 2.</span>  <span n="incipit"><hi rend="italic">Consueta imperialis nostrę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Consueta imperialis nostrę</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Historisches Archiv der Stadt Köln (A). Drucke: Lacomblet, Niederrhein. UB. 1, 280 n<hi rend="sup">o</hi>  407; MG. DF. I. 445. Reg.: Knipping, Reg. Köln 2, n<hi rend="sup">o</hi>  798; Stumpf 4018.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Darmstädter, Reichsgut 175 ff. mit Karte (S. 178). - Zu den Orten vgl. auch Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-12-22_1_0_4_2_1_263_263.html" type="internal" n="regesten">263</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-12-22_2_0_4_2_1_264_264.html" type="internal" n="regesten">264</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0215" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%228404%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_445" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

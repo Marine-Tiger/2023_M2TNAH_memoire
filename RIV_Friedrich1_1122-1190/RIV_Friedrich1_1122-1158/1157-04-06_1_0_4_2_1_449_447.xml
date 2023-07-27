@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 447</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-06_1_0_4_2_1_449_447"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1157-04-06_1_0_4_2_1_449_447"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1157-04-06_1_0_4_2_1_449_447</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426239370" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 447</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1157-04-06" to="1157-04-06">1157 April 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VIII idus aprilis, Wormatie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Zölle</hi>  <hi rend="spaced">Main</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>wie DF. I. 164 (Reg. 446) unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  30) enthaltenen Formulargutes in der Kanzlei verfaßt, beide Originale von RC mundiert</scribe>
+				
+				
+					<testis function="witnesses">Z. des Fürstenspruches (s. Reg. 376): Erzbischof Wichmann von Magdeburg, die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Gunther von Speyer, Wigger von Brandenburg, Abt Markward von Fulda, Herzog Friedrich von Schwaben, der Sohn König Konrads (<hi rend="italic">Cůnradi regis piissimi</hi>), die Markgrafen Albrecht (der Bär) und Konrad (von Wettin), Landgraf Ludwig von Thüringen, Pfalzgraf Otto von Wittelsbach, Graf Berthold von Andechs, Burggraf Poppo von Würzburg und sein Bruder Berthold, die Grafen Ludwig von Rieneck (in A irrig: <hi rend="italic">Rheno</hi>), Wolfram von Wertheim und Raboto (von Frensdorf), Markward von Grumbach, Gottfried von Lauda (<hi rend="italic">Luden</hi>) und Walther von Oberschüpf (<hi rend="italic">Scipphe</hi>) Z. der Bestätigung: Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Eberhard von Bamberg, Gunther von Speyer, Albert von Trient, Gebhard von Würzburg, Abt Markward von Fulda, Herzog Matthäus von Lothringen, Pfalzgraf Hermann bei Rhein, Landgraf Ludwig von Thüringen, die Grafen Emicho von Leiningen (<hi rend="italic">Linigen</hi>) und Gottfried von Sponheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich hebt nach den Klagen der Bürger und Kaufleute (Reg. 367) in Ausführung einer zu Weihnachten darauf (1155 Worms) wegen Nichterscheinens der Geladenen auf Grund eines Fürstenspruches getroffenen Entscheidung (s. Reg. 376) alle <span sameAs="recipient"><hi rend="spaced">Zölle</hi> </span>  am <span sameAs="recipient"><hi rend="spaced">Main</hi> </span>  (<hi rend="italic">in fluvio Mogo</hi>) zwischen Bamberg und Mainz (<hi rend="italic">a Babenberc usque Maguntiam</hi>) auf, mit Ausnahme derjenigen zu Neustadt (<hi rend="italic">Nuwestat</hi>) und Aschaffenburg (<hi rend="italic">Ascaffenburc</hi>) - sieben Tage vor und nach Mariä Himmelfahrt (August 15) vier Denare für jedes neue Schiff - sowie des kaiserlichen Zolls zu Frankfurt (<hi rend="italic">Frankenfort</hi>), und befreit die den Main aufwärts fahrenden Kaufleute (<hi rend="italic">per Mogum ascendentes seu per ripam fluminis, quę via regia esse dinoscitur, funes trahentes</hi>) von allen Zöllen. <span n="witnesses">Z. des Fürstenspruches (s. Reg. 376): Erzbischof Wichmann von Magdeburg, die Bischöfe Gebhard von Würzburg, Eberhard von Bamberg, Gunther von Speyer, Wigger von Brandenburg, Abt Markward von Fulda, Herzog Friedrich von Schwaben, der Sohn König Konrads (<hi rend="italic">Cůnradi regis piissimi</hi>), die Markgrafen Albrecht (der Bär) und Konrad (von Wettin), Landgraf Ludwig von Thüringen, Pfalzgraf Otto von Wittelsbach, Graf Berthold von Andechs, Burggraf Poppo von Würzburg und sein Bruder Berthold, die Grafen Ludwig von Rieneck (in A irrig: <hi rend="italic">Rheno</hi>), Wolfram von Wertheim und Raboto (von Frensdorf), Markward von Grumbach, Gottfried von Lauda (<hi rend="italic">Luden</hi>) und Walther von Oberschüpf (<hi rend="italic">Scipphe</hi>)</span>. <span n="witnesses">Z. der Bestätigung: Erzbischof Arnold von Mainz, die Bischöfe Konrad von Worms, Eberhard von Bamberg, Gunther von Speyer, Albert von Trient, Gebhard von Würzburg, Abt Markward von Fulda, Herzog Matthäus von Lothringen, Pfalzgraf Hermann bei Rhein, Landgraf Ludwig von Thüringen, die Grafen Emicho von Leiningen (<hi rend="italic">Linigen</hi>) und Gottfried von Sponheim</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice Arnoldi Maguntini archiep. et archicanc.</hi> </span>; <span n="clerk">wie DF. I. 164 (Reg. 446) unter Verwendung des im Cod. Udalrici (ed. Eccard n<hi rend="sup">o</hi>  30) enthaltenen Formulargutes in der Kanzlei verfaßt, beide Originale von RC mundiert</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Si ea, quę</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ea, quę</hi></p></div>
+				
+				
+					<div type="transmission"><p><hi rend="spaced">Zwei</hi>  Orig.: Hauptstaatsarchiv München, Kaiserselekt n<hi rend="sup">o</hi>  496 a (A) aus dem Bamberger und 496 b (A<hi rend="sup">1</hi>  expeditio duplicata), aus dem Würzburger Archivbestand. Drucke: MG. Const. 1, 225 n<hi rend="sup">o</hi>  162; MG. DF. I. 165. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  143; Stumpf 3767.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Fürstenspruch des Jahres 1155 und zur wesentlich später erfolgten Verbriefung vgl. Appelt, Kaiserurkunde und Fürstenseatenz, MIÖG 71 (1963) 39 und 44. Der schon verstorbene Pfalzgraf Hermann bei Rhein (2. Okt. 1156, siehe DF. I. 161, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1157-03-00_1_0_4_2_1_443_440.html" type="internal" n="regesten">440</ref>) wird hier irrtümlich statt Pfalzgraf Konrad als Beurkundungszeuge genannt. - Abbildung des Siegels bei Deér (FS. Hahnloser, 1961) 67 Abb. 24, jetzt VuF 21 (1977) Tafel 41 Abb. 24.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zum DF.I.154 betreffs der Aufhebung der Mainzölle, dessen zwei erhaltenen Originale mittlerweile im Staatsarchiv Würzburg, Inv.-Nr. WU 25/72a–b einliegen, wird zuletzt behandelt bei Rothmann, Mainzölle, in: Die Staufer und Italien, Bd. 2: Objekte (2010) 296 f. Kat.-Nr. VI.D.1 (auf S. 296 eine Abbildung des ersten Originals = Staatsarchiv Würzburg, Inv.-Nr. WU 25/72a).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0151" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item>Abbildung im LBA Marburg:<ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210235%22" type="external" n="unkown">Bamberger Original</ref>, <ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210279%22" type="external" n="unkown">Würzburger Original</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_165" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

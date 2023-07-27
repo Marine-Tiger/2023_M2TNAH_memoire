@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 271</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-00_1_0_4_2_1_271_271"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-01-00_1_0_4_2_1_271_271"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-01-00_1_0_4_2_1_271_271</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238513" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 271</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-01-01" to="1155-01-31">(1155 Januar)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Papst Hadrian (IV.)</hi>  <hi rend="spaced">Nachfolgern</hi></recipient>
+				
+				
+				
+					<scribe>In Wiederholung von DF. I. 52 (VU.) von A II. C mundiert.</scribe>
+				
+				
+					<testis function="witnesses">die päpstliche Legaten Kardinalbischof Cencius von Porto, die Kardinalpriester Bernhard (von S. Clemente) und Oktavian (von S. Cecilia), Erzbischof Arnold von Köln und Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Bischof Konrad von Passau, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard (<hi rend="italic">Ebrahardi</hi>) von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordolebi</hi>) von Basel, die Äbte Wibald von Corvey und Markward von Fulda, Propst Albert von Aachen, der königliche Kapellan Gottfried, die Herzoge Heinrich von Sachsen, Berthold von Burgund, die Markgrafen Hermann von Baden (<hi rend="italic">Vade</hi>), Otakar von Steier, die Grafen Ulrich von Lenzburg, Werner von Baden, Berthold von Andechs (<hi rend="italic">Anedexe</hi>), Ernst von Hohenburg und andere Fürsten unseres Heeres</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert <span sameAs="recipient"><hi rend="spaced">Papst Hadrian (IV.)</hi> </span>  und dessen <span sameAs="recipient"><hi rend="spaced">Nachfolgern</hi> </span>  (... <hi rend="italic">sicut domino pape Eugenio firmavimus, ita paternitati vestre et successoribus vestris et Romane ecclesie fatemur et asserimus firmiter nos teneri</hi>...) den mit Eugen (III.) abgeschlossenen Konstanzer Vertrag (DF. I. 52, Reg. 169). <span n="witnesses">Z.: die päpstliche Legaten Kardinalbischof Cencius von Porto, die Kardinalpriester Bernhard (von S. Clemente) und Oktavian (von S. Cecilia), Erzbischof Arnold von Köln und Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Bischof Konrad von Passau, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard (<hi rend="italic">Ebrahardi</hi>) von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordolebi</hi>) von Basel, die Äbte Wibald von Corvey und Markward von Fulda, Propst Albert von Aachen, der königliche Kapellan Gottfried, die Herzoge Heinrich von Sachsen, Berthold von Burgund, die Markgrafen Hermann von Baden (<hi rend="italic">Vade</hi>), Otakar von Steier, die Grafen Ulrich von Lenzburg, Werner von Baden, Berthold von Andechs (<hi rend="italic">Anedexe</hi>), Ernst von Hohenburg und andere Fürsten unseres Heeres</span>. - <span n="clerk">In Wiederholung von DF. I. 52 (VU.) von A II. C mundiert.</span> <span n="incipit"><hi rend="italic">Regie maiestatis dignitas</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Regie maiestatis dignitas</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Transsumpt, angelegt auf dem Konzil von Lyon 1245 (Rouleaux de Cluny II), Cod. lat. 8989 der Nationalbibliothek Paris (B). Drucke: MG. Const. 1, 213 n<hi rend="sup">o</hi>  151; Zatschek, Beiträge, SB. Wien 210/3 (1930) 49 zu 1155 FebruarMärz; MG. DF. I. 98. Reg.: Batelli, I Transunti di Lione del 1245, MIÖG 62 (1954) 349 n<hi rend="sup">o</hi>  4; Stumpf 3712 zu 1155 Juni 18-19.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Anwendung des Kaisertitels vgl. die Vorbemerkung zu DF. I. 52. Die Abweichungen gegenüber der V U. erklären sich zum Teil aus den veränderten Zeitumständen. - Zur Entsendung der päpstlichen Legaten an Friedrich vgl. Jaffé, Mon. Corb. 569 n<hi rend="sup">o</hi>  434; JL. 9966 (vgl. dazu Dünken, Legaten, Hist. Stud. 209, 1931, 24 f.). - Zur Vertragserneuerung vgl. Simonsfeld, Jahrbücher 290 f. mit Anm. 11, Zatschek, Beiträge, SB. Wien 210/3 (1930) 24 ff., Rassow, Honor imperii 66 ff. und Maccarrone, Papato e impero 105 ff. Sie wird auch bei Vinzenz von Prag (MG. SS XVII, 666), allerdings nach der Kaiserkrönung, erwähnt. Auch inhaltlich geht die von ihm erwähnte gegenseitige Zustimmung (<hi rend="italic">Post hanc itaque victoriam imperator cum domno papa Adriano federe et pacto inito, quod Romanos qui hostes imperii se fecerant, nec ipsum regem Sicilie qui imperio non obaudiebat, sine consilio et voluntate domni pape, nec e converso domnus papa sine consilio et voluntate domni imperatoris in gratiam eos reciperet, f eliciter in Lonbardiam revertitur</hi>.) über DDF. I. 51, 52 und 98 hinaus. - Zur Ausweitung der Vertragsdauer und zur Nennung Gottfrieds (von Viterbo) vgl. Baaken, Beurteilung Gottfrieds von Viterbo (Geschichtsschreibung und geistiges Leben im Mittelalter = FS. Heinz Löwe, 1978) 376.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0094" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_98" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

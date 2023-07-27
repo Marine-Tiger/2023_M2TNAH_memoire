@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2668</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-29_1_0_4_2_4_89_2668"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-09-29_1_0_4_2_4_89_2668"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-09-29_1_0_4_2_4_89_2668</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843521" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2668</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-09-29" to="1182-09-29">1182
+									September 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Regensburg (<hi rend="italic">tertio kalend. octobris, Ratyspone</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotfridus imp. aule canc. vice Kristiani (!) 										Maguntinensis sedis archiep. et Germanie 									archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst und, wie 									die Nachzeichnung des Monogramms in B beweist, auch geschrieben 									von Robert</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Konrad von 									Salzburg, Bischof Kuno von Regensburg, Rudolf, Protonotar des 									kaiserlichen Hofes, Herzog Otto von Bayern, Pfalzgraf Otto von 									Wittelsbach, Markgraf Berthold von Vohburg, Heinrich von 									Donaustauf, (der Ministeriale bzw. die Ministerialen?) Albert 									Nothaft, Reinbot und Albert von Süssenbach, Marschall Konrad von 										<hi rend="italic">Wattenhofen</hi> (Waltenhofen?) und Robert 										(<hi rend="italic">Rubertus</hi>) von Liebenstein</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das <hi rend="spaced">Kloster 									Reichenbach</hi> (<hi rend="italic">monasterium in Reychenbach 									in honore sancte virginis Marie constructum</hi>) unter Abt 								Reginbot in seinen Schutz und bestätigt ihm die namentlich 								angeführten Besitzungen im Egergau und in Schwaben, darunter auch 								die von seinem Oheim König Konrad (III.) geschenkten Güter zu 								Hohenstein und Rohr (<hi rend="italic">Rore</hi>) und die von ihm 								selbst dem Kloster geschenkte Kirche in Hohenstein (heute: 								Högelsteinkapelle). <span n="witnesses">Z.: Erzbischof Konrad von 									Salzburg, Bischof Kuno von Regensburg, Rudolf, Protonotar des 									kaiserlichen Hofes, Herzog Otto von Bayern, Pfalzgraf Otto von 									Wittelsbach, Markgraf Berthold von Vohburg, Heinrich von 									Donaustauf, (der Ministeriale bzw. die Ministerialen?) Albert 									Nothaft, Reinbot und Albert von Süssenbach, Marschall Konrad von 										<hi rend="italic">Wattenhofen</hi> (Waltenhofen?) und Robert 										(<hi rend="italic">Rubertus</hi>) von Liebenstein</span>. 									–<span n="chancellor"> 									<hi rend="italic">Gotfridus imp. aule canc. vice Kristiani (!) 										Maguntinensis sedis archiep. et Germanie 									archicanc.</hi></span>; <span n="clerk">verfasst und, wie 									die Nachzeichnung des Monogramms in B beweist, auch geschrieben 									von Robert</span>.<span n="incipit"> 									<hi rend="italic">Ad eterni regni.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterni regni.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Liber copialis des Klosters Reichenbach 								vom Anfang des 15. Jh., früher Hauptstaatsarchiv München, Kloster 								Reichenbach, lit. n<hi rend="sup">o</hi> 1/2 f. 57’, jetzt 								Staatsarchiv Amberg, Kloster Reichenbach 69 f. 57’ (B); Abschrift 								des 18. Jh. eines Vidimus von 1465 Mai 11, früher Hauptstaatsarchiv 								München lit. n<hi rend="sup">o</hi> 4 1/2 p. 74, jetzt Staatsarchiv 								Amberg, Nachlass Joseph Moritz 9 p. 74 (C); beglaubigte Abschrift 								von 1700 August 12, Hauptstaatsarchiv München, Kloster Reichenbach 								lit. n<hi rend="sup">o</hi> 6 Stück 2 f. 8’ (D); Abschrift des 18. 								Jh. eines Vidimus von 1708 Juni 2, Hauptstaatsarchiv München, 								Kloster Reichenbach lit. n<hi rend="sup">o</hi> 6 Stück 1 f. 4’ 								(E). Drucke: Mon. Boica 27, 32 n<hi rend="sup">o</hi> 41; 								MG.DF.I.832. Reg.: Stumpf 4348.</p></div>
+				
+				
+					<div type="commentary"><p>Zu der verlorenen Urkunde Konrads III. für 								Reichenbach vgl. B.-Niederkorn-Hruza, Reg. 444; nach der Urkunde 								Bischof Kunos von Regensburg von 1183 Juni 11 (Reg. 2712) war der 								Kaiser auch Klostervogt von Reichenbach. – Zur Identifizierung des 								Heinrich von Donaustauf vgl. Plassmann, Struktur des Hofes, 268 und 								286; der ministerialische Zeuge Albert Nothaft stammte aus dem 								Egerland von Burg Wildstein (Skalná), vgl. Plassmann, a.a.O., 278; 								zu Robert von Liebenstein (Kr. Tirschenreuth) vgl. Plassmann, 								a.a.O., 290. – Vgl. zum D. Herkenrath, Reichskanzlei 1181 bis 1190, 								139.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_832" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2784</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-22_1_0_4_2_4_205_2784"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-09-22_1_0_4_2_4_205_2784"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-09-22_1_0_4_2_4_205_2784</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844237" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2784</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-09-22" to="1184-09-22">1184
+									September 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Mailand (<hi rend="italic">X kal. octobr., Mediolani</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2 (vgl. Anm. p)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Wohl in 									Anlehnung an den Fürstenspruch von einem kanzleifremden, 									besonders rechtskundigen Mann verfasst und nach der Orthographie 									der Zeugennamen, die gegen die Zuweisung an GG spricht, wohl 									auch von einem Kanzleifremde</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Konrad von Mainz, Robert von 									Vienne und Algisius von Mailand, die Bischöfe Otto von Bamberg, 									Eberhard von Merseburg, Bertram von Metz, Konrad von Worms, 									Heinrich von Verdun, Milo (<hi rend="italic">Mirus</hi>) von 									Turin, Wilhelm von Asti und Guala (<hi rend="italic">Warus</hi>) 									von Bergamo, die Äbte Siegfried von Hersfeld und Gregor von 									Prüm, Landgraf Ludwig von Thüringen, die Grafen Heinrich Guercio 									(von Savona), Gerhard von Looz/Borgloon, Heinrich von Diez, 									Diepold von Lechsgemünd und Simon von Sponheim sowie (Graf) 									Heinrich von Altendorf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich stellt auf Grund einer auf dem feierlichen 									<hi rend="spaced">Hoftag</hi> in Mailand (<hi rend="italic">in 									sollempni curia Mediolani celebrata</hi>) in Anwesenheit 								deutscher und italienischer Reichsfürsten (<hi rend="italic">coram 									principibus imperii Theutonicis pariter et Latinis</hi>) von 								Bischof Roger von Cambrai erbetenen und von Erzbischof Konrad von 								Mainz gefällten Fürstensentenz fest, dass der Bischof von Cambrai 								nicht verpflichtet sei, die von Kaufleuten von ihm eingeforderten 								Schulden seines Vorgängers Alard zu begleichen, weil kein 								geistlicher Fürst ohne Zustimmung des Kaisers und ohne den Rat des 								Kapitels Darlehen aufnehmen und Kirchengut verkaufen oder verpfänden 								dürfe. Er bezeugt auf Fragen des Bischofs, dass er dessen genanntem 								Vorgänger Alard niemals eine derartige Zustimmung erteilt habe und 								von diesem auch nicht um eine solche gebeten worden sei. <span n="witnesses">Z.: die Erzbischöfe Konrad von Mainz, Robert von 									Vienne und Algisius von Mailand, die Bischöfe Otto von Bamberg, 									Eberhard von Merseburg, Bertram von Metz, Konrad von Worms, 									Heinrich von Verdun, Milo (<hi rend="italic">Mirus</hi>) von 									Turin, Wilhelm von Asti und Guala (<hi rend="italic">Warus</hi>) 									von Bergamo, die Äbte Siegfried von Hersfeld und Gregor von 									Prüm, Landgraf Ludwig von Thüringen, die Grafen Heinrich Guercio 									(von Savona), Gerhard von Looz/Borgloon, Heinrich von Diez, 									Diepold von Lechsgemünd und Simon von Sponheim sowie (Graf) 									Heinrich von Altendorf</span>. –<span n="clerk"> Wohl in 									Anlehnung an den Fürstenspruch von einem kanzleifremden, 									besonders rechtskundigen Mann verfasst und nach der Orthographie 									der Zeugennamen, die gegen die Zuweisung an GG spricht, wohl 									auch von einem Kanzleifremden geschrieben</span>; <span n="seal"> SP.2 (vgl. Anm. p)</span>.<span n="incipit"> 									<hi rend="italic">Notum esse volumus.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 13. Jh. im Cartulaire de 								l’église de Cambrai ms. 1152 f. 113’, Stadtbibliohtek Cambrai (B); 								notarielle Abschrift von 1300, Departementalarchiv Lille, Cambrai 									122<hi rend="sup">bis</hi> (C). Drucke: MG. Const. 1, 425 									n<hi rend="sup">o</hi> 300; MG.DF.I.866. Regg.: Wauters, 								Table chronol. 2, 782; Diestelkamp – Rotter, Urkundenregesten 1, 375 									n<hi rend="sup">o</hi> 477; Stumpf 4385.</p></div>
+				
+				
+					<div type="commentary"><p>Ob es sich bei den <hi rend="italic">mercatores</hi>, die ihre Darlehen vergeblich einforderten, 								tatsächlich um Italiener handelte (so als Vermutung in der 								Vorbemerkung zum D. angegeben), muss wohl dahingestellt bleiben. 								Jedenfalls wurde die Sentenz nicht „von deutschen und lateinischen 								Fürsten” erbeten (so als Begründung in der Vorbemerkung), sondern in 								deren Anwesenheit von Erzbischof Konrad von Mainz gefällt. – Der 								hier bezeugte Aufenthalt des Kaisers in Mailand ist ein deutliches 								Zeichen für den seit dem Frieden von Konstanz (Reg. 2715 und 2716) 								eingetretenen Wandel im Verhältnis zur italienischen Städtewelt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_866" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

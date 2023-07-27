@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. D111</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-25_2_0_4_2_1_111_D111"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1152-07-25_2_0_4_2_1_111_D111"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1152-07-25_2_0_4_2_1_111_D111</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1341068207" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. D111</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1152-07-25" to="1152-07-25">(1152) Juli 25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">Ulm</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hoftag</hi>  <hi rend="spaced">St. Laurentius</hi>  <hi rend="spaced">Ittingen</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf einem <span sameAs="recipient"><hi rend="spaced">Hoftag</hi> </span>  zu Ulm (<hi rend="italic">in curia quę aput Vlmam in festo beati Iacobi apostoli celebrataest</hi>) dem Augustiner Chorherrenstift <span sameAs="recipient"><hi rend="spaced">St. Laurentius</hi> </span>  zu <span sameAs="recipient"><hi rend="spaced">Ittingen</hi> </span>  gemäß einer Urkunde Herzog Welfs (VI.) die von diesem vollzogene Schenkung des Gutes Ittingen und der Vogtei der Kirche in Üßlingen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Urkunde Herzog Welfs (VI.) von (1152) Juli 25, Ulm, ed. Thurgauisches UB. 2, 119 n<hi rend="sup"></hi>  35; Feldmann, Welf VI. Reg. 35; Stumpf 3634a.</p></div>
+				
+				
+					<div type="commentary"><p>Aus dieser Urkunde erfahren wir den genauen Termin des Ulmer Hoftages vom Sommer 1152. Die Zeugen der Urkunde Welfs gehören zum Kreis der damals Anwesenden (Z.: aus der <hi rend="italic">familia</hi>  des Herzogs Welf Friedrich, sein Bruder Dieto und Hermann von der Burg Ravensburg, Konrad von Schmalneck, Friedrich von Waldburg, Adelbero von Neuburg und sein Bruder Kiso, Heinrich von Ramingen, weiters Graf Konrad von Vallei, Werner von Altdorf, Adelgoz von Immelstetten, Rudolf von Kicklingen, Heinrich von Hagnau).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04-opl1980-0040" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

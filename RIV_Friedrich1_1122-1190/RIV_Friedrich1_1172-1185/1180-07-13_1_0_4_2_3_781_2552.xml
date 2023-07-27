@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2552</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-07-13_1_0_4_2_3_781_2552"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1180-07-13_1_0_4_2_3_781_2552"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1180-07-13_1_0_4_2_3_781_2552</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426606247" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2552</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1180-07-13" to="1180-07-13">1180 Juli 13</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen <hi rend="spaced">Hoftag</hi>  zu Regensburg</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III<hi rend="sup">o</hi>  idus iulii, Ratispone in sollempni curia)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice domni Christiani Mogyntinę sedis archiep. Germanię archicanc.</hi></notarius>
+				
+				
+					<scribe>hinsichtlich von Arenga, Publicatio und Corroboratio verfaßt von GG, der auch das Monogramm eingezeichnet hat, während das D. sonst von Empfängerhand geschrieben ist, die Ruf, Studien zum Urkundenwesen der Bischöfe von Freising, 31 und 36 f., dem Freising</scribe>
+				
+				
+					<testis function="witnesses">der vorgenannte Erzbischof Konrad (von Salzburg), Bischof Kuno von Regensburg, Markgraf Berthold von Istrien, die Pfalzgrafen Otto der Ältere und Otto der Jüngere (von Wittelsbach), Graf Gebhard von Sulzbach und Burggraf Friedrich (von Regensburg) sowie als weitere Zeugen Bischof Diepold von Passau, Elekt Heinrich von Chur, Bischof Garsidonius von Mantua, Kanzler Gottfried, Notar Rudolf, Propst Romarius von Halberstadt, Burggraf Heinrich (von Regensburg), Graf Siboto von Neuburg, Heinrich von Altendorf, Degenhart von Hellenstein, Burggraf Konrad von Nürnberg, Friedrich von Hohentrüdingen und sein Bruder Albert, Amalbert von Lochhausen, Marschall Heinrich von Pappenheim, Kämmerer Burchard, Kämmerer Atzo, Kämmerer Regilo (von Regensburg), Rudolf von Hohenwaldeck, Heinrich Felixpuer (Freisinger Ministeriale), Adilolt von Dörnbach (Freisinger Ministeriale), Engilwan von Achdorf und sein Bruder Heinrich, Rudolf von <hi rend="italic">Riede</hi>, Marschall Hartwig (des Bischofs von Freising), Berthold von Reichertshausen, Sibot und Wolfher von Holzhausen</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Bischof Albert von Freising</hi>, der bei Hofe mit sieben rechtmäßigen Zeugen, nämlich Erzbischof Konrad von Salzburg, Bischof Kuno von Regensburg, Markgraf Berthold von Istrien, Graf Gebhard von Sulzbach, den Pfalzgrafen Otto dem Älteren und Otto dem Jüngeren (von Wittelsbach) sowie Burggraf Friedrich (von Regensburg), über die gewaltsame Verlegung des Freisinger Marktes Föhring samt der dortigen (Isar)brücke nach München durch Heinrich (den Löwen) von Braunschweig, ehedem Herzog von Bayern und Sachsen (<hi rend="italic">nobilis vir Hainricus de Bruneswic quondam dux Bawarię et Saxonię</hi>), Klage geführt hat, aufgrund eines Fürstenspruches die Ungültigkeit dieser Verlegung und den rechtmäßigen Besitz von Markt und Brücke zu Föhring. Zudem erlaubt er ihm, Güter, die er aus eigenen Mitteln erworben hat, nach seinem Gutdünken an kirchliche Einrichtungen zu übertragen. <span n="witnesses">Z.: der vorgenannte Erzbischof Konrad (von Salzburg), Bischof Kuno von Regensburg, Markgraf Berthold von Istrien, die Pfalzgrafen Otto der Ältere und Otto der Jüngere (von Wittelsbach), Graf Gebhard von Sulzbach und Burggraf Friedrich (von Regensburg) sowie als weitere Zeugen Bischof Diepold von Passau, Elekt Heinrich von Chur, Bischof Garsidonius von Mantua, Kanzler Gottfried, Notar Rudolf, Propst Romarius von Halberstadt, Burggraf Heinrich (von Regensburg), Graf Siboto von Neuburg, Heinrich von Altendorf, Degenhart von Hellenstein, Burggraf Konrad von Nürnberg, Friedrich von Hohentrüdingen und sein Bruder Albert, Amalbert von Lochhausen, Marschall Heinrich von Pappenheim, Kämmerer Burchard, Kämmerer Atzo, Kämmerer Regilo (von Regensburg), Rudolf von Hohenwaldeck, Heinrich Felixpuer (Freisinger Ministeriale), Adilolt von Dörnbach (Freisinger Ministeriale), Engilwan von Achdorf und sein Bruder Heinrich, Rudolf von <hi rend="italic">Riede</hi>, Marschall Hartwig (des Bischofs von Freising), Berthold von Reichertshausen, Sibot und Wolfher von Holzhausen</span>. — <span n="chancellor"><hi rend="italic">Gotefridus imperialis aulę canc. vice domni Christiani Mogyntinę sedis archiep. Germanię archicanc.</hi> </span>; <span n="clerk">hinsichtlich von Arenga, Publicatio und Corroboratio verfaßt von GG, der auch das Monogramm eingezeichnet hat, während das D. sonst von Empfängerhand geschrieben ist, die Ruf, Studien zum Urkundenwesen der Bischöfe von Freising, 31 und 36 f., dem Freisinger Notar und Kapellan Gottfried zuweisen möchte</span>; <span n="seal">SP.2.</span>  <span n="incipit"><hi rend="italic">Que imperiali statuuntur</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Que imperiali statuuntur</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München, Hochstift Freising Urkunden 36 (A). Drucke: Mon.Boica 29<hi rend="sup">a</hi>, 438 n<hi rend="sup">o</hi>  535; MG.DF.I.798. Faks.: Kaiserurk. in Abb. X, 14. Regg.: Dirr, Denkmäler des Münchner Stadtrechts 1, 5 n<hi rend="sup">o</hi>  2; Diestelkamp — Rotter, Urkundenregesten 1, 354 n<hi rend="sup">o</hi> 451; Stumpf 4305.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Inhalt vgl. DF.I.218 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1158-06-14_1_0_4_2_1_552_550.html" type="internal" n="regesten">550</ref>). — Die Ann. Scheftlar. maiores, MG. SS XVII, 337 berichten zu 1180 von der Zerstörung Münchens sowie vom Wiederaufbau von Föhring, die Ann. et Notae Undersdorfenses, MG. SS XVII, 332 sprechen zu ebendiesem Jahr davon, daß München damals unter der Regierung Friedrichs I. seinen Anfang nahm; vgl. dazu jetzt auch die Zusammenstellung der Quellen bei Stahleder, Herzogs- und Bürgerstadt (Chronik der Stadt München 1, 1995) 16 ff. — Zur frühen Entwicklung von München vgl. Maier, Marktgründung, in: Oberdeutsche Städte im Vergleich, hg. von Härtung — Eberl (Regio. Forschungen zur schwäbischen Regionalgeschichte 2, 1989) 16 ff. — Zur Identifizierung des unter den Zeugen genannten Kämmerers Regilo vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 271, zu Wolfher von Holzhausen (Kr. Erding) Plassmann, a.a.O., 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1442857026" value="2015-09-21"></date><p n="author">Dieter Rübsamen</p><p>Lit.: F. Scholz, Geschrieben von einem Neffen Barbarossas? : Neue Untersuchungen zur Regensburger Urkunde Friedrichs I. im Streit um München und Föhring (D.F.I. 798), in: Verhandlungen des Historischen Vereins für Oberpfalz und Regensburg 152 (2012), S. 7-31.
+</p>
+<p></p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0274" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00201" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_798" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

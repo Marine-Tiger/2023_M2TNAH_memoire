@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3434</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-22_2_0_4_2_4_864_3434"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-02-22_2_0_4_2_4_864_3434"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-02-22_2_0_4_2_4_864_3434</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3434</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-02-22" to="1190-02-22">1190
+									Februar 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Edirne">Adrianopel (Edirne)</placeName>
+												<location><geo decls="#WGS">41.6667, 26.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich lässt das <hi rend="spaced">Abkommen</hi> (siehe dazu Reg. 3431) <hi rend="spaced">mit 									Kaiser Isaak (II. Angelos)</hi> durch den Eid von 500 Rittern 								des Kreuzheeres ratifizieren.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Hist. de expeditione Friderici (Ansbert), ed. 								Chroust, MG. SS rer. Germ. N.S. 5, 66 (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 121 f.) (ohne 								Datierung); Hist. peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 								5, 150; Schreiben von Italienern, ed. Hampe, Adrianopel, NA 23 								(1898) 400; Einzelheiten bieten die Angaben im fragmentarisch 								überlieferten Schreiben des Kaisers an Heinrich VI., unten Reg. 								3443; den 22. Februar als Datum des Friedensschlusses erwähnen: Ann. 								s. Rudberti Salisburg., MG. SS IX, 777 und Hermanni Altah. Ann., MG. 								SS XVII, 385; Niketas Choniates II/6, ed. Bekker, 538 bzw. ed. van 								Dieten, 411 (deutsche Übersetzung bei Grabler, Abenteurer auf dem 								Kaiserthron, 215: auch in der Großen Kirche = Hagia Sophia in 								Konstantinopel wird das Abkommen von 500 Leuten aus dem gemeinen 								Volk und vom Hof beeidet, siehe dazu Reg. 3433).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Heinemeyer in seiner Edition der Chron. 								Fuldensis (AfD Beiheft 1, 1976) 99 f. Anm. 2. – Zu der Möglichkeit, 								die in der von Hampe edierten Quelle bezeugte Eidesleistung zweier 								namentlich nicht genannter Geistlicher (eines Bischofs und eines 								Abtes) sowie des Berthold von Hohkönigsburg und des Markward von 								Annweiler im kaiserlichen Auftrag mit dem hier erwähnten Eid des 								Kreuzritter zu verbinden, vgl. die Bemerkungen bei Reg. 3433.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

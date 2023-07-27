@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3274</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_1_0_4_2_4_701_3274"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-05-28_1_0_4_2_4_701_3274"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-05-28_1_0_4_2_4_701_3274</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3274</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-05-28" to="1189-05-28">1189
+									Mai 25–28 (Pfingsten)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem Vierfeld bei Pressburg</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p><hi rend="spaced">Hoftag:</hi> Friedrich schlägt 								an der Grenze zwischen Österreich und Ungarn die Zelte auf und 								feiert hier das Pfingstfest (= 28. Mai). Er hält einen allgemeinen 								Hoftag, wo er das Heer der Kreuzritter versammelt. In seinem Gefolge 								befinden sich neben den Teilnehmern am Kreuzzug auch die Bischöfe 								(Otto) von Bamberg und (Otto) von Freising sowie Herzog (Leopold) 								von Österreich, die ihm das Geleit geben. Anlässlich dieses 								Aufenthalts werden als Kreuzzugsteilnehmer zahlreiche Fürsten und 								Persönlichkeiten genannt, darunter die Erzbischöfe 								(Theodericus/Dietrich) von Besançon und Aimo von Tarentaise (stößt 								tatsächlich erst in Braničevo zum Kreuzheer, siehe dazu unten Reg. 								3381), die Bischöfe (Rudolf) von Lüttich, (Heinrich) von Basel, 								(Martin) von Meißen, Arnold von Osnabrück, (Gottfried) von Würzburg, 								(Konrad II.) von Regensburg, (Dietpold) von Passau und (Ugrinus) von 								Raab (Hist. de expeditione: <hi rend="italic">episcopus Iavarensis 									de Ungaria</hi>), Abt Isenrich von Admont, sein (= des Kaisers) 								eigener Sohn, Herzog Friedrich von Schwaben, Herzog (Berthold) von 								Dalmatien/Meranien, zugleich Markgraf von Istrien, die Markgrafen 								Berthold von Vohburg und Hermann von Baden, Graf (Florens) von 								Holland (Cont. Zwetlensis altera; Hist. de expeditione: <hi rend="italic">comes magnus de Hollant</hi>) und seine Söhne 								sowie sein Bruder, Graf Otto von Bentheim, des Weiteren die Grafen 								Heinrich von Sayn, Heinrich von Sponheim und sein Bruder Simon, 								Heinrich von Kuik, Dietrich von Wied, Engelbert von Berg, Heinrich 								von Saarbrücken, Friedrich von Abenberg und Poppo von Henneberg; aus 								Schwaben die Grafen Konrad von Öttingen, Ulrich von Kiburg und sein 								Bruder Graf Adalbert von Dillingen, Berthold von Neuenburg (<hi rend="italic">Nivvenburhc</hi>; zur Identifizierung siehe oben 								bei Reg. 3020) und Heinrich von Vöhringen; aus Bayern die Grafen 								Gebhard von Dollnstein, Siegfried von Lebenau (zu ihm siehe auch 								Reg. 3361), Konrad von Dornberg (Burggraf von Nürnberg) und Kuno von 								Falkenstein; aus Sachsen die Grafen Adolf von (Holstein-) 								Schauenburg, Christian von Oldenburg, Ludolf (<hi rend="italic">Liutoldus</hi>) von Hallermund und sein Bruder (Graf) Wilhelm 									(<hi rend="italic">Willibrandus</hi>; von Oldenburg) sowie 								Burchard von Wöltingerode; des Weiteren die Grafen Rupert von Nassau 								und sein Verwandter Walram und Graf Heinrich der Jüngere von Diez, 								die gemeinsam mit Bischof (Hermann) von Münster als Legaten des 								Kaisers nach Griechenland entsandt werden (zur Datierung siehe oben 								Reg. 3216); des Weiteren Graf (Heinrich/Simon?) von Salm und der 								Bruder des Grafen (Siegfried?) von Vianden, die sich dem Kreuzheer 								(etwas später) gemeinsam mit vielen Bürgern aus Metz bei Braničevo 								(siehe unten Reg. 3381) anschließen; des Weiteren Gaubert von 								Aspremont mit seinen Gefährten, die mit Bischof (Peter) von Toul im 								bulgarischen Gebiet zum Kreuzheer stoßen (siehe unten Reg. 3389); 								die herausragendsten Teilnehmer unter den Edlen sind folgende: aus 								Sachsen Burggraf (Burchard) von Magdeburg, (Graf) Widukind von 									Schwalenberg-Waldeck<hi rend="italic"> </hi>(<hi rend="italic">Swalenberch</hi>) und Liutger von Woldenberg; aus Österreich 								Vogt Friedrich von Berg und Otto von <hi rend="italic">Rammesperhc</hi>; aus Kärnten und der Steiermark (<hi rend="italic">Marchia</hi>) Liutold von <hi rend="italic">Walstein</hi> und (Graf) Adalbert von Weichselburg (Višnja 								Gora; <hi rend="italic">Wisselberhc</hi>); aus Bayern Diepold von 									<hi rend="italic">Liukinberhc</hi> (Leuchtenberg?), Heinrich von 									<hi rend="italic">Grunneberhc</hi>, Hadubrand von Arnsberg, Bodo 								von Massing, Konrad von Harbach, Adalbert von Bruckberg, Arnold von 									<hi rend="italic">Hornberg</hi> und Berenger von Gamburg (<hi rend="italic">Gamburhc</hi>); aus Schwaben und dem Elsass Konrad 								von Schwarzburg (<hi rend="italic">Swarzinberhc</hi>), Hermann von 								Hirzeck (<hi rend="italic">Hirzekke</hi>), Berthold von 								Hohkönigsburg und Heinrich von Isenburg (<hi rend="italic">Isinburhc</hi>); aus Franken Adalbert von Hildenburg, Adalbert 								von Grumbach, Adalbert von Hohenlohe, Eberhard und Reinhold von 								Reifenberg sowie Heinrich von <hi rend="italic">Hagen</hi>. Darüber 								hinaus nimmt eine unüberschaubare Zahl von Ministerialen und anderen 								ausgewählten Rittern teil. – Einige der mit dem Kreuz bezeichneten 								Fürsten, darunter die Könige Philipp (II. August) von Frankreich und 								Heinrich (II.) von England, Graf (Philipp) von Flandern, die Herzöge 								Otto von Böhmen, Gottfried von (Brabant-) Löwen und (Heinrich) von 								Limburg, die Bischöfe (Otto) von Speyer und (Roger) von Cambrai 								sowie die Grafen (Gerhard) von Looz/Borgloon, (Wilhelm) von Jülich, 								(Ludwig) von <hi rend="italic">Lâr</hi>, (Kuno) von Duraz, 								(Dietrich) von Hochstaden und (Ludwig) von Pfirt, brechen wegen 								diverser Streitigkeiten in der Heimat ihr Gelübde (am Kreuzzug 								teilzunehmen; teilweise brechen sie erst später auf). – Erzbischof 								(Hartwig) von Bremen, Landgraf (Ludwig) von Thüringen und die Grafen 								(Otto) von Geldern (zu ihm vgl. auch Reg. 3272) und (Simon) von 								Tecklenburg wählen die Meeresroute für ihre Kreuzfahrt. Alle 								Teilnehmer am Kreuzzug schwören einen Frieden (siehe Reg. 3276), ein 								Gesetz gegen Übeltäter wird erlassen und man berät über die 								Fortsetzung des Weges (Chron. reg. Col.). Am vierten Tag (Mai 28) 								erfolgt der Aufbruch, und an der Grenze nach Ungarn kommen Boten 								König (Belas III.) von Ungarn zum Herrscher, der ihm sein Land 								öffnet, den Kauf der nötigen Versorgungsgüter zusichert und 								allfällige Hindernisse auf dem Weg beseitigen lässt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. IV cap. 8, MG. SS 								XXI, 171; Chron. Fuldensis, ed. Heinemeyer, AfD Beiheft 1 (1976) 91 								Nr. 13a; Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. 								schol., 144; Cont. Claustroneoburg. III., MG. SS IX, 633; Cont. 								Zwetlensis altera, MG. SS IX, 544; Hist. de expeditione Friderici 								(Ansbert), ed. Chroust, MG. SS rer. Germ. N.S. 5, 17 ff. (zu Mai 25 								und 28; ausführliche Liste der Teilnehmer am Kreuzzug) (deutsche 								Übersetzung von Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 78 								ff.); Hist. peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 130 								f.; Otto von St. Blasien, Chronica, ed. Hofmeister, MG. SS rer. 								Germ. in us. schol., 46 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 90 (zu Mai 28); Sicardi ep. Cremon. 								Cronica, MG. SS XXXI, 169 (beim Eintritt nach Ungarn werden 90.000 								Kämpfer gezählt); Alberti Milioli Cron. imp., MG. SS XXXI, 647 (beim 								Eintritt nach Ungarn werden 90.000 Kämpfer, darunter 12.000 Ritter 								gezählt); Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 9 								(beim Eintritt nach Ungarn werden 90.000 Kämpfer, darunter 12.000 								Ritter gezählt); vgl. auch Ann. Pegav., MG. SS XVI, 266. – Der 								Vollständigkeit halber sei an dieser Stelle auch auf armenische 								Quellen zum Kreuzzug hingewiesen, die Petermann, Kreuzzüge aus 								armenischen Quellen, Abhh. d. Kgl. Preuß. Akad. d. Wiss. 1860 (1861) 								149 f., referiert.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Lokalisierung des Aufenthaltes vgl. Opll, 								Itinerar, 99 mit Anm. 2, wo darauf aufmerksam gemacht wird, dass das 								Kreuzheer damals zu beiden Seiten der Donau, sowohl im Gebiet von 								Pressburg (siehe dazu auch unten Reg. 3276) wie auch bei Wieselburg 								(heute: Teil der Stadt Mosonmagyaróvár in Ungarn) lagerte. – Bei der 								Nennung des Grafen Engelbert von Berg (zu ihm auch Reg. 3275) unter 								den Kreuzfahrern weist die Hist. de expeditione, a.a.O., 19 (vgl. 								a.a.O., 27) darauf hin, dass er auf dem Kreuzzug in Kubin (am linken 								Donauufer unterhalb von Belgrad) gestorben ist, eine Angabe, die für 								den Weg des Kreuzheeres (nicht zwingend auch für den des Kaisers 								selbst) nicht unwichtig ist. – Der Tod des Franken Reinhold von 								Reifenberg erfolgte nach derselben Quelle (a.a.O., 69) noch während 								des Aufenthalts des Kreuzheeres in Adrianopel (zwischen November 								1189 und März 1190), und am 16. März 1190 verstarb Bodo von Massing 								auf dem Weg von Adrianopel nach Gallipoli (Hist. de expeditione, 								a.a.O., 70). – Zur Person Graf Heinrichs (III.) des Jüngeren von 								Diez vgl. Schieffer, Heinrich II. von Diez, in: Italia et Germania. 								Liber Amicorum Arnold Esch (2001) 436 f. – Zur Nennung Beringers von 								Gamburg (Hist. de expeditione, a.a.O., 22 mit Anm. 3) auf dem 								Kreuzzug vgl. auch dessen Übereinkommen mit Erzbischof Adalbert von 								Mainz, erwähnt in der Klageschrift Erzbischof Konrads, ed. Acht, 								Mainzer UB. 2/2, 876 no 531 (884 mit Anmm. 126 und 127). – Zu den 								aus dem heute kärntnerisch-slowenischen Raum kommenden Teilnehmern, 								insbesondere zu dem hier angeführten Grafen von Weichselburg und 								Lebenau vgl. Kosi, Age of the Crusades, in: The Crusades and the 								Military Orders, ed. Z. Hunyadi and J. Laszlovszky (Budapest 2001) 								129 f.; denkbar wäre es, mit Kosi, ebda., auch den Halbbruder 								Siegfrieds von Lebenau, Otto I. von Trixen-Unterdrauburg, der – 								freilich schon im Jahre 1187 – im Rahmen eines Güterverkaufs an das 								Kloster St. Paul einen größeren Geldbetrag (62 Mark) <hi rend="italic">pro motione cruciferorum</hi> auftrieb (vgl. 								Jaksch, Mon. duc. Car. III, 501 no 1335), zu den Teilnehmern am 								Kreuzzug Friedrich Barbarossas zu zählen. – Zu den Teilnehmern am 								Kreuzzug vgl. auch Regg. 3245, 3259, 3264, 3266, 3272, 3273, 								3360–3364 und insbesondere 3367 sowie 3459.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

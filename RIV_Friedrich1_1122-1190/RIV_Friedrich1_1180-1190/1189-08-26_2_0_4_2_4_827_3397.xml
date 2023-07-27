@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3397</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-26_2_0_4_2_4_827_3397"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-26_2_0_4_2_4_827_3397"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-08-26_2_0_4_2_4_827_3397</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1341070486" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3397</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-08-26" to="1189-08-26">(1189
+									August 26 oder bald
+									danach)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Philippopel/Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Nach der engen 									stilistischen Verwandtschaft mit DD.1009 und 1010 wohl von 									Gottfried K verfasst</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet seinem Sohn <hi rend="spaced">König Heinrich (VI.)</hi> über die Ereignisse während des 								Kreuzuges: Die Griechen (Byzantiner) behindern ihn in gewohnter 								Weise, er ist beim Eintritt nach Bulgarien von deren Seite mehrfach 								überfallen worden und hat Gefangene genommen. Seine nach 								Konstantinopel vorausgesandten Boten sind nach anfänglicher guter 								Aufnahme durch den König (Kaiser Isaak II. Angelos) in Haft genommen 								worden, und über ihr Schicksal ist nichts bekannt. Schließlich ist 								er bis nach Philippopel (<hi rend="italic">Uinipolim</hi>), das von 								seinen Einwohnern völlig verlassen angetroffen worden ist, gekommen. 								Falls es nicht seinem Ziel hinderlich wäre, hätte er schon ganz 								Griechenland bis hin zu den Mauern von Konstantinopel seiner 								Herrschaft unterworfen. –<span n="clerk"> Nach der engen 									stilistischen Verwandtschaft mit DD.1009 und 1010 wohl von 									Gottfried K verfasst</span>. <span n="incipit"><hi rend="italic">Nobilitati tue significandum</hi></span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Nobilitati tue significandum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des frühen 13. Jh. im Cod. 								pal. lat. 211 f. 130 der Vatikanischen Bibliothek (B). Drucke: 								Böhmer, Acta imp., 152 n<hi rend="sup">o</hi> 162; 								MG.DF.I.1008. Reg.: Stumpf 4528.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								Eintreffen des Kaisers in Philippopel (Reg. 3392) sowie aus der 								Rückkehr der kaiserlichen Boten aus Konstantinopel, von der hier 								freilich noch nicht die Rede ist (siehe dazu unten Reg. 3403). – 								Nach dem Chron. Montis Sereni, MG. SS XXIII, 161, soll der Kaiser 								von der Überquerung der Dardanellen aus (siehe dazu unten Reg. 3442) 								Boten nach Deutschland zurückgeschickt haben, die seinen Sohn, König 								Heinrich (VI.), und die anderen Fürsten über die bisherigen 								Geschehnisse informierten. Boten an den königlichen Sohn gingen aber 								zuvor auch schon von Adrianopel ab, siehe dazu Reg. 3414.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

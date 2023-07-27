@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 208</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-02-03_1_0_4_2_1_208_208"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-02-03_1_0_4_2_1_208_208"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-02-03_1_0_4_2_1_208_208</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237028" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 208</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-02-03" to="1154-02-03">1154 Februar 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Bamberg">Bamberg</placeName>
+												<location><geo decls="#WGS">49.9, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III<hi rend="sup">o</hi>  non. febr., Babenberc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B., laut M.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Bamberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Ceizzolfus canc. vice Arnoldi archicanc.</hi></notarius>
+				
+				
+					<scribe>Bamberger Empfängerdiktat</scribe>
+				
+				
+					<testis function="witnesses">die Erzbischöfe Arnold von Mainz, Eberhard von Salzburg, Hillin von Trier, die Bischöfe Heinrich von Regensburg, Otto von Freising, Konrad von Passau, Anselm von Havelberg, Abt Markward von Fulda, die Herzoge Heinrich von Bayern, Welf, Pfalzgraf Otto von Bayern und seine Söhne Otto und Friedrich, die Markgrafen Otakar von Steier, Albrecht von Sachsen, Berthold von Cham (<hi rend="italic">Cambe</hi>), Burggraf Heinrich von Regensburg und sein Bruder, Graf Otto, die Grafen Gebhard von Sulzbach, Eckbert von Pitten (<hi rend="italic">Butene</hi>), Konrad von Dachau und sein Bruder Arnold, Berthold von Andechs, Berthold von Bogen, Ulrich von Lenzburg, Berthold von Tirol, Egeno von Vaihingen (<hi rend="italic">Vehingen</hi>); die Edelfreien (<hi rend="italic">nobiles et liberi</hi>) Markward von Grumbach, Ulrich von Herrlingen (<hi rend="italic">Hurningen</hi>), Albrecht von Hohentrüdingen (<hi rend="italic">Truhentingen</hi>), <hi rend="italic">Adeloldus Walpoto</hi>, Altman von Siegenburg, Ulrich von Altmannstein (<hi rend="italic">Steine</hi>), <hi rend="italic">Rubertus Wolf</hi>, Regenold von Ettling (<hi rend="italic">Otelingen</hi>), Gebhard von Waldeck und sein Bruder Markward, Albrecht von Perg, Heinrich von Ottendorf (<hi rend="italic">Otelohesdorf</hi>) und sein Bruder Meingoz; die Ministerialen Walter von Oberschüpf (<hi rend="italic">Schipphe</hi>), Hartmann von Siebeneich, Berthold von Rasch, Heinrich von Pappenheim, Hermann von Aisch, Billung von Memmelsdorf (<hi rend="italic">Memestorf</hi>) und sein Bruder Gundeloch, Eberhard von Thungfeld (<hi rend="italic">Tunteuelt</hi>), Albrecht von Stegaurach (<hi rend="italic">Vraha</hi>), Otnand von Bürglein und sein Bruder Adelbero</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich unterstellt der Kirche von <span sameAs="recipient"><hi rend="spaced">Bamberg</hi> </span>  (<hi rend="italic">ad altare sancti Petri Babenberc</hi>) abermals wie schon in Regensburg (Reg. 102) und in Stallbaum (Reg. 146) nach Zustimmung des Abtes Boleslaus und der Mönche zu Mariä Reinigung (Februar 2) die Abtei Niederaltaich (<hi rend="italic">abbatiam Altaha ... in pago Chunzengowe in comitatu comitis Eggeberti sitam</hi>) durch die Hand (Graf) Bertholds von Andechs zum Gedächtnis König Konrads III., der daselbst begraben ist, und wegen der Verdienste der Bamberger Kirche um das Reich und fügt auch die Vogtei hinzu, die ihm (Graf) Berthold (von Bogen) resigniert hat. <span n="witnesses">Z.: die Erzbischöfe Arnold von Mainz, Eberhard von Salzburg, Hillin von Trier, die Bischöfe Heinrich von Regensburg, Otto von Freising, Konrad von Passau, Anselm von Havelberg, Abt Markward von Fulda, die Herzoge Heinrich von Bayern, Welf, Pfalzgraf Otto von Bayern und seine Söhne Otto und Friedrich, die Markgrafen Otakar von Steier, Albrecht von Sachsen, Berthold von Cham (<hi rend="italic">Cambe</hi>), Burggraf Heinrich von Regensburg und sein Bruder, Graf Otto, die Grafen Gebhard von Sulzbach, Eckbert von Pitten (<hi rend="italic">Butene</hi>), Konrad von Dachau und sein Bruder Arnold, Berthold von Andechs, Berthold von Bogen, Ulrich von Lenzburg, Berthold von Tirol, Egeno von Vaihingen (<hi rend="italic">Vehingen</hi>); die Edelfreien (<hi rend="italic">nobiles et liberi</hi>) Markward von Grumbach, Ulrich von Herrlingen (<hi rend="italic">Hurningen</hi>), Albrecht von Hohentrüdingen (<hi rend="italic">Truhentingen</hi>), <hi rend="italic">Adeloldus Walpoto</hi>, Altman von Siegenburg, Ulrich von Altmannstein (<hi rend="italic">Steine</hi>), <hi rend="italic">Rubertus Wolf</hi>, Regenold von Ettling (<hi rend="italic">Otelingen</hi>), Gebhard von Waldeck und sein Bruder Markward, Albrecht von Perg, Heinrich von Ottendorf (<hi rend="italic">Otelohesdorf</hi>) und sein Bruder Meingoz; die Ministerialen Walter von Oberschüpf (<hi rend="italic">Schipphe</hi>), Hartmann von Siebeneich, Berthold von Rasch, Heinrich von Pappenheim, Hermann von Aisch, Billung von Memmelsdorf (<hi rend="italic">Memestorf</hi>) und sein Bruder Gundeloch, Eberhard von Thungfeld (<hi rend="italic">Tunteuelt</hi>), Albrecht von Stegaurach (<hi rend="italic">Vraha</hi>), Otnand von Bürglein und sein Bruder Adelbero</span>. - <span n="chancellor"><hi rend="italic">Ceizzolfus canc. vice Arnoldi archicanc.</hi> </span>; <span n="clerk">Bamberger Empfängerdiktat</span>; <span n="seal">B., laut M.</span> <span n="incipit"><hi rend="italic">Si ad culmen</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si ad culmen</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift aus dem Anfang des 14. Jh., Bamberger Kanzleibücher n<hi rend="sup">o</hi>  1 f. 106', Staatsarchiv Bamberg (B); Kopialbuch des Abtes Hermann von Niederaltaich, Nachtrag des 14. Jh. mit verkürzter Zeugenliste, Kloster Niederaltaich Lit. n<hi rend="sup">o</hi>  39 f. 125', Hauptstaatsarchiv München (C); Gelehrte Abschrift, angelegt vor 1821, dem Erscheinungsjahr der Regesta Boica, aus dem zur Zeit des Druckes der Mon. Boica 29<hi rend="sup">a</hi>  (1831) bereits in Verlust geratenen Original, Manuskriptensammlung n<hi rend="sup">o</hi>  189b, Hauptstaatsarchiv München (M). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 311 n<hi rend="sup">o</hi>  485; MG. DF. I. 70. Reg.: Stumpf 3681.</p></div>
+				
+				
+					<div type="commentary"><p>Mit diesem D. wurde die Unterstellung von Niederaltaich unter Bamberg endgültig vollzogen, nachdem sich Abt Boleslaus Bischof Eberhard schon am 2. Februar 1153 unterworfen hatte, s. dazu die Urkunde des Bamberger Bischofs, Mon. Boica 11, 166 n<hi rend="sup">o</hi>  43; vgl. Herzberg-Fränkel, Niederaltaich, MÖIG Erg.Bd. 10 (1928) 130 f. und jetzt auch Stadtmüller-Pfister, Niederaltaich 741-1971, 138 f. Hermann von Niederaltaich nannte als Grund für diese Unterstellung das Wegfallen der Ungarngefahr und die Tatsache, daß Bamberg damals in Bayern eben sehr mächtig war, Hermannus Altahensis, De inst. mon. Altah., MG. SS XVII, 372 (zu 1153), vgl. Ann. Osterhovenses, MG. SS XVII, 541 (zu 1153). - Heinemann, CD. Anhaltinus 1, 296 n<hi rend="sup">o</hi>  405 nimmt nach Sprenger, Diplomat. Gesch. v. Banz 200 f. mit Anm. 2 an, daß Bischof Eberhard von Bamberg eine eigene Urkunde über die Übergabe der Vogtei von Niederaltaich an Bamberg ausgestellt habe; dabei handelt es sich aber um einen Irrtum, da Sprenger, a. a. O. die Zeugenreihe unseres D. anführt. - Etwa in diese Zeit ist auch die Widmung in Adalberts Vita Heinrici II. imperatoris an Friedrich zu setzen (MG. SS IV, 814: <hi rend="italic">Regi munifico sit in exemplum Friderico</hi>), da er dabei als König bezeichnet wird. Hauck, Geblütsheiligkeit (Liber floridus. FS. P. Lehmann, 1950) 199 schließt aus der Widmung auch auf einen Auftrag Barbarossas zur Anfertigung einer Prachthandschrift der Vita; vgl. dazu jetzt auch Opll, MIÖG 88 (1980) 83.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0074" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_70" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

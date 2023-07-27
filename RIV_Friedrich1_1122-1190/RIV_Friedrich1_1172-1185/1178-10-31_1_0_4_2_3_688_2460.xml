@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2460</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-31_1_0_4_2_3_688_2460"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-10-31_1_0_4_2_3_688_2460"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-10-31_1_0_4_2_3_688_2460</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605406" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2460</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-10-31" to="1178-10-31">1178 Oktober 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Speyer">Speyer</placeName>
+												<location><geo decls="#WGS">49.3167, 8.4333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(pridie kalendas novembris, Spire)</hi></dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">Elekt K(onrad) von Worms, Domscholaster Andreas von Speyer, Propst Johannes von St. German (in Speyer), Propst Dieter von St. Wido (in Speyer), K(onrad) von Quirnbach, Bligger von Neckarsteinach (<hi rend="italic">Steina</hi>), Werner von Bolanden und Drushard (von Kästenburg)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt, daß Elekt Ulrich von Speyer die <hi rend="italic">villa</hi>  Spesbach (<hi rend="italic">Spethesbach</hi>), die als Teil der ihm von Wezel von Berg resignierten Güter in seine (= des Bischofs) Hände gelangt ist, dem <hi rend="spaced">Zisterzienserkloster Eußerthal</hi>  unter der Bedingung übergeben hat, daß die Mönche künftig jährlich zu Maria Geburt (= September 8) ihm und seinen Nachfolgern 12 Pfennige entrichten mögen. <span n="witnesses">Z.: Elekt K(onrad) von Worms, Domscholaster Andreas von Speyer, Propst Johannes von St. German (in Speyer), Propst Dieter von St. Wido (in Speyer), K(onrad) von Quirnbach, Bligger von Neckarsteinach (<hi rend="italic">Steina</hi>), Werner von Bolanden und Drushard (von Kästenburg)</span>. — Unter Beteiligung des HE (Corroboratio) von Burkhard verfaßt. <span n="incipit"><hi rend="italic">Ea, que coram</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ea, que coram</hi></p></div>
+				
+				
+					<div type="transmission"><p>Drucke: Würdtwein, Nova Subsidia 12, 102 n<hi rend="sup">o</hi>  30; Remling, UB. von Speyer 1, 117 n<hi rend="sup">o</hi>  102; MG.DF.I.771. Reg.: Stumpf 4271.</p></div>
+				
+				
+					<div type="commentary"><p>Nur durch den Druck bei Würdtwein bekanntes D., das in einer eigenen Urkunde Bischof Ulrichs über den Besitz von Speyer (Würdtwein, a.a.O., 111 n<hi rend="sup">o</hi>  34; Remling 121 n<hi rend="sup">o</hi>  106) als VU. benützt wurde, vgl. dazu die Vorbemerkung zum D. — Zur Identifizierung des Drushard von Kästenburg (Zeugenliste) vgl. Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 262 f.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			<div type="addenda"><list><item><date type="creation" n="1409299995" value="2014-08-29"></date><p n="author">Christian Burkhart, Dossenheim, RNK</p><p>Entgegen einer im 19. Jh. aufgekommenen falschen, aber noch heute verbreiteten Ansicht (vgl. u. a. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Plassmann,_Hof_unter_Friedrich" type="external" n="opac">Plassmann</ref>, a.a.O., S. 200 / Anm. 160, S. 204, S. 205 / Anm. 189, S. 283, S. 290, S. 291 u. S. 318) gehören der Edelfreie Konrad von Quirnbach  (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_3" type="external" n="opac">RI IV,2,3</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-3-friedrich-i/nr/1178-10-31_1_0_4_2_3_688_2460.html" type="external" n="unkown">2460</ref>: Speyer, 31.10.1178) sowie der Speyerer Domkanoniker Ulrich von Quirnbach und der Edelfreie Drutwin von Quirnbach <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_2,_4" type="external" n="opac">RI IV,2,4</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-2-4-friedrich-i/nr/1186-11-00_1_0_4_2_4_452_3028.html" type="external" n="unkown">3028</ref>: o.O., [??.11.]1186), wie überhaupt sämtliche in 22 Quellen um 1090 bis 1231 genannten Herren von Quirnbach nicht nach Quirnbach in der Westpfalz (Lkr. Kusel, RP) [Landkapitel Glan im Archidiakonat des Dompropstes von Mainz], sondern nach Kürnbach im Kraichgau (Lkr. Karlsruhe, BW) [Landkapitel Bretten im rechtsrheinischen Archidiakonat des Propstes von St. Guido zu Speyer]. Entsprechend ist die Zuordnung des Edelfreien Drutwin von Quirnbach (<ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=RI_IV,_3" type="external" n="opac">RI IV,3</ref> Nr. <ref target="http://www.regesta-imperii.de/regesten/4-3-0-heinrich-iv/nr/1196-01-21_1_0_4_3_1_585_495.html" type="external" n="unkown">495</ref>: Hagenau, 21.01.1196), hier Register S. 85 u. 129 (Kürnbach, früher: Lkr. Sinsheim = heute: Lkr. Karlsruhe, BW) korrekt.
+</p>
+<p>Das geht hervor aus:- Eduard Edwin <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Becker,_Kondominat_Kürnbach" type="external" n="opac">Becker</ref>, Geschichte des Kondominats zu Kürnbach bis 1598 [mit Beilagen]. In: Archiv für hessische Geschichte und Altertumskunde NF 4 (Darmstadt 1907) S. 1-154, hier S. 12 mit Anm. 1-15 (Exkurs I).
+</p>
+<p>- <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Dolch,_Siedlungsnamensbuch_Pfalz" type="external" n="opac">Martin Dolch / Albrecht Greule</ref>, Historisches Siedlungsnamenbuch der Pfalz [= Veröffentlichungen der Pfälzischen Gesellschaft zur Förderung der Wissenschaften in Speyer 83], Speyer 1991, S. 374.
+</p>
+<p>- Hans <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Fell,_Kirchenorganisation_Speyer" type="external" n="opac">Fell</ref>, „... APUD SANCTUM MARTINUM ...“ – Ein Splitter zur frühen Kirchenorganisation des Bistums Speyer, in: Archiv für mittelrheinische Kirchengeschichte 47 (1995) S. 371-404, hier S. 377 / Anm. 12n.
+</p>
+<p>- Michael <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Münch,_Quirnbach_und_Liebsthal" type="external" n="opac">Münch</ref>, Aus Quirnbachs und Liebsthals mittelalterlicher Vergangenheit, in: Roland Paul / Dieter Zenglein (Bearb.), Quirnbach – Beiträge zur Ortsgeschichte. Festschrift zur 850-Jahrfeier der Gemeinde, Kusel 2002, S. 13-23, hier S. 13u. S. 20.
+</p>
+<p>- Christian <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Burkhart,_Besiedlung_Odenwald" type="external" n="opac">Burkhart</ref>, Bischof Konrad I. von Worms und die Ahnen des Minnesängers Bligger von (Neckar-)Steinach – Neue Erkenntnisse zur Besiedlung des südlichen Odenwaldes im hohen Mittelalter, in: Der Wormsgau 29 (2012) S. 31-63, hier S. 51ff.
+</p>
+<p>- Christian <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Burkhart,_Bligger" type="external" n="opac">Burkhart</ref>, BLIGGER – Der Minnesänger mit der Harfe, der kein (Neckar-)Steinacher mehr sein wollte, in: Archiv für hessische Geschichte und Altertumskunde NF 72 (2014) S. 1-46, hier S. 25f.</p></item></list></div>
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0242" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_771" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

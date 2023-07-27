@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2774</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-00_1_0_4_2_4_195_2774"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-07-00_1_0_4_2_4_195_2774"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-07-00_1_0_4_2_4_195_2774</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426844169" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2774</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-07-01" to="1184-07-31">(1184
+									Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt in Gegenwart seiner Söhne, König 								(Heinrichs VI.) und Herzog (Friedrichs) von Schwaben, sowie Bischof 								(Ulrichs) von Speyer eine Übereinkunft der <hi rend="spaced">Domherren von Speyer</hi> mit den <hi rend="spaced">Herren 									von Boyneburg</hi>, nämlich Konrad, dessen Neffen (<hi rend="italic">filium fratris sui</hi>) Konrad und Vogt Albert. 								Gemäß diesem Übereinkommen erhalten die Boyneburger die in ihrer 								Verfügung stehenden (<hi rend="italic">qui presunt</hi>) Güter der 								Speyerer Kanoniker im Bereich von Boyneburg, von denen jährlich im 								Advent zwei Pfund der Münze von Eschwege zu entrichten sind, was sie 								aber nicht befolgt haben, nochmals übertragen. Im Wiederholungsfall 								sollen sie diese aber verlieren, und ein Erbrecht für den Sohn 								Konrads oder einen seiner Neffen wird nur im Falle des 								Wohlverhaltens der jetzigen Inhaber zugesichert. Festgelegt wird, 								dass beide Seiten im Falle künftiger Beschwernisse der Güter vor dem 								Kaiser erscheinen müssen. – Kein Hinweis für eine Beteiligung der 								Reichskanzlei, möglicherweise von einem Speyerer Schreiber 								ausgefertigt. <hi rend="italic">Notum sit omnibus.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift von ca. 1430 im Cod. maior 								Spirensis I f. 33‘, Generallandesarchiv Karlsruhe (C). Drucke: 								Remling, UB. von Speyer 1, 124 n<hi rend="sup">o</hi> 108 zu ca. 								1184; MG.DF.I.863. Regg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi> 673 zu Mitte Juli 1184; Diestelkamp – Rotter, 								Urkundenregesten 1, 374 n<hi rend="sup">o</hi> 475; Dolch – Münch, 								UB. der Stadt Kaiserslautern 1, 55 n<hi rend="sup">o</hi> 27a; 								B.-Baaken Reg. 2g; Stumpf 4382 zu (Anfang Juli 1184).</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus der 								Nennung der Anwesenheit der kaiserlichen Söhne und des Bischofs von 								Speyer. – Dass es sich – entgegen den Angaben der DD.-Ausgabe – um 								die Herren von Boyneburg und nicht um die von (Alten-)Baumburg 								handelte, steht nach den Hinweisen bei Dolch – Münch, a.a.O. 								fest.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_863" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

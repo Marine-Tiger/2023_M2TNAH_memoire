@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 212</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-04-11_1_0_4_2_1_212_212"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-04-11_1_0_4_2_1_212_212"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-04-11_1_0_4_2_1_212_212</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237189" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 212</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-04-11" to="1154-04-11">1154 April 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Quedlinburg">Quedlinburg</placeName>
+												<location><geo decls="#WGS">51.8, 11.15</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(III idus aprilis, Quidelineburc)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 1.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Sittichenbach</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Zeizolfus canc. vice Arnolfi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben von Zeizolf B</scribe>
+				
+				
+					<testis function="witnesses">Markgraf Albrecht (der Bär), Pfalzgraf Otto (von Wittelsbach), (Graf) Goswin von Heinsberg, (Graf) Friedrich von Beichlingen, die Bischöfe Ulrich von Halberstadt, Anselm von Havelberg, Markgraf Konrad (von Wettin), Pfalzgraf Friedrich (von Sommerschenburg), Konrad, der Bruder des Königs, Graf Berthold von Andechs, (Graf) Ludwig von Württemberg (<hi rend="italic">Werteberch</hi>), Burggraf Gottfried von Nürnberg, die Grafen Ernst von Horburg und Hoier von Mansfeld, Heseke von Bornstedt, Kuno von Wippra, Burchard von Falkenstein, Walter von Weimar (<hi rend="italic">Winmare</hi>), Meier von Allstedt (<hi rend="italic">Altstede</hi>), Friedrich <hi rend="italic">Creuez</hi>, Ehrenfried <hi rend="italic">de Althusen</hi>, Dietrich und Christian von Alt-Beichlingen, Dietrich von Leubingen (<hi rend="italic">Louingen</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schenkt dem Kloster <span sameAs="recipient"><hi rend="spaced">Sittichenbach</hi> </span>  (<hi rend="italic">beatę dei genitrici Marię in Sidikenbische</hi>) vier Hufen unbebauten Landes, bestätigt ihm die genannten Besitzungen, ertauscht von Abt Folkwin und Graf Friedrich von Beichlingen gegen eine von ihm mit Zustimmung seiner früheren Gattin (Adela) und ihres Bruders Berthold (von Vohburg) übergebene Wiese zwischen Unstrut und Lossa (<hi rend="italic">pratum, quod est duabus interiacens aquis Unstruot et Laz</hi>) drei Hufen in Leubingen (<hi rend="italic">Louinge</hi>) mit einem Ertrag von 35 Solidi und bestätigt einen Rechtsspruch über die Abgabepflicht der Ministerialen und Hintersassen des von ihm geschenkten Landes. <span n="witnesses">Z.: Markgraf Albrecht (der Bär), Pfalzgraf Otto (von Wittelsbach), (Graf) Goswin von Heinsberg, (Graf) Friedrich von Beichlingen, die Bischöfe Ulrich von Halberstadt, Anselm von Havelberg, Markgraf Konrad (von Wettin), Pfalzgraf Friedrich (von Sommerschenburg), Konrad, der Bruder des Königs, Graf Berthold von Andechs, (Graf) Ludwig von Württemberg (<hi rend="italic">Werteberch</hi>), Burggraf Gottfried von Nürnberg, die Grafen Ernst von Horburg und Hoier von Mansfeld, Heseke von Bornstedt, Kuno von Wippra, Burchard von Falkenstein, Walter von Weimar (<hi rend="italic">Winmare</hi>), Meier von Allstedt (<hi rend="italic">Altstede</hi>), Friedrich <hi rend="italic">Creuez</hi>, Ehrenfried <hi rend="italic">de Althusen</hi>, Dietrich und Christian von Alt-Beichlingen, Dietrich von Leubingen (<hi rend="italic">Louingen</hi>)</span>. - <span n="chancellor"><hi rend="italic">Zeizolfus canc. vice Arnolfi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">geschrieben von Zeizolf B</span>; <span n="seal">SI. 1.</span>  <span n="incipit"><hi rend="italic">Notum esse volumus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum esse volumus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Landeshauptarchiv Dresden (A). Drucke: Krühne, UB. d. Klöster d. Grafsch. Mansfeld 393 n<hi rend="sup">o</hi>  10; MG. DF. I. 73. Faks.: Kaiserurk. in Abb. X, 8<hi rend="sup">b</hi>. Reg.: Dobenecker, Reg. Thur. 2, n<hi rend="sup">o</hi>  67; Stumpf 3684.</p></div>
+				
+				
+					<div type="commentary"><p>Zum ersten Auftreten von ZB vgl. Zeillinger, Reichskanzlei, DA 22 (1966) 549 ff. Offen bleibt, ob die ungeschickte, aufs stärkste von der Privaturkunde beeinflußte Fassung des Kontextes auf den Neuling in der Reichskanzlei oder auf einen Empfängerentwurf zurückgeht, vgl. dazu die Vorbemerkung zu unserem D. - Die Zeugen beziehen sich auf Handlung und Beurkundung, vgl. Ficker, Beiträge z. Urkundenlehre 2, 92. - Monogramm und Beizeichen folgen offenbar dem Vorbild von DF. I. 3, das damals erneut der Reichskanzlei vorlag (vgl. DF. I. 70, Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1154-02-03_1_0_4_2_1_208_208.html" type="internal" n="regesten">208</ref>). - In unserem D. wird auch eine Schenkung Konrads III. an Sittichenbach erwähnt, der möglicherweise ein Deperditum dieses Königs zugrunde lag; zur Schenkung Herzog Heinrichs (des Löwen) vgl. Urk. Heinrichs des Löwen, ed. Jordan, n<hi rend="sup">o</hi>  22. - Die einzige, allerdings nicht namentliche Nennung der ersten Gemahlin Friedrich Barbarossas innerhalb seiner Diplome dürfte wohl auf Wunsch des Empfängers erfolgt sein, vgl. dazu auch Patze, Osten (VuF 12, 1968) 381.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0076" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%222017%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00187" type="external" n="unkown">Abbildung in KUA</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_73" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

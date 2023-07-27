@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3067</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-06_1_0_4_2_4_491_3067"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-04-06_1_0_4_2_4_491_3067"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-04-06_1_0_4_2_4_491_3067</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3067</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-04-06" to="1187-04-06">1187
+									April 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Augsburg">Augsburg</placeName>
+												<location><geo decls="#WGS">48.35, 10.9</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt gemeinsam mit dreien seiner Söhne 								und zahlreichen Fürsten an der Weihe der neuen Klosterkirche von St. 								Ulrich und Afra in Augsburg durch Erzbischof Konrad von Mainz teil. 								Dem Metropoliten assistieren dabei die Bischöfe Udalschalk von 								Augsburg, Otto von Freising, Otto von Eichstätt (<hi rend="italic">Areatensi</hi>), Hermann von Münster und Peter (irrig: <hi rend="italic">Berchtoldo</hi>) von Toul. Gemeinsam mit drei 								Bischöfen geleitet der Kaiser die Reliquien des hl. Ulrich in 								feierlicher Prozession zum neuen Aufbewahrungsort. Am Tag der Weihe 								dieser Kirche und der <hi rend="italic">depositio</hi> (der 								Reliquien) des hl. Ulrich schenkt Gertrud von Druisheim dem Kloster 								St. Ulrich und Afra in Gegenwart des Kaisers ein Haus.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Ann. s. Udalrici, MG. SS XVII, 430; zur 								Schenkung des Hauses an das Kloster vgl. die Erwähnung in D.957 								(Reg. 3069) sowie Müntefering, Traditionen St. Ulrich und Afra in 								Augsburg (Qu. u. Erörterungen zur Bayer. Gesch. N.F. 35, 1986) 252 								Dep. 28.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Zoepfl, Das Bistum Augsburg, 150. – Der 								unter den Anwesenden erwähnte Bischof Hermann von Münster weilte 								noch am Palmsonntag (22. März) 1187 anlässlich einer von Erzbischof 								Philipp von Köln in seiner Bischofsstadt abgehaltenen Synode in der 								Rheinmetropole, und über ihn könnte der Kölner Erzbischof damals 								auch Verhandlungen mit dem Kaiser angeknüpft haben, vgl. dazu 								Knipping, Reg. Köln 2, no 1281 und 1282, sowie Stehkämper, Hermann 								II. von Münster, in: Barbarossa und die Prämonstratenser (= 								Schriften zur staufischen Geschichte und Kunst, Bd. 10, 1989) 109. – 								Zur Frage der Identifizierung der hier ohne namentliche Nennung 								erwähnten drei Söhne des Kaisers (jedenfalls Friedrich und Philipp, 								wahrscheinlich Konrad oder Otto) vgl. unten Reg. 3072. – An einer 								Reliquientranslation hatte Friedrich auch im November 1163 in Lodi 								teilgenommen, siehe dazu oben Reg. 1255.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 527</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-02-09_1_0_4_2_1_529_527"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-02-09_1_0_4_2_1_529_527"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-02-09_1_0_4_2_1_529_527</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240263" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 527</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-02-09" to="1158-02-09">1158 Februar 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Ulm">Ulm</placeName>
+												<location><geo decls="#WGS">48.4, 10</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V idus februarii, Ulmo)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">St. Martin</hi>  <hi rend="spaced">Zürichberg</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung von DK. III. 268 (VU. I), der Stiftungsurkunde von 1127 Februar 18 (Escher-Schweizer, Züricher UB. 1, 160 n<hi rend="sup">o</hi>  276; VU. II), des Privilegs Papst Anastasius' IV. von 1154 Mai 31 (JL. 9914; Germ. pont. 2/2, 50 n<hi rend="sup">o</hi>  1; VU</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Hermann von Konstanz, Friedrich von Köln, Konrad von Augsburg (<hi rend="italic"> Augustunensis</hi>), Konrad von Worms, Herzog Welf von Ravensburg, die Grafen Ulrich von Lenzburg, Kuno von Tettnang, Gottfried von Zimmern, Heinrich von Heiligenberg (<hi rend="italic">Sancto Monte</hi>), Gottfried von Ronsberg (<hi rend="italic">Růmesberc</hi>), Egeno von Urach (<hi rend="italic">Vra</hi>), Emicho (<hi rend="italic">Egeno</hi>) von Leiningen und Tiepold von Berg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die von Rudolf von Fluntern (<hi rend="italic">Fl?ntrein</hi>) gemeinsam mit seiner Gemahlin Lieba, seiner Tochter Berchta und deren Söhnen Rudolf und Rüdiger gestiftete und (dem Zürcher Großmünsterstift) SS. Felix und Regula übertragene Zelle <span sameAs="recipient"><hi rend="spaced">St. Martin</hi> </span>  auf dem <span sameAs="recipient"><hi rend="spaced">Zürichberg</hi> </span>  (<hi rend="italic">cellam ... in monte Turegico sitam, ... in honore dei et beati Martini</hi>) in seinen Schutz, bestätigt ihr die genannten Besitzungen, gewährt die freie Wahl der Pröpste oder Magister ohne Erfordernis der Investitur von geistlicher oder weltlicher Seite, untersagt jegliches Verfügungsrecht des Zürcher Propstes oder seiner Mitbrüder über die Zelle, die nur einmal jährlich am Fest SS. Felix und Regula (September 11) zur Abgabe einer Kerze im Gewicht eines Zürcher Pfundes (<hi rend="italic">candelam ponderantem Turegensem libram</hi>) an das übergeordnete Stift verpflichtet ist, und verbietet die Einsetzung von Untervögten. <span n="witnesses">Z.: die Bischöfe Hermann von Konstanz, Friedrich von Köln, Konrad von Augsburg (<hi rend="italic"> Augustunensis</hi>), Konrad von Worms, Herzog Welf von Ravensburg, die Grafen Ulrich von Lenzburg, Kuno von Tettnang, Gottfried von Zimmern, Heinrich von Heiligenberg (<hi rend="italic">Sancto Monte</hi>), Gottfried von Ronsberg (<hi rend="italic">Růmesberc</hi>), Egeno von Urach (<hi rend="italic">Vra</hi>), Emicho (<hi rend="italic">Egeno</hi>) von Leiningen und Tiepold von Berg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus canc. vice Heinrici archiep. et archicanc.</hi> </span>; <span n="clerk">unter Verwendung von DK. III. 268 (VU. I), der Stiftungsurkunde von 1127 Februar 18 (Escher-Schweizer, Züricher UB. 1, 160 n<hi rend="sup">o</hi>  276; VU. II), des Privilegs Papst Anastasius' IV. von 1154 Mai 31 (JL. 9914; Germ. pont. 2/2, 50 n<hi rend="sup">o</hi>  1; VU. III) und der undatierten Urkunde Bischof Hermanns von Konstanz aus den Jahren 1153-55 (Züricher UB. 1, 185 n<hi rend="sup">o</hi>  303) geschrieben von einem Empfängerschreiber</span>; <span n="seal">SI. D.</span>  <span n="incipit"><hi rend="italic">Si antecessorum nostrorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si antecessorum nostrorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Zürich (A). Kop.: Abschrift von ca. 1490 im Urbar des Klosters Zürichberg Ms. S. 48 p. 273 der Stadtbibliothek Zürich (B). Drucke: Stumpf, Acta ined. 677 n<hi rend="sup">o</hi>  481; Escher-Schweizer, Züricher UB. 1, 192 n<hi rend="sup">o</hi>  312; MG. DF. I. 205. Reg.: Hidber 2, n<hi rend="sup">o</hi>  2056; Stumpf 3799.</p></div>
+				
+				
+					<div type="commentary"><p>Formale Verstöße und Ungeschicklichkeiten sind dem Empfängerschreiber anzulasten, sprechen also nicht gegen die Echtheit, die von Hirsch, Privilegien süddeutscher Klöster, MIÖG Erg. Bd. 7 (1907) 589 ff. gegen die Ansicht der älteren Literatur nachgewiesen werden konnte; aus der Empfängerausfertigung erklärt sich somit auch die Nennung Erzbischof Friedrichs von Köln als Bischof nach dem Konstanzer Bischof Hermann. - Das Siegel wurde herausgeschnitten, wodurch das Diplom vielleicht für ungültig erklärt wurde; andererseits weist das Pergamentblatt aber eine Plica mit je zwei Löchern auf, was wiederum auf eine nachträgliche Beglaubigung durch Hängesiegel hinweist. - Zum übergeordneten Großmünsterstift und der Zelle auf dem Zürichberg vgl. Germ. pont. 2/2, 44 ff. und 48 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0178" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2211497%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_205" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

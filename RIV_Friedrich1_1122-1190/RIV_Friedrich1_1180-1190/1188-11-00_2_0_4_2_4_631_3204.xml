@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3204</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_2_0_4_2_4_631_3204"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-11-00_2_0_4_2_4_631_3204"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-11-00_2_0_4_2_4_631_3204</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1387196610" value="2013-12-16"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3204</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-11-01" to="1188-11-30">(vielleicht 1188 zweite Hälfte
+									November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Gernrode)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt <hi rend="spaced">(Papst Clemens 									III.</hi> oder dem <hi rend="spaced">Kloster des hl. Cyriacus 									in Via lata in Rom</hi>?) mit, er habe den durch das Kloster 								Gernrode an das genannte römische Kloster zu leistenden Jahreszins 								von einer Mark Silber für insgesamt 20 Jahre entrichtet.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in einer Littera Papst 								Innocenz’ III. von 1207 August 2 für Gernrode (Potthast, Reg. Pont. 								Rom. 3151; Heinemann, CD. Anhalt. 1, 562 n<hi rend="sup">o</hi> 								758), wo es unter Bezugnahme auf ein sonst nicht bekanntes DO.IV. 								für das römische Kloster heißt: <hi rend="italic">… Otto imperator 									per privilegium suum confirmavit monasterio sancti Ciriaci de 									Urbe annuum censum unius marcae argenti a monasterio vestro 									solvendum. Constitit praeterea nobis per litteras Frederici 									imperatoris ab eo pro viginti annis censum ipsum solutum fuisse 									monasterio memorato.</hi> – MG.DF.I.*1209.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einordnung ergibt sich aus dem 								Aufenthalt des Kaisers in Gernrode im November 1188, wozu die 								Angelegenheit am besten passt. Außerdem war Friedrich damals in 								Gernrode auch für das ebenfalls dem heiligen Cyriakus geweihte, um 								die gleiche Zeit wie Gernrode gestiftete Frauenkloster Frose tätig, 								vgl. dazu Reg. 3205.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://geschichte.digitale-sammlungen.de/kaiserurkunden/seite/bsb00009144_00102" type="external" n="unkown">Abbildung in KUA</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

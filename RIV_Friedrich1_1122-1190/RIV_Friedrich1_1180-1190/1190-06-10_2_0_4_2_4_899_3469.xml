@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3469</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-10_2_0_4_2_4_899_3469"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1190-06-10_2_0_4_2_4_899_3469"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1190-06-10_2_0_4_2_4_899_3469</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3469</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1190-06-10" to="1190-06-10">(vor
+									1190 Juni 10)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich und sein gleichnamiger Sohn, Herzog 								Friedrich von Schwaben, gelten als Initiatoren der <hi rend="italic">ecclesia sancte Marie hospitalis Theutonicorum</hi> (in 								Jerusalem).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. breve fratris, ut videtur, ordinis 								Theutonicorum, MG. SS XXIV, 153; vgl. auch die diversen Hinweise in 								späteren Herrscherurkunden, darunter im DF.II. von 1221 April 10 für 								den Deutschen Orden (B.-Ficker Reg. 1309, ed. Winkelmann, Acta 								ined., 201 n<hi rend="sup">o</hi> 218: <hi rend="italic">… sacra 									domus hospitalis sancte Marie Theutonicorum in Jerusalem a divo 									quondam augusto domino imperatore Friderico avo nostro pietatis 									intuitu propagata …</hi>), weiters – in ähnlicher Formulierung – 								im DF.II. von 1230 Mai (B.-Ficker Reg. 1786, ed. Huillard-Bréholles 								3, 195) und im DManfred von 1160 Januar – , Foggia (B.-Ficker Reg. 								4715); vgl. auch die in dieser Form freilich nicht zutreffenden 								Angaben in den Ann. Veron. antiqui, ed. Cipolla, Bullettino 								dell’Istituto storico italiano 29 (1908) 43, zum Begräbnis des 								Staufers (<hi rend="italic">in ecclesia Sancte Marie Hospitalis 									Teotonicorum, quem pater et ipse inchoaverant, sepultus 									fuit)</hi>.</p></div>
+				
+				
+					<div type="commentary"><p>Das seit 1143 den Johannitern unterstellte 								Deutsche Spital in Jerusalem war 1187 (Eroberung Jerusalems durch 								Saladin) zerstört worden. Erst im Lager vor Akkon war vor dem 								September 1190 unter maßgeblicher Beteiligung von Bremern und 								Lübeckern ein (neues) deutsches Spital als Keimzelle des Deutschen 								Ordens entstanden. In welcher Weise Besitz und Rechte des Deutschen 								Spitals in Jerusalem nach Friedrich Barbarossas Tod an diese 								Neugründung gelangten, ist nicht eindeutig zu entscheiden. Dazu 								kommt bei der Bewertung der hier zugrunde liegenden Überlieferung 								auch die bereits früher festgestellte Schwierigkeit, der 								„Ahnenformel“ in Diplomen Kaiser Friedrichs II. einen realen Gehalt 								beizumessen (siehe dazu schon oben Reg. 38); vgl. zu diesem 								Problemkreis insbesondere Favreau, Studien zur Frühgeschichte des 								Deutschen Ordens (Kieler Hist. Stud. 21, o. J./1974) 64 ff., Arnold, 								Jerusalem und Akkon, MIÖG 86 (1978) 416 ff., Hucker, 								Kreuzzugsbewegung, in: Kein Krieg ist heilig. Die Kreuzzüge. 								Ausstellungskatalog Mainz (2004) 32, und Heutger, Ritterorden, in: 								ebda., 149.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

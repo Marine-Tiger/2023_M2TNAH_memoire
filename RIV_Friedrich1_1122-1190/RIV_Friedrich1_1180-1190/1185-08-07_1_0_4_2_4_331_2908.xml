@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2908</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-07_1_0_4_2_4_331_2908"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-08-07_1_0_4_2_4_331_2908"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-08-07_1_0_4_2_4_331_2908</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2908</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-08-07" to="1185-08-07">(1185
+									August 4–7)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Galgano auf dem Monte Galgano (bei Montesiepi)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich sucht die Einsiedelei S. Galgano auf.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Erwähnt im Kanonisationsprozess des hl. 								Galgan von Chiusdino, der den Besuch des Kaisers an seinem Grab 								vorausgesagt hatte, vgl. dazu die Edition durch Schneider, Analecta 								Toscana, QFIAB 17 (1914–1924) 75 n<hi rend="sup">o</hi> 11.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Schneider, a.a.O., 64 ff., Kauffmann, 								Die italienische Politik Kaiser Friedrichs I. (Greifswalder 								Abhandlungen zur Gesch. d. Mittelalters 3, 1933) 79, Opll, Itinerar, 								86 mit Anm. 32, sowie Susi, San Galgano fra mito e storia 								(Biblioteca del Centro per il collegamento degli Studi Medievali e 								umanistici in Umbria 9, 1993) passim (siehe dazu die Rezension in: 								DA 52, 1996, 251 f.). – Papst Lucius III. hatte Erzbischof Konrad 								von Mainz gemeinsam mit zwei weiteren, nicht überlieferten Personen 								damit beauftragt, Zeugen über das Leben und die Wundertaten des 								Eremiten Galgano von Chiusdino zu verhören, vgl. dazu Baaken – 								Schmidt, Papstregesten 1124–1198, Teil 4/Lfg. 2: 1184–1185, no 1726. 								– Siehe auch das Deperditum für S. Galgano, Reg. 2909.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

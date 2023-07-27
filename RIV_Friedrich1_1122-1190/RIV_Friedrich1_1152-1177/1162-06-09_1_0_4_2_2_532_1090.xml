@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1090</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-09_1_0_4_2_2_532_1090"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-06-09_1_0_4_2_2_532_1090"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-06-09_1_0_4_2_2_532_1090</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244563" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1090</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-06-09" to="1162-06-09">1162 Juni 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">S. Salvatore bei Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(V<hi rend="sup">to</hi>  idus iunii, Papie aput sanctum Saluatorem in palatio imperatoris post destructionem Mediolani et deditionem Brixie et Placentie)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Genuesen</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Vdalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>mundiert von RC (auffällige Parallelen der einleitenden Sätze zu DF. I. 356 = Reg. 1055)</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Rainald von Köln, die Bischöfe Heinrich von Lüttich, Ortlieb (<hi rend="italic">Ordiebus</hi>) von Basel, Hermann von Konstanz, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Udo von Naumburg, Hermann von Hildesheim und Garsendonius von Mantua, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Oheim des Kaisers, Markgraf Dietrich (von der Lausitz), Pfalzgraf Otto von Wittelsbach, die Grafen Albert von Sachsen, Dedo (von Groitzsch) von Sachsen, Rudolf von Pfullendorf und Ulrich von Lenzburg, Burggraf Burchard von Magdeburg, Graf Emicho (von Leiningen), die Markgrafen Wilhelm von Montferrat, Opizo Malaspina und Heinrich Guercio, Graf Wido von Biandrate, Ulrich von Herrlingen, Gebhard von Leuchtenberg und sein Bruder Markward, Konrad von Amöneburg, Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno, Vogt Wilhelm von Aachen, Kämmerer Hartmann, Kämmerer Rüdiger, Kämmerer Sigeboto, Obert von Olevano, Wido von Sannazzaro de' Burgondi, der Bannerträger Allo (von Pavia), Gilio von Dovera, Otto de Persico, Obizo Buccafol</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich belehnt die <span sameAs="recipient"><hi rend="spaced">Genuesen</hi> </span>  mit dem Küstengebiet zwischen Monaco und Portovenere unter Vorbehalt der Rechte der dortigen Grafen und Markgrafen sowie mit dem Recht, ihre Konsuln frei zu wählen, bestätigt ihnen alle Rechte und Besitzungen diesseits und jenseits des Meeres, erteilt ihnen eine Reihe von Handelsvorrechten für den Fall der Eroberung des normannisch-sizilischen Königreiches, an der sich die Stadt beteiligen wird, schützt sie für die Zeit ihres Waffendienstes vor möglichen Angriffen von Pavia, Piacenza, Tortona und Asti sowie der Markgrafen von Bosco, des Markgrafen (Wilhelm) von Montferrat sowie der Markgrafen Heinrich Guercio und (Obizo) Malaspina und verpflichtet sich, ohne ihre Zustimmung weder einen Frieden noch einen Waffenstillstand mit König Wilhelm von Sizilien oder seinem Nachfolger zu schließen; zur Einhaltung der beschlossenen Vereinbarungen verpflichtet sich der Kaiser durch einen Eid Vogt Wilhelms von Aachen, für Genua schwören die Konsuln Ingo de Uolta und Niuelonus sowie die Legaten der Stadt, Lanfrancus Piper, Rogeronus de Castro, Bertram de Marino, Ydo Guntardus und Bonusuasallus Bulferius sowie ihr Schreiber Johannes, wobei auch die Unterstützung für einen möglichen Feldzug des Kaisers gegen die Sarazenenkönige von Valencia (<hi rend="italic">Lupi</hi>), Mallorca und Menorca festgelegt wird. <span n="witnesses">Z.: Erzbischof Rainald von Köln, die Bischöfe Heinrich von Lüttich, Ortlieb (<hi rend="italic">Ordiebus</hi>) von Basel, Hermann von Konstanz, Hermann von Verden (<hi rend="italic">Fardensis</hi>), Udo von Naumburg, Hermann von Hildesheim und Garsendonius von Mantua, die Äbte Ulrich von der Reichenau und Hermann von Hersfeld, Protonotar Heinrich, Pfalzgraf Konrad bei Rhein, der Bruder des Kaisers, Herzog Heinrich von Österreich, der Oheim des Kaisers, Markgraf Dietrich (von der Lausitz), Pfalzgraf Otto von Wittelsbach, die Grafen Albert von Sachsen, Dedo (von Groitzsch) von Sachsen, Rudolf von Pfullendorf und Ulrich von Lenzburg, Burggraf Burchard von Magdeburg, Graf Emicho (von Leiningen), die Markgrafen Wilhelm von Montferrat, Opizo Malaspina und Heinrich Guercio, Graf Wido von Biandrate, Ulrich von Herrlingen, Gebhard von Leuchtenberg und sein Bruder Markward, Konrad von Amöneburg, Marschall Heinrich, <hi rend="italic">triscamerarius</hi>  Berthold, Kämmerer Kuno, Vogt Wilhelm von Aachen, Kämmerer Hartmann, Kämmerer Rüdiger, Kämmerer Sigeboto, Obert von Olevano, Wido von Sannazzaro de' Burgondi, der Bannerträger Allo (von Pavia), Gilio von Dovera, Otto de Persico, Obizo Buccafol</span>. - <span n="chancellor"><hi rend="italic">Vdalricus canc. vice Reinaldi Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">mundiert von RC (auffällige Parallelen der einleitenden Sätze zu DF. I. 356 = Reg. 1055)</span>; <span n="seal">B. D.</span> <span n="incipit"><hi rend="italic">Licet ad decorem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Licet ad decorem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift eines Notariatstranssumptes von 1229 aus der Mitte des 13. Jh. im Liber iurium reipublicae Ianuensis I vetustior f. 52', Staatsarchiv Genua (C). Drucke: MG. Const. 1, 292 n<hi rend="sup">o</hi>  211; Imperiale, CD. di Genova 1, 395 n<hi rend="sup">o</hi>  308; MG. DF. I. 367. Reg.: Wauters, Table chronol. 2, 437; Chelazzi, Catalogo della raccolta di statuti dei comuni 3, 263; Lisciandrelli, Trattati e negoziazioni politiche di Genova 12 n<hi rend="sup">o</hi>  13 (zu Juni 5); Stumpf 3949.</p></div>
+				
+				
+					<div type="commentary"><p>Die vor dem Zustandekommen dieses D. geführten Verhandlungen begannen in der Zeit vor Ostern 1162 und sind in engem Zusammenhang mit dem Abkommen mit Pisa (DF. I. 356 = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-04-06_2_0_4_2_2_497_1055.html" type="internal" n="regesten">1055</ref>) zu sehen, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-03-19_2_0_4_2_2_483_1041.html" type="internal" n="regesten">1041</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-06-09_2_0_4_2_2_533_1091.html" type="internal" n="regesten">1091</ref>. Zur diplomatischen Form vgl. Riedmann, Verträge 53 ff.; zum Inhalt auch Opll, Stadt und Reich 280 f.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Im Hinblick auf die in diesem DF.I.367 für die Stadt Genua enthaltene Verleihung der Besitzungen auch jenseits des Meeres vgl. jetzt auch MG.D.Jerus., Teil 3, App. III./2.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0148" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_367" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

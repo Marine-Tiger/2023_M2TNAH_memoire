@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1123</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-15_1_0_4_2_2_565_1123"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-08-15_1_0_4_2_2_565_1123"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-08-15_1_0_4_2_2_565_1123</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244809" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1123</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-08-15" to="1162-08-15">(1162) August 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Turin">Turin</placeName>
+												<location><geo decls="#WGS">45.0667, 7.6667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVIII<hi rend="sup">o</hi>  kal. septembris, Taurini)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP. 2. laut D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Wilhelm</hi>  <hi rend="spaced">Apt</hi></recipient>
+				
+				
+				
+					<scribe>Aller Wahrscheinlichkeit nach verfaßt und geschrieben von RG</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich teilt dem Klerus und dem Volk der Stadt Apt sowie den Herren und Rittern von Saignon mit, daß er den an den Hof gekommenen Bischof <span sameAs="recipient"><hi rend="spaced">Wilhelm</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Apt</hi> </span>  nach der Leistung von Treueid und Lehnseid mit den Regalien, nämlich seinem Anteil in der Stadt Apt, der Burg Saint-Martin, der Tortemolle genannten Burg, mit Château de la Crugière, der <hi rend="italic">villa</hi>  Les Tourettes und der Hälfte von Clermont, investiert habe, und befiehlt ihnen, ihrem Bischof künftig als Reichsfürsten Gehorsam und Dienste zu erweisen. - <span n="clerk">Aller Wahrscheinlichkeit nach verfaßt und geschrieben von RG</span>; <span n="seal">SP. 2. laut D.</span>  <span n="incipit"><hi rend="italic">Scire volumus universitatem</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Scire volumus universitatem</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Originalvidimus des Bischofs und der hohen Domgeistlichen von Apt von 1243 Juni 4, Departementalarchiv Marseille (B); Abschrift des 17. Jh. in der Bibliothèque Inguimbertine zu Carpentras Ms. 1655 f. 18' (D). Drucke: Gallia christ. noviss. 1<hi rend="sup">b</hi>, 131 n<hi rend="sup">o</hi>  7; MG. DF. I. 381. Reg.: Stumpf 3962 zu 1162.</p></div>
+				
+				
+					<div type="commentary"><p>Die Einreihung ergibt sich aus dem kaiserlichen Itinerar. - Zum D. vgl. Gallia christ. noviss. 1, 226 f. und Opll, Stadt und Reich, 482.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0157" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_381" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

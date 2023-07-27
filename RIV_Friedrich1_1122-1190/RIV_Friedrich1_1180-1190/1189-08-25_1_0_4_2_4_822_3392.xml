@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3392</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-25_1_0_4_2_4_822_3392"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1189-08-25_1_0_4_2_4_822_3392"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1189-08-25_1_0_4_2_4_822_3392</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3392</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1189-08-25" to="1189-08-25">1189
+									August 24–25</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei Philippopel (Plovdiv)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bezieht mit dem gesamten Kreuzheer Lager 								bei Philippopel, das menschenleer, aber voll von Wein, Lebensmitteln 								und anderen Reichtümern vorgefunden wird und das er durch eigenes 								Edikt zunächst zu betreten verbietet (Chron. reg. Col.; Hist. 								peregrinorum). Tags darauf (August 25) erhält er hier ein von 								Jacobus von Pisa überbrachtes, arrogantes Schreiben Kaiser (Isaaks 								II. Angelos), in dem dieser den Durchzug verweigert (siehe Reg. 								3393). Erstmals (?; siehe schon Reg. 3391) erfährt er hier von der 								Einkerkerung seiner Legaten, des Bischofs (Hermann) von Münster und 								seiner Gefährten (siehe oben Reg. 3216).</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Arnoldi Chron. Slavorum l. IV cap. 9 und 10, 								MG. SS XXI, 172 f. (ohne Datum; spricht irrig von einem 17 bzw. 18 								Wochen lang währenden Aufenthalt in Philippopel; zur Dauer siehe 								unten Reg. 3396); Dietpoldi epistola (Chron. Magni presbiteri), MG. 								SS XVII, 510 (August 25); Chron. Fuldensis, ed. Heinemeyer, AfD 								Beiheft 1 (1976) 93 Nr. 13b; Chron. reg. Col., ed. Waitz, MG. SS 								rer. Germ. in us. schol., 145; Epistola de morte, ed. Chroust, MG. 								SS rer. Germ. N.S. 5, 173 (spricht von Eroberung und Zerstörung der 								Stadt: <hi rend="italic">capta prius civitate Philipopoli et 									destructa</hi>); Gesta Fed. I. imp. in expeditione sacra, ed. 								Holder-Egger, MG. SS rer. Germ. in us. schol., 82 f. (drei Monate 								lang); Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 38 f. (zu August 24) (deutsche Übersetzung von 								Bühler, Der Kreuzzug Friedrich Barbarossas, 2002, 94); Hist. 								peregrinorum, ed. Chroust, MG. SS rer. Germ. N.S. 5, 140 (zu August 								24; nennt Jacobus von Pisa als Überbringer des Schreibens des 								Basileus); Iohannes de Piscina de transfretatione Friderici I., MG. 								SS XXII, 339 f. (ohne Datum); Itinerarium peregrinorum, ed. Mayer 								(Schriften der MGH 18, 1962) 292 f. englische Übersetzung bei: 								Nicholson, Chronicle of the Third Crusade. A Translation of the 								Itinerarium Peregrinorum, 1997, 56 ff. c. 21); Lamberti Parvi Ann., 								MG. SS XVI, 650; Otto von St. Blasien, Chronica, ed. Hofmeister, MG. 								SS rer. Germ. in us. schol., 47 = ed. Schmale, Freiherr vom 								Stein-Gedächtnisausgabe XVIIIa, 92 f. (ohne Datum; spricht von einer 								Eroberung der Stadt); Ann. Pegav., MG. SS XVI, 266 (zu Oktober 1); 								Salimbene de Adamo von Parma, Chronica, MG. SS XXXII, 9 (zu August 								24); Sicardi ep. Cremon. Cronica, MG. SS XXXI, 169 (ohne Datum; <hi rend="italic">… civitatem que Philippis dicitur impugnantes eam 									ceperunt.</hi>); Alberti Milioli Cron. imp., MG. SS XXXI, 647; 								Tageno, ed. Struve, Rerum Germanicarum Scriptores I (1717) 408 (zu 								August 25); Salloch, Die lateinische Fortsetzung Wilhelms von Tyrus 								(Greifswald 1934) 100 f.; L’estoire de Eracles (Recueil des 								Historiens des Croisades, Sér. II: Historiens occidentaux, Tom. 2, 								1859) 131 f. lib. XXIV cap. XXI = Continuation de Guillaume de Tyr, 								ed. Morgan (Doc. relatifs à l’histoire des Croisades 14, 1982) 93 								cap. 88 = The Old French Continuation of William of Tyre, 1184–1197, 								ed. Edbury, The conquest of Jerusalem and the Third Crusade. Sources 								in Translation (1996) 84 cap. 88 (Empörung des Kaisers über 								Gefangennahme seiner Legaten); Vetter, Nerses von Lampron’s Bericht, 								Histor. Jb. 2 (1881) 290 (spricht irrig von einer Überwinterung in 								Philippopel).</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Eickhoff, Barbarossa im Orient, 67 								ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

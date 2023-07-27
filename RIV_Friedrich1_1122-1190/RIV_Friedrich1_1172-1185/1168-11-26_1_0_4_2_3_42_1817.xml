@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 1817</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-11-26_1_0_4_2_3_42_1817"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1168-11-26_1_0_4_2_3_42_1817"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1168-11-26_1_0_4_2_3_42_1817</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1430902383" value="2015-05-06"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 1817</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1168-11-26" to="1168-11-26">1168 November 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Worms">Worms</placeName>
+												<location><geo decls="#WGS">49.6333, 8.35</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(VI<hi rend="sup">o</hi>  kal.decembris, Wormacię).</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Bis auf die von Ulrich B hinzugefügte Zeugenreihe geschrieben von einem Empfängerschreiber, der die Urkunde unter dem stilistischen Einfluß des Ulrich B auch verfaßt haben dürfte</scribe>
+				
+				
+					<testis function="witnesses">Abt Ortliep von Eußerthal, Abt Tieter von Maulbronn, Abt Richer von Weiler-Bettnach, Berthold von Scharfenberg, Konrad und Eberhard von Rietberg (<hi rend="italic">Riete</hi>), Woldericus Weso, Tiemar von Leimersheim, Berengarius Colbo, Ecelo und Berthold von Mörlheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt dem <hi rend="spaced">Zisterzienserkloster Eußerthal</hi>  (<hi rend="italic">Uterstal</hi>) die Schenkung der Kapelle zu Merlheim (<hi rend="italic">Emarleheim</hi>) und weiterer Besitzungen samt deren Zugehör, die der Gründer des Klosters, der Edelfreie Stephan (von Mörlheim), mit Zustimmung seiner Gemahlin Gepa und seiner Kinder sowie mit Billigung seiner Verwandten und Freunde vorgenommen hat. <span n="witnesses">Z.: Abt Ortliep von Eußerthal, Abt Tieter von Maulbronn, Abt Richer von Weiler-Bettnach, Berthold von Scharfenberg, Konrad und Eberhard von Rietberg (<hi rend="italic">Riete</hi>), Woldericus Weso, Tiemar von Leimersheim, Berengarius Colbo, Ecelo und Berthold von Mörlheim</span>. — <span n="clerk">Bis auf die von Ulrich B hinzugefügte Zeugenreihe geschrieben von einem Empfängerschreiber, der die Urkunde unter dem stilistischen Einfluß des Ulrich B auch verfaßt haben dürfte</span>; <span n="seal">SP.D.</span> <span n="incipit"><hi rend="italic">Imperialis maiestatis celsitudinem.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis maiestatis celsitudinem.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Generallandesarchiv Karlsruhe. Drucke: MG.DF.I.548. Reg.: Stumpf 4098.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Identifizierung von <hi rend="italic">Riete</hi>  vgl. MG.DDF.I. Band 5, S. 283 (Nachträge und Berichtigungen zur Gesamtausgabe) sowie jetzt Plassmann, Struktur des Hofes (MGH Studien und Texte, 20, 1998) 261 und 263; zu Tiemar von Leimersheim (Kr. Germersheim) Plassmann, a.a.O., 282. — Zur Frühzeit sowie zur Gründung von Eußerthal vgl. jetzt Oberweis, &amp;quot;A nostris progenitoribus fundata&amp;quot;, in: Grenzen erkennen &amp;lt;&amp;gt; Begrenzungen überwinden. FS Reinhard Schneider (1999), 187 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0030" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_548" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

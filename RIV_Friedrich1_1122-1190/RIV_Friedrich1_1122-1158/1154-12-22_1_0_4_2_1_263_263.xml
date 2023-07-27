@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 263</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-12-22_1_0_4_2_1_263_263"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1154-12-22_1_0_4_2_1_263_263"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1154-12-22_1_0_4_2_1_263_263</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426237572" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 263</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1154-12-22" to="1154-12-22">1154 Dezember 22</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Novara bei der Belagerung der Burg Galliate</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XI kalendas ianuarii, in territorio Novariensi in obsidione castri Galliate)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Dogen Domenico Morosini</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnaldus Coloniensis archiep. et Italici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>in Wiederholung des DL. III. 97 (VU.) geschrieben von A II. D</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Pilgrim von Aquileia, die Bischöfe Eberhard von Bamberg, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Markgraf Hermann von Verona, Pfalzgraf Otto von Bayern, (Graf) Ulrich von Lenzburg, Graf Ernst von Hohenburg, (Graf) Werner von Habsburg (<hi rend="italic">Varnerii de Hauesburg</hi>)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert dem <span sameAs="recipient"><hi rend="spaced">Dogen Domenico Morosini</hi> </span>  durch Vermittlung einer von dessen Sohn angeführten Gesandtschaft der Venezianer (<hi rend="italic">Huius autem rei internuntius ... Dominicus Maurocenus eiusdem ducis filius nobisque dilectus exstitit cum Iohanne Bonaldo et Vitale Falletro et Pantia de Ponte et Filippo Bonaldo et Lanfranco de curia ipsius ducis</hi>) den Vertrag seiner Vorgänger, der Kaiser Otto (II.), Heinrich (V.) und Lothar (III.), mit den Venezianern. <span n="witnesses">Z.: Patriarch Pilgrim von Aquileia, die Bischöfe Eberhard von Bamberg, Konrad von Worms, Hermann von Konstanz, Ortlieb von Basel, die Äbte Wibald von Corvey und Stablo, Markward von Fulda, Markgraf Hermann von Verona, Pfalzgraf Otto von Bayern, (Graf) Ulrich von Lenzburg, Graf Ernst von Hohenburg, (Graf) Werner von Habsburg (<hi rend="italic">Varnerii de Hauesburg</hi>)</span>. - <span n="chancellor"><hi rend="italic">Arnaldus Coloniensis archiep. et Italici regni archicanc.</hi> </span>; <span n="clerk">in Wiederholung des DL. III. 97 (VU.) geschrieben von A II. D</span>. <span n="incipit"><hi rend="italic">Quoniam stabilem christianorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam stabilem christianorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Drei Fragmente in schlechtem Erhaltungszustand im Cod. XIV 71 n<hi rend="sup">o</hi>  5, Biblioteca Marciana Venedig (A). Kop.: Abschrift des 14. Jh. in der Chronica Veneta, Cod. 540 (olim 1145) f. 7 (bis 1919 vorhanden, heute verschollen), Haus-, Hof- und Staatsarchiv Wien (B). Druck e: MG. Const. 1, 209 n<hi rend="sup">o</hi>  150; MG. DF. I. 94. Reg.: Stumpf 3702.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. Chron. Andreae Danduli, ed. Pastorello, Rer. Ital. SS N. S. XII/1, 245, der über die Gesandtschaft und den Vertrag allerdings irrig nach der Kaiserkrönung berichtet.
+</p>
+<p></p>
+<p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>In der venezianischen Chronik des Giovanni Giacomo Caroldo aus dem 14. Jahrhundert werden von den im DF.I. 94 erwähnten, an den königlichen Hof gekommenen venezianischen Unterhändlern Domenico Morosini, der Sohn des gleichnamigen Dogen, der kurz zuvor nach der Unterwerfung von Istrien zum Grafen von Zara erhoben worden war, sowie Vitale Falier und Giovanni Bonaldo angeführt, Caroldo, Istorie Veneţiene. Vol. I, ed. Marin (Bucureşti 2008) 138 (p. 47a).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0091" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_94" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1003</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-00-00_1_0_4_2_2_445_1003"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1161-00-00_1_0_4_2_2_445_1003"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1161-00-00_1_0_4_2_2_445_1003</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426243596" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1003</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1161-01-01" to="1161-12-31">1161 - -</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>-</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Heinrich</hi>  <hi rend="spaced">Würzburg</hi></recipient>
+				
+				
+				
+					<scribe>Verfaßt und geschrieben von dem vielbeschäftigten Würzburger Schreiber NMA, der auch St. 4134 (DF. I. 590) mundiert hat (Johanek, Siegelurkunde im Bistum Würzburg, 71 f. und 226)</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich genehmigt und bestätigt, daß Bischof <span sameAs="recipient"><hi rend="spaced">Heinrich</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Würzburg</hi> </span>  bei seinem Domkapitel zur Deckung seiner Aufwendungen für die Italienfahrt ein Darlehen aufgenommen hat, wofür dem Konvent und den Ministerialen die gesamten bischöflichen Einkünfte bis zur Rückzahlung der aufgenommenen Summe verpfändet wurden. - <span n="clerk">Verfaßt und geschrieben von dem vielbeschäftigten Würzburger Schreiber NMA, der auch St. 4134 (DF. I. 590) mundiert hat (Johanek, Siegelurkunde im Bistum Würzburg, 71 f. und 226)</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Sicut divina clementia</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Sicut divina clementia</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Hauptstaatsarchiv München (A). Kop.: Abschrift des ausgehenden 13. Jh., Standbuch n<hi rend="sup">o</hi>  5 f. 120', Staatsarchiv Würzburg (B). Drucke: Mon. Boica 29<hi rend="sup">a</hi>, 362 n<hi rend="sup">o</hi>  504; MG. DF. I. 345. Reg.: Stumpf 3915.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0126" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%2210254%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_345" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 543</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-26_1_0_4_2_1_545_543"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1158-04-26_1_0_4_2_1_545_543"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-04-26_1_0_4_2_1_545_543</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240521" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 543</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-04-26" to="1158-04-26">1158 April 26</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Sinzig">Sinzig</placeName>
+												<location><geo decls="#WGS">50.55, 7.25</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(VI<hi rend="sup">o</hi>  kal. maii, Synzeke)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.  in braunrotem Wachs.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hillin</hi>  <hi rend="spaced">Trier</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Reinaldus canc. vice domini Arnoldi Moguntini archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>nach kanzleifremdem Diktat, das zum überwiegenden Teil auf den Empfänger zurückgeht, geschrieben von Rainald G</scribe>
+				
+				
+					<testis function="witnesses">Abt Rether von Prüm (<hi rend="italic">Promiensis</hi>), die Pröpste Albert von Aachen, Gerard von Magdeburg, Pfalzgraf Konrad bei Rhein, (Graf) Heinrich von Limburg, Ulrich von Ahr, Dietrich von Altwied, Markward von Grumbach, Ulrich von Herrlingen (<hi rend="italic">Horninch</hi>), (Graf) Goswin der Jüngere von Heinsberg (<hi rend="italic">Hinesberch</hi>), Dietrich und Florentius von Kempenich, die Grafen Emicho von Leiningen, Albert von Maubach (<hi rend="italic">Mulbach</hi>) und Gottfried von Sponheim</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt dem Erzbischof und päpstlichen Legaten <span sameAs="recipient"><hi rend="spaced">Hillin</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Trier</hi> </span>  und seinen Nachfolgern als Seelgerät und wegen dessen treuer Dienste sowohl vor, während als auch nach dem Italienzug alle nach dem Urteil der Fürsten dem Kaiser zustehenden Rechte an dem Silberbergwerk zu Bad Ems (<hi rend="italic">omnem iusticiam, quam in argentaria in Vlmeze et in toto monte adiacente de iudicio principum habere videbamur</hi>) mit den übrigen Regalien und an allen künftig aufzufindenden Silbervorkommen auf dem Boden seiner Kirche (<hi rend="italic">si aliquam forte postmodum in aliquo fundo ęcclesię tuę inveniri contigerit argentariam</hi>) zu Lehen. <span n="witnesses">Z.: Abt Rether von Prüm (<hi rend="italic">Promiensis</hi>), die Pröpste Albert von Aachen, Gerard von Magdeburg, Pfalzgraf Konrad bei Rhein, (Graf) Heinrich von Limburg, Ulrich von Ahr, Dietrich von Altwied, Markward von Grumbach, Ulrich von Herrlingen (<hi rend="italic">Horninch</hi>), (Graf) Goswin der Jüngere von Heinsberg (<hi rend="italic">Hinesberch</hi>), Dietrich und Florentius von Kempenich, die Grafen Emicho von Leiningen, Albert von Maubach (<hi rend="italic">Mulbach</hi>) und Gottfried von Sponheim</span>. - <span n="chancellor"><hi rend="italic">Reinaldus canc. vice domini Arnoldi Moguntini archiep. et archicanc.</hi> </span>; <span n="clerk">nach kanzleifremdem Diktat, das zum überwiegenden Teil auf den Empfänger zurückgeht, geschrieben von Rainald G</span>; <span n="seal">SI. 2.  in braunrotem Wachs.</span> <span n="incipit"><hi rend="italic">Imperialis excellentia maiestatis</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialis excellentia maiestatis</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Koblenz (A). Drucke: Beyer, Mittelrhein. UB. 1, 673 n<hi rend="sup">o</hi>  611; MG. DF. I. 215. <hi rend="spaced">Teilfaks</hi>.: Riedmann, Reichskanzlei, MIÖG 75 (1967) nach 388, Tafel 1. Reg.: Goerz, Mittelrhein. Reg. 2, n<hi rend="sup">o</hi>  140; Stumpf 3808.</p></div>
+				
+				
+					<div type="commentary"><p>Zu Hillin von Trier vgl. Hilpisch, Hillin, A. f. mittelrh. KG 7 (1955) 9 ff. und besonders 19. - Zum Silberbergbau in Bad Ems vgl. Städtebuch Rheinland-Pfalz und Saarland, hrsg. v. E. Keyser. (Deutsches Städtebuch IV/3, 1964) 73 f. n<hi rend="sup">o</hi>  8 a.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0184" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_215" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

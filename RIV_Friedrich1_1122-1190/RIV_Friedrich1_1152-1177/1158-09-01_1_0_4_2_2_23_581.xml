@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 581</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-09-01_1_0_4_2_2_23_581"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-09-01_1_0_4_2_2_23_581"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-09-01_1_0_4_2_2_23_581</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426240928" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 581</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-09-01" to="1158-09-01">1158 September 1</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>-</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(prima die mensis septembris)</dateOrig>
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Mailändern</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Rainaldus canc. vice Frederici Coloniensis archiep. et archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt von König Vladislav von Böhmen, geschrieben vom Historiographen Vinzenz von Prag</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich schließt mit den <span sameAs="recipient"><hi rend="spaced">Mailändern</hi> </span>  einen Vertrag über die Unterwerfung ihrer Stadt, nach dem er diese gegen eine Buße von 120 Mark gemeinsam mit Crema unter folgenden Bedingungen wieder in seine Gnade aufnimmt: Die Mailänder werden den Wiederaufbau von Como und Lodi nicht verhindern, dem Kaiser eine Pfalz in der Stadt errichten, die auch seinen Abgesandten zur Verfügung stehen soll, ihm einen Treueid leisten, 9000 Mark in Silber, Gold oder Münzen an ihn, die Kaiserin und den Hof entrichten, 300 Geiseln stellen und auf die usurpierten Regalien verzichten. Der Kaiser erkennt die Konsulatsverfassung an, auf die er allerdings ab dem nächsten Jahr Einfluß nehmen wird, sagt zu, zwischen Mailand, Tortona, Crema und der Isola Comacina auf der einen und Cremona, Pavia, Novara, Como, Lodi und Vercelli auf der anderen Seite Frieden stiften zu wollen und die Belagerung spätestens am dritten Tag nach der Stellung der Geiseln aufzuheben. Schließlich verbietet er den Mailändern, in Como, Lodi und bei den Bewohnern der Grafschaft Seprio, die ihm erst kürzlich den Treueid geleistet haben, Beiträge zu ihrer Buße einzuheben. - <span n="chancellor"><hi rend="italic">Rainaldus canc. vice Frederici Coloniensis archiep. et archicanc.</hi> </span>; <span n="clerk">verfaßt von König Vladislav von Böhmen, geschrieben vom Historiographen Vinzenz von Prag</span>. <span n="incipit"><hi rend="italic">Haec est conventio</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Haec est conventio</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Rahewini Gesta Friderici III cap. 47 (41); Abschrift aus dem Anfang des 13. Jh. ms. 1110 f. 6', Bibliothèque de I'Arsénal zu Paris (P). Drucke: MG. Const. 1, 241 n<hi rend="sup">o</hi>  174; Gesta Friderici, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 221; Freiherr vom Stein-Gedächtnisausgabe 17, ed. Schmale (<hi rend="sup">2</hi> 1974) 494; MG. DF. I. 224. Reg.: Stumpf 3818.</p></div>
+				
+				
+					<div type="commentary"><p>Zu den Verhandlungen, die zu diesem Vertrag führten und an deren Durchführung namhafte Fürsten des Reiches beteiligt waren, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-08-00_1_0_4_2_2_22_580.html" type="internal" n="regesten">580</ref>. Die Entstehung der Urkunde schildert Vinzenz von Prag, MG. SS XVII, 674 ff. Aus Vinzenz' Bericht, der vom vorliegenden Wortlaut mehrfach abweicht, kann aber nicht auf mehrere Stufen bei der Entstehung des Vertragswerkes geschlossen werden, vgl. dazu Riedmann, Verträge 63 ff. - Zu den Bewohnern des Seprio vgl. auch Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-09-00_2_0_4_2_2_30_D588.html" type="internal" n="regesten">588</ref>. - Zur Ausführung der Bestimmungen vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1158-09-08_1_0_4_2_2_25_583.html" type="internal" n="regesten">583</ref>. - Zum Inhalt vgl. zuletzt Opll, Stadt und Reich, 327.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0024" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_224" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

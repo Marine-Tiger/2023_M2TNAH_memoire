@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2660</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-31_1_0_4_2_4_81_2660"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1182-05-31_1_0_4_2_4_81_2660"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1182-05-31_1_0_4_2_4_81_2660</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1426843399" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2660</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1182-05-31" to="1182-05-31">1182
+									Mai 31</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>auf dem feierlichen Hoftag zu Mainz (<hi rend="italic">II kal. iunii, </hi> <hi rend="italic">Maguncie in sollempni curia</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aule canc. vice Cristiani 										Maguntine sedis archiep. et Germanie archicanc.</hi></notarius>
+				
+				
+					<scribe>verfasst von Robert.</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Philipp von Köln, die 									Bischöfe Hermann von Münster und Ulrich von Speyer, Dompropst 									Arnold von Mainz, Rudolf, Protonotar des kaiserlichen Hofes, 									Domdekan Heinrich von Mainz, Domscholaster Siegfried (von 									Mainz), Kantor Hermann (von Mainz), Archipresbyter Ruckerus (von 									Mainz), Dekan Meinhard von Worms, Domscholaster Konrad (von 									Mainz), Kellermeister Konrad (von Mainz), Magister Gerhard (von 									Worms?) und Ludwig (Kanoniker von Worms?); die Laien Graf 									Heinrich von Diez, Hartmann von Büdingen, Kämmerer Dudo (von 									Weisenau-Mainz), die Wormser Bürger Zöllner Wernher (Wormser 									Ministeriale), Wignand, Gernod und David</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich befreit auf Klagen der bei Hofe 								erschienenen <hi rend="spaced">Domkanoniker von Worms</hi> über 								die Bedrückung ihrer Diener durch die Wormser Bürger – diese treiben 								von deren Vermögen Abgaben ein, die in der Stadt dem Reich zustehen 								– auf Grund eines auf dem Mainzer Hoftag in Anwesenheit sowohl der 								Domkanoniker wie der Bürger von Worms gefällten Spruches des 								Hofgerichtes die Diener der Wormser Kirche, die keine Kaufleute 								sind, von allen städtischen Steuern und Abgaben (<hi rend="italic">ab omnibus angariis et perangariis, ab exaccionibus et 									collectis</hi>). Der Spruch des Hofgerichts erklärt alle Diener 								der Kirchen, die den Brüdern und der Kirche täglich in eigener 								Person dienen, keinen Handel und keine Marktgeschäfte treiben und 								sich nicht zur Vermeidung dieser Reichsabgaben in den Dienst der 								Brüder stellen (<hi rend="italic">qui fratribus et ecclesie cottidie 									in propria persona deserviunt nec mercimoniis operam dant nec 									foro rerum venalium student nec pro subterfugio nostre collecte 									obsequio fratrum se applicant)</hi>, für frei von diesen Lasten. 									<span n="witnesses">Z.: Erzbischof Philipp von Köln, die 									Bischöfe Hermann von Münster und Ulrich von Speyer, Dompropst 									Arnold von Mainz, Rudolf, Protonotar des kaiserlichen Hofes, 									Domdekan Heinrich von Mainz, Domscholaster Siegfried (von 									Mainz), Kantor Hermann (von Mainz), Archipresbyter Ruckerus (von 									Mainz), Dekan Meinhard von Worms, Domscholaster Konrad (von 									Mainz), Kellermeister Konrad (von Mainz), Magister Gerhard (von 									Worms?) und Ludwig (Kanoniker von Worms?); die Laien Graf 									Heinrich von Diez, Hartmann von Büdingen, Kämmerer Dudo (von 									Weisenau-Mainz), die Wormser Bürger Zöllner Wernher (Wormser 									Ministeriale), Wignand, Gernod und David</span>. –<span n="chancellor"> 									<hi rend="italic">Godefridus imp. aule canc. vice Cristiani 										Maguntine sedis archiep. et Germanie archicanc.</hi></span>; 									<span n="clerk">verfasst von Robert.</span><span n="incipit"> 									<hi rend="italic">Ad eterni regni.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad eterni regni.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Liber privilegiorum ecclesie 								Wormatiensis aus der ersten Hälfte des 15. Jh. f. 40‘, Hessisches 								Staatsarchiv Darmstadt (D). Drucke: Boos, UB. der Stadt Worms 								1, 72 n<hi rend="sup">o</hi> 89; MG. Const. 1, 389 n<hi rend="sup">o</hi> 283; MG.DF.I.828. Regg.: Diestelkamp – Rotter, 								Urkundenregesten 1, 366 n<hi rend="sup">o</hi> 465; Stumpf 4342.</p></div>
+				
+				
+					<div type="commentary"><p>Interesse verdient der Umstand, dass das 								Hofgerichtsurteil allgemein – für die Diener sämtlicher Kirchen (<hi rend="italic">quod universi ecclesiarum ministri</hi>) – erging 								und somit anhand des Anlassfalles Worms eine generelle Regelung 								getroffen wurde. – Zu dem unter den Zeugen genannten Wormser 								Ministerialen Zöllner Werner vgl. Plassmann, Struktur des Hofes, 								277; Domscholaster Konrad und Kellermeister Konrad sind auf Mainz, 								nicht auf Worms zu beziehen, vgl. Plassmann, a.a.O., 280 f.; zu 								Kämmerer Dudo vgl. Plassmann, a.a.O., 283. – Zum Inhalt vgl. Opll, 								Stadt und Reich, 175 f., und Bönnen, Entwicklung von Stadtverfassung 								und Stadtgemeinde, ZGORh 150 = N.F. 111 (2002) 143.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_828" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

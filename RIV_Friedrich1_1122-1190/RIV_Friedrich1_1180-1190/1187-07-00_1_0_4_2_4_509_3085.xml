@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3085</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-07-00_1_0_4_2_4_509_3085"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1187-07-00_1_0_4_2_4_509_3085"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1187-07-00_1_0_4_2_4_509_3085</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3085</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1187-07-01" to="1187-07-31">(1187
+									etwa Ende Juli)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die Kirchenfürsten des Heiligen Landes und die 								dortigen Christen benachrichtigen Papst (Urban III.) und Kaiser 								Friedrich über ihre infolge des militärischen Vorgehens Sultan 								Saladins schwer bedrohte Situation.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. reg. Col., ed. Waitz, MG. SS rer. 								Germ. in us. schol., 137 f. (Wortlaut des Schreibens an Papst Urban 								III.); Hist. de expeditione Friderici (Ansbert), ed. Chroust, MG. SS 								rer. Germ. N.S. 5, 2 ff. (deutsche Übersetzung von Bühler, Der 								Kreuzzug Friedrich Barbarossas, 2002, 60 f.) (Schreiben an <hi rend="italic">Archumbaldo magistro hospitalarium Italię et 									fratribus</hi> = Röhricht, Reg. regni Hierosolymitani, 176 n<hi rend="sup">o</hi> 661); Hugonis Chron. Cont. Weingartensis, MG. 								SS XXI, 475 (Wortlaut eines Schreibens ohne Nennung des Adressaten); 								vgl. Röhricht, Reg. regni Hierosolymitani, 175 n<hi rend="sup">o</hi> 658.</p></div>
+				
+				
+					<div type="commentary"><p>Der Wortlaut des Schreibens ist in der 								Weingartener Fortsetzung (a.a.O., 475 f.) überliefert; ähnliche 								Schreiben, die in diesem Jahr aus dem Heiligen Land an diverse 								Adressaten ins Abendland gerichtet wurden, sind verzeichnet bei: 								Röhricht, Reg. regni Hierosolymitani, 176 f. no 660, 661, 663, 664. 								– Siehe auch unten Reg. 3113. – Zu Saladin vgl. nunmehr den 								Ausstellungskatalog: Saladin und die Kreuzfahrer, hg. von Wieczorek 								– Fansa – Meller (Darmstadt 2005), mit den dort verzeichneten 								Hinweisen auf weiterführende Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

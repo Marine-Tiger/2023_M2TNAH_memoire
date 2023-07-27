@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3180</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-09_1_0_4_2_4_606_3180"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1188-08-09_1_0_4_2_4_606_3180"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1188-08-09_1_0_4_2_4_606_3180</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3180</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1188-08-09" to="1188-08-09">1188
+									August 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Gandersheim">Gandersheim</placeName>
+												<location><geo decls="#WGS">51.8833, 10.0333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Äbtissin Adelheid von Gandersheim beurkundet, dass 								Graf Burchard von Wöltingerode, der Vogt ihres Klosters, der 								gemeinsam mit seinem Bruder, Graf Hoger, sowie Graf Dietrich von 								Werth durch den Kaiser mit der Behandlung ihrer am 25. Juli dieses 								Jahres zu Goslar erhobenen Klagen gegen Vogt Hermann von Gandersheim 								beauftragt worden ist (vgl. Reg. 3171), anlässlich einer Versammlung 								der Ministerialen des Klosters in Gandersheim die Rechte der Vogtei 								und der Vögte durch ein detailliertes Weistum hat feststellen 								lassen, wobei auch das kaiserliche Edikt (Reg. 3170) wörtlich 								inseriert wird. Sie hat die Ausübung der Vogteirechte dem Hermann 								zuerkannt, der seinerseits versprochen hat, seine Befugnisse nicht 								zu überschreiten. Nennung lokaler Zeugen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kallen, Gandersheimer Vogteiweistum, in: FS. 								Aloys Schulte (1927) 149, abermals abgedruckt in: Ders., Probleme 								der Rechtsordnung (Kölner Hist. Abhandlungen 11, 1965) 								98. Regg.: Diestelkamp – Rotter, Urkundenregesten 1, 396 n<hi rend="sup">o</hi> 504.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

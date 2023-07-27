@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1372</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-15_1_0_4_2_2_814_1372"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-06-15_1_0_4_2_2_814_1372"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-06-15_1_0_4_2_2_814_1372</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1453205973" value="2016-01-19"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1372</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-06-15" to="1164-06-15">1164 Juni 15</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>in der Ebene von Monte Malo</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(XVII<hi rend="sup">o</hi>  kal. iulii, in plano iuxta Montem Malvm)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI. 2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Hagenau</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi></notarius>
+				
+				
+					<scribe>geschrieben und in den Eingangsworten auch verfaßt von CE</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erteilt der von seinem Vater, Herzog Friedrich von Schwaben, zur Zeit Kaiser Heinrichs V. gegründeten <hi rend="italic">villa</hi>  <span sameAs="recipient"><hi rend="spaced">Hagenau</hi> </span>  im Bistum Straßburg ein ausführliches Privileg, in dem die rechtliche Stellung der Einwohner und die Gerichtsbarkeit daselbst geregelt, die Strafen für verschiedene Missetaten festgesetzt, Bestimmungen über Maße und Preise sowie hinsichtlich der Versorgung getroffen, Befreiung von Abgaben und Einquartierungen, von Zöllen und dem Geleitrecht im ganzen Reich, die Nutzung des umliegenden Waldes sowie Marktfrieden im Umland von drei Meilen verliehen werden und das Recht des Kaisers unterstrichen wird, bei Besuchen durch seinen Marschall ohne Schaden für die Bürger Quartier requirieren zu dürfen. - <span n="chancellor"><hi rend="italic">Cristianus canc. vice domini Rainaldi Coloniensis archiep. et Ytalie archicanc.</hi> </span>; <span n="clerk">geschrieben und in den Eingangsworten auch verfaßt von CE</span>; <span n="seal">SI. 2.</span>  <span n="incipit"><hi rend="italic">Quoniam imperii semper</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Quoniam imperii semper</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Universitätsbibliothek Heidelberg (A). Kop.: Transsumpt König Adolfs von 1291 Dezember 17 (B.-Samanek Reg. 150) eines Transsumptes Rudolfs I. von 1274 Mai 21 (B.-Redlich Reg. 167), Universitätsbibliothek Heidelberg (C). Drucke: Grasser, La charte de l'empereur Frédéric Barberousse, Études Haguenoviennes N. S. 4 (1964) 4; MG. DF. I. 447. Faks.: Grasser, a. a. O. 5. Reg.: Stumpf 4019.</p></div>
+				
+				
+					<div type="commentary"><p>Zu dem Versuch von Büttner, Städtewesen, ZGORh 105 = N. F. 66 (1957) 75 ff., die auf den Vater des Kaisers zurückgehenden rechtlichen Bestimmungen gesondert herauszuarbeiten, vgl. die Vorbemerkung zum D. - Zum Inhalt vgl. Grasser, a. a. O. 17 ff. und Opll, Stadt und Reich 85 ff. - Die Burg Monte Malo (Ausstellungsort) war 1158 von den Mailändern wiederhergestellt worden, vgl. Gesta Fed. I., ed. Holder-Egger, MG. SS rer. Germ. in us. schol., 28; 1163 hatte sie Rainald von Dassel von neuem wiederherstellen lassen., vgl. dazu Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1163-00-00_2_0_4_2_2_662_1220.html" type="internal" n="regesten">1220</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0216" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%229047%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-216233" type="external" n="unkown">Abbildung der UB Heidelberg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_447" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

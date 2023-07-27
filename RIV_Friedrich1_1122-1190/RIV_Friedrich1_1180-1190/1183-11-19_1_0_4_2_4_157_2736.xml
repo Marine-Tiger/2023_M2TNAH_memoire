@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2736</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-11-19_1_0_4_2_4_157_2736"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1183-11-19_1_0_4_2_4_157_2736"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1183-11-19_1_0_4_2_4_157_2736</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535483" value="2012-06-12"></date>
+				<date type="lastmod" n="1453294646" value="2016-01-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2736</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1183-11-19" to="1183-11-19">1183
+									(vor November 17/19)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>–</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Mit Zustimmung Kaiser Friedrichs sowie des Klerus 								und der Bürger von Mainz folgt Erzbischof Konrad von Salzburg dem 								verstorbenen Erzbischof Christian († 1183 August 25) auf den Mainzer 								Stuhl, und auf kaiserlichen Befehl wird das Erzbistum Salzburg 								wieder mit dessen vorherigem Inhaber Adalbert besetzt.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Chron. Magni presbiteri, MG. SS XVII, 507; 								Chron. reg. Col., ed. Waitz, MG. SS rer. Germ. in us. schol., 133; 								Cron. s. Petri Erford. mod., ed. Holder-Egger, MG. SS rer. Germ. in 								us. schol., 191 f.; Cron. Reinhardsbrunn., MG. SS XXX/1, 541; Cont. 								Gerlaci abbatis Milovicensis, MG. SS XVII, 694; Christiani archiep. 								Liber de calamitate eccl. Moguntinae, MG. SS XXV, 246; Ann. s. 								Rudberti Salisburg., MG. SS IX, 777; Cont. Admunt., MG. SS IX, 586; 								Cont. Claustroneoburg. II., MG. SS IX, 617; Cont. Claustroneoburg. 								III., MG. SS IX, 633; Cont. Cremifanensis, MG. SS IX, 546; Cont. 								Garstensis, MG. SS IX, 594; zur gesamten Überlieferung vgl. <ref target="http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=Böhmer,_Regesta_archiepiscoporum_Maguntinensium" type="external" n="opac"><hi rend="smallcaps">Böhmer-Will</hi></ref>, Regg. Mainz II, n<hi rend="sup">o</hi> <ref target="http://www.regesta-imperii.de/regesten/20-11-2-mainz/nr/e4f06414-d6ed-4b70-860f-25a0e92602b5.html" type="internal" n="regesten">91</ref>.</p></div>
+				
+				
+					<div type="commentary"><p>Zum Tod Christians von Mainz siehe oben Reg. 2731. 								– Zur zeitlichen Einordnung vgl. die ersten von Konrad von Mainz 								ausgestellten Urkunden bei Acht, Mainzer UB. II/2, n<hi rend="sup">o</hi> 458 und 459 (zu 1183 November 17) sowie die Nachricht 								über die Reinthronisation Adalberts von Salzburg im Chron. Magni 								presbiteri, MG. SS XVII, 507 (zu 1183 November 19); diese wird bei 								Gerlach von Mühlhausen (Cont. Gerlaci abbatis Milovicensis, MG. SS 								XVII, 694) – zweifellos in tendenziell entstellter Form – so 								dargestellt, als hätte der Kaiser bereits 1182 Konrad von Salzburg 								genötigt, sein Erzbistum an den legitimen Inhaber, nämlich Adalbert, 								abzutreten, wofür er dann durch das nächste frei werdende Bistum 								entschädigt werden sollte (siehe dazu oben Reg. 2682). – Adalbert 								von Salzburg war schon 1174 in Regensburg und dann abermals 1177 in 								Venedig abgesetzt worden (Regg. 2081 und 2291), und Konrad war 1177 								in Venedig auf den Salzburger Stuhl erhoben worden (Reg. 2291). – 								Erzbischof Konrad ließ (nach 1189 Mai – vor 1190 Februar 18) eine 								Aufstellung über den während seines Exils (1165–1183) verloren 								gegangenen Besitz der Mainzer Kirche, die von ihm (nach 1183) 								zurückgewonnenen Güter und den (nach 1183) neu erworbenen Besitz 								anfertigen, vgl. Acht, Mainzer UB. II/2, 876 n<hi rend="sup">o</hi> 								531; dabei ist insbesondere auf folgende Punkte hinzuweisen: die 								Belehnung des Kaisers mit der Hälfte der Burg Gelnhausen (S. 879 mit 								Anm. 9), den Verkauf von Tauberbischofsheim an den Kaiser um 300 								Mark (S. 880 mit Anm. 47), die – wohl mit dem Mainzer Pfingstfest 								1184 (vgl. Reg. 2762) zusammenhängende – Inanspruchnahme aller 								Einkünfte der Mainzer Kirche während des ersten Jahres nach seiner 								Rückkehr auf den Mainzer Stuhl (somit 1183–1184, siehe dazu schon 								oben Reg. 2732) bis auf 45 <hi rend="italic">solidi</hi> in Mainz 								und sieben Pfund in Thüringen (S. 881 mit Anmm. 58 und 59, siehe 								dazu oben Reg. 2732) und die nicht näher spezifizierten Aufwendungen 								im Zusammenhang mit dem Reichsdienst in der Lombardei, darunter auch 								solche für König Heinrich (VI.) und dessen Gemahlin (Konstanze) (S. 								881 mit Anm. 64); die ihm von Erzbischof Christian hinterlassenen 								Schulden beziffert Konrad mit 2.850 Mark (S. 885: <hi rend="italic">tria milia, CL mar[cis] minus</hi>).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

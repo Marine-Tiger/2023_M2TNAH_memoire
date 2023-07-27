@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. †683</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-03-10_1_0_4_2_2_125_F683"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-03-10_1_0_4_2_2_125_F683"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-03-10_1_0_4_2_2_125_F683</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426841966" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. †683</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-03-10" to="1159-03-10">1159 März 10</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Cremona">Cremona</placeName>
+												<location><geo decls="#WGS">45.1333, 10.0167</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Leute zu Mandello</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt die <span sameAs="recipient"><hi rend="spaced">Leute zu Mandello</hi> </span>  mit Ausnahme der genannten Familien in seinen Schutz.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Fälschung; Calchus, Mediolanen. Historiae Patriae Libri XX, Lib. IX, 190, Graevius, Thesaurus antiquitatum et historiarum Italiae II/1, Sp. 237, MG. DF. I. Anhang II n<hi rend="sup">o</hi>  *7; Stumpf 3847.</p></div>
+				
+				
+					<div type="commentary"><p>Die Nachricht widerspricht dem kaiserlichen Itinerar und verdient keinen Glauben, vgl. die Vorbemerkung zu MG. DF. I. 262. - Allerdings bietet auch Giampaolo, Maccagno Inferiore, 21 den Hinweis, der Kaiser habe der Familie Mandello (!) - freilich 1158 - ihre alten Rechte auf das Gebiet des Königshofes Maccagno bestätigt. Campo, Cremona fedelissima città, 22 setzt die Urkunde zu 1160 - -, Cremona und spricht von der Belehnung der Mailänder Familie Mandelli mit dem Kastell Mandello. Cantù, Storia della città e della diocesi di Como, 283 Anm. 1 folgt in der Datierung Campo und erwähnt, daß die Familie Mandello den Kaiser bei seiner Flucht aus Carcano (vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1160-08-09_1_0_4_2_2_344_902.html" type="internal" n="regesten">902</ref>  ff.) unterstützt haben soll.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0050" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/resolving/MGH_DD_F_I_4_S._509" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

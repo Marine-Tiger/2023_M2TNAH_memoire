@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1433</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-12-06_1_0_4_2_2_875_1433"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1164-12-06_1_0_4_2_2_875_1433"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1164-12-06_1_0_4_2_2_875_1433</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1340985517" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1433</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1164-12-06" to="1164-12-06">1164 Dezember 6</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Pavia">Pavia</placeName>
+												<location><geo decls="#WGS">45.1167, 9.1333</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Die vom Kaiser delegierten Paveser Justizkonsuln Girardo di Lomello, Rolando Zorzi, Gislenzone Salimbene, Barozzo del Borgo und Baldo Cristiano entscheiden einen Streit zwischen Bischof Alberich von Lodi und den genannten Herren von Frascarolo. Nennung lokaler Zeugen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Vignati, CD. Laudense 2, 21 n<hi rend="sup">o</hi>  15; Bollea, Cartario di Precipiano, BSSS 43 (1911) 338 n<hi rend="sup">o</hi>  83.</p></div>
+				
+				
+					<div type="commentary"><p>Die Aufnahme dieses Stückes in die Regesta Imperii erfolgte wegen des ungewöhnlichen Zeugnisses für die Delegation einer Rechtssache vom Kaiser an die Justizkonsuln (zu diesem Amt in Pavia vgl. Opll, Stadt und Reich, 369 mit Anm. 28) einer Stadt. Allerdings muß angesichts der Nennung des Girardo di Lomello als <hi rend="italic">consul iusticie ab imperatore Frederico constitutus</hi>  in einer weiteren Urkunde über diesen Streit vom selben Tag (Bollea, a. a. O., 346 n<hi rend="sup">o</hi>  85) und eines weiteren Beleges aus dem Jahr 1165 (Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1165-11-04_1_0_4_2_2_959_1517.html" type="internal" n="regesten">1517</ref>) offen bleiben, ob es sich hier nicht doch bloß um einen Hinweis auf die Investitur dieser Konsuln (vgl. die Bestimmungen im DF. I. 455 für Pavia = Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1164-08-08_1_0_4_2_2_835_1393.html" type="internal" n="regesten">1393</ref>) handelt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0231" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

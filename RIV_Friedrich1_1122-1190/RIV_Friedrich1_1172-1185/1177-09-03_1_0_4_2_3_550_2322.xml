@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2322</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-03_1_0_4_2_3_550_2322"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1177-09-03_1_0_4_2_3_550_2322"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1177-09-03_1_0_4_2_3_550_2322</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426603360" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2322</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1177-09-03" to="1177-09-03">1177 September 3</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Venedig">im Dogenpalast zu Venedig</placeName>
+												<location><geo decls="#WGS">45.5833, 12.5667</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(III<hi rend="sup">o</hi>  non. septembris, apud Venecias in palacio ducis)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von dem in der Zeugenliste erwähnten Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Patriarch Udalrich von Aquileia, Erzbischof Christian von Mainz, Elekt Konrad von Worms, Protonotar Wortwin, die Notare und Kapelläne Rudolf und Burkhard, die Bischöfe Ulrich von Treviso und Garsidonius von Mantua, Sebastianus Ziani, Doge von Venedig, Markgraf Obizo von Este und sein Neffe Bonifaz, Graf Schinella von Treviso und sein Bruder Manfred, Wezel von Camino und sein Sohn Gabriel, Ezzelin von Treviso, der Ferrarese Taurellus, Petrus Traversarius (von Ravenna) und Albertinus von <hi rend="italic">Castellonouo</hi></testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das seit Kaiser Otto (III.) reichsunmittelbare <hi rend="spaced">Kloster Santa Maria zu Pomposa</hi>  (... <hi rend="italic">de [Pomposia ecclesiam sancte dei genitric]is Marie sitam in insula Pomposia</hi>...) auf Bitten des Abtes Guido und des Priors Vivianus in seinen Schutz, bestätigt ihm die genannten Besitzungen, die Freiheit vor allen Übergriffen, insbesondere solchen der Bewohner von Comacchio, auf die Insel Pomposa, unterstellt es in weltlichen Belangen ausschließlich der Herrschaft des Reiches, in geistlichen Belangen der des Papstes, widerruft alle unrechtmäßigen Vergaben von Klostergut, verleiht ihm besondere Vorrechte hinsichtlich der Rückerwerbung von Gütern, befreit es von der Leistung des Kalumnieneides und überträgt ihm die Gerichts- und Abgabenhoheit. <span n="witnesses">Z.: Patriarch Udalrich von Aquileia, Erzbischof Christian von Mainz, Elekt Konrad von Worms, Protonotar Wortwin, die Notare und Kapelläne Rudolf und Burkhard, die Bischöfe Ulrich von Treviso und Garsidonius von Mantua, Sebastianus Ziani, Doge von Venedig, Markgraf Obizo von Este und sein Neffe Bonifaz, Graf Schinella von Treviso und sein Bruder Manfred, Wezel von Camino und sein Sohn Gabriel, Ezzelin von Treviso, der Ferrarese Taurellus, Petrus Traversarius (von Ravenna) und Albertinus von <hi rend="italic">Castellonouo</hi> </span>. — <span n="chancellor"><hi rend="italic">Godefridus canc. vice Philippi Coloniensis archiep. et Ytalici regni archicanc.</hi> </span>; unter Verwendung des DH.V. von 1114 September 13 (Bresslau, Diplom, NA 20, 1895, 225; VU.I) und eines wohl von dem Mönch Romanus (<hi rend="italic">Romanus monachus egit pro privilegio.</hi>) konzipierten Empfängerentwurfs, der sich stark an die interpolierte Fassung des DF.I.111 (= Reg. †320; VU.II) anlehnt, <span n="clerk">verfaßt und geschrieben von dem in der Zeugenliste erwähnten Burkhard</span>; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Ad hoc a rege</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ad hoc a rege</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Modena (A). Kop.: Abschrift des 12. Jh., Staatsarchiv Mailand sez. storica III (B). Drucke: Prutz, Friedrich I. 2, 382 n<hi rend="sup">o</hi>  13; MG.DF.I.705. Regg.: Samaritani, Reg.Pomposiae 1, 203 n<hi rend="sup">o</hi>  700; Stumpf 4222.</p></div>
+				
+				
+					<div type="commentary"><p>Mittels dieses D. stellte Friedrich die 1001 von Otto III. begründete Reichsfreiheit, die 1118 von Papst Gelasius II. durch die Unterstellung unter die <hi rend="italic">cura</hi>  des Ravennaler Erzbischofs beendet worden war, wieder her, ohne auf die Maßnahme dieses Papstes ausdrücklich Bezug zu nehmen, vgl. dazu die Vorbemerkung zum D. — Von besonderem Interesse ist die Erwähnung des Mönches Romanus, der wohl als rechtskundiger Vertreter für seine Abtei agiert hatte.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0199" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_705" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

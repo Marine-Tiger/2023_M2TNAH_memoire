@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 739</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-07-20_1_0_4_2_2_181_739"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1159-07-20_1_0_4_2_2_181_739"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1159-07-20_1_0_4_2_2_181_739</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1341069029" value="2012-06-30"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 739</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1159-07-20" to="1159-07-20">1159 (vor Juli 20)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Eberhard von Bamberg unterrichtet Erzbischof Eberhard von Salzburg über die Gefahr des Ausbruchs eines Streites zwischen Kaiser und Papst. Er berichtet über die seitens der päpstlichen Legaten Oktavian und Wilhelm erhobenen, schwerwiegenden Forderungen, die der Kaiser rechtlich klären lassen möchte und wogegen er (der Kaiser) schwere Anschuldigungen wegen des Bruches des Übereinkommens (des Konstanzer Vertrages, Reg. 164 und 169) durch den Papst sowie wegen der ohne seine Genehmigung durchgeführten Reisen der Kardinäle durch das Reich erhebt Des weiteren sei auch eine stadtrömische Gesandtschaft bei Hofe günstig aufgenommen und wieder entlassen worden. Die auf Bitten der Kardinäle nach Rom entsandten kaiserlichen Boten (Reg. 745) sollen entweder mit dem Papst oder dem Senat und Volk von Rom Frieden schließen. Friedrich erwarte derzeit die Kaiserin, den Herzog von Bayern und Sachsen sowie weitere Fürsten und Truppen, während er einige der Vornehmsten aus Mailand und Brescia gefangenhalte.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Rahewini Gesta Frid. l. IV cap. 34, ed. Waitz - Simson, MG. SS rer. Germ. in us. schol., 276 f.</p></div>
+				
+				
+					<div type="commentary"><p>Dieses Schreiben ist neben Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_180_738.html" type="internal" n="regesten">738</ref>  die einzige Quelle für die Verhandlungen des Kaisers mit der Kurie und der Stadt Rom, vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_165_723.html" type="internal" n="regesten">723</ref>  und <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-06-00_1_0_4_2_2_187_745.html" type="internal" n="regesten">745</ref>. Die Datierung (vgl. dazu Maccarrone, Papato e Impero, 304 ff.) ergibt sich nicht zuletzt aus den Hinweisen am Schluß des Schreibens, trafen doch die Kaiserin und Heinrich der Löwe am 20. Juli 1159 im Lager vor Crema ein, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1159-07-20_1_0_4_2_2_183_741.html" type="internal" n="regesten">741</ref>.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0063" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

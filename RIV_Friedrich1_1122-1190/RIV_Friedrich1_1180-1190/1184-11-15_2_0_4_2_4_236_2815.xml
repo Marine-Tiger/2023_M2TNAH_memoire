@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2815</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_2_0_4_2_4_236_2815"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1184-11-15_2_0_4_2_4_236_2815"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1184-11-15_2_0_4_2_4_236_2815</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2815</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1184-11-15" to="1184-11-15">(1156
+									Juni – 1184 November 15)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Beatrix lässt die Grenzen der Ländereien der <hi rend="spaced">Abtei Corneux</hi> zwischen Magny und Hugier mit 								Rat Odos von der Champagne, Magister Daniels (Kapellan und 								kaiserlicher Legat in Burgund), Hugos von Beaujeu (<hi rend="italic">Belliioci</hi>) und zahlreicher anderer festlegen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Deperditum; erwähnt in der Bestätigung dieses 								Rechtsaktes durch Pfalzgraf Otto von Burgund, den Sohn der Kaiserin, 								vom Jahre 1195, ed. Güterbock, Zur Geschichte Burgunds, Zs. f. 								Schweiz. Gesch. 17 (1937) 181 (<hi rend="italic">divisionem 									territoriorum inter Maigny et Ugier, quemadmodum bone memorie 									Beatrix imperatrix Romanorum mater mea … terminari precepit et 									sigillo suo munivit</hi>). MG.DBeatrix *11.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu auch Mariotte, Le comté de Bourgogne, 								170 no 13 und 176 no 12. – <hi rend="italic">Terminus post quem</hi> 								ist die Hochzeit des Kaiserpaares im Juni 1156 (nicht wie in den 								DDF.I.: Mai), vgl. dazu oben Reg. 398.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

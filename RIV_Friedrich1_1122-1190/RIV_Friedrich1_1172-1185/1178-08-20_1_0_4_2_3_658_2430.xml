@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,3 n. 2430</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,3 - Friedrich I., 3. Lfg. 1168-1180</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-20_1_0_4_2_3_658_2430"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-003/sources/1178-08-20_1_0_4_2_3_658_2430"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1178-08-20_1_0_4_2_3_658_2430</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">003</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339420657" value="2012-06-11"></date>
+				<date type="lastmod" n="1426605128" value="2015-03-17"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,3 n. 2430</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1178-08-20" to="1178-08-20">1178 August 20</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Lyon an der Rhône</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig><hi rend="italic">(XIIII<hi rend="sup">to</hi>  kalendas septembris, apud Lugdunum super Rodanum)</hi></dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="kursiv">Ru<hi rend="sup">o</hi> tpertus dei gratia Viennensis archiep. et regni totius Burgundię archicanc.</hi></notarius>
+				
+				
+					<scribe>verfaßt und geschrieben von Burkhard</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof (<hi rend="italic">primas</hi>) Wichard (<hi rend="italic">Gvikardus</hi>) von Lyon, die Bischöfe Odo von Valence und Hugo von Verden, Herzog Hugo von Dijon, Graf Wilhelm von Valence, Humbert von Beaujeu (<hi rend="italic">Belloioco</hi>), Guigo von Roussillon, Dekan Boso von Vienne, Archidiakon Wilhelm von Lyon, Gerald Adimar von Montélimar</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt <hi rend="spaced">Bischof Johann von Grenoble</hi>  auf dessen Bitten samt seiner Kirche in seinen Schutz, verleiht ihm die Regalien (<hi rend="italic">in agris, vinetis, pascuis, pratis, silvis, nemoribus, terris cultis et incultis, aquis aquarumque decursibus, paludibus, portubus, viis et inviis, venationibus, piscationibus, castellis, villis, hominibus, plateis, pedagiis, monetis, foro, argenti fodinis, furnis, molendinis, in faciendis iudiciis et bannis tollendis et ceteris iusticiis et generaliter universis pertinentiis</hi>) von der Burg Bellecombe die Isère abwärts zu beiden Seiten des Flusses im ganzen Bistum sowohl inner- als auch außerhalb der Stadt und bestätigt ihm den Besitzstand, insbesondere hinsichtlich der Burg Saint-Donat, behält sich jedoch in allem die kaiserlichen Gerechtsame vor. <span n="witnesses">Z.: Erzbischof (<hi rend="italic">primas</hi>) Wichard (<hi rend="italic">Gvikardus</hi>) von Lyon, die Bischöfe Odo von Valence und Hugo von Verden, Herzog Hugo von Dijon, Graf Wilhelm von Valence, Humbert von Beaujeu (<hi rend="italic">Belloioco</hi>), Guigo von Roussillon, Dekan Boso von Vienne, Archidiakon Wilhelm von Lyon, Gerald Adimar von Montélimar</span>. — <span n="chancellor"><hi rend="kursiv">Ru<hi rend="sup">o</hi> tpertus dei gratia Viennensis archiep. et regni totius Burgundię archicanc.</hi> </span>; <span n="clerk">verfaßt und geschrieben von Burkhard</span>; <span n="seal">B.D.</span>  <span n="incipit"><hi rend="italic">Si iustas ecclesiasticorum</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Si iustas ecclesiasticorum</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Departementalarchiv Grenoble (A). Drucke: Chevalier, Collection du cartul.dauphinois 6/2, 79 n<hi rend="sup">o</hi>  14; MG.DF.I.756. Regg.: Chevalier, Reg.dauphinois 1, 783 n<hi rend="sup">o</hi> 4700; Stumpf 4265.</p></div>
+				
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl2001_0232" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_756" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

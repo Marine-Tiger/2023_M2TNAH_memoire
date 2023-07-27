@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 621</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-00_5_0_4_2_2_63_621"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1158-11-00_5_0_4_2_2_63_621"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1158-11-00_5_0_4_2_2_63_621</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426241341" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 621</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1158-11-01" to="1158-11-30">(1158 November)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>(Roncaglia)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Lehensgesetz</hi></recipient>
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich erneuert und erweitert das <span sameAs="recipient"><hi rend="spaced">Lehensgesetz</hi> </span>  von 1154 (D. 91 = Reg. 255), wobei für die Heerfahrtspflicht des Vasallen die Möglichkeit einer stellvertretenden Ableistung oder einer finanziellen Ablöse eingeräumt, die Teilung von Herzogtümern, Marken und Grafschaften verboten, die von sonstigen Lehen mit Zustimmung der Beteiligten dagegen erlaubt, die Verantwortlichkeit des Vaters für seinen Sohn und des Vasallen für seinen Untervasallen bei Insultationen des Lehnsherrn festgelegt, der Lehnsherr für Streitigkeiten unter Vasallen sowie das von diesem unter Treueid vereidigte Gremium der Standesgenossen für Konflikte zwischen Herr und Vasall als zuständig erklärt und schließlich angeordnet wird, daß bei allen Eiden der Kaiser namentlich ausgenommen sein soll. - Erweiterung des D. 91 (Reg. 255). <span n="incipit"><hi rend="italic">Imperialem decet sollertiam</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperialem decet sollertiam</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Rahewini Gesta Friderici l. IV cap. 10 (fehlt in den Rezensionen AA*); Abschriften des 12. Jh. im Cod. Pal. lat. 772 f. 84', Vatikanische Bibliothek Rom (E), und im Cod. Bibliothecae Sessorianae n<hi rend="sup">o</hi>  33 f. 89', Biblioteca Nazionale Rom (F); Abschrift des 13. Jh. im Ms. 1110 (Hist. 80) f. 9, Bibliothèque de l'Arsénal Paris (G); Libri feudorum II, tit. 54 (55). Drucke: MG. Const. 1, 247 n<hi rend="sup">o</hi>  177; Freiherr vom Stein-Gedächtnisausgabe 17, ed. Schmale (<hi rend="sup">2</hi> 1974) 522; MG. DF. I. 242. Reg.: Stumpf 3827.</p></div>
+				
+				
+					<div type="commentary"><p><hi rend="strong">Verbesserungen und Zusätze (2011):</hi>
+</p>
+<p>Zur Erneuerung und Erweiterung des bereits 1154 in Roncaglia erlassenen Lehensgesetzes im November 1158 (DF.I.242) vgl. jetzt Dendorfer, Roncaglia, in: Staufisches Kaisertum im 12. Jahrhundert, hg. von Burkhardt, Metz, Schneidmüller und Weinfurter (2010) 117.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0035" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_242" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

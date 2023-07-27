@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1542</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-29_1_0_4_2_2_984_1542"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1166-01-29_1_0_4_2_2_984_1542"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1166-01-29_1_0_4_2_2_984_1542</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426247249" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1542</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1166-01-29" to="1166-01-29">1166 Januar 29</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									
+										
+												<placeName key="Frankfurt am Main">Frankfurt</placeName>
+												<location><geo decls="#WGS">50.1, 8.6833</geo></location>
+											
+									
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(IIII<hi rend="sup">to</hi>  kal. faebruarii, apud Franckeuorth)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SI.2.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Ober- und Nieder-Ilbenstadt</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Cristianus sacri palacii archicanc. et Maguntinę sędis ęlectus</hi></notarius>
+				
+				
+					<scribe>unter Benützung des erwähnten Privilegs Erzbischof Arnolds von Mainz von 1159 (Acht, Mainzer UB. 2/1, 438 n<hi rend="sup">o</hi>  242; VU.) verfaßt und geschrieben von RG</scribe>
+				
+				
+					<testis function="witnesses">die Grafen Emicho von Leiningen und Heinrich von Diez, Berthold von Schauenburg, Eglolf von Irslingen, Gerard von Hainhausen, Konrad von Niederdorfeiden, Werner von Ortenberg, Hartmann von Büdingen, Werner von Bolanden, Eberhard von Dornberg, Kuno von Münzenberg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich nimmt das Prämonstratenserdoppelstift <span sameAs="recipient"><hi rend="spaced">Ober- und Nieder-Ilbenstadt</hi> </span>  in seinen Schutz und bestätigt ihm auf Bitten des an den Hof gekommenen Grafen Gerhard von Nürings die von diesem und seiner Tochter Jutta übertragenen Besitzungen in Riedhausen und Himmenhausen gemäß dem Privileg Erzbischof Arnolds von Mainz. <span n="witnesses">Z.: die Grafen Emicho von Leiningen und Heinrich von Diez, Berthold von Schauenburg, Eglolf von Irslingen, Gerard von Hainhausen, Konrad von Niederdorfeiden, Werner von Ortenberg, Hartmann von Büdingen, Werner von Bolanden, Eberhard von Dornberg, Kuno von Münzenberg</span>. - <span n="chancellor"><hi rend="italic">Cristianus sacri palacii archicanc. et Maguntinę sędis ęlectus</hi> </span>; <span n="clerk">unter Benützung des erwähnten Privilegs Erzbischof Arnolds von Mainz von 1159 (Acht, Mainzer UB. 2/1, 438 n<hi rend="sup">o</hi>  242; VU.) verfaßt und geschrieben von RG</span>; <span n="seal">SI.2.</span>  <span n="incipit"><hi rend="italic">Frequenter audivisse nos</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Frequenter audivisse nos</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Darmstadt (A). Druck: MG. DF. I. 504. Reg.: Albrecht, Rappoltetein. UB. l, 39 n<hi rend="sup">o</hi>  28; Clemm, Urkunden der Prämonstratenserstifter Ober- und Nieder-Ilbenstadt 146 n<hi rend="sup">o</hi>  31 = Hess. Reg. l, 174 n<hi rend="sup">o</hi>  31; Stumpf 4064.</p></div>
+				
+				
+					<div type="commentary"><p>Vgl. dazu Mittermaier, Anfänge, A. f. mittelrh. KG 11 (1959) 17.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0260" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://lba.hist.uni-marburg.de/lba-cgi/kleioc/0010KlLBA/exec/showrecord/zugangsnummer/%221722%22" type="external" n="unkown">Abbildung im LBA Marburg</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_504" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

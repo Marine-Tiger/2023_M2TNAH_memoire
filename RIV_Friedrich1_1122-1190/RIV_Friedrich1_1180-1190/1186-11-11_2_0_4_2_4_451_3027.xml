@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 3027</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-11_2_0_4_2_4_451_3027"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-11-11_2_0_4_2_4_451_3027"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-11-11_2_0_4_2_4_451_3027</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1340987057" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 3027</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-11-11" to="1186-11-11">1186
+									(um November 11 und danach)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Bischof Heinrich von Prag sucht Kaiser Friedrich auf 								und bittet ihn um Unterstützung (in seinen Streitigkeiten mit Herzog 								Friedrich von Böhmen). Er wird zwar wohlwollend aufgenommen, seine 								Angelegenheit wird aber auf den Hoftag in Regensburg in die 								Fastenzeit des nächsten Jahres vertagt. Bischof Heinrich verbleibt 								in der Folge bei Hofe, wobei der Kaiser, der ihn mit Zustimmung 								verschiedener Diözesanbischöfe Kapellen weihen lässt, einen Großteil 								der Spesen übernimmt (<hi rend="italic">… demoratur in curia cum 70 									equis, cuius expensas imperator miseratus precepit ei dari ad 									quotidianum sumptum 35 prebendas tum equis tum hominibus, et hoc 									tam large, ut ei reliqui qui extra numerum erant, frequenter 									inde participarent. Sepius quoque ipsum imperator ad prandium 									invitavit, necnon et capellas, de licentia tamen diocesani 									episcopi, consecrare fecit, et in omnibus honeste 									tractavit.</hi>). Als dann der Termin (des Regensburger Hoftags) 								herannaht, begibt sich Heinrich gemeinsam mit Legaten des Kaisers 								nach Böhmen, um in der Folge unter Begleitung der Prager Äbte und 								Kanoniker zum Hoftag zu ziehen.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Cont. Gerlaci abbatis Milovicensis, MG. SS 								XVII, 692.</p></div>
+				
+				
+					<div type="commentary"><p>Die zeitliche Einreihung ergibt sich aus der 								Nennung des Prager Bischofs in der Zeugenreihe von D. 953 (Reg. 								3026), so auch bei Scheffer-Boichorst, Streit mit der Kurie, 239 								nach Reg. 83. – Zu dem hier schon angekündigten Hoftag in Regensburg 								siehe unten Reg. 3052. – Vgl. dazu Kejř, Böhmen und das Reich, in: 								Friedrich Barbarossa (VuF 40, 1992) 277.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

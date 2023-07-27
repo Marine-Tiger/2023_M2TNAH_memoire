@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 309</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-00_1_0_4_2_1_309_309"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-00_1_0_4_2_1_309_309"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-00_1_0_4_2_1_309_309</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1340979320" value="2012-06-29"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 309</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-01" to="1155-06-30">1155 (Anfang Juni)</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>S. Quirico</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich empfängt die an ihn gerichtete Gesandtschaft Papst Hadrians IV., die aus den Kardinalpriestern J(ohannes) von SS. Giovanni e Paolo und G(uido) von S. Pudentiana sowie dem Kardinaldiakon G(uido) von S. Maria in Porticu besteht, ehrenvoll und liefert dem Papst auf dessen Wunsch den Häretiker Arnold von Brescia aus, will aber zur Beantwortung weiterer Anfragen des Papstes erst die Rückkehr seiner eigenen Gesandtschaft an diesen (Reg. 306) abwarten.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Boso, Vita Hadriani IV., ed. Duchesne, 390; zum Schicksal Arnolds von Brescia vgl. auch Ottonis Gesta Frid. l. II cap. 28, ed. Waitz-Simson, MG. SS rer. Germ. in us. schol. 133 f.; Carmen de gestis V. 760 ff., ed. Schmale-Ott, MG. SS rer. Germ. in us. schol. 26 ff.; Walter Map, De nugis curialium, ed. M. R. James, Anecdota Oxoniensia 14, 39 f.; Sicard v. Cremona, Cronica, MG. SS XXXI, 165 schiebt die Hauptschuld am Tod Arnolds Friedrich zu.</p></div>
+				
+				
+					<div type="commentary"><p>Hadrian IV. empfahl diese Gesandtschaft in einem eigenen Schreiben vom 1. Juni an Wibald von Stablo, Jaffé, Mon. Corb. 573 n<hi rend="sup">o</hi>  439 (JL. 10072), vgl Simonsfeld, Jahrbücher 326 f. - Zum Schicksal Arnolds von Brescia vgl. Simonsfeld, a. a. O. 341 ff. und jetzt auch Frugoni, Arnaldo da Brescia (Studi stor. del ist. stor. Ital. 8-9, 1954) sowie Manselli, Grundzüge der religiösen Geschichte Italiens (VuF Sbd. 9, 1971) 14 ff., zu den erwähnten päpstlichen Legaten s. Zenker, Mitglieder des Kardinalkollegiums 137, 112 und 56.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0104" type="external" n="bsb">Digitalisat der Buchseite</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2868</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-16_1_0_4_2_4_290_2868"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-03-16_1_0_4_2_4_290_2868"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-03-16_1_0_4_2_4_290_2868</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845150" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2868</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-03-16" to="1185-03-16">1185
+									Februar 13 oder März 16</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Castellarano (<hi rend="italic">XVII</hi><hi rend="sup">o</hi><hi rend="italic"> kal. mart., apud Castelaranum</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Gotefridus imp. aulę canc. vice Phylippi 										Coloniensis archiep. et Ytalię archicanc.</hi></notarius>
+				
+				
+					<scribe>unter Verwendung eines verlorenen, von 									Christian E verfassten Diploms (D.*1131 = Reg. 1363) als VU. 									geschrieben von GG</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Gerard von Ravenna, Bischof 									Alberich (<hi rend="italic">Albrigunus</hi>) von Reggio 									(Emilia), Rudolf, Protonotar des kaiserlichen Hofes, der Kantor 									und Kanoniker Symon, die Grafen Gerhard von Looz/Borgloon und 									Simon von Sponheim, Werner von Bolanden, Markgraf Opizo von 									Este, Graf Hildebrand von Tuszien, die kaiserlichen Hofrichter 									Magister Metellus, Oddo <hi rend="italic">Nouellus</hi> aus 									Mailand und Syrus (Salimbene) aus Pavia, die Konsuln von Fermo 									Roger und Ascarus, Vogt Justinianus von Fermo, Senebald von 									Montegiberto (<hi rend="italic">Giberto</hi>), Albrich von 									Monterinaldo (<hi rend="italic">Rolando</hi>), Berhardus von 									Montelupone und Burdo von <hi rend="italic">Podio</hi> (Poggio 									oder Poggio di Bretta)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt <hi rend="spaced">Bischof</hi> 								<hi rend="spaced">Presbiter von Fermo</hi> auf dessen vor ihm 								vorgebrachte Klage über die Bedrückung seiner Kirche die Immunität 								und die Einkünfte aus den Regalien unter Vorbehalt der kaiserlichen 								Gerechtsame und der Einhebung des Fodrums durch den Reichslegaten. 									<span n="witnesses">Z.: Erzbischof Gerard von Ravenna, Bischof 									Alberich (<hi rend="italic">Albrigunus</hi>) von Reggio 									(Emilia), Rudolf, Protonotar des kaiserlichen Hofes, der Kantor 									und Kanoniker Symon, die Grafen Gerhard von Looz/Borgloon und 									Simon von Sponheim, Werner von Bolanden, Markgraf Opizo von 									Este, Graf Hildebrand von Tuszien, die kaiserlichen Hofrichter 									Magister Metellus, Oddo <hi rend="italic">Nouellus</hi> aus 									Mailand und Syrus (Salimbene) aus Pavia, die Konsuln von Fermo 									Roger und Ascarus, Vogt Justinianus von Fermo, Senebald von 									Montegiberto (<hi rend="italic">Giberto</hi>), Albrich von 									Monterinaldo (<hi rend="italic">Rolando</hi>), Berhardus von 									Montelupone und Burdo von <hi rend="italic">Podio</hi> (Poggio 									oder Poggio di Bretta)</span>. –<span n="chancellor"> 									<hi rend="italic">Gotefridus imp. aulę canc. vice Phylippi 										Coloniensis archiep. et Ytalię archicanc.</hi></span>;<span n="clerk"> unter Verwendung eines verlorenen, von 									Christian E verfassten Diploms (D.*1131 = Reg. 1363) als VU. 									geschrieben von GG</span>;<span n="seal"> B.D.</span> 								<span n="incipit"><hi rend="italic">Ratio suadet et.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Ratio suadet et.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Fermo (A). Druck: De 								Minicis, Cronache della città di Fermo (Documenti di storia italiana 								4, 1870) 311 n<hi rend="sup">o</hi> 18 (zu Februar 14); 								MG.DF.I.902. Reg.: Stumpf 4414 zu März 16.</p></div>
+				
+				
+					<div type="commentary"><p>Die Angabe des Monatstages entspricht den Iden des 								Februar, doch kommen derartige Inkorrektheiten damals in der Kanzlei 								gelegentlich vor (siehe etwa oben Reg. 2843). Es ist somit nicht mit 								Sicherheit zu entscheiden, ob der Aufenthalt in Castellarano bereits 								im Februar begann oder ob man die Datierung auf den 16. März zu 								korrigieren hat, vgl. dazu die Vorbemerkung zum D. mit Hinweisen auf 								die Literatur.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_902" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

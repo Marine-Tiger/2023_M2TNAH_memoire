@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 310</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-04_1_0_4_2_1_310_310"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-04_1_0_4_2_1_310_310"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-04_1_0_4_2_1_310_310</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238496" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 310</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-04" to="1155-06-04">1155 Juni 4</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>bei der Burg Tintignano am Fluß Orcia</placeName>
+								
+						</issuePlace>
+					
+					
+						<dateOrig>(pridie nonas iunii, in campo iuxta castellum Tintinanum supra fluvium, qui vocatur Orcia)</dateOrig>
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B. D, vgl. Anm. m</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Albert</hi>  <hi rend="spaced">Prato</hi></recipient>
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi></notarius>
+				
+				
+					<scribe>von A II. C verfaßt und geschrieben</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof Arnold von Köln Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordolebus</hi>) von Basel, Anselm von Havelberg, Emmehard von Mecklenburg (<hi rend="italic">Magnopolitanus</hi>), die Äbte Markward von Fulda, Wibald von Corvey, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, die Markgrafen Otakar von Steier, Hermann von Baden, die Grafen Ulrich von Lenzburg, Werner von Baden, Ernst von Hohenburg</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich bestätigt auf Intervention des Erzkanzlers Arnold dem jungen Grafen <span sameAs="recipient"><hi rend="spaced">Albert</hi> </span>  (von <span sameAs="recipient"><hi rend="spaced">Prato</hi> </span>), Sohn des Grafen Nottiiova, die Grafschaft seines Vaters und Großvaters Albert ungeschmälert mit Kastellen, Dörfern, allen Rechten und dem Bannbezirk. <span n="witnesses">Z.: Erzbischof Arnold von Köln Erzkanzler des <hi rend="italic">regnum Italicum</hi>, Patriarch Pilgrim von Aquileia, Erzbischof Hillin von Trier, die Bischöfe Eberhard (<hi rend="italic">Ebrahardus</hi>) von Bamberg, Hermann von Konstanz, Ortlieb (<hi rend="italic">Ordolebus</hi>) von Basel, Anselm von Havelberg, Emmehard von Mecklenburg (<hi rend="italic">Magnopolitanus</hi>), die Äbte Markward von Fulda, Wibald von Corvey, die Herzoge Heinrich von Sachsen, Berthold von Zähringen, die Markgrafen Otakar von Steier, Hermann von Baden, die Grafen Ulrich von Lenzburg, Werner von Baden, Ernst von Hohenburg</span>. - <span n="chancellor"><hi rend="italic">Arnoldus Coloniensis archiep. Ytalici regni archicanc.</hi> </span>; <span n="clerk">von A II. C verfaßt und geschrieben</span>; <span n="seal">B. D, vgl. Anm. m</span>. <span n="incipit"><hi rend="italic">Notum sit omnibus</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Notum sit omnibus</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Staatsarchiv Siena (A). Drucke: Stumpf, Acta ined. 163 n<hi rend="sup">o</hi>  127; MG. DF. I. 110. Reg.: Stumpf 3711.</p></div>
+				
+				
+					<div type="commentary"><p>Simonsfelds Bedenken gegen die Kanzleimäßigkeit (Urkunden, SB. München 1905, 726 und Jahrbücher 317 Anm. 124) sind jetzt hinfällig; vgl. dazu die Vorbemerkung zu diesem D. Zu den Zeugen Simonsfeld, Jahrbücher 317 Anm. 124.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0104" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_110" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

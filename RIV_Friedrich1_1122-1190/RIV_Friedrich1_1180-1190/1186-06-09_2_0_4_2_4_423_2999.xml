@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2999</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-09_2_0_4_2_4_423_2999"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1186-06-09_2_0_4_2_4_423_2999"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1186-06-09_2_0_4_2_4_423_2999</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426846531" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2999</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1186-06-09" to="1186-06-09">1186
+									Juni 9</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>im Gebiet von Cremona bei der Zerstörung des Castel Manfredi  (heute: Castelleone) (<hi rend="italic">quinto idus iunii, in territorio Cremonensi in destructione </hi> <hi rend="italic">castri Maynfredi</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+				
+					<testis function="witnesses">die Bischöfe Wilhelm von Asti, 									Bonifaz von Novara und Bernard von Parma, Gottfried, Kanzler des 									kaiserlichen Hofes, Kämmerer Rudolf, (Kastellan) Thomas von 									Annone und die Hofrichter Albertus (Aldigheri) aus Ferrara und 										<hi rend="italic">Ottobelus</hi> (Otto Cendadarius aus 									Mailand)</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gewährt der <hi rend="spaced">Stadt 									Asti</hi> auf Bitten ihres Bischofs Wilhelm zum Dank für ihre 								Dienste beim Kriegszug gegen Cremona und bei der Zerstörung der Burg 								Castel Manfredi (heute: Castelleone) das Recht, Appellationssachen 								im Wert von bis zu 25 Pfund der Münze von Asti, die sonst vor ihm 								selbst vorzubringen sind, vor den Konsuln ihrer Stadt zu 								entscheiden. <span n="witnesses">Z.: die Bischöfe Wilhelm von Asti, 									Bonifaz von Novara und Bernard von Parma, Gottfried, Kanzler des 									kaiserlichen Hofes, Kämmerer Rudolf, (Kastellan) Thomas von 									Annone und die Hofrichter Albertus (Aldigheri) aus Ferrara und 										<hi rend="italic">Ottobelus</hi> (Otto Cendadarius aus 									Mailand)</span>. – Verfasst von GG. <hi rend="italic">Dispensatio pietatis imperatori.</hi></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh. im Cod. Astensis 								f. 6, Stadtarchiv Asti (C). Drucke: Böhmer, Acta imp., 146 n<hi rend="sup">o</hi> 154; Sella, Cod. Astensis 2, 77 n<hi rend="sup">o</hi> 11; MG.DF.I.944. Regg.: Astegiano, CD. 								Cremonae 1, 162 n<hi rend="sup">o</hi> 423; Stumpf 4459.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Überlieferung vgl. auch die Vorbemerkung zum 								D. – Die hier verliehene Vergünstigung entspricht einer Bestimmung 								des Friedens von Konstanz, in dem Asti unter den auf der Seite des 								Kaisers stehenden Städten angeführt wird (D.848 Punkt 10, siehe dazu 								Regg. 2694, 2695 und 2716).</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_944" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

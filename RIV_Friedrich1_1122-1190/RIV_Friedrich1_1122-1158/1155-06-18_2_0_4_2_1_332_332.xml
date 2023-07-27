@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,1 n. 332</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,1 - Friedrich I., 1. Lfg. 1152 (1122)-1158</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_2_0_4_2_1_332_332"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-001/sources/1155-06-18_2_0_4_2_1_332_332"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1155-06-18_2_0_4_2_1_332_332</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">001</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339416789" value="2012-06-11"></date>
+				<date type="lastmod" n="1426238675" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,1 n. 332</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1155-06-18" to="1155-06-18">(Nach 1155 Juni 18, aber wohl noch im Juni oder Juli dieses Jahres)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Gallese</hi>  <hi rend="spaced">Grisogonus</hi></recipient>
+				
+				
+				
+					<scribe>Vom gleichen Diktator verfaßt wie DF. I. 113, ob es sich dabei um A II. D, um Wibald oder eine andere Persönlichkeit handelt, kann nicht entschieden werden</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich gibt der Stadt <span sameAs="recipient"><hi rend="spaced">Gallese</hi> </span>  bekannt, daß er der Kirche des heiligen <span sameAs="recipient"><hi rend="spaced">Grisogonus</hi> </span>  in Rom auf Bitten des Kardinals Guido (<hi rend="italic">cardinalis presbiteri Guidonis</hi>) 18 Häuser in der Stadt Gallese und die Burg Toricella (<hi rend="italic">castrum Tonechelle</hi>) samt Zubehör sowie Ziegenställe (<hi rend="italic">caprilia</hi>) geschenkt habe. - <span n="clerk">Vom gleichen Diktator verfaßt wie DF. I. 113, ob es sich dabei um A II. D, um Wibald oder eine andere Persönlichkeit handelt, kann nicht entschieden werden</span>. <span n="incipit"><hi rend="italic">Imperatoriam maiestatem decet</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Imperatoriam maiestatem decet</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 18. Jh. in den Schedae Garampi, Vatikanisches Archiv Rom (G). Drucke: Kehr, Otia diplomatica, Göttinger Nachrichten 1903, 273; MG. DF. I. 117.</p></div>
+				
+				
+					<div type="commentary"><p>Zur Einreihung vgl. die Vorbemerkung zu DF. I. 117. Die erwähnte Schenkungsurkunde ist nicht erhalten, vgl. Reg. <ref target="http://www.regesta-imperii.de/regesten/4-2-1-friedrich-i/nr/1155-06-18_1_0_4_2_1_331_D331.html" type="internal" n="regesten">331</ref>. Zum Kardinalpresbyter Guido von S. Grisogono vgl. Zenker, Mitglieder des Kardinalkollegiums 62 ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1980_0110" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_117" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2883</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-17_1_0_4_2_4_306_2883"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-05-17_1_0_4_2_4_306_2883"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-05-17_1_0_4_2_4_306_2883</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845201" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2883</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-05-17" to="1185-05-17">1185
+									Mai 17</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Crema während des Wiederaufbaus von Crema  (<hi rend="italic">XVI</hi><hi rend="sup">o</hi><hi rend="italic"> kal. iunii, apud Cremam in relevatione ipsius</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>SP.D.</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+				
+					<scribe>Verfasst und geschrieben von GG</scribe>
+				
+				
+					<testis function="witnesses">Erzbischof 									Konrad von Mainz, die Bischöfe Wilhelm von Asti und Alberich 										(<hi rend="italic">Albrigunus</hi>) von Reggio (Emilia), 									Propst Friedrich von St. Thomas in Straßburg, die Herzöge Welf 									(VI.) und Leopold von Österreich, die Grafen Gerhard von 									Looz/Borgloon, Simon von Sponheim und Diepold von Lechsgemünd, 									Markgraf Bonifaz von Montferrat, Werner von Bolanden, Trushard 									von Kestenburg, (der stadtrömische Adelige) Leo de Monumento, 									Richter Obizo von Vico, Montanellus von Montecuccari, Marschall 									Heinrich von (Kaisers-)Lautern und Kämmerer Rudolf</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich widerruft auf Bitten des <hi rend="spaced">Bischofs Hildebrandinus Pannocchius von Volterra 								</hi>gemäß dem Rat der Fürsten und seines Hofes alle Entfremdungen 								der Güter dieses Bistums, die durch Bischof Hugo, den unmittelbaren 								Vorgänger von Bischof Hildebrandinus, sowie durch Kanoniker seiner 								Kirche vorgenommen worden sind, sofern sie nicht erwiesenermaßen zum 								Nutzen der Kirche erfolgten. <span n="witnesses">Z.: Erzbischof 									Konrad von Mainz, die Bischöfe Wilhelm von Asti und Alberich 										(<hi rend="italic">Albrigunus</hi>) von Reggio (Emilia), 									Propst Friedrich von St. Thomas in Straßburg, die Herzöge Welf 									(VI.) und Leopold von Österreich, die Grafen Gerhard von 									Looz/Borgloon, Simon von Sponheim und Diepold von Lechsgemünd, 									Markgraf Bonifaz von Montferrat, Werner von Bolanden, Trushard 									von Kestenburg, (der stadtrömische Adelige) Leo de Monumento, 									Richter Obizo von Vico, Montanellus von Montecuccari, Marschall 									Heinrich von (Kaisers-)Lautern und Kämmerer Rudolf</span>. 									–<span n="clerk"> Verfasst und geschrieben von GG</span>; 									<span n="seal"> SP.D.</span>. <span n="incipit"><hi rend="italic">Inter varia imperatorię.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Inter varia imperatorię.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Orig.: Bischöfliches Archiv zu Volterra 								(A). Druck: MG.DF.I.905. Regg.: Dolch – Münch, UB. der 								Stadt Kaiserslautern 1, 60 n<hi rend="sup">o</hi> 47; Stumpf 4419.</p></div>
+				
+				
+					<div type="commentary"><p>Der Empfänger weilte bereits zu Anfang Mai beim 								Kaiser in Mailand, vgl. dazu die Zeugennennung oben in Reg. 2879. Er 								lässt sich im Sommer des Jahres beim Zug des Kaisers in die Toskana 								bei Hofe nachweisen, vgl. unten Reg. 2903, und erhielt im Herbst 								dieses Jahres noch ein weiteres Privileg ausgestellt (Reg. 2932); 								vgl. weiters auch die Nachurkunde Heinrichs VI. von 1186 August 28, 								San Miniato (B.-Baaken Reg. 14). – Zu dem Speyerer 								Hochstiftsministerialen Trushard/Drushard von Kestenburg (benannt 								nach der Kestenburg, dem heutigen Hambacher Schloss) im Dienst 								Barbarossas vgl. Keupp, Dienst und Verdienst (Monographien zur 								Geschichte des Mittelalters, 48, 2002) 293 ff. – Die Datierung nimmt 								auf die damals vollzogene Neugründung der Stadt Crema Bezug, vgl. 								dazu Reg. 2880.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_905" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

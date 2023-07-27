@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,2 n. 1029</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,2 - Friedrich I., 2. Lfg. 1158-1168</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-04_2_0_4_2_2_471_1029"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-002/sources/1162-03-04_2_0_4_2_2_471_1029"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1162-03-04_2_0_4_2_2_471_1029</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">002</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339417607" value="2012-06-11"></date>
+				<date type="lastmod" n="1426244035" value="2015-03-13"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,2 n. 1029</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1162-03-04" to="1162-03-04">(1162 März 4 oder bald danach, während der Zerstörung Mailands)</dateRange>
+						</p>
+					</issueDate>
+					
+					
+				</issued>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+					<recipient><hi rend="spaced">Eberhard</hi>  <hi rend="spaced">Salzburg</hi>  <hi rend="spaced">Roman</hi>  <hi rend="spaced">Gurk</hi>  <hi rend="spaced">Pisa</hi></recipient>
+				
+				
+				
+					<scribe>In der Kanzlei, vielleicht von RC, verfaßt</scribe>
+				
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich berichtet dem Erzbischof <span sameAs="recipient"><hi rend="spaced">Eberhard</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Salzburg</hi> </span>  (dem Bischof <span sameAs="recipient"><hi rend="spaced">Roman</hi> </span>  von <span sameAs="recipient"><hi rend="spaced">Gurk</hi> </span>  sowie den Konsuln, Räten und dem Volk von <span sameAs="recipient"><hi rend="spaced">Pisa</hi> </span>) über die in Lodi erfolgte, bedingungslose Kapitulation der Mailänder und kündigt ihm die Entsendung des Bischofs Ognibene von Verona und des kaiserlichen Kapellans C. nach Trient an, die ihn an den Hof geleiten sollen. - <span n="clerk">In der Kanzlei, vielleicht von RC, verfaßt</span>. <span n="incipit"><hi rend="italic">Dignum estimamus, ut</hi> </span>.</p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Dignum estimamus, ut</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Das Schreiben an Eberhard von Salzburg war in dem ca. 1625 durch Brand vernichteten Cod. Reicherspergensis 1 enthalten und wurde danach gedruckt von Gewold, Chronicon monasterii Reicherspergensis, München 1611, p. 206 (g); an Roman von Gurk: Gleichzeitige Abschrift im Cod. pal. Vind. 629 (Admonter Briefsammlung) f. 48, Nationalbibliothek Wien (B); an die Pisaner: Abschrift des 13. Jh. im Ms. 1110 (Hist. 80) f. 4, Bibliotheque de l'Arsénal zu Paris (P). Drucke: MG. Const. 1, 279 n<hi rend="sup">o</hi>  203; Hödl - Classen, Admonter Briefsammlung, MG. Briefe VI, 116 n<hi rend="sup">o</hi>  63 (zu 1162 nach März 1); MG. DF. I. 351. Reg.: Stumpf 3933, 3934, 3938.</p></div>
+				
+				
+					<div type="commentary"><p>Das Schreiben ist mit Ausnahme des Satzes über die Entsendung der Boten nach Trient im gleichen Wortlaut an den Gurker Bischof und die Pisaner gerichtet gewesen. - Zur Verfasserfrage vgl. Riedmann, Reichskanzlei, MIÖG 76 (1968) 80 Anm. 26 und die Vorbemerkung zum D. - Zur Kapitulation Mailands vgl. Regg. <ref target="http://www.regesta-imperii.de/regesten/4-2-2-friedrich-i/nr/1162-03-01_1_0_4_2_2_469_1027.html" type="internal" n="regesten">1027</ref>  ff.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://regesta-imperii.digitale-sammlungen.de/seite/ri04_opl1991_0132" type="external" n="bsb">Digitalisat der Buchseite</ref></item><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_351" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		

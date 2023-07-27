@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<cei xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.cei.lmu.de/schema/cei060122.xsd">
+		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Friedrich I. – RI IV,2,4 n. 2859</title>
+			</titleStmt>
+			<editionStmt>
+				<p n="volume">RI IV,2,4 - Friedrich I., 4. Lfg. 1181-1190</p>
+				<p n="repository">Regesta Imperii Online: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-02-11_2_0_4_2_4_281_2859"></ref></p>
+			</editionStmt>
+			<publicationStmt>
+				<p n="authority">
+					Deutsche Kommission für die Bearbeitung der Regesta Imperii e.V. bei der Akademie der Wissenschaften und der Literatur | Mainz
+				</p>
+				<publisher>Akademie der Wissenschaften und der Literatur | Mainz – Digitale Akademie</publisher>
+				<availability>
+					<p>Bereitgestellt unter einer <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung (CC BY 4.0)</ref></p>
+					<p>Bei Verwendung müssen Sie den Namen des Urhebers und folgenden Link zum Material angeben: <ref type="external" target="http://www.regesta-imperii.de/cei/004-002-004/sources/1185-02-11_2_0_4_2_4_281_2859"></ref></p>
+				</availability>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<idno n="uri">http://www.regesta-imperii.de/id/1185-02-11_2_0_4_2_4_281_2859</idno>
+					<idno n="department">004</idno>
+					<idno n="volume">002</idno>
+					<idno n="issue">004</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+		</encodingDesc>
+		<revisionDesc>
+			<p>
+				
+				<date type="creation" n="1339535676" value="2012-06-12"></date>
+				<date type="lastmod" n="1426845041" value="2015-03-20"></date>
+				
+			</p>
+		</revisionDesc>
+	</teiHeader>
+
+	<charter>
+		<chDesc>
+			<head>
+				<idno>RI IV,2,4 n. 2859</idno>
+				<issued>
+					<issueDate>
+						<p>
+							<dateRange from="1185-02-11" to="1185-02-11">1185
+									Februar 11</dateRange>
+						</p>
+					</issueDate>
+					
+						<issuePlace>
+							
+									<placeName>Reggio (Emilia) (<hi rend="italic">III</hi><hi rend="sup">o</hi><hi rend="italic"> idus febr., apud Regium</hi>)</placeName>
+								
+						</issuePlace>
+					
+					
+				</issued>
+				
+				<witnessOrig>
+					<auth>
+						<sealDesc>
+							<p>B.2 (vgl. Anm. 									m‘‘‘)</p>
+						</sealDesc>
+					</auth>
+				</witnessOrig>
+				
+			</head>
+			<relevantPersonal>
+				
+					<issuer><persName>Friedrich I.</persName></issuer>
+				
+				
+				
+					<notarius function="chancellor"><hi rend="italic">Godefridus imp. aule canc. vice 										domini Philippi Coloniensis archiep. et Ytalie 										archicanc.</hi></notarius>
+				
+				
+					<scribe>sicherlich 									von einem Kanzleiangehörigen, wahrscheinlich von GG, verfasst, 									wobei die vom Kanzleigebrauch abweichende Verwendung der <hi rend="italic">Datum-per-manum</hi>-Formel in der Datierung, 									die den Protonotar Rudolf nennt, darauf hinweis</scribe>
+				
+				
+					<testis function="witnesses">die Bischöfe Wilhelm von Asti und Guala von Bergamo, Elekt 									Konrad von Lübeck, Archipresbyter Obertus von Monza, Propst 									Friedrich von (St. Thomas in) Straßburg, Bruder Dietrich von 									Silve-Bénite, Herzog Konrad von Spoleto, Markgraf Konrad von 									Ancona, Graf Gerhard von Looz/Borgloon, Burggraf Konrad von 									Nürnberg, die Grafen Simon von Sponheim und Diepold von 									Lechsgemünd, Berthold (von Hohkönigsburg), (Reichs-)Legat für 									Italien, Werner von Bolanden, Truchsess Heinrich, Mundschenk 									Konrad (von Oberschüpf), Marschall Heinrich von 									(Kaisers-)Lautern und die Cremasker Konsuln Domertus Bentzonis, 									Rogerius von Osio und Benzo Bonisegnioris</testis>
+				
+				
+			</relevantPersonal>
+			
+				<abstract><p>Friedrich verleiht der <hi rend="spaced">Stadt 									Mailand</hi> im eigenen Namen wie auch in dem seines Sohnes, 								König Heinrichs (VI.), gegen einen ab dem nächsten 1. März jeweils 								zu diesem Termin zu leistenden Jahreszins von 300 Pfund Imperialen 								alle Regalien des Reiches im Erzbistum Mailand und in den fünf 								Grafschaften Seprio, Martesana, Bulgaria, Lecco und Stazione, 								gewährt ihr die Regalien in den von ihr den Cremonesen zugestandenen 								Orten jenseits der Adda und legt die Grenzen der Grafschaft Seprio 								gemäß seinem Privileg (Reg. 1636) im Einzelnen fest. Er nimmt aus 								dieser Verleihung aber sämtliche von ihm oder seinen Vorgängern 								durchgeführten Vergaben von Lehen an Kirchen oder Personen aus und 								behält sich die <hi rend="italic">paratica</hi>, die seinem Sohn 								König Heinrich und dessen Nachfolgern von den dazu Verpflichteten zu 								leisten ist, wenn erstmals in Mailand oder Monza die Krone des 								(italischen) Königreiches empfangen wird, sowie das Quartierrecht in 								Monza mit Ausnahme des Appellationsrechtes vor. Er schließt mit 								Mailand einen wechselseitigen Sicherheits- und Bündnisvertrag, der 								den kaiserlichen Schutz für alle den Mailändern verliehenen Rechte 								gegen alle Leute, Städte und Orte der Lombardei, der Mark (Verona) 								und der Romagna zum Gegenstand hat, ebenso die Zusicherung, 								Auseinandersetzungen zwischen Mailand und Pavia nicht zuzulassen und 								ohne Zustimmung der Mailänder Konsuln bzw. deren Mehrheit kein 								Bündnis mit Städten, Orten und Personen der Lombardei, der Mark 								(Verona) und der Romagna einzugehen, sowie den Wiederaufbau von 								Crema binnen einer von den Mailänder Konsuln mit Rat der Credentia 								festzulegenden Frist. Der Vertrag wird sowohl vom kaiserlichen 								Kämmerer Rudolf als auch von den Mailändern – nämlich von Pinamons 								von Vimercate, Richter Heriprandus, Adobadus Bultraffus und Ugo von 									<hi rend="italic">Camerario</hi> mit der Verpflichtung, ihre 								Mitkonsuln und die Credentia binnen acht Tagen nach ihrer Rückkehr 								nach Mailand und die übrigen Bürger nach Aufforderung durch ihn (= 								den Kaiser) oder seinen Boten schwören zu lassen, und von deren 								Mitlegaten Rogerius Visconti, Arnaldus von <hi rend="italic">Mariola</hi>, Guillelmus von <hi rend="italic">Ossa</hi>, 								Richter Ardericus von Bonate, Otto Cendadarius und Alcherius 								Bonusvicinus ohne diesen Zusatz – beschworen und wird künftig noch 								von König Heinrich eidlich bekräftigt werden. <span n="witnesses">Z.: die Bischöfe Wilhelm von Asti und Guala von Bergamo, Elekt 									Konrad von Lübeck, Archipresbyter Obertus von Monza, Propst 									Friedrich von (St. Thomas in) Straßburg, Bruder Dietrich von 									Silve-Bénite, Herzog Konrad von Spoleto, Markgraf Konrad von 									Ancona, Graf Gerhard von Looz/Borgloon, Burggraf Konrad von 									Nürnberg, die Grafen Simon von Sponheim und Diepold von 									Lechsgemünd, Berthold (von Hohkönigsburg), (Reichs-)Legat für 									Italien, Werner von Bolanden, Truchsess Heinrich, Mundschenk 									Konrad (von Oberschüpf), Marschall Heinrich von 									(Kaisers-)Lautern und die Cremasker Konsuln Domertus Bentzonis, 									Rogerius von Osio und Benzo Bonisegnioris</span>. –<span n="chancellor"><hi rend="italic">Godefridus imp. aule canc. vice 										domini Philippi Coloniensis archiep. et Ytalie 										archicanc.</hi></span>; <span n="clerk">sicherlich 									von einem Kanzleiangehörigen, wahrscheinlich von GG, verfasst, 									wobei die vom Kanzleigebrauch abweichende Verwendung der <hi rend="italic">Datum-per-manum</hi>-Formel in der Datierung, 									die den Protonotar Rudolf nennt, darauf hinweist, dass er 									offenbar eine verantwortliche Rolle zu tragen hatte, was später 									üblich wurde</span>; <span n="seal">B.2 (vgl. Anm. 									m‘‘‘)</span>; <span n="incipit"><hi rend="italic">Preclare 										serenitatis nostre.</hi></span></p></abstract>
+			
+			<diplomaticAnalysis>
+				
+				
+					<div type="incipit"><p><hi rend="italic">Preclare 										serenitatis nostre.</hi></p></div>
+				
+				
+					<div type="transmission"><p>Kop.: Abschrift des 14. Jh., Archivio 								comunale zu Treviglio, Pergamene n<hi rend="sup">o</hi> 1 (B); 								Abschrift des 15. Jh., Biblioteca Ambrosiana zu Mailand, cod. B 19 								inf., f. 15‘ (C); Abschrift des 15. Jh., Staatsarchiv Mailand, 								Pergamene, Monastero di S. Ambrogio cart. 313 n<hi rend="sup">o</hi> 22 (früher T. 5, c. 1 n<hi rend="sup">o</hi> 221) (D); 								Abschrift des 15. Jh. verstümmelt und durch Feuchtigkeit beschädigt, 								ebenda, Diplomi dispacci sovrani cart. III fasc. 1 (E). Faks. (von 								D): Milano e la Lombardia in età comunale, secoli XI–XIII (Catalogo 								della Mostra, Milano 15 aprile – 11 luglio 1993) 377 n<hi rend="sup">o</hi> 203; Osimo, Friedrich Barbarossa, in: Die 								Staufer und Italien, Bd. 2: Objekte (2010) 143 Kat.-Nr. 								IV.B.3.9. Drucke: MG. Const. I, 428 n<hi rend="sup">o</hi> 								303; Manaresi, Atti del Comune di Milano 1, 216 n<hi rend="sup">o</hi> 148; Grossi, Le carte del monastero di S. Ambrogio 								III/2, n<hi rend="sup">o</hi> 22 = 								<ref target="http://cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-2/carte/sam1185-02-11B" type="external" n="unkown">cdlm.unipv.it/edizioni/mi/milano-sambrogio-mon3-2/carte/sam1185-02-11B</ref> 								(Status: 27. Mai 2009); MG.DF.I.896. Regg.: Astegiano, CD. 								Cremonae 1, 158 n<hi rend="sup">o</hi> 405; Dolch – Münch, UB. der 								Stadt Kaiserslautern 1, 60 n<hi rend="sup">o</hi> 43; Stumpf 4409.</p></div>
+				
+				
+					<div type="commentary"><p>Das Original ist entgegen dem Hinweis bei Stumpf, 								S. 551 nicht erhalten; zur Überlieferung vgl. die Vorbemerkung zum 								D. sowie auch den Bericht des Mailänder Historiographen Galvaneo 								Fiamma auf der Grundlage der von ihm eingesehenen Register der 								Panigarola (dazu vgl. Sasse Tateo, Zitierung kommunaler Register in 								den Chroniken des Galvaneo Fiamma, in: Kommunales Schriftgut in 								Oberitalien, hg. von Keller – Behrmann [Münstersche 								Mittelalter-Schriften 68, 1995], 288 f. und 297 ff. no 2a – 2b). – 								Zur Identifizierung des Mundschenken Konrad von Oberschüpf siehe 								schon oben Reg. 2648. – Zum Inhalt und zur historischen Bedeutung 								dieses D. vgl. Riedmann, Verträge, 42 ff., sowie Opll, Stadt und 								Reich, 339 ff. – Interesse verdient auch die Bestimmung, dass die 								Krönung zum <hi rend="italic">rex Italie</hi> in Mailand oder Monza 								(so auch unter Konrad III.) zu erfolgen hat, während Friedrich diese 								Krönung im April 1155 in S. Michele zu Pavia empfing, siehe dazu 								Reg. 286. – Der Aufenthalt in Reggio wird auch in Ioh. Cod. Ann., 								ed. Holder-Egger, MG. SS rer.Germ. in us. schol., 12 erwähnt.</p></div>
+				
+				
+			</diplomaticAnalysis>
+			
+			
+			
+				<div type="resources">
+					<list><item><ref target="http://www.mgh.de/dmgh/diplomata/resolving/D_F_I_896" type="external" n="unkown">Druck in den MGH Diplomata</ref></item></list>
+				</div>
+			
+		</chDesc>
+	</charter>
+
+</cei>
+		
