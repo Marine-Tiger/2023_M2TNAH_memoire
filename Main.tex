@@ -1,0 +1,180 @@
+% document vide aux normes de l'école pour le mémoire
+
+% PREAMBULE
+
+%package obligatoire : type de document
+\documentclass[a4paper,12pt,twoside]{book}
+
+% encodage (pour XeLaTeX)
+\usepackage{fontspec}
+\usepackage{graphicx}
+%pour le code
+\usepackage{listings}
+
+\usepackage{float}
+
+%avec overleaf, utiliser :
+\usepackage[xetex]{hyperref}
+\hypersetup{
+pdfauthor = {Marine TIGER},
+pdftitle = {titre},
+pdfsubject = {sujet},
+pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc}
+}
+
+%il faut mettre au moins une langue
+\usepackage[english,french]{babel}
+
+% configurer le document selon les normes de l'école
+\usepackage[margin=2.5cm]{geometry} %marges
+\usepackage{setspace} % espacement qui permet ensuite de définir un interligne
+\onehalfspacing % interligne de 1.5
+\setlength\parindent{1cm} % indentation des paragraphes à 1 cm
+
+\usepackage{lettrine} % lettrines (pas obligatoire)
+
+
+% bibliographie
+\usepackage[backend=biber, sorting=nyt, style=enc,maxbibnames=10]{biblatex}
+\addbibresource{biblio_memoire.bib}
+\nocite{*}
+
+%\usepackage{glossaries}
+%\makeglossaries
+
+
+% + toutes la liste des packages nécessaires à votre document (si images, tableaux, schémas, etc.)
+
+% on pourra aussi utiliser la commande mise dans l'exemple de correction du TP1 pour enlever les titres courant qui traînent sur les pages
+
+\author{Marine Tiger - M2 TNAH}
+\title{Titre du mémoire}
+
+% DOCUMENT
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			
+			\bigskip
+			
+			\begin{large}				
+				ÉCOLE NATIONALE DES CHARTES\\
+				UNIVERSITÉ PARIS, SCIENCES \& LETTRES
+			\end{large}
+			\begin{center}\rule{2cm}{0.02cm}\end{center}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			\begin{Large}
+				\textbf{Marine Tiger}\\
+			\end{Large}
+		%selon le cas
+			\begin{normalsize} \textit{licenciée ès histoire}\\
+				\textit{diplômée de master archives}
+			\end{normalsize}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			
+			\begin{Huge}
+				\textbf{Construire un projet d'humanité numérique sur le long terme}\\
+			\end{Huge}
+			\bigskip
+			\bigskip
+			\begin{LARGE}
+				\textbf{Exemple du schisme Alexandrin dans la formation de l’Europe au 12ème siècle}\\
+			\end{LARGE}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			\begin{large}
+			\end{large}
+			\vfill
+			
+			\begin{large}
+				Mémoire 
+				pour le diplôme de master \\
+				\og{} Technologies numériques appliquées à l'histoire \fg{} \\
+				\bigskip
+				2023
+			\end{large}
+			
+		\end{center}
+	\end{titlepage}
+	
+	\thispagestyle{empty}	
+	\cleardoublepage
+	
+	\frontmatter
+	\chapter{Résumé}
+	\medskip
+	Résumé du mémoire en français. Cette page ne doit pas dépasser une page.\\
+	
+	\textbf{Mots-clés~:} Schisme alexandrin, modélisation de données, XML CEI, API, base de données, pérennisation des données et du projet, choix technologiques.
+	
+	\textbf{Informations bibliographiques~:} Marine Tiger, \textit{Construire un projet d'humanité numérique sur le long terme. Exemple du schisme Alexandrin dans la formation de l’Europe au 12ème siècle}, mémoire de master \og{}Technologies numériques appliquées à l'histoire\fg{}, dir. [Ségolène Albouy, Tessa Gengnagel, Claes Neuefeind], École nationale des chartes, 2023.
+	
+		\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	\chapter{Remerciements}
+	
+	Mes remerciements vont tout d'abord à mes directeurs et directrices de stage, Tessa Gengnagel et Claes Neuefeind, qui m'ont accompagné durant ces quatre mois. Je remercie également mes collègues du CCeH pour m'avoir aussi bien accueilli pendant mon séjour en Allemagne. Je remercie ma directrice de mémoire, Ségolène Albouy, qui m'a guidé dans l'élaboration de ce mémoire\\
+    Je remercie mes camarades de promotion TNAH 2023 pour leur entraide tout au long de ce semestre.\\
+    Je souhaite enfin exprimer ma reconnaissance envers ma famille pour leur soutien durant ma reprise d'étude. Et je souhaite particulièrement remercier mon compagnon, Steven Boehm, pour m'avoir sans cesse encouragé, et qui a passé beaucoup de temps dans la relecture de ce mémoire.
+   
+	% bibliographie ici
+	\printbibliography
+	
+	\chapter{Introduction}
+	
+	\thispagestyle{empty}
+	\cleardoublepage
+	
+	\mainmatter
+	
+	% là, le corps du mémoire, généralement TROIS parties
+	
+	% possibilité d'avoir un document main.tex peu rempli, et chaque partie appelée par \input{} par exemple
+	\part{Modélisation de données}
+ 
+    \include{Part1/Chapter1}
+    \include{Part1/Chapter2}
+    \include{Part1/Chapter3}
+	
+	\part{Enjeux des choix technologiques, ou le \textit{system modeling language}}
+    
+    \include{Part2/Chapter4}
+    \include{Part2/Chapter5}
+
+    \part{Pérennisation des données}
+	
+	%etc.
+	
+	
+	\chapter*{Conclusion}
+	\addcontentsline{toc}{chapter}{Conclusion}
+	
+	%les annexes
+	\appendix
+	\chapter[Titre court]{Le titre très long de la première annexe}
+	
+	\backmatter
+
+% index à mettre ici si index	
+%	\printindex
+
+% glossaire si glossaire
+%	\printglossaries
+
+% si figures
+%	\listoffigures
+
+% si tables
+%	\listoftables
+
+	\tableofcontents
+	
+\end{document}
