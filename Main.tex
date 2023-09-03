@@ -8,6 +8,7 @@
 % encodage (pour XeLaTeX)
 \usepackage{fontspec}
 \usepackage{graphicx}
+
 %pour le code
 \usepackage{listings}
 \usepackage{xcolor}
@@ -67,6 +68,7 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
 %il faut mettre au moins une langue
 \usepackage[english,french]{babel}
 
+
 % configurer le document selon les normes de l'école
 \usepackage[margin=2.5cm]{geometry} %marges
 \usepackage{setspace} % espacement qui permet ensuite de définir un interligne
@@ -81,13 +83,6 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
 \addbibresource{biblio_memoire.bib}
 \nocite{*}
 
-%\usepackage{glossaries}
-%\makeglossaries
-
-
-% + toutes la liste des packages nécessaires à votre document (si images, tableaux, schémas, etc.)
-
-% on pourra aussi utiliser la commande mise dans l'exemple de correction du TP1 pour enlever les titres courant qui traînent sur les pages
 
 \author{Marine Tiger - M2 TNAH}
 \title{Titre du mémoire}
@@ -153,9 +148,19 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
 	\frontmatter
 	\chapter{Résumé}
 	\medskip
-	Résumé du mémoire en français. Cette page ne doit pas dépasser une page.\\
+	Le présent mémoire a été réalisé dans le cadre de la deuxième année du master Technologies Numériques appliquées à l'histoire de l'Ecole Nationale des Chartes. Il présente les différents enjeux des projets d'humanités numériques rencontrés lors du stage au Cologne Center for eHumanities à l'université de Cologne\\
 	
 	\textbf{Mots-clés~:} Schisme alexandrin, modélisation de données, XML CEI, API, base de données, pérennisation des données et du projet, choix technologiques.
+
+	
+	\textbf{Informations bibliographiques~:} Marine Tiger, \textit{Construire un projet d'humanité numérique sur le long terme. Exemple du schisme Alexandrin dans la formation de l’Europe au 12ème siècle}, mémoire de master \og{}Technologies numériques appliquées à l'histoire\fg{}, dir. [Ségolène Albouy, Tessa Gengnagel, Claes Neuefeind], École nationale des chartes, 2023.
+    
+    \chapter{Summary}
+	\medskip
+	This thesis was conducted as part of the second year of the master Digital Technologies Applied to History at the École Nationale des Chartes. It explores the various challenges of digital humanities projects encountered during the internship at the Cologne Center for eHumanities at the University of Cologne.\\
+	
+	\textbf{Mots-clés~:} Alexandrine schism, data modeling, XML CEI, API, database, sustainability,system modeling.
+
 	
 	\textbf{Informations bibliographiques~:} Marine Tiger, \textit{Construire un projet d'humanité numérique sur le long terme. Exemple du schisme Alexandrin dans la formation de l’Europe au 12ème siècle}, mémoire de master \og{}Technologies numériques appliquées à l'histoire\fg{}, dir. [Ségolène Albouy, Tessa Gengnagel, Claes Neuefeind], École nationale des chartes, 2023.
 	
@@ -168,9 +173,14 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
     Je souhaite enfin exprimer ma reconnaissance envers ma famille pour leur soutien durant ma reprise d'étude. Et je souhaite particulièrement remercier mon compagnon, Steven Boehm, pour m'avoir sans cesse encouragé, et qui a passé beaucoup de temps dans la relecture de ce mémoire.
    
 	% bibliographie ici
-	\printbibliography
+        \chapter{Bibliographie}       
+        \printbibliography[keyword={schisme},title={Contexte historique}]
+        \printbibliography[keyword={datamodeling},title={Modélisation de données}]
+        \printbibliography[keyword={technique},title={Technologies numériques}]
+        \printbibliography[keyword={perennisation},title={Pérennisation de données}]
 	
-	\chapter{Introduction}
+
+    \include{Introduction}
 	
 	\thispagestyle{empty}
 	\cleardoublepage
@@ -186,15 +196,20 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
     \include{Templates/Part1/Chapter2}
     \include{Templates/Part1/Chapter3}
 	
-	\part{Enjeux des choix technologiques, ou le \textit{system modeling language}}
+	\part{Enjeux des choix technologiques, ou le \textit{system modeling}}
     
     \include{Templates/Part2/Chapter4}
     \include{Templates/Part2/Chapter5}
 
     \part{Pérennisation des données}
-	
-	\chapter*{Conclusion}
-	\addcontentsline{toc}{chapter}{Conclusion}
+        \include{Templates/Part3/Chapter6}
+    \chapter*{Conclusion}
+	La réflexion autour de la gestion d’un projet sur le long terme peut se découper en trois grands enjeux.\\
+Le premier est la modélisation de données, qui détermine le modèle de données utilisé et les moyens de récupération des données. On constate rapidement les difficultés afin de récupérer les données auprès des projets d’humanités numériques déjà existants.\\
+Le deuxième concerne les choix technologiques pour ce projet. Ceux-ci posent des questions primordiales autour de la durabilité des technologies et à quel point nous en sommes dépendants. Il est impossible de prédire exactement quelle technologie va subsister et laquelle va disparaître, surtout dans un contexte où les outils numériques se développent et/ou changent rapidement.\\ 
+Le troisième enjeu concerne la pérennisation du projet. Penser l’après-projet, le maintien et l’archivage du projet et des données est une difficulté à laquelle sont confrontés les projets d’humanités numériques en général. Plusieurs solutions sont possibles, notamment d’utiliser des logiciels \textit{OpenSource}, utiliser des solutions de sauvegarde dans un \textit{cloud} et préparer une documentation précise du projet.\\
+
+Le projet du schisme alexandrin est donc un bon exemple de la difficulté de gérer un projet en humanités numériques. En effet, les chercheurs et développeurs sont très vite confrontés à ce dilemme entre souhaité innover, développer de nouveaux outils, et dans le même temps penser à la préservation des données et des logiciels qui permettent de faire fonctionner la plateforme.
 	
 	%les annexes
 	\appendix
@@ -209,17 +224,15 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
         
 	\chapter[Extraction des lieux]{Script python pour extraire les lieux et leur géolocalisation des fichiers XML}
             \input{Templates/Annexes/Python_script_location_extract}
+
+        \chapter{Statistiques concernant l'utilisation du langage Ruby}
+            \input{Templates/Annexes/Ruby_stats}
 	
 	\backmatter
 
-% index à mettre ici si index	
-%	\printindex
-
-% glossaire si glossaire
-%	\printglossaries
 
 % si figures
-%	\listoffigures
+ \listoffigures
 
 % si tables
 %	\listoftables
