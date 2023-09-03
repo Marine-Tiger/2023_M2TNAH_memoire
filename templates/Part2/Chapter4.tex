@@ -20,14 +20,13 @@ Les données concernées sont pour une majorité d’entre elles au format XML. 
     
 \end{itemize}
 
-\noindent Une base de données orientée document est un choix intéressant si le projet se concentre principalement sur la structure du document et à l’information qu’il contient. Elle permet de faire des recherches grâce aux balises. En revanche, plusieurs limites apparaissent en utilisant ce type de base de données:\\ 
+\noindent Une base de données orientée document est un choix intéressant si le projet se concentre principalement sur la structure du document et à l’information qu’il contient. Elle permet de faire des recherches grâce aux balises, ce qui est spécifique aux bases de données XML. En revanche, plusieurs limites apparaissent en utilisant ce type de base de données:\\ 
 
 \begin{itemize}
-    \item être très vigilant sur la normalisation des noms de personnes et de lieux afin d’éviter les doublons. Cela vaut également si l’on veut ajouter des noms grâce à un formulaire par exemple. Il est possible d’éviter les erreurs grâce aux attributs, mais cela signifie prendre du temps pour vérifier que les attributs soient entrés correctement
-    \item difficile de représenter des relations entre les personnes (liens familiaux par exemple) ou entre les personnes et les lieux. C’est bien évidemment possible, mais c’est un travail fastidieux qui demande de créer un fichier séparé pour l’ensemble des relations, qui apparaissent dans les attributs.
-    
+    \item Il faudra être très vigilant sur la normalisation des noms de personnes et de lieux afin d’éviter les doublons. Cela vaut également si l’on veut ajouter des noms grâce à un formulaire par exemple. Il est possible d’éviter les erreurs grâce aux attributs, mais cela signifie prendre du temps pour vérifier que les attributs soient entrés correctement
+    \item Représenter des relations entre les personnes (liens familiaux par exemple) ou entre les personnes et les lieux devient complexe. C’est bien évidemment possible, mais c’est un travail fastidieux qui demande de créer des fichiers séparés pour l’ensemble des relations, qui apparaissent dans les attributs.
 \end{itemize}
-
+%En gros, si on souhaite voir les relations, il est nécessaire de créer et maintenir des index, dont les contraintes sont faites par des humains ==> plus de chances d'y avoir des erreurs
     
     \subsection{Les bases de données relationnelles}
 
@@ -42,17 +41,25 @@ Un des avantages majeur à choisir une base de données relationnelle est de pou
 \end{itemize}
 
 \noindent Plus les contraintes sont précises et capturent la réalité du monde dans lequel s’inscrivent les données, plus vous serez capables d’identifier des incohérences dans vos jeux de données.\\
-Autre avantage non négligeable des bases relationnelles : les relations elles-mêmes. Bien qu’il soit possible d’émuler un système relationnel dans une base documents, cela reste bien moins puissant que ce qu’ont à offrir les bases relationnelles et bien plus complexe à mettre en œuvre et maintenir.
+Autre avantage non négligeable des bases relationnelles : les relations elles-mêmes. Bien qu’il soit possible d’émuler un système relationnel dans une base documents, cela reste bien moins puissant que ce peut offrir les bases relationnelles et bien plus complexe à mettre en œuvre et maintenir.
 Avec une extension pour la gestion des données géospatiales (PostGIS pour PostgreSQL par exemple), on peut imaginer la fonctionnalité suivante : requêter la base pour obtenir les tracés en GeoJSON des pays/régions administrés par des souverains soutenant Alexandre III chaque année de 1159 à 1181. Ces données permettraient de construire une carte intéractive des nations soutenant Alexandre III au cours de son exercice.
-
 
     
     \subsection{De nouvelles perspectives? Les bases de données graphe}
 
+Une base de données orientée graphe est un modèle où la structure des données est représentée sous forme d’un graphe\footnote{Angles Renzo, Gutierrez Claudio, \textit{Survey of graph database models}, 2008, 39 pages, p5, https://doi.org/10.1145/1322432.1322433.}. Elle peut être utilisée lorsque l’on considère que les relations entre nos données sont au moins aussi importantes que les données elles-mêmes. Une base de données graphe permet de représenter le texte de la même manière que le XML le permet. En effet, un document XML a une structure conceptuelle d’arbre (XML Tree) et les arbres sont des graphes acycliques (https://www.kosbie.net/cmu/fall-18/15-110/notes/trees-and-graphs.pdf Data Structures:  Trees and Graphs - David Kosbie, Teaching Professor School of Computer Science Carnegie Mellon University ). 
 
-Une base de données orientée graph est un modèle où la structure des données est représentée sous forme d’un graphe\footnote{Angles Renzo, Gutierrez Claudio, \textit{Survey of graph database models}, 2008, 39 pages, p5, https://doi.org/10.1145/1322432.1322433.}. Elle peut être utilisée s’il est envisagé de considérer les relations et les informations tout aussi importantes. Une base de données graphe représente le texte comme une sorte de réseau où il est possible de naviguer grâce aux nœuds dans le texte. Si on prend le format XML TEI ou CEI, les nœuds correspondent aux balises.
 
-Exemple issu du Regesta Imperii de Frédéric III
+\begin{figure}[H]
+%centrer l'image
+    \centering
+    %commande qui permet de charger une image
+    \includegraphics[width=14cm]{images/RI_graph.png}
+    %légende
+    \caption{Exemple de visualisation graphe}
+    %label
+    \label{fig:schemadonneessauvegarde}
+\end{figure}
 
 → présente une bonne visualisation de données. Alternative du XML?
 → problème: principalement  Neo4j comme base de données. Pour un projet aussi long, peut-être pas le plus sûr. Mais comme 18 ans de projet, peut être envisagé faire des tests.

@@ -1,0 +1,45 @@
+\lstset{style=mystyle}
+\begin{lstlisting}[language=Python]
+
+import xml.etree.ElementTree as ET
+import glob
+from pathlib import Path
+import csv
+from collections import defaultdict
+
+directory = '/home/marine/Documents/RIV_Friedrich1_1122-1190/RIV_Friedrich1_1172-1185'
+
+with open('1172-1185_places.csv', 'w', newline='') as f:
+    
+    writer = csv.writer(f)
+
+    headers = ['date_start', 'date_end', 'place', 'latitude', 'longitude']
+
+    writer.writerow(headers)
+
+    xml_files_list = list(map(str,Path(directory).glob('**/*.xml')))
+    for xml_file in xml_files_list:
+        tree = ET.parse(xml_file)
+        root = tree.getroot()
+
+        data_list=[]
+        issued_tag = root.find('.//issued')
+
+        if issued_tag is not None:
+            date = issued_tag.find('.//dateRange')
+            place = issued_tag.find('.//placeName')
+            coordinate = issued_tag.find('.//geo')
+            if place is not None:
+                data_list.insert(2, place.text)
+                if date is not None:
+                    date_from = date.get('from')
+                    date_to = date.get('to')
+                    data_list.insert(0, date_from)
+                    data_list.insert(1, date_to)
+                if coordinate is not None:
+                    txt= coordinate.text
+                    x = txt.split(',')
+                    data_list.insert(3, x[0])
+                    data_list.insert(4, x[1])
+
+\end{lstlisting}

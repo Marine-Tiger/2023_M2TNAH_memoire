@@ -46,8 +46,22 @@ Si l’on veut ajouter une charte, cela prendrait la forme suivante :
     \section{Formats et transformation des données}
 
 L’autre enjeu de la récupération des données est leur intégration au projet. Il est nécessaire de réfléchir en amont à un modèle de données et au format souhaité. Tout dépendra également de ce que l’on veut faire des données. Nous allons évoquer ici le format XML CEI, adopté pour les fichiers du RI Online. 
-Un des objectifs de ce projet est de proposer un nouveau schéma CEI pour améliorer l’ancien qui n’a pas été mis à jour depuis plusieurs années. On commencera par analyser les fichiers XML du RI online afin d’identifier des améliorations possibles. Nous avons réuni les données au sein d’une base de données BaseX. Le choix de la base a été motivé par la familiarité qu’avaient les membres du projet avec cette technologie. En étudiant les fichiers du RI Online, plusieurs problèmes apparaissent.
+Un des objectifs de ce projet est de proposer un nouveau schéma CEI pour améliorer l’ancien qui n’a pas été mis à jour depuis plusieurs années. On commencera par analyser les fichiers XML du RI online afin d’identifier des améliorations possibles. Nous avons réuni les données au sein d’une base de données BaseX. Le choix de la base a été motivé par la familiarité qu’avaient les membres du projet avec cette technologie. 
 
+\lstset{style=mystyle}
+\begin{lstlisting}[language=XML]
+<document>
+{
+for $location in collection("/home/marine/Documents/RIV_Friedrich1_1122-1190/")//issuePlace
+return
+
+<place>{$location/placeName[@key]/text() }</place>
+}
+
+</document>
+\end{lstlisting}
+
+Une fois que le nouveau schéma CEI aura été défini, il sera alors possible de convertir les fichiers d’origine vers le nouveau standard à l’aide de XSLT, une technologie dédiée à la transformation de documents XML. 
 
 
     \section{Mise à jour de la donnée}

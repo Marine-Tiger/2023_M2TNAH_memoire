@@ -10,6 +10,48 @@
 \usepackage{graphicx}
 %pour le code
 \usepackage{listings}
+\usepackage{xcolor}
+
+\lstdefinelanguage{XML}
+{
+  morestring=[b]",
+  morestring=[s]{>}{<},
+  morecomment=[s]{<?}{?>},
+  stringstyle=\color{black},
+  identifierstyle=\color{blue},
+  keywordstyle=\color{orange},
+  morekeywords={xmlns,version,type}% list your attributes here
+}
+
+%paquet pour le mode paysage
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{pdfpages}
+
+%New colors defined below
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+%Code listing style named "mystyle"
+\lstdefinestyle{mystyle}{
+  backgroundcolor=\color{backcolour}, commentstyle=\color{codegreen},
+  keywordstyle=\color{teal},
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2
+}
 
 \usepackage{float}
 
@@ -140,26 +182,33 @@ pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc
 	% possibilité d'avoir un document main.tex peu rempli, et chaque partie appelée par \input{} par exemple
 	\part{Modélisation de données}
  
-    \include{Part1/Chapter1}
-    \include{Part1/Chapter2}
-    \include{Part1/Chapter3}
+    \include{Templates/Part1/Chapter1}
+    \include{Templates/Part1/Chapter2}
+    \include{Templates/Part1/Chapter3}
 	
 	\part{Enjeux des choix technologiques, ou le \textit{system modeling language}}
     
-    \include{Part2/Chapter4}
-    \include{Part2/Chapter5}
+    \include{Templates/Part2/Chapter4}
+    \include{Templates/Part2/Chapter5}
 
     \part{Pérennisation des données}
-	
-	%etc.
-	
 	
 	\chapter*{Conclusion}
 	\addcontentsline{toc}{chapter}{Conclusion}
 	
 	%les annexes
 	\appendix
-	\chapter[Titre court]{Le titre très long de la première annexe}
+
+        \chapter[Etat de l'existant]{Etat des lieux des ressources existantes}
+            \begin{landscape}
+                 \includepdf[landscape=true]{Templates/Annexes/Corpus_ressources.pdf}
+            \end{landscape}
+
+        \chapter[Schéma XML CEI]{Exemple d'un fichier XML CEI issu du RI Online}
+            \input{Templates/Annexes/Example_xml}
+        
+	\chapter[Extraction des lieux]{Script python pour extraire les lieux et leur géolocalisation des fichiers XML}
+            \input{Templates/Annexes/Python_script_location_extract}
 	
 	\backmatter
 
